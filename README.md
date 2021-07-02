@@ -3,6 +3,8 @@ AES - Ancient Egyptian Sentences; Corpus of Ancient Egyptian sentences for corpu
 
 This corpus contains more than 100,000 sentences in transcription, translation, lemmatization, and partly with Hieroglyphic and morpho-syntactical encodings.
 
+This has been adapted by Jordan Furutani and code in various scripts added to provide some search capacities.
+
 ## source
 [AED-TEI](https://github.com/simondschweitzer/aed-tei), a corpus of more than 11,000 Ancient Egyptian texts, which is based on [Teilauszug der Datenbank des Vorhabens "Strukturen und Transformationen des Wortschatzes der ägyptischen Sprache" vom Januar 2018](https://nbn-resolving.org/urn:nbn:de:kobv:b4-opus4-29190) with contributions of Burkhard Backes, Susanne Beck, Anke Blöbaum, Angela Böhme, Marc Brose, Adelheid Burkhardt, Roberto A. Díaz Hernández, Peter Dils, Roland Enmarch, Frank Feder, Heinz Felber, Silke Grallert, Stefan Grunert, Ingelore Hafemann, Anne Herzberg, John M. Iskander, Ines Köhler, Maxim Kupreyev, Renata Landgrafova, Verena Lepper, Lutz Popko, Alexander Schütze, Simon Schweitzer, Stephan Seidlmayer, Gunnar Sperveslage, Susanne Töpfer, Doris Topmann, Anja Weber
 
