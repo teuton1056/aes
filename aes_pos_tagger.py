@@ -49,7 +49,7 @@ def untag(tagged_sentence):
 
 def main(token_list):
 	all_data = get_data_from_file()
-	# take off half of the sentences
+	# take off a third of the sentences
 	i = len(all_data)//3
 	data = all_data[:i]
 	#extract tagged sentences from the syntax data
