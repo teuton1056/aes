@@ -36,7 +36,7 @@ def convert_corpus(data):
 			corpus.append(s)
 	print(corpus[0][0].keys())
 	print(f"A total of {total} sentences have been converted")
-	with open('corpus.conllu','w',encoding='utf-8') as fp:
+	with open('corpus.conllu','w',encoding='utf-8',newline='') as fp:
 		for sentence in corpus:
 			fp.write(sentence.serialize())
 	print("All Sentence Written")
@@ -54,6 +54,12 @@ def convert_sentence(aes_sentence,upos_conversion_table,con):
 		for char in original:
 			if char == '_':
 				new += '-'
+			elif char == '=':
+				new += '⸗'
+			elif char == '\n' or char == '\r':
+				new += ' '
+			elif char == '\t':
+				new += ' '
 			else:
 				new += char
 		return new
@@ -61,13 +67,13 @@ def convert_sentence(aes_sentence,upos_conversion_table,con):
 	new_tokens = []
 	# get sentence meta_data:
 	metadata = {}
-	metadata['sentid'] = aes_sentence['sentence_id']
+	metadata['sent_id'] = aes_sentence['sentence_id']
 	metadata['corpus'] = aes_sentence['corpus']
 	metadata['src_text_id'] = aes_sentence['text']
-	metadata['src_text'] = lookup_tid(aes_sentence['text'],con)
+	metadata['src_text'] = escape_underscore(lookup_tid(aes_sentence['text'],con))
 	metadata['owner'] = aes_sentence['owner']
 	try:
-		metadata['text_de'] = aes_sentence['sentence_translation']
+		metadata['text_de'] = escape_underscore(aes_sentence['sentence_translation'])
 	except Exception:
 		print('No Translation')
 	try:
@@ -104,7 +110,7 @@ def convert_sentence(aes_sentence,upos_conversion_table,con):
 			this_token['lemma'] = '_'
 		try:
 			this_token['misc'] = {
-				'Translit':token['lemma_form']
+				'Translit':escape_underscore(token['lemma_form'])
 			}
 		except:
 			pass
@@ -179,8 +185,8 @@ def convert_sentence(aes_sentence,upos_conversion_table,con):
 				features['PronType'] = 'Int'
 			elif token['pronoun'] == 'relative_pronoun':
 				features['PronType'] = 'Rel'
-		
-		this_token['features'] = features
+		if features != {}:
+			this_token['features'] = features
 		this_token['head'] = '_'
 		this_token['deprel'] = '_'
 		this_token['deps'] = '_'
