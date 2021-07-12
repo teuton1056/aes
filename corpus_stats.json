@@ -1,0 +1,103 @@
+{
+	"bbawamarna": {
+		"Total Number of Sentences": 510,
+		"Total Words": 4093,
+		"Dates": {
+			"unknown": 1,
+			"NK": 509
+		},
+		"Average Sentence Length": 8.025490196078431
+	},
+	"bbawgrabinschriften": {
+		"Total Number of Sentences": 2299,
+		"Total Words": 7992,
+		"Dates": {
+			"OK & FIP": 2291,
+			"unknown": 8
+		},
+		"Average Sentence Length": 3.476294040887342
+	},
+	"bbawgraeberspzt": {
+		"Total Number of Sentences": 189,
+		"Total Words": 841,
+		"Dates": {
+			"TIP - Roman times": 189
+		},
+		"Average Sentence Length": 4.449735449735449
+	},
+	"bbawhistbiospzt": {
+		"Total Number of Sentences": 354,
+		"Total Words": 2605,
+		"Dates": {
+			"TIP - Roman times": 350,
+			"unknown": 4
+		},
+		"Average Sentence Length": 7.358757062146893
+	},
+	"bbawpyramidentexte": {
+		"Total Number of Sentences": 93,
+		"Total Words": 811,
+		"Dates": {
+			"OK & FIP": 93
+		},
+		"Average Sentence Length": 8.720430107526882
+	},
+	"bbawtempelbib": {
+		"Total Number of Sentences": 481,
+		"Total Words": 4278,
+		"Dates": {
+			"unknown": 16,
+			"TIP - Roman times": 465
+		},
+		"Average Sentence Length": 8.893970893970893
+	},
+	"bbawtotenlit": {
+		"Total Number of Sentences": 2655,
+		"Total Words": 18959,
+		"Dates": {
+			"TIP - Roman times": 2655
+		},
+		"Average Sentence Length": 7.140866290018832
+	},
+	"sawlit": {
+		"Total Number of Sentences": 4641,
+		"Total Words": 31164,
+		"Dates": {
+			"MK & SIP": 2756,
+			"NK": 1608,
+			"TIP - Roman times": 226,
+			"OK & FIP": 51
+		},
+		"Average Sentence Length": 6.714932126696833
+	},
+	"sawmedizin": {
+		"Total Number of Sentences": 5067,
+		"Total Words": 29346,
+		"Dates": {
+			"MK & SIP": 3896,
+			"NK": 1055,
+			"TIP - Roman times": 103,
+			"unknown": 13
+		},
+		"Average Sentence Length": 5.791592658377739
+	},
+	"smaek": {
+		"Total Number of Sentences": 7,
+		"Total Words": 46,
+		"Dates": {
+			"unknown": 2,
+			"NK": 5
+		},
+		"Average Sentence Length": 6.571428571428571
+	},
+	"tuebingerstelen": {
+		"Total Number of Sentences": 108,
+		"Total Words": 387,
+		"Dates": {
+			"NK": 46,
+			"MK & SIP": 53,
+			"unknown": 9
+		},
+		"Average Sentence Length": 3.5833333333333335
+	}
+}
