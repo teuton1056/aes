@@ -4,22 +4,37 @@ import json
 from conllu import TokenList
 import html
 import time
+import csv
+import tqdm
 
 def load_conversion_tables():
 	with open('upos_aes.json','r') as fp:
 		upos_conversion_table = json.load(fp)
 	return upos_conversion_table
 
+def get_concordance():
+	with open('concordance_name_text_id.csv','r',newline='',encoding='utf-8') as fp:
+		reader = csv.reader(fp,delimiter='\t')
+		return list(reader)
+
+def lookup_tid(tid,source):
+	for line in source:
+		if line[1] == tid:
+			return html.unescape(line[0])
+	return 'n/a'
+
 def convert_corpus(data):
 	t = time.time()
 	uct = load_conversion_tables()
+	con = get_concordance()
 	total = 0
 	corpus = []
-	for sentence in data:
+	for sentence in tqdm.tqdm(data):
 		if check_sentence(sentence):
 			total += 1
-			s = convert_sentence(sentence,uct)
+			s = convert_sentence(sentence,uct,con)
 			corpus.append(s)
+	print(corpus[0][0].keys())
 	print(f"A total of {total} sentences have been converted")
 	with open('corpus.conllu','w',encoding='utf-8') as fp:
 		for sentence in corpus:
@@ -33,13 +48,23 @@ def check_sentence(aes_sentence):
 			return False
 	return True
 
-def convert_sentence(aes_sentence,upos_conversion_table):
+def convert_sentence(aes_sentence,upos_conversion_table,con):
+	def escape_underscore(original):
+		new = ''
+		for char in original:
+			if char == '_':
+				new += '-'
+			else:
+				new += char
+		return new
+
 	new_tokens = []
 	# get sentence meta_data:
 	metadata = {}
 	metadata['sentid'] = aes_sentence['sentence_id']
 	metadata['corpus'] = aes_sentence['corpus']
 	metadata['src_text_id'] = aes_sentence['text']
+	metadata['src_text'] = lookup_tid(aes_sentence['text'],con)
 	metadata['owner'] = aes_sentence['owner']
 	try:
 		metadata['text_de'] = aes_sentence['sentence_translation']
@@ -57,7 +82,18 @@ def convert_sentence(aes_sentence,upos_conversion_table):
 	id_int_number = 1
 	tokens = []
 	for token in aes_sentence['token']:
-		this_token = {}
+		this_token = {
+			'id':None,
+			'form':None,
+			'lemma':None,
+			'upos':None,
+			'xpos':None,
+			'features':None,
+			'head':None,
+			'deprel':None,
+			'deps':None,
+			'misc':None,
+		}
 		this_token['id'] = id_int_number 
 		id_int_number += 1
 		# form and lemma
@@ -66,17 +102,22 @@ def convert_sentence(aes_sentence,upos_conversion_table):
 			this_token['lemma'] = token['lemmaID']
 		except:
 			this_token['lemma'] = '_'
-
+		try:
+			this_token['misc'] = {
+				'Translit':token['lemma_form']
+			}
+		except:
+			pass
 		# upos and xpos
+		upos = '_'
+		xpos = '_' # set default values
 		if 'pos' in token.keys():
-			xpos = token['pos']
+			xpos = escape_underscore(token['pos']) # try to change xpos
 			try:
-				upos = upos_conversion_table[xpos]
+				upos = upos_conversion_table[xpos] # try to change upos
 			except Exception:
-				upos = '_'
-		else:
-			upos = '_'
-			xpos = '_'
+				pass
+			
 		this_token['upos'] = upos
 		this_token['xpos'] = xpos
 
@@ -138,11 +179,12 @@ def convert_sentence(aes_sentence,upos_conversion_table):
 				features['PronType'] = 'Int'
 			elif token['pronoun'] == 'relative_pronoun':
 				features['PronType'] = 'Rel'
+		
 		this_token['features'] = features
 		this_token['head'] = '_'
 		this_token['deprel'] = '_'
 		this_token['deps'] = '_'
-		this_token['misc'] = '_'
+		#this_token['misc'] = '_'
 		new_tokens.append(this_token)
 	new_sentence = TokenList(new_tokens)
 	new_sentence.metadata = metadata

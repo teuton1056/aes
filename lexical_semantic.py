@@ -80,24 +80,6 @@ def compare_sentence_date(contextA,contextB):
 	print(sentence_datesA)
 	print(sentence_datesB)
 
-	# graph
-	AOKFIP = sentence_datesA['OK & FIP']
-	AMKSIP = sentence_datesA['MK & SIP']
-	ANKSIP = sentence_datesA['NK']
-	ATIPRO = sentence_datesA['TIP - Roman times']
-
-	BOKFIP = sentence_datesB['OK & FIP']
-	BMKSIP = sentence_datesB['MK & SIP']
-	BNKSIP = sentence_datesB['NK']
-	BTIPRO = sentence_datesB['TIP - Roman times']
-
-	print([AOKFIP,AMKSIP,ANKSIP,ATIPRO])
-	print([BOKFIP,BMKSIP,BNKSIP,BTIPRO])
-
-	plt.plot([AOKFIP,AMKSIP,ANKSIP,ATIPRO],'r')
-	plt.plot([BOKFIP,BMKSIP,BNKSIP,BTIPRO],'b')
-	plt.show()
-
 def main(A,B):
 	compare_two_words(A,B)
 
