@@ -1,0 +1,22 @@
+# sent_id = IBUBdWGgJmy9O00fm6P7eejEQ9k
+# corpus = bbawgrabinschriften
+# src_text_id = 3L2JXAT4IBDGNIL2T2CBPH6IAY
+# src_text = bbawgrabinschriften:Nordwand//unterstes Register
+# owner = Stefan Grunert
+# text_de = Die (Domäne) 'Sahure möge gedeihen', die oberägyptische (Domäne) 'Cheops erscheint', die (Domäne) 'Das, was Ptah gemacht hat', die (Domäne) unterägyptische 'Cheops erscheint', die (Domäne) 'Gut des Ka', die (Domäne) 'Angesehen sind die Bas des Neferirkare', die (Domäne) 'Gründung des Anch-Schepseskaf', die (Domäne) 'Hebenenet-Brot des Ii-mery', die (Domäne) 'Das Röstgetreide des Ii-meri', die (Domäne) 'Der Wein des Ii-meri'.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.66⁝1] -  [Text 2.66⁝10]
+1	𓇳𓃃𓅱𓍯𓆓𓇳	450520	PROPN	entity-name	_	_	_	_	Translit=Wꜣḏ-Sꜣḥ.w-Rꜥw
+2	𓎸𓃞𓐍𓅱𓆑𓈍	450521	PROPN	entity-name	_	_	_	_	Translit=Ḫꜥi̯-H̱nm.w-Ḫwi̯⸗f-wj
+3	𓊖𓂝𓇔	450522	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥ-rs.j
+4	𓊪𓏏𓎛𓁹𓏏𓊖	450524	PROPN	entity-name	_	_	_	_	Translit=Jr.t-Ptḥ
+5	𓎸𓃝𓐍𓅱𓆑𓈍	450521	PROPN	entity-name	_	_	_	_	Translit=Ḫꜥi̯-H̱nm.w-Ḫwi̯⸗f-wj
+6	𓊖𓂝𓎕𓏏	450523	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥ-mḥ.tj
+7	𓉞𓏏𓂓𓎺𓇋𓇳	450525	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-kꜣ
+8	𓇳𓄤𓁹𓂓𓍯𓈙𓅢𓊖	450526	PROPN	entity-name	_	_	_	_	Translit=Wꜣš-bꜣ.w-Nfr-jr-kꜣ-Rꜥw
+9	𓀻𓋴𓋴𓂓𓆑𓋹𓈙𓏏𓊖	450527	PROPN	entity-name	_	_	_	_	Translit=Grg.t-ꜥnḫ-Špss-kꜣ⸗f
+10	𓇍𓌸𓇋𓇋𓎛𓃀𓈖𓈖𓏏𓇳𓊖	450528	PROPN	entity-name	_	_	_	_	Translit=Ḥbnn.t-Jj-mr.y
+11	𓇍𓌸𓇋𓇋𓂝𓊪𓏏𓇠𓊖	450529	PROPN	entity-name	_	_	_	_	Translit=Ꜥg.t-Jj-mr.y
+12	𓇍𓌸𓇋𓇋𓇋𓂋𓏏𓌦𓊖	450530	PROPN	entity-name	_	_	_	_	Translit=Jꜣrr.wt-Jj-mr.y
+

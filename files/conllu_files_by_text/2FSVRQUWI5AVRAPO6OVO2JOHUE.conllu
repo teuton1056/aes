@@ -1,0 +1,91 @@
+# sent_id = IBUBdQiRFKmtFE1GvitcrtMwmf4
+# corpus = sawlit
+# src_text_id = 2FSVRQUWI5AVRAPO6OVO2JOHUE
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20040)//〈Stele des Amenemhet (Kairo CG 20040)〉
+# owner = Alexander Schütze
+# text_de = Ach, möge ich Upuaut sehen, wenn er als Gott aufgeht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+2]
+1	𓇋𓐍𓏛	30730	PART	particle	_	_	_	_	Translit=jḫ
+2	𓌴𓁹𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓄋𓈐𓏥𓁢	45580	PROPN	entity-name	_	_	_	_	Translit=Wp-wꜣ.wt
+5	𓅱𓃀𓈖𓇶	854500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbn
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdyWvC9L5WkoSmrgPsWdNd1U
+# corpus = sawlit
+# src_text_id = 2FSVRQUWI5AVRAPO6OVO2JOHUE
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20040)//〈Stele des Amenemhet (Kairo CG 20040)〉
+# owner = Alexander Schütze
+# text_de = Möge Mehun für mich seinen Arm ausstrecken, wenn er ⸢die Opfertische⸣ der Verklärten aus[sta]ttet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+3]
+1	𓍑𓄿𓏴	181780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓𓎛𓇬𓀀	74020	PROPN	entity-name	_	_	_	_	Translit=Mḥwn
+5	𓂣𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓋴𓊵𓏏𓊪	141120	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥtp
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓊯𓏪	113720	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḫꜣw.t
+10	𓋴𓂝𓎛𓃶𓏪	129120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ
+
+# sent_id = IBUBd85yOsNk6EJUkwT0qBmYDLg
+# corpus = sawlit
+# src_text_id = 2FSVRQUWI5AVRAPO6OVO2JOHUE
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20040)//〈Stele des Amenemhet (Kairo CG 20040)〉
+# owner = Alexander Schütze
+# text_de = Möge ich den Jubel hören, wenn der Feind beim Herauskommen des Sem-Priesters vernichtet wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+4]
+1	𓋴𓄔𓅓	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓉔𓏌𓀊	98730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hn.w
+4	𓋴𓈖𓇋𓀁𓎡𓀜	136680	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snjk
+5	𓋴𓃀𓇋𓌙𓀐	131530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbj
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉐𓂋𓏏𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+8	𓋴𓅓𓀀	134020	_	epitheton-title	_	_	_	_	Translit=sm
+
+# sent_id = IBUBdxCVBQUkQkTgj2sGVWuqFBg
+# corpus = sawlit
+# src_text_id = 2FSVRQUWI5AVRAPO6OVO2JOHUE
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20040)//〈Stele des Amenemhet (Kairo CG 20040)〉
+# owner = Alexander Schütze
+# text_de = Möge ich verklärt werden unter den Ach-Geistern (in) der Nacht des Haker-Festes, wenn der Nördliche Horus gesehen wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+5] - [x+6]
+1	𓐍𓅜𓏛𓏏	200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣḫ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓𓅓	64371	ADP	preposition	_	_	_	_	Translit=m-m
+4	𓅜𓏪	203	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣḫ
+5	𓎼𓂋𓎛𓄛	167920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓉔𓎡𓎱	97720	PROPN	entity-name	_	_	_	_	Translit=Hꜣkr
+8	𓌳𓁹𓅱	66270	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+9	𓅃𓎔𓏏𓏭𓈀	861089	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-mḥ.tj
+
+# sent_id = IBUBdzMpZanMK090lGyMPqrtKP0
+# corpus = sawlit
+# src_text_id = 2FSVRQUWI5AVRAPO6OVO2JOHUE
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20040)//〈Stele des Amenemhet (Kairo CG 20040)〉
+# owner = Alexander Schütze
+# text_de = Der Versorgte, der Vorsteher des $šnꜥ$, Amenemhet, der Gerechtfertigte, er sagt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+8] - [x+9]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓄓𓈙𓈖𓂝𓎩	72420	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-šnꜥ
+3	𓇋𓏠𓈖𓅓𓄂𓏏	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+5	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

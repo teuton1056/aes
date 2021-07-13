@@ -1,0 +1,73 @@
+# sent_id = IBUBd2SjdlpXxk9uuNISQwDiKe4
+# corpus = bbawgrabinschriften
+# src_text_id = PAUDHXGV4NA4VBPMPQXFINXOJ4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Bringen des Auserlesenen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.130]
+1	𓋴𓐍𓊪𓂻𓏏	141990	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫpi̯
+2	𓋴𓏏𓊪𓍉	148170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=stp.w
+
+# sent_id = IBUBd1Bcr4WdoEZ4iIfjApDVAJI
+# corpus = bbawgrabinschriften
+# src_text_id = PAUDHXGV4NA4VBPMPQXFINXOJ4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Totenpriester und Aufseher des Kupfererzes(?) Ni-Ptah.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.127]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓎼𓋴𓌉	400306	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥmt.j
+3	𓊪𓏏𓎛𓈖𓇋	400324	PROPN	entity-name	_	_	_	_	Translit=N.j-Ptḥ
+
+# sent_id = IBUBd1q7trVMWU6qlk8m17SkAN0
+# corpus = bbawgrabinschriften
+# src_text_id = PAUDHXGV4NA4VBPMPQXFINXOJ4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Totenpriester und Erzarbeiter Kai-em-anch.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.128]
+1	𓂘	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓎼	600034	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt.j
+3	𓎡𓅓𓋹	707649	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-m-ꜥnḫ
+
+# sent_id = IBUBd2n0Oo2KyEpKmZVeCWjgW5I
+# corpus = bbawgrabinschriften
+# src_text_id = PAUDHXGV4NA4VBPMPQXFINXOJ4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Leiter der Arbeitermannschaft
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.129]
+1	𓌂𓇩	450426	_	epitheton-title	_	_	_	_	Translit=ḫrp-jz.t
+2	𓎡𓇋𓇋	550213	PROPN	entity-name	_	_	_	_	Translit=Kꜣy
+
+# sent_id = IBUBd6up9w5DRUgcmaQkmPqqKxc
+# corpus = bbawgrabinschriften
+# src_text_id = PAUDHXGV4NA4VBPMPQXFINXOJ4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Herausnehmen des Auserlesenen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.131]
+1	𓄞𓂧𓏏	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+2	𓋴𓏏𓊪𓍉	148170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=stp.w
+
+# sent_id = IBUBd90Ndpb22k1QmxlQWbFDd3s
+# corpus = bbawgrabinschriften
+# src_text_id = PAUDHXGV4NA4VBPMPQXFINXOJ4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Tragen (von Jungtieren im Kasten).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.132]
+1	𓌳𓎗𓅱𓆓	67010	VERB	verb	_	_	_	_	Translit=mꜣwḏ
+

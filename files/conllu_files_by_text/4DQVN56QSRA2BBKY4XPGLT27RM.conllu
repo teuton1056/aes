@@ -1,0 +1,62 @@
+# sent_id = IBUBd2uY0cCY8kk6gHtxfNlXCuM
+# corpus = bbawgrabinschriften
+# src_text_id = 4DQVN56QSRA2BBKY4XPGLT27RM
+# src_text = bbawgrabinschriften:Ostwand//Szenenbeischriften (Backen und Brauen)
+# owner = Stefan Grunert
+# text_de = Das Sieben des Korns.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓂝𓆓𓏏	42000	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḏi̯
+2	𓇠	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBUBd4Q8NVQLdkTgtig2Kr91NdU
+# corpus = bbawgrabinschriften
+# src_text_id = 4DQVN56QSRA2BBKY4XPGLT27RM
+# src_text = bbawgrabinschriften:Ostwand//Szenenbeischriften (Backen und Brauen)
+# owner = Stefan Grunert
+# text_de = Das Herstellen der Vorräte für Seschem-nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓊠𓏏	48900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḥꜥ.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴𓌮𓄤	707086	PROPN	entity-name	_	_	_	_	Translit=Sšm-nfr
+
+# sent_id = IBUBd7Q22LqZeE2Nlpqo8l0dxK4
+# corpus = bbawgrabinschriften
+# src_text_id = 4DQVN56QSRA2BBKY4XPGLT27RM
+# src_text = bbawgrabinschriften:Ostwand//Szenenbeischriften (Backen und Brauen)
+# owner = Stefan Grunert
+# text_de = Das Durchsieben des Mehls.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓐟𓄿	126840	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜣr
+2	𓂧𓈋𓇠	450193	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dwḏw
+
+# sent_id = IBUBd3wIZnbfgEzGiC6pMIEMOZo
+# corpus = bbawgrabinschriften
+# src_text_id = 4DQVN56QSRA2BBKY4XPGLT27RM
+# src_text = bbawgrabinschriften:Ostwand//Szenenbeischriften (Backen und Brauen)
+# owner = Stefan Grunert
+# text_de = Das (Über)prüfen der Art des Teiges.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓏠𓏏	69760	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mn.t
+3	𓈙𓆓𓏏	158970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šḏ.t
+
+# sent_id = IBUBd1ijC0B8YE13strRQdG4aqE
+# corpus = bbawgrabinschriften
+# src_text_id = 4DQVN56QSRA2BBKY4XPGLT27RM
+# src_text = bbawgrabinschriften:Ostwand//Szenenbeischriften (Backen und Brauen)
+# owner = Stefan Grunert
+# text_de = Das Erhitzen
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓆑𓋴𓊮𓏏	62180	VERB	verb	VerbForm=Fin	_	_	_	Translit=psi̯
+

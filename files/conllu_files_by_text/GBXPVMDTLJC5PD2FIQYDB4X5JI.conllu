@@ -1,0 +1,262 @@
+# sent_id = IBcDNKeAA8Vok0OwhcZyfvsTlf4
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = (Überschrift:) Erfahrungswissen zur (visuellen) Betrachtung (wörtl.: des Betrachtens) eines Fisches.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [A/2]
+1	𓄄	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+3	𓆟	94160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rm
+
+# sent_id = IBcDNPUddZbtCkiQhr86AZv8os4
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = es gibt keine schmerzenden Stellen in/an ihnen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [H+C/7] - [H+C/8]
+1	𓂜𓃹𓈖𓏏	450141	PART	particle	_	_	_	_	Translit=n-wn.t
+2	𓏠𓈖𓏏𓏴𓏥	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcDNZ1APxx58UdotdK2hOfQTMs
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = Wenn er sich danach schnaubend (?) auf den Boden werfen will (oder: Wenn er danach widerstrebend (?) zu Boden gezwungen wird (?)), dann fällt er folglich/zwangsläufig dahin.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [20] - [22]
+1	𓇋𓂋𓅓𓆱𓐍𓏏	28350	ADV	adverb	_	_	_	_	Translit=jr-m-ḫt
+2	𓊪𓏏𓐍𓂻	63010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ptḫ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓍿𓈖𓀁	850318	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jṯn
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+7	𓐍𓂋𓀒𓐍𓂋	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcDNV6r0bRJi04Ekrx5OHtl5MM
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = (Diagnose:) Man sagt "geheimnisvolle Verbeugung" dazu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [22] - [23]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓎢𓋴𓅱𓀓𓏥	165450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ks.w
+4	𓇋𓏠𓈖𓅱𓀃𓏥	500080	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jmn
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcDNferyywJrkiJkW0hcje0JRs
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = (Behandlungsangaben:) Man rezitiere für ihn.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [23]
+1	𓄞𓂧𓏏𓀁	854561	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+2	𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcDNc1vWq3qk0zOs0e1LwFROVE
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = Dann muss ich folglich/notwendigerweise meine Hand ausstrecken zum Innern seiner $ḥmw$-Körperteile (oder: meine Hand in seine $ḥmw$-Körperteile hineinstrecken (wörtl.: hineinschießen));  (wobei) ein(e) Hin-Schale/Topf mit Wasser neben mir steht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [23] - [25]
+1	𓋴𓏏𓄝𓂡𓐍𓂋	854553	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sti̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄚	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+7	𓈟𓅓𓅱𓊦𓄹𓏥	104870	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥm.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓉔𓈖𓏌𓅱𓎺	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+12	𓂋𓐛𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+13	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcDNbQPjeAkGE3DsaD7vbruQrA
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = (Es) klebt (?) (oder: Es gibt Klebriges (?)) an der Hand, so dass/bis du gebackenes (d.h. geronnenes) Blut daraus ziehst (oder) eine (andere) Sache (d.h. etwas Festes) von dort oder Schleim (d.h. etwas Zähflüssiges).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [28] - [30]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈎𓏇𓇋𓄿𓂡	877814	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qmj
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄞𓂧𓂧	854561	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+9	𓈎𓆑𓈖𓊮	160470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qfn
+10	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+11	𓐍𓏏𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+12	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+13	𓎛𓊃𓅭𓄿𓇋𓇋𓈗	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+14	𓂋𓏤𓊪𓅱	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBcDNYRIIjebuUahg9bYqlIycHc
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = Du wirst erkennen, dass er gesund wird, weil/daran, dass der Schleim (d.h. Zähflüssiges) kommt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [31]
+1	𓋷𓀁	127840	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sjꜣ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓈖𓃀	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓂻𓅱	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+7	𓎛𓊃𓅭𓄿𓈗	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcDNVNSE45dkEhmlWSDxIsTEeM
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = (Überschrift:) Erfahrungswissen zur (visuellen) Betrachtung (wörtl.: des Betrachtens) eines (männlichen) Rindes mit der $nf.t$-Hauch/Luft/Wind-Krankheit.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [34]
+1	𓄃	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+3	𓂸𓃒	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓈖𓆑𓏏𓊡	83310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nf.t
+
+# sent_id = IBcDNVJX8fiWZ0O2nN9WPa6EOSg
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = (Behandlungsangaben:) Man rezitiere für ihn.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [39]
+1	𓄞𓂧	854561	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+2	𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcDNW5LgkJly0NUsy3n85rWVKw
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = Dann muss er folglich auf seine eine Seite gelegt werden;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [39] - [40]
+1	𓂋𓂞𓐍𓂋𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌡𓏤𓂝	600041	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBcDNahzUW3jCEgnjEQs3QNjfrc
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = dann muss man ihn folglich ständig mit kühlem Wasser besprengen;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [40]
+1	𓃹𓈖𓐍𓂋	400416	PART	particle	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn.ḫr
+2	𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈖𓏏𓈙𓈗	90100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ntš
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+8	𓈎𓃀𓏂𓈗	550102	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=qbb
+
+# sent_id = IBcDNQiUQfPrOEhilkhqtkE6GKE
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = Dann musst du folglich für ihn einen Einschnitt/Einstich (?) auf seiner Nase und seinem Schwanz vornehmen (wörtl.: dann musst du folglich einschneiden/einstechen auf ...).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [49] - [50]
+1	𓎼𓄿𓊪𓌪𓐍𓂋	877817	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gꜣp
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓂊𓏤	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+9	𓋴𓆓𓄢	149520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sd
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcDNb8RLqanW0mouGF4yMg7GEQ
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = Dann musst du folglich dazu (oder: über ihm) sagen: "Das ist 〈einer〉 mit einem Schnitt/Stich.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [50] - [51]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌨𓂋𓌫𓏏𓏤	124400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-dm.wt
+6	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcDNVDRdJsCiE9OndoS82skQsU
+# corpus = sawmedizin
+# src_text_id = GBXPVMDTLJC5PD2FIQYDB4X5JI
+# src_text = sawmedizin:Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)//〈Veterinärmedizinischer Papyrus Kahun LV.2 (London UC 32036)〉
+# owner = Peter Dils
+# text_de = (Entweder) er stirbt infolgedessen, (oder) er lebt infolgedessen."
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [51] - [52]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓏏𓀐	69300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mwt
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+12	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

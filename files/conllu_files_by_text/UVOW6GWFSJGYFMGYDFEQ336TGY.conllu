@@ -1,0 +1,128 @@
+# sent_id = IBUBdw1pYc8W20yogXDFtAf7Wgo
+# corpus = sawlit
+# src_text_id = UVOW6GWFSJGYFMGYDFEQ336TGY
+# src_text = sawlit:〈02. 〉oDeM 1014+1478//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Seine Finger sind wie die "Dinger" der Krokodile.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1, 10]
+1	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+2	𓆑𓏭	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓐍𓂋𓏏𓏛𓏫	30750	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jḫ.t
+5	𓅓𓋴𓎛𓃀𓏲𓆊𓏥	75590	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mzḥ
+
+# sent_id = IBUBdziKUTnjJ01BokIk1TAEv2E
+# corpus = sawlit
+# src_text_id = UVOW6GWFSJGYFMGYDFEQ336TGY
+# src_text = sawlit:〈02. 〉oDeM 1014+1478//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Jeder (Holz)handwerker, der mit dem Dechsel hantiert (wörtl.: den Dechsel greift), er ist müder als der (frondienstleistende) Feldarbeiter (mit der Hacke).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1, 11]
+1	𓍎𓏲𓏲𓏛𓀜	105480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmw.w
+2	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+3	𓅷𓄿𓇋𓇋𓂷𓂡	174260	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ṯꜣi̯
+4	𓂝𓈖𓏏𓍇𓈔𓏤𓈒𓏥	38120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥn.t
+5	𓅨𓂋𓂧𓏲𓀁𓅪	48260	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wrḏ
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓏠𓈖𓇋𓇋𓏏𓁃𓏛𓀜𓀀𓏥	70250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mny.tj
+
+# sent_id = IBUBd9n207mWnEiZpPYxqfSM3AY
+# corpus = sawlit
+# src_text_id = UVOW6GWFSJGYFMGYDFEQ336TGY
+# src_text = sawlit:〈02. 〉oDeM 1014+1478//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Sein Feld ist das Holz;
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1, 11]
+1	𓄿𓎛𓏏𓈇𓏫𓏏𓏲	191	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣḥ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆱𓏏𓏤𓆱	121200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫt
+
+# sent_id = IBUBdQWD6jU4P0EZtizOor8wRWY
+# corpus = sawlit
+# src_text_id = UVOW6GWFSJGYFMGYDFEQ336TGY
+# src_text = sawlit:〈02. 〉oDeM 1014+1478//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = seine Aufgabe/sein Geschäft (oder: sein Werkzeug?) ist das Beil.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1, 11]
+1	𓎛𓆰𓈖𓏌𓏲𓎨𓏛𓏥𓏏𓏲	106000	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓏇𓇋𓈔𓏤𓈒𓏥	68460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjnb
+
+# sent_id = IBUBd6LwgF4tvEmlqxssUtUQQ5E
+# corpus = sawlit
+# src_text_id = UVOW6GWFSJGYFMGYDFEQ336TGY
+# src_text = sawlit:〈02. 〉oDeM 1014+1478//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Beim Arbeiten hat er (schon) ein Vielfaches seiner Tätigkeit (wörtl.: seiner Arme) geleistet.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1, 12]
+1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓇉𓄿𓏲𓏛𓏥	101060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣ.w
+4	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂝𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+6	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+
+# sent_id = IBUBd3ukgyhzE0IWmCzoYELoLuc
+# corpus = sawlit
+# src_text_id = UVOW6GWFSJGYFMGYDFEQ336TGY
+# src_text = sawlit:〈02. 〉oDeM 1014+1478//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Am Zuhören erkennt man einen (guten) Schreiber, indem/weil Zuhören Tapferkeit entstehen läßt (oder: weil einer, der zuhört, einen Helden schafft).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2, 10]
+1	𓌴𓁹𓄿𓄿𓁻𓏏𓏲	66270	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓏞𓀀	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄔𓅓𓏛	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+5	𓋴𓆣𓂋𓏲	142050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫpr
+6	𓄔𓅓𓏛	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+7	𓉐𓂋𓂻𓂝𓏤𓀜	61070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr-ꜥ
+
+# sent_id = IBUBd6goqTlBbkAatqnII8OFrp4
+# corpus = sawlit
+# src_text_id = UVOW6GWFSJGYFMGYDFEQ336TGY
+# src_text = sawlit:〈02. 〉oDeM 1014+1478//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Treibe deine Beine zur Eile an (wörtl.: sei eilig, was deine Beine angeht), wenn du gehst!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2, 11]
+1	𓄿𓋴𓏏𓍬𓂻	266	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜣs
+2	𓂋𓂧𓂾𓂾𓄹	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+
+# sent_id = IBUBdWBKd7wI9U8PtZwf9GZSAVA
+# corpus = sawlit
+# src_text_id = UVOW6GWFSJGYFMGYDFEQ336TGY
+# src_text = sawlit:〈02. 〉oDeM 1014+1478//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Man wird sich ihr (d.h. der schlechten Rede?) nicht nähern.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2, 11]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓏏𓎢𓈖𓂻	173680	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tkn
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊃𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+

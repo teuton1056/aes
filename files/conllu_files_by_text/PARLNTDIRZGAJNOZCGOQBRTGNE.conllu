@@ -1,0 +1,40 @@
+# sent_id = IBUBd2DW5aLUcEJblq2jTqxa170
+# corpus = bbawgraeberspzt
+# src_text_id = PARLNTDIRZGAJNOZCGOQBRTGNE
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21b: 2. Nachtstunde, Tb 71 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBdWYV65qhhkvuntJi7wyvORQ
+# corpus = bbawgraeberspzt
+# src_text_id = PARLNTDIRZGAJNOZCGOQBRTGNE
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21b: 2. Nachtstunde, Tb 71 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Hati-a Patjenfi, löse dich.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [12] - [13]
+1	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+2	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
+3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+4	𓋴𓆑𓐍𓍼	133780	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sfḫ
+5	𓏏𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+
+# sent_id = IBUBd9x0pz1Pik3ak2rbk1dnkyk
+# corpus = bbawgraeberspzt
+# src_text_id = PARLNTDIRZGAJNOZCGOQBRTGNE
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21b: 2. Nachtstunde, Tb 71 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Gib dich zur Erde!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [13]
+1	𓇋𓅓𓂝	851706	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jmi̯
+2	𓏏𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+

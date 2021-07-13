@@ -1,0 +1,43 @@
+# sent_id = IBUBdQBwdV4DWkE2sitBl2bgNL4
+# corpus = sawlit
+# src_text_id = YNWS6O2HPVBI5NUA47IFTE2RBA
+# src_text = sawlit:Stele des Djedj-iqu (Berlin 1199)//〈Stele des Djedj-iqu (Berlin 1199)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified Djedj-iqu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓇋𓈎𓅱𓂝𓂝	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd43qiRk00U1bhMJmXcFmm30
+# corpus = sawlit
+# src_text_id = YNWS6O2HPVBI5NUA47IFTE2RBA
+# src_text = sawlit:Stele des Djedj-iqu (Berlin 1199)//〈Stele des Djedj-iqu (Berlin 1199)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved wife, Qehi, dignified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈎𓎛𓇋	_	X	unknown	_	_	_	_	_
+6	𓄪𓏏	25100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmꜣḫ.wt
+
+# sent_id = IBUBdzmIkklbWUIjmiVkn1jY06s
+# corpus = sawlit
+# src_text_id = YNWS6O2HPVBI5NUA47IFTE2RBA
+# src_text = sawlit:Stele des Djedj-iqu (Berlin 1199)//〈Stele des Djedj-iqu (Berlin 1199)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his beloved son Amenemhat
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓏠𓈖𓅓𓄂	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+

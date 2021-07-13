@@ -1,0 +1,38 @@
+# sent_id = IBUBd4POQJRg5058u2Gs2VMrCI4
+# corpus = bbawgrabinschriften
+# src_text_id = E5Z5654OJBCHZBXKZORMTASK64
+# src_text = bbawgrabinschriften:Portikus//Portikus: Südwand (Speisetischszene)
+# owner = Stefan Grunert
+# text_de = Vorsteher der Pyramidenstadt Horizont des Cheops, der Aufseher der Wab-Priester der (Pyramidenanlage) Horizont des Cheops, der durch Osiris Versorgte Tjetu
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Signalement⁝ 1] -  [3]
+1	𓐍𓅱𓆑𓅱𓅜𓏏𓐍𓏏𓉴𓅓𓂋𓊖𓏏	850923	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-nʾ.t-Ꜣḫ.t-Ḫwi̯⸗f-wj
+2	𓐍𓅱𓆑𓅱𓅜𓏏𓐍𓏏𓉴𓋴𓌉𓀆	850922	_	epitheton-title	_	_	_	_	Translit=sḥḏ-wꜥb.w-Ꜣḫ.t-Ḫwi̯⸗f-wj
+3	𓇋𓌳𓄪𓐍𓅱𓐍𓂋𓁹𓊨𓀭	850391	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-Wsjr
+4	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+
+# sent_id = IBUBd5luLmS3ukY5slsElZBBp3M
+# corpus = bbawgrabinschriften
+# src_text_id = E5Z5654OJBCHZBXKZORMTASK64
+# src_text = bbawgrabinschriften:Portikus//Portikus: Südwand (Speisetischszene)
+# owner = Stefan Grunert
+# text_de = Der Vorlesepriester Sa-meseh
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unteres Register, 2]
+1	𓎛𓌨𓃀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+2	𓅭𓅓𓊃𓎛	450768	PROPN	entity-name	_	_	_	_	Translit=Zꜣ-mzḥ
+
+# sent_id = IBUBdyr1TBh53Uc4ne947SPgwd8
+# corpus = bbawgrabinschriften
+# src_text_id = E5Z5654OJBCHZBXKZORMTASK64
+# src_text = bbawgrabinschriften:Portikus//Portikus: Südwand (Speisetischszene)
+# owner = Stefan Grunert
+# text_de = Der Vorlesepriester Pepi-iamu
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unteres Register, 3⁝1] -  [3⁝2]
+1	𓎛𓌨𓃀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+2	𓊪𓊪𓇋𓇋𓇋𓌳𓆭𓅓	701413	PROPN	entity-name	_	_	_	_	Translit=Ppy-jꜣm.w
+

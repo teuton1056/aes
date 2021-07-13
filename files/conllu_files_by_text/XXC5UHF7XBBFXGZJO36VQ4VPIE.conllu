@@ -1,0 +1,324 @@
+# sent_id = IBUBd0AAJD2WDEhQn9raAkW6s9Y
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The hereditary noble and local prince, seal-barer of the king, the sole friend, the trusted one of Horus lord of the palace, who does what he (⸗ Horus) praises every day, scribe of the royal register, Samontu, lord of dignity, says:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3] - [A.4]
+1	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+2	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+3	𓆤𓏏𓋨	400193	_	epitheton-title	_	_	_	_	Translit=ḫtm.tj-bj.tj
+4	𓋴𓍋𓌡𓂝	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+5	𓅃𓇋𓏶𓄣	859407	_	epitheton-title	_	_	_	_	Translit=jm.j-jb-Ḥr.w
+6	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+7	𓉦	39850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥ
+8	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+9	𓎿𓊃𓊃𓏏	109620	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḥzi̯
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+12	𓇓𓏏𓈖𓂝𓈖𓏟	550047	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜥ-n-nswt
+13	𓏠𓈖𓍿𓅱𓅭	_	X	unknown	_	_	_	_	_
+14	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+15	𓄪𓏤	25060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jmꜣḫ
+16	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3NEzWsTq0yMkg7MyeDTD00
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was a child who tied the fillet under His Majesty, (the one) who departed in peace, the king of Upper and Lower Egypt 𓍹Kheperkare𓍺 (⸗ Sesostris I), who lives for ever.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5] - [A.6]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓀔	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+3	𓋭	176800	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ṯꜣz
+4	𓋜	78670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḏḥ
+5	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+6	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓋴𓍑	150210	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḏꜣ
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+11	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+12	𓇳𓆣𓂓	400021	PROPN	entity-name	_	_	_	_	Translit=Ḫpr-kꜣ-Rꜥw
+13	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+14	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd9rXol18fkO2vBpZI38g86E
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His majesty appointed me as scribe of the prison of trial.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏞𓀀𓈖𓍕𓏏𓉐𓈖𓄔𓀀	860868	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-n-ḫnr.t-n.t-sḏm
+
+# sent_id = IBUBdzuFohiv9EMghSleMWjxQQ0
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = He praised me for it greatly.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎿𓈖	109620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥzi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅱	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋𓉻𓏏𓅨𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxJ4PLQrQUW9suRN6nKTwNo
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His majesty appointed me as (oder: versetzte mich zum) scribe of the cadaster,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓂋𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓏞𓀀𓈖𓍿𓌳𓐒	401063	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w-n-ṯmꜣ
+
+# sent_id = IBUBdzH6QKm6l0TGonPDgRLFFWM
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = and His Majesty praised me for it greatly.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8]
+1	𓎿	109620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥzi̯
+2	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓍛	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋𓉻𓏏𓅨𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd2QFAfFLLUC6iWI6jnlB2B8
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His majesty appointed me as a reckoner of full barley of Upper and Lower Egypt,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8]
+1	𓂋𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏴𓃀𓏛𓇠𓎔𓌽𓅓𓇓𓇉	860892	_	epitheton-title	_	_	_	_	Translit=ḥsb.w-jt-mh.j-m-Šmꜥ.w-Mḥ.w
+
+# sent_id = IBUBd9WXbkq44UQTroIW6Z18PBo
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = and His Majesty praised me for it greatly.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓎿	109620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥzi̯
+2	𓅱	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓍛	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋𓉻𓏏𓅨𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxz8ta5ntE6xidN6CSSiQt8
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His majesty appointed me as a scribe of the great prison,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅱	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏞𓀀𓈖𓍕𓏏𓉐𓉻	860870	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-n-ḫnr.t-ꜥꜣ.t
+
+# sent_id = IBUBdWUovGnT6E65iBdSxhOaaHE
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = and His Majesty praised me for it greatly.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.10]
+1	𓎿	109620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥzi̯
+2	𓅱	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋𓉻𓏏𓅨𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxLQ4H8vzUXntS8sUWPSLxA
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His Majesty appointed me as scribe of the royal register and overseer of works in the entire land.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.10] - [A.11]
+1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅱	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇓𓏏𓂝𓈖𓏟	550047	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜥ-n-nswt
+7	𓄓𓏤𓂓𓏏𓀋	850375	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-kꜣ.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+10	𓂋𓇥𓂋	92500	ADP	preposition	_	_	_	_	Translit=r-ḏr
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3pCZYIQKEsHn6pjjZ2HEb0
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified one, scribe of the royal register, Samontu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.12]
+1	𓇋𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓇓𓏏𓈖𓂝𓈖𓏟	550047	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜥ-n-nswt
+3	𓏠𓈖𓍿𓅱𓅭	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdyvbry5a1UilsEayeAzWDSY
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = A funerary meal. Bringing of choice pieces, ... and all vegetables.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓂧𓄑𓏏𓊵𓏏𓊪	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+2	𓋴𓐍𓊪𓏏𓂻	141990	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫpi̯
+3	𓍉𓊪𓏏𓄗	550337	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=stp.t
+4	𓄯𓎵𓏥	_	_	_	_	_	_	_	_
+5	𓆳𓇨	95030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.wt
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd9wZwh5zZkQDgpAlKQTUDSk
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved son, speaker of Nekhen, priest of Maat, who does what the Lord of the Two Lands praises, Meriankh, justified, lord of dignity.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓈘	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋𓊕𓊖	859313	_	epitheton-title	_	_	_	_	Translit=rʾ-Nḫn
+6	𓌳𓐚𓂝𓏏𓊹𓍛	850020	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-Mꜣꜥ.t
+7	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+8	𓎿𓊃𓊃𓏏	109620	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḥzi̯
+9	𓎟𓇿𓇿	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+10	𓌻𓂋𓇋𓋹	_	X	unknown	_	_	_	_	_
+11	𓌳𓐚𓂝𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+12	𓎟𓄪𓏤	81950	_	epitheton-title	_	_	_	_	Translit=nb-jmꜣḫ
+
+# sent_id = IBUBd10mRJxpP009jPHYWgaNQB0
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One dignified in front of Khontamenti, lord of Abydos, Meri, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓇋𓄪	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+3	𓏃𓏏𓊿	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+4	𓎟𓍋𓃀𓈋𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+5	𓌻𓂋𓇋	200006	PROPN	entity-name	_	_	_	_	Translit=Mrj
+6	𓐚𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd7c0HRzhhUkJiI84CaStU00
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Satsetjit.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅭𓏏𓋴𓏏𓄝𓇋𓇋𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdQzoQlLiUUDtkpxlbTuQkhI
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Senusret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+
+# sent_id = IBUBdxJiIMhSE0BlqWxF715irbE
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Samontu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏠𓈖𓍿𓅱𓅭	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7Bw5QrmJknfhFx75rUWwiI
+# corpus = sawlit
+# src_text_id = XXC5UHF7XBBFXGZJO36VQ4VPIE
+# src_text = sawlit:Stele des Sa-Montu (BM EA 828)//〈Stele des Sa-Montu (BM EA 828)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Neferu, lady of dignity.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.6]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄤𓄤𓄤	400495	PROPN	entity-name	_	_	_	_	Translit=Nfr.w
+4	𓎟𓏏𓄪𓏤	400170	_	epitheton-title	_	_	_	_	Translit=nb.t-jmꜣḫ
+

@@ -1,0 +1,91 @@
+# sent_id = IBUBdwBjD2k9a0mbtFoWSPZbPcU
+# corpus = bbawgrabinschriften
+# src_text_id = Y2GZHBUDQZA6JBAD4TGUI4IXPA
+# src_text = bbawgrabinschriften:unterer Teil//Bootsleute
+# owner = Stefan Grunert
+# text_de = Meni.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏠𓈖𓇋	450089	PROPN	entity-name	_	_	_	_	Translit=Mnj
+
+# sent_id = IBUBd8hJBOhU80V1tPN9zsIWq4c
+# corpus = bbawgrabinschriften
+# src_text_id = Y2GZHBUDQZA6JBAD4TGUI4IXPA
+# src_text = bbawgrabinschriften:unterer Teil//Bootsleute
+# owner = Stefan Grunert
+# text_de = Seine Frau Meruti-enes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓅱𓏏𓈖𓋴	713072	PROPN	entity-name	_	_	_	_	Translit=Mrw.t-n⸗s
+
+# sent_id = IBUBd0Tx98EFSEOqmSiGBi9BEcM
+# corpus = bbawgrabinschriften
+# src_text_id = Y2GZHBUDQZA6JBAD4TGUI4IXPA
+# src_text = bbawgrabinschriften:unterer Teil//Bootsleute
+# owner = Stefan Grunert
+# text_de = Der Schreiber Aa-Hathor.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓏟	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+2	𓉡𓉻	710879	PROPN	entity-name	_	_	_	_	Translit=ꜥꜣ-Ḥw.t-Ḥr.w
+
+# sent_id = IBUBdw5KbJZZwUWTsDXLaUcrmZs
+# corpus = bbawgrabinschriften
+# src_text_id = Y2GZHBUDQZA6JBAD4TGUI4IXPA
+# src_text = bbawgrabinschriften:unterer Teil//Bootsleute
+# owner = Stefan Grunert
+# text_de = Nefer-her-Ptah.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓊪𓏏𓎛𓁷𓄤	703473	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḥr-Ptḥ
+
+# sent_id = IBUBdwn3LVsH0U9nkOhoo1WW9oI
+# corpus = bbawgrabinschriften
+# src_text_id = Y2GZHBUDQZA6JBAD4TGUI4IXPA
+# src_text = bbawgrabinschriften:unterer Teil//Bootsleute
+# owner = Stefan Grunert
+# text_de = Hepepi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓎛𓊪𓊪𓇋	713469	PROPN	entity-name	_	_	_	_	Translit=Ḥpp.j
+
+# sent_id = IBUBdzEo0f0QWUXrrTiYRAPeS0o
+# corpus = bbawgrabinschriften
+# src_text_id = Y2GZHBUDQZA6JBAD4TGUI4IXPA
+# src_text = bbawgrabinschriften:unterer Teil//Bootsleute
+# owner = Stefan Grunert
+# text_de = Tjenteti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓍿𓈖𓍘𓏏𓏏	709250	PROPN	entity-name	_	_	_	_	Translit=Ṯnt.tj
+
+# sent_id = IBUBdw5eNoQsuUZZhjUcwrPNF64
+# corpus = bbawgrabinschriften
+# src_text_id = Y2GZHBUDQZA6JBAD4TGUI4IXPA
+# src_text = bbawgrabinschriften:unterer Teil//Bootsleute
+# owner = Stefan Grunert
+# text_de = Iut.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [7]
+1	𓇋𓅱𓏏	702894	PROPN	entity-name	_	_	_	_	Translit=Jwt
+
+# sent_id = IBUBdW66ijTSskWjm6x4ABApkzY
+# corpus = bbawgrabinschriften
+# src_text_id = Y2GZHBUDQZA6JBAD4TGUI4IXPA
+# src_text = bbawgrabinschriften:unterer Teil//Bootsleute
+# owner = Stefan Grunert
+# text_de = Qes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [8]
+1	𓈎𓌠𓋴	707581	PROPN	entity-name	_	_	_	_	Translit=Qs
+

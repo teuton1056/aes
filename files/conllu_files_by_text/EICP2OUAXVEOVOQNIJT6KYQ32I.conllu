@@ -1,0 +1,116 @@
+# sent_id = IBcAZehbpCoHTUxbhiRd2N88sTc
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Seine Mutter, Teje.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 6
+1	𓏏𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍘𓏮𓇋𓇋	708799	PROPN	entity-name	_	_	_	_	Translit=Tjy
+
+# sent_id = IBcAZXMbfMB5kkNoi3l2vkeOduo
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Seine Gemahlin, Teje.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 8
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍘𓏮𓇋𓇋	708799	PROPN	entity-name	_	_	_	_	Translit=Tjy
+
+# sent_id = IBcAZdNfkgaT3EQEkRXhnSizwuU
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Seine Frau, Tanehesit.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 12 - 13
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄿𓏏𓌙𓋴𓏮𓏏𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZUYGe7w08kw3n7xQtK4L7no
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Der Vorsteher der Hörigen, Re.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 14
+1	𓇯𓈘𓀀𓁐𓏥	550411	_	epitheton-title	_	_	_	_	Translit=ḥr.j-mr.t
+2	𓂋𓂝𓇳𓏤	704056	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBcAZR2spm2Wtkgek7ymqDPCW3k
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Seine Gemahlin, Tarepit.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 15 - 16
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄿𓏏𓂋𓊪𓏏𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZTkjcURFY0hLqlGQvWVDHx4
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Seine Schwester, Muthetep.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 17
+1	𓌢𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏏𓅐𓊵𓏏𓊪𓏏𓁐	701880	PROPN	entity-name	_	_	_	_	Translit=Mw.t-ḥtp.tj
+
+# sent_id = IBcAZbHpWRO3hklws1Ky46j0OUE
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Sein Bruder, Bi.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 19
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓇋𓇋𓀀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZQlKkM0Yn0JEsF0nINB3ZVc
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Sein Bruder, Taitu.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 20
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄿𓏏𓇋𓀁𓏏𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZQQvmeBp2E1rv4eZYPdvebw
+# corpus = tuebingerstelen
+# src_text_id = EICP2OUAXVEOVOQNIJT6KYQ32I
+# src_text = tuebingerstelen:Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)//Stele des Bakenamun (Äg. Slg. Tübingen Inv. Nr. 470)
+# owner = Susanne Beck
+# text_de = Sein Bruder, Bi.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 21
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓇋𓇋𓀀	_	X	unknown	_	_	_	_	_
+

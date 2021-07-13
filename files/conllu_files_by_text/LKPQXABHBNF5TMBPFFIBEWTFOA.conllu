@@ -1,0 +1,72 @@
+# sent_id = IBUBdWghWm9GKE4gpjyLeMIQmqM
+# corpus = bbawgrabinschriften
+# src_text_id = LKPQXABHBNF5TMBPFFIBEWTFOA
+# src_text = bbawgrabinschriften:Bildfeld südlich des Eingangs//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Der Gutsvorsteher und 〈〈Vorsteher der〉〉 Totenpriester User-Jnpu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓅓𓂋𓉐𓏤	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+2	𓅓𓂋𓂖	800075	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḥm.w-kꜣ
+3	𓃢𓄊𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5HVbwYR9UYntohYEuoKNAk
+# corpus = bbawgrabinschriften
+# src_text_id = LKPQXABHBNF5TMBPFFIBEWTFOA
+# src_text = bbawgrabinschriften:Bildfeld südlich des Eingangs//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Kai-em-neferet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓎡𓅓𓄤𓂋𓏏	707652	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-m-nfr.t
+
+# sent_id = IBUBd1Q6DqICbkv3s1KTIZ6H1aE
+# corpus = bbawgrabinschriften
+# src_text_id = LKPQXABHBNF5TMBPFFIBEWTFOA
+# src_text = bbawgrabinschriften:Bildfeld südlich des Eingangs//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Das Herbeiführen des Auserlesenen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓋴𓐍𓊪𓂻𓏏	141990	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫpi̯
+2	𓋴𓏏𓊪𓍉𓄘𓄘𓄘	148170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=stp.w
+
+# sent_id = IBUBdQ1MBesATEa6rMRowSU21Nc
+# corpus = bbawgrabinschriften
+# src_text_id = LKPQXABHBNF5TMBPFFIBEWTFOA
+# src_text = bbawgrabinschriften:Bildfeld südlich des Eingangs//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Totenpriester Nefer-renpet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓄤𓆳𓏏	600277	PROPN	entity-name	_	_	_	_	Translit=Nfr-rnp.t
+
+# sent_id = IBUBd4SEnlMWT02BpSlGwmCeq2M
+# corpus = bbawgrabinschriften
+# src_text_id = LKPQXABHBNF5TMBPFFIBEWTFOA
+# src_text = bbawgrabinschriften:Bildfeld südlich des Eingangs//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Totenpriester Ini.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓏎𓈖𓇋	400521	PROPN	entity-name	_	_	_	_	Translit=Jnj
+
+# sent_id = IBUBd0hPcH5s6URcsKbo3HysJ2o
+# corpus = bbawgrabinschriften
+# src_text_id = LKPQXABHBNF5TMBPFFIBEWTFOA
+# src_text = bbawgrabinschriften:Bildfeld südlich des Eingangs//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Joch-(Tragekästen).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [7]
+1	𓌳𓎗𓅱𓆓	67010	VERB	verb	_	_	_	_	Translit=mꜣwḏ
+

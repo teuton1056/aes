@@ -1,0 +1,1084 @@
+# sent_id = IBUBdyrFzVJWxEl4tvNbbGygj9k
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,1]
+1	𓈖𓏏𓂝𓏤𓏛𓏥	89770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=n.t-ꜥ
+2	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓏎𓈖	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+4	𓊃𓎡𓂋𓅆	146890	PROPN	entity-name	_	_	_	_	Translit=Zkr
+5	𓇋𓏲𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+6	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈙𓇾𓏴𓏏𓏏𓉐𓅆	158440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šṯy.t
+
+# sent_id = IBUBd0NNazY0j0KwoPpg7IZib8M
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'bekrönt aus dem Leib (seiner Mutter) Hervorgetretener'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,2]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓏏𓈖𓏌𓏲𓋑𓅆𓉐𓂋𓂻𓅓𓄡𓏏𓏤𓄹	853283	_	epitheton-title	_	_	_	_	Translit=sṯn-pr-m-ẖ.t
+
+# sent_id = IBUBd8nHgnVWNUlTt0LBKyQPeA8
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Ältester Sohn des ersten Urzeitlichen'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,3]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅭𓏤𓅆𓋴𓅓𓋴𓀗𓅆𓏌𓏤𓅯𓄿𓏏𓏲𓏒𓅆𓏫𓁶𓊪𓏭	853284	_	epitheton-title	_	_	_	_	Translit=zꜣ-sms.w-n-pꜣ.wtj-tp.j
+
+# sent_id = IBUBd8WMEto5L0oOqP4YUmQlr4Q
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Herr der Gesichter', 'zahlreich an Erscheinungsformen'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,4]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓎟𓏏𓁷𓏤𓏰𓏥	851771	PROPN	entity-name	_	_	_	_	Translit=Nb-ḥr.w
+3	𓆈𓏏𓏥𓆣𓂋𓏲𓀾𓅆	853285	_	epitheton-title	_	_	_	_	Translit=ꜥšꜣ-ḫpr.w
+
+# sent_id = IBUBd5DtRnj9UEWksKajBBI1Kzw
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Der umgeben ist von Gold in den Tempeln'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,5]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓄲𓂋𓈒𓏥𓈖𓋞𓈒𓏥𓅓𓐝𓏏𓏲𓏤𓉐𓏤𓏥𓊖𓅆	853286	_	epitheton-title	_	_	_	_	Translit=pẖr-n-nbw-m-gs.w-pr.w
+
+# sent_id = IBUBdwiGG0Y9XkQClnYhmv8y3CE
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Herr der Lebenszeit', 'der die Jahre gewährt'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,6]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓎟𓏏𓊢𓂝𓏤𓇳	853287	_	epitheton-title	_	_	_	_	Translit=nb-ꜥḥꜥ.w
+3	𓂞𓏏𓆳𓏏𓏤𓏫	853288	_	epitheton-title	_	_	_	_	Translit=ḏ-rnp.wt
+
+# sent_id = IBUBdQXMbujj9kJuuTzvr5tDCx0
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, 'Herr des Lebens bis zur Ewigkeit'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,7]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓎟𓏏𓋹𓈖𓐍𓏛𓐍𓂋𓎛𓎛𓇳	853289	_	epitheton-title	_	_	_	_	Translit=nb-ꜥnḫ-r-nḥḥ
+
+# sent_id = IBUBdwWJ5Tsp6UxtjCeQONrfyME
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Herr von Millionen', zahlreich an Hunderttausenden'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,8]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓎟𓏏𓁨𓏤𓅆𓏫	852388	_	epitheton-title	_	_	_	_	Translit=nb-ḥḥ
+3	𓆈𓏏𓏥𓎛𓆑𓈖𓆐𓏥	853290	_	epitheton-title	_	_	_	_	Translit=ꜥšꜣ-ḥfn.w
+
+# sent_id = IBUBd8rbw8MR7kfXgOVMrkbkC9w
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Erglänzender beim Aufgehen (und) Untergehen'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,9]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊪𓊃𓂧𓇳𓅆𓏲𓃀𓈖𓇳𓅆𓊵𓏏𓊪𓏭𓏛	853291	_	epitheton-title	_	_	_	_	Translit=psḏ-ḥr-wbn-ḥtp
+
+# sent_id = IBUBd9DckG6bnUeCoX0HWxPVBGw
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = {"Oh 'Der sich zur Ruhe beben hat'!"}
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,11]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+
+# sent_id = IBUBd3k5tjqLjUnHqQ4NWrQYgxs
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh der 'Herr der Weißen Krone' (und) 'Herr der Wereret-Krone'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,14]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎟𓏏𓌉𓏏𓇳𓋑	853295	_	epitheton-title	_	_	_	_	Translit=nb-Ḥḏ.t
+4	𓎟𓏏𓅨𓂋𓂋𓏏𓍢𓅆	852447	_	epitheton-title	_	_	_	_	Translit=nb-wrr.t
+
+# sent_id = IBUBd8OePdjou0eyqpdgB1l0mZQ
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh der 'Herrliche Sprössling von Horus-Hekenu'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,15]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓋴𓇋𓇋𓆑𓏭𓀔𓅆𓀼𓋴𓅆𓏌𓏤𓄑𓂋𓅆𓎛𓎡𓈖𓏌𓏲𓅆	853296	_	epitheton-title	_	_	_	_	Translit=sfy-šps.j-n-Ḥr.w-ḥkn.w
+
+# sent_id = IBUBd4tqMGahc0x2tQTIQbpN9TQ
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh der 'Ba des Re in der Barke der Millionen'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [57,16]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓅡𓏤𓅆𓈖𓇳𓅆𓅓𓏲𓇋𓄿𓊛𓅆𓈖𓁨𓏤𓅆𓏫	853297	_	epitheton-title	_	_	_	_	Translit=Bꜣ-n-Rꜥw-m-wjꜣ-n-ḥḥ
+
+# sent_id = IBUBd1zNdkp4xUbVj4BZTfOl3Ec
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh der 'Herr der Furcht', 'von selbst Entstandener'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,2]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎟𓏏𓋴𓈖𓂧𓏏𓏰𓀁	851375	_	epitheton-title	_	_	_	_	Translit=nb-snḏ
+4	𓆣𓂋𓏛𓆓𓊃𓆑	500388	_	epitheton-title	_	_	_	_	Translit=ḫpr-ḏs⸗f
+
+# sent_id = IBUBdyxD3lfhQE2NhrZsbTm4pFs
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Verursacher des Jubels', komm zu deiner Stadt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,4]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓁹𓂋𓏭𓇋𓉔𓄿𓇋𓇋𓀁	853299	_	epitheton-title	_	_	_	_	Translit=jr-hy
+3	𓅓𓂝𓇋𓂻	67770	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdx8cig76LkbvlXgEOoRdAa0
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Der nicht ertrunken ist', komm zu deinem Haus!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,6]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓂜𓈖𓎔𓏛𓎛𓏲𓈗𓈖𓆑	853301	_	epitheton-title	_	_	_	_	Translit=nn-mḥi̯⸗f
+3	𓅓𓂝𓇋𓂻	67770	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQcB41s9O0aQtiSymS8qVQM
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'in der Unterwelt Befindlicher', komm zu deinen Opfern!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,7]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏶𓅓𓇼𓄿𓏲𓏏𓉐𓅆	853302	_	epitheton-title	_	_	_	_	Translit=jm.j-dwꜣ.t
+3	𓅓𓂝𓇋𓂻	67770	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂝𓃀𓏏𓏰𓏛𓏥	35330	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥꜣb.t
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0MU39sNb0wZiPbaGGbapHU
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Sich (selbst) Beschützender', komm zu deinen Tempeln!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,8]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅓𓂝𓎡𓋴	853303	_	epitheton-title	_	_	_	_	Translit=mk-sw
+3	𓅓𓂝𓇋𓂻	67770	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓉗𓏏𓉐𓏥	99790	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥw.t
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6fMJ2e4ZklKmX86cNApPcU
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Befestiger der Kenemet-Sterne (am Himmel) bis zum Leuchten der Sonnenscheibe'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,9]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓂋𓏲𓂧𓌗𓎡𓈖𓎡𓎡𓌱𓅓𓇼𓅆𓏫𓂋𓊏𓊪𓇳𓇋𓏏𓈖𓇳𓅆	853304	_	epitheton-title	_	_	_	_	Translit=srwḏ-knm.tw-r-sšp-jtn
+
+# sent_id = IBUBd4aWVTUtUkZ4irmdANaExDM
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Navigator des erhabenen (Lenk)taus der Mesektet-Barke'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,11]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓈖𓂝𓇋𓇋𓂾𓂻𓈖𓍇𓏌𓏲𓎛𓏲𓀼𓋴𓅆𓏌𓏤𓋴𓎡𓏏𓏏𓊛𓅆	853306	_	epitheton-title	_	_	_	_	Translit=nꜥ.y-nwḥ-šps.j-n-(m)sk.tjt
+
+# sent_id = IBUBd3RDQibQPEYMqSoV43avKPQ
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh der '〈Herr〉 der Henu-Barke verjüngt im Schetait-Sanktuar'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,12]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎛𓆰𓈖𓏌𓏲𓊛𓅆𓂋𓈖𓊪𓆳𓀔𓏲𓏏𓅓𓈙𓇾𓏴𓏏𓏏𓉐𓅆	853307	_	epitheton-title	_	_	_	_	Translit=nb-ḥnw-rnp-m-šṯy.t
+
+# sent_id = IBUBd0uSFQguD0fBrbHSqTZwIvk
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh die 'Wirkungsvollen Bas, die in der Nekropole sind'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,13]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+3	𓅡𓏤𓅆𓏫𓇋𓎼𓂋𓏭𓏛𓈖𓏏𓏭𓅓𓏤𓊹𓌨𓂋𓏏𓏏𓈉	853308	PROPN	entity-name	_	_	_	_	Translit=Bꜣ.w-jqr.w-n.tj-m-ẖr.t-nṯr
+
+# sent_id = IBUBd4aNMaIbO0COmRTYOELsdac
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh der 'verhrungswürdige Revisor von Ober-(und) Unterägypten'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,14]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓋴𓇋𓊪𓂧𓍼𓏥𓀼𓋴𓅆𓈖𓇗𓂝𓏏𓏰𓇇𓊃𓏰𓊖𓊖	853309	_	epitheton-title	_	_	_	_	Translit=sjp-šps.j-n-Šmꜥ.w-Mḥ.w
+
+# sent_id = IBUBdwiIoM7T8EzEo9rLyzd7kAU
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh der 'Verborgene, den das (gemeine) Volk nicht kennt'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,15]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓇋𓏠𓈖𓀅𓅆𓂜𓈖𓂋𓐍𓏛𓋴𓅛𓀀𓏥𓁐𓏏	853311	_	epitheton-title	_	_	_	_	Translit=jmn-nn-rḫ-sw-rḫ.yt
+
+# sent_id = IBUBdyuldAt4aUnAjd1xl9w3F5Y
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Wachender, der in der Unterwelt ist, um die Sonnenscheibe zu sehen'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [58,16]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓈖𓉔𓄿𓇋𓋴𓁻𓅓𓇼𓄿𓏲𓏏𓉐𓅆𓂋𓌳𓂂𓂂𓅯𓄿𓇋𓏏𓈖𓇳𓅆	853312	_	epitheton-title	_	_	_	_	Translit=nhjz-pꜣ-n.tj-m-dwꜣ.t-r-mꜣꜣ-pꜣ-jtn
+
+# sent_id = IBUBd8z4WyrfU0t7hEDh6epTAf8
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Herr der großen Atef-Krone in Nini-Nisut (Herakleopolis)'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,1]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓂞𓏏𓄿𓏏𓆑𓋚𓅆𓅨𓂋𓅓𓇓𓏏𓈖𓅆𓀔𓈖𓈖𓊖𓅆	853313	_	epitheton-title	_	_	_	_	Translit=nb-ꜣtf-wr-m-Ḥw.t-nn-nswt
+
+# sent_id = IBUBd5OWNAqY50citME805TBbWo
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Der in Waset (Theben) ist', 'erblühend auf ewig'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,3]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓃹𓈖𓌀𓊖	853316	_	epitheton-title	_	_	_	_	Translit=wn-m-Wꜣs.t
+3	𓄿𓐍𓄿𓐍𓌅𓈖𓅘𓎛𓎛𓇳	853317	_	epitheton-title	_	_	_	_	Translit=ꜣḫꜣḫ-r-nḥḥ
+
+# sent_id = IBUBd2R2N9Hx6EiWkI2prTGRdkI
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Amun-Re', 'König der Götter', 'der seinen Leib kräftigt beim Aufgehen (und) Untergehen' (als Sonne am Himmel)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,4]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇋𓏠𓈖𓅆𓇳	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
+3	𓇓𓏏𓈖𓅆𓊹𓊹𓊹𓅆𓏫	550228	_	epitheton-title	_	_	_	_	Translit=nswt-nṯr.w
+4	𓋴𓏲𓂋𓂧𓌗𓎛𓂝𓏤𓄹𓏥𓆑𓅓𓏲𓃀𓈖𓇳𓅆𓊵𓏏𓊪𓏭𓏛	853318	_	epitheton-title	_	_	_	_	Translit=srwḏ-ḥꜥ.w⸗f-m-wbn-ḥtp
+
+# sent_id = IBUBd702EcsDfkLnpNHaZsRtN8g
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Vermehrer der Opferstiftungen (und) Opfergaben in Ro-setau'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,5]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓈎𓃀𓄲𓏛𓏠𓈖𓏌𓏲𓏒𓏥𓊵𓏏𓊪𓏒𓏥𓅓𓂋𓊃𓏤𓍬𓏏𓏏𓈉𓊖	853319	_	epitheton-title	_	_	_	_	Translit=qꜣb-mn.w-ḥtp.w-m-Rʾ-sṯꜣ
+
+# sent_id = IBUBd9GYMMbYyEWglOsRmQ8h79k
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Der das Land an seinem Platze befestigt (hat?)'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,7]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓏠𓈖𓍖𓇾𓏤𓈇𓂋𓊨𓏏𓉐𓆑	853321	_	epitheton-title	_	_	_	_	Translit=smn-tꜣ-ḥr-s.t⸗f
+
+# sent_id = IBUBd0hQXxoQtk63o3QosNTAkCs
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Der seinen Leib verbirgt im großen Sanktuar in On (Heliopolis)'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,10]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇋𓏠𓈖𓀅𓆓𓏏𓏤𓆑𓅓𓈙𓇾𓏴𓏏𓏏𓉐𓅆𓉻𓏏𓏛𓅓𓉺𓏌𓊖𓅆	853325	_	epitheton-title	_	_	_	_	Translit=jmn-ḏ.t⸗f-m-šṯy.t-ꜥꜣ.t-m-Jwn.w
+
+# sent_id = IBUBdwOaIqWlRkUYlTy8JrdaxQQ
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Göttlicher, der verborgen ist: Osiris in der Nekropole'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,11]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏤𓊹𓏏𓂋𓆳𓅆𓇋𓏠𓈖𓀅𓏭𓏛𓊨𓇳𓅆𓅓𓏤𓊹𓌨𓂋𓏏𓏏𓈉	853326	_	epitheton-title	_	_	_	_	Translit=nṯr.j-jmn-Wsjr-m-ẖr.t-nṯr
+
+# sent_id = IBUBd9aq114kekiVvlhpTKIwQqQ
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "(Es) spricht zu dir 'Isis die Göttliche': "Ein Jubelschrei ist am Fluß!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,12]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊨𓏏𓆇𓅆𓏤𓊹𓏏𓆇𓅆	853328	_	epitheton-title	_	_	_	_	Translit=ꜣs.t-nṯr.jt
+5	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḫrw
+6	𓉔𓄿𓇋𓇋𓀁	97780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hy
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇋𓏏𓏲𓂋𓈗𓈘𓏤𓈇	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
+
+# sent_id = IBUBd9UbDECWQ0nNiHXqw51BTPw
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Der 'heilige Abot-Fisch' teilt das Wasser vor der Barke des Re!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,12] -  [59,13]
+1	𓊪𓐍𓆼𓄿𓍸𓏭𓏛	61730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḫꜣ
+2	𓋁𓃀𓂧𓆟𓃂𓈗	853329	_	epitheton-title	_	_	_	_	Translit=ꜣbḏ.w-wꜥb
+3	𓅓𓄂𓏏𓏤	500049	ADP	preposition	_	_	_	_	Translit=m-ḥꜣ.t
+4	𓏲𓇋𓄿𓊛𓅆	44020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wjꜣ
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBdy10Qv0VTE9HuqJ5XZiQZWs
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Die 'Herrin des Gehörns' (Hathor) gerät in Jubel, (denn) das Ei ist entstanden im (seichten) Gewässer!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,13] -  [59,14]
+1	𓎟𓏏𓄋𓏏𓏤	853330	_	epitheton-title	_	_	_	_	Translit=nb.t-wp.t
+2	𓆣𓂋𓏛	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓍿𓎛𓎛𓏲𓏭𓀁𓏫	176750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥḥw.t
+5	𓋴𓏲𓎛𓏏𓆇	130630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swḥ.t
+6	𓆣𓂋𓏛	858535	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓏤𓎛𓆰𓈖𓏌𓏲𓈗𓈘𓏤𓈇	106050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥn.t
+
+# sent_id = IBUBdxkLVfgD10SNkVBotf9q7Ns
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Abgetrennt sind die Köpfe der Verschwörer in diesem ihrem Namen der 'Herrin von Tep-eh' (Aphroditopolis)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,14] -  [59,15]
+1	𓎛𓋴𓈎𓌪𓂡	110200	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥsq
+2	𓁶𓏤𓏰𓏥	854577	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tp
+3	𓏌𓏤	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓆞𓎡𓄣𓏤𓏱𓏥	122640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣk-jb
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓊪𓏲𓇋𓇋𓏛	851522	PRON	pronoun	PronType=Dem	_	_	_	Translit=pwy
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓎟𓏏𓁶𓏤𓏏𓃒𓊖𓅆	400922	_	epitheton-title	_	_	_	_	Translit=nb.t-Tp-jḥ.w
+
+# sent_id = IBUBd2BtkduBSkAblIHZAwtwPVw
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Die 'Herrin des Gehörns' ist willkommen (gekommen in Frieden) in diesem ihrem Namen der 'Hathor, Herrin von Mefkat' (Terenouthis/Kom Abu Billu)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [59,15] -  [59,16]
+1	𓎟𓏏𓄋𓏏𓏤	853330	_	epitheton-title	_	_	_	_	Translit=nb.t-wp.t
+2	𓇍𓇋𓂻𓏲𓏏	21930	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=jwi̯
+3	𓅓𓄂𓏏𓏤𓁶𓏤𓏫	_	X	unknown	_	_	_	_	_
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓊪𓏲𓇋𓇋𓏛	851522	PRON	pronoun	PronType=Dem	_	_	_	Translit=pwy
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+10	𓎟𓏏𓅓𓂝𓆑𓎡𓏰𓆇𓏫	853332	_	epitheton-title	_	_	_	_	Translit=nb.t-Mfkꜣ.t
+
+# sent_id = IBUBd1kGI7BKCkdJqQvvsmt2mXg
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Du hast dich niedergelassen an der Seite des Allherrn in diesem deinem Namen der 'Hathor, Herrin vom Roten See' (Ort bei Memphis)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [60,5] -  [60,6]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓊵𓏏𓊪𓏭𓏛𓏲𓏏	111230	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḥtp
+4	𓂋𓐝𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+5	𓎟𓂋𓇥𓂋𓅆	82220	_	epitheton-title	_	_	_	_	Translit=nb-r-ḏr
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+8	𓊃	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+9	𓊪𓏲𓇋𓇋𓏛	851522	PRON	pronoun	PronType=Dem	_	_	_	Translit=pwy
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+12	𓎟𓏏𓈙𓏏𓏤𓈗𓂧𓈙𓂋𓏏𓏰	853336	_	epitheton-title	_	_	_	_	Translit=nb.t-š-dšr
+
+# sent_id = IBUBd1E5Hu2Jhk3Yp8BeIjyb338
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Macht hat Hathor über die Frevler an ihrem Vater in diesem ihrem Namen der Sachmet!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [60,9] -  [60,10]
+1	𓌂𓅓𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbj
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+10	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+11	𓊪𓏲𓇋𓇋𓏛	851522	PRON	pronoun	PronType=Dem	_	_	_	Translit=pwy
+12	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓌂𓐍𓏏𓆇𓅆	142250	PROPN	entity-name	_	_	_	_	Translit=Sḫm.t
+
+# sent_id = IBUBd8UzKkaaskYLq94Fq0dAOKQ
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin von Waset' (Theben), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [60,13]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓌀𓊖	853333	_	epitheton-title	_	_	_	_	Translit=nb.t-Wꜣs.t
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9xznOk6JEmGlESTPqTWlco
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin von Nini-Nisut' (Herakleopolis), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [60,14]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓇓𓏏𓈖𓅆𓀔𓈖𓈖𓊖𓅆	853798	_	epitheton-title	_	_	_	_	Translit=nb.t-Nn-nswt
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxt9GEyHkEHrltQBXm04D90
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin von Tep-eh' (Aphroditopolis), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [60,15]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓁶𓏤𓏏𓃒𓊖	400922	_	epitheton-title	_	_	_	_	Translit=nb.t-Tp-jḥ.w
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd65LeIY7LEw1sfWADLgSILk
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin des Sykomore(nortes)' (Ort/Heiligtum bei Memphis), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [60,16]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓈖𓉔𓏏𓆭𓆱𓏫𓊖	450446	_	epitheton-title	_	_	_	_	Translit=nb.t-nh.t
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3MAYWCyKkJVngWgRsObjQA
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin von Mefkat' (Terenouthis/Kom Abu Billu), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,1]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓅓𓂝𓆑𓎡𓏰𓈒𓏫𓊖	853332	_	epitheton-title	_	_	_	_	Translit=nb.t-Mfkꜣ.t
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd06QY02zkUh4qXEunUmU6vc
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin von Ineb' (Memphis), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,2]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓇋𓆛𓈖𓃀𓊅𓏏𓈇𓏤𓏥𓊖	853335	_	epitheton-title	_	_	_	_	Translit=nb.t-Jnb.w
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0kyPFoFoUfuiT0LcDZQxgE
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin von Wasch' (Ort im 2. u.ä. Gau), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,3]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓌗𓄿𓂋𓐍𓏏𓉐	853342	_	epitheton-title	_	_	_	_	Translit=nb.t-Wꜣḫ
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWymEWb8e0c0rWQORCyh74A
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin von Qus' (Cusae/Qus), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,5]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓀫𓊖	853345	_	epitheton-title	_	_	_	_	Translit=nb.t-Qjs
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdx81Lz5BnEuyjrGLiZT9E9I
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Gebieterin der 16', die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,6]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎛𓏌𓏏𓆇𓅆𓎆𓏤𓏤𓏤𓏤𓏤𓏤	853346	_	epitheton-title	_	_	_	_	Translit=ḥn.wt-16
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7LoQaQNM0i3j128vy1DkCU
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Sei gegrüßt Hathor, 'Herrin von Neferusi' (Ort im 15. o.ä. Gau), die Götter beschützen ihn (Sokar)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,7]
+1	𓇋𓐩𓏌𓏏	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉗𓏏𓁷𓂋𓏏𓆇𓅆	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+5	𓎟𓏏𓄤𓆑𓂋𓏲𓏭𓇓𓏲𓈐𓊖	853347	_	epitheton-title	_	_	_	_	Translit=nb.t-Nfr-wsj
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓅓𓂝𓎡𓏏𓈇𓏤𓏥	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdw8Gtk43J0Chg6BcAxqGeu8
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, feiere (deinen) Triumph" - zwei Mal - "Herrscher!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,8]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓎛𓃀𓎱𓇳	103560	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥꜣbi̯
+3	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓇋𓍘𓇋𓇋𓀛𓅆	852609	PROPN	entity-name	_	_	_	_	Translit=Jty
+
+# sent_id = IBUBd0WIlT7C0ExxsF67ebwFgkE
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, wie angenehm ist der Wohlgeruch, den du liebst!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,9]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇛𓅓𓏭𓏛𓏲𓏭	500020	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nḏm
+3	𓐍𓈖𓌱𓅓𓂉𓏭𓏛	118230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫnm.w
+4	𓌻𓂋𓏲𓏏𓀁	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd4j62LK3mU2Vi29jME0ftCA
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, du lebst" - zwei Mal - "auf ewig!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,10]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋹𓈖𓐍𓏛𓏲𓏏	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+3	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓇋𓏲𓅘𓎛𓎛𓇳	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd4rdZzQaokdkov4quQSqWAs
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, du wirst Triumph(e) feiern für immer!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,11]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓎛𓃀𓎱𓇳	103560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣbi̯
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖𓆓𓏏𓇾	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8z37STOlktJgGbeu5OQdCs
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, geküsst ist die Erde (zur Huldigung), geöffnet sind die Wege!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,12]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊃𓈖𓇋𓏏𓂉	136240	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=sn
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓍏𓃀𓅯𓄿𓏭𓏛	44890	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=wbꜣ
+5	𓈐𓏏𓏥	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+
+# sent_id = IBUBd7BwYPLr40sNkEuN8YaZ280
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, du dauerst im oberen (himmlischen?) Djed(et)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,13]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊽𓏤𓅆	854593	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏdi̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊽𓊽𓂧𓏲𓊖𓅆𓁷𓂋𓏏𓇯	853349	PROPN	entity-name	_	_	_	_	Translit=Ḏd.w(t)-ḥr.j(t)
+
+# sent_id = IBUBd6UKYYfZUU2thXqF5Gbq9M0
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, Gott, du sollst hören (die Hymne) 'Schutz der Erde', ja du solllst hören (die Hymne) 'Schutz der Erde' aus dem Munde der Gaugötter!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,14]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+3	𓄔𓅓𓏛𓈖	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓎃𓏤𓇾	126140	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=Zꜣ-tꜣ
+6	𓉔𓄿𓇋𓇋𓀁	97760	INTJ	interjection	_	_	_	_	Translit=hy
+7	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓎂𓇾	126140	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=Zꜣ-tꜣ
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+12	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓏤𓊹𓈈𓏏𓏥	853350	PROPN	entity-name	_	_	_	_	Translit=Nṯr.w-spꜣ.wt
+
+# sent_id = IBUBd0u7jo0ZMkqEj4pvJIXJSYQ
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, (hier ist) 'Ein in seine Aufgabe Eingeweihter' (der Ritualist und Königsgpriester), Sohn eines Propheten!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [61,15]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓃀𓋴𓆟𓂻𓅓𓁹𓏏𓏤𓆑𓅆	853351	_	epitheton-title	_	_	_	_	Translit=bz-m-jr.t⸗f
+3	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+4	𓊹𓍛𓏤𓀀	104940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm-nṯr
+
+# sent_id = IBUBdx3N7DLtZ0Z4kfLEt4sivPc
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, (das Ritual) die 'Gewährung des Schutzes' ist deinen Anweisungen ("dem, was du sagtest") entsprechend!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,1]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓂧𓊪𓍉𓎃𓏤𓏛𓏥	853352	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=stp-zꜣ
+3	𓐍𓆑𓏏	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+4	𓆓𓂧𓏛𓏥	185810	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3ZW1HStVkWRoaLsNlQCyiI
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, siehe, Pharao tut das, was du liebst!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,2]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅓𓂝𓎡𓏏𓈇𓏤𓏫	64440	PART	particle	_	_	_	_	Translit=m
+3	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+4	𓋹𓍑𓋴𓏰	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓌸	72470	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdx55Z6ip9EJvthm1QaiWfUA
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, siehe, Pharao tut das, was du lobst!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,3]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅓𓂝𓎡𓏏𓈇𓏤𓏫	64440	PART	particle	_	_	_	_	Translit=m
+3	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+4	𓋹𓍑𓋴𓏰	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓎛𓎿𓋴𓀁𓏥	109620	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḥzi̯
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7OvMHEhGUink3KapysCNvc
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, der Sohn eines Propheten, er hat das Festritual rezitiert!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,5]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+3	𓊹𓍛𓏤𓀀	104940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm-nṯr
+4	𓄞𓂧𓀁𓈖	854561	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓎛𓃀𓎱𓇳𓍼𓏤	103410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣb.t
+
+# sent_id = IBUBd1lvfQy2A0vcueESFNmXvSM
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Djed(-Pfeiler) im Namen von Djedu' (Busiris)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,6]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊽𓏤𓅆𓅓𓂋𓈖𓈖𓊽𓊽𓂧𓏲𓊖𓅆	853353	_	epitheton-title	_	_	_	_	Translit=Ḏd-m-rn-n-Ḏd.w
+
+# sent_id = IBUBdysBSUQ4sUD5uffQlmT4cvg
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'angenehm Duftender (" der angenehm ist an Duft") im oberen (himmlischen?) Djed(et)'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,7]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇛𓅓𓏭𓏛𓋴𓏏𓏭𓐏𓏛𓅓𓊽𓊽𓂧𓏲𓊖𓅆𓁷𓂋𓏏𓇯	853354	_	epitheton-title	_	_	_	_	Translit=nḏm-sty-m-Ḏd.w(t)-ḥr.j(t)
+
+# sent_id = IBUBd42gOgE5ZUc8jaSIXlWS85k
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh komm, 'Vertreiber der Rebellen'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,8]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅓𓂝𓇋𓂻	67770	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+3	𓂧𓂋𓏛𓀜𓋴𓃀𓇋𓏲𓌙𓏱𓏥	853355	_	epitheton-title	_	_	_	_	Translit=dr-sbj.w
+
+# sent_id = IBUBd6FCOTkFWUQ6pukRDq07KW4
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh komm, 'Erzieher des (Götter)kindes'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,9]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅓𓂝𓇋𓂻	67770	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+3	𓇼𓄿𓏲𓏛𓀜𓈖𓐍𓈖𓀔𓅆	853356	_	epitheton-title	_	_	_	_	Translit=sbꜣ.w-nḫn
+
+# sent_id = IBUBd0bsOWHPX0nuvvoDlPB6jwA
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh 'Der die Furcht vor sich unter den Verschwörern verbreitet'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,10]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓂞𓏏𓋴𓈖𓂧𓏏𓏰𓀁𓆑𓅓𓆞𓎡𓄣𓏤𓌙𓏱𓏥	853357	_	epitheton-title	_	_	_	_	Translit=ḏ-snḏ⸗f-m-ẖꜣk.w-jb
+
+# sent_id = IBUBd4G7FTNgF0ohqibP0w8aj0c
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, was den Diener, der seinen Herrn begleitet, betrifft, nicht soll die Majestät der Bastet Macht über ihn haben!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,11]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓅡𓏤𓎡𓇋𓏲𓏛𓀜	53830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣk
+4	𓌞𓋴𓂻	155000	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šms
+5	𓈖𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+8	𓌂𓅓𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+9	𓍛𓏤𓅆𓏛	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓎰𓏰𓆇𓅆	53640	PROPN	entity-name	_	_	_	_	Translit=Bꜣs.tjt
+12	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5d4iNk3wkIXn61YaybyTZc
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, (der) Verschwörer, den der Tempel verabscheut (Seth), man trieb einen Pflock in seinen Hals!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,12]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓆞𓎡𓄣𓏤𓌙𓏱𓏥	122640	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ẖꜣk-jb
+3	𓄟𓋴𓂧𓅪	76210	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msḏi̯
+4	𓊹𓉗𓏏𓉐𓅆	99940	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥw.t-nṯr
+5	𓎛𓀜𓏷𓏛𓀜	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+6	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓏠𓈖𓇋𓈖𓇋𓏲𓐪𓆱𓏏	70140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjn.t
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓐍𓐍𓄈𓄹	120510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫḫ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQQy131YTEnbnUPWB1NYSnM
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = "Oh, gekommen ist der 'Herr vom oberen Djed(et)', (nachdem) er die Verschwörer geschlagen hat!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,13]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓎟𓏏𓊽𓊽𓂧𓏲𓊖𓅆𓁷𓂋𓏏𓇯	853358	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w(t)-ḥr.j(t)
+4	𓎛𓀜𓏷𓏛𓀜𓈖	854530	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓆞𓎡𓄣𓏤𓌙𓏱𓏥	122640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣk-jb
+
+# sent_id = IBUBdyuqmo832kWPgeAwyqCWaIg
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = Zu rezitieren: 16 Mal!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,14]
+1	𓆓𓂧𓌃𓏤𓏫	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓎆𓏤𓏤𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd4xzuQMAnEpVoQaAdEQQMRg
+# corpus = bbawtotenlit
+# src_text_id = DS3MPLHGBJHPZIZPE3NPHGTN34
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//6. Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar
+# owner = Frank Feder
+# text_de = Ende (des Textes).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [62,15]
+1	𓂻𓏲𓆑𓊪𓏲	21930	VERB	verb	_	_	_	_	Translit=jwi̯
+

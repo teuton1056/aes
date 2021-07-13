@@ -1,0 +1,162 @@
+# sent_id = IBcAZRFXDxaoF0gwmIZQ7KHXmvU
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Osiris
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 1
+1	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBcAZXvnPf8Obkfol90YZcVC82g
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Die (Stele), die Samut anfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 2 - 3
+1	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓅭𓏤𓏏𓅐𓀀	400795	PROPN	entity-name	_	_	_	_	Translit=Zꜣ-Mw.t
+
+# sent_id = IBcAZdyDfQOWuEeprHweEhVllOo
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Mutneferet.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 4 - 5
+1	𓎟𓏏𓉐𓏤	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓅑𓄤𓏏𓁐	701894	PROPN	entity-name	_	_	_	_	Translit=Mw.t-nfr.t
+
+# sent_id = IBcAZZj8reQA2UpmrPi9P399IRA
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Mutneferet
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 6
+1	𓅐𓏏𓄤	701894	PROPN	entity-name	_	_	_	_	Translit=Mw.t-nfr.t
+
+# sent_id = IBcAZYdUkJj8bEzlgZAe6WgXGzI
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Samut
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 7
+1	𓅭𓅐	400795	PROPN	entity-name	_	_	_	_	Translit=Zꜣ-Mw.t
+
+# sent_id = IBcAZT1pAUGvK0ttkA4A87QNWHM
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Ihr (Sg. f.) Sohn, Nebmehi.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 8
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓎟𓎔𓎛𓇋𓇋𓊡	703087	PROPN	entity-name	_	_	_	_	Translit=Nb-mḥy.t
+
+# sent_id = IBcAZSmDY4c8TUWvjcbOeOF0VDY
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Sein Sohn, Amunemipet.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 9
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏠𓈖𓐝𓇋𓊪𓊒	600119	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-Jp.t
+
+# sent_id = IBcAZQ7pQruOO0ZWk16nC3ly9H0
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Neferetsecheru
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 10
+1	𓄤𓆑𓂋𓋴𓐍𓂋𓅱𓏛𓏥	703566	PROPN	entity-name	_	_	_	_	Translit=Nfr-sḫr.w
+
+# sent_id = IBcAZQOYJuPtvUawslm6fOvwxrM
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Mutemwija
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 11
+1	𓅐𓐝𓊛	701857	PROPN	entity-name	_	_	_	_	Translit=Mw.t-m-wjꜣ
+
+# sent_id = IBcAZWep7rU63UAWoZzD1mTDeQY
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Ihre Mutter, Meh.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 12
+1	𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓐝𓂝𓄑𓏛	600439	PROPN	entity-name	_	_	_	_	Translit=Mḥ
+
+# sent_id = IBcAZbAzRyrXIkHfpAh6Cpms3pk
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Tiineret
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 13
+1	𓍘𓇋𓇋𓈖𓂋𓈇	867629	PROPN	entity-name	_	_	_	_	Translit=Tj-jnr
+
+# sent_id = IBcAZf75oJcYm0ZBqrWZTpt8bCA
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Nebunferet
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 14
+1	𓋞𓈒𓈓𓄤𓆑𓂋𓏏	703272	PROPN	entity-name	_	_	_	_	Translit=Nbw-nfr.tj
+
+# sent_id = IBcAZcAhQlDEV0DrrLjwjEuySIQ
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Sachmet
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 16
+1	𓌂𓐍𓏏𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZZsYERCSNkJ1usGsZxa4VqI
+# corpus = tuebingerstelen
+# src_text_id = S2BXDM4SRNBYLOATZ5K5235R54
+# src_text = tuebingerstelen:Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)//Stele des Satmut (Äg. Slg. Tübingen Inv. Nr. 468)
+# owner = Susanne Beck
+# text_de = Tit
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 17
+1	𓍘𓇋𓏏𓁐	_	X	unknown	_	_	_	_	_
+

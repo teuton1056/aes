@@ -1,0 +1,36 @@
+# sent_id = IBUBd5s2gSLrOE7UpkI093iRGI0
+# corpus = bbawgrabinschriften
+# src_text_id = YNFPQEESBBBCVOVTC4UZOBX33M
+# src_text = bbawgrabinschriften:Nordscheintür//Scheintür-Tafel
+# owner = Stefan Grunert
+# text_de = Der Verwalter des Königsvermögens, Aufseher der Chentuschi des Palastes, Wab-Priester des Königs und Priester des Cheops Kai-huief, ein Versorgter beim großen Gott.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oben, links⁝1] -  [oben, links⁝3]
+1	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+2	𓉐𓉻𓌉𓋴𓏃𓏏𓈙𓈉	450562	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḫnt.w-š-pr-ꜥꜣ
+3	𓇓𓏏𓀆	44590	_	epitheton-title	_	_	_	_	Translit=wꜥb-nswt
+4	𓐍𓅱𓆑𓅱𓊹𓍛	850713	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-Ḫwi̯⸗f-wj
+5	𓂓𓎛𓇋𓆑	707693	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-ḥwi̯⸗f
+6	𓇋𓌳𓄪𓐍𓅱𓂋𓊹𓉻	850380	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-nṯr-ꜥꜣ
+
+# sent_id = IBUBd9DWboe3EU0WoQDVZMEeQpk
+# corpus = bbawgrabinschriften
+# src_text_id = YNFPQEESBBBCVOVTC4UZOBX33M
+# src_text = bbawgrabinschriften:Nordscheintür//Scheintür-Tafel
+# owner = Stefan Grunert
+# text_de = Seine Königsmutter, als sie (schon) wandelte, seine Mutter, die Verwalterin des Königsvermögens Chenemet, eine Versorgte bei dem großen Gott.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oben, rechts⁝1] -  [oben, rechts⁝3]
+1	𓇓𓅑𓏏	200012	_	epitheton-title	Number=Sing|Status=Pron	_	_	_	Translit=mw.t-nswt
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓎡𓂻	851438	PART	particle	_	_	_	_	Translit=jsk
+4	𓋴	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+5	𓐍𓊪𓏏	116050	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpi̯
+6	𓅑𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇓𓏏𓂋𓐍𓏏	95750	_	epitheton-title	_	_	_	_	Translit=jr.jt-jḫ.t-nswt
+9	𓐍𓈖𓏏𓅓𓁐	705628	PROPN	entity-name	_	_	_	_	Translit=Ḫnm.t
+10	𓇋𓌳𓄪𓐍𓏏𓐍𓂋𓊹𓉻	850381	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.wt-ḫr-nṯr-ꜥꜣ
+

@@ -1,0 +1,155 @@
+# sent_id = IBUBd2OTwYIPtE0epmYlmwQrOgQ
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = aber $formen$ muss ich ihn/es (wörtl.: Aber das Ihn-formen ist an (?) mir).
+# findspot = unknown
+# date = NK
+# lineRef = [1,5]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓀨𓀜𓏏𓏲	162420	VERB	verb	VerbForm=Fin	_	_	_	Translit=qd
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd0UH1M7QpUw5h8SWbKDGNTk
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = Seine Bekleidung besteht aus Schuppenpanzerhemden und Bögen.
+# findspot = unknown
+# date = NK
+# lineRef = [1,5]
+1	𓈖𓄿𓇋𓇋𓏥	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓃀𓋴𓅱𓍱𓏫	103750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥbs
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅷𓏤𓏭𓂋𓏤𓇋𓇋𓈖𓄿𓈔𓏫	176290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯryn
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓌔𓏏𓏤𓆱𓏫	63270	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pḏ.t
+
+# sent_id = IBUBd7QVNp74RE6mvjS2yw8ytHw
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = Dann legte man fest, dass er/es hoch sei wie der Himmel (wörtl.: Dann bestimmte man für ihn/es ein Hoch-sein wie der Himmel).
+# findspot = unknown
+# date = NK
+# lineRef = [1,6]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆷𓄿𓏛	151220	VERB	verb	VerbForm=Fin	_	_	_	Translit=šꜣ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈎𓄿𓀠𓏛	159110	VERB	verb	VerbForm=Fin	_	_	_	Translit=qꜣi̯
+8	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+9	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+10	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd077xN0o9kLGiSpfKCL34vI
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = Schutz ist in seiner Hand (?).
+# findspot = unknown
+# date = NK
+# lineRef = [1,x+13]
+1	𓐍𓂤𓏲𓏛𓏥	114940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫw
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd42aZaz9DUimpMQSDe5QzAc
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = Was soll ich meinerseits gegen sie machen?"
+# findspot = unknown
+# date = NK
+# lineRef = [3,y-2] - [3,y-1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓇋𓐍𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊃𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+
+# sent_id = IBUBd565dWUTCELXk8PD8b0P7U8
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = und sie erhoben sich vor ihr.
+# findspot = unknown
+# date = NK
+# lineRef = [3,y]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊢𓂝𓂻	851887	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜥ
+5	𓂋𓄂𓏏𓏤	500053	ADP	preposition	_	_	_	_	Translit=r-ḥꜣ.t
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBdzq1svP0KUGQsKN8JhLovcA
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = Dann sahen die Kleinen sie
+# findspot = unknown
+# date = NK
+# lineRef = [3,y]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+3	𓈙𓂋𓇋𓅪𓏥	156650	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šrj
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓊪𓏏𓂋𓇋𓆵𓁺	62900	VERB	verb	VerbForm=Fin	_	_	_	Translit=ptr
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd1iCOyXoD02eoNKOIJWW8bA
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = Dann gab man ihr ihren Thron.
+# findspot = unknown
+# date = NK
+# lineRef = [3,y]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂋𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓇋𓋴𓃀𓏏𓆱	31390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jsb.t
+
+# sent_id = IBUBdwKiD3Kr8Er8qMf7G9pwOJI
+# corpus = sawlit
+# src_text_id = IAE36426UNFSJHISJPKBZGSUSY
+# src_text = sawlit:pBN 202 + pAmherst 9//Die Götter und das Meer ("Astartelegende")
+# owner = Lutz Popko
+# text_de = Er wird nicht kommen, um gegen uns zu kämpfen.
+# findspot = unknown
+# date = NK
+# lineRef = [15,y]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇍𓇋𓇋𓏏𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓂚𓄿𓀜	39920	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓈖𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+

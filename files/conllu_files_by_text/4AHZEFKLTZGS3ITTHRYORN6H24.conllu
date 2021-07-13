@@ -1,0 +1,98 @@
+# sent_id = IBUBdx5zwZdFC0bOpZdLPXfANII
+# corpus = bbawgrabinschriften
+# src_text_id = 4AHZEFKLTZGS3ITTHRYORN6H24
+# src_text = bbawgrabinschriften:Portikus//Simsinschrift
+# owner = Stefan Grunert
+# text_de = Der Kammerdiener des Königs [im Palast], Tjetu
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇓𓏏𓁶𓌨	401187	_	epitheton-title	_	_	_	_	Translit=ẖr.j-tp-nswt-pr-ꜥꜣ
+2	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+
+# sent_id = IBUBd7e4XQ3hakZUqs1aOs8whNs
+# corpus = bbawgrabinschriften
+# src_text_id = 4AHZEFKLTZGS3ITTHRYORN6H24
+# src_text = bbawgrabinschriften:Portikus//Simsinschrift
+# owner = Stefan Grunert
+# text_de = Einer, den Anubis liebt, ist (er).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓌸𓂋𓂋𓅱	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+2	𓃣	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+3	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd0MpppWVQUf2oW6HNXjQHz8
+# corpus = bbawgrabinschriften
+# src_text_id = 4AHZEFKLTZGS3ITTHRYORN6H24
+# src_text = bbawgrabinschriften:Portikus//Simsinschrift
+# owner = Stefan Grunert
+# text_de = Einer, den Osiris liebt, ist (er).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓌸𓂋𓂋𓅱	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+2	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd2b5b0dbpUBrneKXwnYYS6U
+# corpus = bbawgrabinschriften
+# src_text_id = 4AHZEFKLTZGS3ITTHRYORN6H24
+# src_text = bbawgrabinschriften:Portikus//Simsinschrift
+# owner = Stefan Grunert
+# text_de = Geliebte des Königs und ihrer Götter sagen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓌸𓂋𓂋𓅱	72470	VERB	verb	Number=Plur|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+2	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊹	90260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nṯr
+4	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓆓𓂧𓅱	185810	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḏd
+
+# sent_id = IBUBdzQvVvlR70rEv2Sc5iuzElk
+# corpus = bbawgrabinschriften
+# src_text_id = 4AHZEFKLTZGS3ITTHRYORN6H24
+# src_text = bbawgrabinschriften:Portikus//Simsinschrift
+# owner = Stefan Grunert
+# text_de = Brot (und) Bier für den Herrn dieses Grabes aus dem, das in eurer Hand ist
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏏𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓎛𓈎𓈖𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎟	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+5	𓇋𓇩𓊃𓉐	31010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓃹𓈖𓈖𓏏	46050	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=wnn
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂝	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+11	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd7SHwiYU0E6Wm8ooSwv8Ku0
+# corpus = bbawgrabinschriften
+# src_text_id = 4AHZEFKLTZGS3ITTHRYORN6H24
+# src_text = bbawgrabinschriften:Portikus//Simsinschrift
+# owner = Stefan Grunert
+# text_de = Wenn in eurem Arm (etwas) nicht vorhanden ist - sprecht mit eurem Munde (und) opfert mit euren beiden Armen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄤𓆑𓂋𓈖	83790	PART	particle	_	_	_	_	Translit=nfr-n
+3	𓃹𓈖𓈖	46050	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+6	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓆓𓂧	185810	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḏd
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂋	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+10	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+11	𓅱𓂧𓈖	854506	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wdn
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓂝𓏤𓏤𓅱	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+14	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+

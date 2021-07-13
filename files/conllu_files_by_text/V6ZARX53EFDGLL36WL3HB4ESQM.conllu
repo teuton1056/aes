@@ -1,0 +1,894 @@
+# sent_id = IBUBdQlvMesV10sMu5C1nI9IMf0
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Er schreibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,2]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓆑𓏭	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdziAunLvLkU9swZb8kxXQ7I
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Dir Leben, Heil und Gesundheit für die Zukunft (wörtl.: zu deiner Zeit)!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,3]
+1	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓍑	52100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ
+3	𓋴	136950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snb
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓏏𓂋𓇋𓆳𓏏𓇳𓏏𓏲	172700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tr
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0n6Qkddwk6XpyW83xEr14E
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Erreiche ein schönes Alter in der Stadt des Atum!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,3]
+1	𓊏𓊪𓏲𓏭𓏛𓀜	157160	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šzp
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓄿𓏲𓏏𓀗𓐎𓀀	20390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+5	𓄤𓆑𓂋𓏭𓏛	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nʾ.t
+8	𓇋𓏏𓅓𓏲𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+
+# sent_id = IBUBdwvRb8mqbkf2pFKidiXZI70
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Möge es dazu kommen, dass deine Gunst infolge königlicher Gnade dauerhaft ist!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,3] - [1,4]
+1	𓆣𓂋𓏲𓏭𓏛𓀜	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓎛𓎿𓋴𓏮𓀁𓏏𓏲	109800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥzw.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏠𓈖𓍖𓏛	69590	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=mn
+5	𓅓𓆱𓐍𓏏𓏭𓏛𓀜	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓂓𓏤𓅆	162870	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=kꜣ
+7	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+
+# sent_id = IBUBd5JCNUgBckBLutHR0ghM3x0
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (und) möge sie dein Herz durchziehen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,4] - [1,5]
+1	𓄲𓂋𓏲𓏭𓂻𓁻𓏥	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄣𓏤𓄹	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd18BxoRW10xPpyzDHMOfvAM
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Möge sie deine Bitte erhören, wenn du sie preist!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,5] - [1,6]
+1	𓄔𓅓𓏲𓏭𓏛𓀁	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄭𓂋𓏲𓏭𓂻𓏭𓄑𓀁𓏏𓏲	132870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=spr.t
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅓𓂞𓄿𓇋𓇋	855159	PART	particle	_	_	_	_	Translit=m-ḏr
+6	𓇼𓄿𓏲𓏲𓀢𓀁𓏏𓏲	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdzqYWjf9r0bKm9k7KrX05nc
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Dein(e) Glied(er) mögen in Gesundheit ausschreiten!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,6]
+1	𓊃𓈙𓐠𓄿𓏲𓏯𓂻	854546	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zni̯
+2	𓎛𓂝𓏏𓏤𓄹	854529	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥꜥ.w
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓈖𓃀𓏲𓏭𓏛	136950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snb
+
+# sent_id = IBUBdzsKDfipkEualQX31MQ4AM0
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Möge sie dein Leiden vertreiben!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,6] - [1,7]
+1	𓂧𓂋𓀁	180130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏠𓈖𓅪	69770	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mn.t
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWnXp82XJEMFijmSPYTHqic
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Möge sie ein 110-jähriges Verweilen auf Erden erlauben (wörtl.: Möge sie ein Erreichen von/Eintreten in 110 Jahre(n) auf Erden zulassen),
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,7]
+1	𓂞𓏲	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎸𓅓𓏲𓏭𓂻	123420	VERB	verb	VerbForm=Fin	_	_	_	Translit=ẖnm
+4	𓆳𓏏𓏤𓇳	94920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.t
+5	𓍢𓎆	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓁷𓏤𓁶𓏤	108280	ADP	preposition	_	_	_	_	Translit=ḥr-tp
+7	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdwwxLf7tPUcukmIzPafaMWg
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Sei ferner froh
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,8]
+1	𓃹𓈖𓆑𓀁	46660	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wnf
+2	𓅓𓂧𓃹𓈖𓏭𓂻	66000	ADV	adverb	_	_	_	_	Translit=m-dwn
+
+# sent_id = IBUBdyDXmj1pF01HnxID31W8s5o
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (und) heiter in deinem Herzen,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,8]
+1	𓂋𓈙𓏲𓏭𓂉𓏤𓏛𓏥	96210	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ršu̯
+2	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄂𓏏𓏭𓄣𓏤𓄹	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0NILgxkEUhwj4dIBWWWrfI
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Dein Herz sei am rechten Fleck (wörtl.: in seinem Brustkorb)!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,12]
+1	𓄣𓏤𓄹	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉔𓄿𓈖𓏌𓏲𓊭𓏭𓉐	98560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=hnw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdw8Kgx9LdEd8s5cc2eQbpls
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Deine Zunge möge wie gewohnt ausschreiten!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [1,12] - [1,13]
+1	𓊃𓈙𓐠𓄿𓏲𓏯𓂻	854546	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zni̯
+2	𓈖𓄓𓏏𓏤𓄹	87800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ns
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3oEKuf7Y0LPiTlznQW7Wwo
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Es möge (dennoch) kein (ewiges) Verweilen (auf Erden) geben (?)!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓊃𓊪𓊪𓏭𓏛𓀜	132780	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zpp
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWaOypw230vdibheihdMyjk
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Mögest du dich wie die Gerechten dem Magistrat von Heliopolis zugesellen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,2]
+1	𓋁𓃀𓐍𓏏𓏯𓀁	89	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣbḫ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+4	𓀗𓏲𓇋𓇋𓀀𓏥𓅓𓉺𓏌𓊖𓅆	852401	_	epitheton-title	Number=Plur|Status=Abs	_	_	_	Translit=sr-m-Jwn.w
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓆄𓆄𓆄	500312	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mꜣꜥ.tj
+
+# sent_id = IBUBd8RfArHPNU74vbUKCmWW4ig
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Tritt ein in das Balsamierungszelt!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,2]
+1	𓂝𓈎𓏲𓏭𓂻	41180	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥq
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊃𓂝𓎛𓏲𓏏𓉐	140250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḥ
+
+# sent_id = IBUBd7vFAHSCPUQCu5ImUkQQj40
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Mögest du (d.h. deine einzelnen Glieder bei der Mumifizierung) vereint werden!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,3]
+1	𓄥𓄿𓅓𓏲𓏭𓏛𓀜𓏏𓏲	134180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zmꜣ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6GXRV8HoEQSjM4THYStoWE
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Mögest du gespeist werden mit dem Opferbrot, das für die Dauer der Unendlichkeit dem Gott dargebracht wird (und) den Westlichen zur Verfügung steht!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,3] - [2,4]
+1	𓂧𓂋𓊪𓏲𓈀𓏥𓏏𓏲	180220	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=drp
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊃𓈖𓈖𓏏𓏮	136340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snw
+5	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+6	𓅓𓂺𓏛	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+7	𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+8	𓂋𓆱𓐍𓏏𓀜	92290	ADP	preposition	_	_	_	_	Translit=r-ḫt
+9	𓋀𓏏𓏏𓈉𓅂𓐖𓈉𓅆	26220	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jmn.tjw
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓄫𓏲	31	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜣw
+12	𓆓𓏴	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd3VXtAjDrUZbvJMFQYS9doQ
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ich bin betrügerisch verdrängt worden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,4]
+1	𓏲𓏏𓁐	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+2	𓏠𓈖𓏌𓏲𓂢𓂻	70710	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=mnmn
+3	𓅓𓎼𓂋𓍅𓀜	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5GFgB2IvkvFijxLd3jMpB4
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ich bin aus meiner (Heimat-)Stadt hinausgeworfen worden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,5]
+1	𓆼𓄿𓂝𓂻𓎢𓏲𓀀	113560	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḫꜣꜥ
+2	𓃀𓏲𓈖𓏥𓏭𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊖𓏏𓏤𓏲𓏏	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdWQjWobMzkvTmijbKBtDY5Q
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = ohne dass sie heil (blieb).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,6]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓋴𓏏	851204	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+3	𓅱𓍑𓄿𓏭𓏛	52090	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wḏꜣ
+
+# sent_id = IBUBd9faGGxwkkQlljgQFWpnRZo
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ich bin völlig aufgelöst.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,6]
+1	𓏏𓏲𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+2	𓐍𓆑𓏮𓀒𓂡	63970	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=fḫ
+3	𓉻𓏛	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8TgBHDa8UFEgRCJeclRptk
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Wahrlich, jeder Kundige der Stadt war zugegen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,6]
+1	𓇋𓇋𓏛	20060	INTJ	interjection	_	_	_	_	Translit=jꜣ
+2	𓂸𓂋	77640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mtr
+3	𓂋𓐍𓏭𓏛	95630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫ
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+5	𓈖𓏏𓏮	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+7	𓂧𓏇𓇋𓇋𓏏𓈇𓏤𓏫𓊖	179330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dmj
+
+# sent_id = IBUBdyI8v7QqO0q1vB2ttGVz5ng
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Sie sind gleichfalls meiner beraubt worden (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,6] - [2,7]
+1	𓋴𓏏	851209	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+2	𓃛𓏲𓍯𓄿𓏭𓏛𓀜	22180	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwꜣ
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓅓𓏇𓇋𓏏𓏏𓏭𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+
+# sent_id = IBUBdzioOC6TskpYvqJDLs6QRFc
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (Meine) Frau, die (flehend) an sie herantrat (?; oder: die sich (schützend) davor stellte), wurde getötet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,7]
+1	𓄡𓂧𓃀𓏲𓌫𓂡	124950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖdb
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓊃𓏏𓆇𓀀	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+4	𓇋𓀁𓈎𓄿𓃭𓏤𓇋𓄿𓂾𓏭𓂻	850645	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=qꜣri̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓊃𓋴𓏏𓏥	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd0pW1Q0ecE3usdIcw4rpjXA
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ihre Kinder wurden (auf andere Familien) verteilt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,7] - [2,8]
+1	𓐍𓏮𓈖𓏥𓏭𓂋𓏤𓈐𓏏𓏤	118390	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnr
+2	𓈖𓄿𓇋𓇋	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+3	𓋴𓈖𓏥	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓄟𓋴𓀔𓀀𓁐𓏫	74750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ms
+
+# sent_id = IBUBd8smJCOHP04toULvq1WygdA
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Meine Diener, sie wurden vorgeführt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,9]
+1	𓈖𓄿𓇋𓇋	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅡𓎢𓇋𓏲𓏭𓏛𓀜	53830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bꜣk
+4	𓐍𓂋𓊪𓏲𓌂𓏛𓀜	120150	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫrp
+5	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBdwIRHPOn7EYBjKuVReh7g8g
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (Mein) Amt wurde genommen,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,9] - [2,10]
+1	𓈖𓈞𓅓𓏲𓏭𓏛𓀜	86430	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+2	𓇋𓄿𓏲𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+
+# sent_id = IBUBdxB1Bbh44UGJrbhbnveZCgc
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ich bin (nun) von meiner Position, (die ich noch) gestern (innegehabt hatte), vertrieben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,10]
+1	𓏏𓎢𓂻𓏲𓎢𓀀	173680	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=tkn
+2	𓃀𓏲𓈖𓏥𓏭𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊨𓏏𓉐𓏏𓏲	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓋴𓆑𓇳𓏤	133440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sf
+
+# sent_id = IBUBd4zMn8gAfU8pn0FRrbYeXOI
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = das nicht meins war.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [2,12]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇋𓏌𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd5iel9YK60VznEe7IUfgq0o
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = und traf ein im Oxyrhynchos-Gau.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [3,3]
+1	𓄖𓏲𓏭𓂻	61370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓌀𓃀𓌀𓃀𓏏𓊖	856974	PROPN	entity-name	_	_	_	_	Translit=Bw-Jgꜣ.j
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdyxwceUW40NFo1DYRKQRuew
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ich betrat die Große Oase (Kharga (?)).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [3,3]
+1	𓁹𓇋𓇋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂝𓈎𓏲𓂝𓈎𓏲𓂾𓏭𓂻	41460	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥqꜥq
+4	𓎢𓈖𓅓𓏏𓏏𓊖	164840	PROPN	entity-name	_	_	_	_	Translit=Knm.t
+
+# sent_id = IBUBd4WS8JQO7EcFijjwy3XzW3U
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (denn meine) Pferde waren entwendet
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [3,4] - [3,5]
+1	𓇋𓅷𓄿𓇋𓇋𓂷𓂡	33530	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯꜣ
+2	𓋴𓋴𓅓𓏏𓄛𓏤𓏫	144020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ssm.t
+
+# sent_id = IBUBd5Azhz4vL0uxgAtPddx8eM0
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ihr Zaumzeug ist ergriffen worden,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [3,5] - [3,6]
+1	𓊏𓊪𓏲𓏭𓏛𓀜	157160	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+2	𓈖𓄿𓇋𓇋	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+3	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+4	𓉻𓏛𓎼𓄿𓈖𓄿𓐠𓏤𓏭𓅪	41800	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥgsw
+
+# sent_id = IBUBd8WaG5QX5EZ6hWNj9TSx7ew
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = ein anderer (fährt) mit (wörtl.: auf) ihm (sc. dem Gespann).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [3,6]
+1	𓎢𓄿𓇋𓇋𓀁	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+2	𓁷𓏤𓂋𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBd2VaxvySkEB6q3Xu6BYmE80
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (Als) mein(e) Kamerad(en) (hatte ich) Fremde;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [3,7]
+1	𓇋𓂋𓏮𓀹𓏛	28510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.j
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓐍𓊪𓊪𓏲𓁻𓏥	116150	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫpp
+
+# sent_id = IBUBd4nuS57Hqk3QiNVi54VZW6g
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (es waren vielmehr) Gesellen, die neu gemacht wurden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [3,8]
+1	𓐍𓈖𓌰𓅓𓀙𓇋𓀀𓏥	118060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫnm
+2	𓁹𓂋𓏮	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓅓𓌳𓄿𓇋𓏲𓏏𓈇𓏤𓏫	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd4QWM4rmh0dMvpxzlATWlgg
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Man hat mich nicht bedauert wegen meiner Verwicklungen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [3,12]
+1	𓃀𓏲	55130	PART	particle	_	_	_	_	Translit=bw
+2	𓈖𓉔𓄿𓊪𓏲𓏭𓄑𓀁	85490	VERB	verb	_	_	_	_	Translit=nhp
+3	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈖𓄿𓇋𓇋	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓍋𓅓𓂋𓏭𓅪	71810	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mr
+
+# sent_id = IBUBd77p9Yr3lkUdtSXeuPVNQQs
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ich weiß nichts von Getreide.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,1]
+1	𓐍𓅓𓏲𓂜𓅪𓈖	116910	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫm
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓄤𓏤𓇋𓇋𓌾𓏥	83540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nfr
+
+# sent_id = IBUBdwXlMQEti0f1hSV6j7MvN40
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Es gibt keines.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,1]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓇓𓏲	851203	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd8ZaLkASoEgNu8AH9ZtnyEE
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (Dass) ich an Hunger litt, ist von mir offenbart worden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,3]
+1	𓇋𓋴𓊪𓏲𓏭𓅪	31480	VERB	verb	VerbForm=Fin	_	_	_	Translit=jsp
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓃹𓈖𓏲𓁷𓏤	46060	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wn
+4	𓅓𓂝𓏲	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd2pmBcWxSUG6l0u7AjGDHfc
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Die Überschwemmung ist weit entfernt,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,4]
+1	𓇋𓂝𓊪𓏲𓊅𓈗𓈘𓈇	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+2	𓋁𓃀𓏯𓂻	72	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣb
+
+# sent_id = IBUBdysjFgkT3E42vCISWaF3NiI
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = ihr Land ist vertrocknet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,4] - [4,5]
+1	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tꜣ
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓅱𓆷𓄿𓁸𓇳	50650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšr
+
+# sent_id = IBUBd1xjrrdL2k2Vp9SwyUPQocw
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Sie werden nicht aus dem Elend herauskommen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓉐𓂋𓏭𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄿𓂧𓏮𓏭𓅪	21160	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jꜣd.t
+
+# sent_id = IBUBdxL3x0RmDkudqchLKyT89So
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ein (früher erfolgreicher) Bittsteller ist (jetzt) einer, der abgewiesen wird von seinem Herrn, wobei ihm (sein) Protest verdreht werden wird.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,5] - [4,6]
+1	𓂧𓃀𓎛𓏲𓏭𓄑𓀁	178750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dbḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂝𓈖𓏭𓏛𓊛	38040	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ꜥnn
+4	𓅓𓂞𓏏𓇋𓇋𓏭𓏛	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+5	𓎟𓏏𓏤𓀀	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓆷𓄿𓉻𓏛𓏭𓂋𓏤𓏭𓄑𓀁	152550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜥr
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓂻	33560	VERB	verb	VerbForm=Fin	_	_	_	Translit=jṯi̯
+14	𓏎𓈖𓏭𓂻	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+15	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyY0DUYECUpYgk8oSKA9U4E
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (Des Herrn) Gefolgschaft ist geschmeichelt, wenn (?) das ihre festgesetzt wird.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,6]
+1	𓇩𓏏𓏤𓇋𓇋𓀀𓏥	31080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jz.t
+2	𓋴𓃹𓈖𓃹𓈖𓏭𓏛𓀁	130320	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=swnwn
+3	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓋴𓏠𓈖𓏌𓏲𓍖𓏛	851677	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=smn
+
+# sent_id = IBUBdw1eK4IMfEPWgrkIh0VhdXc
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ihre ... ist jedermanns (Besitz/Sache?), abgesehen von ihren (Extra-)Belohnungen (?) und (?) ihrem (normalen) Einkommen, (bestehend aus) Salz, Natron, Zwiebeln, Schilfrohr (?) und Binsen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,6] - [4,8]
+1	𓇥𓂋𓏲𓏏𓏭𓏛𓀜𓉐	_	_	_	_	_	_	_	_
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+6	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓅱𓇋𓄿𓂢𓂻𓍘𓇋	44030	VERB	verb	_	_	_	_	Translit=wjꜣ
+9	𓈖𓄿𓇋𓇋	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+10	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+11	𓐪𓂧𓆑𓄿𓏲𓏛𓏥	_	X	unknown	Number=Plur|Status=Abs	_	_	_	_
+12	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+13	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+14	𓏏𓂋𓇋𓆳𓇋𓇋𓏛𓏥	111840	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtr
+15	𓎛𓌳𓄿𓅓𓏲𓏏𓈒	105070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t
+16	𓎛𓋴𓏠𓈖𓈒	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+17	𓌉𓏲𓆰𓏫	112710	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥḏ.w
+18	𓍯𓄿𓏭𓂋𓏤𓈖𓏥𓆰𓏫	42960	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣr
+19	𓇋𓏲𓐠𓏤𓏭𓂋𓏤𓆰𓏫	31630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jsr
+
+# sent_id = IBUBd0zoqrinGUjTrjwP9eCMbNo
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Er produziere einen Haufen an Getreide, sagte sein (des Getreides) Besitzer (bei) jeder seiner (des Inspektors) Nachfragen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,9]
+1	𓁹𓇋𓇋𓏲	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊢𓏤𓇋𓇋𓌾𓏥	40280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄤𓏤𓇋𓇋𓌾𓏥	83540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nfr
+6	𓐍𓂋𓏲𓀁	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+7	𓎟𓏏𓏤𓀀	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓏏𓈖𓏌𓏲𓏭𓄑𓀁	175840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯnw
+10	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓐩𓏌𓐩𓏌𓏭𓄑𓀁	91610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḏnḏ
+
+# sent_id = IBUBd382nMgkWkJum8y8taBKkLg
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = (aber) es hatte einen Monat auf seiner Reise verbracht
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,10]
+1	𓋴𓆎𓅓𓏲𓁸	146770	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=skm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇹𓇼𓄿𓏲𓏲𓇳	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓏏𓄿𓇋𓏲𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓎗𓏤𓇋𓇋𓏭𓂻	52330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏ.yt
+
+# sent_id = IBUBd3qU0JhkWUF4vhy1tvQ7oy8
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Er tat mir Böses in meiner Stadt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,11]
+1	𓁹𓇋𓇋𓏲	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓏏𓏲𓍯𓄿𓐎𓅪	170240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twꜣ.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊖𓏏𓏤𓏏𓏲	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd3bZbxqXSkn2rjm4lxQeWKc
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ihre (Ver)sprech(ungen) (?) waren erschöpfend (?),
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,13]
+1	𓊪𓈖𓈎𓄿𓏭	60130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pnq
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd7kfvjrRakj0n54ytyNzSNY
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Wie falsch ist doch der Handwerker, der das getan hat!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [4,14]
+1	𓂝𓍑𓄿𓇋𓏲𓏭𓅪	42110	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥḏꜣ
+2	𓅱𓋴𓏮𓈐𓂻	49490	ADV	adverb	_	_	_	_	Translit=wsy
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓍍𓄿𓏲𓅓𓏲𓏭𓏛𓀜	600034	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt.j
+5	𓇋𓀁𓁹𓂋𓏲	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd2EPCZy4KkGjnAax23SfISs
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = In Gedanken sprach ich zu mir (wörtl.: Ich sprach zu meinem Herzen):
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [5,1]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd00WuFyoWUb3ixAGnq4MlH8
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ich will frei sein von der Steuer!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [5,2]
+1	𓊪𓈙𓏌𓏲𓂢𓏮𓀜𓎢𓏲𓀀	62610	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=pšn
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓅡𓎢𓇋𓏲𓏭𓏛𓀜𓏫	53890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣk.w
+
+# sent_id = IBUBd2V9JrM4KE3yhOhvnp3WYU8
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Es war vor meinem Gott (geschehen).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [5,3]
+1	𓃹𓈖	550129	PART	particle	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nṯr
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdWWoZF3WO05ws5C65qQ5knY
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Wer ist es, der es/sich verstecken kann, sagend:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [5,3] - [5,4]
+1	𓇋𓈖𓅓𓂝𓈖𓏥𓀁	27410	PRON	pronoun	PronType=Int	_	_	_	Translit=jn-m
+2	𓋴𓇉𓄿𓊪𓏲𓍱𓂡	140410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥꜣp
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓆓𓂧	859134	PART	particle	_	_	_	_	Translit=r-ḏd
+
+# sent_id = IBUBd7raUepq4UQOp36NQ3t9AhY
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = "Deine Macht ist es, o Gott, die es vermag.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [5,4]
+1	𓅢𓏤𓅆𓏥	53300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ.w
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+5	𓇋𓀁𓁹𓂋𓏲𓏭	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd0pKis18C0H4rih6lFPC7wU
+# corpus = sawlit
+# src_text_id = V6ZARX53EFDGLL36WL3HB4ESQM
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Recto: Der Moskauer literarische Brief ("A Tale of Woe")
+# owner = Lutz Popko
+# text_de = Ach möge er doch meine Begleiter erreichen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [5,6]
+1	𓉔𓄿𓈖𓄿𓏛𓀁	97660	PART	particle	_	_	_	_	Translit=hꜣnꜣ
+2	𓅓𓂝𓇋𓇋𓀁	400083	PART	particle	_	_	_	_	Translit=mj
+3	𓄖𓏲𓏭𓂻	61370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈖𓄿𓇋𓇋	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓊄𓃀𓏲𓏏𓈉𓅂	131700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zb.tjw
+

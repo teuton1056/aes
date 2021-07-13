@@ -1,0 +1,861 @@
+# sent_id = IBUBdxDhOagTOEqurMYcaH5qdKQ
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Der Himmel bewölkt sich, die Sterne verdunkeln sich (?), die Ausgespannte (scil. Weite des Himmels) schwankt, die Knochen der Erdgötter zittern und die Bewegungen(?) werden still, (denn) sie haben Unas gesehen, erschienen und ba-mächtig als Gott, der von seinen Vätern lebt und sich von seinen Müttern nährt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [496] - [500]
+1	𓎼𓊪	167130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=gp
+2	𓇲𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+3	𓇋𓎛𓇋𓇋	30540	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jḥy
+4	𓇼𓇼𓇼	131180	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbꜣ
+5	𓈖𓌱𓅓𓈖𓌱𓅓𓂻	84300	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nmnm
+6	𓊪𓆓𓏏𓌒𓌒𓌒	63250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pḏ.t
+7	𓋴𓂧𓄿𓅥	149660	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sdꜣ
+8	𓈎𓋴𓌟𓌟𓌟	162200	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=qs
+9	𓄿𓎡𓃭	307	PROPN	entity-name	Number=Plur|Status=Abs	_	_	_	Translit=Ꜣkr
+10	𓎼𓂋	167750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=gr
+11	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+12	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+13	𓎼𓈖𓌱𓅱	852030	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=gnm.w
+14	𓌳𓁹𓈖	66270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+15	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+16	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+17	𓈍𓂝	114740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜥi̯
+18	𓅡	854507	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=bꜣ
+19	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+20	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+21	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+22	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓇋𓏏𓇋𓏏𓇋𓏏	32820	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jtj
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+25	𓅱𓈙𓃀	50320	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wšb
+26	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+27	𓅐𓅐𓏏𓅐	69040	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mw.t
+28	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwWMOy7NnkKfu0awKOpd7yA
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist der Herr der Weisheit(?), dessen Namen (sogar) seine Mutter nicht kennt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [500] - [501]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪𓇋	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓃥𓃀𓅱𓏏	852031	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zꜣb.wt
+5	𓐍𓅓𓂜𓈖	116910	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḫm
+6	𓏏𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0w5iH0KK080pvDVXYWYUQ4
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas' Herrlichkeit ist am Himmel, seine Macht ist im Horizont, wie (bei) Atum, seinem Vater, der ihn geschaffen hat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [501] - [502]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈙𓊪𓇓𓅱	153880	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šps.w
+3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+6	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓄊𓂋	49600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wsr.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓏏𓅜𓈀	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+11	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+12	𓍃𓏏	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+13	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓄟	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=msi̯
+16	𓋴𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdz2f3rSBiUK3pjxLB7Q8ZpY
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Er hat ihn geschaffen;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [502]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓈖	74950	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdz2tqzVjx0cNh3HiuZeG5zg
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = (aber) er ist mächtiger als er.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [502]
+1	𓄊𓋴𓂋	500010	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wsr
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzx59SWL40FKjWP06sA4NxU
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas' Kas sind hinter ihm.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [502] - [503]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂓𓂓𓂓	162870	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=kꜣ
+3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+4	𓇉	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd98a2yp02EPytiPhrzxLIH0
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Seine Hemsut sind unter seinen Füßen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [503]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈞𓅱𓋴𓏏	852032	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥms.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓌨	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd14WMi7sskiCrCcQWEt7YQY
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Seine Götter sind über ihm.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [503]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nṯr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁶	850801	ADP	preposition	_	_	_	_	Translit=tp
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdygq1X8Tf0pAvBC7WtvAn7w
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas' Mächte sind dabei ihn zu schützen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [505]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄊𓄊𓄊	49600	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wsr.w
+3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+4	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓅓𓎡𓏏	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd30nrrGvmE47pvBPVpBm8fU
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist der Stier des Himmels, grimmig in seinem Charakter, der von der Gestalt eines jeden Gottes lebt, der ihre Eingeweide(?) ißt, (derer) die gekommen sind, nachdem ihr Bauch mit Zauberkräften gefüllt wurde auf der Flammeninsel.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [505] - [506]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓂓𓂸𓃒	162930	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=kꜣ
+4	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓈖𓉔𓂧	85810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nhd
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄣	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓆣𓂋	116300	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫpr.w
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+14	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+15	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
+16	𓅱𓊃𓅓𓅱	49560	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wzm.w
+17	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+18	𓂻𓅱𓅱	21930	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+19	𓎔	854514	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+20	𓄡𓏏	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+21	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+22	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓎛𓂓𓅱	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+24	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+25	𓈀𓈖𓋴𓇋𓋴𓇋𓊮𓊖	22100	PROPN	entity-name	_	_	_	_	Translit=Jw-nsrsr
+
+# sent_id = IBUBd6aVz0PFSUkdmRNdVW3X1Hc
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Mit seinem Rücken zu Geb sitzt er da.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [507]
+1	𓈞𓋴	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐟𓏤	125670	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅬𓃀	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+
+# sent_id = IBUBdw1koRSnHkBvmoTh61ZP9H4
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist einer, der seine Angelegenheit zusammen mit "Dessen-Name-verborgen-ist" entscheidet, an diesem Tag, da der Älteste geschlachtet wird.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [508]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓐣	52360	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏꜥ
+4	𓌃𓏝	78150	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mdw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+7	𓇋𓏠𓈖𓂜	26030	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jmn
+8	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+11	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓂋𓐍𓋴𓌪	95870	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḫs
+14	𓋴𓅓𓇓𓅱	856128	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sms.w
+
+# sent_id = IBUBdz1NB0NSVkqcgPqf0LnMK3Y
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist Herr der Opfergaben, der das Tau knotet, der sein Opfermahl selbst bereitet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [508]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓊵𓏏𓊪𓏏𓏝	111360	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtp.t
+5	𓋭	176800	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ṯꜣz
+6	𓂝𓈎𓄿𓍢	41360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥqꜣ
+7	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+8	𓄫𓏏𓏐𓏖𓏊	39	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣw.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓆓𓋴	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQbRLNcHVkoQkq2hTx4xh2I
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist einer, der Menschen ißt und von Göttern lebt, ein Herr von Boten, der Aufträge erteilt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [509]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
+4	𓂋𓅓𓍿	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+5	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+8	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+9	𓏎𓏎𓏎	27050	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jn.w
+10	𓐍𓆩𓂝	113560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜣꜥ
+11	𓄋𓏏𓏝𓏝𓏝	45750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wpw.t
+
+# sent_id = IBUBdzaFZuTG6U6amQik61mouSw
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = "Der-auf-dem-Roten(?)" ist es, der sie für ihn fesselt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [510]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓁷𓂋𓍿𓂋𓏏𓅱	852033	PROPN	entity-name	_	_	_	_	Translit=Ḥr.j-ṯr.wt
+3	𓈎𓄿𓋴𓍢	159470	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qꜣs
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓋴𓈖	136190	PRON	pronoun	PronType=Prs	_	_	_	Translit=sn
+
+# sent_id = IBUBd544O2WQ3kdLuKdm7HBrh4I
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Das ist der Bote, den er um Vergeltung zu üben ausgesandt hat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [511]
+1	𓄋𓊪𓏏	45760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wpw.tj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓉔𓄿𓃀𓅱	97580	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=hꜣb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓐍𓋴𓍙𓆑	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+
+# sent_id = IBUBd3FFUlpewErog76hZIz2puc
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist der, der ihre Zauberkraft ißt und ihre Ach-Kraft verschlingt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [512]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
+4	𓎛𓂓𓏝	110660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥkꜣ.w
+5	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓇋𓂝𓅓	37500	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥm
+7	𓅜𓅜𓅜	253	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣḫ.w
+8	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd1y8AFcVp0zZkT6kXw4Mkl4
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Großen unter ihnen sind für sein Morgenmahl.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [512]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅨𓂋𓈓	47280	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wr
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓇋𓈙𓏏	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂧𓍯𓇼𓏏𓇳𓈃	178120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dwꜣ.yt
+
+# sent_id = IBUBd5hYP61XTUEEgz2Xj9AWkdE
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Mittleren unter ihnen sind für sein Abendessen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [512]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁷𓄣𓅱	401116	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥr.j-jb
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓅓𓈙𓃭𓏏𓇶	76500	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mšr.wt
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzbdLWyWh0hJpsL3Ze3Mcbc
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Kleinen unter ihnen sind für sein Nachtmahl.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [512]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈙𓂋𓂋𓈓	156650	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šrj
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓇋𓈙𓏏	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓐍𓉹𓅱𓇱	113750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣwj
+
+# sent_id = IBUBd0E0qlM3gEk6s3qBeSvXBzc
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Greise und Greisinnen unter ihnen sind für seine Feuerung.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [513]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓄿𓈓	20380	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣw
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓄿𓏏𓅱𓈓	20400	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣw.t
+5	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓎡𓄿𓊪𓏏𓊷	163390	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=kꜣp.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7zDyTBSLE23jGbMUIv7mkk
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Großen im Norden des Himmels sind es, die für ihn Feuer an die Kessel legen, in denen sie sind, mit den Schenkeln der Ältesten unter ihnen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [513]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓂝𓉻𓄿	34760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ
+3	𓎔𓅂	73560	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=mḥ.tj
+4	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓅱𓂧𓅱	854503	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wdi̯
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓋴𓆓𓏏𓊮	150140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḏ.t
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓅱𓎛𓄿𓏏𓅱𓎵𓎵𓎵	48690	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḥꜣ.t
+11	𓌨𓂋𓏏	850794	ADP	preposition	Number=Plur|Status=Pron|Gender=Fem	_	_	_	Translit=ẖr
+12	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓄗𓄗𓄗	116430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫpš
+15	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+16	𓋴𓅓𓋴	856128	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sms.w
+17	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd4Ovn23Z0UxluRcMGbyTRh4
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Er hat die beiden Himmel insgesamt umrundet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [514]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂧𓃀𓈖𓄲𓈖	854585	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊪𓏏𓇯𓇯	58710	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=p.t
+5	𓏏𓍃𓍘𓇋	854578	VERB	verb	Number=Dual|Gender=Fem|VerbForm=Conv	_	_	_	Translit=tm
+
+# sent_id = IBUBd4OBc9vsYU1rkjluLIikoQY
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Er hat die beiden Ufer durchzogen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [514]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊪𓄲𓂋𓈖	61900	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓂧𓃀𓅱𓈅𓈅	854494	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jdb
+
+# sent_id = IBUBd2WSK8Vcz0rakk8coi6d2oo
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist die Große Macht, die Macht hat über die Mächte/die Mächtigen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [514] - [515]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓌂𓏤𓅨	500490	_	epitheton-title	_	_	_	_	Translit=sḫm-wr
+4	𓋴𓌂𓐍𓅓	851679	VERB	verb	_	_	_	_	Translit=sḫm
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓌂𓌂𓌂	142140	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫm
+
+# sent_id = IBUBdzDLxbrQz0WhtNDyttZS8Tc
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist die schauder-erweckende Gestalt, der schauder-erweckendste der Schauder-erweckenden, der Große.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [515]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓂝𓈙𓅓	40780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥẖm
+4	𓂝𓈙𓅓	40790	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥẖm
+5	𓂝𓈙𓅓𓅱𓈓	40790	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥẖm
+6	𓅨	851429	_	epitheton-title	_	_	_	_	Translit=wr
+
+# sent_id = IBUBdwQNcUqxokbOrhFxZ2X8pVE
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Wen er auf seinem Weg findet, den ißt er für sich roh(?)/häppchenweise(?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [515]
+1	𓅠𓇋𓇋	167210	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=gmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wꜣ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇬𓏘𓏘	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+11	𓅓𓅱𓅓𓅱	69280	ADV	adverb	_	_	_	_	Translit=mwmw
+
+# sent_id = IBUBdQic8fEokkgssysFcifAELM
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas' Platz (oder: der Respekt vor Unas?) ist an der Spitze aller Ehrwürdigen (oder: Würden?), die im Horizont sind.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [515] - [516]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅓𓎡𓏏	76890	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mk.t
+3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+4	𓅓𓄂	500049	ADP	preposition	_	_	_	_	Translit=m-ḥꜣ.t
+5	𓋴𓂝𓎛𓅱	129120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ
+6	𓎟𓅱	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+7	𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+8	𓅜𓐍𓏏𓈀	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+
+# sent_id = IBUBd038pOOId06gkyWUQi1lLr4
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist ein Gott, älter als die Ältesten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [516]
+1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓋴𓅓𓋴	135730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sms
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴𓅓𓇓𓅱	856128	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sms.w
+
+# sent_id = IBUBd763uPov5kcehSwsJhLGj20
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Tausende gehen für ihn umher/dienen ihm.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [516]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊪𓄲𓂋	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓆼𓆼𓆼	113110	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBd7m1vXbjrkfCp3VfQF2jUWY
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Es wurde ihm Legitimation als Große Macht von Orion, dem Vater der Götter, verliehen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [516] - [517]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂋𓏙	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂝𓏝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓌂𓏤𓅨	500490	_	epitheton-title	_	_	_	_	Translit=sḫm-wr
+8	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+9	𓃃𓇼	127020	PROPN	entity-name	_	_	_	_	Translit=Sꜣḥ
+10	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jtj
+11	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd40J5G3ta0fBnFqgKdrx8hM
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist wieder am Himmel erschienen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [517]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄙𓅓𓈖	48440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+4	𓈍𓂝𓅱	114840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜥ.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd5dhN41DU0D1mw96Bpaxnew
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Er hat die Rückenwirbel zerbrochen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [517]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎛𓋴𓃀𓐎𓏝𓈖	109820	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋭𓋭𓋭	176810	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ṯꜣz
+5	𓃀𓈎𓇓𓅱	57780	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bqs.w
+
+# sent_id = IBUBd7UmkqFMrkIpsUPCJS8WfLc
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Er hat die Herzen der Götter weggenommen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [517]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎁𓈖	33560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄂𓏏𓄣𓄣𓄣	100400	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḥꜣ.tj
+5	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdW2qgh2RJUA1uxewCH99hM4
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Von den Lungen der Weisen nährt sich Unas.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [518]
+1	𓅱𓈙𓃀	50320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wšb
+2	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄥𓄥𓄥	134170	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=zmꜣ
+5	𓋴𓐟𓄿𓄿𓅱	126170	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜣꜣ
+
+# sent_id = IBUBd3tVDy8ZkEZus7ayV7UhEao
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Er ist zufrieden damit, von Herzen und ihren Zauberkräften zu leben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [518] - [519]
+1	𓊵𓏏	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋹	38530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥnḫ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄂𓏏𓄣𓄣𓄣	100400	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+7	𓎛𓂓𓅱	110660	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥkꜣ.w
+8	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓇋𓋴𓍿	851440	PART	particle	_	_	_	_	Translit=jsṯ
+
+# sent_id = IBUBd0WzULHpNUd8qx1k7kz7cCc
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ekelt sich/speit aus (?), wenn er die erbrechenerregenden(?) Dinge im Roten verschlingt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [519]
+1	𓆑𓇋𓅱	63730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=fjw
+2	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+3	𓈖𓄓𓃀	88100	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nsbi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓃀𓈙𓅱	132090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbš.w
+6	𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+7	𓅟𓂋𓏏	857575	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dšr.t
+
+# sent_id = IBUBd2JOgWsCU0ocm7p20eMc2eY
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Ihre Zauberkraft ist in seinem Bauch.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [519]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎛𓂓𓏝	110660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥkꜣ.w
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6gttwNKiEofnuNLWm4oQaI
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas' Würden werden ihm nicht fortgenommen werden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [520]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓈖𓈞𓅓𓅓	86430	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓋴𓂝𓎛𓅱	129070	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=sꜥḥ
+4	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+5	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwnM1mNuuEPXhg3EFQEfHsw
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Er hat die Erkenntnis eines jeden Gottes verschlungen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [520]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂝𓅓𓈖	37500	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋴𓇋𓋷𓄿	127850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjꜣ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd5BNz8pn80LSjxEgMvX3g9Q
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Lebenszeit des Unas ist die Ewigkeit, seine Grenze ist die Unendlichkeit in dieser seiner Würde eines "Will-er-so-tut-er, will-er-nicht-so-tut-er-nicht", (er) der auf immer und ewig im Bereich des Horizontes ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [520] - [521]
+1	𓊢𓅱𓇳	40480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.w
+2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+5	𓅘𓎛𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+6	𓇥𓂋	184990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.w
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+9	𓆓𓏏𓈖	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋴𓂝𓎛	129070	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥḥ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓌸𓂋𓂋𓆑𓁹𓂋𓆑	857367	PROPN	entity-name	_	_	_	_	Translit=Mrr⸗f-jrr⸗f
+16	𓄟𓆓𓆓𓆑𓂜𓁹𓈖𓆑	860206	PROPN	entity-name	_	_	_	_	Translit=Msḏḏ⸗f-n-jri̯.n⸗f
+17	𓇋𓏶	25130	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jm.j
+18	𓇦𓃭	184990	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏr.w
+19	𓅜𓐍𓏏𓈀	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+20	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+21	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+22	𓅘𓎛𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+
+# sent_id = IBUBdx5qmN2WL0NZpKi5ZiwA6WM
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Ihr Ba ist ja in Unas' Bauch, ihre Wirkungsmächtigkeit ist bei Unas als ein Mehr an seiner Speise über die (der) Götter hinaus, erhitzt für Unas mit ihren Knochen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [521] - [523]
+1	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
+2	𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄡𓏏	122080	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ẖ.t
+6	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+7	𓅜𓅜𓅜	253	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣḫ.w
+8	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+10	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓇉	101060	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥꜣ.w
+13	𓐍𓏏𓏐𓏊𓏖	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+17	𓈎𓂋𓂋𓏏𓊮	161810	VERB	verb	_	_	_	_	Translit=qrr
+18	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+19	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+20	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+21	𓌟𓌟𓌟𓏬	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+22	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd6KjCzWUZUOJh6AbR5k4PXw
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Ihr Ba ist ja bei Unas, ihre Schatten sind von ihren Besitzern (entfernt).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [523]
+1	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
+2	𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+5	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+6	𓋼𓋼𓋼𓏏𓅱	152880	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šw.t
+7	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓇋𓂋𓅱	851428	ADJ	adjective	Number=Plur|Status=Pron|Gender=Masc	_	_	_	Translit=jr.j
+10	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdwjyspaoiUdXo47BM5OmBWY
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Unas ist dieses(?), was erscheint und erscheint, was dauert und dauert (oder: verborgen und verborgen ist).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [524]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇑𓇑	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+5	𓈍𓂝	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
+6	𓈍𓂝	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
+7	𓇋𓏠𓈖	69590	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mn
+8	𓇋𓏠𓈖	69590	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mn
+
+# sent_id = IBUBdzzig2cRyUs1mg1gvrEtZQM
+# corpus = bbawpyramidentexte
+# src_text_id = BRJCKLT7KNED5EKQX5DWGX3T4A
+# src_text = bbawpyramidentexte:〈Ostgiebel〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Diejenigen, die (schlimme) Taten tun, werden nie und nimmer die Macht haben, Unas' Lieblingsplatz unter den Lebenden in diesem Land zu zerstören.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [524] - [525]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓌂𓐍𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓁹𓅱	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓇋𓁹𓏏𓅱𓏝𓏝𓏝	28590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.yt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓐍𓃀𓋴	115810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫbs
+7	𓊨𓏏𓄣	125150	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t-jb
+8	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓋹𓅱	400614	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥnḫ
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+13	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+14	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓈖𓅘𓎛𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+

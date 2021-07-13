@@ -1,0 +1,19 @@
+# sent_id = IBYCNThJMmpRJ036oNVUCG29fkM
+# corpus = bbawhistbiospzt
+# src_text_id = HTWR5GPGIZDCTAXEODIV5MRL4A
+# src_text = bbawhistbiospzt:Amun von Kawa//Amun von Kawa
+# owner = Silke Grallert
+# text_de = Amun-Re von Gem-(pa-)Iten (⸗ Kawa), <<der Leben, Dauer, Wohlergehen und Freude wie Re gibt>>.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1] - [2]
+1	𓇋𓏠𓈖𓇳𓏤	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
+2	𓅠𓇋𓏏𓈖𓇳	863069	PROPN	entity-name	_	_	_	_	Translit=Gm-Jtn
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓊽	400140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏd
+6	𓌀	43300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣs
+7	𓄫𓄣	42	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜣw.t-jb
+8	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+9	𓇳	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+

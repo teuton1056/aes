@@ -1,0 +1,40 @@
+# sent_id = IBUBdyquJEHFdkQ5g9adhHvzZOU
+# corpus = bbawgrabinschriften
+# src_text_id = TBPIJJC4IFASVLHCEU3JORHAFI
+# src_text = bbawgrabinschriften:Westwand//4. Register von oben (Abfüllen/Beladen)
+# owner = Stefan Grunert
+# text_de = Das Geben des Korns für die Garben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓂋𓏙𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓇠	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓌳𓐍𓅱	67270	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mꜣḫ
+
+# sent_id = IBUBd1oBLJIQxUBnhkrW5jVdkeY
+# corpus = bbawgrabinschriften
+# src_text_id = TBPIJJC4IFASVLHCEU3JORHAFI
+# src_text = bbawgrabinschriften:Westwand//4. Register von oben (Abfüllen/Beladen)
+# owner = Stefan Grunert
+# text_de = Füll doch!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓅓𓎕	854514	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mḥ
+2	𓂋𓊃𓊪	450450	ADV	adverb	_	_	_	_	Translit=r-zp
+
+# sent_id = IBUBdwv5JpLBXElps5Z536cAGnY
+# corpus = bbawgrabinschriften
+# src_text_id = TBPIJJC4IFASVLHCEU3JORHAFI
+# src_text = bbawgrabinschriften:Westwand//4. Register von oben (Abfüllen/Beladen)
+# owner = Stefan Grunert
+# text_de = Bring doch, leite ihn!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [8]
+1	𓏎	26870	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jni̯
+2	𓅓	400083	PART	particle	_	_	_	_	Translit=mj
+3	𓐙	854512	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mꜣꜥ
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+

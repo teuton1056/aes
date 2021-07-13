@@ -1,0 +1,127 @@
+# sent_id = IBUBd24sObBTq0HAtWi4bIMUFYY
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Das Betrachten der Liste der Gaben, die gebracht werden als tägliches Totenopfer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Szenentitel]
+1	𓁹𓌳𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+2	𓏞𓏝	450097	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zẖꜣ.w
+3	𓈖𓐩𓏏𓁷	91200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḏ.t-ḥr
+4	𓏎𓈖𓏏	26870	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jni̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉓𓏖	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+7	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBd0BHDzuzOEW2lrKeJ5YVnr4
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Wab-Priester, Hüter des Geheimnisses (und) Verwalter des Königsvermögens Jasen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Signalement 1]
+1	𓋴𓌉𓀆	450304	_	epitheton-title	_	_	_	_	Translit=sḥḏ-wꜥb.w
+2	𓁷𓂋𓋴𓈙𓏏𓍔	108830	_	epitheton-title	_	_	_	_	Translit=ḥr.j-sštꜣ
+3	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+4	𓇋𓄿𓊃𓈖	711257	PROPN	entity-name	_	_	_	_	Translit=Jꜣzn
+
+# sent_id = IBUBd1FWMPZYx0aRjytdeDbzM2w
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Seine Ehefrau Meret-ities.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Signalement 2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓏏𓏏𓆑𓋴	702196	PROPN	entity-name	_	_	_	_	Translit=Mr.t-jtj⸗s
+
+# sent_id = IBUBd3Ic6JETU0YWrASYVH2sBcE
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Der Chentischi des Palastes, Wab-Priester des Königs (und) Verwalter des Königsvermögens Mery-anchu
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Signalement 3]
+1	𓉐𓉻𓏃𓈙𓏏	450140	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-š-pr-ꜥꜣ
+2	𓇓𓏏𓈖𓀆	44590	_	epitheton-title	_	_	_	_	Translit=wꜥb-nswt
+3	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+4	𓌸𓇋𓇋𓋹	450771	PROPN	entity-name	_	_	_	_	Translit=Mr.y-ꜥnḫ.w
+
+# sent_id = IBUBdQ20jMea40nijKQOyW716Ao
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [mittleres Register, Beischrift 1]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+
+# sent_id = IBUBd96dIxCt8U6Qlvf4LrgQofM
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [mittleres Register, Beischrift 2]
+1	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+2	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+
+# sent_id = IBUBd6RW95tsVEEVgUUd5ReMkqI
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Ein Langhornrind.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [mittleres Register, Beischrift 3]
+1	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+
+# sent_id = IBUBdQVW3VvzgEBchH6pEVy2U4A
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unteres Register, Beischrift 1]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+
+# sent_id = IBUBd2R6IRx220UNmUQLXNHvqb4
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Ein Langhornrind.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unteres Register, Beischrift 2]
+1	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+
+# sent_id = IBUBd5T1nuOQfEZyveLLezGFwCU
+# corpus = bbawgrabinschriften
+# src_text_id = RZSFRY4RWVHVXCWMDUF3M2SXGA
+# src_text = bbawgrabinschriften:Opferkapelle//〈Kapelle〉 Ostwand
+# owner = Stefan Grunert
+# text_de = Ein Langhornrind.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unteres Register, Beischrift 3]
+1	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+

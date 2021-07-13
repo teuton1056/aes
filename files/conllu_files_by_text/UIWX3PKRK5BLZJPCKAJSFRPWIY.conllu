@@ -1,0 +1,302 @@
+# sent_id = IBcBkl508curqUUQtml1Wfwfnuo
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Etwas, was zu tun ist, um einen Stachel/Dorn herauszuziehen, (d)er im Körper (steckt):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,4]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄞𓂧𓏏𓂝	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+4	𓋴𓂋𓏏𓇮	139070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sr.t
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcBkhXE7fGVwEQSg9kLSEYz7uw
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,5]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBkue7ZVPz3ULQjDM4d31vNlU
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkk528CwbWkJKuSXPQOeF6Y4
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Abgestreifte Haut einer Schlange, gekocht (und) in Öl/Fett zerrieben, $ꜥpnn.t$-Tier, aufgeschnitten, gekocht, in Öl/Fett eingeschlossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,5] - [88,6]
+1	𓍜𓏥	122820	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜥq.t
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+3	𓆙𓏤	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
+4	𓊮	62180	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=psi̯
+5	𓐩𓏌𓂝	90880	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nḏ
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+8	𓂝𓊪𓈖𓈖𓏏𓄜	37080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥpnn.t
+9	𓏲𓎼𓋴𓌪𓂝𓍘𓇋	50900	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wgs
+10	𓊮𓍘𓇋	62180	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=psi̯
+11	𓋩𓀜𓍘𓇋	121710	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫtm
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcBktQY52vu6Erhu8IkFsQM5Zk
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde daran (?) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,6]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋𓂋𓏤	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBkhF2vi9o6ERasCluIcdhawU
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Eselskot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,6]
+1	𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+2	𓉻𓂸𓃩	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+
+# sent_id = IBcBkgH77o5GN0KDsKOPhyfw4uc
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde mit Pflanzenbrei gemischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,6]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcBkgs5g8TpEUXpq9V2hoTjYjw
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde daran (?) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,7]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋𓂋𓏤	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBkqfue9b5tULisaNqkvSEMfY
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBknOnFb5CRkTHolD4oDpmej4
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Ausfluss (d.h. Urin?) eines Unreinen (Mannes) (?) (und/oder) einer Unreinen (Frau) (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,7]
+1	𓂸𓏏𓅱𓏏𓂺𓏥	854515	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mtw.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂝𓅓𓂝𓅓𓂺	37680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥmꜥ
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓂝𓅓𓂝𓏏𓂺𓁐	37730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥmꜥ.t
+
+# sent_id = IBcBktxJuCj5P02QhPKAioqVQ1Q
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,7]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBkunzsyWOWEznkTGI8gFQiZ4
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkmrZ7b00TUMVtfdwARLsLFs
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Schädel des Welses, vollständig mit Öl/Fett ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,8]
+1	𓆓𓈖𓈖𓏏𓁶	184340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏnn.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓈖𓂝𓂋𓆟	80570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nꜥr
+4	𓋴𓈖𓍇𓐍𓊮𓍘𓇋	136860	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=snwḫ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcBkvyko12wYENAqFs9saODwSY
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde an seine (d.h. die vom Stachel verursachte?) Öffnung gegeben, so/bis dass er herauskommt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,8] - [88,9]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓉐𓂋𓏏𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBkl5RNRIYx0lfpwVLrnu9NtQ
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkjw7cux47E1vlN7aLQZcQFY
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Weihrauch, Gummiharz, unterägyptisches Salz, Propolis (? wörtl.: Kot der Fliege), Fett, Roter Ocker, Wachs.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,9] - [88,10]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+3	𓎛𓌴𓂋𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓐎𓏥𓂝𓆑𓆑𓅬	863819	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs-ꜥff
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓏠𓈖𓈙𓏏𓈒𓏥	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+7	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+
+# sent_id = IBcBkt1QN9YJF0Dcq4DnX8Tu0ag
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,10]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBkhINwcerJknWpjvzP49zyMA
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Das (dient) dem Herausholen seines Wassers (d.h. des Eiters?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,10]
+1	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcBkskuc79aikx2gPU8ylWDL4c
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Johannisbrot: 1, Honig: 1, „Teich-Zungen“-Droge: 1, 〈... der〉 Sykomore: 1, Früchte/Samen der $ḏꜣs$-Pflanze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,11] - [88,12]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓄓𓏤𓄹𓈙𓈇𓏤𓈒𓏥	863030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns-š
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+10	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+11	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBkhzlHUNULEqbrLXJWRvpl8U
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,12]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBkjlfRHfRvUapiUQQnJ4ilzg
+# corpus = sawmedizin
+# src_text_id = UIWX3PKRK5BLZJPCKAJSFRPWIY
+# src_text = sawmedizin:Papyrus Ebers//88,4-12 ⸗ Eb 726-731: Heilmittel gegen Dornen
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,12]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

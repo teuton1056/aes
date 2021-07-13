@@ -1,0 +1,68 @@
+# sent_id = IBUBd5cmfEWSh0Zcnr7kOxXz1BY
+# corpus = bbawgrabinschriften
+# src_text_id = L2GW47AZTNABPCXJVTWPABLZFE
+# src_text = bbawgrabinschriften:Portikus//Opferliste
+# owner = Stefan Grunert
+# text_de = 2 mal Wein von Ham, 2 mal Wein von Pelusium, 2 mal Napf Hebenenut-Brot, 2 Stück Chenefu-Kuchen, 2 Stück Isched-Früchte, 2 Portionen weiße (⸗gemahlen) Gerste, 2 Protionen grüne (⸗frisch) 〈〈Gerste〉〉, Röstgut: 2 Portionen Weizen, 〈〈Röstgut:〉〉 2 Portionen Gerste, 2 Portionen Babaut-Körner, 2 Portionen Christusdorn-Früchte, 2 Portionen Cristusdorn-Brot, 2 Portionen Erdmandeln, 1 mal alle süßen Sachen, 1 mal alle frischen Früchte, 1 mal alle Chenket-Opfer, 1 mal Gesu-Gebäck, 1 mal Opferumlauf, 1 mal Pedju-Opfer;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Z5,S4] -  [Z5,S22]
+1	𓇋𓂋𓊪	29740	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrp
+2	𓅻𓎺	101480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣm.wj
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓇋𓂋𓊪	29740	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrp
+5	𓋴𓏌𓎺	136330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snw
+6	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓎛𓃀𓇑𓇑𓅱𓏏𓈒	103710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥbnn.wt
+8	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓐍𓈖𓆑𓅱𓏖	118020	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫnf.w
+10	𓂝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+11	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓇋𓈙𓂧𓇭	32150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jšd
+13	𓂝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+14	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+15	𓋴𓄡𓏏𓈒𓈒𓈒𓈒	143330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sẖ.t
+16	𓌉𓏏	112300	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḥḏ
+17	𓂝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+18	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+19	𓋴𓄡𓏏𓈒𓈒𓈒𓈒	143330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sẖ.t
+20	𓇅𓏏	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+21	𓂝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+22	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+23	𓂝𓎼𓏏𓈒𓈒𓈒	41620	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥg.t
+24	𓊃𓏏𓇠	129420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zw.t
+25	𓂝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+26	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+27	𓂝𓎼𓏏𓈒𓈒𓈒	41620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥg.t
+28	𓇠𓎔	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+29	𓂝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+30	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+31	𓃀𓃀𓏏𓇠	53440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bꜣbꜣ.t
+32	𓂝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+33	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+34	𓈖𓃀𓋴𓈒𓈒𓈒𓈒	82810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbs
+35	𓂝𓎺	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+36	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+37	𓏏𓆭𓈖𓃀𓋴𓈒𓈒𓈒𓈒	450605	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ-n-nbs
+38	𓂝𓎺	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+39	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+40	𓅱𓎛𓂝𓇹𓈒𓈒𓈒𓈒	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+41	𓎺	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+42	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+43	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+44	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+45	𓃀𓇜𓈖𓏏	400993	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=bnj
+46	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+47	𓂋𓈖𓆶𓏏	95030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.wt
+48	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+49	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+50	𓎛𓈖𓎡𓏏𓂝	107190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnk.t
+51	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+52	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+53	𓐝𓋴𓅱𓈎𓈎𓈎	168330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs.w
+54	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+55	𓊪𓄲𓂋𓏐𓏊𓏖	61920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pẖr
+56	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+57	𓊪𓆓𓅱𓈎𓈎𓈎𓏐𓏖𓏊	63360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḏ.w
+58	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+

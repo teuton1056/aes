@@ -1,0 +1,70 @@
+# sent_id = IBYDN0g3MdWOU0QhqWXZ7k6us9o
+# corpus = sawmedizin
+# src_text_id = R5GRVN4WBBHDDIQOWWCW5YZBFU
+# src_text = sawmedizin:Papyrus Ebers//67,7-67,16 ⸗ Eb 477-481: "Heilmittel zum Behandeln der Leber"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Behandeln der Leber:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,7]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓂋𓏲𓐍𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+5	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjz.t
+
+# sent_id = IBYDN0RWM6iLHEjwiRIFOqzpIjc
+# corpus = sawmedizin
+# src_text_id = R5GRVN4WBBHDDIQOWWCW5YZBFU
+# src_text = sawmedizin:Papyrus Ebers//67,7-67,16 ⸗ Eb 477-481: "Heilmittel zum Behandeln der Leber"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDN4Obat6Kw0lJqrnYZPetLss
+# corpus = sawmedizin
+# src_text_id = R5GRVN4WBBHDDIQOWWCW5YZBFU
+# src_text = sawmedizin:Papyrus Ebers//67,7-67,16 ⸗ Eb 477-481: "Heilmittel zum Behandeln der Leber"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,11]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBYDN1hCtsFaC0aqimESuDWB2i0
+# corpus = sawmedizin
+# src_text_id = R5GRVN4WBBHDDIQOWWCW5YZBFU
+# src_text = sawmedizin:Papyrus Ebers//67,7-67,16 ⸗ Eb 477-481: "Heilmittel zum Behandeln der Leber"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDNwBOpWy9JEnxtT6PxgSpvgI
+# corpus = sawmedizin
+# src_text_id = R5GRVN4WBBHDDIQOWWCW5YZBFU
+# src_text = sawmedizin:Papyrus Ebers//67,7-67,16 ⸗ Eb 477-481: "Heilmittel zum Behandeln der Leber"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDNxBuiL95q0GYkutTvCuifkk
+# corpus = sawmedizin
+# src_text_id = R5GRVN4WBBHDDIQOWWCW5YZBFU
+# src_text = sawmedizin:Papyrus Ebers//67,7-67,16 ⸗ Eb 477-481: "Heilmittel zum Behandeln der Leber"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+

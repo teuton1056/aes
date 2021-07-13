@@ -1,0 +1,108 @@
+# sent_id = IBUBdWaZNW0AGEwJsPU54r4AbNU
+# corpus = bbawgraeberspzt
+# src_text_id = XWTABJQB4BG2DHLREDU7TCZS7Y
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21h: 8. Nachtstunde, Tb 28
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [57]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd8QJ1Sjp80aXpsQCGZQDlBM
+# corpus = bbawgraeberspzt
+# src_text_id = XWTABJQB4BG2DHLREDU7TCZS7Y
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21h: 8. Nachtstunde, Tb 28
+# owner = Doris Topmann
+# text_de = O 'Löwe', Padihorresnet, der Gerechtfertigte, ist eine Blüte(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [57]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓃭	500396	PROPN	entity-name	_	_	_	_	Translit=Rw
+3	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+5	𓃹𓈖𓃀𓆰	46580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnb
+
+# sent_id = IBUBd9JsKfb4cE28uisv5ifEpIg
+# corpus = bbawgraeberspzt
+# src_text_id = XWTABJQB4BG2DHLREDU7TCZS7Y
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21h: 8. Nachtstunde, Tb 28
+# owner = Doris Topmann
+# text_de = Sein Abscheu ist die Gottes-Schlachtbank.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [57] - [58]
+1	𓃀𓏏𓅱𓆛	55150	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓌩	84050	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nm.t
+5	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdWi3RHYH50QtvDUnUNQe0bE
+# corpus = bbawgraeberspzt
+# src_text_id = XWTABJQB4BG2DHLREDU7TCZS7Y
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21h: 8. Nachtstunde, Tb 28
+# owner = Doris Topmann
+# text_de = Sein Herz soll nicht von den {Bittenden(?)} 〈Kämpfern〉 in Heliopolis fortgenommen werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [58] - [59]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓎁𓏏	33560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+3	𓄂𓏏𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+6	𓐝𓉺𓏌𓊖	861840	PROPN	entity-name	_	_	_	_	Translit=Ꜥḥꜣ.w-m-Jwn.w
+
+# sent_id = IBUBd68SFfuJS0Lqlcq2ExUt9qU
+# corpus = bbawgraeberspzt
+# src_text_id = XWTABJQB4BG2DHLREDU7TCZS7Y
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21h: 8. Nachtstunde, Tb 28
+# owner = Doris Topmann
+# text_de = O {Geschminkte} 〈Geschwänzte〉 des Osiris, er/es hat Seth gesehen, umgewendet hinter dem, der den schlug, der ihm Streit gebracht hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [59] - [61]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓈖𓁹𓊨	861839	_	epitheton-title	_	_	_	_	Translit=sd.yw-Wsjr
+3	𓌳𓁹	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓏏𓈙	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+6	𓂝𓈖𓇋𓇋𓀣	38040	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnn
+7	𓅓𓐠	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+8	𓎛𓂡	854530	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥwi̯
+9	𓎔𓂧𓂝	854561	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šdi̯
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓐍𓂋𓐍𓂋𓂝	858314	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫrḫr
+
+# sent_id = IBUBd7i28DcSFUQ1jf12iNT9GnY
+# corpus = bbawgraeberspzt
+# src_text_id = XWTABJQB4BG2DHLREDU7TCZS7Y
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21h: 8. Nachtstunde, Tb 28
+# owner = Doris Topmann
+# text_de = Er erbittet von ihm das Herz des Patjenfi, des Gerechtfertigten.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [62] - [63]
+1	𓂧𓄑𓏛	178750	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbḥ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅖	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓄂𓏏𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
+8	𓐙𓌳𓂝𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBdQfJ6kdOO0HUhKYNW0FPQMA
+# corpus = bbawgraeberspzt
+# src_text_id = XWTABJQB4BG2DHLREDU7TCZS7Y
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21h: 8. Nachtstunde, Tb 28
+# owner = Doris Topmann
+# text_de = 'Die auf dem Scheitel(?) der Störung(?) ist'.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [64]
+1	𓁷𓁶𓏏𓄋𓏏𓏤𓂙𓈖𓏌𓏏𓏤𓇼	861338	PROPN	entity-name	_	_	_	_	Translit=Ḥr.jt-tp-wp.t-ẖnn.w
+

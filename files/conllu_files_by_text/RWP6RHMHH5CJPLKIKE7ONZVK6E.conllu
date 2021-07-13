@@ -1,0 +1,158 @@
+# sent_id = IBUBdQ3xFzxSIUxQkMLiTsljTig
+# corpus = bbawamarna
+# src_text_id = RWP6RHMHH5CJPLKIKE7ONZVK6E
+# src_text = bbawamarna:〈Stele Q〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Regierungsjahr 6, 4. Monat der Peret-Jahreszeit, (Tag) 13.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1]
+1	𓆳𓏏𓊗	850581	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rnp.t-zp
+2	𓏤𓏤𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇹	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+4	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓉐𓂋𓏏𓇳𓏤	60300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
+6	𓎆𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdxB0eEmFkERxta62zHQp5sY
+# corpus = bbawamarna
+# src_text_id = RWP6RHMHH5CJPLKIKE7ONZVK6E
+# src_text = bbawamarna:〈Stele Q〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Es lebe der vollkommene Gott, der mit der Maat zufrieden ist, der Herr des Himmels, der Herr der Erde, der große lebende Aton, der die beiden Länder erleuchtet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1]
+1	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+2	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
+3	𓉔𓂋𓏛𓁷𓏤𓏏𓁧	859301	_	epitheton-title	_	_	_	_	Translit=hr-ḥr-Mꜣꜥ.t
+4	𓎟𓇯	400833	_	epitheton-title	_	_	_	_	Translit=nb-p.t
+5	𓎟𓇿	851528	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ
+6	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+7	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥnḫ
+8	𓅨𓂋	47270	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=wrr
+9	𓊃𓌉𓆓𓇶𓈅𓈅	859303	_	epitheton-title	_	_	_	_	Translit=sḥḏ-Tꜣ.wj
+
+# sent_id = IBUBdwC8Cg0seE3lkfzA55X1xto
+# corpus = bbawamarna
+# src_text_id = RWP6RHMHH5CJPLKIKE7ONZVK6E
+# src_text = bbawamarna:〈Stele Q〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Es lebe der Horus "Starker Stier, geliebt von Aton", die beiden Herrinnen "Groß an Königsherrschaft in Achetaton", Goldhorus "Der den Namen des Aton erhebt".
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2]
+1	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+2	𓅃	400034	_	epitheton-title	_	_	_	_	Translit=Ḥr.w
+3	𓃒𓂡𓇋𓏏𓈖𓇳𓌸	859292	PROPN	entity-name	_	_	_	_	Translit=Kꜣ-nḫt-mr.y-Jtn
+4	𓅒	400065	_	epitheton-title	_	_	_	_	Translit=nb.tj
+5	𓅨𓂋𓇓𓇋𓇋𓏏𓏥𓐝𓈌𓇋𓏏𓈖𓇳	859290	PROPN	entity-name	_	_	_	_	Translit=Wr-nsw.yt-m-Ꜣḫ.t-Jtn
+6	𓅉	400069	_	epitheton-title	_	_	_	_	Translit=Ḥr.w-nbw
+7	𓍞𓂋𓈖𓍷𓈖𓇋𓏏𓈖𓇳	859291	PROPN	entity-name	_	_	_	_	Translit=Wṯz-rn-n-Jtn
+
+# sent_id = IBUBd93QtoAnFU1PhptPnJ4Pp8Y
+# corpus = bbawamarna
+# src_text_id = RWP6RHMHH5CJPLKIKE7ONZVK6E
+# src_text = bbawamarna:〈Stele Q〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Der König von Ober- und Unterägypten, der von der Maat lebt, Herr der beiden Länder, Nefer-cheperu-Re-Wa-en-Re, Sohn des Re, der von der Maat lebt, Herr der Kronen, Echnaton, der groß in seiner Zeit ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4]
+1	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+2	𓋹𓐝𓐙𓏏𓂝	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+3	𓎟𓇿𓇿𓈅𓈅	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+4	𓇳𓄤𓆣𓇳𓏥𓌡𓈖	856314	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḫpr.w-Rꜥw-wꜥ-n-Rꜥw
+5	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+6	𓋹𓐝𓐙𓏏𓂝	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+7	𓎟𓈍𓏥	600260	_	epitheton-title	_	_	_	_	Translit=nb-ḫꜥ.w
+8	𓇋𓏏𓈖𓇳𓅜𓇳𓈖	856863	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-n-Jtn
+9	𓉻𓅓𓊢𓂝𓇳𓏤𓆑	852060	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-m-ꜥḥꜥ.w⸗f
+
+# sent_id = IBUBd6j2GFZCzkcRuSNKY8Z3U1E
+# corpus = bbawamarna
+# src_text_id = RWP6RHMHH5CJPLKIKE7ONZVK6E
+# src_text = bbawamarna:〈Stele Q〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = An diesem Tag, als man in Achetaton in dem Mattenzelt war, das seine Majestät, er lebe, sei heil und gesund, in Achetaton errichtet hatte und dessen Name "Aton ist zufrieden" ist, erschien seine Majestät, er lebe, sei heil und gesund, mit einem Pferdegespann auf einem großen Streitwagen aus Elektrum, genau wie Aton, wenn er im Horizont aufgeht und er die Erde mit seiner Liebe erfüllt hat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5] - [7]
+1	𓉔𓂋𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+2	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+3	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+5	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈌𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+7	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓇋𓆭𓐝𓅱𓉐	25010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jꜣm.w
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓊪𓊃𓈙𓏏𓎅	62300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=psš.t
+12	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+13	𓍛𓈖𓀱	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓋹𓍑𓋴	550118	VERB	verb	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+16	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓈌𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+18	𓈖𓏏𓏮	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+19	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+21	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+22	𓅮𓇋𓏏𓈖𓇳𓉔𓂋𓅱𓏛	859306	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-Jtn-hru̯
+23	𓈍𓂝𓇋𓏏𓇋	114740	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜥi̯
+24	𓍛𓏤𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+25	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+26	𓋹𓍑𓋴	550118	VERB	verb	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+27	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+28	𓎛𓏏𓂋𓇋𓃗	111800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtr
+29	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+30	𓅨𓂋𓂋𓇋𓇋𓌝	47970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wrry.t
+31	𓉻𓏏𓂝	34750	VERB	verb	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣi̯
+32	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+33	𓌀𓋞𓈓	182710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜥm
+34	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+35	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+36	𓅱𓃀𓈖𓇳	854500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbn
+37	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+38	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+39	𓈌	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+40	𓎔𓏛𓈖	854514	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+41	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+42	𓇿𓇿𓈅𓈅	168970	PROPN	entity-name	Number=Dual|Status=Abs	_	_	_	Translit=Tꜣ.wj
+43	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+44	𓌻𓂋𓅱𓏏𓏥	72650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mrw.t
+45	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxoAJAlSzkhcoUpkZlBn7vs
+# corpus = bbawamarna
+# src_text_id = RWP6RHMHH5CJPLKIKE7ONZVK6E
+# src_text = bbawamarna:〈Stele Q〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Reisen nach Süden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10]
+1	𓈝𓐝𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+2	𓐝𓏃𓈖𓏏𓍘𓇋𓇋𓏏𓊛	850635	ADV	adverb	_	_	_	_	Translit=m-ḫnt.yt
+
+# sent_id = IBUBd9OV4XZLnUngmznFNx4aXaA
+# corpus = bbawamarna
+# src_text_id = RWP6RHMHH5CJPLKIKE7ONZVK6E
+# src_text = bbawamarna:〈Stele Q〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Der Eid, den der König von Ober- und Unterägypten, der von der Maat lebt, Herr der Beiden Länder, Nefer-cheperu-Re-Wa-en-Re, Sohn des Re, der von der Maat lebt, Echnaton, der groß in seiner Zeit ist, geleistet hat:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11]
+1	𓋹𓈖𓐍	38560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓆓𓂧𓏏𓈖	185810	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḏd
+3	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+4	𓋹𓐝𓐙𓏏𓂝	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+5	𓎟𓇿𓇿𓈅𓈅	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+6	𓇳𓄤𓆣𓇳𓏥𓌡𓈖	856314	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḫpr.w-Rꜥw-wꜥ-n-Rꜥw
+7	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+8	𓋹𓐝𓐙𓏏𓂝	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+9	𓇋𓏏𓈖𓇳𓅜𓇳𓈖	856863	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-n-Jtn
+10	𓉻𓊢𓐝𓂝𓇳𓏤𓆑	852060	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-m-ꜥḥꜥ.w⸗f
+

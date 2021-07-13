@@ -1,0 +1,488 @@
+# sent_id = IBUBd4OcdOnBzkTLuW7XFQPhBew
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Also möchte ich veranlassen, daß er getötet wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A, 1]
+1	𓇋𓐍𓏛	30730	PART	particle	_	_	_	_	Translit=jḫ
+2	𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓋴𓌴𓄿𓅓𓌪𓏏𓏲	134370	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdz9Bc6zDjE8omIeLWfGbPws
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Da sagte er zu diesem (schon erwähnten) Sasobek:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A, 2]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓅭𓆊𓀀	_	X	unknown	_	_	_	_	_
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd6eDO1Ds8EgOm2y1d9sKaSw
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Ich werde nicht existieren.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A, 10]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd5f7YIFwIUfyr44dQ9lTEnk
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Was für einen Gott bist du denn?"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A, 15]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓂋𓆵	172720	PART	particle	_	_	_	_	Translit=tr
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅓	64430	PRON	pronoun	PronType=Int	_	_	_	Translit=m
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd2pptGEVXkltoaWtGVQeRWI
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Sein Ende (oder: seine Kraft?) ist vergangen (oder: Sein Ende ist die Vernichtung (?)).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A, 19]
+1	𓄖	61490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.wj
+2	𓆑𓏭	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓎝𓎢𓅪	854552	VERB	verb	_	_	_	_	Translit=ski̯
+
+# sent_id = IBUBd3IhERC7LEohj1rOEgrP0gs
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Die $qj$-Schlange (?; oder: [Der Biß o.ä. der] $qj$-Schlange) ist der Tod.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A, 24]
+1	𓈎𓇋𓆙	853533	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qj
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+
+# sent_id = IBUBdQKgvcFilkGkgRKEec58LlU
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Es ist eine Unterdrückung (?) im Leben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A, 24]
+1	𓋴𓎝𓎢𓊃𓅪	853534	VERB	verb	_	_	_	_	Translit=sks
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋹𓈖𓐍	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBd3BxZGA8qUAQr8rBdyKSBwY
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = "Was gehört ihm? (??; oder: Nimm für ihn!)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A, 29]
+1	𓅓𓂝	64430	PRON	pronoun	PronType=Int	_	_	_	Translit=m
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwLvlcrUVEnMqxkH3twAcJE
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Der Kunstfertige verwandelt sich in einen, der zur Einsicht kommt (?; oder: der seine Aufmerksamkeit erregt (?)).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 1]
+1	𓆣𓏤	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓍍𓏲𓏲𓀀	105480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmw.w
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇍𓇋𓂻	21930	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓁷𓂋𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6W29x77oEHeiotZsbFXjuQ
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Der, der das Geschehene nachahmt, ist ein Weiser.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 2]
+1	𓂋𓐍𓏛𓀀	95630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓊃𓈖𓈖𓏒𓏛	854546	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=zni̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆣𓂋𓏏	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+
+# sent_id = IBUBd8ni0Bch4kiDrpA1x6VUS68
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Mögest du mit ihm zufrieden sein (oder: [der ...], mit dem du zufrieden bist).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 3]
+1	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzqRHYLGX0jes5JugPTfRsk
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Es gibt keinen, der seine (d.h. des morgigen Tages) Art kennt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 5] - [B1, 6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓐍𓏛	95620	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫ
+3	𓊃𓐍𓂋𓏛	142800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sḫr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6kyOPCn40iJmg0sO5fhI8c
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = (Aber) es passiert hier (??) (doch).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊃	_	_	_	_	_	_	_	_
+
+# sent_id = IBUBdQhWmTqQUUDniogGrkB9QYs
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Verborgen sind die Pläne Gottes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 11]
+1	𓇋𓏠𓈖𓀄𓏛	500080	ADJ	adjective	_	_	_	_	Translit=jmn
+2	𓊃𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=sḫr
+3	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd0l8aOg2GUhGmUk5WITH34Q
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Setze deine Arme für das Gute ein!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 13]
+1	𓂞	851711	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂝𓏤𓅱𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+5	𓎢	851169	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗kj
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓄤𓆑𓂋𓏏	83680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nfr.t
+
+# sent_id = IBUBd7xlAMQ8Z04JkAq6g3hk7qM
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Meide sehr das Böse! (oder: ... beim] sehr Meiden des Bösen)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 14]
+1	𓅓𓂝𓎢𓇉𓄿𓁶	77110	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mkḥꜣ
+2	𓈋𓏲𓏏𓅪	182900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏw.t
+3	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+
+# sent_id = IBUBd3jzGSo4qEppqhDlaYdWrag
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Das Auge des Bedrückten (?; oder: dessen mit schrecklichem Herzen) ist nicht getrocknet (d.h. hat nicht aufgehört zu weinen).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 15]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓍱𓂋𓇳	130790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swšr
+3	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓈖𓇉𓄿𓐎𓄣𓏤𓀀	853538	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥꜣ-jb
+
+# sent_id = IBUBd9TWqQObFUo8gsFuRNpWsQE
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Es ist das Herz, das seinen Besitzer elend macht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 16]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓋴𓌴𓂋𓄿𓌗𓅪	134770	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smꜣr
+4	𓎟𓀀	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdW5hHYKqD0lsrM8juDthDx4
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Handele (oder: der, der handelt) nach den Bewegungen (oder: der Prozedur) der Menschen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 16]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂻𓏏𓏤𓏥	84510	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nmt.t
+4	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBdxEGL8TAW00ImQ30gFGO3XY
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Der Geduldige ist einer, der vortrefflich an Vorgehensweisen (oder: Maximen) ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 17]
+1	𓎝𓎛𓏛𓄣𓏤𓀀	400652	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣḥ-jb
+2	𓏠𓈖𓍊𓏛	71080	VERB	verb	_	_	_	_	Translit=mnḫ
+3	𓋴𓍱𓂋𓅱𓏛𓏥	145520	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sšr
+
+# sent_id = IBUBd0KmHfpUNErqpEfAZs3KZ7I
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Es ist die Vernichtung (?) der Rede.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 18]
+1	𓎛𓊨𓏏𓇋𓇋𓏏𓅯𓅪	853539	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtm.yt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓌃𓂧𓏏𓀁	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+
+# sent_id = IBUBd0AzHM2mzEnVtwhx2aOixXE
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Ein feststehender Ausdruck, der bringt das Wesentliche. (?)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 19]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋭𓊃𓀁	176860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣz
+3	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥḥꜥ
+4	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂧𓈎𓂋𓅱𓂷	181000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dqr.w
+
+# sent_id = IBUBd7Zl5z1WG0climcunev9YRk
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = (Es) ist nicht geteilt worden mit einem Herrn von Charakter in irgendeinem Ort.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 20]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓊪𓊃𓈙𓏴𓏛	62280	VERB	verb	_	_	_	_	Translit=psš
+3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+4	𓎟𓐪𓂧𓏌𓏛𓀀	853540	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb-qd
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd5GjJX6hD0j9vdxSceJOjro
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Der (gute) Charakter ist ein Denkmal,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 21]
+1	𓏠𓈖𓏌𓏲𓏛𓏥	70420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓐪𓂧𓏌𓏛	162430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qd
+
+# sent_id = IBUBd08acxL4uEWKtMkbm3whQtE
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = aber der Beliebte wird es/ihn hassen (?; oder: er ist aber verhaßt, der Geliebte).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B1, 22]
+1	𓄟𓊃𓂧𓅪	76210	VERB	verb	_	_	_	_	Translit=msḏi̯
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓇓𓅱𓏏	130840	PART	particle	_	_	_	_	Translit=swt
+4	𓌻𓂋𓇋𓇋𓀁	400005	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr.y
+
+# sent_id = IBUBdz9Ypjd4Hks7gGWVklTy13o
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Erdulde nicht den Morgen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B2, 2]
+1	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+2	𓅱𓐍𓂧𓐗𓏛	851445	VERB	verb	_	_	_	_	Translit=wḫd
+3	𓇼𓄿𓇳	178000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dwꜣ.w
+
+# sent_id = IBUBd2XY4jdA60JHgRUh5OEIuho
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Mögest du ihm gemäß handeln (?; oder: du wirst ihm gemäß Besitz erwerben).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B2, 7]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐍𓏏𓏛	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓐍𓏏𓆑	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQgxODMOuEORrtvvncPLUsE
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Höre nicht zu, wenn du nicht gehört hast, was du gehört hast!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B2, 15]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓄔𓅓	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+3	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+4	𓄔𓅓	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓄔𓅓𓏏𓈖	150560	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=sḏm
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3G0CldWfU7KpRucuQ6xw8U
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Der Weise sagt zu dir:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B2, 17]
+1	𓂋𓐍𓏛	95630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd4OFJUdglksbqT2VTLrnjQg
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Das Wehklagen, wie groß und wie viel!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B3, 2]
+1	𓇋𓂝𓈖𓏌𓅱𓀁	21750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥn.w
+2	𓅨𓂋𓅱𓏭	47271	ADJ	adjective	_	_	_	_	Translit=wr
+3	𓉻𓂝𓄿𓏛𓅱𓏭	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBdQ11X0jJEUGoiPaSnRkIR8c
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Sein (d.h. des Plappermauls?) Weg ist versperrt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B3, 14]
+1	𓈙𓂋𓊅	156670	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šrj
+2	𓅓𓂝𓍿𓈖𓌙𓅯𓈐	77960	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mṯn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQ2PqzFYPUVLkQ7nA0P3fwk
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = [Kein (?)] Unrecht ist bei ihr entstanden (oder: ...] Unrecht, das bei ihr entsteht/entstanden ist).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C1, 1]
+1	𓇋𓋴𓆑𓏏𓅪	31500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jzf.t
+2	𓆣𓂋𓏏	858535	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdQQEevg8FkrrpHNzsKUAHQk
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Beherrsche deinen Arm!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D1, 1]
+1	𓎛𓆰𓈖𓎨𓏛	105900	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥn
+2	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3uZSuvtok9ytoKSa7nrWW0
+# corpus = sawlit
+# src_text_id = MSZ6PN5SDVCRHFMS72WEPGMVKU
+# src_text = sawlit:pRamesseum I ⸗ pBM EA 10754//Die Rede des Sasobek
+# owner = Peter Dils
+# text_de = Sammle dein Herz! (d.h. fasse Mut!)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D1, 1]
+1	𓋴𓐟𓄿𓈎𓆌𓏛	127330	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sꜣq
+2	𓄣	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

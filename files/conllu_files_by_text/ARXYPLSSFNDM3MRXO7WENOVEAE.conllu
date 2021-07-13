@@ -1,0 +1,73 @@
+# sent_id = IBUBd9PzyQxOK0pskw5ul8LBCPA
+# corpus = bbawgrabinschriften
+# src_text_id = ARXYPLSSFNDM3MRXO7WENOVEAE
+# src_text = bbawgrabinschriften:südliche Türlaibung//Opfertisch-Szene
+# owner = Stefan Grunert
+# text_de = Tausend an Brot, tausend an Bier.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏑	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+3	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBdyHwMWsedknBqHFYUV6s6PU
+# corpus = bbawgrabinschriften
+# src_text_id = ARXYPLSSFNDM3MRXO7WENOVEAE
+# src_text = bbawgrabinschriften:südliche Türlaibung//Opfertisch-Szene
+# owner = Stefan Grunert
+# text_de = Tausend an Kleidung, tausend an Alabastergefäß.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓋲	71170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+2	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+3	𓍱𓎱	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBdWQAgkKrtULDgoOiQTPyIno
+# corpus = bbawgrabinschriften
+# src_text_id = ARXYPLSSFNDM3MRXO7WENOVEAE
+# src_text = bbawgrabinschriften:südliche Türlaibung//Opfertisch-Szene
+# owner = Stefan Grunert
+# text_de = Der Aufwärter des großen Kellers.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓏊𓏅𓏏𓅨𓉐	851368	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdp.w-ḫnt.y-wr
+
+# sent_id = IBUBd8Glb0dAd0KQicoLQCf041c
+# corpus = bbawgrabinschriften
+# src_text_id = ARXYPLSSFNDM3MRXO7WENOVEAE
+# src_text = bbawgrabinschriften:südliche Türlaibung//Opfertisch-Szene
+# owner = Stefan Grunert
+# text_de = Das Niederlegen des Opfers
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓅱𓂧	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+2	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+
+# sent_id = IBUBdz2KDQuQYUBVgZ8JfNdIrS0
+# corpus = bbawgrabinschriften
+# src_text_id = ARXYPLSSFNDM3MRXO7WENOVEAE
+# src_text = bbawgrabinschriften:südliche Türlaibung//Opfertisch-Szene
+# owner = Stefan Grunert
+# text_de = Der Leiter der Zuwendungen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓁷𓈄𓏤	108620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.j-wḏb.w
+
+# sent_id = IBUBd4KU6r2TGEWmlzGlLHsHl60
+# corpus = bbawgrabinschriften
+# src_text_id = ARXYPLSSFNDM3MRXO7WENOVEAE
+# src_text = bbawgrabinschriften:südliche Türlaibung//Opfertisch-Szene
+# owner = Stefan Grunert
+# text_de = (Namensbeischrift:) Imi-secher.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [7]
+1	𓇋𓅓𓋴𓐍𓂋	450287	PROPN	entity-name	_	_	_	_	Translit=Jm.j-sḫr
+

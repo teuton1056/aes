@@ -1,0 +1,1863 @@
+# sent_id = IBUBd332cEvywkQoiWUDlKJtibU
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Prinz und Fürst.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1]
+1	𓂋𓊪𓂝𓏏𓆇	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+2	𓄂𓂝𓀀	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+
+# sent_id = IBUBd8xpJMACW0M5nRqiWkgPJv0
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der königlich unterägyptische Siegler und einzige Freund (des Herrschers).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1]
+1	𓆤𓏏𓏯𓆗𓋨𓏲𓀀	400193	_	epitheton-title	_	_	_	_	Translit=ḫtm.tj-bj.tj
+2	𓋴𓍋𓅓𓂋𓀙𓀀𓌡𓂝𓏲𓏏𓏭𓅪𓀀	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+
+# sent_id = IBUBd2ry0NNg1k4DjfAE3rIQ90w
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Generalprovinzgouverneur des Herrschers - Leben, Heil und Gesundheit - in den Ländern der Beduinen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1]
+1	𓃥𓀀𓎙𓂧𓏲𓐖𓏛𓈇𓏤𓈘𓈇𓏤	850575	_	epitheton-title	Number=Sing|Status=Cons	_	_	_	Translit=zꜣb-ꜥḏ-mr-spꜣ.wt-jty-m-tꜣ.w-sṯ.tjw
+2	𓇋𓀁𓍘𓇋𓇋𓏏𓀛𓅆	32930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jty
+3	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+4	𓍑	52100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ
+5	𓋴	136950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snb
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇾𓇾𓇾	854573	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=tꜣ
+8	𓄝𓏏𓏏𓅂𓌙𓀀𓁐𓏥	149130	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sṯ.tjw
+
+# sent_id = IBUBd9Qd88JbmkL4s09A3nk844E
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der wirkliche Königsbekannte und sein Favorit (sein Geliebter).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1] - [2]
+1	𓇓𓏏𓈖𓅆𓂋𓐍𓏛𓈖𓌷𓂝	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+2	𓌻𓂋𓇋𓇋𓏲𓀁	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7sh7uZxyEjEonJubGKT0Ao
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Gefolgsmann Sinuhe, er sagt (erzählt):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓌞𓋴𓏲𓂻	856136	_	epitheton-title	_	_	_	_	Translit=šms.w
+2	𓅭𓏤𓈖𓉔𓏏𓆮	705989	PROPN	entity-name	_	_	_	_	Translit=Zꜣ-nh.t
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3ZLZyeDokPTnG8c775A4P8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Ich war ein Gefolgsmann, der seinem Herrn folgte, ein Diener des königlichen Harims bei der Prinzessin, der Gnadenreichen, der Königsgemahlin des Sesostris - selig - in Chnemet-sut, ein Königssohn des Amenemhet - selig - in Qa-nefru-nefruf der Ehrwürdigen (Stätte).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2] - [3]
+1	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌞𓋴𓏲𓂻	856136	_	epitheton-title	_	_	_	_	Translit=šms.w
+3	𓌞𓋴𓏲𓂻	155000	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šms
+4	𓎟𓀀	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅡𓎢	53830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣk
+7	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓇓𓏏𓈖𓅆𓎼𓏏𓉐𓁐𓏥	550310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jp.t-nswt
+9	𓂋𓏏𓏭𓊪𓂝𓏏𓆇	94070	_	epitheton-title	_	_	_	_	Translit=jr.jt-pꜥ.t
+10	𓅨𓂋𓎛𓎿𓋴𓀁𓏫	450541	_	epitheton-title	_	_	_	_	Translit=wr.t-ḥzw.t
+11	𓇓𓏏𓈖𓅆𓈞𓏏𓏯𓆗𓅆	400334	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥm.t-nswt
+12	𓄊𓋴𓂋𓏏𓊃𓈖𓅆	400051	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+13	𓌷𓂝𓊤𓏲𓀁	66730	VERB	verb	_	_	_	_	Translit=mꜣꜥ-ḫrw
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓎸𓅓𓏏𓏛𓊨𓏏𓉐	_	X	unknown	_	_	_	_	_
+16	𓇓𓏏𓈖𓅭𓏤𓀀	855950	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ-nswt
+17	𓇋𓏠𓈖𓅓𓄂𓏏𓏤𓅆	400161	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+18	𓌷𓂝𓊤𓏲𓀁	66730	VERB	verb	_	_	_	_	Translit=mꜣꜥ-ḫrw
+19	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+20	𓈎𓄿𓀠𓏛𓂋𓆑𓂋𓄤𓏤𓏛𓏥𓆑	850553	PROPN	entity-name	_	_	_	_	Translit=Qꜣi̯-nfr.w
+21	𓊄𓃀𓏏𓂻𓂋𓇋𓌴𓐍𓄪𓏤𓀼	400170	_	epitheton-title	_	_	_	_	Translit=nb.t-jmꜣḫ
+
+# sent_id = IBUBd0wqO6gY70LQmerVhzo3zd0
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Gott war in seinen Horizont eingetreten.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓅧𓈎𓂻𓈖	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+2	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓈌𓏏𓉐	227	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣḫ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQb57Zes5ktDnIWuQtjaSzk
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Die Gottesglieder waren verschmolzen mit dem, der ihn geschaffen hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4]
+1	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḥꜥ.w
+2	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+3	𓋁𓃀𓐍𓏲𓏴𓂻	89	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣbḫ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdzNjEtE6XUQrmt9wvKeDIRA
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Da) war die Residenz - Leben, Heil und Gesundheit - in Schweigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄚𓈖𓏌𓏲𓏏𓏭𓍖𓉐𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+3	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+4	𓍑	52100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ
+5	𓋴	136950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snb
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋴𓎼𓂋𓇋𓀁	147270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sgr
+
+# sent_id = IBUBd9XFZYWXQEQ0s6L1JDhFRIo
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Die Herzen waren in Gram(beugung).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4] - [5]
+1	𓄣𓄣𓄣	23290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jb
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓅠𓅓𓇋𓇋𓏲𓀉𓅪𓏥	167180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gm.w
+
+# sent_id = IBUBdQ0kWbfUdUpxtOb3xGDDybg
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Das große Doppelor war verschlossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓂋𓏲𓏏𓏭𓇯𓅨𓂋𓏏𓏫	_	X	unknown	Number=Plur|Status=Abs	_	_	_	_
+2	𓐍𓏏𓅓𓏲𓋩𓀜	121710	VERB	verb	VerbForm=Conv	_	_	_	Translit=ḫtm
+
+# sent_id = IBUBdQrSVPHMTkg1v3hVvKSV5b8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Die Adligen waren in Schweigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓊪𓂝𓏏𓆇𓀀𓁐𓏥	59610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜥ.t
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇋𓏲𓎼𓂋𓏲𓏛𓀁	167760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gr
+
+# sent_id = IBUBd5MIs9UrU0eJqL0h0G9assY
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Als) sie ihn zur Abendzeit erreicht hatten, fanden ihn die Boten auf dem Wege (dem Marsch).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8]
+1	𓅠𓅓𓏛𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓄋𓊪𓏲𓏏𓏭𓏴𓂻	45760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wpw.tj
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+6	𓄖𓂻𓈖	61370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓏏𓂋𓇋𓆵𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓆼𓄿𓏲𓏏𓇰𓇳	113750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣwj
+
+# sent_id = IBUBd8CprR7laEF2uRP3Woht4DY
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Er wartete auf gar keinen Fall.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8]
+1	𓂜𓈖𓊃𓊪𓊗	79450	PART	particle	_	_	_	_	Translit=n-zp
+2	𓋴𓏏𓇋𓆛𓈖𓈖𓂻	128360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sjni̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋𓏤𓋴𓏭𓈐	96030	ADV	adverb	_	_	_	_	Translit=rsj
+
+# sent_id = IBUBdxiE9zImWkn2qLbj2Zydmy0
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Ich war entsetzt (mein Herz/Verstand verwirrte sich) (und) meine Arme gehorchten mir nicht mehr (waren ausgebreitet).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10]
+1	𓊪𓋴𓐍𓂻	62240	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pzḫ
+2	𓄣𓏤𓀀	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓊃𓈙𓏴𓂻	144320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
+4	𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd2C8k8wPME5whTnBGwtvfn0
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Nun folgt) Mein Marsch nach Süden (Machen des Ganges nach Süden (stromaufwärts)).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [11]
+1	𓁹𓂋	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+4	𓅓𓏃𓈖𓏏𓏭𓍘𓇋𓇋𓏏𓊛	850635	ADV	adverb	_	_	_	_	Translit=m-ḫnt.yt
+
+# sent_id = IBUBdwYdNCIym0HtretQgBEY2fA
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Am (äußersten) Rande der Feldflur verbrachte ich dort den Tag.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13]
+1	𓅨𓂋𓈙𓇳𓏤𓈖	48130	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wršu̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎙𓂧𓏲𓏤𓈇𓏤𓐎𓏤	41960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓇏𓏏𓈇𓏤	141480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t
+
+# sent_id = IBUBd9QzmHgvtEuJiIq5asF2pmc
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Als) ich aufgebrochen war, es war (noch) Tag, traf ich (plötzlich) einen Mann, der an der Wegmündung stand.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13]
+1	𓌉𓆓𓇳𓈖	52300	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+4	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓐍𓊪𓂻𓈖	116050	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓂋𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+8	𓊢𓂝𓏲𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥḥꜥ
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂋𓏤𓈖𓈐𓏏𓏤	92830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-wꜣ.t
+
+# sent_id = IBUBd0wgSYpmzUo9s36ZnCD7WAE
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Obwohl) ich mich vor ihm fürchtete, begegnete er mir respektvoll (grüßte er mich ehrerbietig).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13]
+1	𓏏𓂋𓇋𓆵𓀢𓏛	854576	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=twr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓋴𓈖𓂧𓏲𓅾𓏲𓀁𓈖	138730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snḏ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd31tdknXQk4lq730cNNnW8U
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Aus Furcht, (daß) mich die Wache auf der Mauer, die gerade Dienst hatte ("in ihrem Tage befindlich war"), sähe, duckte ich mich in einem ⸢Gebüsch⸣ ab ("nahm ich eine gebückte Haltung an").
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16]
+1	𓊏𓊪𓀜𓈖	157160	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎢𓊃𓏲𓀒𓂡	165450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ks.w
+4	𓏌𓏤	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓃀𓅡𓄿𓏏𓆰𓆰	52960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bꜣ.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓅾𓏲𓀁	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+8	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+9	𓈖𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+10	𓅨𓂋𓈙𓇋𓇋𓇳𓏥𓋴	48200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wrš.y
+11	𓁶𓏤	850801	ADP	preposition	_	_	_	_	Translit=tp
+12	𓇋𓆛𓈖𓃀𓏲𓊅𓈇𓏤	27180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnb
+13	𓏶𓅓𓏭	25130	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jm.j
+14	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=hrw
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4Vjhopdk0NnoLUXm3TaQpQ
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Als) das Land sich erhellte, erreichte ich Peten.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [17]
+1	𓌉𓆓𓇳	112301	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥḏ
+2	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+3	𓄖𓂻𓈖	61370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓊪𓈖𓄿𓌙𓈉	401119	PROPN	entity-name	_	_	_	_	Translit=Ptn
+
+# sent_id = IBUBdx25ptS6TEFOqjbPwpstQXw
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Als) ich (aber) die Brüllstimme von Vieh hörte, faßte ich wieder Mut ("richtete mein Herz auf") (und) nahm mich zusammen ("nahm meine Glieder zusammen").
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [18]
+1	𓋭𓊃𓏲𓍢𓀜𓈖	854581	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯzi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓋴𓐠𓄿𓈎𓆌𓈖	127330	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣq
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥꜥ.w
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓄔𓅓𓏛𓈖	150560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḫrw
+12	𓈖𓌰𓅓𓇋𓍔𓂻	84140	VERB	verb	VerbForm=Fin	_	_	_	Translit=nmj
+13	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+14	𓏠𓈖𓏠𓈖𓏏𓃒𓏫	70730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnmn.t
+
+# sent_id = IBUBd1AM131s0k2Qt386CflgQl0
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Daraufhin sagte er zu mir: "Du hast es hier gut, (während) du bei mir bist, (denn) du wirst Ägyptisch hören!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [21]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓄤𓆑𓂋	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+7	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+8	𓉻𓈐	34790	ADV	adverb	_	_	_	_	Translit=ꜥꜣ
+9	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+14	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓂋𓏤𓈖𓆎𓅓𓏏𓊖	92900	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-n-km.t
+
+# sent_id = IBUBd3pI9kTLbkXDpalsVxHBsR8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Daraufhin sagte er zu mir: "Warum bist du hierher (an diesen Ort) gekommen, gab es einen Vorfall in dieser Residenz?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [22]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓄖𓂻𓈖	61370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+7	𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+9	𓁷𓏤𓊄𓏭𓂻𓇋𓍱𓊃𓏏𓀁	108180	PRON	pronoun	_	_	_	_	Translit=ḥr-zj-jšst
+10	𓇋𓈖𓇋𓏲	550032	PART	particle	_	_	_	_	Translit=jn-jw
+11	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+12	𓆣𓂋𓏏𓏥	116270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫpr.t
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓄚𓈖𓏌𓏲𓊖	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+15	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd1aJkFxLKUMziXgqtJ7onLk
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Daraufhin sagte ich zu ihm: "Es ist so, (daß) Sehetep-jb-re zum Horizont gewandelt ist, man weiß nicht, weswegen das geschehen ist!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [22] - [23]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇳𓋴𓊵𓏏𓊪𓄣𓏤𓅆	400449	PROPN	entity-name	_	_	_	_	Translit=Sḥtp-jb-Rꜥw
+7	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+8	𓏲𓍑𓄿𓏲𓂻	52130	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wḏꜣ
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓈌𓏏𓉐	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+11	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+12	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+13	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+14	𓆣𓂋𓏏𓏥	858535	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+15	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+16	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+17	𓋴𓏏	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd3Q8NBGAsUJHlTbe8vK0GRI
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Ein Beherzter ist er, (wenn) er die Menge sieht, er läßt nicht 'sitzen' was auf ('hinter') seinem Herzen ist!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [30]
+1	𓂓𓏲𓂸𓏏𓂭𓂭𓏛𓄣𓏤	45920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wmt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓌴𓁹𓄿𓄿𓈖	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓆈𓄿𓏏𓀀𓁐𓏥	41050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥšꜣ.wt
+6	𓂜𓈖	850806	PART	particle	_	_	_	_	Translit=n
+7	𓂋𓂝𓏲𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓈞𓊃𓀔	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+10	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+11	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9qayGorp0T9twNSbMLuUSg
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Ergreift er seinen Schild, schlägt er (auch schon) nieder,  man soll nicht zweimal ansetzen, um zu töten!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [31]
+1	𓅷𓄿𓇋𓇋𓂷𓂡𓈖	174260	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=ṯꜣi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓆎𓅓𓄛	32550	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jkm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏏𓇋𓏏𓇋𓂾𓂻	170080	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tjtj
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂜𓈖	55130	PART	particle	_	_	_	_	Translit=bw
+8	𓄙𓅓𓏛	400118	VERB	verb	_	_	_	_	Translit=wḥm-ꜥ
+9	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+10	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓂋𓆑	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓄡𓂧𓃀𓇋𓇋𓌪𓂡𓀀𓁐𓏥	124950	VERB	verb	VerbForm=Fin	_	_	_	Translit=ẖdb
+
+# sent_id = IBUBdWZ7LOWIH0fNv6yVEPpxlGQ
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Ein Herr der Beliebtheit ist er, groß an Anmut, durch Liebe hat er erobert!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [32]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓇋𓐛𓅓𓏏𓏛𓏫	24900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣm.t
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓉻𓂝𓄿𓏛	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+5	𓃀𓈖𓂋𓇋𓇜𓏛𓏥	56050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bnj.t
+6	𓎁𓏏𓀜𓈖	33560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓌻𓂋𓏲𓏏𓀁𓏫	72650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrw.t
+
+# sent_id = IBUBd6BKTrrSI0aNrCm49GGe0uQ
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "(Schon) im Ei hat er erobert, (denn) sein Blick (Gesicht) ist darauf gerichtet, seit er geboren wurde!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [33]
+1	𓎁𓏏𓀜𓈖	33560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓎛𓏲𓆇	130630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swḥ.t
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+10	𓇥𓂋	850803	ADP	preposition	_	_	_	_	Translit=ḏr
+11	𓄟𓋴𓏲𓏯𓏏𓏲	74950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4cqqBeWQ0LxoHWZf77QvII
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Mit der Elite seines Stammes, setzte er mich zum Herrscher eines Stammes ein.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [38]
+1	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋾𓈎𓅆	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+6	𓏲𓎛𓇋𓇋𓏏𓌙𓀀𓁐𓏥𓈉	48730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḥ.yt
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓍉𓊪𓏲𓏛𓏥	148170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=stp.w
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓏲𓎛𓇋𓇋𓏏𓌙𓀀𓁐𓏥𓈉	48730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḥ.yt
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxFBu95eLEIijFVSQjmNyXo
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Bote nach Norden (und) nach Süden zur Residenz, er hielt sich bei mir auf.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [40]
+1	𓄋𓊪𓏲𓏏𓏭𓏴𓂻	45760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wpw.tj
+2	𓅓𓐍𓂧𓊛	65350	ADV	adverb	_	_	_	_	Translit=m-ḫd
+3	𓅓𓏃𓈖𓏏𓏭𓍘𓇋𓇋𓏏𓊛	850635	ADV	adverb	_	_	_	_	Translit=m-ḫnt.yt
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+6	𓋁𓃀𓏲𓂻	72	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣb
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdWdN4EicQUHKhps4w7zZTHg
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Denn) dieser Herrscher von Retenu, er ließ mich viele seiner Missionen ausführen, (indem) ich Befehlshaber seines Heeres war.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [41]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋾𓈎𓏛𓀀	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓂋𓏏𓈖𓏌𓏲𓌙𓀀𓁐𓏥𓈉	96590	PROPN	entity-name	_	_	_	_	Translit=Rṯn.w
+6	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+10	𓄋𓊪𓏲𓏏𓏴𓀁	45750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wpw.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓆈𓏏𓏥	41011	ADJ	adjective	_	_	_	_	Translit=ꜥšꜣ
+13	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+14	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓋭𓊃𓏲𓍢𓀜	177110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣz.w
+17	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+18	𓀎𓀀𓏫	76300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mšꜥ
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9ePdYfTGkAakSad8tZ4B2g
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Unter dem Ratschlag seines Stammes, plante er, (daß) er mein Vieh erbeuten könne.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [44]
+1	𓎢𓄿𓀁𓈖	163220	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇉𓄿𓈎𓏴𓂡	101520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣq
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏠𓈖𓏠𓈖𓏏𓃒𓏥	70730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnmn.t
+6	𓆑	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+8	𓉲𓏤𓉐	140260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḥ
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓏲𓎛𓇋𓇋𓏲𓌙𓀀𓁐𓏥𓈉	48730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḥ.yt
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7IkpMWJkEs8pgQtUONSV0w
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Gewiß, ich bin ein Stier der Hu-Rinder inmitten von einer anderen Herde!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [46]
+1	𓈖𓈞𓅓𓀁𓈖	650030	PART	particle	_	_	_	_	Translit=nḥm.n
+2	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓃒𓏫	162930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓎛𓏲𓏲𓃒𓏥	102450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥw.w
+7	𓅓𓁷𓂋𓏭𓄣𓈖	855923	ADP	preposition	_	_	_	_	Translit=m-ḥr.j-jb-n
+8	𓎢𓇋𓇋𓀀	163760	ADJ	adjective	_	_	_	_	Translit=ky
+9	𓇋𓄿𓂧𓂋𓏏𓃒𓏥	34150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jdr
+
+# sent_id = IBUBd4TDbYAGdUjMl1PzXh1GdIg
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Als) er auf mich losging, erschoß ich ihn (und) mein Pfeil blieb in seinem Halse (stecken).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [53]
+1	𓈍𓂝𓅓𓏲𓂾𓂻𓈖	122780	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜥm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓄝𓏏𓏏𓌕𓆱𓈖	854553	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sti̯
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+7	𓂚𓄿𓏲𓌕𓆱𓏫	40050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜣ.w
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓏠𓈖𓍖𓏛	69590	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḥb.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1yroqEmGUbChpFZpWR0VJ8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Da) küßte er mich (und) umarmte er mich.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [55]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊃𓈖𓈖𓏭𓂊𓏛	136240	VERB	verb	VerbForm=Fin	_	_	_	Translit=sn
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓎛𓊪𓏏𓏭𓂘𓂡	104230	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥpt
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdzRWFNwpbkBOnMDPg8MDRu4
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Daraufhin holte ich (mir) all' seinen Besitz (und) erbeutete all' sein Vieh.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [55]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓏎𓈖𓈖	26870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+7	𓇉𓄿𓈎𓏲𓏴𓀜𓈖	101520	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣq
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓏠𓈖𓏠𓈖𓏏𓃒𓏥	70730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnmn.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBd9tmhDi40k9trtcxaQz6axY
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Wegen Nacktheit geht ein Mann aus seinem Lande fort!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [58]
+1	𓂋𓏲𓇋𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓇉𓄿𓄹𓏏𓍱	100790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.yt
+
+# sent_id = IBUBdw8pCoG1lEffoTZZf4xstUc
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Doch) ich habe (jetzt) weiße Kleider (und) feinstes Leinen!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [58]
+1	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌉𓏏𓏯𓍱	112420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥḏ.t
+3	𓊪𓈎𓏏𓆀𓍱𓏫	59330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+
+# sent_id = IBUBd74euXpLBknmtq7cSaKgeFU
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Und) die Erinnerung an mich (mein Erinnern) ist in seinem Palast.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [59]
+1	𓋴𓆼𓄿𓇋𓇋𓀁	141690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫꜣ.w
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉥𓂝𓏏𓉐	39890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥ.t
+5	𓆑𓅆	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5WSQJB6NUALgTBVx0QMIMU
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Willst du mich wirklich schlecht behandeln?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [60]
+1	𓋴𓆑𓈖𓂧𓂊𓏤𓅪	133650	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sfn
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓅓𓌷𓂝𓊤𓏲𓀁𓀁	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxKZW76Tn0SvrG79BbJ3K5c
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Heute kommt es dazu (geschieht der Fall), daß Gott mir gewogen ist ("auf meinem Wasser ist")!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [61]
+1	𓏇𓇋𓈖𓇳	68330	ADV	adverb	_	_	_	_	Translit=mjn
+2	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓊃𓊪𓊗𓏲	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓈖𓏏𓏭	550018	PART	particle	_	_	_	_	Translit=n.tjt
+5	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdzeSn9YKEkA7lYZqbv2rBk8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Ist er es wirklich?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [62]
+1	𓇋𓂋𓃹𓈖	550032	PART	particle	_	_	_	_	Translit=jn-jw
+2	𓅓𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓅓𓌷𓂝𓏏𓆄𓏛𓏥	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxNieewQQUhngTLsPVi8ElI
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Alters)schwäche hat mich ereilt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [65]
+1	𓎤𓎤𓏭𓅪	50940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wgg
+2	𓄿𓋴𓍬𓂻𓈖	266	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣs
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+
+# sent_id = IBUBd2lC0qVTEkhBjCQ7s72umYs
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Meine Augen sind schwer geworden.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [65]
+1	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂧𓈖𓋴𓍖𓏛	179910	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=dns
+
+# sent_id = IBUBd8zY5MiJy09YnkW6Y7YQBMQ
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Meine Füße haben aufgehört zu gehen (und) meinem Herzen in die Residenz zu folgen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [66]
+1	𓂋𓂧𓂾𓂾𓄹	96600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rd
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓆑𓐍𓍼𓏤𓂻	63970	VERB	verb	VerbForm=Conv	_	_	_	Translit=fḫ
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+6	𓌞𓋴𓏲𓂻	155000	VERB	verb	VerbForm=Fin	_	_	_	Translit=šms
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+
+# sent_id = IBUBd1sEnTJd5UQCiPIqwFpx6Wo
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Dann) mögen sie mich geleiten zur Stätte der Ewigkeit, (daß) ich der Allherrin folgen kann!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [68]
+1	𓊄𓃀𓏭𓂻	131460	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zbi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊖𓏏𓏤𓈖𓏏𓅘𓎛𓇳𓎛	850944	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nʾ.t-n.t-nḥḥ
+6	𓌞𓋴𓏲𓂻	155000	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šms
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓎟𓂋𓇥𓂋𓇋𓏏𓏯𓆗	82230	_	epitheton-title	_	_	_	_	Translit=nb.t-r-ḏr
+
+# sent_id = IBUBdzoURxKWgEq8sjY1KsoxdNk
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Dann) möge sie die Ewigkeit durchwandeln über mir!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [69]
+1	𓊄𓃀𓏲𓂻	131460	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zbi̯
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd4GhUVj1ykrDktuRC9SDoWU
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = So erfreute er das Herz des Dieners-da, wie (das) eines Herrschers (irgend)eines Fremdlandes.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 4] - [Verso 5]
+1	𓐍𓂋	400037	PART	particle	_	_	_	_	Translit=ḫr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓄫𓏲𓏏𓏛	126520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣwi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓅡𓎢𓇋𓀀𓇋𓅓𓀀	550024	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣk-jm
+8	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+9	𓋾𓈎𓅆	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+12	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBd0VcdgXzX0KXooKVaS8TcpM
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Horus: Anch-mesut.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 6]
+1	𓅃𓅆	400034	_	epitheton-title	_	_	_	_	Translit=Ḥr.w
+2	𓋹𓈖𓐍𓄟𓋴𓏲𓏏𓏯𓏥	400035	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ-msw.t
+
+# sent_id = IBUBd3Ajm5nWoE9QrJ4xZMzGUck
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Goldhorus: Anch-mesut.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 6] - [Verso 7]
+1	𓅃𓅆𓋞𓈒𓏫	400069	_	epitheton-title	_	_	_	_	Translit=Ḥr.w-nbw
+2	𓋹𓈖𓐍𓄟𓋴𓏯𓏥	400035	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ-msw.t
+
+# sent_id = IBUBdWXANDDAnkfHmgwuhd8vnes
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = König von Ober-und Unterägypten: Cheper-kꜣ-Re, L.H.G. selig.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 7]
+1	𓇓𓆤	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+2	𓇳𓆣𓂋𓂓𓏤𓅆	400021	PROPN	entity-name	_	_	_	_	Translit=Ḫpr-kꜣ-Rꜥw
+3	𓋹𓍑𓋴	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+4	𓌷𓂝𓊤𓏲𓀁	66730	VERB	verb	_	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd6hJJnyd1ERprAvfIjGwEkY
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Sohn des Re: Sesostris, selig.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 7]
+1	𓅭𓇳𓏤𓅆	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+2	𓄊𓋴𓂋𓏏𓊃𓈖𓅆	400051	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+3	𓌷𓂝𓊤𓏲𓀁	66730	VERB	verb	_	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd62Ww8yXMkdivBs6JYg2rDM
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Königliches Sendschreiben an den Gefolgsmann Sinuhe:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 7] - [Verso 8]
+1	𓇓𓏏𓈖𓅆𓇅𓏲𓍼𓏤	850903	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wḏ.w-nswt
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓌞𓋴𓏲𓂻	856136	_	epitheton-title	_	_	_	_	Translit=šms.w
+4	𓅭𓏤𓈖𓉔𓏏𓆮𓀻	705989	PROPN	entity-name	_	_	_	_	Translit=Zꜣ-nh.t
+5	𓂋𓈖𓏏𓏭	850953	PART	particle	_	_	_	_	Translit=r-n.tj
+
+# sent_id = IBUBdxcZ9hhyp0X6jFtxAR2AY2Y
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Nachdem) Du die Fremdländer durchzogen hattest, bist Du (schließlich) von Qatna nach Retenu hinaufgegangen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 8] - [Verso 9]
+1	𓄲𓂋𓂻𓈖	854585	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbn
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈉𓏏𓏤𓏫	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+4	𓉐𓂋𓂻𓏏𓏲	60920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=pri̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓐪𓂧𓏌𓏲𓌙𓈉	854941	PROPN	entity-name	_	_	_	_	Translit=Qdnꜣ
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓂋𓏏𓈖𓏌𓏲𓌙𓀀𓁐𓏥𓈉	96590	PROPN	entity-name	_	_	_	_	Translit=Rṯn.w
+
+# sent_id = IBUBdQe0W1Qi70zbl0mD0mAiJMI
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Aber) gemäß dem Beschluß deines eigenen Herzens gab Dich Fremdland an Fremdland (weiter).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 9]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+3	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏs
+12	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd83S6zKkakuckinFPW3FvcY
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Was hast Du (denn) getan, (so daß) man gegen Dich vorgehen müßte?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 9]
+1	𓊪𓏏𓂋𓇋𓆵𓀁	62920	PRON	pronoun	PronType=Int	_	_	_	Translit=ptr
+2	𓁻𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+5	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdW6rw0JWYEvfsI5GJ5cj7ps
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = 〈Ihre Kinder〉 sind (schon) in der Audienzhalle L.H.G.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 11] - [Verso 12]
+1	𓄟𓋴𓇋𓇋𓏯	74750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ms
+2	𓀀	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂝𓄚𓈖𓏌𓏲𓏏𓏭𓍖𓉐𓉐	850364	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥ-ẖn.wtj
+5	𓋹𓍑𓋴	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd5SVyVBioEbphZzB9VWYzDE
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Du sollst ein langes Leben haben (dauern) (mit) Kostbarkeiten von (der Art, die) sie Dir geben!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 12]
+1	𓎝𓎛𓏛	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓀻𓋴𓏲𓏛𓏥	153940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=špss
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓂞𓂞	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdyhQ5MTlu0JPt5Lk6Y0oOe8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Und) Du sollst versorgt sein mit ihren Gaben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 12]
+1	𓊵𓏏𓊪𓏲𓏛	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄫𓏲𓏏𓏛𓏥	39	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣw.t
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd3iO0SHYlUH1qaxuo3qNMcI
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Du hast begonnen alt zu werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 13]
+1	𓆷𓄿𓂝𓏛𓈖	851685	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šꜣꜥ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓄿𓏲𓏏𓀗	20480	VERB	verb	VerbForm=Fin	_	_	_	Translit=jꜣwi̯
+
+# sent_id = IBUBdzid7FRiRETsusNtfRt7MDc
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Und) Du hast die Zeugungskraft verloren!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 13]
+1	𓆑𓐍𓍼𓏤𓂻𓈖	63970	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=fḫ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓃀𓈖𓈖𓏌𓏲𓏏𓐎𓏥	850952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bnn.wt
+
+# sent_id = IBUBd4CubWWSe0vnsX8EZme9NhA
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Jetzt) gedenkst Du des Tages der Bestattung, des Hinübergehens zur Ehrwürdigkeit.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 13] - [Verso 14]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓆼𓄿𓀁𓈖	141620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓈎𓂋𓇋𓋴𓏯𓂡	161940	VERB	verb	VerbForm=Fin	_	_	_	Translit=qrs
+7	𓊄𓃀𓏭𓂻	131460	VERB	verb	VerbForm=Fin	_	_	_	Translit=zbi̯
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓇋𓌴𓐍𓄪𓏤𓀻	25060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jmꜣḫ
+
+# sent_id = IBUBd3JOS4BrYUg0t9xeerT0M68
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Man wird für Dich die Bestattungsprozession vollziehen am Tage des Begräbnisses.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 15]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓌞𓋴𓏲𓂻𓏲𓍑𓄿𓏱	155090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šms-wḏꜣ
+6	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓄥𓄿𓏛𓇾𓏤𓈇	401127	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zmꜣ-tꜣ
+
+# sent_id = IBUBdyfhx13PbkxqmNa2QTa6TTs
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Und) die Maske von Lapislazuli.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 15]
+1	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓊃𓃀𓂧𓈒𓏫	120700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫsbḏ
+
+# sent_id = IBUBd409XCQMw0fHs7MAh0LXPsA
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Himmel ist über Dir (und) ist schön aus Ebenholz.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 15]
+1	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+2	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂝𓈖𓁻𓏛𓏏𓏲	38070	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜥni̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉔𓄿𓃀𓄿𓍁𓈖𓏏𓏲𓆮	98180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hbnj
+
+# sent_id = IBUBdy9gIZtzPkyjvCXWzR0MEXw
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Rinder ziehen Dich.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 15] - [Verso 16]
+1	𓃒𓏥	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴𓏏𓍔𓄿𓏲𓍬𓂻	854555	VERB	verb	VerbForm=Fin	_	_	_	Translit=sṯꜣ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd2Bd6BmF8UcOl5yCN0ZjL6o
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Und) Sänger sind vor Dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 16]
+1	𓇗𓂝𓏏𓏯𓀁𓀀𓏥	154770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šmꜥ.w
+2	𓌨𓂋𓄂𓏏𓏤	500047	ADP	preposition	_	_	_	_	Translit=ẖr-ḥꜣ.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWlfDkmpHkiaiHgpAYCxG6g
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Man wird Dir den 〈Opferbedarf〉 ausrufen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 16]
+1	𓈖𓇋𓋴𓀞𓀁	80210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=njs
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂧𓄑𓃀𓎛𓏲𓀁𓌉𓊵𓏏𓊪𓏲𓅆	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+
+# sent_id = IBUBd7aWe2KRfUV6jtM8yl1eRmk
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Du wirst nicht im Fremdland sterben ('es wird nicht dein Sterben . . . geben)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 17]
+1	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+2	𓅓𓏏𓏱	69300	VERB	verb	VerbForm=Fin	_	_	_	Translit=mwt
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+
+# sent_id = IBUBdxxMb7KUc0rlh2lRuUgmY6s
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Denn) die Asiaten sollen Dich nicht bestatten!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 17]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓈎𓂋𓋴𓊭𓀜	161940	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qrs
+3	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+4	𓌙𓅓𓏲𓀀𓏥	35400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣm
+
+# sent_id = IBUBd2v6GJgd4EeIjOSW62vTzOs
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Und) man soll Dir keine Grabeinfriedung (Steinkreis) machen (nicht deine Grabeinfriedung machen)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 18]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓇥𓂋𓇋𓆟𓅪𓏥	184610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏr
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd9xWfFeiq0UClZeazjJfhXc
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Dieses Sendschreiben erreichte mich, (als) ich inmitten meines Stammes stand.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 18] - [Verso 19]
+1	𓄭𓂋𓂻	132830	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
+2	𓏲𓇅𓏲𓍼𓏤	51980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏ.w
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓊢𓂝𓂻𓎢𓏲𓀀	851887	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+7	𓁷𓂋𓏭𓄣	108540	ADJ	adjective	_	_	_	_	Translit=ḥr.j-jb
+8	𓏲𓎛𓇋𓇋𓌙𓀀𓁐𓏥𓈉	48730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḥ.yt
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdxLg5rGGN0hjnQuwIdrVtCg
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Aber gewiß gütig ist der Wohlwollende, der mich vor dem Tode errettete!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 20]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓈖𓈞𓅓𓀜	104600	PART	particle	_	_	_	_	Translit=ḥm
+3	𓄤𓆑𓂋	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+4	𓎝𓎛𓏛𓄣𓏤	400652	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣḥ-jb
+5	𓈖𓈞𓅓𓀜𓈖	86430	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nḥm
+6	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+7	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+8	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+
+# sent_id = IBUBd8RGR68HWED1g8QCmPpky04
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Dein Ka wird mich das Ende meines Leibes in der Residenz verbringen lassen!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 20] - [Verso 21]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂓𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+6	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓄖𓏲𓏭	61490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.wj
+9	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓄚𓈖𓏌𓏲𓉐𓊖	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+
+# sent_id = IBUBd8rCdy0fF0WWnHgBvLfobwg
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Betreffs dieser Flucht, die der Diener-da unternahm in seiner Unwissenheit.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 21] - [Verso 22]
+1	𓁷𓏤𓐍𓏏𓏛𓏥	851808	ADP	preposition	_	_	_	_	Translit=ḥr-jḫ.t
+2	𓏲𓂝𓂋𓂾𓂻	44730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜥr.t
+3	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+4	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓅡𓎢𓇋𓀀𓇋𓅓𓀀	550024	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣk-jm
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓐍𓅓𓂜	116910	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫm
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWMQo4HGLUOEkNqQfhchfXQ
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Denn) es ist wie etwas, das schwer zu berichten ist, lebender Gott, Gleichnis des Re!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 28]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+3	𓇋𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓉻𓂝𓄿𓏛	34750	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄙𓅓𓏛	48440	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥm
+7	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+8	𓊹𓅆𓋹𓈖𓐍	851806	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥnḫ
+9	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓂋𓂝𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd6cuuMYHDUClsNK9SC2MGqc
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Um seiner selbst willen ist das Herz des Dieners-da (aber) davongegangen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 29]
+1	𓋴𓍯𓄿𓏲𓏲𓀢𓏛	129740	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swꜣi̯
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓅡𓎢𓇋𓀀𓇋𓅓𓀀	550024	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣk-jm
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏs
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzsQJNxuaUDspBd2KY6fAoQ
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Diener da fragt ihn (den König?) (nun) um Rat.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 29]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅡𓎢𓇋𓀀𓇋𓅓𓀀	550024	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣk-jm
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓐩𓏌𓀁𓂋𓏤𓅆	90910	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḏ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzsWS0uY60pqrAybziWrgU0
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Möge man dies vor Dich bringen!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 29]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+4	𓅓𓂺𓏛	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3cFT58UJkepmppaaKIZ2kU
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = 〈Ich〉 weiß nicht, wer mich in dieses Fremdland brachte!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 32]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓏏𓏲	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓏎𓈖	26870	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jni̯
+5	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓈉𓏏𓏤𓏫	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+8	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBd641gZnleUefvFg4PWqU5T8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Ich hatte (doch) keine Furcht.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 33]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓅾𓀁	138730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snḏ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd3vDOZhlyU5XqIj1jsBx9k8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Und) man verfolgte mich nicht.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 33]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓐍𓋴𓐍𓂾𓂻	143040	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zḫzḫ
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd3WxS1wPskyruC4GBZkZUqE
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = (Und) man hatte meinen Namen nicht im Munde des Herolds gehört.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 33]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+8	𓄙𓅓𓏛𓀀	48540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḥm.w
+
+# sent_id = IBUBd4fBGN8G0EZOqROPnUPTsSU
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Sondern (es war) jenes Schaudern meiner Glieder.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 33]
+1	𓄋𓊪𓏲𓏭𓏴𓏛	45680	ADP	preposition	_	_	_	_	Translit=wpw
+2	𓈖𓆑𓄿𓏭𓈐	83340	PRON	pronoun	PronType=Dem	_	_	_	Translit=nfꜣ
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓆓𓂧𓏲𓄿𓐎	186240	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏdf
+5	𓎛𓂝𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd0WMB0meu0apv3vj2Qz5PS0
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Meine Füße eilten (davon).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 33]
+1	𓂋𓂧𓂾𓂾𓄹	96600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rd
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄿𓋴𓍬𓂻	266	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣs
+
+# sent_id = IBUBd68LSKLcUEwFrjCCM3PH6Pw
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Mein Herz führte mich (fort).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 33]
+1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓐍𓂋𓊪𓌂𓀜	120150	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫrp
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd67nOWBY30exlbeA9y3hQc4
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = War ich etwa überheblich vor ihm?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 34]
+1	𓇋𓈖𓇋𓏲	550032	PART	particle	_	_	_	_	Translit=jn-jw
+2	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓈎𓄿𓀠𓏛	159110	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qꜣi̯
+5	𓐠𓏤	125670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣ
+6	𓏃𓈖𓏏𓏭𓂊𓏛	119050	ADJ	adjective	_	_	_	_	Translit=ḫnt.j
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3c4qYHRzUIZtnN7NDEhMOA
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Hat (doch) Re die Furcht vor Dir überall im Lande (Ägypten) verbreitet (und) das Erschrecken vor Dir in allen Fremdländern!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 34]
+1	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋𓂝𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓅾𓀁	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+6	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+7	𓁷𓂋𓇋𓇋𓏏𓐡𓀜𓏫	108390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥr.yt
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+10	𓈉𓏏𓏤𓏫	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+11	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBd4aJEKloy0MpnTPUIWsOkxI
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Um deinetwillen geht die Sonne auf.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 35]
+1	𓏲𓃀𓈖𓇳	854500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbn
+2	𓂋𓂝𓇳𓅆	93290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rꜥw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓌻𓂋𓏲𓏏𓀁	72650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrw.t
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6GVxjW2EUidv21iwzLvHWo
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Die Luft im Himmel wird geatmet, wenn Du (es) willst.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 35]
+1	𓊡𓏲𓏫	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+4	𓐍𓈖𓌰𓅓𓂊𓏛𓏏𓏲	854533	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnm
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌻𓂋𓀁	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdwo0GksaN0rxiWEkzWNgcbk
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Diener-da überweist die Erbschaft seinen 'Küken' (Kindern), die er an diesem Orte gezeugt hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 36]
+1	𓇋𓈖	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅡𓎢𓇋𓀀𓇋𓅓𓀀	550024	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣk-jm
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴𓇆𓏛	130950	VERB	verb	VerbForm=Fin	_	_	_	Translit=swḏ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅷𓏏𓏤𓀀𓁐𓏥	173950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁹𓂋𓈖	851809	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+12	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBdWmUUCWH80FNmJaOcWwaxFw
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+
+# sent_id = IBUBd02bdJQJHUzehAF0B0lhQ7g
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Mein ältester Sohn wurde zum Hüter ("war im Rücken") meines Stammes.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 38]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓀗𓏲𓀀	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+5	𓏲𓎛𓇋𓇋𓌙𓈉	48730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḥ.yt
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdWlXpD3nyUrrni93jPcLvVc
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Da ließ seine Majestät L.H.G. einen verdienten königlichen L.H.G. Landwirtschaftsinspektor kommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 39] - [Verso 40]
+1	𓂋𓂝𓇋𓈖	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋹𓍑𓋴	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+6	𓅓𓂋𓇏𓏏𓈇𓅂𓀜𓀀𓏫	401135	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-sḫ.tjw-n-pr-nswt
+7	𓏠𓈖𓐍𓏏𓍊𓏛	400110	ADJ	adjective	_	_	_	_	Translit=mnḫ
+8	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓇓𓏏𓈖𓅆𓉐𓏤	400419	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-nswt
+10	𓋹𓍑𓋴	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd5f1CwND9UWZogcdQZ151MU
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Da fuhr der Diener-da zu Schiff nach Süden ("Zu Schiff fahren war es, was der Diener-da machte nach Süden").
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 41]
+1	𓈖𓂝𓏏𓊛	854518	VERB	verb	VerbForm=Fin	_	_	_	Translit=nꜥi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓅡𓎢𓀀𓇋𓅓𓀀	550024	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣk-jm
+5	𓅓𓏃𓈖𓏏𓏭𓍘𓇋𓇋𓏏𓊛	850635	ADV	adverb	_	_	_	_	Translit=m-ḫnt.yt
+
+# sent_id = IBUBdWbpzQoXN08FiWseDDBR5e8
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Jeder Diener war bei ("unter") seiner Aufgabe.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 41]
+1	𓍛𓏤𓀀	104680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+2	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+3	𓌨𓂋𓏭𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+4	𓇋𓂋𓏭𓀹𓏛𓏥	28590	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.yt
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3i4qN99Mk8Wle9QQpfj1bo
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Meine Ba-Seele war am Dahinschwinden!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 46]
+1	𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓊄𓃀𓏏𓂻	131460	VERB	verb	VerbForm=Fin	_	_	_	Translit=zbi̯
+
+# sent_id = IBUBd2wVA0hVAUzqnSvJ1fvo9ZY
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Meine Glieder waren schwach!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 46]
+1	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓄿𓉔𓂧𓏲𓅪	181	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣhd
+
+# sent_id = IBUBd6Ju6EaVf0gsgsWY9vkmy4E
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Ich wußte nicht (mehr), (ob) mein Tod mehr ist als mein Leben!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 46]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓋹𓈖𓐍𓏲	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdzT9yA3fJkS8h4l1EzT63Mg
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Man soll dir keine (Grab)einfriedung machen (nicht deine Grabeinfriedung machen)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 48]
+1	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓇥𓂋𓇋𓅪	184610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏr
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd42yPVJSj0TTgjcVFbFW0mU
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = ". . . gehen, bis ich den Hafen von Iti-Tawi erreichte."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 51]
+1	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄖𓏏𓂻	61370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂧𓏇𓇋𓏏𓈇𓏤	179370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dmj.t
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓎛𓀗𓏷𓀜𓇾𓏤𓈇	401136	PROPN	entity-name	_	_	_	_	Translit=Jṯ-Tꜣ.wj
+
+# sent_id = IBUBdW6OA3EVQE3SkQsARDfF8B0
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = Sie hatten aber auch ihre Menit-Ketten (mit)gebracht.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 55]
+1	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓎼𓂋𓀁	167730	PART	particle	_	_	_	_	Translit=gr
+3	𓏎𓈖𓈖	26870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓏠𓈖𓇋𓏯𓏛	70170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnj.t
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd5oOTxAWsUFKkY3GU7vz2HE
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Möge Dich die Herrin der Sterne beschützen"!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 56]
+1	𓐍𓂤𓏛	115110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
+2	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+3	𓎟𓇼𓏤𓅆𓏫	850985	_	epitheton-title	_	_	_	_	Translit=nb.t-sbꜣ.w
+
+# sent_id = IBUBd41HKC1y3kzwo8ToUWb5KXo
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Möge sie (Hathor?) die Oberägyptische Krone flußabwärts fahren (und) möge sie die Unterägyptische Krone flußaufwärts fahren!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 56]
+1	𓐍𓂧𓊛	122000	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫdi̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓇗𓋴	154780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šmꜥ.w-sj
+4	𓏃𓈖𓏏𓏭𓊛	119140	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnti̯
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓇇𓏲𓏤𓋴	73990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ.w-sj
+
+# sent_id = IBUBd64QXgAFbk5FsTpL7oc1eM4
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Jubel sei Dir wie der Allherrin!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 57]
+1	𓉔𓈖𓏌𓏲𓀜𓏥	98730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hn.w
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓎟𓂋𓇥𓂋𓆗	82230	_	epitheton-title	_	_	_	_	Translit=nb.t-r-ḏr
+
+# sent_id = IBUBd8QI8YW4iklDmlYuPqLZIrg
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Lege (aber) deinen Hornbogen ab!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 57]
+1	𓊠𓂝𓏲𓏛𓀜	48760	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wḥꜥ
+2	𓂝𓃀𓏲𓏭𓄏𓈔	850983	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥb
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd1llQ0ZTTUnupgosvMQPpcQ
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "(Und) lege (auch) deine Pfeile beiseite!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 57]
+1	𓋴𓆑𓐍𓍼𓏤𓂻	133780	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sfḫ
+2	𓍱𓊃𓂋𓏲𓌕𓆱𓏫	157560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd41aspMpeER8gLFacmQAiRA
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Gewähre uns unser schönes Musizieren an diesem schönen Tage!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 58]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓐍𓈖𓏏𓅯𓂻𓏛𓏥	117690	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫni̯
+5	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+6	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+9	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+10	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+
+# sent_id = IBUBd3YpiGL7XkJ8gFtjzLrDaY4
+# corpus = sawlit
+# src_text_id = RP2F6BGNDBAARDBNDHGFSFPIEM
+# src_text = sawlit:oAshmolean Museum 1945.40 aus Deir el Medineh (AOS)//Sinuhe
+# owner = Frank Feder
+# text_de = "Nicht soll das Auge, das Dich erblickt, in Furcht sein!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Verso 60]
+1	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅾𓏲𓀁	138730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snḏ
+3	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+4	𓂧𓎼𓄿𓁻	181140	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dgi̯
+5	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+

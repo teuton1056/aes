@@ -1,0 +1,46 @@
+# sent_id = IBUBd8iTbWPTkkPEiY9Gdzyooi8
+# corpus = bbawgrabinschriften
+# src_text_id = ZWJ633QSSBHIRHR3SACY7DRY7I
+# src_text = bbawgrabinschriften:Westwand//2. Register v.u.
+# owner = Stefan Grunert
+# text_de = Der Patron.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓋾	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+
+# sent_id = IBUBd90N3s0ha0W3vqExl8zozFE
+# corpus = bbawgrabinschriften
+# src_text_id = ZWJ633QSSBHIRHR3SACY7DRY7I
+# src_text = bbawgrabinschriften:Westwand//2. Register v.u.
+# owner = Stefan Grunert
+# text_de = Mache!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓁹	851809	VERB	verb	VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+
+# sent_id = IBUBdwtWcpQCW08dge4kr08UcfY
+# corpus = bbawgrabinschriften
+# src_text_id = ZWJ633QSSBHIRHR3SACY7DRY7I
+# src_text = bbawgrabinschriften:Westwand//2. Register v.u.
+# owner = Stefan Grunert
+# text_de = Schneide gut!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓈙𓂝𓆓	450452	VERB	verb	VerbForm=Fin|Mood=Imp	_	_	_	Translit=šꜥḏ
+2	𓄤	400458	ADV	adverb	_	_	_	_	Translit=nfr
+
+# sent_id = IBUBd0FrobOHrkgcmzeIr87WmCI
+# corpus = bbawgrabinschriften
+# src_text_id = ZWJ633QSSBHIRHR3SACY7DRY7I
+# src_text = bbawgrabinschriften:Westwand//2. Register v.u.
+# owner = Stefan Grunert
+# text_de = Das Ausleeren des Korns.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓅱𓈙𓏏	50040	VERB	verb	VerbForm=Fin	_	_	_	Translit=wš
+2	𓇠	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+

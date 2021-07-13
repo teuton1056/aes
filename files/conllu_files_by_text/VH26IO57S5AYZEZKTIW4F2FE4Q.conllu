@@ -1,0 +1,346 @@
+# sent_id = IBUBdWqaWwWrMErbtuhffNPTHxY
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Viewing the beauty of the good god 𓍹Khakaure𓍺 (⸗ Sesostris III.), justified, beloved of Osiris Wenennefer, lord of Abydos,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1] - [A.3]
+1	𓂀	62900	VERB	verb	VerbForm=Fin	_	_	_	Translit=ptr
+2	𓄤𓄤𓄤	854638	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nfr.w
+3	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
+4	𓇳𓈍𓂓𓂓𓂓	400108	PROPN	entity-name	_	_	_	_	Translit=Ḫꜥi̯-kꜣ.w-Rꜥw
+5	𓐚𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓌸𓇋𓇋	72480	ADJ	adjective	_	_	_	_	Translit=mr.y
+7	𓁹𓊨𓃹𓈖𓈖𓄤	500722	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Wnn-nfr
+8	𓎟𓍋𓃀𓈋𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+
+# sent_id = IBUBd9TIXFuZP0E1t4m1l3CWZOE
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = "I am content with it," says the desert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓊵𓎡𓅱	111230	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḥtp
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓇋𓈖	500024	VERB	verb	_	_	_	_	Translit=j
+5	𓊃𓏏𓈉	134780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmy.t
+
+# sent_id = IBUBdw8k50aeg0PclxaWbilcBao
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Worshipping Osiris in his beautiful festivals enduringly and repeatedly.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓇼𓀢	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓊨𓁹𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉲𓎱𓏥	103300	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥꜣb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓄤𓅱	550034	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nfr
+7	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+8	𓂋𓎛𓎛𓇳	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd78nJVJFFUEot8q1FNg4WDQ
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Viewing the beauty of the good god 𓍹Khakaure𓍺, justified, beloved of Wepwawet, lord of the sacred land.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1] - [A.4]
+1	𓂀	62900	VERB	verb	VerbForm=Fin	_	_	_	Translit=ptr
+2	𓄤𓄤𓄤	854638	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nfr.w
+3	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
+4	𓇳𓈍𓂓𓂓𓂓	400108	PROPN	entity-name	_	_	_	_	Translit=Ḫꜥi̯-kꜣ.w-Rꜥw
+5	𓐚𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓌸𓇋𓇋	72480	ADJ	adjective	_	_	_	_	Translit=mr.y
+7	𓄋𓈐𓈐𓈐	45580	PROPN	entity-name	_	_	_	_	Translit=Wp-wꜣ.wt
+8	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+9	𓇿𓏤𓈅𓂦𓂋𓈉	169370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tꜣ-ḏsr
+
+# sent_id = IBUBd1UgeEbhcUYLlTvidzCWz4k
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May the sight of the keeper of the royal diadem, the attendant of the palace, Nebipusenusret, be open, so that he may see the beauty of Wepwawet in his beautiful procession, when he comes in peace to his palace of joy, the hour-priests of the temple being in jubilation.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.4] - [B.6]
+1	𓃹𓈖𓉿	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+2	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓀹𓄤𓄂𓏏	550343	_	epitheton-title	_	_	_	_	Translit=jr.j-nfr-ḥꜣ.t
+5	𓌞𓅱𓉐𓉻𓉐	860297	_	epitheton-title	_	_	_	_	Translit=šms.w-pr-ꜥꜣ
+6	𓎟𓊪𓅱𓄊𓋴𓂋𓏏𓊃𓈖	703040	PROPN	entity-name	_	_	_	_	Translit=Nb⸗j-pw-Z-n-wsr.t
+7	𓌳𓁹	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓄤𓄤𓄤	854638	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nfr.w
+10	𓄋𓈐𓏏𓏥𓃧	45580	PROPN	entity-name	_	_	_	_	Translit=Wp-wꜣ.wt
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓉐𓂋𓏏𓂻	60280	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr.t
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+15	𓂻𓅱	21881	PART	particle	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jw
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓅓𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓊵	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓉥	39850	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥḥ
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+22	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+23	𓇛𓅓𓄣	91500	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḏm-jb
+24	𓃹𓈖𓏏𓇼𓊹𓉞𓉐	550054	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wnw.t-ḥw.t-nṯr
+25	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+26	𓎛𓂝𓂝𓀠𓅱𓏏	102120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥꜥ.wt
+
+# sent_id = IBUBd6eoX3iw8EwxsybXWeRMWiI
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Worshipping Wepwawet in his beautiful procession enduringly and repeatedly.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓇼𓀢	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓄋𓈐𓏏𓏥𓃧	45580	PROPN	entity-name	_	_	_	_	Translit=Wp-wꜣ.wt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉐𓂋𓏏𓂻	60280	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+7	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+8	𓂋𓎛𓎛𓇳	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd1b6olAt8keDlRHdvTZVobA
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I acted as the Great One of the Tens of Upper Egypt and priest of Duawer in the Sed Festival under the Majesty of the King of Upper and Lower Egypt 𓍹Nymaatre𓍺 (⸗ Amenemhat III.), who lives for ever.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.5] - [D.7]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅨𓂋𓎆𓇗	400070	_	epitheton-title	_	_	_	_	Translit=wr-mḏ-Šmꜥ.w
+5	𓊹𓍛𓇼𓅨	860298	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-Dwꜣ-wr
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉲𓎱𓋴𓂧𓈄𓉳	103500	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-sd
+8	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+9	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+12	𓇳𓈖𓌶𓂝𓏏	400117	PROPN	entity-name	_	_	_	_	Translit=N.j-mꜣꜥ.t-Rꜥw
+13	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+14	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd9kQZA3WQEqZmJWLnhDBzOI
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = A thousand of bread; A thousand of beer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [G.1] - [G.2]
+1	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+2	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+4	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+
+# sent_id = IBUBdzh9Jdnvh0oqm9hw1qySeU4
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Offerings and provisions.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [G.3]
+1	𓊵𓏏𓊪	854532	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp
+2	𓆓𓆑𓏒𓏥	183850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏfꜣ
+
+# sent_id = IBUBd0ZfH2MgmkU9i4PhebchtHI
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = A young long-horned $jwꜣ$-ox. A young $gw$-ox.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [G.4] - [G.5]
+1	𓂋𓈖𓈖	95060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rnn
+2	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+3	𓂋𓈖𓈖	95060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rnn
+4	𓎼𓅱	166700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gw
+
+# sent_id = IBUBd767RQ33jU6kpUp7miJf5jg
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved brother Ipep just〈ified〉.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [H]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓊪𓊪𓀀	_	X	unknown	_	_	_	_	_
+6	𓐙	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd3OPKry7hUHVlMfbGyRuzoA
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The keeper of the diadem, the attendant of the royal palace, Nebipusenusret, says to the hour-priesthood of the temple (of Osiris) of Abydos and of his (i.e. Osiris') chapels of the King of Upper and Lower Egypt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.1]
+1	𓀹𓄤𓄂𓏏	550343	_	epitheton-title	_	_	_	_	Translit=jr.j-nfr-ḥꜣ.t
+2	𓌞𓅱𓉐𓉻𓉐	860297	_	epitheton-title	_	_	_	_	Translit=šms.w-pr-ꜥꜣ
+3	𓎟𓊪𓅱𓄊𓋴𓂋𓏏𓊃𓈖	703040	PROPN	entity-name	_	_	_	_	Translit=Nb⸗j-pw-Z-n-wsr.t
+4	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓃹𓈖𓇼𓏏𓊹𓉞	550054	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wnw.t-ḥw.t-nṯr
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+10	𓉞𓏏𓉐𓏥	99790	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥw.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+13	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+
+# sent_id = IBUBd1NwzYvQnkTljRrXszJC92Y
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The king shall be rejuvenated in your life;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.1] - [I.2]
+1	𓎛𓇬𓈖	103040	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwn
+2	𓇓𓏏𓈖𓀴	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥnḫ
+5	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdQvWnGbQoUrXgmXwKEBPMyA
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = you shall be in the favour of your sovereign;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.2]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+4	𓎿𓅱𓏏𓏥	109800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥzw.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓇋𓍘𓇋𓇋𓀚	32930	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jty
+7	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdwCtm5b2i0RntWpuXJAGx4Y
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = you shall hand on your offices to your children;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.2] - [I.3]
+1	𓋴𓎗𓅱𓀁	130950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swḏ
+2	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓊑𓏏𓏥	20430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣw.t
+4	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓄡𓂧𓀔𓏥	854539	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ẖrd
+7	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd9SEywTBeEskmUELRQmlzc4
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = your children will last on your seats in your offices of eternity;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.3]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓄟𓅱𓀔𓏥	74750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ms
+3	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓏠𓈖	69590	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
+5	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓎼𓎼𓎼	87870	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ns.t
+7	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊑𓏏𓏥	20430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣw.t
+10	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+11	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+12	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBdQnkhPZEn0AJlHGgjzpDPnM
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = you shall not hunger, you shall not thirst
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.3] - [I.4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓎛𓈎𓂋𓀁	110540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥqr
+3	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+5	𓇋𓃀𓇋𓈗	23640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jbi̯
+6	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdQ5RlYQKNk4BslxYB5UhaXA
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The breath of the mouth is beneficient for the dignitary;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.6] - [I.7]
+1	𓊡𓅱	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+4	𓅜𓐍𓏛	200	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣḫ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓃶	129120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥḥ
+
+# sent_id = IBUBd2hsV0mH6UDgp8wcfrbOZw8
+# corpus = sawlit
+# src_text_id = VH26IO57S5AYZEZKTIW4F2FE4Q
+# src_text = sawlit:Stele des Nebipusenwosret (BM EA 101)//〈Stele des Nebipusenwosret (BM EA 101)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = this is not something which makes tired.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓍇𓏌𓅱	851519	PRON	pronoun	PronType=Dem	_	_	_	Translit=nw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓅨𓂋𓂧𓏏𓀉	48260	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=wrḏ
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

@@ -1,0 +1,832 @@
+# sent_id = IBYBicQiPFhSKEUKudPZydeRMM8
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Anfang des Heilmittels für das Abführen (wörtl.: Abgehen-Lassen) von Sekret aus der Leistengegend:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,15]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓉔𓂝𓇋𓇋𓏏𓂻	140090	VERB	verb	VerbForm=Fin	_	_	_	Translit=shꜣi̯
+5	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈖𓊪𓎛𓏲𓄹𓏥	83190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=npḥ.w
+
+# sent_id = IBYBiTeMYWFyiUyNqFKPtpcekIk
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein Gewächs –
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,15]
+1	𓋴𓄧𓅓𓆰𓏥	134140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sm.w
+
+# sent_id = IBYBifPCy35kPUKbpIa5JclCrWk
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = ihr (sic) Name ist $snwt.t$-Winde;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,15] - [51,16]
+1	𓋴𓈖𓍇𓏌𓅱𓏏𓏏𓆰	136820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=snwt.t
+2	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBiaSX0JNoLEsVri42d04oQGs
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = wie eine $qꜣd.t$-Pflanze wächst sie auf ihrem Bauch;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,16]
+1	𓂋𓂧𓌗𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓈎𓄿𓂧𓏏𓆰𓏥	159650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qꜣd.t
+
+# sent_id = IBYBiZUzcf30ZU9WmRNe2QSuNdo
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = (üblicherweise) treibt sie Blüte(n) wie der Lotos
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,16]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓁷𓂋𓏏𓆰	109110	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥrr.t
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓊃𓈙𓈖𓆸	145220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zšn
+
+# sent_id = IBYBiV3xq1Roi0D1jtsB4eRHOXo
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = – seine Blätter werden wie weißes Holz (vor)gefunden:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,17]
+1	𓂋	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅠𓅓𓏏𓏲	167210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓎼𓄿𓃀𓏏𓆰𓏥	166380	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=gꜣb.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓆱𓏏𓏤𓎛𓆓𓇳	865667	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ḥḏ
+
+# sent_id = IBYBiTIZcVNaUkVQiafnwblYxok
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Es soll herbeigeholt werden und es soll auf der Leistengegend verrieben 〈werden〉.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,17]
+1	𓏎𓈖𓏏𓐍𓂋𓏏𓏲	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓇋𓆛𓈖𓏌𓂝𓐍𓂋	128320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zjn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈖𓊪𓎛𓏲𓄹𓏥	83190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=npḥ.w
+
+# sent_id = IBYBiSXutwmPwkBvr1teMksmUTI
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Dann beginnt es (d.h. das Sekret), sofort abzugehen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,18]
+1	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓉔𓄿𓂻𓍘𓇋	97350	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+4	𓁷𓏤𓂝𓏤	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBYBiUcq88Yrb0lpnOUVbV9sIQ4
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ihre Frucht kann ferner den an Krankheitsauslösern Leidenden mit Brot verabreicht werden, um zu veranlassen, dass (es) (d.h. das Sekret) aus der Leistengegend abgeht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,18] - [51,19]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr.t
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓂞𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓏏𓍔𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓏲𓐍𓂧𓇋𓇋𓐎𓏥	49400	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḫd.y
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+13	𓉔𓄿𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓈖𓊪𓎛𓏲𓄹𓏥	83190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=npḥ.w
+
+# sent_id = IBYBiaLbyaBX9E6imuOeoadGcSM
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYBiewl9rad4EtlhQJEK6PzWXw
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann betrachtest, (der) Sekret in seinem Nacken (hat),    (wobei) er am Gelenk (?) seines Nackens leidet    (und) an seinem Kopf leidet,    (wobei) seine Halswirbel steif sind    (und) sein Nacken (es) schwer (hat),     dem (es) nicht gelingt, auf seinen Bauch zu schauen,      (weil?) es ihm schwierig ist,   dann sagst du:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,19] - [51,22]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓂝𓏏𓏭𓄹𓄹	865664	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥ.tj
+14	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+15	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+21	𓁶𓊪𓏏𓄹	170920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp.t
+22	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+23	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+24	𓋭𓏤𓈇	176810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣz
+25	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+26	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+27	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+28	𓈖𓆱𓐍𓏏𓀜	87560	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḫt
+29	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+30	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+31	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+32	𓏲𓂧𓈖𓍖𓊌𓍘𓇋	854506	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wdn
+33	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+34	𓆣𓂋𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+35	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+36	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+37	𓂧𓎼𓄿𓏏𓁹	181140	VERB	verb	VerbForm=Fin	_	_	_	Translit=dgi̯
+38	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+39	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+40	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+41	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+42	𓌟𓈖𓅪	162230	ADJ	adjective	_	_	_	_	Translit=qsn
+43	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+44	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+45	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+46	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBYCCJMdRmkg1kdYmX2Nj9RZgbI
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = „Ein an Sekret in seinem Nacken (Leidender) (ist er).“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [51,22]
+1	𓌨𓂋𓏭	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+2	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBiQrPoQCnaUGnvT0DQ9Cqf34
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = So sollst du (folglich) veranlassen, dass er sich einreibt (und) dass er sich schminkt, so dass er sich sofort wohlfühlt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,1]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+6	𓄔𓅓𓁹	149830	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sdm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBYBiafDBkLuRkzAu1dOHCbjsXc
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,1]
+1	𓎢𓏏	163760	ADJ	adjective	Status=Abs	_	_	_	Translit=ky
+
+# sent_id = IBYBibtUo7U7h0XTo6XN97YSQUo
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Wenn du (einen) an Sekret (Leidenden) mit einem Schneiden betrachtest,    worunter sein Bauch steif ist,   (wobei) er an seinem Magen leidet,   (dann?) ist sein Sekret in seinem Bauch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,1] - [52,3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓌨𓂋𓏭	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+5	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈖𓈎𓏲𓂷𓐎𓏥	854710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nqꜥ.wt
+8	𓈖𓆱𓐍𓏏𓀜	400031	ADJ	adjective	_	_	_	_	Translit=nḫt
+9	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+12	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+13	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+20	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=st.t
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+22	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBiXggGtNxWUcFiBWuWJR4Tlk
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Es findet keinen Weg des Herauskommens.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,3]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓅠𓅓𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓉐𓂋𓏏𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+
+# sent_id = IBYBiZPpFP6tDkZZsb0HwVAmq2U
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = (Und weil) es folglich keinen Weg gibt, dass es aus ihm herauskommen kann (?),
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,3] - [52,4]
+1	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+4	𓉐𓂋𓂋𓇋𓇋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=pri̯
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBidzqLl3WMUKUgeVmWRbpnco
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = verfault es in seinem Bauch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,4]
+1	𓎛𓍯𓄿𓐎𓐍𓂋	102640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwꜣ
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBiRdr9j1ua08dr2tIMb6GBL8
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Es kommt nicht heraus,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,4]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBiWoC2agNmku6snU0EbaVmgY
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = (weil?) es zu Gewürm (?) geworden ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,4] - [52,5]
+1	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓋴𓃀𓏏𓐎𓆙𓏥	109930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥsb.t
+
+# sent_id = IBYBibF830X26kLQr3cOvTYQQQE
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Es soll sich vollständig (oder: nicht) zu Gewürm (?) umwandeln, bis/so dass es sich umwandelt zu etwas, das tot ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,5]
+1	𓍃𓅓𓐍𓂋	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓆣𓂋	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓋴𓃀𓏏𓐎𓏪	109930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥsb.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓃹𓈖𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+11	𓅓𓏏𓆇𓏥	69300	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mwt
+
+# sent_id = IBYBiQL2J4Ce2UrIr91mTOdNahw
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Dann scheidet er es aus,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,5] - [52,6]
+1	𓏲𓈙𓈙𓂺𓇋𓈖	49950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wzš
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+
+# sent_id = IBYBiamwXAEgDkBdhiyQLvQO8kY
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = (und) dann fühlt er sich sofort wohl.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,6]
+1	𓇛𓅓𓏛𓇋𓈖	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤𓂝𓏤	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBYBib1h2XGoxE5zv3Kvm38cW9Q
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Wenn er es (aber) nicht in Form von Gewürm (?) ausscheidet, sollst du ihm Mittel des Ausscheidens machen, so dass er sich sofort wohlfühlt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,6] - [52,7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓍃𓅓	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏲𓈙𓈙𓂺	49950	VERB	verb	VerbForm=Fin	_	_	_	Translit=wzš
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎛𓋴𓃀𓏏𓐎𓆙𓏥	109930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥsb.t
+8	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+13	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+14	𓏲𓈙𓈙𓂺	49950	VERB	verb	VerbForm=Fin	_	_	_	Translit=wzš
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓁷𓏤𓂝𓏤	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBYBiWkkw8QXhEvpm2hGZUYSWgw
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Sekret im Bauch:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,7] - [52,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+
+# sent_id = IBYBidIWpkgap0lruj82MfUfhjE
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), etwas, das hergestellt werden soll für einen Mann, (wenn) er an $ḫnt$-Katarrh (?) in/an seinem Kopf leidet, (und der) Sekret in seinem Nacken hat:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,10] - [52,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏃𓈖𓏏𓂉	118820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫnt
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBiVw9JVJsi0NauI3tAXCtlUU
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = $jbr$-Öl: 1, $ẖsꜣ.yt$-Balsam: 1, Zweige (?) vom Wacholderbaum: 1, Weihrauch: 1, Bleiglanz: 1, Ocker: 1, Steinbockfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,11] - [52,12]
+1	𓇋𓃀𓂋𓇋𓏌𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓄡𓊃𓐟𓄿𓇋𓇋𓏏𓁸𓈒𓏥	124590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖsꜣ.yt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓆓𓂝𓂝𓆱	182570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜥꜥ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓏲𓂝𓈖𓐎𓆮	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓄟𓋴𓂧𓅓𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+15	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+16	𓈖𓂋𓄫𓏲𓄛	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+17	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBiTOpPhcs6EmqoxDzC31x47w
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,12]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYBiWtHKEPbrk0nrnDPT8qpzWw
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = werde zu einem Verband gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,12] - [52,13]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄞𓂧𓍼	145860	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sšd
+
+# sent_id = IBYBibfgKorlLU3Yp92ow07f2oc
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde an den Kopf gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,13]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBYBiTHCImeS40WNnuT4ZpDEaQg
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBYBia3v5LOgVkmCgwCeBQgPjh8
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,14] - [52,15]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYBidIyXrIRnUx5normB9PVXsg
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Beseitigen von Sekret im Bauch eines Mannes oder einer Frau:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,15] - [52,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+9	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+10	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBYBibkBs2Wd1kyQgK8dy7ZpWjw
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,17]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+
+# sent_id = IBYBiWJWY8k9ckdWsDzLkm3cwVw
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Entfernen des Leidens in irgendwelchen Körperteilen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,17] - [52,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓂋𓏲𓇋𓏭𓂻	139300	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwi̯
+5	𓍋𓅓𓂋𓏏𓅪𓏥	72000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+9	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+10	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBYBiZH1LZcCQEYHv3n0iMAC4ZM
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Gemaischter Pflanzenbrei.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,18]
+1	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈙𓃀𓃀𓏴𓏌𓏥	153270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šb.t
+
+# sent_id = IBYBiU9egWtVckduotgh7lsF07g
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,19]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYBiRIRPC1gJ0ZaoR0QrO7Mw2o
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = werde mit gegorenem Pflanzenbrei vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,19]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂝𓍯𓄿𓇋𓇋𓏏𓏌𓏪	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+
+# sent_id = IBYBiRSTsdVKWEUcoptJIeR3UgE
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBiRkAR5mvN07UpfTZGezFWuk
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen des $dḥr.t$-Phänomens:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,19] - [52,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓂧𓁷𓂋𓏏𓐎𓅪𓏥	180460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dḥr.t-zb.t
+
+# sent_id = IBYBiRcFRxiDjU8hsxRhID4YmV0
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Johannisbrot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,20]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBYBiX9cxpXYvUyulVnFH3WxkZk
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde mit Honig zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,20]
+1	𓐩𓏲𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆤𓏏𓏌𓏥	860123	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bj.t
+
+# sent_id = IBYBiWVm76tGW0hKkdEUkddYXWw
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde mit Bier getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,20]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+
+# sent_id = IBYBiYv2IESWZ0oZriTsefQ1Dlg
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Abwehren von $šmm.t$-Hitze:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍚𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+4	𓈙𓅓𓅓𓏏𓊮𓏪	154920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šmm.t
+
+# sent_id = IBYBiZpQsJ0Nk0UHpTu6XOyPogU
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = $ꜥbḫn$-Frosch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,21]
+1	𓂝𓃀𓐍𓈖𓄛	36910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥbḫn
+
+# sent_id = IBYBiQ8q5kQVZEr4tQ2FKVd5Ywo
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde ausgeglüht mit Öl/Fett.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,21]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYBif8EFqcYS0EQkRAZUDsIw9U
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,21] - [52,22]
+1	𓎼𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYBiZFXvgSjCkjUtbOsY1h2Beg
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,22]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYBia93qF2XBk0vohs6fe87EBs
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Der Kopf des $ḏdb$-Fisches.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,22]
+1	𓍑𓄿𓍑𓄿𓁶	182330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣḏꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓆓𓂧𓃀𓆟	186180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏdb
+
+# sent_id = IBYBicXc0ymQNUncjBDLQaSBPFU
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,22]
+1	𓋴𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYBiXJUfegyTUM6iEPiNwF1NV8
+# corpus = sawmedizin
+# src_text_id = VQIUBI5MUFFMXHUXJUQBIBZSOU
+# src_text = sawmedizin:Papyrus Ebers//51,15-52,22 ⸗ Eb 294-304: "Heilmittel gegen Sekrete in der Leistengegend"
+# owner = Lutz Popko
+# text_de = Werde dem Mann an sein Fleisch (?) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [52,22]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓄹	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

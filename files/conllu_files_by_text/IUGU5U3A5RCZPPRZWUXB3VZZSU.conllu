@@ -1,0 +1,71 @@
+# sent_id = IBUBd5UfiNcdUkTLiRDwhSWeia8
+# corpus = bbawgrabinschriften
+# src_text_id = IUGU5U3A5RCZPPRZWUXB3VZZSU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Zählen der Dörfer der Totenstiftung.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇋𓊪𓏝	24070	VERB	verb	VerbForm=Fin	_	_	_	Translit=jp
+2	𓊖𓊖𓊖𓏏	80890	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nʾ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+4	𓉐𓏤𓆓𓏏𓐚	550341	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ḏ.t
+
+# sent_id = IBUBd5vwlZhysUG8hxDgeCcBuzE
+# corpus = bbawgrabinschriften
+# src_text_id = IUGU5U3A5RCZPPRZWUXB3VZZSU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Djedu-Chekenu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓎛𓎡𓏌𓏙𓏙	714278	PROPN	entity-name	_	_	_	_	Translit=Dd.w-Ḥkn.w
+
+# sent_id = IBUBd3z6cGMCyUaDt1DH6yWXvso
+# corpus = bbawgrabinschriften
+# src_text_id = IUGU5U3A5RCZPPRZWUXB3VZZSU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Insel des Metjetj (Domäne).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓈀𓅓𓍿𓍿𓊖	851411	PROPN	entity-name	_	_	_	_	Translit=Jw-Mṯṯ
+
+# sent_id = IBUBdwFQWzMCF06drES0cGTgSyQ
+# corpus = bbawgrabinschriften
+# src_text_id = IUGU5U3A5RCZPPRZWUXB3VZZSU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Die beiden Akazien (Domäne).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓈙𓈖𓆓𓆭𓆭𓏏𓊖	851414	PROPN	entity-name	_	_	_	_	Translit=Šnḏ.tj
+
+# sent_id = IBUBd5uyMWJJTknjpIC2k3KToXI
+# corpus = bbawgrabinschriften
+# src_text_id = IUGU5U3A5RCZPPRZWUXB3VZZSU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Tor der zwei Kücken (?) (Domäne).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓂋𓍿𓅷𓅷𓊖	851412	PROPN	entity-name	_	_	_	_	Translit=Rʾ-ṯꜣ.wj
+
+# sent_id = IBUBd3wmWEJpHkf3to0Ihq0xegQ
+# corpus = bbawgrabinschriften
+# src_text_id = IUGU5U3A5RCZPPRZWUXB3VZZSU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der (Dorf)Herrscher Netjer-neferu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓋾	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+2	𓊹𓄤𓆑𓂋	200028	PROPN	entity-name	_	_	_	_	Translit=Nṯr-nfr.w
+

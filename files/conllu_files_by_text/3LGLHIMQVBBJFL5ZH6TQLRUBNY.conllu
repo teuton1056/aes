@@ -1,0 +1,40 @@
+# sent_id = IBUBd5Ag3YIUTUEslqxLtce35oM
+# corpus = bbawamarna
+# src_text_id = 3LGLHIMQVBBJFL5ZH6TQLRUBNY
+# src_text = bbawamarna:Ostwand//Subregsiter
+# owner = Gunnar Sperveslage
+# text_de = "Erschienen im Glanz der Maat"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [Name der Truppe]
+1	𓈍𓂝𓏛	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
+2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄤𓄤𓄤	854638	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nfr.w
+4	𓁦	66630	PROPN	entity-name	_	_	_	_	Translit=Mꜣꜥ.t
+
+# sent_id = IBUBd7UeUzmvh0Buj5eeoaImLPY
+# corpus = bbawamarna
+# src_text_id = 3LGLHIMQVBBJFL5ZH6TQLRUBNY
+# src_text = bbawamarna:Ostwand//Subregsiter
+# owner = Gunnar Sperveslage
+# text_de = "Aton erscheint für ihn"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [Name der Truppe]
+1	𓇋𓏏𓈖𓇳𓈍𓂝	859966	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜥi̯-n⸗f-Jtn
+
+# sent_id = IBUBdwFAIqMTYEwCu1OhSU1E3so
+# corpus = bbawamarna
+# src_text_id = 3LGLHIMQVBBJFL5ZH6TQLRUBNY
+# src_text = bbawamarna:Ostwand//Subregsiter
+# owner = Gunnar Sperveslage
+# text_de = Die Trägerschaft(?) des Atontempels von Achetaton.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8. Szene⁝]
+1	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+2	𓀋	63530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=fꜣy.t
+3	𓉐𓏤𓇋𓏏𓈖𓇳	856873	PROPN	entity-name	_	_	_	_	Translit=Pr-Jtn
+4	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈌𓏏𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+

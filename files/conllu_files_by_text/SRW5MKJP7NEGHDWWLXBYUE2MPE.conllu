@@ -1,0 +1,1176 @@
+# sent_id = IBUCQOlsfEw5oEuuioGfgM9KPnM
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Sie kann nicht sehen und leidet an ihrem Nacken.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.1]
+1	𓂜𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓌳𓁹𓄿𓏏𓈖	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+6	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUCQAuBKeSO4k57jS9My3WKi6s
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sollst du dazu sagen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.2]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUCQIQyWRAFBkIYrUkLvb7x4yw
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sollst du dagegen handeln:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.2]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUCQIqgB3w6c0XJnk1BLdvOxRM
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Es werde ihre Vulva damit beräuchert.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.3] - [1.4]
+1	𓎢𓄿𓊪𓏯𓂡	163310	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣp
+2	𓂓𓏏𓄹	162990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ.t
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUCQOj7WUYaskolrGutcJKQMyA
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Es werden ihre beiden Augen mit den Unterschenkeln von $Gn$-Vögeln beräuchert.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.4]
+1	𓎢𓄿𓊪𓏯𓂡	163310	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣp
+2	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+3	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓇋𓆛𓈖𓋴𓏏𓂾𓄹𓏥	27820	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jns.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+7	𓎼𓈖𓇋𓇋𓏲𓅬𓏥	167460	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=gn.w
+
+# sent_id = IBUCQKJ5DSDgJUdOncJZ4lFqRuA
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sollst du sie frische Eselsleber essen lassen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.5]
+1	𓂋𓂞𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏶𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓏇𓇋𓋴𓏏𓄹𓏤	68520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjz.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓉻𓂸𓃟	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+8	𓇅𓆓𓏏𓏛	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBUDJ3FcUZmRokZesOt80h4gOC4
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sollst du dazu sagen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1,6]
+1	𓆓𓂧𓐍𓂋	856637	PROPN	entity-name	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=Ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUDJxv16rRzCksBkIlCW6I4cTU
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Was ist das, was du riechst?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1,6]
+1	𓊪𓏏𓆵𓀁	62920	PRON	pronoun	PronType=Int	_	_	_	Translit=ptr
+2	𓋴𓋴𓈖𓏏𓏏𓂊	144080	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ssn
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUDJ3jihKxmJUS6n1MpyPgHA2k
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Wenn sie zu dir sagt: "Ich rieche Braten", so sollst du dazu sagen: "Das sind Ergüsse (?) des Uterus."
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1,6] - [1.7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓋴𓋴𓈖𓏏𓂊	144080	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssn
+10	𓄿𓈙𓂋𓊮	288	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣšr
+11	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+12	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+14	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+15	𓈖𓌰𓅓𓋴𓏲𓐎𓏥	84480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nms.w
+16	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+17	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+18	𓈞𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBUDJ81bgUfadUKerw8G1aWYj2A
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sollst du dagegen handeln:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.7]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUDJQOMT4kv50KWq5mzKDzDLvo
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Sie werde beräuchert mit irgendetwas, das sie als Braten riecht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.8]
+1	𓎢𓄿𓊪𓏯𓀜	163310	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=kꜣp
+2	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴𓋴𓈖𓏏𓂊	144080	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ssn
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓎟𓏏	_	X	unknown	Number=Sing|Gender=Fem	_	_	_	_
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓄿𓈙𓂋𓊮	288	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣšr
+
+# sent_id = IBUDKLhQ9bQinE2WqbzRc6909SM
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Heilkunde für eine Frau, die an ihren beiden Hinterbacken leidet, an ihrer Schamgegend und am Ansatz ihrer Oberschenkel.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.8] - [1.9]
+1	𓄃𓅱𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+5	𓄖	61490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wj
+6	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+7	𓎢𓈖𓋴𓄹	164950	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kns
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓍯𓄿𓃀𓏲𓄹𓏥	42770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣb
+10	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+11	𓏠𓈖𓏏𓂾𓂾	69800	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=mn.t
+12	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+
+# sent_id = IBUDKFeGYDUVIkeDjozfDj61dMA
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sollst du dazu sagen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.9]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUDKCmwzBSwWkaen40Nqvgw8Oc
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sollst da dagegen handeln:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.10]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUDNtR5EQz2Z0fzokPUr3So9bk
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Dann sollst du dazu sagen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.13]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUDNlbTjxqWC0IQkc8yKIAeQ0E
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Dann sollst du dagegen machen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.14]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUDNvdcQ3nVc0qwtV86uCQghS4
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Neues Öl: 1 Hin-Maß
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.14]
+1	𓌻𓂋𓎛𓏏𓏊𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+2	𓌳𓄿𓏏𓏛𓏥	66150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mꜣw
+3	𓉔𓈖𓏌𓏲𓏊	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYAJuOopZRvIkylnWDbnlxW19A
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst du dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.16]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJnhJCOQDbEQVhTfz9XbYHvI
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Das sind $tjꜣ$-Schmerzen des Uterus
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.16]
+1	𓏏𓇋𓄿𓏲𓄑𓏥	169880	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tjꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓈞𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBYAJg8ga2Q1AEkhnCG1sEBxzNA
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So handelst du dagegen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.16]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJqwRaostPUs0hVqBc3vHUsk
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst du dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.21]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJrd68QVEY09WrUmQbB2JEPI
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So handelst du dagegen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.22]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJjmcu9nJWE1ehp2ncClpRMc
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = 1 (?) Portion (?) von Brei und Wasser.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.22]
+1	𓐎	450206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥsb
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓄿𓎛𓏒𓏥	186	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḥ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBYAJnIJdoOLKEPQjFlG7rGCNsc
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Heilkunde für eine Frau, die an ihren beiden Füßen und ihren beiden Beinen nach dem Gehen leidet
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.23]
+1	𓄃𓅱𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+5	𓂾𓂾𓏏	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+6	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+7	𓅱𓂝𓂋𓏏𓂾𓂾	44740	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=wꜥr.t
+8	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+9	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+10	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+
+# sent_id = IBYAVN5O1GdJpEh5rF4DqACYPG0
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst du dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.23]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAVJ9X0JZ5WEnpuDW2ub3ezl0
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Das sind Ausscheidungen des Uterus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.24]
+1	𓆼𓄿𓂝𓅱𓂻𓏥	113590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣꜥ.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓈟𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBYAJmvVE876RkSzsA1juX6xeAU
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So handelst du dagegen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.24]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJmRCcOvie0EEsU1RHvBDO90
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Es werden ihre beiden Füße und Beine mit Schlamm/Lehm eingerieben, bis dass sie gesund wird.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.24] - [1.25]
+1	𓂝𓅓𓂝𓀜	37780	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥmꜥm
+2	𓂋𓂧𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+3	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+4	𓅱𓂝𓂋𓏏𓂾𓂾	44740	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=wꜥr.t
+5	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓅓𓂝𓏏𓈇𓏥	37740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥmꜥ.t
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓋴𓈖𓃀𓏏𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJpThtl32wkn9kkY89QZnV2E
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Heilkunde für eine Frau, die an ihrem Nacken leidet, (an) ihrer Unterleibsregion (und an) ihren beiden Ohren.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.25] - [1.26]
+1	𓄃𓅱𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏠𓈖𓅪	69660	VERB	verb	_	_	_	_	Translit=mn
+5	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓎢𓈖𓋴𓄹	164950	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kns
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓄔𓄔	38930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ.wj
+10	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+
+# sent_id = IBYAJnlCkv5VzkRpsQ3OuT4ioEs
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Sie kann nicht ein Wort hören.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.26]
+1	𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓄔𓅓𓏏𓈖	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓌃𓂧𓏏𓀁	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+
+# sent_id = IBYAJjGnbw3QkUa0leNdZLOnPhY
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst du dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.26]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJmGIZHQbQUBbhXmMBATznP8
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Das sind Verrenkungen (besser: Krämpfe?) des Uterus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.26]
+1	𓈖𓂋𓇋𓇋𓏲𓅐𓏪	85140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nry.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓈞𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBYAVIwmchunC0QYiz43pQRq9Dg
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So handelst du dagegen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.26]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAVKnLqL7Sn0NHvZkXtxozwbQ
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Gleich jener Heilkunde zum Vertreiben von Überflüssen des Uterus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.27]
+1	𓏇𓏏𓏏𓏛𓏥	67960	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mj.tjt
+2	𓏏𓆑𓄿𓈐	171770	PRON	pronoun	PronType=Dem	_	_	_	Translit=tfꜣ
+3	𓄴𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+4	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓂧𓂋𓀜	180130	VERB	verb	_	_	_	_	Translit=dr
+6	𓋴𓇉𓄿𓏲𓐎𓏥	140380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḥꜣ.w
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓈞𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBYAJp8hYoRF9U4ksL1Uo6LsCmo
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Heilkunde für eine Frau, die an ihrer Vulva (und) an all ihren Körperteilen leidet, wie eine, die geschlagen wurde.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.27] - [1.28]
+1	𓄃𓅱𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+5	𓂓𓏏𓄹	162990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ.t
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ.t
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+10	𓏇𓏏𓏏𓏛𓏥	853882	ADP	preposition	_	_	_	_	Translit=mj.tjt
+11	𓎛𓏏𓀝𓀜	854530	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥwi̯
+
+# sent_id = IBYAJkWGIXkWyEptgR3dhIx7udc
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst du dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.28]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJn2HrKQrT0erjcJvav1fBHY
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = […] des Uterus ist es.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.28]
+1	𓋴𓅭𓏲𓍼𓏥	850833	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=-
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓈞𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBYAVNEJ7caeKUkluhWu6YfY1WA
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So handelst du dagegen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [1.28]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAJilTBLK6JUvTv1dJFsRLb7w
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst du dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.1]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAVHntcGQFqU01ugqCwjJOvqs
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So handelst du dagegen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.2]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAVDLgEdqj7k5yrkvhYSoN6f0
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = (Es) werde gekocht;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.3]
+1	𓊪𓆑𓋴𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYAVA24t3DWLkWdhGS5Hruomdk
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = sie soll den Tag verbringen, indem sie hungert bis die Zeit nach dem Frühstück gekommen ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.4] - [2.5]
+1	𓅨𓂋𓈙𓇳	852796	NOUN	substantive	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrš
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓎛𓈎𓂋𓏏𓅪	110540	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḥqr
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂻𓅱𓏏	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+6	𓈖𓍇𓏌𓏲𓇳	80840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw
+7	𓈖𓐟𓏤	870266	ADP	preposition	_	_	_	_	Translit=n-sꜣ
+8	𓇋𓂝𓅱𓈗𓂋𓏤	21640	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jꜥ.w-rʾ
+
+# sent_id = IBYAVEzfsLt3VENnoTRlC1WQuFw
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst du dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.6]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAVNUYTTd5X0jftFXiBSAbtiE
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So handelst du dagegen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.6]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAVErjw4JGI0muvQjZSWbqW38
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Es werde veranlasst, dass sie es sofort wieder ausspuckt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.7]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈎𓄿𓂝𓀁	159200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qꜣꜥ
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓋴𓏏	851204	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+5	𓁷𓏤𓂝𓏤𓅱𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBYAVKDc5YQJu0EsuPthDQg2jEI
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Das bedeutet Gesundung.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.9]
+1	𓋴𓈖𓃀𓏛	136950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snb
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBYAVIiRyAhAzEXok8Qh2OTAgh8
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Flüssiges (?) von neuem Fett/Öl:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.10]
+1	𓅓𓉔𓅱𓏭𓈗	73160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mhwj
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌻𓂋𓎛𓏏𓏊𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓌳𓄿𓏏𓏛	66150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mꜣw
+
+# sent_id = IBYAgazNi7XQTkMDu5mqKraC1I8
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst da dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.12]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYAgTfTT5NYx09lq4kQQLiJOEo
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Ein hoffnungsloser Fall ist das!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.18]
+1	𓃀𓎁𓏏𓏲𓆙	58330	PROPN	entity-name	_	_	_	_	Translit=Bṯ.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBYAgUGRhVjh3koOmA2CWW0W7gU
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Malachit 1/64 Hekat
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.21]
+1	𓈐𓈋𓏲𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+2	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBJZvH9UEP2kQksSvKOupJZLA
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So sagst du dazu:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.23]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBJaads8t9AkQepIf94AxdgYQ
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Die $km.t/kmtw$-Krankheitserscheinungen des Uterus sind das.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.23]
+1	𓎢𓅓𓏏𓏲𓐎𓏥	164400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=km.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓈞𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBYBJT70tKgS6UnGh4JyKpGyDpY
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So handelst du dagegen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.26]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBJWa9VFuWw0JOslNCzpVMGsw
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Es werde für sie der (Fuß)boden bestrichen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.27]
+1	𓊃𓄡𓂋𓌕𓂡	854550	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšr
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅭𓏏𓏯𓏲𓈇𓏥	127650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣṯ.w
+
+# sent_id = IBYBJQ8nrJOsO0sakugqVEQhRPI
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Es werde veranlasst, dass sie darauf sitzt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.28]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈞𓊃𓀕	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBJZsHBZwSOkIou8ztuC1xtLo
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = (Es) werde abgekühlt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [2.29]
+1	𓋴𓈎𓃀𓃀𓏁𓈗	146060	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sqbb
+
+# sent_id = IBYBMPqknyezTUWZnEU4Rgb0isQ
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Erkennen einer, die gebären wird, am Uterus der Schwangeren.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.2]
+1	𓋷𓄿𓀁	127840	VERB	verb	VerbForm=Fin	_	_	_	Translit=sjꜣ
+2	𓄟𓋴𓏏𓋴𓏭𓀔	74950	VERB	verb	_	_	_	_	Translit=msi̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈞𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+5	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓁒	57840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bkꜣ.t
+
+# sent_id = IBYBMPTJyRsMcEjAub40xu28JH8
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = (Es) werde fein zerrieben,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.4]
+1	𓐩𓏌𓏏𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓊃𓈖𓂝𓂝𓏞	136700	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYBMJWW5pOwA0NzjMmJ6jcRzJI
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = (Es) werde in das Innere eines Mörsers und ins Feuer gegeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.5]
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+3	𓄞𓂧𓇋𓆱𓏥	158520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šd
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏏𓂓𓄿𓊮	173620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tkꜣ.w
+
+# sent_id = IBYBMHKnG0WchEvip7TPRD8QWPg
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Kot eines Krokodils.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.6]
+1	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+2	𓅓𓋴𓎛𓆊	75590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mzḥ
+
+# sent_id = IBYBMJasxPuWBEDJriAql25aUU0
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Es werde zerstoßen in gegorenem Pflanzenschleim.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.6]
+1	𓅱𓎼𓊪𓂝	50860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wgp
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓏊𓏥	109510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥzꜣ
+4	𓂝𓏲𓇋𓇋𓏏𓈒𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+
+# sent_id = IBYBMHuM3HoOWE8GkiM7ZGfQJ40
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Ein anderes Rezept.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.7]
+1	𓎡𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBYBMKeEoDVPQkDBrRQQvTjm3tY
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Das ist das Vertreiben des $tjꜣ.w$-Krampfs (infolge) des Uterus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.8]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓏏𓇋𓄿𓏲𓄑𓏥	169880	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tjꜣ
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓈞𓏏𓄰	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBYBMPDEZQEBk0nIku6KI5XfO0o
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = [... ... ...], wobei ihre Augen entzündet sind:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+3	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+4	𓍑𓄿𓇋𓇋𓐎	181580	VERB	verb	Number=Dual|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḏꜣ
+
+# sent_id = IBYBMEZfSoqsZ0jRm2jw4Qk2V24
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = $ḫpr-wr$-Pflanze.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.10]
+1	𓆣𓅨𓂋𓆱	116310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-wr
+
+# sent_id = IBYBMSWsBOJ3C0VAkc6xC0WiZ2s
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Wenn du sie (d.h. die Gefäße) pulsierend (?) findest, so sagst da dazu: Sie wird verzögert gebären!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.14]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋴𓏏	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+5	𓎡𓈖𓎡𓈖𓐎	164990	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=knkn
+6	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+10	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+11	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓄟𓋴𓏏𓁒	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+14	𓅱𓆓𓆑𓂻	51620	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdfi̯
+
+# sent_id = IBYBMWs6R0sjFUgMheuJgbz6nm8
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Eine andere Methode.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.15]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBYBMYP1yZMKH0jbgYdXVBjylpE
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Eine andere Methode.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.17]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBYBMYMg5KQA50KopvPKc2ZoyuU
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Sie wird gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.18]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓄟𓋴𓏏𓁒	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+
+# sent_id = IBYBMXx0ydpsF0cCkAcSnSvI1fY
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Eine andere Methode.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.19]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBYBMXGziGaXqkx6lWQNc6mc7Ac
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = So greifst du nach ihr (?) auf ihrer Hand (?), indem die Erhebung (?) deines Fingers auf der Oberseite ihrer Pulsstelle ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.19]
+1	𓈖𓇥𓂋𓀜𓐍𓂋	91670	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓆄𓏏𓏤	152840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šw.t
+9	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏbꜥ
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+12	𓁷𓂋𓏲𓇯	108990	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥr.w
+13	𓏠𓈖𓇋𓄿𓄹	70290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mnjꜣ
+14	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBMe0GqoyFSEbUpgicYG1CEVE
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Eine andere Methode.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.20]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBYBMUIYPGiFo0ROn5wbHjEZ2xg
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Wenn (es) herabsteigt aus ihrer Nase, dann wird sie gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.22]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈙𓂋𓏏𓂊	156610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šr.t
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓄟𓋴𓏏𓁒	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+
+# sent_id = IBYBMb2S5SpaGk7fr55EpI5fvPU
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Wenn (es) herabsteigt aus ihrer Vulva, dann wird sie gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.22]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂓𓏏𓄹	162990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ.t
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓄟𓋴𓏏𓏯	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+
+# sent_id = IBYBeYMMSfvYrUugrTUgzysJbzs
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Eine andere Methode.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.23]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBYBefAGI7EtyUO7l0qDIKFWsnw
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Wenn du aber Dinge auf ihren Augen siehst, so wird sie niemals gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.24]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓌴𓁹𓄿𓈖	66270	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+8	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+9	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+10	𓄟𓋴𓁒	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+11	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓈖𓎛𓎛𓇳	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+
+# sent_id = IBYBMo5wW5fLSU63uM5Evn30LyE
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Langbohnen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.25]
+1	𓃛𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+
+# sent_id = IBYBMhMQ0ykpzUo4q8jkmcy485o
+# corpus = sawmedizin
+# src_text_id = SRW5MKJP7NEGHDWWLXBYUE2MPE
+# src_text = sawmedizin:Papyrus Kahun VI.1 (London UC 32057)//pKahun VI.1 (London UC 32057)
+# owner = Ines Köhler
+# text_de = Er/sie (d.h. der Harn, das Harnen oder die Frau, deren Zustand) wird genauso bleiben bis in Ewigkeit.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [3.28]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓏇𓏏𓏏𓏛𓏥	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈖𓎛𓎛𓇳	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+

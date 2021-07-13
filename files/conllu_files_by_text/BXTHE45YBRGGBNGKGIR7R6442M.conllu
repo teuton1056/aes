@@ -1,0 +1,66 @@
+# sent_id = IBUBd8PVVvuKgEz4oVfwPhv1d2E
+# corpus = bbawgraeberspzt
+# src_text_id = BXTHE45YBRGGBNGKGIR7R6442M
+# src_text = bbawgraeberspzt:〈Wandstreifen links vom Eingang〉//T 3: Nephthys-Text
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [1]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd3L61r4IRU1mqot9vzmSud8
+# corpus = bbawgraeberspzt
+# src_text_id = BXTHE45YBRGGBNGKGIR7R6442M
+# src_text = bbawgraeberspzt:〈Wandstreifen links vom Eingang〉//T 3: Nephthys-Text
+# owner = Doris Topmann
+# text_de = Deine Schwester Nephthys kommt zu dir, die Schwester in/aus Geheset, damit sie dir deinen Kopf anknüpfe, damit sie dir deine Knochen zusammenfüge, damit sie dir deine Glieder vereinige.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [1] - [2]
+1	𓇋𓇋	21930	VERB	verb	_	_	_	_	Translit=jwi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓉠	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+7	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sn.t
+8	𓇋𓅓	25130	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jm.j
+9	𓎼𓎛𓋴𓏏𓊖	854731	PROPN	entity-name	_	_	_	_	Translit=Gḥs.t
+10	𓍿𓊃𓎤	176800	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+11	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+15	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓇋𓈖𓈎	27880	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jnq
+17	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+18	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+19	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+20	𓌟𓌟𓌟	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+21	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+22	𓋬	179420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dmḏ
+23	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+24	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+25	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+26	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+27	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWIqO4DGNEies72DSaU7nhw
+# corpus = bbawgraeberspzt
+# src_text_id = BXTHE45YBRGGBNGKGIR7R6442M
+# src_text = bbawgraeberspzt:〈Wandstreifen links vom Eingang〉//T 3: Nephthys-Text
+# owner = Doris Topmann
+# text_de = Sie gibt Luft an deine Nase, damit du lebst.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [2]
+1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓊡	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂉	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

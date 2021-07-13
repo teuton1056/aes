@@ -1,0 +1,41 @@
+# sent_id = IBUBd2aQTtjRrEyWvpoEQ7S4I1k
+# corpus = bbawamarna
+# src_text_id = HDRUB4UQWZF35HRJDQAAVJECT4
+# src_text = bbawamarna:Südwand, Ostseite//oberes Register
+# owner = Gunnar Sperveslage
+# text_de = Der Herr der Beiden Länder Nefer-cheperu-Re-wa-en-Re, dem Leben gegeben ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [18]
+1	𓎟𓇿𓇿	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+2	𓇳𓄤𓆣𓇳𓏤𓏤𓏤𓌡𓈖	856314	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḫpr.w-Rꜥw-wꜥ-n-Rꜥw
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBd2Qvo4lowkQZvsFfxJkvcO0
+# corpus = bbawamarna
+# src_text_id = HDRUB4UQWZF35HRJDQAAVJECT4
+# src_text = bbawamarna:Südwand, Ostseite//oberes Register
+# owner = Gunnar Sperveslage
+# text_de = Der Herr der Kronen Echnaton, der groß in seiner Zeit ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [19]
+1	𓎟𓈍𓏤𓏤𓏤	600260	_	epitheton-title	_	_	_	_	Translit=nb-ḫꜥ.w
+2	𓇋𓏏𓈖𓇳𓅜𓇳𓈖	856863	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-n-Jtn
+3	𓉻𓂝𓏛𓐝𓊢𓂝𓇳𓆑	852060	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-m-ꜥḥꜥ.w⸗f
+
+# sent_id = IBUBd6SAHEPHEEQ9q145NaOgSt4
+# corpus = bbawamarna
+# src_text_id = HDRUB4UQWZF35HRJDQAAVJECT4
+# src_text = bbawamarna:Südwand, Ostseite//oberes Register
+# owner = Gunnar Sperveslage
+# text_de = Die leibliche Königstochter, die er liebt, Baketaton.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [25]
+1	𓇓𓅭𓏏𓈖𓄡𓏏𓏤𓆑	852513	_	epitheton-title	_	_	_	_	Translit=zꜣ.t-nswt-n.t-ẖ.t⸗f
+2	𓈘𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓏏𓈖𓇳𓏏𓅡𓎡𓁐	711954	PROPN	entity-name	_	_	_	_	Translit=Bꜣk.t-Jtn
+

@@ -1,0 +1,71 @@
+# sent_id = IBUBdweczKDpJEe5oSJUo4Uvrgw
+# corpus = sawlit
+# src_text_id = 63KFBAFGO5FS3JZOBJE3QFCY5I
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Vso. 2,1-2,6: Bitte um Pentawers Wohlergehen
+# owner = Lutz Popko
+# text_de = Folgendes: Ich spreche zu Re-Harachte bei seinem Aufgang und bei seinem Untergang, zu Ptah (und) den Herren des "Hauses von (Ramses Meriamun)| - LHG -, dem großen Ka des Re-Harachte" (d.h. den Herren von Pi-Ramesse),
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso. 2,3] - [Vso. 2,4-5]
+1	𓂋𓈖𓏏𓏭	850953	PART	particle	_	_	_	_	Translit=r-n.tj
+2	𓏏𓏲𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅯𓄿𓇳𓅆𓅃𓅆𓈌𓏏𓏭𓉐𓉐𓅆𓅆	70002	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓏲𓃀𓈖𓇳𓅆	854500	VERB	verb	VerbForm=Fin	_	_	_	Translit=wbn
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓊵𓏏𓊪𓏲𓇳𓅆	500193	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp.w
+15	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+16	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+17	𓈖𓄿𓏫	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+18	𓎟𓏲𓏥	81650	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nb
+19	𓉐𓏤𓇳𓄟𓋴𓋴𓌻𓇋𓏠𓈖𓅆𓅆𓋹𓍑𓋴𓅯𓄿𓂓𓏤𓅆𓉻𓏛𓈖𓅯𓄿𓇳𓅆𓅃𓅆𓈌𓏏𓏭𓉐𓉐𓅆𓅆	859891	PROPN	entity-name	_	_	_	_	Translit=Pr-Rꜥw-ms-sw-mr.y-Jmn-ꜥnḫ-wḏꜣ-snb-pꜣ-kꜣ-ꜥꜣ-n-pꜣ-Rꜥw-Ḥr.w-ꜣḫ.tj
+
+# sent_id = IBUBd8WPdxozRUEkvhKDP4HQFp4
+# corpus = sawlit
+# src_text_id = 63KFBAFGO5FS3JZOBJE3QFCY5I
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Vso. 2,1-2,6: Bitte um Pentawers Wohlergehen
+# owner = Lutz Popko
+# text_de = sie sollen dir Gesundheit verleihen,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso. 2,5]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋴𓈖𓃀𓏛	136950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snb
+
+# sent_id = IBUBd2EPoxTaokOcnZAZ7NpuJaM
+# corpus = sawlit
+# src_text_id = 63KFBAFGO5FS3JZOBJE3QFCY5I
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Vso. 2,1-2,6: Bitte um Pentawers Wohlergehen
+# owner = Lutz Popko
+# text_de = sie sollen dir Leben verleihen,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso. 2,5]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋹𓈖𓐍	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBdzAvaE6YjEPMn0XEmQRgWv4
+# corpus = sawlit
+# src_text_id = 63KFBAFGO5FS3JZOBJE3QFCY5I
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Vso. 2,1-2,6: Bitte um Pentawers Wohlergehen
+# owner = Lutz Popko
+# text_de = sie sollen veranlassen, dass du alltäglich jung bist!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso. 2,5]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓂋𓈖𓊪𓏏𓂋𓇋𓆵𓀔	95000	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rnpi̯
+3	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+

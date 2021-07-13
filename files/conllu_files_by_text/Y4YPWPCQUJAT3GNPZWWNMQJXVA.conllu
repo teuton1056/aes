@@ -1,0 +1,1432 @@
+# sent_id = IBcCd4PSnrMeskwUrWwocaJSLoE
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Anfang des Geheimwissens des Arztes,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,1]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓋴𓈙𓏏𓍔𓄿𓏛	145700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sštꜣ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓌕𓏌𓏤𓀀	855957	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zwn.w
+
+# sent_id = IBcCd7ZP05l8e0xguuH2E6wWfLk
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Kenntnis vom Gang des $ḥꜣ.tj$-Herzens (und) Kenntnis vom $ḥꜣ.tj$-Herzen (insgesamt):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,1]
+1	𓂋𓐍𓏛	95640	NOUN	substantive	VerbForm=Fin	_	_	_	Translit=rḫ
+2	𓈝𓅓𓏏𓂻	154400	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šm.t
+3	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+4	𓂋𓐍𓏛	95640	NOUN	substantive	VerbForm=Fin	_	_	_	Translit=rḫ
+5	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBcCd8HYkicGUUOupQ9XRqchb5k
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Die Gefäße (führen) daraus zu jedem Körperteil.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcCd06FPELk4kyHvOIDljobCsk
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was diese (Gefäße) angeht, (wenn) irgendein Arzt, irgendein Sachmet-Priester, irgendein Magier (?) seine Hände und Finger (wörtl.: die Hände und seine Finger) auf den Kopf, auf den Hinterkopf, auf die Hände, auf die Stelle des $jb$-Herzens, auf die Arme, auf die Beine legt, ist es das $ḥꜣ.tj$-Herz, das er misst, weil seine Gefäße zu jedem seiner Körperteile (führen).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,2] - [99,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈖𓍇𓏌𓏲	851519	PRON	pronoun	PronType=Dem	_	_	_	Translit=nw
+3	𓂞𓂞𓏲	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓌕𓏌𓏤𓀀	855957	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zwn.w
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+6	𓌂𓐍𓏏𓏯𓃂𓈗𓀀	855696	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥb-Sḫm.t
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+8	𓎃𓏲𓀀	126280	_	epitheton-title	_	_	_	_	Translit=zꜣ.w
+9	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+10	𓂝𓂝	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+11	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ḏbꜥ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+15	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+16	𓅓𓂝𓎢𓇉𓄿𓁶	77100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mkḥꜣ
+17	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+18	𓂧𓏏𓏥	184630	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏr.t
+19	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+20	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t
+21	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+22	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+23	𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+24	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+25	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
+26	𓆼𓄿𓄿𓂝	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+27	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+28	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+29	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+30	𓁷𓏤𓈖𓏏𓏏	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+31	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mt
+32	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+33	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+34	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ.t
+35	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+36	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcCd9JwoqZAhkZTunJaWm911dM
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Denn es ist der Fall, dass es (d.h. das $ḥꜣ.tj$-Herz) vorn in den Gefäßen jedes Körperteils spricht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,5]
+1	𓈖𓏏𓊪𓏲	89780	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=n.t-pw
+2	𓌃𓂧𓏲𓀁	78140	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mdwi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏃𓈖𓏏	850802	ADP	preposition	_	_	_	_	Translit=ḫnt
+5	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcCd8ugEJ574UFzpQ5bBUHyYvw
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was das Wasser angeht, das von ihnen (d.h. den Augen) hinabgeht: Es sind die Iriden mit Pupille der Augen, die es geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,8] - [99,9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓉔𓄿𓄿𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=hꜣi̯
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+7	𓆓𓆑𓂧𓂂𓂂	183970	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏfḏ
+8	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+9	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+10	𓂝𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+11	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBcCgmpCuKkkKkNwtHHdrkQ4g0g
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Anders gesagt: Es sind die „Schläfer“ (?) in den Augen, die es verursachen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,9] - [99,10]
+1	𓎢𓇋𓇋𓆓𓂧	500002	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ky-ḏd
+2	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+3	𓐪𓂧𓂧𓏌𓏲𓁹𓏥	876812	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qdd
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+6	𓁹𓂋	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBcCdQgLQZprTkXJn5av3qCpRCA
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Das $bꜣ$-Phänomen (und das?; oder: vom?) $ꜥꜣꜥ$-Phänomen: Das ist es, was sie (d.h. die Gefäße) nach außen (?) hervorbringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,12]
+1	𓃀𓅬𓄿𓈒	52920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+2	𓉻𓂝𓄿𓂝𓁸	35190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+3	𓈎𓌴𓄿𓅓𓏏𓌙𓅯𓏛𓏥	854564	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=qmꜣ
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+6	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓂋𓏲𓏏𓏭𓇯	93440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rw.t
+
+# sent_id = IBcCd9W3jvU7aUBFgFPuzSrvPhU
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was den Lufthauch angeht, der in der Nase eindringt: Er dringt zum $ḥꜣ.tj$-Herz und der Lunge vor.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,12] - [99,13]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+3	𓅧𓈎𓂻	41180	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥq
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂉𓏤	63920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=fnḏ
+6	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+10	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+11	𓄥𓄿𓄹	134170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmꜣ
+
+# sent_id = IBcCdWGIqlv1NUJ7gdFNQqE0mBk
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sie sind es, die (ihn?) dem ganzen Bauch geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,13] - [99,14]
+1	𓈖𓏏𓋴𓈖𓏥	90090	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntsn
+2	𓂝𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+5	𓍃𓅓𓏛	854578	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=tm
+
+# sent_id = IBcCdx4IuBtkikH3vAINEWjZ6SI
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = So ergreift er für sich seine Lufthauche.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,17]
+1	𓊏𓊪𓂝𓐍𓂋	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊡𓏲𓏲𓏥	174480	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ṯꜣw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCd4bVUvPQMEMruizCcHZl8YI
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass das $jb$-Herz überfließt: Das ist die Flüssigkeit des Mundes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,17] - [99,18]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓃀𓅡𓄿𓂝𓎛𓅤𓏛	55080	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bꜥḥi̯
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓈗𓏲𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mw.yt
+5	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcCd0YOQeqD8UgDgKO5nogn6b8
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Seine gesamten Körperteile sind $ꜥmd$-gemacht (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,18]
+1	𓂝𓅓𓂧𓅪	37960	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥmd
+2	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓍃𓅓𓏛	854578	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=tm
+
+# sent_id = IBcCd1SpKtbQNkQtq9khT0Z1TEY
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass das $jb$-Herz $šs$-macht (oder: $šs$ ist): Das Gefäß namens „Empfänger“ ist es, das ihn/es verursacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,18] - [99,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓍱𓊃𓅪	156980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šs
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+5	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+6	𓊏𓊪𓏲𓀜	157320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šzp.w
+7	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+10	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBcCdxQaaRvCD0odrPhyolK49Sc
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = (Dies)es ist es, das Wasser dem $ḥꜣ.tj$-Herzen, (oder nach) andere(r) Aussage: dem gesamten Auge (?), gibt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,19] - [99,20]
+1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓂝𓂝	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+6	𓎢𓇋𓇋𓆓𓂧	500002	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ky-ḏd
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+9	𓏏𓍃𓅓𓍘𓇋	854578	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=tm
+
+# sent_id = IBcCdwua7T2Xg0FSmISRHKrEzW8
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was die Mattigkeit angeht, die im $ḥꜣ.tj$-Herzen entsteht/entstanden ist: Sein $ḫꜣs$-Zustand bis an die Grenzen von Lunge und Leber ist es.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [99,21] - [99,22]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄿𓂧𓅪	351	VERB	verb	_	_	_	_	Translit=ꜣd
+3	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+6	𓆼𓄿𓋴𓂉	854807	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜣs
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓇥𓂋𓏲𓈐𓏥	184990	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḏr.w
+11	𓄥𓄿𓄹	134170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmꜣ
+12	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+13	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjz.t
+
+# sent_id = IBcCdzym65OAeUxqtLkcoJfb74Q
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sein $ḫꜣs$-Zustand, (er) löst sich folglich.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,1] - [100,2]
+1	𓆼𓄿𓋴𓂉	854807	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜣs
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓆑𓐍𓍼𓏛𓐍𓂋	133780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sfḫ
+
+# sent_id = IBcCdydlXks010qqkTm5w7QqyCo
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Anders gesagt: In die rechte Schulter tritt er (d.h. der Hauch des Lebens) ein.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,4]
+1	𓎢𓇋𓇋𓆓𓂧	500002	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ky-ḏd
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈎𓂝𓎛𓂢𓏤	159830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜥḥ
+6	𓋀𓅓𓏭𓂢	46770	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wnm.j
+
+# sent_id = IBcCdznUWgewFUUfseAZDd4bubE
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = In die linke Schulter tritt der Hauch des Todes ein.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,4] - [100,5]
+1	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+2	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈎𓂝𓎛𓂢𓏤	159830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜥḥ
+7	𓋁𓃀𓏭𓂢	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+
+# sent_id = IBcCd1ywpfGIK09WnUnIitGxqLo
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sie sind es, die den Samen geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,7]
+1	𓈖𓏏𓋴𓈖𓏥	90090	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntsn
+2	𓂝𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+3	𓂸𓏏𓅱𓏏𓂺𓏥	854515	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mtw.t
+
+# sent_id = IBcCdWTID7jRm0XUmU4WSFw8e4g
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sie sind es, die ihr Wasser und Luft geben (und) die es letzten Endes (?) sind, die veranlassen, dass jede Krankheit an ihr durch Überfluten mit Blut entstehen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,8] - [100,10]
+1	𓈖𓏏𓋴𓈖𓏥	90090	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntsn
+2	𓂝𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+6	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+7	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+8	𓅓𓆱𓐍𓏏𓂻	65310	ADV	adverb	_	_	_	_	Translit=m-ḫt
+9	𓂝𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+10	𓆣𓂋	858535	VERB	verb	_	_	_	_	Translit=ḫpr (m-sꜣ)
+11	𓆼𓄿𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣ.t
+12	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+13	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+14	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓇋𓃀𓃙𓎛𓈗𓀜	23850	VERB	verb	VerbForm=Fin	_	_	_	Translit=jbḥ
+17	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+18	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+
+# sent_id = IBcCd2nBMvakE0YMojrF6nfp764
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sie sind es, die ihm (?) gleichermaßen Wasser und Luft geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,10]
+1	𓈖𓏏𓋴𓈖𓏥	90090	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntsn
+2	𓂝𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏇𓇋𓏛	68170	ADV	adverb	_	_	_	_	Translit=mj.y
+
+# sent_id = IBcCd6crDH03PkDshnpTz9vjY0E
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sie sind es, die Urin geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,11]
+1	𓈖𓏏𓋴𓈖𓏥	90090	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntsn
+2	𓂝𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+3	𓈗𓇋𓇋𓏏𓂺	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBcCd3nl1aNcAEkFm2SWMgKiZKw
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sie sind es, die veranlassen, dass ihm Wasser und Luft geschaffen werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,12]
+1	𓈖𓏏𓋴𓈖𓏥	90090	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntsn
+2	𓂝𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+3	𓈎𓌴𓄿𓅓𓌙𓅯𓏛	854564	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qmꜣ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+7	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+
+# sent_id = IBcCd1lA8JnDQEBUitHsOVuvmsM
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Der After, er öffnet sich ferner zu jedem Gefäß zur rechten Seite und linken Seite mit (?) den Armen und mit (?) den Beinen, indem sie mit Kot überflutet sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,12] - [100,14]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓄖𓏲𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+4	𓍏𓃀𓅡𓄿𓏛	44890	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbꜣ
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+8	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+9	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+11	𓋀𓅓𓏭𓂢	46770	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wnm.j
+12	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+13	𓋁𓃀𓏭𓂢	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓂝𓂝	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
+18	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+19	𓇋𓃀𓃙𓎛𓈗𓀜	23850	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jbḥ
+20	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+21	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+
+# sent_id = IBcCdWAUb9Pfv0Wbj0NNirI4Jf4
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass das $jb$-Herz $ꜥmd$ mache: Das bedeutet, dass das $ḥꜣ.tj$-Herz oder die Gefäße des $ḥꜣ.tj$-Herzens nicht reden, indem sie stumm sind;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,14] - [100,15]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂝𓅓𓂧𓅪	37960	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥmd
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓍃𓅓	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+5	𓌃𓂧𓏏𓀁	78140	VERB	verb	VerbForm=Fin	_	_	_	Translit=mdwi̯
+6	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+7	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+8	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+9	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+10	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+11	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+12	𓇋𓆛𓈖𓃀𓅡𓄿𓀁	27260	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jnbꜣ
+
+# sent_id = IBcCd5cueSoizUlQtv4mdEyH7Cw
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = (und) es gibt nicht ihre Bekundungen unter deinen Händen, die durch die Luft entstehen, mit der sie gefüllt sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,15] - [100,16]
+1	𓂜𓃹𓈖𓏏	450141	PART	particle	_	_	_	_	Translit=n-wn.t
+2	𓈙𓊃𓐟𓄿𓏲𓄃𓏛𓏥	157090	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šsꜣ.w
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓂧𓂧𓇋𓇋𓏏𓏥	184630	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ḏr.t
+6	𓎢𓏭	851169	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗kj
+7	𓆣𓂋	858535	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+10	𓎔𓏛	854514	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mḥ
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcCd5WWJBhK4kF7mDj5QGtUVM0
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass sein $jb$-Herz überdrüssig sei: Das bedeutet, dass das $ḥꜣ.tj$-Herz schwach ist wegen der Hitze des Afters.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,16]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓆑𓏏𓅪	64130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ft
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓏲𓎤𓎤𓅪	850126	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wgg
+5	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+8	𓉔𓉔𓊮	99260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hh
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓄖𓏲𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+
+# sent_id = IBcCdWMwJnuwtEguuItAczOQJv0
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Findest du es groß, dann macht etwas $sẖp$ in seinem Magen wie die Iris / wie in der Iris.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,17]
+1	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅨𓂋	47270	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wrr
+5	𓋴𓄡𓊪𓀜	143510	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sẖp
+6	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+11	𓋴𓅓𓁹𓏏𓏤	876818	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sj-m-jr.t
+
+# sent_id = IBcCd6dd3zQHoE5OoJeRFE4X2Ys
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass sich sein $jb$-Herz ausbreite (oder: dass sein $jb$-Herz dahinschwinde): Das bedeutet, dass die Gefäße des $ḥꜣ.tj$-Herzens unter Kot (leiden).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,17] - [100,18]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊃𓈙𓏴𓂻	144320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+7	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+10	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+11	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+12	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+
+# sent_id = IBcCdWjclqzRekRAg3k1fVk7C8U
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was alle „Bitternis“-Krankheiten angeht: Sie (d.h. jede einzelne) tritt im linken Auge ein, und aus dem Bauchnabel kommt sie heraus.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,18] - [100,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂧𓁷𓂋𓏏𓅪𓏥	180450	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=dḥr.t
+3	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+4	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+8	𓋁𓃀𓏏𓂢	20610	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jꜣb.j
+9	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+10	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓄡𓊪𓅯𓄿𓐎	122880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖpꜣ
+
+# sent_id = IBcCdzYhdmGWdUmPkO4H0qdhuCc
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Das ist der Hauch der Tätigkeit eines Wab-Priesters.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,19]
+1	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂋𓏤𓂝𓏤	600214	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rʾ-ꜥ
+5	𓏁𓈗𓀀	855694	_	epitheton-title	_	_	_	_	Translit=wꜥb
+
+# sent_id = IBcCd4kCYDYjRE0igfdAdjfO0ME
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Es ist das $ḥꜣ.tj$-Herz, das sie in seine Gefäße eintreten lässt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,19] - [100,20]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+3	𓂝𓂝	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mt
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCdyJCYcHPjEYJpyCXEyOqELE
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Das $ḥꜣ.tj$-Herz macht aber $nḏḥḏḥ$ durch sie, durch (den Umstand), dass es gekocht herauskommt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,20]
+1	𓈖𓆓𓎛𓆓𓎛𓅪	91740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏḥḏḥ
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+5	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+8	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+9	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓊪𓊃𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+
+# sent_id = IBcCdymlEuNpx0fnlkhnQRYq6qw
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Die Gefäße seines $ḥꜣ.tj$-Herzens zittern aber durch die Sache.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [100,20] - [101,1]
+1	𓈖𓉔𓂧𓅪	85810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nhd
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂸𓏏𓏲𓏱𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+
+# sent_id = IBcCdwl8ahKTS0xLqBlwvPB4rDI
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Wenn sie (sie?) bezwingen, bedeutet es, dass sie die „Bitternis“-Krankheiten bedecken (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,1] - [101,2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂧𓄿𓂋𓌗𓀜	177740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dꜣr
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓎛𓃀𓋴𓋳𓀜	103740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥbs
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓂧𓁷𓂋𓏏𓅪𓏥	180450	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=dḥr.t
+7	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcCd4z5MBEEikDZqGorjqnn6bw
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Wenn aber seine „Bitternis“-Krankheiten überlegen (?; wörtl.: hoch) sind, bedeutet es, dass sie im Überfluss da sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓀠𓏛	159110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qꜣi̯
+5	𓂧𓁷𓂋𓏏𓄛𓅪𓏥	180450	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=dḥr.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓃀𓂝𓎛𓅤	55080	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bꜥḥi̯
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcCd1P3joCkd0SLjAhGeaadWqU
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass das $jb$-Herz $nḏḥḏḥ$ macht: Das bedeutet, dass das $jb$-Herz als (?) $ḥꜣ.tj$-Herz verziert wurde (???).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,2] - [101,3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈖𓆓𓎛𓆓𓎛𓅪	91740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏḥḏḥ
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓎛𓅷𓄿𓀜	112010	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥṯ
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBcCd0iNNjLGFkLtkEKJaOhISe4
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Anders gesagt: Das bedeutet, dass das $jb$-Herz als $ḥꜣ.tj$-Herz fließt (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,3] - [101,4]
+1	𓎢𓇋𓇋𓆓𓂧	500002	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ky-ḏd
+2	𓇉𓄿𓇉𓄿𓂐	101510	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣḥꜣ
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBcCd3uKFTpLfEJ3typoP7HQUVY
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Es kommt und geht, nachdem es seine Halsgegend erreicht hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,4]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄖𓂻𓈖	61370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓆷𓄿𓏏𓄹	151240	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šꜣ.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCd9zu9dvZtkiEsch4uIb9Cag
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sein $jb$-Herz ist unter dem (Einfluss des) $wjꜣ.t$-Ausfluss(es).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,4] - [101,5]
+1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+4	𓏲𓇋𓄿𓏏𓂐	44060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wjꜣ.t
+
+# sent_id = IBcCdx2RmioG8kjOvroeBelYqCo
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was das Einknicken (?) des $jb$-Herzens angeht: Das bedeutet, dass sein $jb$-Herz zusammengeschnürt wurde, wobei sein $ḥꜣ.tj$-Herz an seinem Platz in (?) dem Blut der Lunge ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,5] - [101,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓌴𓄿𓊨𓏏𓂾	67310	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣs
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓎼𓍯𓄿𓁶	166730	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gwꜣ
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+8	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓊃𓈖𓆑𓏲𓂐𓏥	137250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=znf
+15	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+16	𓄥𓄿𓄹	134170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmꜣ
+
+# sent_id = IBcCdzvTQAcDq0pkukR6Ju0G2aU
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Unter ihm/Infolgedessen kommt (es) dazu, dass (es) klein ist (???).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,6]
+1	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓎢𓏏𓅪	165880	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ktt
+3	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCdx7FKHIPP0e6s8tjsw1Va0Y
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Das bedeutet, dass das $ḥꜣ.tj$-Herz heiß wird;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,6] - [101,7]
+1	𓏏𓍔𓄿𓊮	854574	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tꜣ
+2	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcCd9nHIJtKI0IOssl0EWVimRU
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = und so wird sein $jb$-Herz infolgedessen müde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,7]
+1	𓅨𓂋𓂧𓀉𓅪𓐍𓂋	48260	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḏ
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCdQWPQQpxJkeYpF373xbki7U
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Sein Appetit ist gering, wobei er wählerisch ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,7] - [101,8]
+1	𓈖𓆓𓋴𓅪	91760	ADJ	adjective	_	_	_	_	Translit=nḏs
+2	𓏶𓅓𓀁	46720	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wnm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋴𓏏𓊪𓍉𓀁	854554	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=stp
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCdxNvvWWlfUD2hRJJCOyfmq4
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass das $jb$-Herz trocken ist: Das bedeutet, dass das Blut im $ḥꜣ.tj$-Herzen abgebunden ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,8]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏲𓈙𓂋𓅪	854502	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wšr
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓂧𓌴𓄿𓇶	179230	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dmꜣ
+5	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBcCdxW94WyR2ke9l8BU5mLTufg
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass das $jb$-Herz vor den Krankheitsauslösern (?) niederkniet: Das bedeutet, dass sein $jb$-Herz im Inneren seines Rumpfes klein wird (und) Krankheitsauslöser auf sein $ḥꜣ.tj$-Herz fallen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,8] - [101,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓌴𓄿𓋴𓂾𓂽	67310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣs
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+6	𓎢𓏏𓏏𓅪	165880	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ktt
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+10	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+11	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓐍𓂋𓀒	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
+14	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+15	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+16	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCd1Ly2eywMkZemCUQapcKLQA
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = So wird es (be)trüb(t) (?) und kniet nieder.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,10]
+1	𓇋𓄿𓂋𓁼𓐍𓂋	20750	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜣrr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌴𓄿𓋴𓂾𓐍𓂋	67310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣs
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCdxeYp6osxkUai4Z9ZcaKka8
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was die Schwäche des Alters angeht: Das bedeutet, dass Krankheitsauslöser auf seinem $ḥꜣ.tj$-Herzen sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏲𓎤𓎤𓅪	50940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wgg
+3	𓂜	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓏲𓇋𓄿𓏲𓇋𓇋𓏏𓀗	44090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wjꜣw.yt
+5	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCd0gWDGHspEBWh6IsTeEqboc
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was den Tanz des $ḥꜣ.tj$-Herzens angeht: Das bedeutet, dass es sich von seiner linken Brust(hälfte) entfernt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,11] - [101,12]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂋𓏲𓏏𓀥	93450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rw.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+5	𓂋𓏲𓏲𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓏠𓈖𓂧𓂑𓄹	71720	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mnḏ
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓋁𓃀𓏭𓂢	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+
+# sent_id = IBcCdQACq8nwkEGFkM5XHTYyHMU
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = So stößt es auf seiner (?, oder: auf seine?) richtige Stelle;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,12] - [101,13]
+1	𓏏𓃹𓈖𓃒𓏛𓐍𓂋	174980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯwn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓅓𓂝𓎢𓏏𓏛𓄹	76990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mkꜣ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCd211Z8hqGkios29GLKRoCr8
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = (und) so entfernt es sich von seinem Platz.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,13]
+1	𓂋𓏲𓇋𓂻𓐍𓂋	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCdzodUFbxl0wPgK8fc3YIBJw
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Das bedeutet, dass die „Fettmasse“ in seiner linken Körperhälfte auf (dem Weg) ist, sich mit seiner Schulter zu vereinigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,13] - [101,14]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓎙𓂧𓏏𓐎𓏥	42050	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥḏ.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆅𓏏𓏤	152840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šw.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓋁𓃀𓏏𓂢	20610	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jꜣb.j
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓋬𓂧𓏛	179420	VERB	verb	VerbForm=Fin	_	_	_	Translit=dmḏ
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓈎𓂝𓎛𓂢𓏤	159830	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qꜥḥ
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCd35XgA13yU5ztpxhIQO286s
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass die Bitterkeit seines $jb$-Herzens zahlreich ist: Das bedeutet, das sein $jb$-Herz einsinkt, indem es nach unten weggegangen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,14] - [101,15]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓆈𓏥	41010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥšꜣ
+3	𓂧𓎛𓂋𓄜𓅪	180440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dḥr
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓉔𓂋𓊪𓈗	99170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hrp
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+10	𓊃𓅭𓄿𓂻	126320	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zꜣi̯
+11	𓂋𓌨𓂋𓏲𓈇𓏥	550202	ADV	adverb	_	_	_	_	Translit=r-ẖr.w
+
+# sent_id = IBcCd6tljlxXY0uMm6nkzjs8EU4
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Es ist nicht (mehr) an seinem Platz.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,15]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCd8QbgtSgFUfVjvlP6SNGdHo
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass sein $ḥꜣ.tj$-Herz auf seinem Platz ist: Das ist die Anwesenheit der (wörtl.: das Existieren durch die) Fettmasse des $ḥꜣ.tj$-Herzens in seiner linken (Körper)seite.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,15] - [101,16]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓃹𓈖𓈖	46050	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnn
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+10	𓎙𓂧𓏒𓏥	42050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥḏ.t
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓋁𓃀𓏭𓂢	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+
+# sent_id = IBcCd7k5fXt9pUNssraZSdJvMfE
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Es kommt nicht nach oben und fällt nicht nach unten durch die Sache, (sondern) bleibt an seinem Platz.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,16] - [101,18]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋𓁷𓂋𓏲𓇯	92230	ADV	adverb	_	_	_	_	Translit=r-ḥr.w
+5	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+6	𓉔𓄿𓂻𓈖	97350	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋𓌨𓂋𓏲𓈇	550202	ADV	adverb	_	_	_	_	Translit=r-ẖr.w
+9	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+10	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+11	𓏠𓈖𓏛	69590	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCd2sceVqar0u1qM3vOsytEPM
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass sein $ḥꜣ.tj$-Herz übermäßig flattert (?), (wobei) die Fettmasse unter seiner linken Brust(hälfte) ist: Das ist das Ausführen von ein wenig Herabsteigen durch sein $ḥꜣ.tj$-Herz.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,18] - [101,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖𓅯	854651	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=npꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓉻𓂝𓄿𓏛	34780	ADV	adverb	_	_	_	_	Translit=ꜥꜣ.w
+7	𓎙𓂧𓏒𓏥	42050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥḏ.t
+8	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+9	𓏠𓈖𓂧𓂑𓄹	71720	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mnḏ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓋁𓃀𓏭𓂢	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+12	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+13	𓈖𓉔𓏭𓅪𓈒𓏥	85370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nhj
+14	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓉔𓄿𓏏𓂻	97350	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣi̯
+17	𓂋𓌨𓂋𓏲𓈇	550202	ADV	adverb	_	_	_	_	Translit=r-ẖr.w
+18	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+19	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCdyz7QBm6AkWdjWn8mbXOM0U
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = So breitet sich seine Krankheit aus.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,19] - [101,20]
+1	𓊃𓈙𓏴𓂻𓐍𓂋	144320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
+2	𓆼𓄿𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜣ.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCdWuhVX4ELk8uqifbsaON9mc
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass sein Magen versperrt (wörtl.: abweisend?) ist: Das bedeutet, dass ein Magen (ver)größ(ert) ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [101,20]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓍚𓀜	854535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫsf
+5	𓅨𓂋	47270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrr
+6	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcCdzgBrqpbwkGdikMk7pNExrg
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass sein $jb$-Herz betrübt ist wie (bei) einem Mann, nachdem er unreife Früchte der Sykomore gegessen hat: Das bedeutet, dass ein $jb$-Herz bedeckt ist wie (bei) einem Mann, nachdem er unreife Früchte der Sykomore gegessen hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,2] - [102,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎼𓊪𓅪	167130	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=gp
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+8	𓏶𓅓𓀁𓈖	46710	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓂓𓂸𓏲𓈒𓏥	163060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣ.w
+11	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+12	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+13	𓎛𓃀𓋴𓋳𓀜	103740	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥbs
+14	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+17	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+18	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+19	𓏶𓅓𓀁	46710	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+21	𓂓𓂸𓏲𓈒𓏥	163060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣ.w
+22	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+23	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+
+# sent_id = IBcCdxjjvpM4zUbZsHlu9aD63ls
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was das Zugrundegehen des $jb$-Herzens und die Vergesslichkeit angeht: Der Hauch der Tätigkeit eines Vorlesepriesters ist es, der es verursacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,4] - [102,5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄿𓈎𓅪	290	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣq
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓅓𓂝𓉔𓏏𓅪𓄣𓏤	851849	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mh.t-jb
+5	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+6	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓂋𓏤𓂝𓏤	600214	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rʾ-ꜥ
+9	𓎛𓃀𓌨𓂋𓎱𓀀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+10	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+11	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBcCdwQEx6iuX0VWtfhljAsnrrc
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Er (d.h. der Hauch) tritt als Krankheitsfälle in die Lunge ein.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,5]
+1	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄥𓄿𓄹	134170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmꜣ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊃𓊪𓏲𓈒𓏥	132480	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp.w
+
+# sent_id = IBcCd9ZWMR8JjkGEtDFrRuOAlH4
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Es kommt dazu, dass das $jb$-Herz infolgedessen abgelenkt ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,5]
+1	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓏏𓉔𓂾𓂻	172920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=thi̯
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCdWkiQCUlx0UOgu8g0ait1YY
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass eine Ballung auf sein $ḥꜣ.tj$-Herz fällt: Das bedeutet, dass eine Ballung von Hitze auf sein $ḥꜣ.tj$-Herz fällt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,6] - [102,7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓐍𓂋𓀒	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
+3	𓋴𓏲𓈙𓍢	130760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zwš
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓐍𓂋𓀒	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
+8	𓋴𓏲𓈙𓍢	130760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zwš
+9	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓏏𓍔𓄿𓏲𓊮𓏪	168950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ.w
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCdyhdyH80ckaDnWMCftJqahU
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = es bedeutet häufige Schwäche;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,7]
+1	𓄿𓉔𓂧𓀁	182	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣhd
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓆈𓏥	41011	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+
+# sent_id = IBcCdyeFaU3HaUcXj7PUVFbgzwQ
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = (und) es bedeutet, dass sein $jb$-Herz verschlungen wird vom Zorn.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,7]
+1	𓂝𓅓𓄈𓀁	37500	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓆓𓈖𓆓𓅪	184410	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḏnd
+
+# sent_id = IBcCd2X0sM6Pn0r4uPjNk1EiZLA
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Es ist das Füllen seines Herzens mit Blut, das es verursacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,7] - [102,8]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓎔𓏛	854514	VERB	verb	VerbForm=Fin	_	_	_	Translit=mḥ
+3	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+7	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+8	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBcCd7qfqnkoYkRWoQs9ccIcWbQ
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = (Es) entsteht durch das Trinken von Wasser;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,8]
+1	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+3	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	VerbForm=Fin	_	_	_	Translit=zwr
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcCd1FJQnt4PkKinyiWIcEGwIk
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = und das Essen von Verdorbenem (?), indem es heiß ist, ist das, was es entstehen lässt (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,8] - [102,9]
+1	𓏶𓅓𓀁	46710	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnm
+2	𓊄𓃀𓇋𓇋𓏏𓆟𓏥	131490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zb.yt
+3	𓏏𓍔𓄿𓊮	854574	VERB	verb	_	_	_	_	Translit=tꜣ
+4	𓂝𓂝	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+5	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+
+# sent_id = IBcCd6gjAbRtvUhQtjRpw3WLk4s
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angehrt, dass sein $jb$-Herz dunkel ist und er sein $ḥꜣ.tj$-Herz schmeckt: Das bedeutet, dass sein $jb$-Herz eingeengt ist und Finsternis infolge von Zorn in seinem Rumpf ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,9] - [102,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏲𓐍𓇰	49050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḫ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂧𓊪𓏲𓀁	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+12	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+15	𓎼𓄿𓏲𓐎𓅪	166210	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=gꜣu̯
+16	𓎢𓎢𓏲𓇰	165680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kk.w
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+21	𓆓𓈖𓏌𓏲𓂧𓅪	184410	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḏnd
+
+# sent_id = IBcCd5xza9gxjUTTtX2SIZkPRWU
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Es generiert Fälle seiner Versäumnis (wörtl: Fälle des Verschluckens seines $jb$-Herzens).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,11]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+4	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+5	𓂝𓅓𓄈𓀁𓄣𓏤	851784	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥm-jb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCdwdo9nkLoUtWr0oZuCnGEEg
+# corpus = sawmedizin
+# src_text_id = Y4YPWPCQUJAT3GNPZWWNMQJXVA
+# src_text = sawmedizin:Papyrus Ebers//99,1-102,16 ⸗ Eb 854-855: „Geheimwissen des Arztes“ (das Gefäßbuch)
+# owner = Lutz Popko
+# text_de = Was (die Sache) angeht, dass sein Fleisch gänzlich heiß ist, wie wenn das Herz eines Mannes müde ist, indem (sein) Weg ihn einnimmt (wörtl.: nachdem der Weg ihn gefunden hat): Das bedeutet, dass sein Fleisch infolgedessen müde ist, wie wenn das Fleisch eines weit gehenden Mannes müde ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [102,11] - [102,14]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋𓇥𓂋	92500	ADP	preposition	_	_	_	_	Translit=r-ḏr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓆓𓂧𓏌𓏲𓊮	859927	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏn
+8	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+9	𓅨𓂋𓂧𓀕𓅪	48260	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḏ
+10	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+13	𓅠𓅓𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+14	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+15	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+16	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+17	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+20	𓅨𓂋𓂧𓀉𓅪	48260	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wrḏ
+21	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+22	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+23	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+24	𓅨𓂋𓂧𓀉𓅪	48260	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḏ
+25	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+26	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+27	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+28	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+29	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+30	𓄫𓅱𓏏𓏛𓏥	37	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣw.t
+

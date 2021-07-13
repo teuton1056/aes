@@ -1,0 +1,107 @@
+# sent_id = IBUBdWVCi878VEFPvdWrFr44XGU
+# corpus = sawlit
+# src_text_id = 54ONGDM4GRG4TD25OTYYOC43QA
+# src_text = sawlit:Stele des Meru (Turin Cat. 1447)//〈Stele des Meru (Turin Cat. 1447)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = (since) the beginning of the good road/conduct happened when Montu gave the Two Lands to the sovereign 𓍹Nebhepetre𓍺, who lives forever!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5]
+1	𓐍𓊪𓆣𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tp
+3	𓈐	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+4	𓄤𓏏	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂋𓏙𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+7	𓏠𓈖𓍿𓅱	71660	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w
+8	𓇾𓇾	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓇋𓍘𓀙	32930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jty
+11	𓇳𓎟𓊤	400654	PROPN	entity-name	_	_	_	_	Translit=Nb-ḥꜣp.t-Rꜥw
+12	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+13	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd1sWPcmH6UaOpTmEFbBcGVE
+# corpus = sawlit
+# src_text_id = 54ONGDM4GRG4TD25OTYYOC43QA
+# src_text = sawlit:Stele des Meru (Turin Cat. 1447)//〈Stele des Meru (Turin Cat. 1447)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = He is one beloved of the king, overseer of the treasury Meru, (and) he says:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr.y
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+4	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓅓𓂋𓋨𓏏𓏥	600425	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḫtm.t
+6	𓌻𓂋𓅱	702352	PROPN	entity-name	_	_	_	_	Translit=Mr.w
+7	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0ifTNTRxkgelY27kUvoVlA
+# corpus = sawlit
+# src_text_id = 54ONGDM4GRG4TD25OTYYOC43QA
+# src_text = sawlit:Stele des Meru (Turin Cat. 1447)//〈Stele des Meru (Turin Cat. 1447)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = to the seal-bearer of the king, the sole friend (of the king), overseer of the treasury Meru, the noble one.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.7]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓆤𓏏𓋨	400193	_	epitheton-title	_	_	_	_	Translit=ḫtm.tj-bj.tj
+3	𓋴𓍋𓌡𓏏𓏤	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+4	𓅓𓂋𓋨𓏏𓏥	600425	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḫtm.t
+5	𓌸𓂋𓅱	702352	PROPN	entity-name	_	_	_	_	Translit=Mr.w
+6	𓀻	153870	NOUN	substantive	Number=Sing|Gender=Masc	_	_	_	Translit=šps.w
+
+# sent_id = IBUBd0aOpAdT0Eyzp73OxuoiBWM
+# corpus = sawlit
+# src_text_id = 54ONGDM4GRG4TD25OTYYOC43QA
+# src_text = sawlit:Stele des Meru (Turin Cat. 1447)//〈Stele des Meru (Turin Cat. 1447)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = If there is nothing in your hand, say (it) with your mouth on every place where you are in the following of this god.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.7] -  [B.8]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄤𓈖	83790	PART	particle	_	_	_	_	Translit=nfr-n
+3	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+6	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+8	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+11	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓃀𓅱	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+14	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+15	𓃹𓈖𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=wnn
+16	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+17	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓈙𓋴𓌞	155040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+20	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+21	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+22	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd8Tujzr3ckrhohsHdNcmpfU
+# corpus = sawlit
+# src_text_id = 54ONGDM4GRG4TD25OTYYOC43QA
+# src_text = sawlit:Stele des Meru (Turin Cat. 1447)//〈Stele des Meru (Turin Cat. 1447)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = For I was indeed one beloved of people, pleasant for his servants.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.8] -  [B.9]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓃹𓈖𓏏	851621	PART	particle	_	_	_	_	Translit=wn.t
+3	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mr.y
+4	𓂋𓍿𓀀𓁐	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+5	𓇋𓌳𓆭	550093	ADJ	adjective	_	_	_	_	Translit=jꜣm
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓌸𓂋𓏏𓀀𓁐	72040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.wt
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

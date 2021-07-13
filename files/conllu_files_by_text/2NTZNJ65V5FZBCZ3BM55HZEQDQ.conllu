@@ -1,0 +1,830 @@
+# sent_id = IBUBdwjEwz9eWkqQoXSzjwdQzNM
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Es gab (einmal) einen Mann, dessen Namen Den-Anubis-geschützt-hat war.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,1/alt 1]
+1	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓃹𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wnn
+4	𓇋𓈖𓊪𓏲𓃢𓐍𓂝𓏲𓏛𓈖𓀀	_	X	unknown	_	_	_	_	_
+5	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5OKHwnNAEGQn4DMV0bP55Q
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Weiter gab es seine Frau, deren Name [Me]ret war.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,2/alt 2]
+1	𓇋𓋴𓏏	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌻𓂋𓏏𓀁𓁐	702191	PROPN	entity-name	_	_	_	_	Translit=Mr.t
+6	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd0hNnSvHRkElhmqDEgpB3fY
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser (oder: besagter/erwähnter) Landmann zu dieser seiner Frau:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,2/alt 2]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBd4dWuww400sCnNLrT5Rpdck
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Geh denn und miß mir die Gerste, die in der Vorratskammer ist als der Rest der Gerste von gestern (?) (d.h. der Rest der Gerste, die normalerweise vorrätig ist)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,3/alt 3] - [1,4/alt 4]
+1	𓈝𓅓𓂻	154340	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šmi̯
+2	𓇓𓅱𓏏	130840	PART	particle	_	_	_	_	Translit=swt
+3	𓆼𓄿𓂝	113410	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫꜣi̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+9	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+12	𓅓𓂝𓌨𓂋𓉐	74650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mẖr
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓍑𓏏𓏥	181670	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏꜣ.t
+15	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+16	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+17	𓋵𓇳	133440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sf
+
+# sent_id = IBUBdz8VLmJSQE8mhdDgxQ5W7KU
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser Landmann zu dieser seiner Frau:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,5/alt 5]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBdQdfbaAnZ00qu5IbNB5plLA
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Er traf einen Mann (von Rang), (und zwar einen,) der auf dem Uferdamm stand und dessen Name Nemti-nacht war.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6,4/alt 38] - [6,5/alt 39]
+1	𓅠𓅓𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓌻𓂋𓇋𓇋𓏏𓈇	72540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.yt
+7	𓅈𓏏𓏭𓀜𓀀	851865	PROPN	entity-name	_	_	_	_	Translit=Nmt.j-nḫt.w
+8	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6Oi6JZXjEyGuIydwDIxyi8
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Er war der Sohn eines Mannes (von Rang) namens Isery.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6,5/alt 39] - [6,6/alt 40]
+1	𓅭𓀀	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓇋𓋴𓂋𓇋𓇋𓆮𓀀	710505	PROPN	entity-name	_	_	_	_	Translit=Jsr.y
+5	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3srpfuPn0wWmQ0hIAAiWMw
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Er war ein Dienstmann des Oberdomänenvorstehers Rensi, des Sohnes des Meru.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6,6/alt 40] - [6,7/alt 41]
+1	𓆓𓏏𓇿𓀀𓁐𓏥	181430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓅓𓂋𓉐𓀗	550317	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr-wr
+5	𓌻𓂋𓏲𓀁	702352	PROPN	entity-name	_	_	_	_	Translit=Mr.w
+6	𓆇	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+7	𓂋𓈖𓋴𓇋𓀀	704225	PROPN	entity-name	_	_	_	_	Translit=Rnsj
+
+# sent_id = IBUBd0QJLDeOPUdvr10cqP8FsnQ
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = "Hätte ich doch irgendein (magisches) Bild, mit dem ich die Sachen dieses Landmannes stehlen könnte!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,2/alt 43] - [7,3/alt 44]
+1	𓇉𓄿𓀁	100160	PART	particle	_	_	_	_	Translit=ḥꜣ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓊏𓊪𓅆	157210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šzp
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+6	𓂝𓍯𓄿𓂝	854497	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ꜥwꜣi̯
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓎛𓆰𓈖𓏌𓏲𓏊𓏥	106280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥn.w
+9	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+10	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+11	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+12	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8MMX5KdsUNoubxuLWAE4Ms
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun muß man wissen, daß das Haus dieses Nemti-nacht an/über der Landestelle der/für die Nachbarschaft (?) lag.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,3/alt 44] - [7,4/alt 45]
+1	𓇋𓋴𓏏	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr
+5	𓅈𓏏𓏭𓀜𓀀	851865	PROPN	entity-name	_	_	_	_	Translit=Nmt.j-nḫt.w
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓄥𓄿𓏛𓇾𓈇𓏤	851866	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zmꜣ-tꜣ
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓂋𓏤𓍯𓄿𓏏𓈐	92830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-wꜣ.t
+
+# sent_id = IBUBdzUGv0l6wUSuhmbvsO6xOSw
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Es war eine enge (Landestelle);
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,4/alt 45]
+1	𓎛𓆰𓈖𓋴𓅪	400975	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥns
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd5bnCS7WsUPanbCvW2vQsnA
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = es war keine breite (Landestelle).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,4/alt 45]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓏲𓋴𓐍𓎺𓏛	49800	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wsḫ
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdyshC6kK1ErDgSfWtb8xQME
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = (Nur) auf die Breite eines Schurzes (?) belief sie sich.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,5/alt 46]
+1	𓈎𓈖𓈖𓂝	854565	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qni̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴𓐍𓏲𓎺𓏛	141540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓂧𓄿𓇋𓏲𓋳	177680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dꜣj.w
+
+# sent_id = IBUBdziUvQROukNlvUCFrRMQWus
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Ihre eine Seite lag unter Wasser, die andere unter Gerste.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,5/alt 46] - [7,6/alt 47]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓍯𓄿𓏏𓈐	42490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wꜣ.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓌡𓂝𓏏𓏤	600041	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+7	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+8	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+9	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBUBd169MMpLVUhQhoawWmeyuuI
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser Nemti-nacht zu seinem Diener:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,6/alt 47]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅈𓏏𓏭𓀜𓀀	851865	PROPN	entity-name	_	_	_	_	Translit=Nmt.j-nḫt.w
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓌞𓏲𓀀	155030	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šms.w
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd17adJZwVk25qyBqhMqOdFY
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = "Geh und bring mir ein Laken aus meinem Haus!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,6/alt 47] - [7,7/alt 48]
+1	𓇋𓊄𓂻	127740	VERB	verb	_	_	_	_	Translit=zj
+2	𓏎𓈖	26870	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jni̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓇋𓆑𓂧𓊌𓋳	24590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jfd.j
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd9iVGGZx8kGlntbRUHahuWk
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun wurde es ihm sofort gebracht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7,7/alt 48]
+1	𓏎𓈖𓇋𓈖𓏏𓏲	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤𓂝𓏤	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBd5Wr309sYkbgsoWbTnfcBTo
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Da breitete er es auf der Landestelle der Nachbarschaft (?) aus.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8,1/alt 49]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓊃𓈙𓂝𓈖	144320	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓄥𓄿𓏛𓇾𓈇𓏤	851866	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zmꜣ-tꜣ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓂋𓏤𓍯𓄿𓏏𓈐	92830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-wꜣ.t
+
+# sent_id = IBUBdQTdI7RQLkLusxdJalWpkYc
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Da kam dieser Landmann auf der Straße (, die) von allen Menschen (benutzt wurde).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8,3/alt 51] - [8,4/alt 52]
+1	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+5	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓍯𓄿𓏏𓈐	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓂋𓏏𓀀𓁐𓏥	94550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rmṯ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd3fXQCcSbkWDsZLgjqZSRqU
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser Nemti-nacht:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8,4/alt 52]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅈𓏏𓏭𓀜𓀀	851865	PROPN	entity-name	_	_	_	_	Translit=Nmt.j-nḫt.w
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd8qCEAjcHUVXlwIjXOL5cBA
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = "Sei (so) freundlich, (o) Landmann!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8,4/alt 52] - [8,5/alt 53]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓉔𓂋𓏲𓏛	99050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=hru̯
+3	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+
+# sent_id = IBUBdQdf9QG5pEBvpZzSzYmxVPg
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = (Denn) mein Weg (oder: Verhaltensweise) sollte gut sein."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8,6/alt 54]
+1	𓄤𓆑𓂋	854519	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nfr
+2	𓅓𓂝𓏏𓈖𓌙𓅯𓈐	77960	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mṯn
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd7Ge3cYirUl9gN366WJtQcg
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Da wandte er sich (von der Straße ab) nach oben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8,6/alt 54] - [8,7/alt 55]
+1	𓉐𓂋𓏏𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋𓁷𓂋𓏲𓇯	92230	ADV	adverb	_	_	_	_	Translit=r-ḥr.w
+
+# sent_id = IBUBd4M6juZPKk1WhDcDx4d6HLE
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser Nemti-nacht:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8,7/alt 55]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅈𓏏𓏭𓀜𓀀	851865	PROPN	entity-name	_	_	_	_	Translit=Nmt.j-nḫt.w
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd194AcQYTUWQj40dGxcsYLY
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = "Wird dir meine Gerste als Straße (dienen), (o) Landmann?"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8,7/alt 55] - [8,8/alt 56]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jt
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓍯𓄿𓏏𓈐	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+9	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+
+# sent_id = IBUBd5fnCQAYcUaruqUIcW43QZk
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Wirst du mir denn nicht erlauben vorbeizugehen?"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [9,3/alt 59]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+3	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓏴𓂻	129740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swꜣi̯
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdycfBjVeZUgZj3HNxoRZ3DQ
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = "Siehe doch, dein Esel ist dabei, meine Gerste zu fressen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [9,5/alt 61] - [9,6/alt 62]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈞𓅓𓂝	104600	PART	particle	_	_	_	_	Translit=ḥm
+4	𓉻𓂸𓃩	34840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jꜥꜣ
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓏶𓀁	46710	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnm
+8	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jt
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd5kNZHQnb0PSmvzLpoVbdZ0
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser Landmann:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [9,7/alt 63]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdxWtCWZFcEPfkBzQK0KYTDA
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Ein (Büschel?), der zehn (Büschel?) vernichtet (oder: vernichtet hat)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [9,7/alt 63]
+1	𓌡𓂝𓏏𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+2	𓎛𓆓𓏏𓏴	112660	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥḏi̯
+3	𓎆	78340	SYM	numeral	_	_	_	_	Translit=mḏ
+
+# sent_id = IBUBd49CLHFznksgtbAXHBqy6pI
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Ist es denn in seinem Gut, daß ich beraubt werden soll?
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [10,5/alt 68]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓂝𓍯𓄿𓏲𓂝𓏏𓏲	854497	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥwꜣi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈈𓏏𓊖	854544	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=spꜣ.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyzPv2yZ3U8pogSt47O8MR8
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser Nemti-nacht:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [10,6/alt 69]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅈𓏏𓏭𓀜𓀀	851865	PROPN	entity-name	_	_	_	_	Translit=Nmt.j-nḫt.w
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd6Q9JQkKYkBdhADRMNqeWsw
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = "Ist es dies, was die Menschen sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [10,6/alt 69]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓆓𓂧𓏲	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓂋𓏏𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBdwaxraxhKEV6jHOWOLSML20
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = '(Nur) wegen seines Herrn wird der Name des Armseligen (feierlich) ausgesprochen.'?
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [10,7/alt 70]
+1	𓂧𓅓𓌪𓀁𓏏𓏲	179190	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dm
+2	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓎛𓅨𓂋𓏲𓅪𓀀	103150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥwrw
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓎟𓀀	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd98rAo5c1kfMnAt5FCf4Zx0
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = (aber) der Oberdomänenvorsteher ist es, der von dir in Erinnerung gerufen worden ist."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11,1/alt 71]
+1	𓅓𓂋𓉐𓀗𓀀	550317	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr-wr
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓋴𓆼𓄿𓇋𓇋𓀁	141620	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=sḫꜣ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5QQtD3jRUHeteN7L6k6ZPs
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = "Sei nicht laut, was deine Stimme angeht, (o) Landmann!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11,6/alt 76]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓈎𓄿𓀠	159110	VERB	verb	VerbForm=Fin	_	_	_	Translit=qꜣi̯
+3	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+
+# sent_id = IBUBd7QbFVMYOUVKnlw89WoVvW4
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser Landmann:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11,7/alt 77]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdWA5V0PlrkC7uz7CeFRMleY
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = (O) Herr des Schweigens, mögest du mir doch meine Besitztümer (zurück)geben!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12,2/alt 79]
+1	𓎟𓋴𓎼𓂋𓀁	82360	PROPN	entity-name	_	_	_	_	Translit=Nb-sgr
+2	𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdQpV4y3MkEJbjoq8wzWToPk
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte dieser Landmann:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [13,1/alt 86]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓇏𓏏𓏭𓀀	141500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫ.tj
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdzlnWZDb4UzyjPjnIQsPZWI
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Siehe, es ist das, was sie üblicherweise machen mit ihren Landleuten, die zu anderen in ihrer Nähe gegangen sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [13,6/alt 91] - 13,7/alt 92]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇏𓏏𓅂𓀀𓏥	141500	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sḫ.tj
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓈝𓅓𓏲𓂻𓏥	154340	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šmi̯
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓎢𓏏𓐍𓏭𓀀𓁐𓏥	600213	ADJ	adjective	_	_	_	_	Translit=ky.t-jḫ.t
+12	𓂋𓐛𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+13	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd044dHIcCUYGsJFN0brLZqQ
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Deine Rahen werden nicht brechen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [14,6/alt 101]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓏴𓌪	129730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwꜣ
+3	𓋴𓎼𓂋𓍅𓏲𓆱𓏥	147310	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sgrg
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd8EI114d9Ea9lQMF1yRbyf8
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Du wirst nicht vom Kurs abkommen (?), (so daß) du auf Land auflaufen (?) würdest.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [14,6/alt 101] - [14,7/alt 102]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓋴𓄡𓅓𓂻	143540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sẖm
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇉𓄿𓎼𓂻	101620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣg
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd5zGvxEAC0pItqxKjQRoOmY
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Die Wasserflut wird dich nicht mitreißen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [14,7/alt 102]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓎁𓏏𓀜	33560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+3	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+4	𓈖𓏏𓏯𓈗	79020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=n.t
+
+# sent_id = IBUBd0kIdwctI0povzFHt9vloPM
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Vertreibe meine Notlage!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [16,5/alt 114]
+1	𓂧𓂋𓀜	180130	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=dr
+2	𓋴𓐟𓄿𓇋𓂋𓌗𓅪𓏥	126810	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜣr
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd53fuSollEOOmx0O5Mu6AX0
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = (Und) siehe, ich bin geschwächt als Folge davon.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [16,6/alt 115] - [16,7/alt 116]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓆑𓈖𓅪𓎢𓏲𓀀	63810	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=fn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5kfDj42MkIHof1mBhUzrB8
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Untersuche mich!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [16,7/alt 116]
+1	𓇋𓊪𓏛	24070	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jp
+2	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+
+# sent_id = IBUBdWpnG0ykOEMOoprzuiSho4Y
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Nun sagte seine Majestät:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [17,6/alt 123]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzWWAXXMQkhpo3gEoKVeVV0
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Die aufrührerische Tat von einem, der keinen Mangel leidet, wird man sie/ihn denn nicht tadeln?
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [23,6/alt 165] - [23,7/alt 166]
+1	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+2	𓃀𓎼𓋴𓅪	450143	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=bgs
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂜𓏏𓏭	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+5	𓆅𓏲𓍘𓇋𓇋𓏲𓅪𓀀	152670	VERB	verb	_	_	_	_	Translit=šwi̯
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎀𓊃𓍞𓀁	177210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯzi̯
+10	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8dHDJ6SWkWStsWU2Pz0LsE
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = (Denn) es bedeutet, für sich (selbst einen Vorteil) zu suchen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [23,7/alt 166]
+1	𓎛𓎛𓏭𓂻	101930	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥjḥj
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd6sta6ecOkwQolBARAlI3S4
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = Erzähle keine Lüge!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [25,4/alt 177]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+3	𓎼𓂋𓍅𓅪𓏥	168040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grg
+
+# sent_id = IBUBd6QtUOG1x0ahrQXQDm9QQUc
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = O Weisester aller Menschen, ist es (nur) von meiner Angelegenheit, daß du keine Kenntnisse hast?
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [26,1/alt 182] - [26,2/alt 183]
+1	𓂋𓐍𓏛𓐍𓏏𓏛𓏥𓀀	95710	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rḫ-jḫ.t
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂋𓏏𓀀𓁐𓏥	94550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rmṯ.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+5	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+6	𓐍𓅓𓂜	116910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫm
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓉔𓄿𓏲𓏛𓏥	854526	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=hꜣw
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd7asxKnE30ahuz1fBt6Z3kU
+# corpus = sawlit
+# src_text_id = 2NTZNJ65V5FZBCZ3BM55HZEQDQ
+# src_text = sawlit:pRamesseum A ⸗ pBerlin P 10499〈 (Bauer, R)〉//Recto: Der beredte Bauer (Version R)
+# owner = Peter Dils
+# text_de = (Und) siehe, ich bin in deiner Hand.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [26,5/alt 186]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

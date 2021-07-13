@@ -1,0 +1,53 @@
+# sent_id = IBUBd3qptjpuOkncmxsKeaW2UMI
+# corpus = bbawamarna
+# src_text_id = ZTUG7YWZSVAXPDUERWMJLCM6DQ
+# src_text = bbawamarna:Holzkasten des Eje//Deckel
+# owner = Gunnar Sperveslage
+# text_de = Wirklicher Schreiber des Königs, den er liebt, der Gottesvater Eje.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [A.1]
+1	𓇓𓏏𓈖𓏞𓐙𓂝𓈘𓏤𓆑	854259	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-nswt-mꜣꜥ-mr⸗f
+2	𓊹𓏏𓇋𓆑	32860	_	epitheton-title	_	_	_	_	Translit=jtj-nṯr
+3	𓇋𓀁𓇋𓇋𓀽	400064	PROPN	entity-name	_	_	_	_	Translit=Jy
+
+# sent_id = IBUBd1DWzM5bWUvMoI517aj1XdI
+# corpus = bbawamarna
+# src_text_id = ZTUG7YWZSVAXPDUERWMJLCM6DQ
+# src_text = bbawamarna:Holzkasten des Eje//Deckel
+# owner = Gunnar Sperveslage
+# text_de = Truppenoberst, Vorsteher der Pferde, der Gottesvater Eje.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [A.2]
+1	𓇯𓌔𓏏𓏤	855735	_	epitheton-title	_	_	_	_	Translit=ḥr.j-pḏ.t
+2	𓄓𓋴𓋴𓐝𓏏𓏥	856484	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ssm.wt
+3	𓊹𓇋𓏏𓆑	32860	_	epitheton-title	_	_	_	_	Translit=jtj-nṯr
+4	𓇋𓀁𓇋𓇋𓀽	400064	PROPN	entity-name	_	_	_	_	Translit=Jy
+
+# sent_id = IBUBd3XIHSiwz0Xmm02szgS5liE
+# corpus = bbawamarna
+# src_text_id = ZTUG7YWZSVAXPDUERWMJLCM6DQ
+# src_text = bbawamarna:Holzkasten des Eje//Deckel
+# owner = Gunnar Sperveslage
+# text_de = Die große Gelobte des Wa-en-Re, die Hausherrin Ti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [A.3]
+1	𓎿𓇋𓇋𓏏𓉻𓏏𓈖𓇳𓏤𓌡𓈖	859486	_	epitheton-title	_	_	_	_	Translit=ḥz.yt-ꜥꜣ.t-n.t-Wꜥ-n-Rꜥw
+2	𓎟𓏏𓉐𓏤	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+3	𓍘𓇋𓇋𓁐	708799	PROPN	entity-name	_	_	_	_	Translit=Tjy
+
+# sent_id = IBUBd5vNYagGc0IOuX3wXJOjIIQ
+# corpus = bbawamarna
+# src_text_id = ZTUG7YWZSVAXPDUERWMJLCM6DQ
+# src_text = bbawamarna:Holzkasten des Eje//Deckel
+# owner = Gunnar Sperveslage
+# text_de = Die Gelobte der großen königlichen Gemahlin, die Hausherrin Ti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [A.4]
+1	𓎿𓇋𓇋𓏏𓈖𓇓𓈞𓏏𓏏𓅨	859487	_	epitheton-title	_	_	_	_	Translit=ḥz.yt-n.t-ḥm.t-nzw-wr.t
+2	𓎟𓏏𓉐𓏤	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+3	𓍘𓇋𓇋𓁐	708799	PROPN	entity-name	_	_	_	_	Translit=Tjy
+

@@ -1,0 +1,3989 @@
+# sent_id = IBUBdWKdWd3vBEjZq2GueVWxotU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "Let's go, once we have plundered";
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 1]
+1	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+2	𓈖𓏫	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+3	𓇉𓄿𓈎𓀜𓈖	101520	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣq
+4	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+
+# sent_id = IBUBd9c8nkz5HE9grWDv4F6BUEM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = a man sees his son as his enemy;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 5]
+1	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓅭𓏤𓀀	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊤𓏲𓇋𓇋𓏛𓀜𓀀	120070	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw.y
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4Y1ZUbxXkfHhULqbL5DvP4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "Come with might!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 6]
+1	𓅓𓂝𓇋𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓐍𓊪𓈙𓄗𓀜	116430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpš
+
+# sent_id = IBUBd1aVzXB2sUj3uy4WoTzzjLc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet mild men say:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓏲𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓋴𓆑𓂉𓀀𓏥	853454	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zf.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+
+# sent_id = IBUBd48x32i3UUfkqdqLUWXkFcQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the face is pale,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+4	𓉻𓂝𓄿𓂧𓏲𓏛𓀜	35550	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥꜣḏ
+
+# sent_id = IBUBd0IKcW1m2UG3t5cagErTe1I
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the bowman is settled;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 2]
+1	𓌔𓏏𓏤𓀀	63300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḏ.tj
+2	𓎼𓂋𓍅𓏛	854571	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=grg
+
+# sent_id = IBUBd0NycAj5NEdZssS9tQiRhyc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = There is no man of yesterday.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓋴𓆑𓇳	133440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sf
+
+# sent_id = IBUBdzkSRAzy6EvllJV4P2hPhAU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the Inundation rises (but) no one ploughs for it;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓎛𓂝𓊪𓏭𓈘𓈗𓈘𓈇𓅆	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎛𓀜𓏷𓀜𓈗	854530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwi̯
+6	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+7	𓋴𓂓𓄿𓏲𓍁𓌻𓂡	146610	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=skꜣ
+8	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxvQbD4K20AtiSuEwR1ZNNA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = every man says:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 3]
+1	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+3	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+
+# sent_id = IBUBdyrr4KuuNEKOqKkduuXYgMQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "We do not know what has happened throughout the land".
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 3]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓈖𓏫	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓆣𓂋𓏏𓏥	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+6	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd1YvpdrPwkJzopSpbOaQfhA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Khnum cannot create because of the state of the land.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 4]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓀨𓀜𓈖	162420	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qd
+3	𓎸𓅓𓏲𓅆	123590	PROPN	entity-name	_	_	_	_	Translit=H̱nm.w
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓋴𓐍𓂋𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sḫr
+6	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd2ZspQem005UmD3dPeBBMBc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the poor have become the owners of riches;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓈙𓍯𓄿𓏲𓏲𓀃𓅪𓏥	153020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šwꜣ.w
+4	𓆣𓂋	858535	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎟𓏲𓏫	81650	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nb
+7	𓀻𓋴𓋴𓏛𓏥	153940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=špss
+
+# sent_id = IBUBd5BnTkvQGU73ia9x3C0Grcg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he who could not make for himself sandals is the owner of wealth.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 4] - [2, 5]
+1	𓏏𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏏𓃀𓏏𓋸𓋸	175160	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ṯbw.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓊢𓂝𓇤𓏤𓏛𓏥	40280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.w
+
+# sent_id = IBUBdQ1NocuIEkjxhUfDblWqSx0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the servants thereof, their hearts are saddened;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓍛𓏤𓀀𓏥	104680	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm
+4	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+5	𓄣𓏤𓏫	23290	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jb
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓊃𓈖𓌰𓅓𓅯𓅪𓏫	137420	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snm
+
+# sent_id = IBUBdWG7MmuzmUgitlUjyg6QfU0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = officials do not associate with their people, who cry out (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 5]
+1	𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓌢𓌢𓏛𓈖	138150	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snsn
+3	𓀙𓏲𓀀𓏥	138920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sr
+4	𓂋𓎀𓀀𓏥	94530	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=rmṯ
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓈖𓉔𓅓𓏲𓀁𓏫	85580	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nhm
+
+# sent_id = IBUBd0Wl91eBI0ZZopJdHqDv0xg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = blood is everywhere;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 6]
+1	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+4	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd0cAQzfOaUWpqKiDmhpHq5E
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = mummy-bindings call without being approached.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 6]
+1	𓃹𓈖𓐍𓇋𓇋𓏏𓍼𓏤	46980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnḫ.yt
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+4	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+5	𓏏𓎢𓈖𓂻	173680	VERB	verb	VerbForm=Fin	_	_	_	Translit=tkn
+6	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd7d2GkZKbUUxhNjK3XHM0R4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the many dead are buried in the river;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓅓𓏏𓏱𓏥	69320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mwt
+4	𓆈𓏥	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+5	𓈎𓂋𓋴𓏲𓀿𓂡	161940	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qrs
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇋𓏏𓏲𓂋𓈗𓈘𓈇𓏤	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
+
+# sent_id = IBUBdQVmo0K3b0vWmTV5KgbgPPE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the flood is a grave,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 6] - [2, 7]
+1	𓈖𓍇𓏌𓏲𓇋𓇋𓈗𓈘𓈇	81240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw.y
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇉𓄿𓏏𓉐	100280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
+
+# sent_id = IBUBdQoiQY0lKkj8vDeIEuvkMOg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the rich are in lamentation,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓀻𓋴𓏲𓀀𓏥	153870	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šps.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈖𓐍𓏲𓏏𓀁𓏫	87000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḫ.wt
+
+# sent_id = IBUBd2Cgylj4VU6FhhWwwAljAYQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the poor are in joy;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 7]
+1	𓈙𓍯𓄿𓏲𓏲𓀃𓅪𓏥𓀀	153020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šwꜣ.w
+2	𓌨𓂋𓏭𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+3	𓂋𓈙𓏲𓏏𓂉𓏛𓏥	96220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ršw.t
+
+# sent_id = IBUBd3VR5wS6ekKygfa151Jc2hc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = every town says:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 7]
+1	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nʾ.t
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+3	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+
+# sent_id = IBUBdWDPAkErIkstjtsJYzTVPD0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet people are like black ibises,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓅠𓅓𓏲𓅯𓏥	167160	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=gm.t
+
+# sent_id = IBUBd87wyGPSGEafnFeM2HlUKLo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = filth (?) is throughout the land,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 8]
+1	𓊄𓃀𓏲𓐎𓏥	131040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zb.t
+2	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd6SQZxPoAk1iv0RnrO8gDQc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and there is no one white of clothes in this time.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓌉𓆓𓇳	112301	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥḏ
+4	𓎛𓃀𓋴𓏲𓍱𓏫	851898	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+7	𓂋𓎢𓇳	96390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rk
+
+# sent_id = IBUBd4kTnCNtqkNZk1E7ksZR9QQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the river is blood and one drinks from it;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓇋𓏏𓂋𓏲𓈗𓈘𓈇𓏤	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+6	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+7	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+8	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9gvT5ao6Ugwtw6aG0bQjW4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = one pushes people aside, thirsting for water.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 10]
+1	𓈖𓇋𓇋𓏲𓂢𓂡	79810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ni̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+5	𓇋𓃀𓃙𓈗𓀜	23640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jbi̯
+6	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd0tULXRXEEisp6LNygtXWYw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet porches, pillars and partition walls (?) are burnt,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓋴𓃀𓐍𓏏𓉨𓉐𓏫	131970	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbḫ.t
+4	𓏲𓆼𓄿𓏲𓆱𓏥	49200	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḫꜣ
+5	𓇥𓂋𓇋𓏲𓏏𓆱𓏥	184900	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏrj.t
+6	𓄿𓅓𓅓𓊮	128	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣm
+
+# sent_id = IBUBd6AKlZdEc0WyurhYRvZVBCI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (for) men go to them themselves.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 12]
+1	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+5	𓆓𓊃𓏥	854591	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏs
+6	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBd5WrnxSh8UMrirCSiaYQqI4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "Don't tread here;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 12]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓂧𓎼𓄿𓋴𓂾𓂻	181250	VERB	verb	VerbForm=Fin	_	_	_	Translit=dgs
+3	𓉻𓈐	34790	ADV	adverb	_	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBd2S3WFWyPkhiihwAMjwsvII
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the fearful man could not distinguish it because of heart's terror.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 13]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓏏𓈖𓏌𓏲𓌙𓅯𓏛	175750	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯni̯
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅾𓀁𓀀	138790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ.w
+5	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓁷𓂋𓇋𓇋𓐡𓀜𓏫	108390	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥr.yt
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBd8mWlZQEcEr9kGoyyO4XKko
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet people are few;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+4	𓂝𓈖𓂧𓏲𓅪	39040	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḏ
+
+# sent_id = IBUBdWxQxuXK3EksrZJHDrcTo8w
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he who places his brother in the earth is everywhere;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 13] - [2, 14]
+1	𓂞𓂞	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+2	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd7TYGlfGCEDSv0WmNQNjN5M
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and the child of his lady becomes the son of his maidservant.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 14]
+1	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓄟𓋴𓏯	74750	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ms
+3	𓎟𓏏	81740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓅭𓀀	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+7	𓍛𓏏𓏤𓁐	104810	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQ83Etir902tvL6pXxgGnxw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the outside bow-people have come to Egypt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 1]
+1	𓌔𓏏𓌙𓀀𓁐𓏥𓈉	63280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḏ.t
+2	𓂋𓏲𓏏𓏭𓇯	93490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rw.tj
+3	𓇍𓇋𓇋𓏏𓂻𓍘𓇋	21930	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=jwi̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆎𓅓𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+
+# sent_id = IBUBd8SKlrtrR023nlMBBgN4AwQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and there are no people anywhere.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 2]
+1	𓂜𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+2	𓄟𓋴𓏯	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓃹𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+4	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdyvCfSTuSkYZvWuTcpDpfTg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = riches are throughout the land,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 3]
+1	𓀻𓋴𓋴𓏏𓏛𓏫	153940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=špss
+2	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd6izthhaFEejlfEOE5i5BQI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (but) ladies of the house say:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 3]
+1	𓎟𓏏𓏥𓉐𓏤𓏫	82090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+
+# sent_id = IBUBd5Cwe7WwlUJGjlgRGXmROGU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "Would that we had something we might eat!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 3]
+1	𓇉𓄿𓀁	100160	PART	particle	_	_	_	_	Translit=ḥꜣ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓏶𓅓𓏲𓀁𓍘𓇋𓈖	46710	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=wnm
+5	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+
+# sent_id = IBUBd10DQhnxmktvsL2FhA4PiQ8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = their limbs saddened because of old clothes,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 4]
+1	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓊃𓈖𓌰𓅓𓅯𓅪𓏫	137420	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snm
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓇋𓇩𓋴𓇋𓇋𓏲𓏏𓆰𓍱𓏫	31270	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jz.ywt
+
+# sent_id = IBUBdyb4nsWxoED7jIQumLqNROI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = costly carob(?)-wood is broken (?) off beds;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 5]
+1	𓋴𓋴𓇛𓅓𓏛𓆭𓏫	850595	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ssḏm
+2	𓀻𓋴𓏏𓏛	851690	VERB	verb	Number=Sing|Gender=Fem	_	_	_	Translit=špsi̯
+3	𓏴𓂡𓏏𓏲	129730	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄿𓏏𓏲𓏏𓆱𓏥	334	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣṯ.t
+
+# sent_id = IBUBd05t6fzfOkEGgev561K4pUA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet builders have trained as field labourers.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓀨𓏲𓀜𓀀𓏥	162500	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qd.w
+4	𓂝𓈎𓂻𓏫	41180	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥq
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓌤𓏲𓏏𓏭𓅂𓀜𓀀𓏥	40490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥḥ.wtj
+
+# sent_id = IBUBd5WJLCgVwEz0vxhf2B38fzU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = From as far as Crete (?) they do not come!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 8]
+1	𓂋𓏠𓈖𓅓𓏛	92020	ADP	preposition	_	_	_	_	Translit=r-mn-m
+2	𓎢𓆑𓄿𓅂𓏲𓌙𓈉	164260	PROPN	entity-name	_	_	_	_	Translit=Kft.w
+3	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+4	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdx0861QoLEOAgIHdkXaVp1s
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Destroyed is gold,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 8]
+1	𓌌𓏴𓅪	112660	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥḏi̯
+2	𓋞𓈒𓏥	81680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbw
+
+# sent_id = IBUBd0ZlVkUuWEn7mloARRJYIoc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = What is the Treasury for, without its revenues -
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 12]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓉐𓌉𓉐	60780	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ḥḏ
+3	𓂋𓅓𓂝𓏲	_	X	unknown	_	_	_	_	_
+4	𓅓𓐍𓂸𓏏𓏫𓂜	600316	ADP	preposition	_	_	_	_	Translit=m-ḫm.t
+5	𓅡𓎢𓏲𓏛𓏥	53890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣk.w
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7w0Hlosu0abr7nmb08q5O4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = for the heart of the king is happy (only) when Truth comes to him,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 12]
+1	𓄤𓆑𓂋	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+2	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+6	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓌶𓂝𓏏𓆄𓏛𓏥	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+
+# sent_id = IBUBd91QAVzxpUWnqYiwnwLVrbI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and then every foreign land [says]:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 12] - [3, 13]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdz4GvuvTV0SLspFbeDzffeo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "He is our water,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 13]
+1	𓈗	69000	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw
+2	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd561GZWe9EjTu6N4tVPWDnw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he is our (good) fortune!".
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 13]
+1	𓇆𓏛	43930	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wꜣḏ.w
+2	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd3HzXFAD7EQklqDPFdMshJI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = What may we do about it, since it has come to perishing?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 13]
+1	𓊪𓏲𓏏𓂋𓇋𓆳𓀁	62920	PRON	pronoun	PronType=Int	_	_	_	Translit=ptr
+2	𓁹𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓍯𓄿𓏲𓏲𓈐	42550	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓄿𓈎𓏲𓅪𓏥	291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣq.w
+
+# sent_id = IBUBdz9u6ZzpLUvrl80XQFKOXvM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet laughter has perished [and is no] longer done.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 13] - [3, 14]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓋴𓃀𓏏𓄑𓀁	132270	VERB	verb	_	_	_	_	Translit=zbṯ
+4	𓄿𓈎𓏲𓅪	290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣq
+5	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+6	𓁹𓂋𓏏𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5ygHkrz5EjslA9BklRN6YY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the son of a (well-born) man cannot be distinguished from a have-not.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 1]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓏏𓈖𓌙𓅯𓏛𓈖𓏏𓏲	175750	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯni̯
+3	𓅭𓀀𓊃𓀀𓏤	126080	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zꜣ-z
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂜𓏏𓏭𓅪𓈖𓆑𓇓𓅱	22090	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj-n⸗f
+
+# sent_id = IBUBd3rSh8bqsEsooQdJEZUIoiU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "I wish I could die!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 2]
+1	𓌻𓂋𓀁	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓𓏏𓏱	69300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mwt
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdzsWs4pbekzcigDaBGEhQ54
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = This means the secrets of the embalming-priests fall on it!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 4]
+1	𓊃𓈙𓏏𓍔𓄿𓏲𓏴𓏛𓏫	145700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sštꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+4	𓐎𓏏𓏲𓏛𓀜𓀀𓏥	51020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wt.j
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴𓐍𓂋𓏲𓀒𓂡	142780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwYrVWBGGkttixb6g8W6LEw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet *those things have perished which used to be seen yesterday;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 4] - [4, 5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓅓𓄿𓏭𓈐	83340	PRON	pronoun	PronType=Dem	_	_	_	Translit=nfꜣ
+4	𓄿𓈎𓏲𓅪	290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣq
+5	𓌴𓁹𓄿𓄿	66270	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mꜣꜣ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋴𓆑𓇳	133440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sf
+
+# sent_id = IBUBd9owG14TnUI7tzVuPlZVjdg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the land is left to its *weariness (?) like the pulling up of flax.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 5]
+1	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓊃𓊪𓏲𓊗𓏥	132710	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zpi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎼𓆑𓈖𓏌𓏲𓅪𓏏𓏥	167600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gnn.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓏲𓇉𓄿𓏏𓐎𓀜	48660	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥꜣ
+8	𓎔𓂝𓎛𓏭𓄧𓅓𓏲𓆰𓏫	450266	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥꜥ.w
+
+# sent_id = IBUBdxAnaIkoWEmsjjWNxzZa3Cw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the whole Delta will not be concealed;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 5] - [4, 6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓇋𓂧𓎛𓏲𓇇𓆰𓊖	34240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jdḥ.w
+4	𓂋𓇥𓂋	92500	ADP	preposition	_	_	_	_	Translit=r-ḏr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓂧𓎼𓄿𓇋𓇋𓏏𓀃𓅪𓏏𓏲	181130	VERB	verb	Voice=Pass|VerbForm=Fin	_	_	_	Translit=dgi̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWpgkqtIrU4GsRliBq3tICc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the Marshland trusts in (well)-beaten paths.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 6]
+1	𓎔𓏛	854514	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓇾𓎔𓎛𓏲𓇇𓆰𓏏𓊖	169120	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-mḥ.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓅓𓂝𓏏𓈖𓏌𓏲𓌙𓅯𓈐𓏥	77960	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mṯn
+7	𓎛𓀜𓏷𓀜	854530	VERB	verb	Number=Plur|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥwi̯
+
+# sent_id = IBUBd6ENMlXKJ0kquAmMjmpQzdU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = What shall one do?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 6] - [4, 7]
+1	𓊪𓏲𓏏𓂋𓇋𓆳𓀁	62920	PRON	pronoun	PronType=Int	_	_	_	Translit=ptr
+2	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+3	𓏏𓏲	851185	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+
+# sent_id = IBUBdytAtJFMwEJ3oGpZnqgJbmc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet dependants are put to quernstones;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓂞𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓎸𓏲𓀀𓁐𓏥	123430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnm
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓃀𓈖𓏌𓏲𓇋𓇋𓏏𓊌𓏫	55650	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bnw.t
+
+# sent_id = IBUBd9JgriaDDkFqp5Bi2CmuPyg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = those who used to wear fine linen are beaten wrongly,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 8] - [4, 9]
+1	𓎛𓃀𓋴𓇋𓇋𓍱𓀜	103740	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥbs
+2	𓊪𓈎𓏏𓏯𓍱𓏫	59330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+3	𓎛𓀜𓏷𓀜𓏏𓏲	854530	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+4	𓅓𓍑𓏲𓏏𓅪𓏥	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzZjJPK5n0xojBrQ8v7cUIE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (and) those who used not to see the day have come forth *unhindered;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 9]
+1	𓏏𓍃𓅓𓇋𓇋𓀀𓏥	854578	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓌴𓁹𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+3	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓉐𓂋𓂻	60920	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=pri̯
+5	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓇋𓆑𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+
+# sent_id = IBUBd6Lbb6SBEEkTmKNssrBZ6ik
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Now, the attendant, he is destroyed.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 11]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓍏𓃀𓏲𓏊𓀜𓀀𓏫	44930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbꜣ
+3	𓌌𓏴𓅪	112660	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥḏi̯
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd8GpgWB2vk93mzGDRQSBbfc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = There is no remedy thereto:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 11] - [4, 12]
+1	𓄤𓆑𓂋𓊪𓏲	83780	PART	particle	_	_	_	_	Translit=nfr-pw
+2	𓄲𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBdzJFWnAwf0DWmI57vU3frmY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = their weavers' songs being dirges;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 12] - [4, 13]
+1	𓎛𓎿𓋴𓏏𓀁𓏫	109390	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥs.t
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+4	𓌻𓂋𓏏𓋳	72040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.wt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓁹𓅂𓀁𓏫	30020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrt.w
+
+# sent_id = IBUBd7R0bFD6pEydnLuus4GmyWA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet all maidservants are forceful with their mouths;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓍛𓏏𓏤𓁐𓏥	104810	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+5	𓌂𓅓𓀜	851679	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=sḫm
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂋𓏤𓏫	92560	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=rʾ
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdW4gvxiW8kW2qlJF99EIAlA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = their mistresses speak, (and) it is burdensome for the servants.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 13] - [4, 14]
+1	𓌃𓂧𓏲𓀁	78140	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mdwi̯
+2	𓎛𓏌𓏏𓏯𓁐𓏥	106350	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥn.wt
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂧𓈖𓋴𓍖𓊌	179910	VERB	verb	_	_	_	_	Translit=dns
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓅡𓎢𓏲𓀀𓁐𓏥	53940	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣk.wt
+
+# sent_id = IBUBd00FvavQP0GHgcPdTkpaHMg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = plantations are laid bare;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 14]
+1	𓏠𓈖𓏌𓏲𓆱𓏥	70450	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mn.w
+2	𓃹𓈖𓏌𓏲𓁸𓆱	46100	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wn
+
+# sent_id = IBUBd0r2QBAZN07yhQZVbvWWUXI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the servant has removed himself from his household.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4, 14] - [5, 1]
+1	𓃛𓏲𓂧𓂻𓈖	23220	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwd
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓍛𓏤𓏲𓀀𓏥	104680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdx4E2k8CpURdgCS00k69Gvg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = People will say, when they hear it:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBUBdxlWGTgvgkP6or0U7qykZAA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Today, what is the taste thereof like today?"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏇𓇋𓈖	68330	ADV	adverb	_	_	_	_	Translit=mjn
+3	𓂧𓊪𓏏𓄓𓀁	179020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dp.t
+4	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓅓𓂝	64430	PRON	pronoun	PronType=Int	_	_	_	Translit=m
+7	𓏇𓈖𓇳	68330	ADV	adverb	_	_	_	_	Translit=mjn
+
+# sent_id = IBUBd7Arj2X3E08zi4Zsbyz6RWo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet officials are hungry and homeless, and their following is followed;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓀙𓏲𓀀𓏥	138920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sr
+4	𓎛𓈎𓂋𓏲𓅪𓏥	110540	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥqr
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴𓃹𓈖𓌕𓅪	130270	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zwnu̯
+7	𓌞𓋴𓂻𓏏𓏲	155000	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šms
+8	𓌞𓋴𓏏𓏲𓂻𓀀𓏫	155060	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šms.wt
+9	𓋴𓏏	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd0yxaOgyk0ZkmiLh1Lp4vyo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the hot-(tempered) man says:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓏏𓍔𓄿𓏲𓊮	168940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+
+# sent_id = IBUBdz3cjDJwW07ZlQrnwoi3fjw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "If I could perceive, and know where god is, then I would act for him!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓋷𓄿𓀁	127840	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sjꜣ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋𓐍𓏛𓈖	95620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓏏𓈖𓌙𓅯𓏛	175740	PRON	pronoun	PronType=Int	_	_	_	Translit=ṯnj
+8	𓎢𓄿𓀁	400415	PART	particle	_	_	_	_	Translit=kꜣ
+9	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8HyjM1Ec08EqMTbsUNJw5I
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (but) wrongdoing is what they do, building on it!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 4]
+1	𓇋𓇩𓋴𓆑𓏏𓅪𓏥	31500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jzf.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓎼𓂋𓍅𓏛	854571	VERB	verb	VerbForm=Fin	_	_	_	Translit=grg
+7	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBdQ3TRQQihknJjfjfZQ8D5Rg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and the robber, all his things are seized.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 5]
+1	𓂝𓍯𓄿𓇋𓇋𓏏𓏛𓀜𓀀	850342	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥwꜣ.y
+2	𓎁𓏏𓏏𓀜𓏏𓏲	33560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd0pCZuMHlkWkjyhVQEIaZi8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet all herds, their hearts weep;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓌙𓏲𓏏𓏯𓏥	35870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥw.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓄣𓏤𓏫	23290	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jb
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓂋𓅓𓏲𓁿	94180	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rmi̯
+
+# sent_id = IBUBd3gAyld7aU1ukjWAOZWBUXY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = cattle mourn because of the state of the land.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 5]
+1	𓏠𓈖𓏠𓈖𓏏𓃒𓏥	70730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnmn.t
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓐛𓅓𓏏𓀁	24660	VERB	verb	VerbForm=Fin	_	_	_	Translit=jm
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓋴𓐍𓂋𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sḫr
+6	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdwCv3KAvz0abk6oG9yvIaD8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the children of officials are thrown against walls;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓄟𓋴𓏲𓏯𓀁𓏫	74750	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ms
+4	𓀙𓏲𓀀𓏥	138920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sr
+5	𓎛𓏲𓏏𓀜𓏏𓏲	854530	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓋴𓐠𓄿𓏲𓏏𓊅𓈇𓏥	125800	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜣ.t
+
+# sent_id = IBUBdxK3rMLLKUEarJTd4nPvAlc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = children of prayer are placed on high ground.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 6]
+1	𓀔𓏲𓀀𓏥	854539	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖrd
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓅘𓎛𓏏𓀁	85920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḥ.t
+4	𓂞𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈎𓄿𓈖𓏥𓂋𓏲𓈇𓏤	159060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜣꜣ
+
+# sent_id = IBUBd92wFNqMyUTUmV6T4ayHpfw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Khnum mourns because of his weariness.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 6] - [5, 7]
+1	𓎸𓅓𓏲𓅆	123590	PROPN	entity-name	_	_	_	_	Translit=H̱nm.w
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓐛𓅓𓏏𓀁	24660	VERB	verb	VerbForm=Fin	_	_	_	Translit=jm
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓅨𓂋𓂧𓏲𓀉𓅪𓏥	48300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wrḏ.w
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxMDZlcEyUclub7QGqMGHKY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = fear repels one who acts against your enemies.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 7]
+1	𓅾𓏲𓀁	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓍚𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+4	𓁹𓂋𓏲	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓐍𓆑𓅂𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+7	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdQRGcobFdUbskYiLSNH9zGQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Is it serving Khenty and the one he cuts up?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 8]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌞𓋴𓂻	155000	VERB	verb	VerbForm=Fin	_	_	_	Translit=šms
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓏃𓈖𓏏𓏭𓄛𓏥	119090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫnt.j
+7	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+8	𓐣𓀜𓀀	52360	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=wḏꜥ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxyNJ36PeECAro3zVpt4Aww
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Is it libating to Ptah, taking cattle (?)?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 8] - [5, 9]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓃛𓏲𓎛𓈗𓏛𓀜	23000	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwḥ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+7	𓎁𓏏𓏏𓀜	33560	VERB	verb	VerbForm=Fin	_	_	_	Translit=jṯi̯
+8	𓇋𓄿𓇋𓇋𓄛𓏫	35870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥw.t
+
+# sent_id = IBUBdW9CQy6NcUMcg6BPPxgZEao
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Why do you give to him?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 9]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤𓅓𓂝	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzOvLACKk0G5sUcjzGUTB2I
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = There is none who can reach him,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 9]
+1	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓄖𓂻	61370	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pḥ
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdw9QkoZpREWsnGGcRJ6qxJw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and your giving to him is misery!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 9]
+1	𓇋𓆛𓈖𓂧𓅪𓏫	28060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnd
+2	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+5	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyLGB7kXs0rPtub4KqC8KaE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the aggressive man sends to everyone,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 10]
+1	𓈖𓆱𓐍𓏏𓀜	87580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫt
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓉔𓄿𓃀𓂻	97580	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣb
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓃀𓏲𓎟𓀀𓁐𓏫	55210	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bw-nb
+
+# sent_id = IBUBd0ZEGvsZoEphtrJcUp1Ud9A
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = a man strikes his brother of (the same) mother.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 10]
+1	𓎛𓀜𓏷𓀜	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3Qx0CKSlU3thFaEBPBTZo4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = What is it that has been done, since I speak for one who has (already) perished?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 10] - [5, 11]
+1	𓇋𓍱𓊃𓏭𓀁	32050	PRON	pronoun	PronType=Int	_	_	_	Translit=jšst
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓇋𓇋𓏏𓏥	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓄿𓈎𓅪𓏲𓀀	290	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ꜣq
+
+# sent_id = IBUBd0UcgaJAc0HRgiWhebkUSvk
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet roads are watched (?), paths guarded;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓈐𓏏𓏥	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+4	𓈖𓍇𓏌𓏲𓏯	80800	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nwꜣ
+5	𓅓𓂝𓏏𓈖𓏌𓏲𓌙𓅯𓈇𓏫	77960	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mṯn
+6	𓀸𓄿𓏲𓏛𓀜	126290	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zꜣu̯
+
+# sent_id = IBUBd7hrpdgr90Rsqb9hBnrDAIU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = what is on him is to be taken away,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 12]
+1	𓈖𓈞𓅓𓏲𓀜	86430	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+2	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWwNWhl010vzmqgQqQhLCiM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and (he is) killed wrongly.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 12]
+1	𓄡𓂧𓃀𓏲𓌪𓂡	124950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖdb
+2	𓅓𓈖𓆑𓅪𓏥	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd38I0f4VgUWcotLPd8i1o7U
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet those things have perished which were seen yesterday;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 12] - [5, 13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓈖𓆑𓄿𓏭𓈐	83340	PRON	pronoun	PronType=Dem	_	_	_	Translit=nfꜣ
+4	𓄿𓈎𓏲𓅪	290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣq
+5	𓌴𓁹𓄿𓄿	66270	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mꜣꜣ
+6	𓋴𓆑𓇳	851674	ADV	adverb	_	_	_	_	Translit=sf
+
+# sent_id = IBUBdWgMsyWLskHosF08rbcZHHA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the land is left to its weariness like the pulling up of flax;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 13]
+1	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓊃𓊪𓏲𓊗	132710	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zpi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎼𓈖𓏌𓏲𓀉𓅪𓏏𓏲𓏏𓏫	167600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gnn.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓏇𓇋	_	_	_	_	_	_	_	_
+7	𓏲𓇉𓄿𓏲𓐎𓀜	48660	VERB	verb	_	_	_	_	Translit=wḥꜣ
+8	𓎔𓂝𓎛𓏭𓄧𓅓𓏲𓆰𓏫	450266	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥꜥ.w
+
+# sent_id = IBUBd9yTYlfYuEzVma3z58gR1pc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = commoners come and go and are homeless,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 13] - [5, 14]
+1	𓈖𓆓𓊃𓅪𓀀𓏫	91770	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nḏs
+2	𓉐𓂋𓇋𓇋𓏲	60920	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=pri̯
+3	𓂻𓏏𓏭𓏫	21930	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴𓃹𓈖𓌕𓅪𓏫	130270	VERB	verb	VerbForm=Fin	_	_	_	Translit=zwnu̯
+
+# sent_id = IBUBd0hJVUzKXEUQvShr6LYzFO4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Would that it were the end of humankind, without conception, without birth!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5, 14] - [6, 1]
+1	𓇉𓄿𓀁	100160	PART	particle	_	_	_	_	Translit=ḥꜣ
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎼𓂋𓎛𓂢𓏛	167880	VERB	verb	VerbForm=Fin	_	_	_	Translit=grḥ
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+8	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+9	𓃛𓏲𓅨𓂋𓁒	22930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwr
+10	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+11	𓄟𓋴𓏏𓏯	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+
+# sent_id = IBUBdQWRmQaYbk23pOQ95te84Ss
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = No flour or bird-fodder can be found;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 1] - [6, 2]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓅠𓅓𓈖𓏏𓏲	167210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓈎𓄿𓇋𓇋𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+4	𓋴𓄧𓅓𓏲𓆰𓏫	134140	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sm.w
+5	𓄿𓊪𓂧𓏲𓅬𓏥	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+
+# sent_id = IBUBd9crAhKMEkprr2sX2O826ts
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet barley has perished everywhere;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓄿𓈎𓏲𓅪	290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣq
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd89Skefdg0OYgwWpn2CNx60
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (people) are stripped of clothes
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 3]
+1	𓋴𓇉𓄿𓏲𓏲𓍱𓀜	140390	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥꜣi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓃀𓋴𓏲𓍱𓏫	851898	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs.w
+
+# sent_id = IBUBd6FqxroxDEx0r1WX8H1BMbA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and (people) are unanointed with oil;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 3]
+1	𓄡𓊃𓐠𓄿𓁸𓏫	124570	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖsꜣ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓌻𓂋𓎛𓏏𓏊𓏫	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBUBd54vx1tQS0WMgzQy2WcH30Y
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = everyone says: "There is nothing!" -
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 3] - [6, 4]
+1	𓁷𓏤𓎟𓀀𓁐𓏫	108020	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥr-nb
+2	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+3	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+
+# sent_id = IBUBdx97qU1QiUW6sEGD7M3p1bo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the storehouse is razed,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 4]
+1	𓏲𓍑𓄿𓉐𓏫	52110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ
+2	𓆑𓎢𓁸𓅪	64060	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=fk
+
+# sent_id = IBUBd1lbfJhjqUmyp7XzBbVF0nI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = its guard is stretched out on the ground.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 4]
+1	𓀸𓄿𓏲𓏛𓀜𓀀	126300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.w
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓂧𓌔𓂻	63170	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=pḏ
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdwZxdNfry0UXnWl4zAxaR7c
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = I am finished (?) utterly!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 4] - [6, 5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇥𓂋	184570	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḏr
+4	𓂋𓏤𓋴𓏭𓈐	96030	ADV	adverb	_	_	_	_	Translit=rsj
+
+# sent_id = IBUBdxuVIpgwQUQautUfXcu91zM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet magic is stripped bare;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkꜣ.w
+4	𓋴𓇉𓄿𓏲𓏲𓍱𓀜	140390	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḥꜣi̯
+
+# sent_id = IBUBdWj3Tza4AECZtqsqWBX0DaA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet office〈s〉 have been opened and th〈eir〉 inventories removed;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓃹𓈖𓉿𓂡	46060	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+4	𓆼𓄿𓉐	113180	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣ
+5	𓄞𓂧𓏛𓀜	854561	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+6	𓄋𓊪𓏏𓏴𓍼𓏥	45550	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wp.wt
+7	𓋴	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdxpVF8RsQkgJlPAoUWvoU2M
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = How evil it is for me because of the misery of the time!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 8]
+1	𓃀𓇋𓈖𓅪𓏲𓏭	54605	ADJ	adjective	_	_	_	_	Translit=bjn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓇋𓆛𓈖𓂧𓏲𓅪	28060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnd
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓎢𓇳	96390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rk
+8	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBd39MQ8Q9dkwzkjUuOtxFV5A
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet scribes of the field-register, their writings have been obliterated;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 8] - [6, 9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓏞𓏲𓀀𓏥𓏌𓏤𓏏𓌳𓄿𓅓𓏲𓐡𓏤	401063	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zẖꜣ.w-n-ṯmꜣ
+4	𓂧𓂋𓏲𓀜	180130	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+5	𓏞𓏛𓏥	450097	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=zẖꜣ.w
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd6Z1HfQkU0QWjAJWqsZCz1M
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the life-grain of Egypt is a free for all.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 9]
+1	𓋹𓈖𓐍𓏏𓌾𓏥	38750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥnḫ.t
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓆎𓅓𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=hꜣi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓏎𓈖𓏏	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd1uOywYKcEu3q21Fxy2G4zw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the rulings of the labour enclosure are cast (lit. put) out,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 9] - [6, 10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓉔𓊪𓏲𓏛𓏥	98260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hp
+4	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+5	𓂉𓏏𓉐	118470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫnr.t
+6	𓂞𓏲	851711	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+7	𓂋𓏃𓈖𓏏𓏭𓂉𓉐	92280	ADV	adverb	_	_	_	_	Translit=r-ḫnt
+
+# sent_id = IBUBdy0xWTOJlEngsjhX11ue0YU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and one walks on th〈em〉 in the alleys;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 10]
+1	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓃛𓏲𓏲𓇋𓇋𓏏𓉐𓏫	22320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jwy.t
+
+# sent_id = IBUBd2eYGIAWz0WvtMJCzIj6vSs
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = wretches tear them up in the streets.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 10] - [6, 11]
+1	𓎛𓅨𓂋𓏲𓀔𓏲𓅪𓀀𓏫	103150	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥwrw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈖𓎼𓄿𓏏𓏴𓀜	89630	VERB	verb	VerbForm=Fin	_	_	_	Translit=ngi̯
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+5	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+6	𓌻𓂋𓏏𓍔𓄿𓉐𓏫	72740	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mrr.t
+
+# sent_id = IBUBd9QShVGIZUNqidiDCBd3fiE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = wretches come and go in the great domains.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 12]
+1	𓎛𓅨𓂋𓏲𓀔𓏲𓅪𓀀𓏫	103150	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥwrw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+4	𓇍𓇋𓇋𓏏𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉗𓏲𓏏𓉐𓏫𓅨𓂋𓇋𓇋𓏏𓉐𓏫	99870	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥw.t-wr.t
+
+# sent_id = IBUBd82vwvYivECRi2f8g957wyY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = O, yet the children of officials are cast into the streets,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 12] - [6, 13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓄟𓋴𓏲𓏯𓀀𓁐𓏫	74750	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ms
+4	𓀙𓏲𓀀𓏥	138920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sr
+5	𓆼𓄿𓂝𓂻	113560	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜣꜥ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓌻𓂋𓏏𓉕𓉐𓏫	72740	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mrr.t
+
+# sent_id = IBUBdzKjUR8mEklgnYi1V5ZrkB8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the wise saying: "Yes!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 13]
+1	𓂋𓐍𓏛𓀀	95630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫ
+2	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+3	𓍘𓏲𓀁	169950	PART	particle	_	_	_	_	Translit=tjw
+
+# sent_id = IBUBd9lkGpSDZ0SDsM674iC92wI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the fool saying: "No!";
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 13]
+1	𓏲𓆼𓄿𓅪𓀀	49150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫꜣ
+2	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+3	𓅓𓃀𓇋𓄿𓎺𓄑𓏛𓏥𓀁	64760	ADV	adverb	_	_	_	_	Translit=m-bjꜣ.t
+
+# sent_id = IBUBd178GCjdNEeUpWrey4lI8n4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = This means the secrets of the embalming-priests fall on it!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6, 14]
+1	𓊃𓈙𓏏𓍔𓄿𓏲𓏴𓏛𓏫	145700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sštꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+4	𓐎𓏏𓏲𓏛𓀜	51020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wt.j
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴𓐍𓂋𓀒𓂡𓏫	142780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫr
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5NGCagjQkWLmdPaT2SlwCU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = For look, the fire has become higher;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 1]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+5	𓍯𓄿𓏲𓏲𓈐𓍘𓇋	42550	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓈎𓄿𓀠𓏛	159010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+
+# sent_id = IBUBd0PP6SfPGUBti0FWZxoeaCc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = its burning should come forth against the enemies of the land!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 1]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓏲𓃀𓏏𓏏𓏯𓊮	45430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wbd.t
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓐍𓆑𓏏𓅂𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḫft.j
+6	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd5Y8mQjBWkeHqYC7UcfQBCE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, he who was buried as a Falcon is on a bier (?);
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 2]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓈎𓂋𓋴𓆱𓂡	161940	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=qrs
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓃀𓇋𓏲𓎢𓅃𓅆	54680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjk
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈙𓆑𓂧𓏏𓆱𓏫	154310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šfdy.t
+
+# sent_id = IBUBdW9lUIMmIUiikFfUCMq08g0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = What the pyramid hid has come to be empty.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓏠𓈖𓏏𓀃𓏛𓈖	26030	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jmn
+3	𓍋𓅓𓂋𓉴	71780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+4	𓈐	42550	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆄𓏲𓏏𓅪	152670	VERB	verb	VerbForm=Fin	_	_	_	Translit=šwi̯
+
+# sent_id = IBUBd53bVko53kjmjWC83U7Z9XY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = For look, it has come to impoverishing the land of kingship by a few people who are ignorant of counsels.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 2] - [7, 3]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓈐	42550	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴𓈙𓍯𓄿𓏲𓀃𓅪	144780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sšwꜣ
+7	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓇓𓏏𓈖𓇋𓇋𓏏𓏛𓏫	88090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nsw.yt
+10	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+11	𓈖𓉔𓏭𓅪𓈒𓏥	85370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nhj
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+14	𓐍𓅓𓏲𓂜𓏥	116910	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫm
+15	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫr
+
+# sent_id = IBUBdxQChNWi40VsrkNDwawnMBI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = For look, it has come to (people) who rebel against the strong uraeus of Re' which pacifies the Two Lands.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 3] - [7, 4]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓍯𓄿𓈐	42550	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131610	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sbj.w
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓇋𓂝𓂋𓂝𓏏𓄹𓆗	21780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜥr.t
+9	𓈖𓆱𓐍𓏏𓀜	400031	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḫt
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓂋𓂝𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+12	𓋴𓉔𓂋𓏛	140180	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=shru̯
+13	𓇾𓇾𓈇𓈇	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+
+# sent_id = IBUBd7CJyrGkVkkuin7XqOBsdzQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the secret of the land, whose limits are not known, is bared;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 4]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓊃𓈙𓏏𓍔𓄿𓏲𓏴𓏛	145700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sštꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+6	𓐍𓅓𓅓𓂜	116910	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḫm
+7	𓇥𓂋𓏲𓈐𓏥	184990	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏr.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋴𓇉𓄿𓏲𓏲𓍱𓀜	140390	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḥꜣi̯
+
+# sent_id = IBUBd3HXuvCA406sqRkWBSKJQKI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (and so) the Residence has fallen down in an hour.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 4]
+1	𓄚𓈖𓏭𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+2	𓉔𓈖𓊊𓈖	48560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=whn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnw.t
+
+# sent_id = IBUBd2zj5tWwp0D3hkuCvCMpn4M
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, Egypt has come to pouring water on the ground,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 4] - [7, 5]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓆎𓅓𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+4	𓍯𓄿𓈐𓍘𓇋	42550	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄝𓏏𓏏𓌕𓈗𓂡	854553	VERB	verb	VerbForm=Fin	_	_	_	Translit=sti̯
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdxl5Z8isfUFdkJrNWo7hWNs
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (and yet) the strong-armed man seizes for himself in the misery!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 5]
+1	𓎁𓏏𓏏𓀜	33560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖𓆱𓐍𓏏𓀜𓂝𓏤	850882	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḫt-ꜥ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓌳𓄿𓇋𓂋𓌗𓅪𓏥	67180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣr
+
+# sent_id = IBUBdWXbXuKlD0OmkcwSyqSz3O4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the Primordial Creature has been removed from its cavern;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 5]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓄞𓂧𓏲𓏛𓀜	854561	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+4	𓈎𓂋𓎛𓏏𓆗	161910	PROPN	entity-name	_	_	_	_	Translit=Qrḥ.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓊪𓎛𓏏𓉐𓏫	175280	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ṯpḥ.t
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd4lYNUjAWkVelm6wrZuwzuo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the secrets of the Dual Kings have been bared.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 5] - [7, 6]
+1	𓋴𓇉𓄿𓏲𓏲𓍱𓀜	140390	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥꜣi̯
+2	𓊃𓈙𓏏𓍔𓄿𓏲𓏴𓏛𓏫	145700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sštꜣ
+3	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+4	𓇓𓏏𓈖𓇋𓇋𓏏𓏛𓅆𓏫𓆤𓏏𓏯𓅆𓏫	88060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nswt-bj.tj
+
+# sent_id = IBUBdyZKBo5CY0rnic8hjiatns8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the Residence is fearful because of want;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 6]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓄚𓈖𓏌𓏲𓊖	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴𓈖𓂧𓏏𓅾𓀁	138730	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏ
+6	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+7	𓎼𓄿𓏲𓏏𓐎𓅪𓏥	166250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=gꜣ.wt
+
+# sent_id = IBUBdWBaArrHbUtDmknGdSIBmz8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (but) my Lord will stir up strife unopposed!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 6] - [7, 7]
+1	𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+2	𓏲𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏲𓂧𓏴𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+5	𓇉𓄿𓂝𓇋𓇋𓏏𓅪𓏥	101000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣꜥ.yt
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓍚𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+8	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+
+# sent_id = IBUBd2HD26ePWk9LoXEK84Ejxp0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the land has knotted together in gangs;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 7]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓋭𓊃𓏛𓀜𓈖	176800	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+7	𓄥𓄿𓇋𓇋𓏛𓀜𓀀𓏥	134600	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zmꜣ.yt
+
+# sent_id = IBUBd4z9wzqIskgPtJtyxS34B2E
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (as for) the strong man, the vile man carries off his [things].
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 7]
+1	𓈎𓈖𓀜𓀀	160940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qn
+2	𓄡𓊃𓏭𓅪𓀀	124610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖz
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈖𓈞𓅓𓏲𓀜	86430	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḥm
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9RgESQcbU2DhLVF3iYeymc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the Primordial Creature is on [the water like] the inert ones;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 7]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓈎𓂋𓎛𓏏𓆗	161910	PROPN	entity-name	_	_	_	_	Translit=Qrḥ.t
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓇑𓇑𓈖𓈖𓇋𓇋𓏲𓀉𓅪𓏥	84900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nn.yw
+
+# sent_id = IBUBd20nGiWy0kd4rb8V9FtZx3U
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (yet) he who could not make for himself a coffin is owner of a tomb.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 8]
+1	𓏏𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌥𓃀𓏏𓉐	183310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏbꜣ.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓇉𓄿𓏏𓉐	100280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
+
+# sent_id = IBUBdzgm5EncEkuOqDbnZY3GDWs
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the owners of sepulchres are repelled onto the high ground;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 8]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓎟𓏲𓏥	81650	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nb
+4	𓃂𓈗𓏏𓉐𓀻𓏫	44540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜥb.t
+5	𓂧𓂋𓀜	180130	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=dr
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓈎𓄿𓈖𓏥𓂋𓏤𓈇𓏤𓏫	159060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜣꜣ
+
+# sent_id = IBUBd0id3J6TME1IsfEfBrYrwUo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he who could not build for himself a room is the owner of walls (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 9]
+1	𓏏𓍃𓅓𓏲	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓀨𓀜	162420	VERB	verb	VerbForm=Fin	_	_	_	Translit=qd
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂝𓏏𓉐	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓇥𓂋𓇋𓏏𓆱𓏫	184900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏrj.t
+
+# sent_id = IBUBd73a2rTIuEEanSogpDZg7Cw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the council of the land is driven out throughout the land;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 9]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓊋𓏏𓏯𓀀𓏥	161350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qnb.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+6	𓂧𓂋𓀜𓍘𓇋	180130	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=dr
+7	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+8	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdyvjBaW9gE5sskV55QN5zeU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (yet) he who used to be driven out is in the Estates of the King{s}.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 9] - [7, 10]
+1	𓂧𓂋𓀜	180130	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=dr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓉐𓂋𓇋𓇋𓏏𓉐𓏫	61010	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.yt
+4	𓇓𓏏𓈖𓅆𓇋𓇋𓏲𓏏𓏛𓏫	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+
+# sent_id = IBUBdwdeEEDmDEUxkVvZfTof6rI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = officials are in the workshop;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 10]
+1	𓀙𓏲𓀀𓏥	138920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓍁𓂝𓉐	155900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnꜥ.w
+
+# sent_id = IBUBd8Tnx7wxH0ZQunXzWIhgck4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (yet) he who used not to sleep on walls (?) is the owner of a bed.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 10]
+1	𓏏𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓋴𓇥𓂋𓁀	150740	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏr
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓇥𓂋𓇋𓏲𓏏𓆱𓏥	184900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏrj.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+7	𓎛𓆰𓈖𓎢𓇋𓇋𓏏	107240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnk.yt
+
+# sent_id = IBUBd7Xpzmq30EW0kfd415agju0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the owner of property spends the night thirsty;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 10] - [7, 11]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+5	𓋴𓇥𓂋𓁀	150740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḏr
+6	𓇋𓃀𓃙𓈗𓀁	23640	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jbi̯
+
+# sent_id = IBUBd9LDfJL03kBSqfb5W5GQw8Q
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the owners of linen are in old clothes;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 11]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓎟𓏲𓏥	81650	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nb
+4	𓍑𓄿𓇋𓇋𓏲𓏏𓍱𓏫	181850	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏꜣ.yt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓇩𓋴𓇋𓇋𓏲𓏏𓆰𓍱𓏫	31270	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jz.ywt
+
+# sent_id = IBUBdWEmUkZskUz4pkLx348UkZE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (yet) he who could not weave for himself is the owner of fine linen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 11] - [7, 12]
+1	𓏏𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓌦𓐍𓏏𓏴𓀜	854548	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫt
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+7	𓊪𓈎𓏏𓏯𓍱𓏫	59330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+
+# sent_id = IBUBd7J3RAdPQEfGlt59NdCLHl8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the (former) owner thereof catches sight of them,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 12]
+1	𓎟𓏏	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+2	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓅠𓅓𓎛𓁻	167270	VERB	verb	VerbForm=Fin	_	_	_	Translit=gmḥ
+5	𓋴𓏏	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBUBd83RRjdToU8lhv0Sn1eFRp4
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (but) they are not his.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 12]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓋴𓏏	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+3	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8LFc6bXM0SPu3Gd1KOaOnQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, he who had no shade is the owner of shade;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 13]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓂜𓏏𓏭𓅪	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+4	𓆄𓏲𓇋𓇋𓏏𓇳𓏏𓏲	152880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šw.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓆄𓏲𓇋𓇋𓏏𓇳	152880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t
+
+# sent_id = IBUBdWpmdZQe0klrmERAQZwwjKc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, he who knew not the arched harp is the owner of a shovel-shaped harp;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 13]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓐍𓅓𓂜	116910	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫm
+4	𓍑𓄿𓍑𓄿𓏏𓆱	182410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣḏꜣ.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+7	𓃀𓈖𓏏𓆱	54650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjn.t
+
+# sent_id = IBUBd5DEqChbLE0IkQbj0YDtyvo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he who could not sing for himself is vaunting Meret.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 14]
+1	𓏏𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓎛𓎿𓋴𓏭𓀁𓏫	109680	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥsi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴𓏲𓉔𓄿𓀁	130540	VERB	verb	VerbForm=Fin	_	_	_	Translit=swhi̯
+7	𓌻𓂋𓏏𓁻𓅆	72050	PROPN	entity-name	_	_	_	_	Translit=Mr.t
+
+# sent_id = IBUBd1gRS844rUiNud69x4pX1jA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the owners of offering-stands of copper, not one vessel is clad for one of them.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7, 14]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓎟𓏲𓏫	81650	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nb
+4	𓎘𓎛𓏲𓏊𓏥	400433	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdḥ.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt
+7	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+8	𓃹𓈖𓐍𓏲𓍼𓏥	46920	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnḫ
+9	𓉔𓈖𓏌𓏲𓏊	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+13	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdyWo0jBE60u1jBxxhNk9KO8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he who was not looked at (or: he who had no sight) stands, being important (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 1]
+1	𓏏𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=tm
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓌳𓁹𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+5	𓊢𓂝𓂻	851887	VERB	verb	_	_	_	_	Translit=ꜥḥꜥ
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓋴𓏲𓂧𓈖𓍖𓊌	130940	VERB	verb	VerbForm=Fin	_	_	_	Translit=swdn
+
+# sent_id = IBUBd6l7f0h2tk5dnlF6MvL8DCI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, he who had nothing is an owner of wealth;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 1]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓂜𓏏𓏭𓅪	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+4	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓊢𓂝𓇤𓏤𓏛𓏥	40280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.w
+
+# sent_id = IBUBd5pogwZKwUa6llBo8U2Wgmc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and the official is praising him.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 2]
+1	𓀙𓀀	138920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sr
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓎿𓋴𓏭𓀁𓏏𓏲	109620	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥzi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2wDIiRMhknVtvWNgINjW40
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the poor of the land have become rich men;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 2]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓈙𓍯𓄿𓏲𓏲𓀃𓅪𓏥	153020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šwꜣ.w
+4	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+6	𓆣𓂋	858535	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓐍𓂤𓏲𓂧𓊋𓏛𓏥𓀀	115320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫwd
+
+# sent_id = IBUBdwafWRviDEmBvQlMfJm0Yac
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, 〈butl〉ers have become owners of attendants.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 2] - [8, 3]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓊪𓏲𓀜𓀀𓏥	51600	_	epitheton-title	Number=Plur|Status=Abs	_	_	_	Translit=wdp.w
+4	𓆣𓂋	858535	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎟𓏲𓏫	81650	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nb
+7	𓍏𓃀𓅯𓄿𓏲𓏊𓀜𓀀𓏥	44930	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wbꜣ
+
+# sent_id = IBUBdW6LRtVml0AinMjJeWwM0GI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (yet) he who was a messenger is sending another.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 3]
+1	𓃹𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄋𓊪𓏲𓏏𓏭𓏴𓂻𓀀	45760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wpw.tj
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓉔𓄿𓃀𓂻	97580	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣb
+6	𓎢𓇋𓇋𓀀	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+
+# sent_id = IBUBd1Ha5rYDkk8ttWuur5NAteQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, he who had no $pꜥ.t$-loaf is the owner of a magazine.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 3]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓂜𓏏𓏭𓅪𓀀	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+4	𓊪𓂝𓏏𓏖	59620	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pꜥ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓅓𓂝𓌨𓂋𓉐	74650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mẖr
+
+# sent_id = IBUBdWv76awOYEDQsuW7fySGoTw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, she who had no casket is the owner of a carrying-(chest);
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 5]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓂜𓏏𓏭𓅪	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+4	𓂾𓋴𓏲𓆱	63110	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pds
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟𓏏	81740	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb.t
+8	𓄿𓏏𓊪𓀋𓆱	323	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣṯp
+
+# sent_id = IBUBd7Yd9AivuU5Gh5CS8D2dwOQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = she who glimpsed her face in the water is the owner of a mirror.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 5]
+1	𓅠𓅓𓎛𓁻	167270	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=gmḥ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟𓏏	81740	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb.t
+8	𓋹𓏤𓈔	38630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBd4uMwI1sNkIhkMLRQWCLpmg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = {For look, ...}
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 5]
+1	𓏏𓈖𓏥	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd3XBIp4oyUORtiWL8zA4FmM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, a man is happy eating his food.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 5] - [8, 6]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓄤𓆑𓂋	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏶𓅓𓏲𓀁	46710	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnm
+7	𓂓𓏤𓈀𓏥	162890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd99iWdGIy0cRmIOw1zti1BI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Consume your things in joy, without having hindrance against you!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 6]
+1	𓊃𓈖𓌰𓅓𓅯𓀁	137400	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=snm
+2	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄫𓏲𓏛𓄣𓏤	42	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜣw.t-jb
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓎛𓆰𓈖𓆰𓈖𓂻	106930	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥnḥn
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6HQJGL3H08pmz5fYAWXQuQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = It is beneficial for a man to eat his food:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 6]
+1	𓅜𓐍𓏲𓏛𓏥	600475	ADJ	adjective	_	_	_	_	Translit=ꜣḫ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓏶𓅓𓏲𓀁	46710	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnm
+6	𓂓𓏤𓈀𓏥	162890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWVh6QpQ4EsvsWVFIGXWdwU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = god allots it to whom he has favoured.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 6] - [8, 7]
+1	𓎘𓏲𓏛	51970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎛𓎿𓋴𓏭𓀁𓈖	109620	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḥzi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2a2SclXW0IDuapLmAfwbzk
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (but) the have-not is slaying him.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 9]
+1	𓂜𓏏𓏭𓅪	23140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jw.tj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴𓌳𓄿𓅓𓏲𓌪𓂡	134370	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQk4ehsO1UHiruW5mSQ4OiM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, he who could not slaughter for himself slaughters shorthorn cattle;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8, 11]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓏏𓍃𓅓𓏛	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+4	𓋴𓆑𓏏𓌪𓂡	133940	VERB	verb	VerbForm=Fin	_	_	_	Translit=zfṯ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴𓆑𓏏𓌪𓂡	133940	VERB	verb	VerbForm=Fin	_	_	_	Translit=zfṯ
+9	𓏶𓈋𓏲𓃒𓏥	47200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnḏ.w
+
+# sent_id = IBUBd6qwHSFfXUjEmE1D5SGprD8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, rich ladies have come to (the point of) hunger;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 1]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓀻𓋴𓏏𓁐𓏫	153840	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šps.t
+4	𓍯𓄿𓏲𓏲𓈐	42550	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓎛𓈎𓂋𓏲𓅪𓏥	110560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqr
+
+# sent_id = IBUBd69YDSHlcEINqHQzse9wyGY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (yet) butchers (?) are satisfied with what has been made for them.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 1] - [9, 2]
+1	𓇓𓏏𓈖𓇋𓇋𓏲𓀜𓀀𓏥	88050	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nsw.y
+2	𓋴𓐠𓄿𓏏𓀁	126200	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sꜣi̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁹𓏏	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd188CcEn0kP3iEf8oC5CMG0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, every office - it is not in its place, like a wandering herd without its herdsmen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 2]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓇋𓄿𓏲𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+9	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+10	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+11	𓇋𓂧𓂋𓎩𓃒𓏥	34150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jdr
+12	𓏏𓈖𓃀𓏲𓄡𓏏𓄔	172520	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=tnbẖ
+13	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+14	𓀦𓏲𓏛𓀜𓀀𓏥	70310	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mnj.w
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2gBx0ozpERQm78RKb4UwWE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, cattle are wanderers with on one to herd them;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 2] - [9, 3]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓃒𓏥	30410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḥ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎗𓏲𓇋𓇋𓏲𓂻	52300	VERB	verb	Number=Plur|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=wḏi̯
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓈖𓍇𓏌𓏲𓇋𓇋𓏛𓀜𓀀	81230	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nwi̯
+8	𓋴𓏏	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBUBdykddiIG6kfnrZX53ZoykUY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = every man fetches for himself the one branded with his name.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 3]
+1	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏎𓈖𓏏𓏲	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓋁𓃀𓏲𓌪	60	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ꜣbu̯
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxnGXSW0507nkxucVzKGEJs
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, a man is slain at his brother's side;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 3]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓋴𓌳𓄿𓅓𓏲𓌪𓂡𓏏𓏲	134370	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smꜣ
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓂋𓐛𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+6	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5mffE5Eikw4kUjLV86q7JI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, he who had no ox-span is the owner of a herd;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 3] - [9, 4]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓂜𓏏𓏭𓅪	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+4	𓎛𓏏𓂋𓇋𓆳𓏛𓏥	111800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥtr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓇋𓄿𓂧𓂋𓎩𓃒𓏥	34150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jdr
+
+# sent_id = IBUBd0kTJmL2P0KcgQkkPBnPp9I
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he who could not find for himself plough-oxen is the owner of cattle.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 4]
+1	𓏏𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓅠𓅓𓏛	167210	VERB	verb	VerbForm=Fin	_	_	_	Translit=gmi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓂓𓄿𓍁𓃒𓏥	146630	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=skꜣ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓏠𓈖𓏠𓈖𓃒𓏥	70730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnmn.t
+
+# sent_id = IBUBd8EsC3brsUzFj0UNVIYbCvQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he who took out for himself a grain-loan is one who loans it out.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 5]
+1	𓏎𓈖	26870	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jni̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅷𓄿𓃀𓏏𓌽𓏥	174570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯꜣb.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂞𓂞	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+7	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+8	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd7HWTsssJ0F9qpfzcOgBgAc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, he who had no dependants is the possessor of subordinates,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 5]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓂜𓏏𓏭𓅪	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+4	𓋴𓐠𓄿𓎛𓃃𓂻𓀀𓁐𓏥	126990	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sꜣḥ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓌻𓂋𓏏𓀀𓁐𓏥	72040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.wt
+
+# sent_id = IBUBdW7G3B5lQUbIr9FCNuqUI3E
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, all craftsmen, they have (ceased) to work; the enemies of the land impoverish its professions.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 6]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓍍𓅓𓏲𓏛𓀜𓀀𓏥	105480	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥmw.w
+4	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+5	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+6	𓅡𓎢𓏲𓀜	53800	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bꜣk
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓋴𓈙𓍯𓄿𓏲𓏲𓀃𓅪𓏥	144780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšwꜣ
+9	𓐍𓆑𓏏𓅂𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḫft.j
+10	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+11	𓍍𓏲𓏏𓀀𓏥	105360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥmw.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxkonHXDo0URoT9aKswcDxI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = day does not dawn on it.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 11]
+1	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+3	𓌉𓆓𓇳	112301	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥḏ
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd1YKuOi4EEeEh5N6fkyxp3c
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = he is seized, laden with his things;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 13]
+1	𓎁𓏏𓏏𓀜𓏏𓏲	33560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄿𓏏𓊪𓀋𓀜	340	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣṯp
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwkmSdMZQEHWgGycIJA2RVo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = It is the commoner who will be vigilant;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9, 14]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓈖𓆓𓊃𓅪𓀀	91770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḏs
+3	𓍟𓁻	95940	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rs
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0Ep4OQDjECZlLyoEGCcTb8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = day dawns on him, (then) he has no terror;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10, 1]
+1	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓌉𓆓𓇳	112301	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥḏ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓁷𓂋𓇋𓇋𓏏𓐡𓀜𓀀𓏥𓏏𓏲	108390	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr.yt
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd18QvozQPEnLtr0rdkf2GWI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = one runs about upside down (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10, 1]
+1	𓋴𓐍𓋴𓂻	142990	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zḫz
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓌷𓂝𓏲𓆀𓄹𓏥	66530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣꜥ
+
+# sent_id = IBUBd8jrIOiba0NMlE53on55vVU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Destroyed is the doing of what is sent about by followers on errands of their (own) lords - they have no terror.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10, 2]
+1	𓌉𓆓𓏏𓏴𓅪𓏥	112660	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥḏi̯
+2	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓉔𓄿𓃀𓂻𓏏𓏲	97580	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=hꜣb
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓌞𓋴𓏲𓂻𓀀𓏫	155030	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šms.w
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓄋𓊪𓏲𓏏𓏴𓀁𓏫	45750	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=wpw.t
+10	𓎟𓏲𓏥	81650	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nb
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+12	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+13	𓁷𓂋𓇋𓇋𓏏𓐡𓀜𓀀𓏥	108390	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr.yt
+14	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdxBILW2WMkkKsjYUCrbuKAc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = "Go on a way you know, for we have arrived!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10, 3]
+1	𓈝𓅓𓏲𓂻𓏥	154340	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šmi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+4	𓂋𓐍𓏛𓈖	95620	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=rḫ
+5	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+8	𓄭𓂋𓂻𓏲𓏭𓈖𓏥	132830	VERB	verb	Number=Plur|Gender=Com|VerbForm=Conv	_	_	_	Translit=spr
+
+# sent_id = IBUBd582EAVL003RkYfYeRjORi0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Let the Marshland weep,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10, 3]
+1	𓂋𓅓𓇋𓇋𓁿	94180	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=rmi̯
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇾𓎔𓎛𓏲𓇇𓆰𓏫𓊖	169120	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-mḥ.w
+
+# sent_id = IBUBdzyjfauGJUkOgEQ81O00oVg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = To it belongs barley and emmer, fowl and fish.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10, 4]
+1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+3	𓇣𓏏𓏭𓌽𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+4	𓄿𓊪𓂧𓏲𓅯𓏥	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+5	𓂋𓅓𓏲𓆟𓏥	94160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rm
+
+# sent_id = IBUBdQX5HVLnz0x3iXRw9iYOkMY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = To it belongs white linen and fine linen, copper and oil.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10, 4]
+1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓌉𓏏𓏯𓍱𓏫	112420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥḏ.t
+3	𓊪𓈎𓏏𓏯𓍱𓏫	59330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+4	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt
+5	𓌻𓂋𓎛𓏏𓏊𓏫	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBUBd6FvP9xLaUlguOEvLjs2lBI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = but the Overseer of the City goes about without an escort.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10, 7]
+1	𓈝𓅓𓏲𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+2	𓄟𓋴𓀁	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓅓𓂋𓊖𓏏𓏤	400045	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-nʾ.t
+4	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+5	𓋴𓆈𓏥𓂻	129280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥšꜣ
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6NPn1MupU9cq4rdu95TBbM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Remember the chewing of natron, the preparing of white bread by a man on the day of bathing the head.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11, 2]
+1	𓋴𓆼𓄿𓀁𓏫	141620	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḫꜣ
+2	𓏲𓈙𓂝𓄑𓀁	50270	VERB	verb	VerbForm=Fin	_	_	_	Translit=wšꜥ
+3	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+4	𓋴𓋴𓊪𓂧𓏛	143970	VERB	verb	VerbForm=Fin	_	_	_	Translit=sspd
+5	𓏏𓏐𓏒𓏥𓌉𓇮𓏒𓏥	168830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-ḥḏ
+6	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+8	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=hrw
+9	𓃛𓏲𓎛𓈗	23000	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwḥ
+10	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBUBdyqfl98ZBUiPoIF2xcTpThU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Remember the adhering to regulations, the fixing of dates, the removal of one initiated into ritual purity because of bodily vileness
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11, 4] - [11, 5]
+1	𓋴𓆼𓄿𓀁𓏫	141620	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḫꜣ
+2	𓈖𓇥𓂋𓀜	91670	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḏri̯
+3	𓁶𓏤𓂋𓂧𓂾𓏤𓏛𓏥	171210	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tp-rd
+4	𓈙𓃀𓈙𓃀𓏴𓏛	153560	VERB	verb	VerbForm=Fin	_	_	_	Translit=šbšb
+5	𓋴𓋴𓋴𓏲𓇳𓏥	854542	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sw
+6	𓄞𓂧𓏏𓂡	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+7	𓃀𓋴𓆟𓂻	854509	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=bzi̯
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓃂𓏏𓈗	44440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥb
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓄡𓊃𓏏𓅪	124640	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ẖz.yt
+12	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+
+# sent_id = IBUBd9PshbbJw0E6uj1DS8KaTUY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = - this is doing it wrongly,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11, 5]
+1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓅓𓈖𓆑𓅪	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd9WWWUBSTEvrsPRDAG5hT9M
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = One says: "He is the shepherd of everyone.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓀦𓏲𓏛𓀜	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓃀𓏲𓎟𓀀𓁐𓏫	55210	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bw-nb
+
+# sent_id = IBUBd0iwm4R0G0qpiFEhUUsz2p8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = There is no evil in his heart".
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓃀𓇋𓈖𓅪	54620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxQPBvJET0Obo5WvQuRO1TU
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (But) his herd is lacking, even though he has spent the day caring for them,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 1]
+1	𓂝𓈖𓂧𓅪	500588	ADJ	adjective	_	_	_	_	Translit=ꜥnḏ
+2	𓇋𓄿𓂧𓂋𓎩𓃒𓏥	34150	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jdr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+7	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓈖𓍇𓏌𓏲𓏛𓀜	81230	VERB	verb	VerbForm=Fin	_	_	_	Translit=nwi̯
+10	𓋴𓏏	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBUBd2twyWYOlEJXqcwNcDBrHU0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = since fire belongs to the heart(s) thereof!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 2]
+1	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBd9hWlGleHk6IiyPagY6qW7s
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = If only he would have recognised their characters in the first generation,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 2]
+1	𓇉𓄿	100160	PART	particle	_	_	_	_	Translit=ḥꜣ
+2	𓎙𓂧𓏛	41910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḏ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓃀𓇋𓏏𓄑𓎺𓏛𓏥	54410	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bjꜣ.t
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄡𓏏𓏤𓄹𓀀𓏥	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+8	𓁶𓊪𓏏𓏛	171460	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=tp.j
+
+# sent_id = IBUBd2VbvYthGEMfky9WZHwxduE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and want is everywhere.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 3]
+1	𓋴𓐠𓄿𓂋𓇋𓇋𓌗𓅪𓏥	126810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣr
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdxRXWLSmI0QDszT05nS9kfw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = So it is,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 3]
+1	𓈖𓆑𓄿𓏭𓈐	83340	PRON	pronoun	PronType=Dem	_	_	_	Translit=nfꜣ
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd5DsmnAyHUKRm6lizaDydkQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = From the wives of men comes forth seed,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 4]
+1	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓄝𓏏𓇋𓇋𓏏𓂺	855635	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.yt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈞𓏏𓁐𓏫	104730	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḥm.t
+5	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBd29NmTYFT09tjBl456ubNnk
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (yet) no one can be found on the road, for fighting has come forth,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 4]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓅠𓅓𓈖𓏏𓏲	167210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+5	𓎛𓀜𓏷𓀜𓈖𓏭𓂋𓁷𓏤𓀜	650061	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥw-n.y-r-ḥr
+6	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=pri̯
+
+# sent_id = IBUBd1hqCjj91kSev6BkyM7TfEw
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and the repeller of wrongs is (now) one who creates them.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 5]
+1	𓂧𓂋𓀜	180130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dr
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓃛𓏲𓅪𓏥	21990	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓆣𓂋	142050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḫpr
+6	𓋴𓈖𓏥	136190	PRON	pronoun	PronType=Prs	_	_	_	Translit=sn
+
+# sent_id = IBUBd6iw5qWl9Unpgr1eeXb8oqI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = There is (are) no pilot(s) on duty.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 5]
+1	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇋𓂝𓈙𓀁𓈖𓄂𓏏𓏤	40980	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥš-ḥꜣ.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wnw.t
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdWEoPwS6wEl2gwPWXBattXI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Where is he today?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 5]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏏𓈖𓏭𓌙𓅯𓏛	175740	PRON	pronoun	PronType=Int	_	_	_	Translit=ṯnj
+6	𓏇𓇋𓈖𓇳	68330	ADV	adverb	_	_	_	_	Translit=mjn
+
+# sent_id = IBUBd3XAktEga0tBqAdX5LvRG6w
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Is he perhaps asleep?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 5]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏏𓂋𓇋𓆳𓀁	172720	PART	particle	_	_	_	_	Translit=tr
+5	𓋴𓇥𓂋𓁀	150740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḏr
+
+# sent_id = IBUBdypAcwIQP0Rml7KfJ9Myb58
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, the wrath thereof cannot be seen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 5] - [12, 6]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+4	𓌴𓁹𓄿𓄿𓈖𓏏𓏲	66270	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+5	𓅢𓏤𓏛𓏥	53300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ.w
+6	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBd9D3yTUyTUYkoyG8yhxmn3c
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = If we have been saddened, I cannot find you;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓊃𓈖𓌰𓅓𓅯𓅪𓈖𓏏𓏲	137420	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snm
+3	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+5	𓅠𓅓𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+
+# sent_id = IBUBdysvs0dsvU7vhbK0TgYw5Tc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = The Lord of Everything made the separation of the sky from the earth,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 11]
+1	𓎟𓏏𓍃𓅓𓏛	851606	_	epitheton-title	_	_	_	_	Translit=nb-tm
+2	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓃛𓏲𓂧𓂻	23220	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwd
+5	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓅭𓏏𓏲𓈇𓏥	127650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣṯ.w
+
+# sent_id = IBUBd8iCWcImKEVGlBHQ4rbUv5E
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (but) fear is on every face when he comes (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 11]
+1	𓅾𓀁	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓁷𓏤𓎟𓀀𓁐𓏫	108020	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥr-nb
+4	𓇋𓇋	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQCX44FfBkqWmYXMKfsfWmo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Utterance, Perception, and Truth are with you,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 12]
+1	𓎛𓏲𓄑𓏛𓅆	500190	PROPN	entity-name	_	_	_	_	Translit=Ḥw
+2	𓋷𓄿𓀁𓅆	127850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjꜣ
+3	𓌷𓂝𓏏𓆄𓏛𓏥𓅆	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+4	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdymofSYbNUT5usO8gRXhObI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Look, one person sets (himself) against another, one emulates what you have ordered!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 13]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓎢𓇋𓇋𓀀	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓏲𓂧𓏴𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓎢𓇋𓇋𓀀	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+8	𓊃𓈖𓏭𓏒𓂻	854546	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zni̯
+9	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓎘𓏲𓏛𓈖	51970	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=wḏ
+12	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd1Wfvtxq6UFBn0uH96tl2Pc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = The many slay the few.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 14]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓆈𓏏𓏥	41050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥšꜣ.wt
+3	𓋴𓌴𓄿𓅓𓏲𓌪𓂡	134370	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smꜣ
+4	𓂝𓈖𓂧𓏏𓅪	39050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥnḏ.t
+
+# sent_id = IBUBd45TXR7UWE9xtkMcDsW2BQA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Is (he) a shepherd who has loved death?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 14]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓀦𓏲𓏛𓀜	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+5	𓌻𓂋𓀁	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mri̯
+6	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+
+# sent_id = IBUBd0sYWUMyqkgahHqEAvBjRYo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Then you should order the making of an answer:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12, 14]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓎢𓄿𓀁	400415	PART	particle	_	_	_	_	Translit=kꜣ
+3	𓎘𓏲𓏛	51970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓅱𓈙𓃀𓏴𓀁	50350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšb
+
+# sent_id = IBUBdw0i8c7l20pTmTHe62uMqnY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = one is a possessor of love,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 1]
+1	𓈖𓌻𓂋𓏲𓏏𓀁𓏫	79890	ADJ	adjective	_	_	_	_	Translit=n.j-mrw.t
+2	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓌡𓂝𓏤𓀀	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdw3o4kzcxkf1jsF7W4u8gFI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and another is heated.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 1]
+1	𓄟𓋴𓂧𓅪	76210	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msḏi̯
+2	𓎢𓇋𓇋𓀀	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+
+# sent_id = IBUBdW7RqDFw9EQXrvRWVG3nTPA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (But) it is the case that their forms are lacking everywhere,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 1]
+1	𓂝𓈖𓂧𓅪	39040	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḏ
+2	𓆣𓂋𓏲𓀾𓏛𓏥	116300	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫpr.w
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd3eY9YVAHkGCpxWopbKsGUE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the land is as $kꜣkꜣ$-plants
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 2]
+1	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂓𓄿𓂓𓄿𓆰𓏫	163690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣkꜣ
+
+# sent_id = IBUBdQb9DEksvE3BnJMRzvkZLRg
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and people are destroyed!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 2]
+1	𓋴𓎛𓊨𓅓𓏲𓅯𓅪𓏫	141190	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥtm
+2	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBd8WktRtyW0k4lv1o06RR1UI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = No one has planned on living;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 2]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓎢𓄿𓀁𓐎	163220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣi̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋹𓈖𓐍	38530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBdwmcoaZLmUdjjzCXZEdOGEM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = All these years are strife.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 2]
+1	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+2	𓂋𓄫𓏲𓏛𓏥	91930	ADP	preposition	_	_	_	_	Translit=r-ꜣw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓆳𓏏𓏥	94920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rnp.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇉𓄿𓂝𓇋𓇋𓏛𓀜𓏫	101000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣꜥ.yt
+
+# sent_id = IBUBd5lSQiu2ok63vKHmiqMM2Nk
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = A man is killed on his rooftop,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 3]
+1	𓄡𓂧𓃀𓏲𓌪𓂡𓏏𓏲	124950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖdb
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓁶𓏤𓉗𓏏𓉐	171260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp-ḥw.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7mmSO2zXESjtCVfb4dmJ2A
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (even though) he is vigilant at his boundary house.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍟𓁻	95940	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rs
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓏏𓍔𓄿𓈙𓏴𓈇𓏤	169650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣš
+
+# sent_id = IBUBdQINcXuOrERDjkVUGTGaDQo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Is he strong, that he might save himself?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 3]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓈎𓈖𓀜	854565	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qni̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖𓈞𓅓𓀜	86430	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdz3NLpFDt0FwhzFBUq0jekM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = In that case he will live!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 3]
+1	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd9wpSPXea0efu5aSx3fshTA
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = the road is netted as he stands suffering;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 4] - [13, 5]
+1	𓇋𓏏𓎛𓏲𓏛𓀜𓏏𓏲	33410	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jtḥ
+2	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+3	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓈖𓈖𓇋𓅪	137660	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=znnj
+
+# sent_id = IBUBd1UJPKdlfkGttiGtbXAcHCI
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = what is on him is to be taken away,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 5]
+1	𓈖𓈞𓅓𓀜	86430	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+2	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdy4tlztQPEjkvi7hXOmrcno
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (he is) to be treated with blows of the stick,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 5]
+1	𓐍𓈖𓌰𓅓𓂉𓏛	854533	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnm
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓐍𓏴𓀜	141420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zḫ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓆱𓏏𓏤	121200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫt
+
+# sent_id = IBUBdWgcJ8K9pUCDun7axXLkA9A
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = and (he is) to be killed wrongly.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 5]
+1	𓄡𓂧𓃀𓏲𓌪𓂡	124950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖdb
+2	𓅓𓈖𓆑𓄿𓅪	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzUZ8wLo8kFkpDi26i3TWr8
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = when ways are open.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 12]
+1	𓅓𓂝𓏏𓈖𓏌𓏲𓌙𓅯𓈇𓏥	77960	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mṯn
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓈝𓅓𓏏𓂻	154400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šm.t
+
+# sent_id = IBUBdWhqpozscEfgqG3IJeHZUDE
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Indeed it is good when jubilation is in mouths.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13, 14]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈞𓅓𓏲𓏛𓀜	104600	PART	particle	_	_	_	_	Translit=ḥm
+5	𓄤𓆑𓂋	854519	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nfr
+6	𓈖𓉔𓅓𓀁	85580	VERB	verb	VerbForm=Fin	_	_	_	Translit=nhm
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓏥	92560	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rʾ
+
+# sent_id = IBUBdxZiMI3hJ0Y9pZogCFPYglc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Indeed it is good when beds are smoothed (?), and headrests of officials are well (?) fastened (?); when the need of every man is fulfilled with a blanket in the shade, and the door is closed on him who slept in a bush.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [14, 1] - [14, 3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈞𓅓𓏲𓀜	104600	PART	particle	_	_	_	_	Translit=ḥm
+5	𓄤𓆑𓂋	854519	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nfr
+6	𓄿𓍘𓇋𓏲𓏏𓆱𓏥	334	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣṯ.t
+7	𓄿𓂧𓏏𓏛𓀜	349	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜣd
+8	𓅨𓂋𓋴𓏲𓆱𓏥	48090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wrs
+9	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+10	𓀙𓏲𓀀𓏥	138920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sr
+11	𓅷𓄿𓂋𓐡𓀜	858887	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ṯꜣr
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓏲𓍑𓄿𓏛𓏥	52100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ
+14	𓋴𓐠𓄿𓂋𓏏𓌗	126870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sꜣr.t
+15	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+16	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+17	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+18	𓆎𓅓𓏛𓍘𓇋	164370	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=km
+19	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+20	𓇋𓆑𓂧𓏭𓂢𓍱	24590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jfd.j
+21	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+22	𓆄𓏲𓇋𓇋𓏏𓇳	152880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t
+23	𓉻𓉿𓏤𓆱	34810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣ
+24	𓐍𓏏𓅓𓏲𓋩𓀜	121710	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫtm
+25	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+26	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+27	𓋴𓇥𓂋𓁀	150740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḏr
+28	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+29	𓃀𓅯𓄿𓏭𓆰𓏫	52960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bꜣ.t
+
+# sent_id = IBUBd7tA8dQgIklpkSJaOFsnA40
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = One says: "The state/manner thereof is finished for them".
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [14, 11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+4	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫr
+5	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+6	𓐖𓈖𓏛	160990	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qn
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd6FAbOxQw0APo0F6FOjDC20
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = every man fights because of his sister, (but) protects himself.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [14, 12] - [14, 13]
+1	𓂚𓄿𓀜	39920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜣ
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌢𓏏𓁐	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓𓂝𓎢𓏛	77020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mki̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdx3cFW5J5UwYksgJCabgmx0
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (Is it) Nubians?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [14, 13]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓅘𓎛𓋴𓇋𓇋𓌙𓀀𓏥	86650	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nḥs.j
+
+# sent_id = IBUBdxvOopJu5k9HtzAL6PTw6Eo
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Is it Libyans?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [14, 13]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓍘𓅓𓎛𓏭𓌙𓀀𓁐𓏥	175490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯmḥ
+
+# sent_id = IBUBd4wgvxMmnk2woMo8WjXEAzQ
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Then let us act too,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [14, 14]
+1	𓎢𓄿𓀁	400415	PART	particle	_	_	_	_	Translit=kꜣ
+2	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓈖𓏫	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓂝𓈖𓏌𓏲𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBdzg8zYFABkE1iuqxWoQddGY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = since the Medjay are well-disposed towards Egypt!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [14, 14]
+1	𓅓𓂝𓍑𓄿𓇋𓇋𓏲𓌙𓀀𓏥	854516	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mḏꜣ.y
+2	𓇛𓅓𓏲𓏛𓏥	500020	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏm
+3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+4	𓆎𓅓𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+
+# sent_id = IBUBd3JtRQznmU5rijYZPK1FvCc
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (But) how, when every man slays his brother, and the youth whom we would raise for ourselves have become bowmen, having fallen to destroying.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [14, 14] - [15, 1]
+1	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+2	𓅓𓂝	64430	PRON	pronoun	PronType=Int	_	_	_	Translit=m
+3	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴𓌳𓄿𓅓𓏲𓌪𓂡	134370	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣ
+9	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓍑𓄿𓅓𓏲𓀔𓀀𓁐𓏥	182160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣm
+12	𓋭𓊃𓏛𓀜	854581	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ṯzi̯
+13	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+14	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+15	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+16	𓆣𓂋𓏲	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓌔𓏏𓏤𓌙𓀀𓁐𓏥	63300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pḏ.tj
+19	𓍯𓄿𓏲𓈐	42550	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+20	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+21	𓐍𓃀𓅯𓄿𓌻𓂡	115490	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫbꜣ
+
+# sent_id = IBUBdQ8POS1tOEIQmQXyDEoQysk
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = Now, all foreigners are afraid of it,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [15, 2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓈉𓏏𓏤𓌙𓀀𓁐𓏥	114320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣs.tj
+4	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+5	𓌨𓂋𓏏	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓋴𓈖𓂧𓏲𓅾𓀁𓏫	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwA7nqv42kg5rWbNmHhye80
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = (and) the experience of the sub[jects] says:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [15, 2]
+1	𓂧𓊪𓏏𓄓𓀁	179020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dp.t
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂋𓐍𓇋𓇋𓏏𓅚𓀀𓁐𓏫	95820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rḫ.yt
+4	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+
+# sent_id = IBUBd9oxK0xqFUkRiZGCqABCw18
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = You have done good in their hearts, and have made people live by them.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [15, 14]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓄤𓆑𓂋	83510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nfr
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓄣𓏤𓏫	23290	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jb
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓋴𓋹𓈖𓐍𓈖	128910	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥnḫ
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd0mVlTdzsEKouw9b2m1WvdM
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = There is an aged man, (just) before he crosses over.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [16, 1]
+1	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓏏𓈖𓇋𓌙𓀗𓐎	172420	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=tnj
+5	𓁶𓏤𓂝𓏤	851451	ADP	preposition	_	_	_	_	Translit=tp-ꜥ
+6	𓋴𓏲𓍑𓄿𓏱	130970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swḏꜣ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9aFrlVRj0XUvlAV8LpL8rY
+# corpus = sawlit
+# src_text_id = GJA5VMSJDFAOPG6TP6ZYY3KCRI
+# src_text = sawlit:pLeiden I 344 Recto//Admonitions ⸗ Ipuwer
+# owner = Roland Enmarch
+# text_de = His son is a child without understanding,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [16, 1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅭𓏤𓀀	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈖𓐍𓈖𓀔𓀀	87250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫn.w
+6	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓋴𓐠𓄿𓂋𓏏𓌗𓀁𓏫	126860	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜣr.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

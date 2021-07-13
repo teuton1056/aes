@@ -1,0 +1,25 @@
+# sent_id = IBUBd7F3tQEL0ka3hReLRVIYvs4
+# corpus = sawlit
+# src_text_id = VJ5IRDYR65H7FADQHMLBG4A3EQ
+# src_text = sawlit:Stele des Inhernacht (BM EA 559)//〈Stele des Inhernacht (BM EA 559)〉
+# owner = Alexander Schütze
+# text_de = Opfertisch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓂧𓃀𓎛𓏏𓊵	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdWi8MEgpP0Pfm4cfWOMAkMg
+# corpus = sawlit
+# src_text_id = VJ5IRDYR65H7FADQHMLBG4A3EQ
+# src_text = sawlit:Stele des Inhernacht (BM EA 559)//〈Stele des Inhernacht (BM EA 559)〉
+# owner = Alexander Schütze
+# text_de = Seine Ehefrau, die er liebt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

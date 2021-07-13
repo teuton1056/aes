@@ -1,0 +1,316 @@
+# sent_id = IBcBkiXVtz7ecUthhHwWlvp8TpY
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Beseitigen der schwindenden Bitternis-Krankheit (???):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,16]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓂧𓁷𓂋𓏏𓄛𓏪𓊄𓃀𓏏𓅪𓏪	180460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dḥr.t-zb.t
+
+# sent_id = IBcBkhc1DZvHqUohlUlzUf8HN8g
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Mehl der Dattel: 1/32 (Oipe ⸗ 2 Dja), Wasser: ein halbes (Dja) (oder: 1/2 (Oipe ⸗ 32 Dja)).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,16]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qꜣw
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+4	𓂅	850815	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+6	𓐛	863636	SYM	numeral	_	_	_	_	Translit=gs
+
+# sent_id = IBcBknVcFEHGwkKesGHpjhaM8QY
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde handwarm (wörtl.: in der Wärme eines Fingers) getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,17]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓂋𓆑𓊮𓏛	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+
+# sent_id = IBcBkioGR20Gq0sxlC8VZSxchk0
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde danach zum Erbrechen gebracht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,17]
+1	𓋴𓈎𓂝𓂐	146030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sqꜣꜥ
+2	𓅓𓆱𓐍𓏏𓂻	65310	ADV	adverb	_	_	_	_	Translit=m-ḫt
+
+# sent_id = IBcBkqrBeRcPJ0idlntuJleYGA0
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Um die schwindende Bitternis-Krankheit zu beseitigen und um sie $hr$ zu machen von allen (möglichen) Körperteilen, werde es getan.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,18]
+1	𓁹𓂋𓏏𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓂧𓁷𓂋𓏏𓄛𓏪𓊄𓃀𓏏𓅪𓏥	180460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dḥr.t-zb.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓉔𓂋𓂝	98910	VERB	verb	VerbForm=Fin	_	_	_	Translit=hr
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+11	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBklttPfjheENKrxHg3hglX3M
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = (Heilmittel zum) Beseitigen des $nsy.t$-Phänomens in den Augen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,18] - [89,19]
+1	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓈖𓄓𓋴𓇋𓇋𓏏𓏱	87970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nsy.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+
+# sent_id = IBcBktaHdvQ4FEQuhGjjcKphZBA
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = $bsbs$-Pflanzen: 1, $ꜥfꜣ$-Lattich (?): 1, $ḏꜣs$-Pflanzen: 1, $jḥ.w$-Pflanzen: 1, süßes Bier: 1/64 (Oipe ⸗ 1 Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,19]
+1	𓃀𓋴𓃀𓋴𓈒𓈒𓏥	57440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bsbs
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓂝𓆑𓄿𓆰𓏥	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓇋𓎛𓏲𓆰𓏥	30630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ.w
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+10	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+11	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcBki0eUpQyvEzqpEykvMj3J0w
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde von einem Mann getrunken, der unter dem $nsy.t$-Phänomen (leidet).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,20]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓈖𓄓𓋴𓇋𓇋𓏱𓏏	87970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nsy.t
+
+# sent_id = IBcBkjWpCNa8zkoJr67PwKE8BX4
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen des $nsy.t$-Phänomens in einem Mann:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈖𓄓𓋴𓇋𓇋𓏏𓏱	87970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nsy.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcBkiR64VfoEkubsdi07pyXBTs
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,22]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBknKjvisDBEajk2g62ltrNxo
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,22]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+
+# sent_id = IBcBktT764KHQUtmn25Tazw9how
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,22]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkrGXlN5vYEQQhNLOxdiKCSY
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde vortrefflich mit gegorenem Pflanzenbrei gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,22] - [89,23]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂝𓍯𓄿𓇋𓇋𓏏𓏌𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓏠𓈖𓐍𓍊𓏛	400111	ADV	adverb	_	_	_	_	Translit=mnḫ
+
+# sent_id = IBcBks6YkXiyCkHzhsvDWDX3jus
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,23]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+
+# sent_id = IBcBkmfjl9h2nUWgt6K9XE3Epww
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,23]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkiFqlWQ57UmrqllaXOZ0hrA
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,2]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBkqvXp4k09E6Tut8s2WHQ4T4
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,2]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+
+# sent_id = IBcBkvIrt2WUTkmpuhueVIKYkDs
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkkpHLxGkr0FvjteCJvv6Crw
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBksc0SuWxQ0UEnVyC3H5TFd8
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,4]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏟𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcBknc7iPdhnEWQhLSqjYoAVEc
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = werde in Wein gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,4]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓂋𓊪𓏌𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+
+# sent_id = IBcBkiLMTSOhTESehq982KyMQUk
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = Werde von einem Mann getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,4] - [90,5]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcBkud7AT4RQ0nouqRfnxDnaGw
+# corpus = sawmedizin
+# src_text_id = JMBIZHE2CJGYBAVGNUM6LBXSJQ
+# src_text = sawmedizin:Papyrus Ebers//89,16-90,5 ⸗ Eb 750-756: Heilmittel gegen dämonische Krankheiten
+# owner = Lutz Popko
+# text_de = So entfernt sie (d.h. die Krankheit) sich sofort.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,5]
+1	𓂋𓏲𓇋𓂻𓐍𓂋	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+

@@ -1,0 +1,19 @@
+# sent_id = IBUBdxfEbM5uokunhQ4t0CokOBY
+# corpus = sawlit
+# src_text_id = ULPVC3JSERDL7P6OPZJNVEGTS4
+# src_text = sawlit:Stele des Henwen (Kairo JE 36346)//〈Stele des Henwen (Kairo JE 36346)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one who speaks well and repeats well, who does a thing the right way.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+3	𓄤	400458	ADV	adverb	_	_	_	_	Translit=nfr
+4	𓄙	48440	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḥm
+5	𓄤	400458	ADV	adverb	_	_	_	_	Translit=nfr
+6	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓐍𓏏𓏝	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓁶𓏤𓄤	171120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tp-nfr
+

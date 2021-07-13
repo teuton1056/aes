@@ -1,0 +1,24 @@
+# sent_id = IBUBdx1ZHR1oREdLhBNch1zxwck
+# corpus = bbawgrabinschriften
+# src_text_id = JCPMFCM545EVTLC7VW5SWOL6ZM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Vorsteher der Schreiber der $zꜣb$-Verwaltung Chem-Achti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] -  [2]
+1	𓃥𓅓𓂋𓏞	450596	_	epitheton-title	_	_	_	_	Translit=zꜣb-jm.j-rʾ-zẖꜣ.ww
+2	𓏏𓅜𓍛𓅓	704676	PROPN	entity-name	_	_	_	_	Translit=Ḥm-ꜣḫ.tj
+
+# sent_id = IBUBd3Y7C34mZkYmhrvKialBE48
+# corpus = bbawgrabinschriften
+# src_text_id = JCPMFCM545EVTLC7VW5SWOL6ZM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Besteuern der Dorfschulzen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓇋𓊪𓏛	24070	VERB	verb	VerbForm=Fin	_	_	_	Translit=jp
+2	𓋾𓅱𓀀𓀀𓀀	110360	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥqꜣ
+

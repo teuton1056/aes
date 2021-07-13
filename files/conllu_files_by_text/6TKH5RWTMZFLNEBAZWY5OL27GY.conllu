@@ -1,0 +1,220 @@
+# sent_id = IBUBd1QL28BVJUyBlXMQo9Z5WYo
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Buchrolle zum Beseitigen eines $nsy$-Dämons und einer $nsy.t$-Dämonin:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.2]
+1	𓏛𓏏𓏤𓍼𓏤	78470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏꜣ.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈖𓄓𓊃𓇋𓇋𓏱	87960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nsj
+5	𓈖𓄓𓊃𓇋𓇋𓏏𓏱	87970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nsy.t
+
+# sent_id = IBUBdxYDWQ6hhEiqsVhWnswxRyc
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Du sollst nicht sein im Himmel.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBdzk3nU3zwUSCvNNNHjkVt4U
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Du sollst nicht sein in der Erde.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd5ulRY3eFUAMtW1eLnpi62s
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Nicht bist du in der Unterwelt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.3]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇼𓄿𓏏𓉐	854583	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dwꜣ.t
+
+# sent_id = IBUBd0nWXtwJy0QtgdOgnEFo2EY
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Nicht bist du in der Urflut.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.3]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈖𓏏𓏯𓈗𓈘𓈇	79020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=n.t
+
+# sent_id = IBUBd0lVW7U5W0RZmcSXXl10Icg
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Nicht bist du in Lebewesen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.3]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓏏𓏯	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆣𓂋𓏲𓁸	116290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫpr.w
+
+# sent_id = IBUBd3cdFTFEqk0nslKZ7WBNQl8
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Nicht bist du in einem Gott (oder) einer Göttin.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.4]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+5	𓊹𓏏𓂋𓇋𓇋𓏏𓆇𓅆	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+
+# sent_id = IBUBd2vxgoVrk07AoZyELZLeiFI
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Du sollst nicht kommen gegen NN., den geboren hat die NN., noch sollst du über ihn herfallen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.4]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂻𓏲𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+6	𓏯𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+7	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+8	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+9	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+10	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=hꜣi̯
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1BjLsqHDUPvo2zNTFnPrN8
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Du sollst nicht tun deine üblichen Dinge an ihm.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.4] - [Vso 2.5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖𓏏𓂝𓏤𓏛𓏥	89770	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n.t-ꜥ
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0tBnW6BzE0DhUN8ZNQlrQg
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Hüte dich, zu fressen seine Gliedmaße, an dem NN., den geboren hat die NN.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.5]
+1	𓀸𓄿𓏲𓀜	126290	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zꜣu̯
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏶𓅓𓏲𓀁	46710	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnm
+5	𓂝𓏤	854495	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+9	𓏯𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+10	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBUBdwvzxy8GR0wmoA6YPtQVIzs
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Ein anderer Spruch:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.5]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+
+# sent_id = IBUBdWwSpDmEuUjIgGIPsGFuhJI
+# corpus = sawmedizin
+# src_text_id = 6TKH5RWTMZFLNEBAZWY5OL27GY
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Verso: 〉Magische und medizinische Texte
+# owner = Marc Brose
+# text_de = Was das Wachen betrifft, das ihr über Osiris macht,  macht dies auch über NN. den geboren hat die NN.,   um zu verhindern, dass ihn tötet irgendein Toter, irgendeine Tote, irgendein Widersacher (oder) irgendeine Widersacherin, die sind an irgendeinem Körperglied des NN., den geboren hat die NN.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso 2.6] - [Vso 2.8]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓍟𓁻	95940	VERB	verb	VerbForm=Fin	_	_	_	Translit=rs
+4	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+5	𓇋𓀁𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+9	𓇋𓀁𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+10	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+11	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓏠𓈖	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+14	𓏯𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+15	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+16	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+17	𓏏𓍃𓅓𓏛	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+18	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+19	𓄡𓂧𓃀𓏲𓌪𓂡	124950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖdb
+20	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+21	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+22	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+23	𓅓𓏏𓏏𓏱	69330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mwt.t
+24	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+25	𓍑𓄿𓇋𓇋𓏱	181880	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḏꜣ.yw
+26	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+27	𓍑𓄿𓇋𓇋𓏏𓏱	181820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣ.yt
+28	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+29	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+30	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+31	𓎛𓂝𓏏𓄹	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+32	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+33	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+34	𓏠𓈖	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+35	𓏯𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+36	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+

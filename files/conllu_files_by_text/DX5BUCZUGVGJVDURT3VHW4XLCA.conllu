@@ -1,0 +1,29 @@
+# sent_id = IBUBdwqhxxWSP0RfqrxoHkSXC0k
+# corpus = bbawamarna
+# src_text_id = DX5BUCZUGVGJVDURT3VHW4XLCA
+# src_text = bbawamarna:Durchgang zum Hof/Südseite//Hymnus an die aufgehende Sonne
+# owner = Ingelore Hafemann
+# text_de = ⸢Der Messersee ist zur Ruhe⸣ [gekommen.]
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [K.7]
+1	𓈘𓌫𓌫	500391	PROPN	entity-name	_	_	_	_	Translit=Mr-nḫꜣ.wj
+2	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊵𓊵𓊵	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+
+# sent_id = IBUBdQELgk4CGUCvoqyleBRivGU
+# corpus = bbawamarna
+# src_text_id = DX5BUCZUGVGJVDURT3VHW4XLCA
+# src_text = bbawamarna:Durchgang zum Hof/Südseite//Hymnus an die aufgehende Sonne
+# owner = Ingelore Hafemann
+# text_de = Auch Re ⸢ist ebenfalls in gutem (Fahrt)-Wind.⸣
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓇳𓏤𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌷𓂝𓅱𓊡	66790	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.w
+5	𓐝𓂋𓏤𓂝𓏤	64970	ADV	adverb	_	_	_	_	Translit=m-rʾ-ꜥ
+

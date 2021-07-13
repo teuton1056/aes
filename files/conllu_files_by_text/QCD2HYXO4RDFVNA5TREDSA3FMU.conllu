@@ -1,0 +1,37 @@
+# sent_id = IBUBd7ZupQ3BB0ypikWNBc1A9Hw
+# corpus = bbawgrabinschriften
+# src_text_id = QCD2HYXO4RDFVNA5TREDSA3FMU
+# src_text = bbawgrabinschriften:nördliche Scheintür//rechter Pfeiler
+# owner = Stefan Grunert
+# text_de = Die Königstochter, Schmuck des Königs, Nen-Sedjer-kai.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏏𓅭𓇓	400447	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ.t-nswt
+2	𓇓𓏏𓐭	124780	_	epitheton-title	_	_	_	_	Translit=ẖkr.t-nswt
+3	𓈖𓂜𓋴𓇦𓂋𓂓	702558	PROPN	entity-name	_	_	_	_	Translit=N-sḏr-kꜣ
+
+# sent_id = IBUBdzWvSqnPdElVkXviJwSGCTw
+# corpus = bbawgrabinschriften
+# src_text_id = QCD2HYXO4RDFVNA5TREDSA3FMU
+# src_text = bbawgrabinschriften:nördliche Scheintür//rechter Pfeiler
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Ni-Ptah.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓎛𓊪𓏏𓈖	400324	PROPN	entity-name	_	_	_	_	Translit=N.j-Ptḥ
+
+# sent_id = IBUBdxO1PXiQH0chjq8YAXKyDP0
+# corpus = bbawgrabinschriften
+# src_text_id = QCD2HYXO4RDFVNA5TREDSA3FMU
+# src_text = bbawgrabinschriften:nördliche Scheintür//rechter Pfeiler
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Wer-bau-Ptah.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓎛𓊪𓏏𓅨𓅢	711598	PROPN	entity-name	_	_	_	_	Translit=Wr-bꜣ.w-Ptḥ
+

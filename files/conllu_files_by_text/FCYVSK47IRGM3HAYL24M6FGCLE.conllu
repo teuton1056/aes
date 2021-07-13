@@ -1,0 +1,27 @@
+# sent_id = IBUBd9dB6vQDwU1johwWFQV9M8s
+# corpus = sawlit
+# src_text_id = FCYVSK47IRGM3HAYL24M6FGCLE
+# src_text = sawlit:Stele des Kemes (Berlin 7287)//〈Stele des Kemes (Berlin 7287)〉
+# owner = Alexander Schütze
+# text_de = mit erhobener Doppelfederkrone, Herr der Wereret-Krone,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3]
+1	𓈎𓄿𓀠	158990	ADJ	adjective	_	_	_	_	Translit=qꜣ
+2	𓆄𓆄𓏏𓏭	860191	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.tj
+3	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓅨𓂋𓂋𓏏	47920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrr.t
+
+# sent_id = IBUBdwivTMSaPUpztU8uNmREOng
+# corpus = sawlit
+# src_text_id = FCYVSK47IRGM3HAYL24M6FGCLE
+# src_text = sawlit:Stele des Kemes (Berlin 7287)//〈Stele des Kemes (Berlin 7287)〉
+# owner = Alexander Schütze
+# text_de = der vor allen Göttern befindliche.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3] - [A.4]
+1	𓇋𓏶𓄂𓏏𓏤	25650	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jm.j-ḥꜣ.t
+2	𓊹𓏤	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+3	𓎟𓏥	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+

@@ -1,0 +1,40 @@
+# sent_id = IBUBd2VyIvzVl0IRt9rN05XxQsI
+# corpus = bbawgrabinschriften
+# src_text_id = O5R6YIG2LVBEDDQ23Y7Q7TXI4A
+# src_text = bbawgrabinschriften:Westwand//Personenbeischriften (Schlachtungsszene)
+# owner = Stefan Grunert
+# text_de = Sein Sohn Ihy-em-zaef
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓎛𓇋𓅓𓎃𓆑	710452	PROPN	entity-name	_	_	_	_	Translit=Jḥy-m-zꜣ⸗f
+
+# sent_id = IBUBd9wUdBlSiUGOvs5P3FkcZjg
+# corpus = bbawgrabinschriften
+# src_text_id = O5R6YIG2LVBEDDQ23Y7Q7TXI4A
+# src_text = bbawgrabinschriften:Westwand//Personenbeischriften (Schlachtungsszene)
+# owner = Stefan Grunert
+# text_de = Sein Sohn Ptah-schepsesu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓏏𓎛𓀼𓋴𓋴	450100	PROPN	entity-name	_	_	_	_	Translit=Ptḥ-špss.w
+
+# sent_id = IBUBd1Yaz29DQUZKsM2YkDBnnRw
+# corpus = bbawgrabinschriften
+# src_text_id = O5R6YIG2LVBEDDQ23Y7Q7TXI4A
+# src_text = bbawgrabinschriften:Westwand//Personenbeischriften (Schlachtungsszene)
+# owner = Stefan Grunert
+# text_de = Sein Stiftungsbruder Ni-ka-Re.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓌢𓈖	136580	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn-ḏ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆓𓏏𓇿	_	_	_	_	_	_	_	_
+4	𓂋𓂝𓈖𓂓	702924	PROPN	entity-name	_	_	_	_	Translit=N.j-kꜣ-Rꜥw
+

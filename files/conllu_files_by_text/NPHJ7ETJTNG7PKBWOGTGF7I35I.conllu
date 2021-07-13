@@ -1,0 +1,24 @@
+# sent_id = IBUBdwM60pTEPENqtZjQ2FVh7ck
+# corpus = bbawgrabinschriften
+# src_text_id = NPHJ7ETJTNG7PKBWOGTGF7I35I
+# src_text = bbawgrabinschriften:Außensarkophag//südl. Schmalseite
+# owner = Stefan Grunert
+# text_de = Der Vornehme des Königs, der Würdige Meri-jb.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇓𓏏𓈙𓊪𓋴	400432	_	epitheton-title	_	_	_	_	Translit=šps.w-nswt
+2	𓇋𓌳𓄪𓐍𓅱	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+3	𓌸𓇋𓇋𓄣𓃀	702300	PROPN	entity-name	_	_	_	_	Translit=Mr.y-jb
+
+# sent_id = IBUBd7FFP77G8EkYkBc4AA9N6ao
+# corpus = bbawgrabinschriften
+# src_text_id = NPHJ7ETJTNG7PKBWOGTGF7I35I
+# src_text = bbawgrabinschriften:Außensarkophag//südl. Schmalseite
+# owner = Stefan Grunert
+# text_de = Das Fuß(ende).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
+

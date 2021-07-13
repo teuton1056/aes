@@ -1,0 +1,51 @@
+# sent_id = IBUBd89V1P8KoEMcsFv2uUxmjTQ
+# corpus = sawlit
+# src_text_id = PSK7MX5QTZF73O32D33JOZNXX4
+# src_text = sawlit:〈16. 〉oDeM 1013//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Wenn ein Lehmziegel von einem mit eiligem Herzen (d.h. einem Ungeduldigen oder einem Unbesonnenen) gegriffen wird, dann kennt man nicht die Art des Abwehrens (?) der Aufregung (wörtl.: Hitze) (oder: des Aufgeregten).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rto, 4] - [rto, 6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅷𓇋𓇋𓂷𓂡𓏏𓏲	174260	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣi̯
+3	𓂧𓃀𓏏𓊌	183120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏb.t
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+6	𓄿𓋴𓍬𓂻	266	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜣs
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+8	𓂜𓈖	850806	PART	particle	_	_	_	_	Translit=n
+9	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+10	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+11	𓃀𓏲	55110	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=bw
+12	𓍚𓀜	854535	VERB	verb	_	_	_	_	Translit=ḫsf
+13	𓋴𓂋𓆑𓊮	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+
+# sent_id = IBUBd48NPv8uV0QckCVioqnyHdY
+# corpus = sawlit
+# src_text_id = PSK7MX5QTZF73O32D33JOZNXX4
+# src_text = sawlit:〈16. 〉oDeM 1013//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Leg Zeugnis ab bei den Richtern!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rto, 6] - [rto, 7]
+1	𓂸𓏏𓂋𓏲𓂭𓂭𓏛𓀁𓏥	77640	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mtr
+2	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+3	𓄔𓅓𓇋𓇋𓀁𓀀𓏥	150700	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sḏm.yw
+
+# sent_id = IBUBdwZY4kpg9kxdvOFCuuulh98
+# corpus = sawlit
+# src_text_id = PSK7MX5QTZF73O32D33JOZNXX4
+# src_text = sawlit:〈16. 〉oDeM 1013//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Sag kein Wort, das es zu verbergen gibt (wörtl.: des Verbergens)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso, 5]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓆓𓂧𓏏𓏥	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+3	𓌃𓂧𓏏𓀁𓏫	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓇉𓄿𓊪𓏲𓍱𓀜	101300	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥꜣp
+

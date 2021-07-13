@@ -1,0 +1,24 @@
+# sent_id = IBcAgf6PBrhpVEpfkFB2QNGTWXA
+# corpus = bbawhistbiospzt
+# src_text_id = KL5F2QC2LJBTNGE2OUEKMHOYFE
+# src_text = bbawhistbiospzt:König Taharqa//König Taharqa
+# owner = Silke Grallert
+# text_de = Der vollkommene Gott, Herr Beider Länder (⸗ Ägypten) Chu-Nefertem-Ra, der leibliche Sohn des Re Taharqa, dem Leben wie Re ewiglich gegeben wurde.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1] - [6]
+1	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
+2	𓎟𓇿𓇿	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+3	𓇳𓄤𓏏𓍃𓅱𓐍	862991	PROPN	entity-name	_	_	_	_	Translit=Ḫwi̯-Nfr-tm-Rꜥw
+4	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓄡𓏏	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇿𓉔𓃭𓈎	862990	PROPN	entity-name	_	_	_	_	Translit=Thr-qꜣ
+9	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+10	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+11	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+12	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+13	𓇳𓏤	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+14	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+

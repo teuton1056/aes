@@ -1,0 +1,29 @@
+# sent_id = IBUBd10V0ViLkU1VtIjQEY4E414
+# corpus = sawlit
+# src_text_id = 5EGJISAVIVHCLJE2JUKHR23V6E
+# src_text = sawlit:〈linke Innenwand〉//Rahmentext
+# owner = Lutz Popko
+# text_de = Verwandle du (deine) Gestalt wie Re!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2.19]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓆣𓅱𓏥	116300	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫpr.w
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓂋𓂝𓇳𓏤	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd6OQ6X7m6E5Bh88R69BaS24
+# corpus = sawlit
+# src_text_id = 5EGJISAVIVHCLJE2JUKHR23V6E
+# src_text = sawlit:〈linke Innenwand〉//Rahmentext
+# owner = Lutz Popko
+# text_de = Du mögest für immer und ewig leben!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2.19]
+1	𓋹𓍘𓇋	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+2	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+3	𓎛𓇳𓎛	86580	ADV	adverb	_	_	_	_	Translit=nḥḥ
+

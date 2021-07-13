@@ -1,0 +1,677 @@
+# sent_id = IBcAVCerfnztt0tMsOhMpvJXvgM
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel für einen Finger, wenn er schmerzt, oder für eine Zehe:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,4]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+5	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓃃𓏤𓄹	126950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣḥ
+8	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBcAVEwqIzvXeUs2j8Kv0FSLhv4
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Danach sollst du ihm ein kühlendes Heilmittel bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,4] - [78,5]
+1	𓇋𓂋𓅓𓆱𓐍𓏏𓂻	28350	ADV	adverb	_	_	_	_	Translit=jr-m-ḫt
+2	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+7	𓋴𓈎𓃀𓃀𓏁𓈗	146060	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sqbb
+
+# sent_id = IBcAVNU5qh7lhUDjkmHSiXitSvs
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,6]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcAVEauUavWY0U2jZO8qI6KXL0
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = (Die Zehe) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,6]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVIaOw19QdUn9t3ikAnQZQvU
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Wenn du einen Finger oder eine Zehe vorfindest, indem sie schmerzen,    (wobei) Wasser um sie / hinter ihnen kreist,    ihr Geruch schlecht ist    (und) sie einen $zꜣ$-Wurm (?) haben entstehen lassen,   so sollst du (folglich) dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,6] - [78,8]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+5	𓃃𓏤𓄹	126950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣḥ
+6	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+7	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓄲𓂋𓂻	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+10	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+11	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+12	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+13	𓈋𓏲𓅪	182840	ADJ	adjective	_	_	_	_	Translit=ḏw
+14	𓋴𓏏𓏭𓐎	148990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sṯj
+15	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+16	𓈎𓌴𓄿𓅓𓌙𓅯𓏛	854564	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qmꜣ
+17	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+18	𓅭𓏤𓆙	125530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+19	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+20	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+21	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+22	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVCWLfGplh0nvhd8OCdrRSKA
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = „Eine Krankheit (ist es), die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,8]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcAVNMHOPKihESioIz9mcMUSUk
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = So sollst du ihm (d.h. dem Patienten) (folglich) Mittel zum Abtöten de $sp$-Wurmes bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,8] - [78,9]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓋴𓌴𓄿𓅓𓌪𓂝	134370	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣ
+8	𓊃𓊪𓊗𓆙	132340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBcAVMAYURNFjkHXr88MWoUkbRs
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,10]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcAVL2bWx9ItkRqp8lNTPoaC2Y
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = (Das betroffene Glied) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVAiVtPOKKknOuK7ZOhno9b8
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für den Nagel der Zehe:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂷𓏏𓏤	38130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥn.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓃃𓏤𓄹	126950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣḥ
+
+# sent_id = IBcAVPlYb0pAsEyTkLpWSjsSJgg
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,11]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcAVFQnPP6b3E73meSyC8RNJFg
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = (Der betroffene Nagel) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,11]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVLKZZVmCzEKWqwAlRm15LuQ
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAVCOyZhDj40WEoV7jOm0aQw4
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,12]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcAVNgyPQWsQE4jqbFTHPxgYgg
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln der Zehe, wenn sie schmerzt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,12] - [78,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓃃𓏤𓄹	126950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣḥ
+5	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAVJbc0iUANkgQjUbP6GnuDy4
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ocker: 1, Natron: 1, „Großer-Schutz“-Droge: 1, Roter Ocker: 1, Schmutz (?) des Hofes: 1, Leinsamen (?): 1, $ns.tj$-Keimlinge (?): 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,13] - [78,14]
+1	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓍖𓈖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎃𓏤𓏛𓏥𓅨𓂋𓈒𓏥	125920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-wr
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓏠𓈖𓈙𓏏𓈒𓏥	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓂙𓈖𓈖𓏌𓏲	123740	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖnn
+10	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+11	𓉔𓏤𓉐𓈒𓏥	97220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hʾ
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓂧𓈙𓂋𓏯𓈒𓏥	180740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dšr
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓈖𓄓𓊃𓍘𓇋𓇋𓌽𓏥	87890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns.ty
+16	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAVItNepAdk0WavlfQwOWmYmg
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,14]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAVHoR23hYB0d1i1YFF06ARvQ
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = werde zu Pulver gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,14]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓏏𓍃𓅓𓏏𓏲𓈒𓏥	172330	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tmt.w
+
+# sent_id = IBcAVE5r2aSj20wKuaW5tnlaHLg
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Nachdem du diese Pulver gemacht hast, sollst du ein Salbmittel aus Knochenmark, Fett, Honig (und) Öl/Fett machen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,14] - [78,16]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓇑𓇑𓈖𓈖	500001	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn-n
+6	𓏏𓍃𓅓𓏏𓏲𓈒𓏥	172330	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tmt.w
+7	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓅨𓂋𓎛𓏏𓏌𓏥	48060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrḥ.t
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓏏𓃀𓈖𓐎	170690	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tbn
+12	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+13	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+14	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcAVH5EBuPT8k8BoN6yJqwhV8c
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,16]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAVEW0QNCrWkQBko8MQeEVrM8
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die betroffene Stelle) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,16]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVPIcj1pAlkCYl9xi8dfwRRY
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel für den Zeh:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓃃𓏤𓄹	126950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣḥ
+
+# sent_id = IBcAVAXmzBqKq0NSv7QaUVPMAQs
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Roter Ocker: 1, Scherbe eines neuen Hin-Maß-Topfes: 1, „Selbstentstandenes“ vom Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,16] - [78,17]
+1	𓏠𓈖𓈙𓏏𓈒𓏥	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓅯𓄿𓈎𓇋𓇋𓏏𓊌	59350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓉔𓈖𓏌𓏲𓏌𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+6	𓌴𓏛	66150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣw
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓆣𓂋𓆓𓊃𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+11	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAVBw51KWJpEIQm2Euhi1tQpE
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,18]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVKfnZmQlHks8o6xTqjMpUPA
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = So sollst du ihm (d.h. dem Patienten) Natron: 1, Weihrauch: 1, Öl/Fett: 1, Ocker: 1 bereiten und das Natron darauf streuen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,18] - [78,19]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+14	𓏏𓍃𓅓𓏏𓀜	172320	VERB	verb	VerbForm=Fin	_	_	_	Translit=tmt
+15	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+16	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+17	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVIgF6RQJqEbYuLqWxA7B2mw
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Beseitigen von Zittern in den Fingern:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,19] - [78,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓋴𓂧𓄿𓅯𓅪	149670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sdꜣ.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏbꜥ
+
+# sent_id = IBcAVONlHWaWZ0vfjHOBPQv8Pq0
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Früchte/Samen der $twnn$-Pflanze, Rinderfett: 1, $sskꜣ$-Droge: 1, Milch: 1, unterägyptisches Salz: 1, 〈... der〉 Sykomore (?): 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,20] - [78,21]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓏏𓃹𓈖𓈖𓆰𓏪	170310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twn
+3	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+4	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓋴𓋴𓂓𓄿𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+13	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAVABq6ycZcE9imOW1LtkjjIE
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,21]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAVOVgOinKQEkOj4yRrb7kyBs
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,21]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAVBPooWHpUk4qiaUPwatu420
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = (Die Finger) werden darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,21]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVCH7R3RsXECpvya1DjzbW5g
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAVNYSVqvS5kjjtZXG9VIp1xk
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, Kreuzkümmel: 1, Wachs: 1, Roter Ocker: 1, $nṯr.yt$-Natron: 1, Honig: 1, Feigen: 1, Ocker: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,21] - [79,1]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓏠𓈖𓈙𓏏𓈒𓏥	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓊹𓂋𓇋𓇋𓏏𓈒𓏥	90540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.yt
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓂧𓃀𓈒𓍼𓏥	177710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dꜣb
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+16	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAVKIhXLlBd0DLmKnQpKYWTyM
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zerkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,2]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAVMvC2SjA6EevghxFRgCKQ6s
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = (Die Finger) werden darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,2]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVMBw6cROf0odqHM2iQ70gp0
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Zittern in allen (möglichen) Körperteilen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓂧𓄿𓅱𓏏𓐎𓏥	177700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dꜣw.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcAVD1rWzEP60ERs6WaMqWUsPI
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = $mjmj$-Getreide: 1, $ḥḏ.w$-Harz: 1, Honig: 1, Grünspan (wörtl.: metallener Grünstein): 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,2] - [79,3]
+1	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓌉𓌉𓌉𓈒𓏥	112720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓇅𓏲𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+8	𓈔𓇋𓇋𓈒𓏥	865673	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḥmt.j
+9	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAVCRk0lohVU5Jm0r3WIaWIAQ
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = $šꜣ.w$-Kot vom Hund werde darauf (?; oder: an sein Gesicht) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,3]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆷𓄿𓄹	151290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓍿𓊃𓅓𓄛	177290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯzm
+5	𓂋𓁷𓏤	92210	ADP	preposition	_	_	_	_	Translit=r-ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAVJTCOmBTZEmVmExcs3uBnWU
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Du sollst den Arm nicht daran (d.h. an das Zittern) legen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,3] - [79,4]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏲𓂧𓏴	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+4	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAVE9IXquaaUGGl0rudmFHo0c
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAVGGx3W1LWUu2nkp5MMrzPwY
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = $mjmj$-Getreide: 1, Johannisbrot: 1, Malachit: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,4]
+1	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓇅𓏲𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAVFJiPgaemkyLij66NtzGdMU
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,4]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAVDkNfMMnIkBriccdpShgQTY
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die zitternde Stelle) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,4]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAVDg4mvTR5UXTpOe7AQN9K1Q
+# corpus = sawmedizin
+# src_text_id = WRSVQJLYRBHEDIDXVV3MQMAEKI
+# src_text = sawmedizin:Papyrus Ebers//78,4-79,5 ⸗ Eb 616-626: Heilmittel für Finger und Zehen
+# owner = Lutz Popko
+# text_de = Du sollst den Arm nicht daran legen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,4] - [79,5]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏲𓂧𓏴	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+4	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

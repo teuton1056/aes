@@ -1,0 +1,173 @@
+# sent_id = IBUBd3dLV7k3P0LHgwHbcu2yijo
+# corpus = sawlit
+# src_text_id = YWJMWQT65NDTPL6MPG6TLVJ5MI
+# src_text = sawlit:〈03. 〉pChassinat I ⸗ pLouvre E 25351//〈Die Geschichte von 〉König Neferkare und General Sasenet
+# owner = Peter Dils
+# text_de = Da zog er (Tscheti) sich vor ihm (dem König) zurück, ohne sich ihm bemerkbar zu machen (wörtl.: ohne zuzulassen, daß er ihn sah).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [X+III, x+3]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓂋𓏲𓇋𓄿𓂢𓂻𓈖	93540	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+8	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+9	𓌳𓁹𓄿𓄿𓏛	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdQ4JjPlGD0bgqqWKN53h8E0
+# corpus = sawlit
+# src_text_id = YWJMWQT65NDTPL6MPG6TLVJ5MI
+# src_text = sawlit:〈03. 〉pChassinat I ⸗ pLouvre E 25351//〈Die Geschichte von 〉König Neferkare und General Sasenet
+# owner = Peter Dils
+# text_de = Da blieb Tscheti, der Sohn des Henet, stehen, indem er sich wie folgt Gedanken machte:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [X+III, x+3] - [X+III, x+4]
+1	𓊢𓂝𓈖	851887	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜥ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓎛𓆰𓈖𓏏𓏐𓏒𓏥𓀀	_	X	unknown	_	_	_	_	_
+5	𓅭	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+6	𓎀𓏏𓇋𓀀	709349	PROPN	entity-name	_	_	_	_	Translit=Ṯtj
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓎔𓏛𓎛𓄧𓀁	73360	VERB	verb	VerbForm=Fin	_	_	_	Translit=mḥi̯
+9	𓁷𓏤𓆓𓂧	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+
+# sent_id = IBUBdQohD6SMnk5nolRHpqfqbvg
+# corpus = sawlit
+# src_text_id = YWJMWQT65NDTPL6MPG6TLVJ5MI
+# src_text = sawlit:〈03. 〉pChassinat I ⸗ pLouvre E 25351//〈Die Geschichte von 〉König Neferkare und General Sasenet
+# owner = Peter Dils
+# text_de = Nun ging Tscheti, der Sohn des Henet, hinter diesem Gott her, ohne ein schlechtes Gewissen zu bekommen (wörtl.: ohne zuzulassen, daß sein Herz ihn erfaßte/tadelte), um jede seiner (des Königs) Handlungen zu beobachten.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [X+III, x+5] - [X+III, x+6]
+1	𓈝𓅓𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓎛𓆰𓈖𓏏𓏐𓏒𓏥𓀀	_	X	unknown	_	_	_	_	_
+5	𓅭	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+6	𓎀𓏏𓇋𓀀	709349	PROPN	entity-name	_	_	_	_	Translit=Ṯtj
+7	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+8	𓄖	61490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.wj
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+11	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+12	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+13	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+14	𓅷𓄿𓂷𓂡	174280	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣy
+15	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+16	𓆑𓀀	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓌳𓁹𓄿𓄿𓏛	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+21	𓁹𓂋𓏭𓇋𓇋𓏛𓏥	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+22	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+23	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd5VCjcYauk33nlFwtWaa5xw
+# corpus = sawlit
+# src_text_id = YWJMWQT65NDTPL6MPG6TLVJ5MI
+# src_text = sawlit:〈03. 〉pChassinat I ⸗ pLouvre E 25351//〈Die Geschichte von 〉König Neferkare und General Sasenet
+# owner = Peter Dils
+# text_de = Da warf er einen Ziegelstein, nachdem er mit seinem Fuß gestampft hatte.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [X+III, x+7]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆼𓄿𓂝𓂻	113560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣꜥ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂧𓃀𓏏𓊌	183120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏb.t
+5	𓉔𓄿𓃀𓀜𓈖	98020	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hbu̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓂧𓂾	96600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rd
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdW3FCDgIXEXIqdtGGXX0HWI
+# corpus = sawlit
+# src_text_id = YWJMWQT65NDTPL6MPG6TLVJ5MI
+# src_text = sawlit:〈03. 〉pChassinat I ⸗ pLouvre E 25351//〈Die Geschichte von 〉König Neferkare und General Sasenet
+# owner = Peter Dils
+# text_de = Daraufhin wurde eine [Leiter] zu ihm hinabgelassen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [X+III, x+7] - [X+III, x+8]
+1	𓎢𓄿𓀁	162840	PART	particle	_	_	_	_	Translit=kꜣ
+2	𓂋𓂝𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌳𓄿𓈎𓏏𓆱	67450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣq.t
+
+# sent_id = IBUBdxTkCuu0PEduhMZoFkNzLJU
+# corpus = sawlit
+# src_text_id = YWJMWQT65NDTPL6MPG6TLVJ5MI
+# src_text = sawlit:〈03. 〉pChassinat I ⸗ pLouvre E 25351//〈Die Geschichte von 〉König Neferkare und General Sasenet
+# owner = Peter Dils
+# text_de = Nun stieg er hinauf.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [X+III, x+8]
+1	𓉐𓂋𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋𓁷𓂋𓇯	92230	ADV	adverb	_	_	_	_	Translit=r-ḥr.w
+
+# sent_id = IBUBdQngUZfxBEjYixq7NBF66Bo
+# corpus = sawlit
+# src_text_id = YWJMWQT65NDTPL6MPG6TLVJ5MI
+# src_text = sawlit:〈03. 〉pChassinat I ⸗ pLouvre E 25351//〈Die Geschichte von 〉König Neferkare und General Sasenet
+# owner = Peter Dils
+# text_de = Nachdem dann seine Majestät gemacht hatte (wörtl.: nach dem Tun durch seine Majestät), was er sich mit/bei ihm (dem General) gewünscht hatte, (indem/und) er fortging zu seinem Palast (?), da ist Tscheti ihm gefolgt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [X+III, x+9] - [X+III, x+10]
+1	𓐍𓂋𓀒𓅓𓆱𓏏𓐍𓂻	119740	ADV	adverb	_	_	_	_	Translit=ḫr-m-ḫt
+2	𓁹𓏏	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌻𓂋𓀁𓈖	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓏲𓍑𓄿𓂻	52130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜣ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓉥𓂝𓏏𓉐	39890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥḥ.t
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓈝𓅓𓂻𓈖	154340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+15	𓎀𓏏𓍘𓇋𓀀	709349	PROPN	entity-name	_	_	_	_	Translit=Ṯtj
+16	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxMPoIAgrE7VlqGkfWGxW7I
+# corpus = sawlit
+# src_text_id = YWJMWQT65NDTPL6MPG6TLVJ5MI
+# src_text = sawlit:〈03. 〉pChassinat I ⸗ pLouvre E 25351//〈Die Geschichte von 〉König Neferkare und General Sasenet
+# owner = Peter Dils
+# text_de = Erst nachdem seine Majestät sich zum Großen Haus - Leben, Heil, Gesundheit - begeben hatte, ist Tscheti nach Hause gegangen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [X+III, x+10] - [X+III, x+11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓏲𓍑𓄿𓂻	52130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜣ
+4	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+8	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+9	𓈝𓅓𓂻𓈖	154340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+10	𓎀𓏏𓇋𓀀	709349	PROPN	entity-name	_	_	_	_	Translit=Ṯtj
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

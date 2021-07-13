@@ -1,0 +1,507 @@
+# sent_id = IBUBd4cthO2gcEY5sjdwbRvZi4U
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = - for the one dignified in front of his lord, who does all that he praises, the overseer of the army Sebeki, born of Satkhety, who says:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4] - [A.5]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓇋𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+3	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+4	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓎛𓎿𓊃𓊃𓏏	109620	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḥzi̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+10	𓅓𓂋𓀎𓏨	400043	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-mšꜥ
+11	𓋴𓃀𓎡𓇋	_	X	unknown	_	_	_	_	_
+12	𓄟𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+13	𓄡𓏏𓇋𓇋𓅭𓏏𓁐	_	X	unknown	_	_	_	_	_
+14	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxd0dRGX7Evaizs4roQjGPs
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Ehrwürdige Sebeki.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓇋𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓋴𓃀𓎡𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8DM4diGhUE0mpkEwx6w3Bk
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Ehefrau Tjuta.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍿𓅱𓏏𓏐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd0c7p6eO8kW0itgveTXq4ko
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Sohn Wenher.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃹𓈖𓁷𓏤	711545	PROPN	entity-name	_	_	_	_	Translit=Wn-ḥr
+
+# sent_id = IBUBdyqAMk3ODUfrlrW6Bc5dfvw
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Tochter Zat-Cheti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄡𓇋𓇋𓏏𓅭𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzPo0XIbpkhxvtrH93WcGHY
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Ehrwürdige Wenher.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓇋𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓃹𓈖𓁷𓏤	711545	PROPN	entity-name	_	_	_	_	Translit=Wn-ḥr
+
+# sent_id = IBUBdypGUoaowkoqqUcht5EpZ1s
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Ehefrau Zat-Cheti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄡𓏏𓇋𓇋𓅭𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd0ecFzWC8kOcuITPlSKKgM8
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Sohn Sachmethotep/Hotepsachmet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌂𓐍𓏏𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxH9YxrTx01RtRTH1EiLHy4
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Sohn Nemti-em-hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉊𓅓𓄂𓏏	400661	PROPN	entity-name	_	_	_	_	Translit=Nmt.j-m-ḥꜣ.t
+
+# sent_id = IBUBd2RT7znqK0eqsfpJIxsNN9g
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Sohn Sobeknacht/Nachtsobek.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆍𓈖𓆱𓐍𓏏	550004	PROPN	entity-name	_	_	_	_	Translit=Sbk-nḫt.w
+
+# sent_id = IBUBd6tetk06E0NsowTBx6azFSA
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Sohn Hotep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.6]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊵𓏏𓊪	400024	PROPN	entity-name	_	_	_	_	Translit=Ḥtp
+
+# sent_id = IBUBd371sKViMU42udGQWinh8bY
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Sohn Sedjauti(?)-biti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.7]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆤𓋨𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6RiNdpGmEAcuedek7vzmwM
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Vater Sobeknacht/Nachtsobek.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.8]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆍𓈖𓆱𓐍𓏏	550004	PROPN	entity-name	_	_	_	_	Translit=Sbk-nḫt.w
+
+# sent_id = IBUBdQHV4QzQx0bug7MWJzcmrxg
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Mutter Zatiza.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.9]
+1	𓏏𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅭𓏏𓇋𓀁𓊃𓅭𓄿𓂻	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdyoPM0Ym2046gHSCVWBQdeU
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Bruder, 〈NN, der〉 genannt wird User (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆓𓂧𓅱𓏏	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓄊𓋴𓂋	400067	PROPN	entity-name	_	_	_	_	Translit=Wsr
+
+# sent_id = IBYCZAa5FIHFREEfoWpEYjaz2Bo
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Stiftungsangehöriger.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓈖𓆓𓏏	855707	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n.j-ḏ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzlK7opVskcphS67ZJDoVQM
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Pächter Chonsu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.3]
+1	𓌤𓏏𓏭	40490	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḥ.wtj
+2	𓐍𓈖𓇓𓅱	600122	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
+
+# sent_id = IBUBd1tCIlniFElxkf0nwNeZMzo
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Pächter Seth.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.4]
+1	𓌤𓏏𓏭	40490	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḥ.wtj
+2	𓃫	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5Kdy0WKJ0QfsQF3QEvCYk0
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Pächter Nacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.6]
+1	𓌤𓏏𓏭	40490	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḥ.wtj
+2	𓈖𓆱𓐍𓏏	550087	PROPN	entity-name	_	_	_	_	Translit=Nḫt
+
+# sent_id = IBUBd2MdB7Q5w08bjjZxUqOQaDU
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Pächter Horus.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.7]
+1	𓌤𓏏𓏭	40490	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḥ.wtj
+2	𓅃	400146	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBdwlIzJQJRUP3hlkBTa2j4Z8
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Pächter Chuy.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.8]
+1	𓌤𓏏𓏭	40490	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḥ.wtj
+2	𓐍𓂤𓅱𓇋𓇋	400017	PROPN	entity-name	_	_	_	_	Translit=Ḫwy
+
+# sent_id = IBUBd6qs3sgmPkQzoIBXsTmy244
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Bierbrauer Montuhotep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.9]
+1	𓀪𓏏𓏭	37440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥf.tj
+2	𓏠𓈖𓍿𓅱𓊵𓏏𓊪	400025	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w-ḥtp.w
+
+# sent_id = IBUBd2Mwc7SOg0BSpQGuVycuHjk
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Wäscher Chu-ui-Chnum(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.10]
+1	𓅺𓏏𓏭	855716	_	epitheton-title	_	_	_	_	Translit=rḫt.j
+2	𓎸𓐍𓂤𓅱	705489	PROPN	entity-name	_	_	_	_	Translit=Ḫwi̯-wj-H̱nm.w
+
+# sent_id = IBUBd0He2PUxWEjys6SSAqwbvSk
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Mundschenk Sebeki.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.11]
+1	𓏊𓅱	51600	_	epitheton-title	_	_	_	_	Translit=wdp.w
+2	𓋴𓃀𓎡𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxFRjuSpH0vRhfGCpIoWpMg
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Schwester Cheti-anch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.12]
+1	𓌢𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄡𓏏𓇋𓇋𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd3cFZRCL5keSo9LXzrh2Kps
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Hetepet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.13]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓊵𓏏𓊪𓏏	550115	PROPN	entity-name	_	_	_	_	Translit=Ḥtp.t
+
+# sent_id = IBUBd9gKIIneQk0Zkl3Wo5lvdG0
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Nacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.16]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓈖𓆱𓐍𓏏	550087	PROPN	entity-name	_	_	_	_	Translit=Nḫt
+
+# sent_id = IBUBd8DYfMWKC01JqPQONGINf2c
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Zattepihu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.17]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓅭𓏏𓁶𓃒𓏥	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6J7XBo5FU0Dg5Eml4ha1q8
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Renesanch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.18]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓂋𓈖𓋴𓋹𓈖𓐍	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd29bzg88v0gNpXzoq8qCtNM
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Zathathor.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.19]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓉗𓏏𓁷𓂋𓅭𓏏	400439	PROPN	entity-name	_	_	_	_	Translit=Zꜣ.t-Ḥw.t-Ḥr.w
+
+# sent_id = IBUBd2Y0w2OzJkF1pZWnl1u8QwI
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Meres.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.20]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓌸𓂋𓋴	702207	PROPN	entity-name	_	_	_	_	Translit=Mri̯⸗s
+
+# sent_id = IBUBd33J8Ap3DUPxoKtDyrmzWFw
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Zatsechet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.21]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓇏𓅭𓏏𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd4cjDeKK0klmht27yux6GXE
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Zat-chu-ui-sobek.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.22]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓆍𓐍𓂤𓅱𓅭𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd1WQxe2aCE9WiuucExgbSt8
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Itja.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.1]
+1	𓍛𓏤	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓇋𓍿𓄿	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd9ou2MWAzkj2pbdJw7o8C1A
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Hetepet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.2]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓊵𓏏𓊪𓏏	550115	PROPN	entity-name	_	_	_	_	Translit=Ḥtp.t
+
+# sent_id = IBUBd2tSCRTraEL0sFgaWNGiC6o
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Wah-Chety.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.3]
+1	𓍛𓏤	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓄡𓏏𓇋𓇋𓎝	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd87Ysb0ns0TErsnTTQTqlFA
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Zat-Uta.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.4]
+1	𓍛𓏤	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓅭𓏏𓅱𓏏𓄿𓂸	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd4nC41uIdEOAiWQHDJwH82s
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Zemit, die Libyerin.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.5]
+1	𓍛𓏤	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓊃𓏏𓈉𓍿𓎛𓏏𓏌𓌙	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd9WuhfbcjU5Fl2WUwL0pvfA
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Dienerin Meni.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.6]
+1	𓍛𓏤	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓏠𓈖𓇋	450089	PROPN	entity-name	_	_	_	_	Translit=Mnj
+
+# sent_id = IBUBd73clL2BWk8rtviJFghwHBg
+# corpus = sawlit
+# src_text_id = 3QDMVCKIY5E6RNQ6GH4SHS55AA
+# src_text = sawlit:Stele des Sebeki (München Gl. WAF 31)//〈Stele des Sebeki (München Gl. WAF 31)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Königsdiener Seanch-Nemti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.7]
+1	𓇓𓏏𓈖𓍛𓏤	851166	_	epitheton-title	_	_	_	_	Translit=ḥm-nswt
+2	𓉊𓋴𓋹𓈖𓐍	861117	PROPN	entity-name	_	_	_	_	Translit=Sꜥnḫ-Nmt.j
+

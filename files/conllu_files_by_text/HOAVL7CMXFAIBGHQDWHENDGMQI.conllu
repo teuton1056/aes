@@ -1,0 +1,25 @@
+# sent_id = IBcAZR39Eaa82E2SlI7otxxT7X8
+# corpus = tuebingerstelen
+# src_text_id = HOAVL7CMXFAIBGHQDWHENDGMQI
+# src_text = tuebingerstelen:Stele des Merimes (Äg. Slg. Tübingen Inv. Nr. 1684)//Stele des Merimes (Äg. Slg. Tübingen Inv. Nr. 1684)
+# owner = Susanne Beck
+# text_de = der Königssohn, Merimes
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 1
+1	𓇓𓅭	450223	_	epitheton-title	_	_	_	_	Translit=zꜣ-nswt
+2	𓌸𓄟𓊃	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZVog2UpQIkWIqWPGSf11GBM
+# corpus = tuebingerstelen
+# src_text_id = HOAVL7CMXFAIBGHQDWHENDGMQI
+# src_text = tuebingerstelen:Stele des Merimes (Äg. Slg. Tübingen Inv. Nr. 1684)//Stele des Merimes (Äg. Slg. Tübingen Inv. Nr. 1684)
+# owner = Susanne Beck
+# text_de = Ein Opfer, dass der Kö[nig] (und) Osiris, der Herrscher der Egwigkeit, gi[bt].
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 1
+1	𓇓𓏙𓊵𓏏𓊪	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓊩𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓋾𓆓𓏏𓇾	851552	_	epitheton-title	_	_	_	_	Translit=ḥqꜣ-ḏ.t
+

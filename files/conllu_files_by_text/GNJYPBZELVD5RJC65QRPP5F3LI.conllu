@@ -1,0 +1,17 @@
+# sent_id = IBUBdWvVpKbb70LYjgeoNP6pah0
+# corpus = bbawgrabinschriften
+# src_text_id = GNJYPBZELVD5RJC65QRPP5F3LI
+# src_text = bbawgrabinschriften:Steinblock-Aufschriften//Inschrift 12
+# owner = Stefan Grunert
+# text_de = Regierungsjahr 10, Monat 4 der Peret-Jahreszeit (Winter), Tag 23.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓆳	850581	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rnp.t-zp
+2	𓎆	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇹	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+4	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓉐𓏏	60300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
+6	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+7	𓐄𓐄	850814	SYM	numeral	_	_	_	_	Translit=1...n
+

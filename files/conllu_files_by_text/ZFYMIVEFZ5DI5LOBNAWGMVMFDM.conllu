@@ -1,0 +1,963 @@
+# sent_id = IBUBdWKWdpWyUUEOt3hOHkYrbGE
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Fall auf dein Gesicht (Seth), sieh' nicht zu dem Leichnam (Osiris) hin!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,1]
+1	𓐍𓂋𓀒	119610	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫr
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓁷𓏤𓏱	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅓	64410	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=m
+6	𓈖𓍇𓏌𓏲𓁻	80800	VERB	verb	VerbForm=Fin	_	_	_	Translit=nwꜣ
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓆞𓏏𓐎𓅆	122220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖꜣ.t
+
+# sent_id = IBUBdximpAzkSETXjgDSxZSs4E8
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Weiche zurück du von mir, (denn) ich bin Horus 'über dessen Erscheinung man jubelt'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,2]
+1	𓈟𓅓𓂽	105200	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥmi̯
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+7	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+8	𓎛𓂝𓀠𓏛𓏲𓏏𓇋𓂋𓏲𓀀𓏥𓆑	853077	_	epitheton-title	_	_	_	_	Translit=ḥꜥꜥ⸗tw-m-jr.w⸗f
+
+# sent_id = IBUBd3Q38vgCaECYocDWEyazPPQ
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Oh Wütender, dessen Gesicht jammervoll ist, der Rot ist (vor Wut), Habtj (?), Zerlegter, der seiner Verbrennung entgegengeht!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,4] -  [33,5]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓈍𓂝𓂋𓍘𓀒	853078	_	epitheton-title	_	_	_	_	Translit=ḫꜥr.tj
+3	𓉔𓄿𓃀𓏰𓂻𓁷𓏤𓏰𓆑	853079	_	epitheton-title	_	_	_	_	Translit=hꜣb-ḥr⸗f
+4	𓂧𓈙𓂋𓏏𓏰𓍿	853080	_	epitheton-title	_	_	_	_	Translit=dšr.tj
+5	𓎛𓃀𓂝𓍘𓇋	853081	_	epitheton-title	_	_	_	_	Translit=ḥꜥb.tj
+6	𓍉𓀒𓍘𓇋	853082	_	epitheton-title	_	_	_	_	Translit=stp.tj
+7	𓊄𓃀𓏲𓈖𓐍𓏏𓊮𓆑	853083	_	epitheton-title	_	_	_	_	Translit=zb-n-ḫ.t⸗f
+
+# sent_id = IBUBd5Gdj0upe0iWlpsjQRmWNNM
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Als) er attackiert hat, war er (auch schon) in die Richtstätte eingegangen, (denn) er hatte den 'geheimen Ort' (mit der Osirisleiche) gesehen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,6]
+1	𓍿𓃹𓈖𓂻𓈖	174980	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯwn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂝𓈎𓂻	41180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓉔𓄿𓃀𓍁𓏏𓉐	98070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=hb.t
+7	𓌳𓂂𓂂𓈖	66270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓊨𓏏𓉐𓈙𓇾𓏴𓏏	853084	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-štꜣ.t
+
+# sent_id = IBUBd9hvqAAIYUU9isqLDovihEg
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Oh fällt ihn, schlagt Seth nieder, eure Hände an ihn (ihr) Nehebtiu!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,7] -  [33,8]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓐍𓂋𓀒	142780	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḫr
+3	𓋴	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓈍𓂝𓂋	114890	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫꜥr
+5	𓊃𓏏𓐍	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+6	𓂣𓏲	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+7	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+8	𓁷𓏤𓏰	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅘𓎛𓈖𓏏𓏭𓅆𓏫	86190	PROPN	entity-name	_	_	_	_	Translit=Nḥb.tjw
+
+# sent_id = IBUBd84PkYz5N0O1pytQdNZs1VU
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Falle nieder Frevler, (als) Bezwungener (und) Vernichteter!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,9]
+1	𓉔𓄿𓂻	97350	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=hꜣi̯
+2	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbj
+3	𓂧𓏏𓍿	853085	_	epitheton-title	_	_	_	_	Translit=dꜣr.tj
+4	𓏏𓂋𓆳𓍿	853086	_	epitheton-title	_	_	_	_	Translit=dr.tj
+
+# sent_id = IBUBd0mLZYNMGkH9v0AJaieFWm4
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du wirst nicht in die große Neschmet-Barke einsteigen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,10]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈖𓈙𓅓𓏏𓏏𓊛𓅆	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+6	𓅨𓏏𓂋𓅆	47271	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wr
+
+# sent_id = IBUBdyfOwepBoEb9vhQuVWfZuFk
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du wirst nicht eintreten in das 'Palais der Nekropole' - andere Lesart: 'Heiligtum der Nekropole'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,11]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂝𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓉥𓏤𓅆𓐖𓏏𓊖	853087	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḥ-zmy.t
+6	𓎡𓊃	500002	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ky-ḏd
+7	𓂝𓃀𓎺𓊃𓏏𓊖	853088	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥb.t-zmy.t
+
+# sent_id = IBUBdWQyLbFQRkJqtnY0pc1Suy0
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Zurück mit dir ("hinter dich") Frevler, (der) du gefallen bist in deine Verbrennung!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,12]
+1	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓃀𓇋𓅱𓌙𓏱𓏥	131530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbj
+4	𓐍𓂋𓀒𓏲𓏏	119610	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫr
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄿𓅓𓅓𓊮	128	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣm
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6gQFqUKLEchqVxkSsQkXmc
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Die Djertiu(-Götter) haben dich vernichtet wegen deines schrecklichen Handelns!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,13]
+1	𓂧𓂋𓏛𓈖	180130	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+2	𓍿	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+3	𓇥𓂋𓏏𓏭𓅂𓅆𓏫	853089	PROPN	entity-name	_	_	_	_	Translit=Ḏr.tjw
+4	𓅓	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓂝𓐍𓅓𓆊𓏥	40790	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥẖm
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7TAUsZQ2USRm4jfmQ70BdU
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Zu Fall Gebrachter, seine Angehörigen (des Osiris: Isis, Nephthys und Horus) (und) dieses Land sind gegen dich - andere Lesart: dieser 'Böse' ist gegen dich -!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,14]
+1	𓋴𓉔𓄿𓍘𓀒	853090	_	epitheton-title	_	_	_	_	Translit=shꜣ.tj
+2	𓇋𓂋𓏭𓀹𓏛𓏫	28510	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jr.j
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓎡	500002	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ky-ḏd
+9	𓈋𓏲𓅪	853091	PROPN	entity-name	_	_	_	_	Translit=Ḏw
+10	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWEnHlTyc0GlmQ0M52D9IoA
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du wirst keinen Zugang haben zu seinen Mysterien!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,15]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂝𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈙𓇾𓏴𓏤𓏛𓏥	158120	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=štꜣ.w
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdziL6WSnMkn9n5PeQ5qmI0c
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Oh, (daß) ihn vernichten 'die Vernichter'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [33,16]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓎛𓍟𓅓𓏏𓇋𓇋𓏫	853092	PROPN	entity-name	_	_	_	_	Translit=Ḥtm.w
+
+# sent_id = IBUBd5tQSz5yo0ajq755WiKPrC0
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Denn) das Ansinnen (die Absicht) ist es, das die Götter äußern!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [34,1]
+1	𓎡𓇋𓇋𓏭𓏛	163220	VERB	verb	VerbForm=Fin	_	_	_	Translit=kꜣi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓉔𓄿𓃀𓂻	97580	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=hꜣb
+4	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd9YtFecIcUxTus3zGkp9uQA
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Hat er (Seth) (doch) attackiert (und) die Neschmet-Barke versenkt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [34,2]
+1	𓍿𓃹𓈖𓈖𓂻	174980	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯwn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃛𓏲𓎛𓂝𓈗𓏌𓀜𓈖	23000	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwḥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖𓈙𓅓𓏏𓏏𓊛𓅆	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+
+# sent_id = IBUBd97QHzEFO0r7ugVfiFDN7P8
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Sie werden die Untat vergelten (,die begangen wurde) an dem 'geheimen Ort'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [34,8]
+1	𓏲𓂧𓏴𓏛𓀜	854503	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓈎𓈖𓏌𓏲𓏴𓅪	160970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qnj.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊨𓏏𓉐𓈙𓇾𓏴𓏏	853084	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-štꜣ.t
+
+# sent_id = IBUBd9tYJWHvnEA0vGF0PpNd4tQ
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Re befiehlt (doch) nicht, solches (es) zu tun!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [34,9]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓎘𓏲𓏏𓍼𓏤𓈖	51970	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
+3	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+4	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdyboih1Uw000uV6AWeMR4Do
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du wirst gesucht werden wegen deiner Missetaten!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [34,11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓎛𓎛𓏰𓂻𓍘	101930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥjḥj
+4	𓅓	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓏏𓉔𓄿𓂿𓀜𓏥	172900	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=th
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0WnU5PrmEHNi0Yw3XBGDII
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Was ist (nun) mit ihm (Seth), der ihm (Osiris) nachstellte?"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [34,13]
+1	𓇋𓈙𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓉔𓄿𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=hꜣi̯
+5	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd7Q8QnkOH0g8uRm713bRVcA
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Dein Beseitigen, 'Zugrundegegangener', ist vollendet an Dir!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [35,5]
+1	𓂧𓂋𓏛𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓅓𓏛𓍘	_	X	unknown	_	_	_	_	_
+4	𓏏𓅓𓏛	854578	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=tm
+5	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd9zqizl3hk7yri98DAnuwE4
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Erwache du Horus, beschütze dir deinen Vater!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [35,6]
+1	𓈖𓉔𓄿𓋴𓁻	85790	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nhzi̯
+2	𓏲𓏏	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓄑𓂋𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓐩𓏌𓏏𓀁	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdyUoGFrrgUhJkAT9AxMGGXY
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Sei zunichte - zwei Mal - 'Zertretener' - zwei Mal - falle (nieder) du!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [35,12] -  [35,13]
+1	𓏏𓍃𓅓𓏛	854578	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=tm
+2	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓉔𓃀	853107	_	epitheton-title	_	_	_	_	Translit=hb
+5	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+6	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓉔𓄿𓂻	97350	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=hꜣi̯
+8	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7BuWvwWQkgerQna9kSJD0Y
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du fällst zu Boden (und) du wirst dich nicht (mehr) erheben können!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [35,14]
+1	𓐍𓂋𓀒	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓍟𓂻	854581	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯzi̯
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3br3Cx5jkIqgStVxegUFdw
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Deine Richtstätte hält dich gepackt (und) sie läßt dich nicht (mehr) entkommen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [35,15]
+1	𓈖𓇥𓏤𓇋𓏲𓏛𓀜𓈖	91670	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏri̯
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓐍𓃀𓏏𓉐	115450	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫb.t
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓂋𓂞𓏛𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓆒𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5WUaJyqCExTtS31PJalMis
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du sollst kämpfen für dich, Neschmet-Barke!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [35,16]
+1	𓂚𓄿𓏲𓀜	39920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜣ
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓁷𓏤𓏰	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+5	𓈖𓈙𓅓𓏏𓏏𓊛𓅆	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+
+# sent_id = IBUBdwBKf6sW7UFjtJ7PYT1pUiE
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du sollst makellos (heilig) sein für den, der in dir ist (Osiris)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,1]
+1	𓂦𓂋	854592	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏsr
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏶𓅓	25130	ADJ	adjective	Number=Sing|Status=Pron|Gender=Masc	_	_	_	Translit=jm.j
+5	𓏏𓅆	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBd2VdH6HxikwgsKyeBveNczY
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Denn) der Schutz von Re ist um dich!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅓𓂝𓎡𓏏𓈇𓏤𓏫	76880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mkw.t
+3	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+6	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBdW8JaINutU43iS6Lq9szKJk
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Und) Thot, er vertreibt für dich den Boshaften!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,3]
+1	𓏏𓅝𓏭𓅆	185290	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj
+2	𓐍𓊃𓂋	121030	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫsr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+6	𓈋𓏲𓏏𓏭𓀏𓏱	182910	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḏw.tj
+
+# sent_id = IBUBd53v2U2dsk3xtfDUvIexZj8
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Oh Neschmet-Barke, halte dir den, der nach dir (feindlich) sieht, fern!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,4]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓈖𓈙𓅓𓏏𓏏𓊛𓅆	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+3	𓈙𓈖𓂝𓂻	854560	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šnꜥ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+6	𓌳𓂂𓂂	66270	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜣ
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBdxjpJgUqU0tzon5qgEVZvrg
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Der 'Bösewicht' ist er, sein Opfern erfolgt (ist) in der Richtstätte!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,5]
+1	𓈖𓉔𓂋𓏱	85710	_	epitheton-title	_	_	_	_	Translit=nhr
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓏲𓏏𓈖	854506	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉔𓄿𓃀𓍁𓏏𓉐	98070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=hb.t
+
+# sent_id = IBUBd3VQ3nvqbkeCn9EKcWQ8eRI
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Hat er (doch) attackiert (und) das Land mit seiner Bosheit verunreinigt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,6]
+1	𓍿𓃹𓈖𓂻𓈖	174980	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯwn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄏𓈖	36340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇿𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈖𓉔𓂋𓂡	85720	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nhr.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwtmhmhgfkHtigt9ofR4CJ8
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = (Thot? zu Horus:) "Horus, schreie" - zwei Mal - " zu Re!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,8]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓋴𓃀𓎛𓏲𓏮𓄑𓀁	131900	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sbḥ
+3	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd3motB6zTkHluWGD1f4Xm6Q
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Damit) er die Bestrafung des Bösen veranlasse, das dieser Nehes (Seth) angerichtet hat!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,9]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐍𓋴𓍚𓏛𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+4	𓈋𓏲𓅪	182860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+5	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓈖𓉔𓋴𓏱	85780	PROPN	entity-name	_	_	_	_	Translit=Nhs
+7	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdyXNWGgnhEJ4o15E0YqIg6Y
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Und) du bist (schon) gefallen im Morgengrauen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐍𓂋𓀒𓏲𓏏	119610	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫr
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈖𓉔𓊪𓇳	85570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nhp.w
+
+# sent_id = IBUBd4eCQBQZf0k3k695Qg5QcGc
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Denn) die Neschmet-Barke hält dich gepackt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,12]
+1	𓈖𓇥𓂋𓇋𓏲𓏛𓀜𓈖	91670	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏri̯
+2	𓈖𓈙𓅓𓏏𓏏𓊛𓅆	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7hevKzuZ0QmsLk2TlqamLI
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Oh Frevler, du bist des Todes ("am Zeitpunkt des Todes")!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,13]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbj
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓏲𓏏𓎡	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓂋𓆳𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+
+# sent_id = IBUBdwQZEMQViEhGoAT789MC8xc
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Feind der Neschmet-Barke, Re hat befohlen, (daß) du stirbst!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,14]
+1	𓐍𓆑𓏏𓏱𓈖𓈖𓈙𓅓𓏏𓏏𓊛𓅆	853112	PROPN	entity-name	_	_	_	_	Translit=Ḫft.j-n-nšm.t
+2	𓎘𓏲𓏏𓏛𓈖	51970	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
+3	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+4	𓅓𓏏𓏱	69300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mwt
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7UIqSnhtUBCtVJkYfpMcFc
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Oh Frevler, du bist am Zeitpunkt deines Todes (angelangt)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,15]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbj
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓏏𓏲𓎡	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+5	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓂋𓆳𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mwt
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd9L5O68DhEykvbpxBsOQ6xk
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du bist überwiesen (worden) an deine Richtstätte (zur Vergeltung) des Bösen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [36,16]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓂋𓆳𓏛	854576	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=twr
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓐍𓃀𓏏𓉐	115450	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫb.t
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓈋𓏲𓅪	182860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+
+# sent_id = IBUBd42aKk35o0GmrTQyvIQHCgA
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Und) man sorgt für deine Bewachung hier (in ihr")!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,1]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓀸𓄿𓏲𓏛𓀜	126290	VERB	verb	VerbForm=Fin	_	_	_	Translit=zꜣu̯
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd1ZsisgUrEUQm70yvBsH4AQ
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Oh, werft ihn nieder, 'In der Richtstätte befindliche (Götter)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,2]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓐍𓂋𓀒	142780	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḫr
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓏶𓅓𓏲𓏫𓐍𓃀𓏏𓉐	853109	PROPN	entity-name	_	_	_	_	Translit=Jm.jw-ḫb.t
+
+# sent_id = IBUBdzOg5wxxZESUgBqbX5M2XTU
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Fesselt ihn mit dem Lasso!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,4]
+1	𓊃𓈖𓎛𓏲𓏴𓀜	137850	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=snḥ
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓏏𓍃𓅓𓍱	853110	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tm
+
+# sent_id = IBUBd5wKfqCC1UeEpnBBIHYnQ1w
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Fischt ihn mit dem Netz für Fische!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,5]
+1	𓎛𓏏𓍔𓄿𓇉	101780	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥꜣd
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓍲𓈖𓏌𓏲𓍱𓏥	155940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šn.w
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓂋𓅓𓆟𓏥	94160	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rm
+
+# sent_id = IBUBdWWQ4cd0PU1cpbtprwBCFbA
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Zer)schneidet ihn mit dem Des-Messer!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,6]
+1	𓈙𓂝𓂧𓄧𓌪𓂡	152600	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šꜥd
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂧𓊃𓌪𓊌	180620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ds
+
+# sent_id = IBUBdz0lxNH3J0fmtMcTQ6IAuVs
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Zerstückelt ihn mit dem Behnet-Messer!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,7]
+1	𓃀𓎛𓈖𓌪	56830	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=bḥni̯
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓃀𓎛𓈖𓌪𓏏	56870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bḥn.t
+
+# sent_id = IBUBd80p7ghG0kqDneOT8bwjd6g
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Glied um Glied von ihm (sei) gegeben ins Feuer!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,8]
+1	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+2	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂞	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rḏi̯
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBdwQlPySsPUzIhXsBogEk9jM
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Lasst ihn verbrennen als (wäre er aus) Wachs!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,9]
+1	𓂝𓅓𓂝	851706	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jmi̯
+2	𓏏𓂓𓏤𓄿𓏲𓊮	173610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tkꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏠𓈖𓎛𓏲𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+
+# sent_id = IBUBdwlrZcgxyEVmjzcKk2WQWWI
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Die 'Schutzkräfte des Abatons' sie sollen den sehen, der 'Jenen' (Seth) niederwerfen wird (Horus?)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,14] -  [37,15]
+1	𓅓𓂝𓎡𓏲𓏏𓅆𓏫𓏌𓏤𓂝𓃀𓇉	853114	PROPN	entity-name	_	_	_	_	Translit=Mk.tjw-n.w-ꜥb.t
+2	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓋴𓐍𓂋𓀒𓍘𓏏𓆑𓏭	142780	VERB	verb	_	_	_	_	Translit=sḫr
+5	𓊪𓆑𓏭𓏱	852402	_	epitheton-title	_	_	_	_	Translit=pf
+
+# sent_id = IBUBd7V6AxRWZUIopxym68XzYk4
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Seht (also) seine Hinrichtung!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [37,16]
+1	𓌳𓂂𓂂	66270	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mꜣꜣ
+2	𓌉𓆓𓏴𓇋𓇋𓂻	112680	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥḏ.yt
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1AaWgiS10v6qX1PyQLRFgs
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Jener Boshafte, der sich bereit gemacht hatte, ein Verbrechen zu begehen, (da) ist (gar) kein Rest (mehr) seines Leibes, es gibt (überhaupt) keinen Rest (mehr) von ihm!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [38,1] -  [38,2]
+1	𓈋𓏲𓏏𓏭𓍼𓂻	182910	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḏw.tj
+2	𓊪𓆑𓏭	851258	PRON	pronoun	PronType=Dem	_	_	_	Translit=pfj
+3	𓁷𓂋𓇋𓇋𓎅𓀜	107560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥr
+4	𓊃	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓏲𓂧𓏴𓏛𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+7	𓈎𓈖𓏌𓏲𓏴𓅪	160970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qnj.w
+8	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+9	𓂢𓏌𓏲	132330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+10	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+11	𓎛𓂝𓏤𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+12	𓎡	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+14	𓊃𓊪𓊗	132330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zp
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxhDWF6cS0bgqSFFJYBlQo4
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Das ist die Züchtigung für das Böse, das er angerichtet hat!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [38,3]
+1	𓎛𓆓𓏏𓐎	112400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈋𓏲𓅪	182860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd249thSV109LvxV8wp4d7xs
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Denn) errichtet ist sie (die Richtstätte) gegen ihn, der ergriffen wurde wegen all' des Bösen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [38,5] -  [38,6]
+1	𓀨	162420	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qd
+2	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖𓇥𓏤𓂋𓇋𓏲𓏛𓀜	91670	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=nḏri̯
+6	𓈖𓏏	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓈋𓏲𓅪	182860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+8	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBd31i4ZHIPUWtgbywCSprVEY
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Du bist überwiesen (worden) an deine Richtstätte, (daß) sie dich (am anderen Ufer) landen lasse (sterben lasse)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [38,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓂋𓆳𓏛𓏲𓏏	854576	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=twr
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓐍𓃀𓏏𓉐	115450	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫb.t
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓏠𓈖𓇋𓈖𓇋𓏲𓋾𓊛	854513	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mjni̯
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓏲𓏏	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+
+# sent_id = IBUBd3NwbCvQx0uLoyXrsQ3ewFE
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Es kommt zu deiner Hinrichtung gemäß des Verbrechertums deines Charakters!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [38,8]
+1	𓆣𓂋𓏛	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓐍𓃀𓋴𓌪	115410	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫb
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓍑𓄿𓄿𓅪	181810	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏꜣ.ywt
+6	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zp
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5FFY5NcwUtTnA5PITbkLWI
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "(Denn) Re ist der, welcher es befiehlt (nämlich) deine Vernichtung, Frevler (und) 'Feind der Neschmet-Barke'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [38,9]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓎘𓏲𓏏𓂧𓂧𓏮𓏛	51970	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏ
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥtm
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbj
+8	𓐍𓆑𓏏𓏱𓈖𓈖𓈙𓅓𓏏𓏏𓊛𓅆	853112	PROPN	entity-name	_	_	_	_	Translit=Ḫft.j-n-nšm.t
+
+# sent_id = IBUBd9Fo8t9fe0AUt8Ghb6wipc0
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = "Es triumphiert Re über Apophis - vier Mal -!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [38,11]
+1	𓐙𓌳𓂝𓆄𓊤𓏲𓀁	66730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜥ-ḫrw
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓉻𓊪𓊪𓏱	35360	PROPN	entity-name	_	_	_	_	Translit=Ꜥꜣpp
+5	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+6	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd4vpSdXn1UpRi2pRqhjYWOk
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = (Handlungsanweisung:) (Zu) rezitieren über einer Figur von Seth, gefertigt aus rotem Wachs (und zu) werfen ins Feuer in Gegenwart dieses Gottes!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [39,1] -  [39,2]
+1	𓆓𓂧𓌃𓏤𓏫	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓀾	170470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twt
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+6	𓁹𓂋𓏮	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓏠𓈖𓎛𓏲𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+9	𓂧𓈙𓂋𓏏𓏰	550232	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=dšr
+10	𓂞	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+13	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+14	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+15	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdxFSRBQKTEbNpcuSRhRKq00
+# corpus = bbawtotenlit
+# src_text_id = ZFYMIVEFZ5DI5LOBNAWGMVMFDM
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//4. "Fall auf dein Gesicht" (Ritual zum Schutze der Neschmet-Barke)
+# owner = Frank Feder
+# text_de = Ende (des Textes)!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [39,3]
+1	𓂻𓏲𓆑𓊪𓏲	21930	VERB	verb	_	_	_	_	Translit=jwi̯
+

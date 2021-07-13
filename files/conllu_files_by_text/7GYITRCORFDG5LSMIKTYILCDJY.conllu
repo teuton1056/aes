@@ -1,0 +1,1155 @@
+# sent_id = IBcCBtsejmWpK0UkgQTuFZiHQ2c
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde mit frischem Olivenöl fein zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,2] - [91,3]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+5	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBcCBoWsEqwMgkoetE4qJDKHXhk
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,4]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcCBhv0l5xXeUzoiWi4Px9yqw8
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,4] - [91,5]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCBkdTRo2W5U4uqeeGyAT12qk
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Du sollst es mit einem kühlenden Mittel behandeln.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,5] - [91,6]
+1	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srwḫ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊃𓊪𓏲𓈒𓏥	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+6	𓏁𓏲𓈗	550102	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qbb
+
+# sent_id = IBcCBuTLIvUlukUmrr7fAv2h610
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Es soll nicht warm werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,6]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈙𓅓𓅓𓊮	154890	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmm
+
+# sent_id = IBcCBn3I2Z27GEWqrTM2QWQmCL4
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Wenn ein Gefäß (des Ohres) zittert, so sollst du ihm eine $ḥsb.w$-Paste (?) aus Malachit machen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓋴𓂧𓄿𓅯	149660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sdꜣ
+3	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+4	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓐎𓏲𓊌	109950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥsb.w
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓇅𓏤𓊌	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBcCBlrt5J7aQklUjwnaW6nPBIs
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,7]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcCBuDKxptYJUj9j0rGQx5tBvU
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde viele Male darauf gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,8]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊃𓊪𓏲𓈒𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓆈𓄿𓏲𓏪	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+
+# sent_id = IBcCBu6od9f9nUuvkQndObUHaeE
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Wenn seine (d.h. des Ohres) Öffnung nässt, so sollst du ihr ein Pulver (?) zum Austrocknen der Wunde bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,8] - [91,9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈗𓇋𓇋𓈗	69220	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=mwi̯
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓏏𓅓𓏏𓏲𓈒𓏥	172330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tmt.w
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓋴𓆅𓅱𓏏𓇳	144800	VERB	verb	VerbForm=Fin	_	_	_	Translit=sšwi̯
+12	𓇶𓏌𓄹	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBcCBhdH43LX3U8ckSOQFHnTggo
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,9]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcCBjWmycOfpEgQqTEGvwsrvXQ
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,9]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCBliW92xJqk5PoOchUWxWxdQ
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Wenn es (d.h. das Ohr) darunter/infolgedessen fettet, so sollst du ihm (folgendes) Mittel zum Austrocknen der Wunde bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,9] - [91,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈎𓈖𓐎	160890	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qni̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓊃𓊪𓏲𓈒𓏥	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓆅𓅱𓏏𓇳	144800	VERB	verb	VerbForm=Fin	_	_	_	Translit=sšwi̯
+13	𓇶𓏌𓄹	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBcCBuoF0rD8NUc7uWaGqhsvBok
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Kopf eines $ꜥmꜥm$-Tieres, $mnḏr$-Körperteil einer Ziege, Panzer einer Schildkröte, Konyza (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,10] - [91,11]
+1	𓍑𓄿𓍑𓄿𓁶	182330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣḏꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂝𓅓𓂝𓏲𓄛𓏤	37830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥmꜥm.w
+4	𓏠𓈖𓇥𓂋𓄹	71750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḏr
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓌡𓂝𓏏𓏭𓃙	44240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ.tj
+7	𓊪𓈎𓇋𓇋𓏏𓊌	59350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓈙𓏏𓅂𓄛𓏤	158430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šṯ.w
+10	𓇋𓆛𓈖𓈖𓎢𓆰𓏥	27520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnnk
+
+# sent_id = IBcCBrkzXCBv801RqjnwW30H0x0
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ebenso kannst du (übrigens) für einen Finger handeln, (wenn) er gebrochen ist (und) sein Mark (?) auf den Boden fließt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,12]
+1	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+6	𓏴𓂝	150110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓄝𓏏𓂻	854553	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sti̯
+9	𓏏𓃀𓈖𓂐	170690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tbn
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBcCBss3dZqzhERwkGJCRK249WY
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = So sollst du ihm (d.h. dem Ohr) ein(en) Netz(verband) aus $ꜥꜣ.t$-Leinen machen, indem es geknüpft ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,13] - [91,14]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓄿𓂧𓏏𓍢	21190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣd.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓉻𓏏𓏯𓍢	34920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+8	𓄝𓏏𓀜𓍘𓇋	854553	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=sti̯
+
+# sent_id = IBcCBsus6nukAEjksEcFoByfBFw
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = (Das Ohr) werde durch ihn mit Milchsaft der Sykomore umschlossen, bis/so dass es an seinem Blut haftet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,14] - [91,15]
+1	𓂝𓂋𓆑𓍱𓀜	39500	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥrf
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+6	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓂧𓏇𓇋𓏛	179320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dmj
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=znf
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBghVodSR8kXEjejWbQHu6Q8
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = (Es) werde kein Öl/Fett (oder) Honig daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,15]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBnE40Nza9UAQvumWQ2GAA6k
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Dann sollst du seine eine Seite anschneiden, damit sein Blut auf seine(r) eine(n) Seite austreten (wörtl.: hinabsteigen) (kann).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,15] - [91,16]
+1	𓋴𓆑𓌪𓀜𓇋𓈖	133410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zf
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌡𓂝𓏤	44150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ
+6	𓂜𓄣𓏤𓈖	79060	ADP	preposition	_	_	_	_	Translit=n-jb-n
+7	𓉔𓄿𓏲𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+8	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=znf
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓌡𓂝𓏤	44150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCBl5QRqVAzEQKv9ID7S19hxw
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Es soll überhaupt nicht faulen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,16]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓍯𓄿𓐎	102640	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwꜣ
+4	𓂋𓊃𓏭𓈐	96030	ADV	adverb	_	_	_	_	Translit=rsj
+
+# sent_id = IBcCBmCL9dp8P0zss0XkU4auI4E
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Nachdem du / Wenn du danach festgestellt hast, dass es sich vereint hat, so sollst du ihm Öl/Fett und Wachs bereiten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,16] - [91,17]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓂋𓐍𓏛𓈖	95620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓋬𓂧𓏛	179420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dmḏ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+12	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+
+# sent_id = IBcCBk79d1uW6U8yvfJSbsyyhLw
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,17]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcCBkeQ9bRQRkfRsd1VCxMzxqc
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = (Das Ohr) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,17]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCBtB4ezaPD0EJmmteWq5zllI
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = (Es) soll (aber?) nicht (zu) sehr (d.h. nicht zu viel?) verabreicht werden,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,17]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓉻𓂝𓄿𓏛	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBcCBqdCYvgOq0FYtvWs1fjJrU0
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = (sondern) ebenso (viel) sollst du daran geben wie bei irgendeinem Wundsekret, (wenn) es (d.h. die Wunde) gespalten ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,18]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+6	𓍬𓏏𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+8	𓊪𓌉𓆓𓏴𓅪	61660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥḏ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBs9h3VsIq0hNkvzyjjReRbI
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Wenn es aber (eine Zeit) im Widerstand (gegen die Heilung) verbringt, dann sollst du ihm eine Binde aus Stoff machen, indem sie an seinen/seinem Hinterkopf geknotet ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,18] - [91,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏴𓂻	129740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swꜣi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓍑𓄿𓇋𓇋𓏏𓏴	181810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣ.ywt
+6	𓁹𓇋𓈖	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓊃𓈙𓈖𓏏𓍱	145320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sšn.t
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓋳𓏥	103750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs
+13	𓋭𓊃𓍢𓂝𓍘𓇋	176800	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ṯꜣz
+14	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+15	𓅓𓂝𓇉𓄿𓁶	73700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mḥꜣ
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBmem560GfkMAjtM5SQdC4G4
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Dann sollst du ihn/es gänzlich umkreisen mit einem $ẖp.t$-Instrument bis zu den Grenzen all dessen, was in ihm entzündet ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [91,21] - [92,1]
+1	𓄲𓈖𓂻𓇋𓈖	854585	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbn
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐎𓊪𓏏𓌪	875708	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖp.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇥𓂋𓏲𓈐𓏥	184990	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏr.w
+8	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+10	𓂙𓈖𓐎	123060	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ẖn
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBQvA4Gy5iEGvrBRai3S6Ny4
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = So sollst du ihm (ein Heilmittel aus) Öl/Fett und Honig machen, (das) in sein (d.h. des Ohres) Inneres gegeben werde, (und außerdem) Fasern, (die) in eine Kopfbinde aus Stoff gegeben werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,1] - [92,2]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+6	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+7	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖnw
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓆑𓏏𓏏𓄧𓏥	64200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ftt
+12	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓎔𓎛𓋳	78680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḏḥ
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓋳𓏥	103750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs
+
+# sent_id = IBcCBoKYusis2EcQmYnF3ag5eUw
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde darüber (d.h. über dem Heilmittel) verbunden, so dass er gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,2]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBuEY9HqceEq3o30kTNP21NI
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Olivenöl: 1, Weihrauch: 1, $sḫp.t$-Dünnbier: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,4]
+1	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓋴𓐍𓊪𓏏𓈒𓏥	142010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫp.t
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCBmTeNDMj90stqJUSuwLS7bI
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCBiuy82U02kddul3BXiiUyoE
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,5]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcCBtQQkeO2xErzqAieYySi2B8
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,6]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcCBvIOxFCNbU3ng4425xEOe0g
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Heilmittel zum Beseitigen von $nssq$-Haarausfall:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,7]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈖𓋴𓋴𓈎𓌪	88360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nssq
+
+# sent_id = IBcCBj4IIpriqk2fsoOLwN8rZ0A
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Stachel eines Igels (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,7]
+1	𓋴𓂋𓏏𓇮	139070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓎛𓆰𓈖𓏏𓏭𓄛	107360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥntꜣ
+
+# sent_id = IBcCBgW0Szxri0FIrrq43L17WmI
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde vollständig ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,7]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+
+# sent_id = IBcCBqq7Ud6WGkVHlg1flp2Gbok
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde in Öl/Fett getaucht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,8]
+1	𓄡𓏏𓃀𓀜	124900	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖtb
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓆰𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcCBpyp8MQJM00yttpkle1zXKM
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,8]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBu3ikroNCUjsk9RH8N82kUE
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCBq0ZqtLQakual9bzW9XnDNU
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Roter Ocker, $ḥrw.t$-Teil von vortrefflichem Bier.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,8]
+1	𓏠𓈖𓈙𓏏𓈒𓏥	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+2	𓁷𓂋𓅱𓏏𓏌𓏥	874334	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥrw.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+5	𓇋𓈎𓂋𓏏𓏛	400076	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jqr
+
+# sent_id = IBcCBlmRC6ZDyUgOsJLyraWTfvQ
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,9]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBplFYQ9Stk3UveWTFWmZYyo
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Nachdem er (d.h. der $nssq$-Haarausfall? oder das betroffene Haar?) abgeschnitten wurde: $jḥ.w$-Pflanzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,9]
+1	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+2	𓋴𓆑𓏏𓌪𓂝	133940	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zfṯ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓎛𓏲𓈒𓏥	30630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ.w
+
+# sent_id = IBcCBloiABXUoEJSqOFzyj0BAH0
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde zerrieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,9]
+1	𓋴𓇋𓆛𓈖𓏌𓂝	128320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zjn
+
+# sent_id = IBcCBsC7Q8bhEk7aksMpa51KxwM
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,9]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBlOQoa2BZ0FHvUhPk9wkvmc
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCBlwvnwvrSUqguBVcWuC1iWM
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ein $hdm$-gemachter $qd$-Topf.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,9]
+1	𓐪𓂧𓏌	162410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qd
+2	𓉔𓂧𓅓𓀜	99660	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hdm
+
+# sent_id = IBcCBmK5WTg5gkQ1soJQowSFpE0
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde vollständig mit Öl/Fett und $ṯr.w$-Ocker ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,10]
+1	𓋴𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓏞𓏲𓈒𓏥	176220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯr.w
+
+# sent_id = IBcCBt1skCqKMUgWrSwdbH4XGug
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde in Wasser zerstoßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,10]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcCBrKCIRqpJEK2t7WV9ejS160
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,10]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBvdVctEsyUpImX84GxaKECE
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCBg1iNhSKzk8RiQcoWLpSIdM
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Flachs, $ḥnw$-Pflanzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,11]
+1	𓎔𓂝𓎛𓏭𓄧𓆰𓏥	450266	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥꜥ.w
+2	𓎛𓆰𓈖𓏌𓏲𓆰𓏥	875732	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥnw
+
+# sent_id = IBcCBsFm1z03T0SpmXlzsVT8ajA
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde vollständig ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,11]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+
+# sent_id = IBcCBlLfZZuYI0WSg0f7HYLNX2U
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde in Öl und Propolis (?, wörtl.: Kot der Fliege) eingetaucht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,11] - [92,12]
+1	𓄡𓏏𓃀𓀜	124900	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖtb
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓎛𓋴𓐎𓏥𓈖𓂝𓆑𓆑𓅬	863819	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs-ꜥff
+
+# sent_id = IBcCBhNhkNLvzkF3qBSX2ioWNgI
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zerrieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,12]
+1	𓋴𓇋𓆛𓈖𓏌𓂝	128320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zjn
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCBhyeWAbDQE4NgtKyWnWcPQ8
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,12]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCBgTJTkSiHUbrvVwPZO7a7sM
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCBqqsvuiKn0cHqgWQm33UdSo
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Erde, die am (Finger-/Zehen-)Nagel des Patienten (?, wörtl.: des Mannes) ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,12] - [92,13]
+1	𓇾𓈇𓏤𓏌𓏥	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓃹𓈖𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂷𓏏𓏤	38130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥn.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCBpFYyeCVWkBWlO0mjF5Ryz8
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde daran gegeben, um (es) sofort zu beenden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,13]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓍃𓅓	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+6	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBcCBsQsQu2CYkyVlVIcPluYCbE
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = O Erglänzender, der (du) niederstößt (?) mit streitbarem Ausruf (?; wörtl.: streitbar(er) an Ausruf?), (o) Sonnenscheibe – hüte dich vor dem „Herrn des Scheitels“!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,14] - [92,15]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏲𓃀𓈖𓇳𓅆	45150	_	epitheton-title	_	_	_	_	Translit=wbn.j
+3	𓋴𓐍𓈖𓈖𓅯𓂻	878579	_	epitheton-title	_	_	_	_	Translit=sḫnn
+4	𓂚𓄿𓀜𓂋𓏤𓅆	878582	_	epitheton-title	_	_	_	_	Translit=ꜥḥꜣ-rʾ
+5	𓇋𓏏𓈖𓇳𓅆	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+6	𓀸𓄿𓄿𓀜	126290	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zꜣu̯
+7	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓎟𓄋𓏏𓏤𓅆	875735	_	epitheton-title	_	_	_	_	Translit=nb-wp.t
+
+# sent_id = IBcCBkmlKfWuJUQ0ktFSCUJu1Cs
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,16]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCBp0hPBOca0LRlID1oukWtTw
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,16]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCBrhBUpW8GEKmoojmcLxunBU
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von $nssq$-Haarausfall am (wörtl.: im) Kopf.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,16] - [92,17]
+1	𓎡𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈖𓋴𓋴𓈎𓌪	88360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nssq
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓁶	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBcCBnwDcRgnFEEdnT6rEsEXepU
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,18]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcCBkYfRYPrG0bYiXPhd2ThUG0
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Heilmittel zum Beseitigen des $mḥs$-Phänomens:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,19]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓎔𓎛𓋴𓐎	74140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥs
+
+# sent_id = IBcCBqTITpsKuUz5t2dN7pHT7WI
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = „Selbstentstandenes“ vom Honig.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,19]
+1	𓆣𓂋𓆓𓊃𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBcCBvxZiLDnzEIKmAVwnmzMkJ4
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Das $mḥs$-Phänomen werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,19] - [92,20]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓎔𓎛𓋴𓐎	74140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥs
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcCBvBXzN71LkeXgXkE2ODLiaE
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel gegen das $sr$-Phänomen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓊃𓂋𓆇	854835	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zr
+
+# sent_id = IBcCBhjshO6SaU0fliKg0o1NLds
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Früchte/Samen der $ḏꜣs$-Pflanze: 1, $mjm.t$-Pflanze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [92,21]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓏇𓇋𓅓𓏏𓈒𓏥	68310	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mjm.t
+5	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCBssYw1LJ4kg2vqOzmkW83DQ
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde zerkleinert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,1]
+1	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+
+# sent_id = IBcCBrVgxgGe0E7SooxbV60Zp8Q
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde von einem Patienten, der unter dem $sr$-Phänomen (leidet), gegessen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,1]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓊃𓂋𓆇	854835	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zr
+
+# sent_id = IBcCBoTlWgMii0YZsMXPISQxjms
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Honig: 1, $gꜣb.t$-Blätter der $mjm.t$-Pflanze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,1]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎼𓃀𓏏𓆰	166380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=gꜣb.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓏇𓇋𓅓𓏏𓈒𓏥	68310	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mjm.t
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCBsoofN5KV0zfiB9wMsYDRAE
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde in ihrem (d.h. der Pflanze?) Saft zerkleinert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,2]
+1	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓇋𓂋𓏭	851428	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jr.j
+
+# sent_id = IBcCBigZPiA0rk58lTtmXITIco8
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Der Penis / die Eichel werde gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,2]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓃀𓅡𓄿𓎛𓂺𓄹	53510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣḥ
+
+# sent_id = IBcCBivaPd6Y6UcOkxML4zT2EL8
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde darüber eine Nacht lang verbunden bis zu seinen Oberarmen und seinen (betroffenen?) Körperteilen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,2] - [93,3]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓎼𓂋𓎛𓇰	167920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+5	𓌡𓂝𓏤	44150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ
+6	𓂋𓏠𓈖𓏛𓅓	92020	ADP	preposition	_	_	_	_	Translit=r-mn-m
+7	𓎼𓃀𓏲𓂢𓏥	166900	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=gbꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCBqANk9HlmEWEhmWZFvcr0Tk
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Heilmittel zum Beseitigen von Wehklagen (eines Kindes):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,3]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓆈𓄿𓅱𓏏𓀁𓏪	41100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥšꜣ.wt
+
+# sent_id = IBcCBiqAoDiL5U1jpX3v99Ecc0o
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = $špnn$-Teile der $špn$-Pflanze, Propolis (? wörtl.: Kot der Fliege), das an der Wand ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,3] - [93,4]
+1	𓈙𓊪𓈖𓈖𓏌𓏲𓈒𓏥	153750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=špnn
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓈙𓊪𓈖𓆰𓏪	153710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=špn
+4	𓎛𓋴𓐎𓏥𓂞𓆑𓆑𓅬𓏥	863819	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs-ꜥff
+5	𓃹𓈖𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊅𓈇𓏤	27180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnb
+
+# sent_id = IBcCBgwZf4H7AknhvhhroLhk3OU
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,4]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCBjTC99kDeUDEsX9xWVOaCmY
+# corpus = sawmedizin
+# src_text_id = 7GYITRCORFDG5LSMIKTYILCDJY
+# src_text = sawmedizin:Papyrus Ebers//91,2-93,5 ⸗ Eb 764-782: Heilmittel gegen Ohrenprobleme, $nssq$-Haarausfall und anderes
+# owner = Lutz Popko
+# text_de = Was das „Wehklagen“ angeht: Das (meint) ein Kind, das jammert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,4] - [93,5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓆈𓄿𓅱𓏏𓀁𓏪	41100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥšꜣ.wt
+3	𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓂝𓈙𓅱𓏏𓀁𓏪	41150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥš.wt
+

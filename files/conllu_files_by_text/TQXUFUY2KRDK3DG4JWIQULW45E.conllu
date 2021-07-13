@@ -1,0 +1,104 @@
+# sent_id = IBUBd4EN5RZn10dQnp3W8KvAmJE
+# corpus = sawmedizin
+# src_text_id = TQXUFUY2KRDK3DG4JWIQULW45E
+# src_text = sawmedizin:Papyrus Edwin Smith//21.3-8 ⸗ Vso 4.3-8: Hautverschönerungsmittel
+# owner = Peter Dils
+# text_de = Heilmittel/Rezept zum Umkehren (d.h. Verschönern) der Haut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.3 = Vso 4.3] - [21.4 = Vso 4.4]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pẖr.t
+2	𓋴𓊪𓈖𓂝𓊜	132800	VERB	verb	VerbForm=Fin	_	_	_	Translit=spnꜥ
+3	𓇋𓆛𓈖𓌰𓅓𓁸	27420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnm
+
+# sent_id = IBUBd4RSpYtxpkyjrnhkEz7tVU0
+# corpus = sawmedizin
+# src_text_id = TQXUFUY2KRDK3DG4JWIQULW45E
+# src_text = sawmedizin:Papyrus Edwin Smith//21.3-8 ⸗ Vso 4.3-8: Hautverschönerungsmittel
+# owner = Peter Dils
+# text_de = Honig: 1 (Maßeinheit); rotes Natron: 1 (Maßeinheit); unterägyptisches Salz: 1 (Maßeinheit).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.4 = Vso 4.4] - [21.5 = Vso 4.5]
+1	𓆤𓏏𓏯𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+4	𓂧𓈙𓂋𓏯𓈒𓏥	550232	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=dšr
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓎛𓌴𓄿𓇋𓇋𓏏𓍖	105070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t
+7	𓎔𓏏𓈒𓏥	74000	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mḥ.wj
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd6wQWZv0y0wIiaJvyiwcDtE
+# corpus = sawmedizin
+# src_text_id = TQXUFUY2KRDK3DG4JWIQULW45E
+# src_text = sawmedizin:Papyrus Edwin Smith//21.3-8 ⸗ Vso 4.3-8: Hautverschönerungsmittel
+# owner = Peter Dils
+# text_de = (es) werde damit gesalbt/eingecremt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.6 = Vso 4.6]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdxBWXY9oVU36mw87ka63dFs
+# corpus = sawmedizin
+# src_text_id = TQXUFUY2KRDK3DG4JWIQULW45E
+# src_text = sawmedizin:Papyrus Edwin Smith//21.3-8 ⸗ Vso 4.3-8: Hautverschönerungsmittel
+# owner = Peter Dils
+# text_de = Ein anderes (Heilmittel/Rezept) zum Verschönern des Gesichts.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.6 = Vso 4.6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓋴𓄤𓆑𓂋	137350	VERB	verb	VerbForm=Fin	_	_	_	Translit=snfr
+3	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+
+# sent_id = IBUBd8ViwSPtpU3HhIUTV4ZDkBA
+# corpus = sawmedizin
+# src_text_id = TQXUFUY2KRDK3DG4JWIQULW45E
+# src_text = sawmedizin:Papyrus Edwin Smith//21.3-8 ⸗ Vso 4.3-8: Hautverschönerungsmittel
+# owner = Peter Dils
+# text_de = Kalzitpulver (oder: Pulver von ägyptischem Alabaster): 1 (Maßeinheit);  Natronpulver: 1 (Maßeinheit);  unterägyptisches Salz: 1 (Maßeinheit);  Honig: 1 (Maßeinheit).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.6 = Vso 4.6] - [21.7 = Vso 4.7]
+1	𓂧𓈎𓏲𓈒𓏥	180940	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=dq.w
+2	𓍱𓊃𓊌𓏥	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓂧𓈎𓏲𓈒𓏥	180940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dq.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓎛𓌴𓏏	105070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t
+9	𓎔𓏏𓈒𓏥	74000	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mḥ.wj
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓆤𓏏𓏯𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd5disjYjdkrsgdcvlSGHAYg
+# corpus = sawmedizin
+# src_text_id = TQXUFUY2KRDK3DG4JWIQULW45E
+# src_text = sawmedizin:Papyrus Edwin Smith//21.3-8 ⸗ Vso 4.3-8: Hautverschönerungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde zu einer einzigen Masse zusammengemischt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.8 = Vso 4.8]
+1	𓄿𓏇𓇋𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd3UMZ4BESkn2jYaQVne4mQ4
+# corpus = sawmedizin
+# src_text_id = TQXUFUY2KRDK3DG4JWIQULW45E
+# src_text = sawmedizin:Papyrus Edwin Smith//21.3-8 ⸗ Vso 4.3-8: Hautverschönerungsmittel
+# owner = Peter Dils
+# text_de = (es) werde damit gesalbt/eingecremt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.8 = Vso 4.8]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+

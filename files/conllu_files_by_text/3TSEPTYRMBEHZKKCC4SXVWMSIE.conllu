@@ -1,0 +1,55 @@
+# sent_id = IBUBd0OQOJje7U7nvIJ0XOb2RfI
+# corpus = bbawgrabinschriften
+# src_text_id = 3TSEPTYRMBEHZKKCC4SXVWMSIE
+# src_text = bbawgrabinschriften:nördliche Scheintür//oberstes Bildfeld
+# owner = Stefan Grunert
+# text_de = Das Speisen des Verklärten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1. Priester]
+1	𓋴𓌱𓏊	137400	VERB	verb	VerbForm=Fin	_	_	_	Translit=snm
+2	𓅜	203	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḫ
+
+# sent_id = IBUBd52Rp691nUHmlpfkUsUQBqU
+# corpus = bbawgrabinschriften
+# src_text_id = 3TSEPTYRMBEHZKKCC4SXVWMSIE
+# src_text = bbawgrabinschriften:nördliche Scheintür//oberstes Bildfeld
+# owner = Stefan Grunert
+# text_de = Ein Balsamierer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2. Priester]
+1	𓏏𓅱	51020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wt.j
+
+# sent_id = IBUBdxS517MOek7Fte49SHF0oqE
+# corpus = bbawgrabinschriften
+# src_text_id = 3TSEPTYRMBEHZKKCC4SXVWMSIE
+# src_text = bbawgrabinschriften:nördliche Scheintür//oberstes Bildfeld
+# owner = Stefan Grunert
+# text_de = Ein Leiter der Zuwendungen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3. Priester]
+1	𓁷𓈆	108620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.j-wḏb.w
+
+# sent_id = IBUBd5QwiruzWEUIux3TlhJuSbQ
+# corpus = bbawgrabinschriften
+# src_text_id = 3TSEPTYRMBEHZKKCC4SXVWMSIE
+# src_text = bbawgrabinschriften:nördliche Scheintür//oberstes Bildfeld
+# owner = Stefan Grunert
+# text_de = Tausend an Bier und Pezen-Brot, tausend an Brot und Rind, Wer-Brot- Retech-Brot, Geflügel, Langhorn-Rind, hornloses Rind.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unter Opfertisch]
+1	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+2	𓏖	62200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pzn
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+4	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+5	𓃾	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+6	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+7	𓏏𓏖𓅨	600033	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-wr
+8	𓏏𓍕𓏖	169210	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-rtḥ
+9	𓅿	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+10	𓃾	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+11	𓃿	108970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥr.j-ḏbꜥ
+

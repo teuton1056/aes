@@ -1,0 +1,175 @@
+# sent_id = IBUBd3gWcWE3H0jBsHuFg6m4eyQ
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = may they give me potency, so that I may live from the breath that people give.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+2]
+1	𓇋𓐍	30730	PART	particle	_	_	_	_	Translit=jḫ
+2	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓐍𓅜	203	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḫ
+7	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓊡𓅱𓈒𓏨	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+13	𓂋𓍿𓀀𓁐𓏪	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBd2BS0BWXeUdZvyTxZ65EBNI
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = and so that they might keep my name alive, for they are gods of the mighty hereafter,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+2] - [x+3]
+1	𓋴𓋹𓈖𓐍	128910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥnḫ
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓊹𓏪	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+6	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+8	𓅓𓆱𓐍𓏏	400152	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=m-ḫt
+9	𓌀𓏤	43310	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wꜣs
+
+# sent_id = IBUBd9XuVQWU30rVurLGG4vWVMo
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I gave bread to the hungry and beer to the thirsty,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+6]
+1	𓂋𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓏏𓏐𓏒𓏪	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎛𓈎𓂋𓀁	110550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqr
+6	𓎛𓈎𓏏𓏊𓏨	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓇋𓃀𓏊𓏤	23360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBdwu0vUgZoUEModTY45xXbeI
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I united with the praised ones.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+7] - [x+8]
+1	𓊃𓌳𓄥𓈖	134180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zmꜣ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓎿𓊃𓅱𓅱𓏪	109750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥz.y
+
+# sent_id = IBUBdQhjuHH7P06zqOhsT0QqAeg
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = A man of righteousness in the presence of people, one precise in conducting the learner,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+8]
+1	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂸𓏏𓂭𓂭	77680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mtj
+4	𓂋𓐜𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+5	𓂋𓍿𓀀𓁐𓏪	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+6	𓂣𓈎𓄿𓂭𓂭	41310	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥqꜣ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓊄	131460	VERB	verb	VerbForm=Fin	_	_	_	Translit=zbi̯
+9	𓂝	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓋴𓃀𓇼	131230	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sbꜣ
+
+# sent_id = IBUBd69VoYfTjkQVkUZJ5VHGZ7E
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I buried the old, I clothed the naked.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+10] - [x+11]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈎𓂋𓋴𓊬𓈖	161940	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qrs
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇋𓄿𓀗	20380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣw
+5	𓎛𓃀𓋴𓋳𓈖	103740	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥbs
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓎛𓇉𓄿𓇋𓇋𓋳	101050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣ.w
+
+# sent_id = IBUBd78t4IMdLUgRluMQtF2D1gs
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I did not do evil against people, for it is what god hates.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+11] - [x+12]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓃛𓅱𓇋𓏏𓅪	22310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jw.yt
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂋𓍿𓀀𓁐𓏪	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+7	𓄟𓆓𓆓𓏏	76210	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=msḏi̯
+8	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+9	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd3YT02Z49k4nmQth3VTrJh4
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I came to my city, I descended from my nome.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+12] - [x+13]
+1	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓉔𓏤𓄿𓂻𓈖	97350	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓈈𓏏𓏤	854544	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=spꜣ.t
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd6U0YqjHmkREgqRzUeELUQg
+# corpus = sawlit
+# src_text_id = TWJLZ7UEV5BX3FGMNX7VBQFNH4
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 562)//〈Stele des Antef, Sohn der Senet (BM EA 562)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = It was the Majesty of the King of Upper and Lower Egypt, 𓍹Kheperkare𓍺, son of Re, 𓍹Senusret𓍺, who lives forever, who placed me among his courtiers.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+14] - [x+15]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+5	𓇳𓆣𓂓	400021	PROPN	entity-name	_	_	_	_	Translit=Ḫpr-kꜣ-Rꜥw
+6	𓇳𓅭	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+7	𓄊𓋴𓂋𓏏𓊃𓈖	400051	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+8	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+9	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+10	𓂋𓂞	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+11	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+12	𓅓𓅓	64371	ADP	preposition	_	_	_	_	Translit=m-m
+13	𓋴𓍋𓅓𓂋𓀀𓏥	135420	_	epitheton-title	Number=Plur|Status=Pron	_	_	_	Translit=smr
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

@@ -1,0 +1,25 @@
+# sent_id = IBUBd5019OgRIk3hjo97yc1JDRU
+# corpus = bbawgrabinschriften
+# src_text_id = L7RYRNA6WNCBHDKKEYARTSPDJM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Die Königstochter, der Schmuck des Königs, die Herrin der Ehrwürdigkeit beim großen Gott Nen-Sedjer-kai.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏏𓇓𓅭	400447	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ.t-nswt
+2	𓇓𓏏𓐭	124780	_	epitheton-title	_	_	_	_	Translit=ẖkr.t-nswt
+3	𓎟𓏏𓇋𓌳𓄪𓐍𓐍𓂋𓊹𓉻	851990	_	epitheton-title	_	_	_	_	Translit=nb.t-jmꜣḫ-ḫr-nṯr-ꜥꜣ
+4	𓈖𓂜𓋴𓇦𓂋𓂓	702558	PROPN	entity-name	_	_	_	_	Translit=N-sḏr-kꜣ
+
+# sent_id = IBUBd1hcLHVEFkJmkWccEb14AWE
+# corpus = bbawgrabinschriften
+# src_text_id = L7RYRNA6WNCBHDKKEYARTSPDJM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Nen-Sedjer-kai.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓈖𓂜𓋴𓇦𓂋𓂓	702558	PROPN	entity-name	_	_	_	_	Translit=N-sḏr-kꜣ
+

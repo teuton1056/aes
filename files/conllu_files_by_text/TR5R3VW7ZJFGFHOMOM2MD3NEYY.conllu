@@ -1,0 +1,58 @@
+# sent_id = IBUBd37d0y0PR0OQurDl6Qu3CSY
+# corpus = bbawgrabinschriften
+# src_text_id = TR5R3VW7ZJFGFHOMOM2MD3NEYY
+# src_text = bbawgrabinschriften:Opferkammer//5. Register v.o.
+# owner = Stefan Grunert
+# text_de = Der (Dorf)Herrscher Essu-ni-djetef.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓋾	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+2	𓊃𓋴𓀀𓈖𓆓𓏏𓆑	713678	PROPN	entity-name	_	_	_	_	Translit=Z-sw-n.j-ḏ.t.f
+
+# sent_id = IBUBd7C01tAe5UuWuVqdvcoJ3J8
+# corpus = bbawgrabinschriften
+# src_text_id = TR5R3VW7ZJFGFHOMOM2MD3NEYY
+# src_text = bbawgrabinschriften:Opferkammer//5. Register v.o.
+# owner = Stefan Grunert
+# text_de = Langhornrind, ein Jungtier.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+2	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+
+# sent_id = IBUBdQ5KW3HBukRQgKX0eHFVGjo
+# corpus = bbawgrabinschriften
+# src_text_id = TR5R3VW7ZJFGFHOMOM2MD3NEYY
+# src_text = bbawgrabinschriften:Opferkammer//5. Register v.o.
+# owner = Stefan Grunert
+# text_de = Der Jn-nebef.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓏎𓎡𓆑	707987	PROPN	entity-name	_	_	_	_	Translit=Jni̯-nb⸗f
+
+# sent_id = IBUBdyq2WILsIUwJvsCy3mQWncs
+# corpus = bbawgrabinschriften
+# src_text_id = TR5R3VW7ZJFGFHOMOM2MD3NEYY
+# src_text = bbawgrabinschriften:Opferkammer//5. Register v.o.
+# owner = Stefan Grunert
+# text_de = Das Bringen einer Gabe.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+2	𓈖𓆓𓐩𓏏𓁷	91200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḏ.t-ḥr
+
+# sent_id = IBUBd4WeXphspUlCgQFyBa93u6k
+# corpus = bbawgrabinschriften
+# src_text_id = TR5R3VW7ZJFGFHOMOM2MD3NEYY
+# src_text = bbawgrabinschriften:Opferkammer//5. Register v.o.
+# owner = Stefan Grunert
+# text_de = Ein Steinbock.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓈖𓇋𓄿	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+

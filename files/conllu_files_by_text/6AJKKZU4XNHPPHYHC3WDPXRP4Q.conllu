@@ -1,0 +1,44 @@
+# sent_id = IBUBd5IQEZD5jUSHg6LIDXuKGPQ
+# corpus = sawlit
+# src_text_id = 6AJKKZU4XNHPPHYHC3WDPXRP4Q
+# src_text = sawlit:pSallier I ⸗ pBM EA 10185//Recto 1-3: Apophis und Seqenenre
+# owner = Lutz Popko
+# text_de = Es geschah (Folgendes:) Was nun also König 𓍹Seqenenre𓍺 - LHG - betrifft: Er war Herrscher - LHG - der Südstadt (d.h. Theben).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1,1]
+1	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+3	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+6	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+7	𓇳𓋴𓈎𓈖𓈖𓏛𓀜𓅆	855366	PROPN	entity-name	_	_	_	_	Translit=Sqn.n-Rꜥw
+8	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+9	𓇓𓏲	851203	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋾𓈎𓅆𓅆	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+12	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+13	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+14	𓊖𓏏𓏤𓇔𓏏𓈇𓏤	400839	PROPN	entity-name	_	_	_	_	Translit=Nʾ.t-rs.jt
+
+# sent_id = IBUBdWSd5R7wfkhzsj4Qv8lwrtA
+# corpus = sawlit
+# src_text_id = 6AJKKZU4XNHPPHYHC3WDPXRP4Q
+# src_text = sawlit:pSallier I ⸗ pBM EA 10185//Recto 1-3: Apophis und Seqenenre
+# owner = Lutz Popko
+# text_de = (weil) sie ihm nicht gut oder schlecht antworten konnten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3,3]
+1	𓂜𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓐍𓏲𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅱𓈙𓃀𓏏𓏴𓀁	50340	VERB	verb	VerbForm=Fin	_	_	_	Translit=wšb
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓄤𓆑𓂋	83510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nfr
+9	𓅓𓂋𓏤𓊪𓏲	600585	ADV	adverb	_	_	_	_	Translit=m-rʾ-pw
+10	𓃀𓇋𓈖𓅪	54620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjn
+

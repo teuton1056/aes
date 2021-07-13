@@ -1,0 +1,43 @@
+# sent_id = IBUBdygM6t1ilEjYvsOlvmw0Na4
+# corpus = sawlit
+# src_text_id = DBFP6AHRXBFGZCEDWIZOO5DKHA
+# src_text = sawlit:Stele des Antef, Sohn der Myt (Kopenhagen AEIN 891)//〈Stele des Antef, Sohn der Myt (Kopenhagen AEIN 891)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = it was placed in the heart, but it did not leave from upon the lips.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [3]
+1	𓂋𓏙	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+5	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓋴𓊪𓏏𓂏	132440	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=sp.t
+
+# sent_id = IBUBd6EUtp0od0DHgCoJVUJFKZY
+# corpus = sawlit
+# src_text_id = DBFP6AHRXBFGZCEDWIZOO5DKHA
+# src_text = sawlit:Stele des Antef, Sohn der Myt (Kopenhagen AEIN 891)//〈Stele des Antef, Sohn der Myt (Kopenhagen AEIN 891)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = (...), one about whose condition the great ones - for whom one bows in the land of Horus of the Two Lands - ask, touching the ground with their foreheads for him,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6]
+1	𓐩𓅱	90910	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=nḏ
+2	𓅨𓂋𓀗𓏪	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+3	𓐍𓂋𓏏𓏝	854534	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫr.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓆞𓅓𓂢𓇋𓇋	114010	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḫꜣm
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓇾	854573	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tꜣ
+10	𓅃	400034	_	epitheton-title	Number=Sing|Status=Cons	_	_	_	Translit=Ḥr.w
+11	𓇾𓈇𓏭	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓆓𓉔𓈖𓁶𓀒	854587	VERB	verb	VerbForm=Fin	_	_	_	Translit=dhn
+14	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓇾𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+

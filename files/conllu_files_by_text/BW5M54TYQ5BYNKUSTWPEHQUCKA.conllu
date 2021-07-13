@@ -1,0 +1,37 @@
+# sent_id = IBUBd6UFRGmpQUhLgPJ1t9GAbsw
+# corpus = bbawgrabinschriften
+# src_text_id = BW5M54TYQ5BYNKUSTWPEHQUCKA
+# src_text = bbawgrabinschriften:3. Register v.u. (Flachsernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Das Zusammenbinden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓂧𓌳𓇧	179230	VERB	verb	VerbForm=Fin	_	_	_	Translit=dmꜣ
+
+# sent_id = IBUBd9qt9G3KfEWMtx8Lgvteaeg
+# corpus = bbawgrabinschriften
+# src_text_id = BW5M54TYQ5BYNKUSTWPEHQUCKA
+# src_text = bbawgrabinschriften:3. Register v.u. (Flachsernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Das Drehen des Strickes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓈖𓂝𓏏	854518	VERB	verb	VerbForm=Fin	_	_	_	Translit=nꜥi̯
+2	𓋴𓅓𓂝	135000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=smꜥ
+
+# sent_id = IBUBdyjOc7SbQUs4oqrOcqmcstw
+# corpus = bbawgrabinschriften
+# src_text_id = BW5M54TYQ5BYNKUSTWPEHQUCKA
+# src_text = bbawgrabinschriften:3. Register v.u. (Flachsernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Das Herabsteigen zu den Garben (seitens) der Eselsherde.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓉔𓏏𓄿	97350	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓊪𓎛𓏏	61390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.t
+4	𓂝𓎛𓄿𓏏	140370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḥꜣ.t
+

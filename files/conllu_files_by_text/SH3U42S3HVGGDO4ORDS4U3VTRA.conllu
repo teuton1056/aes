@@ -1,0 +1,56 @@
+# sent_id = IBUBd3AUcC7GikWmpufZI7gkWuA
+# corpus = bbawgrabinschriften
+# src_text_id = SH3U42S3HVGGDO4ORDS4U3VTRA
+# src_text = bbawgrabinschriften:südliche Scheintür//〈Text〉
+# owner = Stefan Grunert
+# text_de = Der Verwalter des Königsvermögens Nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Tafel⁝1]
+1	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+2	𓄤𓆑𓂋	450295	PROPN	entity-name	_	_	_	_	Translit=Nfr
+
+# sent_id = IBUBdyA1EN3lJ0YRrmQ22LwOWCk
+# corpus = bbawgrabinschriften
+# src_text_id = SH3U42S3HVGGDO4ORDS4U3VTRA
+# src_text = bbawgrabinschriften:südliche Scheintür//〈Text〉
+# owner = Stefan Grunert
+# text_de = Tausend an Bier, Pezen-Fladen und Brot, tausend an Kleidung, tausend an Alabastergefäßen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Tafel⁝2]
+1	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+2	𓏖	62200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pzn
+3	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+5	𓋲	71170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+6	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+7	𓍱𓎟	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+8	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBdQ138Ul7dUz8qVDsQm0LQMU
+# corpus = bbawgrabinschriften
+# src_text_id = SH3U42S3HVGGDO4ORDS4U3VTRA
+# src_text = bbawgrabinschriften:südliche Scheintür//〈Text〉
+# owner = Stefan Grunert
+# text_de = Der Verwalter des Königsvermögens und Wab-Priester des Königs Nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Sturzbalken]
+1	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+2	𓇓𓏏𓈖𓀆	44590	_	epitheton-title	_	_	_	_	Translit=wꜥb-nswt
+3	𓄤𓆑𓂋	450295	PROPN	entity-name	_	_	_	_	Translit=Nfr
+
+# sent_id = IBUBd3akHR1D6kJsvIPDRNQvkEc
+# corpus = bbawgrabinschriften
+# src_text_id = SH3U42S3HVGGDO4ORDS4U3VTRA
+# src_text = bbawgrabinschriften:südliche Scheintür//〈Text〉
+# owner = Stefan Grunert
+# text_de = Der Wab-Priester des Königs und Gutsvorsteher Nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Pfeiler mit Türrolle]
+1	𓇓𓏏𓈖𓀆	44590	_	epitheton-title	_	_	_	_	Translit=wꜥb-nswt
+2	𓅓𓂋𓉐	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+3	𓄤𓆑𓂋	450295	PROPN	entity-name	_	_	_	_	Translit=Nfr
+

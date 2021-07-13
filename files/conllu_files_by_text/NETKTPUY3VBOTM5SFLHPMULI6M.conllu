@@ -1,0 +1,28 @@
+# sent_id = IBUBdyno6XbSGkYDuDhU1jTKSZA
+# corpus = bbawgrabinschriften
+# src_text_id = NETKTPUY3VBOTM5SFLHPMULI6M
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Gib (ihm) seine Zehn von diesen Schlag!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓏙	851706	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jmi̯
+2	𓎆	78340	SYM	numeral	Number=Sing|Status=Pron	_	_	_	Translit=mḏ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓍇𓏌	851519	PRON	pronoun	Number=Sing|Status=Cons|PronType=Dem	_	_	_	Translit=nw
+6	𓋴𓐍𓏏	141420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zḫ.t
+
+# sent_id = IBUBdQwvWRiW1kWJl653P9u11xo
+# corpus = bbawgrabinschriften
+# src_text_id = NETKTPUY3VBOTM5SFLHPMULI6M
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Mästen der Kuh.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oberes Register, unteres Spaltregister]
+1	𓈙𓅱	50110	VERB	verb	VerbForm=Fin	_	_	_	Translit=wšꜣ
+2	𓇋𓍯𓏏	22200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwꜣ.t
+

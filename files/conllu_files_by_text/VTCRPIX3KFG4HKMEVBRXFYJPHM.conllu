@@ -1,0 +1,278 @@
+# sent_id = IBUBd1tU9e28UEIAgM16XgvBYrw
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = (I am) one who came to his lord with the great ones behind him,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [3]
+1	𓅧𓈎𓂻	41180	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥq
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅨𓏥	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+6	𓌨𓄖	124050	ADP	preposition	_	_	_	_	Translit=ẖr-pḥ.wj
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQZICVjQekQMmElhOoXHNOU
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = He made me a trusted one of His Majesty in Armant, the first (city) of his nomes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [5]
+1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅱	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎔𓄣	73610	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mḥ-jb
+6	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓉺𓈖𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+10	𓁶𓊪𓏏	860916	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tp.jt
+11	𓈈𓏥	854544	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=spꜣ.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0Dvnc5iO0IQlYHfLoSQ7DQ
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = an instructor of children in calm speaking;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11]
+1	𓇼𓅱𓏏	860917	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbꜣ.wtj
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓄡𓂋𓂧𓅪𓏪	854539	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖrd
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓉔𓂋𓏏	99050	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=hru̯
+
+# sent_id = IBUBdWh5e3VRZk5Bh9RuvzBeL7U
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = a kindly one, one who did not fight against a commoner
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11]
+1	𓎝𓄣𓏤	400652	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣḥ-jb
+2	𓏏𓍃	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+3	𓂚	39920	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
+4	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓈖𓆓𓋴𓅪	91770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḏs
+
+# sent_id = IBUBdWpKYMpfsk10hkU2UDMkAk4
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who inclines his heart until he (the commoner) has said his misery, until he has rid himself of all that troubles him;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11] - [12]
+1	𓉔𓈖𓈖	98810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=hnn
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆓𓂧𓏏	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌳𓂋𓌗𓏥	67180	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mꜣr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓋴𓎝𓎡𓏏	146400	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sk
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓐍𓂋𓏏	854534	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫr.t
+12	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+13	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd68E2h6Rj0Whs02Rgpi1F90
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who listens to his speech, dispels his misery;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12]
+1	𓄔	150560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḏm
+2	𓌃𓂧𓅱𓀁	78150	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mdw
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂧𓂋	180130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dr
+5	𓌳𓂋𓌗𓅪	67180	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mꜣr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7ycKBu1cEHyomLwYT5L0HY
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who appoints a man so that he is true (i.e. to his proper position);
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12]
+1	𓂋𓂞	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+2	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓃹𓈖	_	X	unknown	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	_
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓐙	854512	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mꜣꜥ
+
+# sent_id = IBUBd6x6Fb2z202dvQxk8QJnkag
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who is silent when the heart is suppressed;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12]
+1	𓎼𓂋𓀁	167750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=gr
+2	𓉔𓂋𓊪𓏏𓆝	99170	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hrp
+3	𓄣	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBd7llGAJNBU09qjKa4ggGzOo
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one respectful to everyone;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12] - [13]
+1	𓐍𓆼𓅓𓂢	114010	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜣm
+2	𓈖𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓃀𓅱𓎟	55210	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bw-nb
+
+# sent_id = IBUBdyobj8L6y0tBiunrXvBA9qg
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who does not turn his face away from the hungry one.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [13]
+1	𓏏𓍃	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓎛𓃀𓋴𓋳	103740	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥbs
+3	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎛𓈎𓂋𓅪	110550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqr
+
+# sent_id = IBUBd0FRn8G67U4Sr0SM0re9RHY
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = A friendly hand is that which is beloved;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [13]
+1	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓇋𓆭𓅓𓏏	550093	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jꜣm
+4	𓌸𓂋𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+
+# sent_id = IBUBdWyGaAyUW0ntnfXf9Zuhy0s
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = "Incline your heart, don't be prejudiced against a petitioner until he has said that because of which he had come."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [14]
+1	𓉔𓈖𓈖	98810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hnn
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+5	𓇋𓅱𓉔𓄿𓅱	22990	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwh
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓋴𓊪𓂋𓏏𓏭	132880	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=spr.tj
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓆓𓂧𓏏	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓇍𓏏𓂻𓈖	21930	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jwi̯
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdWRYWDGsCUYwnWcdyIlWhcU
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The good character of a man is for him more than thousands of gifts indeed (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [15]
+1	𓇬	_	X	unknown	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	_
+2	𓃀𓇋𓏏𓄑	54410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.t
+3	𓄤𓏏	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂝𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+10	𓆼𓏪	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+
+# sent_id = IBUBdwMyrmVQtE0rjWjw57UD8Ks
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The testimony of the people is in that utterance, which is in (lit.: on) the mouth of the commoners / great ones (?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [15] - [16]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄔𓅓𓂋𓏤	_	_	_	_	_	_	_	_
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂋𓍿𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋭𓏛	176860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣz
+7	𓊪𓆑	59880	PRON	pronoun	PronType=Dem	_	_	_	Translit=pf
+8	𓁷𓏤𓇯	108300	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḥr.j
+9	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rʾ
+10	𓅪𓏥	91770	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nḏs
+
+# sent_id = IBUBdyEVlzIpEEnlpXqECC12f9g
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = "The monument of a man is his goodness;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [16]
+1	𓏠𓏌𓏌𓏌𓏛	70420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn.w
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓄤𓏥	854638	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nfr.w
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6gjtvHFJk7vnp9irtEYmHg
+# corpus = sawlit
+# src_text_id = VTCRPIX3KFG4HKMEVBRXFYJPHM
+# src_text = sawlit:Stele des Mentuhotep (London UC 14333)//〈Stele des Mentuhotep (London UC 14333)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = he whose character is evil will be forgotten."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [16]
+1	𓊃𓅓𓐍	135600	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=smḫ
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓃀𓇋𓈖𓅪	54600	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=bjn
+4	𓃀𓇋𓄑	54410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.t
+

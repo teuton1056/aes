@@ -1,0 +1,34 @@
+# sent_id = IBUBd6AFFzyizE6YoN80IM3A19Q
+# corpus = bbawgrabinschriften
+# src_text_id = 5HORZ2CNK5ALRKGJTTYA3KEGZA
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis, der vor der Gotteshalle ist, 〈〈gibt:〉〉
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓏃𓈖𓏏𓉱𓊹	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+
+# sent_id = IBUBd1fnBMiPFkPRsWdX9bXV5cE
+# corpus = bbawgrabinschriften
+# src_text_id = 5HORZ2CNK5ALRKGJTTYA3KEGZA
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Tausend und tausend an Brot, Fladen und Bier, tausenmd an Kleidung, tausend an Alabastergefäßen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unter Opfertisch]
+1	𓇤	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓏒	62200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pzn
+3	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+5	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+6	𓋲	71170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+7	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+8	𓍱𓎟	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+9	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+

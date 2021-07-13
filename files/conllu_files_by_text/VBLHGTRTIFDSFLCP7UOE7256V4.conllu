@@ -1,0 +1,589 @@
+# sent_id = IBUBd4ofXazQwkl2hG1wM7pGE68
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Anfang des Buches / der Buchrolle, um einen Alten/Greis zu einem Jugendlichen zu machen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.9 = Vso 4.9]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓏛𓏏𓏤𓍼	78470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏꜣ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓇋𓄿𓏲𓀗𓀀	20380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣw
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂋𓈖𓊪𓆳𓀔𓀀	94880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rnp
+
+# sent_id = IBUBdwMKAZu380Owh3un9xQQ0ok
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann/Dazu muß man sehr viel $ḥmꜣ.yt$-Früchte/Schoten (eine ölhaltige Hülsenfrucht?) holen, das Äquivalent von 2 Khar-Säcken / 2 Khar-Maß.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.9 = Vso 4.9] - [21.10 = Vso 4.10]
+1	𓏎𓈖𓐍𓂋	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓎛𓌳𓄿𓇋𓇋𓏏𓍖𓈒𓏥	105100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.yt
+4	𓂋𓉻𓏏𓏛𓅨𓂋𓏏	_	X	unknown	_	_	_	_	_
+5	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mj.tjt
+6	𓆞𓂋𓎅	122580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖꜣr
+7	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd9CHiyzGSk3jh6e5uGmLP6A
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (es) zerstoßen/zerstampfen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.10 = Vso 4.10]
+1	𓈎𓈖𓈎𓈖𓏴𓂝𓐍𓂋	161450	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+
+# sent_id = IBUBdWdwcxprB0HMnTrUj0BOxQ8
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde in die Sonne gesetzt (wörtl.: dem Sonnenlicht gegeben).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.10 = Vso 4.10]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆄𓏲𓇳	152750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šw
+
+# sent_id = IBUBd5z2uPUucUdtq2dVh7arsbA
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Nachdem (es) durch und durch trocken ist, dann muß man (es) dreschen wie das Dreschen von Gerste (oder: so, wie Gerste gedroschen wird).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.11 = Vso 4.11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓆄𓏲𓏲𓇳	152720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šwi̯
+4	𓁷𓏤𓐪𓂧𓏌𓏛	108220	ADV	adverb	_	_	_	_	Translit=ḥr-qd
+5	𓐍𓂋	400037	PART	particle	_	_	_	_	Translit=ḫr
+6	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓆓𓈖𓀜	184090	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏn
+8	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+9	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+10	𓆓𓈖𓀜	184090	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏn
+11	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBUBd5HR4SueJ05ahwtSISix2Y4
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (es) worfeln bis zum Rest der zugehörigen Früchte/Samen/Körner (d.h. bis nur noch die Früchte/Samen übrig sind).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.11 = Vso 4.11] - [21.12 = Vso 4.12]
+1	𓆼𓄿𓆼𓄿𓊡𓂝𓐍𓂋	114220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣḫꜣ
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓊃𓊪𓊪𓊗𓏛	132780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zpp
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓉐𓂋𓏏𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
+7	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBd8B9xtihEkTIrZW7ORdQUAY
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Bezüglich alles, was dabei entstanden ist,  man muß (es) abmessen  und man muß veranlassen, daß der Dreschraumabfall(?) (wörtl.: Abfall(?) des Dreschgebäudes(?)) mit einem Sieb gesiebt wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.12 = Vso 4.12] - [21.13 = Vso 4.13]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓆣𓂋𓏏𓏪	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+5	𓐍𓂋	400037	PART	particle	_	_	_	_	Translit=ḫr
+6	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓆼𓄿𓀜	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+8	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+9	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+10	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+11	𓈖𓈎𓂋𓂝𓏏𓏲	89120	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nqr
+12	𓋴𓐍𓂋𓏛𓏥	142820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+13	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+14	𓈀𓈖𓉐	62550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏn
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓈖𓈎𓂋𓏲𓎅𓏤	89130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nqr
+
+# sent_id = IBUBd29246QS2k46m86N9srkK70
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde ebenso alles, was aus diesen Früchten/Samen/Körner entstanden ist (d.h. der gesiebte Abfall?), abgemessen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.13 = Vso 4.13] - [21.14 = Vso 4.14]
+1	𓆼𓄿𓂝	113410	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+2	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+3	𓆣𓂋𓏏𓏪	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+7	𓉐𓂋𓏏𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
+
+# sent_id = IBUBd4e9fU7xBUURicEIvkAGvYE
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Der eine werde wie der andere gemacht (d.h. beide Teile sind von gleicher Quantität).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.15 = Vso 4.15]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdwRx6xPfnUh3lv60KWe5EhI
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (es), indem/nachdem (es) zu einer einzigen Masse gemacht wurde, in Wasser ansetzen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.15 = Vso 4.15] - [21.16 = Vso 4.16]
+1	𓋴𓏠𓈖𓍖𓂝𓐍𓂋	851677	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smn
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+6	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd6rQWEq5NUwNo8SENh8xIYE
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde zu einem weichen/flüssigen Teig gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.16 = Vso 4.16]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄞𓂧𓏏𓏌𓏥	158970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šḏ.t
+4	𓎼𓈖𓏏𓈗	167540	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=gnn
+
+# sent_id = IBUBd2GIiT4ZiUiEoY9QnW6Kcmc
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (es) in einem neuen $sbḫ$-Topf aufs Feuer setzen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.16 = Vso 4.16]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓃀𓐍𓏊𓏤	131950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbḫ
+5	𓌳𓄿𓏛	66150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣw
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBdzQUiEvVgU3btW11BIynP9A
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde durch und durch und gründlich gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.17 = Vso 4.17]
+1	𓊪𓆑𓋴𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤𓐪𓂧𓏌𓏛	108220	ADV	adverb	_	_	_	_	Translit=ḥr-qd
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏠𓈖𓐍𓍊𓏛	71080	VERB	verb	VerbForm=Fin	_	_	_	Translit=mnḫ
+
+# sent_id = IBUBdzU2q3myRUPIqWyiboQJvUI
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Du erkennst, daß sie (ausreichend) durchgekocht werden,  weil das zugehörige Wasser verdampft und weil sie austrocknen,  so/bis daß (sie) wie trockner Abfall sind, ohne daß es Feuchtigkeit darin gibt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.17 = Vso 4.17] - [21.18 = Vso 4.18]
+1	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓊪𓆑𓋴𓋴𓊮	62180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓂝𓐍𓐍𓊮	40520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḫi̯
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+8	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓆄𓏲𓏲𓇳	152720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šwi̯
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+14	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+15	𓋴𓐍𓂋𓏛𓏥	142820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+16	𓆄𓏲𓇳	152730	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šwi̯
+17	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+18	𓈖𓈎𓅱𓏏𓈗	89070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nqw.t
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd6rM3pW8AUfkrEMbQ5z8dqI
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (sie) (vom Feuer) wegnehmen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.18 = Vso 4.18]
+1	𓄞𓂧𓂝𓐍𓂋	854561	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+
+# sent_id = IBUBd7E1n5fcsEBkmw0t4O2T8JI
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (sie) gründlich waschen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.20 = Vso 4.20]
+1	𓇋𓂝𓅱𓈗𓐍𓂋	21550	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏠𓈖𓐍𓍊𓏛	71080	VERB	verb	VerbForm=Fin	_	_	_	Translit=mnḫ
+
+# sent_id = IBUBdxCczXFV60GqlxxOn9yNUmk
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Man erkennt, daß sie (ausreichend) gewaschen werden, weil man den Geschmack dieses Wassers, das in dieser $anDw$-Schüssel ist, schmeckt:  es ist keinerlei Bitterkeit darin (oder: ohne daß noch irgendeine Bitterkeit darin ist).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.20 = Vso 4.20] - [22.1 = Vso 5.1]
+1	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓇋𓂝𓂝𓈗𓀜	21550	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥi̯
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓂧𓊪𓏯𓀁	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+7	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+8	𓂧𓊪𓏏𓄓𓀁	179020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dp.t
+9	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+10	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+11	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+14	𓂝𓈖𓈋𓏲𓏊𓏤	39120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḏ.w
+15	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+16	𓂧𓁷𓂋𓅪	180450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dḥr.t
+17	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+18	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd7pRrJgYWU1fiIYLw5HaRyo
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (sie) in die Sonne setzen (wörtl.: dem Sonnenlicht geben);
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.1 = Vso 5.1]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆄𓏲𓇳	152750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šw
+
+# sent_id = IBUBd1NOJ3NqKkTHuObNQazRWLQ
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Sie) werden ausgebreitet auf einem Tuch des Wäschers.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.1 = Vso 5.1]
+1	𓊃𓈙𓀜	144320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
+2	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋳𓏲	103750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓅺𓏏𓀜	95930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫt.j
+
+# sent_id = IBUBdycE4pWoY0S4mLU5dHroU6Q
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Vorausgesetzt, sie sind inzwischen getrocknet, dann muß man (sie) zerreiben auf einem Mühlstein zum Pulverisieren/Zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.1 = Vso 5.1] - [22.2 = Vso 5.2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓇋𓋴𓏏	851440	PART	particle	_	_	_	_	Translit=jsṯ
+3	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓆄𓏲𓏲𓇳	152720	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šwi̯
+5	𓐩𓏌𓂝𓐍𓂋	90880	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+6	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓃀𓈖𓏌𓏲𓏏𓊌𓏤	55650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=bnw.t
+9	𓋴𓏲𓅠𓅓𓂝	855631	VERB	verb	VerbForm=Fin	_	_	_	Translit=swgm
+
+# sent_id = IBUBd4WCCF3HsUtfn92jLrn3HWI
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (es) in Wasser ansetzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.2 = Vso 5.2]
+1	𓋴𓏠𓈖𓍖𓂝𓐍𓂋	851677	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smn
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBdxuMRSmdHkkLqqnjuspSNLs
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde wie ein weicher/flüssiger Teig gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.2 = Vso 5.2] - [22.3 = Vso 5.3]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+3	𓄞𓂧𓏏𓏌𓏥	158970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šḏ.t
+4	𓎼𓈖𓏏𓈗	167540	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=gnn
+
+# sent_id = IBUBd19SJkXVlk7jn65phQoxbxk
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dann muß man (es) in einem $sbḫ$-Topf aufs Feuer setzen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.3 = Vso 5.3]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓃀𓐍𓏊𓏤	131950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbḫ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBd46LhCI8w05WgBN5V7KaIBI
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde gründlich gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.3 = Vso 5.3]
+1	𓊪𓆑𓋴𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓏠𓈖𓐍𓍊𓏛	71080	VERB	verb	VerbForm=Fin	_	_	_	Translit=mnḫ
+
+# sent_id = IBUBd3lJ81ahfUAwh4AUNYlPl0E
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Mit einer Muschelschale(?) (als Schöpflöffel) pflegt ein Mann das Öl, das daraus hervorgeht, abzuschöpfen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.4 = Vso 5.4] - [22.5 = Vso 5.5]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊪𓈖𓈎𓂝	60130	VERB	verb	VerbForm=Fin	_	_	_	Translit=pnq
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+6	𓉐𓂋𓏏𓂻	60920	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+7	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓃀𓅡𓄿𓂧𓏏𓆩	54070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bꜣd.t
+
+# sent_id = IBUBd3UrtW4cqkmCrGvSWezBHGg
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde in ein Hin-Gefäß gegeben, nachdem es (das Gefäß?) mit Ton ausgeschmiert(?) wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.5 = Vso 5.5]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓉔𓈖𓏌𓏲𓏊𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+4	𓂋𓐟𓏤	851453	ADP	preposition	_	_	_	_	Translit=r-sꜣ
+5	𓄿𓂧𓆊𓂝	349	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣd
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴𓇋𓆛𓈖𓈇𓏥	128340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjn
+
+# sent_id = IBUBd7GttP9R30BttDYWHRiQigo
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Er, d.h. der Ton oder der Hin-Topf) werde geglättet und seine Ausschmierung(?) werde verdichtet/verdickt(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.5 = Vso 5.5] - [22.6 = Vso 5.6]
+1	𓊃𓈖𓂝𓂝𓏞𓏛	136700	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snꜥꜥ
+2	𓋴𓏲𓂸𓏏𓏛	130080	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swmt
+3	𓄿𓂧𓆊𓏛𓏥	350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣd.w
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9LjboDt2EZ4qDeMJKIZzaA
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Dieses Öl werde abgeschöpft;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.6 = Vso 5.6]
+1	𓊪𓈖𓈎𓂝	60130	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pnq
+2	𓇑𓇑𓈖𓈖	500001	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn-n
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBUBd9jnEXj9WEiNnZN9dIrJymc
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (Es) werde gegeben auf ein Abdecktuch(?) in der Hälfte der Oberseite (d.h. an der oberen Seite oder in der oberen Hälfte; oder: des Deckels) dieses Hin-Gefäßes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.6 = Vso 5.6] - [22.7 = Vso 5.7]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓊶𓊪𓏏𓋳	163410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣp.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐞𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓁷𓂋𓏭𓇯	108450	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥr.j
+8	𓉔𓈖𓏌𓏲𓏊𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+9	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd8GceW6NXkp8si7nqHp4Qgk
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Danach, dann muß man (es) in ein Henu-Gefäß aus Stein umsetzen (wörtl.: geben).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.7 = Vso 5.7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65310	ADV	adverb	_	_	_	_	Translit=m-ḫt
+3	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓎛𓆰𓈖𓏌𓏲𓏊𓏤	106280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥn.w
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓉻𓏏𓏯𓊌	34880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+
+# sent_id = IBUBdybINGZbEE9SpF7e9rQ0Ye0
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Es werde der Mann (d.h. der Patient) damit eingecremt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.7 = Vso 5.7]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdzA3YEovEU5WvtnrOsKAswo
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.8 = Vso 5.8]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓏃𓈖𓏏𓂊	118820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫnt
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBUBd2wcnoFJ1E0fnKQJfKXAGWA
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Wenn der Körper damit abgewischt/abgerieben wird, dann kommt eine Verschönerung der Haut (dabei) heraus,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.8 = Vso 5.8]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓋴𓎝𓎢𓂝𓏏𓏲	146400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sk
+3	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+5	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+6	𓋴𓄤𓆑𓂋	137350	VERB	verb	VerbForm=Fin	_	_	_	Translit=snfr
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓇋𓆛𓈖𓌰𓅓𓁸𓏛	27420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnm
+
+# sent_id = IBUBdQrNYN90QEGihSRaB27euc4
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = (wobei) die $nḏꜥ.w$-Alterserscheinung, jegliche Art von $jmš.t$-Alterserscheinung, jegliche Art von $tnj$-Altersbeschwerde und jegliche Art von $srf.t$-Entzündung, die im Körper (oder: an der Körperoberfläche) ist, beseitigt worden sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.9 = Vso 5.9] - [22.10 = Vso 5.10]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+2	𓈖𓆓𓂝𓏲𓐎𓏥	91330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḏꜥ.w
+3	𓇋𓐛𓅓𓈙𓏏𓐎𓏥	26470	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jmš.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓏏𓈖𓇋𓐎𓏥	172440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tnj
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+7	𓋴𓂋𓆑𓏏𓐎𓏥	139450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=srf.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+9	𓃹𓈖𓈖𓏏	46050	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBUBd1o2JeDzVEPXhXQWCVQQbrQ
+# corpus = sawmedizin
+# src_text_id = VBLHGTRTIFDSFLCP7UOE7256V4
+# src_text = sawmedizin:Papyrus Edwin Smith//21.9-22.10 ⸗ Vso 4.8-5.10: Verjüngungsmittel
+# owner = Peter Dils
+# text_de = Etwas vorzügliches, zahllose Male (erprobt) / millionenfach (angewendet).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.10 = Vso 5.10]
+1	𓍱𓏤𓏛𓏥	145520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sšr
+2	𓁨𓏤	109250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḥ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+

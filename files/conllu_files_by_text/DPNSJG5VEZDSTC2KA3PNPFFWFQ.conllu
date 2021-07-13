@@ -1,0 +1,32 @@
+# sent_id = IBUBd7mlwJT0MEp1sGpo2TvQEoM
+# corpus = sawlit
+# src_text_id = DPNSJG5VEZDSTC2KA3PNPFFWFQ
+# src_text = sawlit:pLondon UC 32157 ⸗ pKahun LV.1//Verso: Die Geschichte von Hay
+# owner = Peter Dils
+# text_de = Er warf ihn/sich auf den Boden, indem er sagte: "O, Hei!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [x+1, 5]
+1	𓎛𓂧𓃀𓂻𓈖	112200	VERB	verb	_	_	_	_	Translit=ḥdb
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓅭𓏏𓏲𓈇𓏥	127650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣṯ.w
+6	𓆓𓂧	185810	VERB	verb	_	_	_	_	Translit=ḏd
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+9	𓇋𓇋𓉔𓇋𓇋𓀁	30160	INTJ	interjection	_	_	_	_	Translit=jhj
+
+# sent_id = IBUBd6pGfck40EMBi5w6hKtI6pw
+# corpus = sawlit
+# src_text_id = DPNSJG5VEZDSTC2KA3PNPFFWFQ
+# src_text = sawlit:pLondon UC 32157 ⸗ pKahun LV.1//Verso: Die Geschichte von Hay
+# owner = Peter Dils
+# text_de = Dies(er Satz) bedeutet, daß er (d.h. der Text) (ans Ende) kommt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [x+2, 10]
+1	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+

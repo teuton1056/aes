@@ -1,0 +1,235 @@
+# sent_id = IBUBd9aAyzaEHkcrolFL1HmYIYo
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = er liegt (ja) in der Nähe dieses (d.h. vorher erwähnten) tiefliegenden Weidegrundes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏏𓎢𓈖𓂻	173680	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=tkn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅓𓂝𓌨𓂋𓈇𓏤	74660	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mẖr
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd5jhJWv4ckVelpI2zal4T7A
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = Ich sah eine (heiratsfähige/geschlechtsreife) Frau darin (d.h. im Sumpf);
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓌳𓁹𓄿𓈖	66270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓊃𓏏𓁐𓈞𓏏𓁐	125370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z.t-ḥm.t
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0hyod3R8EQhuSV3MSEdZj0
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = sie hatte nicht die Gestalt (?) der Menschen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+3] - [x+4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓋴	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓍛𓏤	104680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBd4u4X7p5RUrwson20WpEC5I
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = Mir standen die Haare zu Berge, (indem/als) ich ihre Haarbänder/Zöpfe (?; oder: tierisches Haar?) sah, sowie die Glätte (oder: und wegen der Glätte) ihrer Haut (wörtl.: Teint/Aussehen).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+4] - [x+6]
+1	𓍲𓈖𓏌𓏲𓇋𓇋𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šnj
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓆓𓂧𓆑𓏛	186240	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏdf
+4	𓌳𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓋴𓂋𓅱𓁸𓏥	138980	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sr
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓈖𓂝𓂝𓏞𓏛	80460	VERB	verb	VerbForm=Fin	_	_	_	Translit=nꜥꜥ
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓇋𓃹𓈖𓁸	22570	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwn
+12	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd8VkwvWIYkQYvW4EGx8NoaI
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = Niemals werde (oder: würde) ich tun, was sie gesagt hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+6]
+1	𓂜𓈖𓊃𓊪𓊗	852080	PART	particle	_	_	_	_	Translit=nn-zp
+2	𓁹𓇋𓇋	851809	VERB	verb	Voice=Pass|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓆓𓂧𓏏𓈖	185810	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd8qxbQu30kICvEACemjPahI
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = (Denn) der Respekt vor ihr steckt(e) überall in meinen Gliedern.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+7]
+1	𓈙𓆑𓈙𓆑𓏏𓄅𓀜	154240	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šfšf.t
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+4	𓎛𓂝𓄛𓏥	854529	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥꜥ.w
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd6Vi0C3clEkypn3rx5vZcug
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = Ich möchte euch vorschlagen (wörtl.: sagen):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+8]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdxgIg6kFM0qcp2ohe4G4jLI
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = "Stiere, laßt uns also an Land gehen (?)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+8]
+1	𓇋𓐍𓏛	30730	PART	particle	_	_	_	_	Translit=jḫ
+2	𓂸𓃒𓏥	162930	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣ
+3	𓇉𓄿𓊛	100180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣ
+4	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+
+# sent_id = IBUBd945Iuw69UgSs3EZuFQ9C8k
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = Die Weisen der Hirten rezitieren einen Wasser(zauber)gesang (zum Schutz vor Krokodilen) mit dem Aussprechen des betreffenden Spruchs (wörtl.: als das Sagen von diesem seinem (d.h. des Gesanges) Spruch):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+12] - [x+14]
+1	𓂋𓐍𓅱𓏛𓏥𓐍𓏏𓏛𓏥𓀀𓏥	95710	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rḫ-jḫ.t
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓀸𓏲𓀀𓏥	70310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mnj.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓄞𓂧𓏏𓀁	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+6	𓎛𓎿𓊃𓅱𓊛𓈗	109780	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥz.w-mw
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+9	𓂋	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdQQjc38UikLejaMNw4Nukbg
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = "Meine Kas/Lebensgeister sind in Jubel, (ihr) Hirten, (ihr) Männer!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+14]
+1	𓎛𓂝𓀠	102060	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥꜥi̯
+2	𓂓𓏤𓏥	162870	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=kꜣ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓀸𓏲𓀀𓏥	70310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mnj.w
+5	𓅷𓄿𓇋𓇋𓂺𓏲𓀀𓏥	174240	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯꜣ.y
+
+# sent_id = IBUBd4WdRSpM5kfOodgWQzEAYbE
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = Man kann mich nicht vertreiben (wörtl.: es gibt nicht mein Vertreiben) von diesem überschwemmbaren Feld (im) Jahr der hohen Überschwemmung (wörtl.: des großen Überschwemmungsgottes), der (sogar) den Landrücken (d.h. den Geziras) Befehle erteilt, (indem/nachdem) der (Überschwemmungs)see nicht (mehr) vom Fluß unterschieden worden ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+15] - [x+17]
+1	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+2	𓊃𓂋𓅱𓇋𓇋𓂻	139300	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆷𓈇	151110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+7	𓆳𓏏𓏤	94920	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rnp.t
+8	𓎛𓂝𓊪𓈗𓉻𓅆	_	X	unknown	_	_	_	_	_
+9	𓎗𓅱𓏛	51970	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏ
+10	𓎗𓏏𓅱𓏛	52040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏ.t
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓐟𓏤𓏥	125670	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=sꜣ
+13	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+14	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+15	𓏏𓈖𓌙𓅯𓏛	175750	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯni̯
+16	𓈙𓈇	854557	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=š
+17	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+18	𓇋𓏏𓂋𓅱𓈙	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
+
+# sent_id = IBUBdzjzhu2cLUNmruJIbuQQ51k
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = (Du Überschwemmungsgott,) der gekommen ist (?)! Die Furcht vor dir ist verschwunden (und) der Respekt vor dir ist gewichen, bis (auch bald) die Wut der Mächtigen (Göttin) und das Furchterregende der (Göttin namens) Herrin der Beiden Länder verschwunden sein werden (?)."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+19] - [x+22]
+1	𓇍𓇋𓇋𓂻	21930	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+2	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓅾𓀁	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓄿𓈎𓅪	290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣq
+6	𓈙𓆑𓈙𓆑𓏏𓄅𓀜	154240	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šfšf.t
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓂋𓅱𓏏𓂻	93540	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rwi̯
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓄿𓈎𓏏𓅪	290	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣq
+11	𓈖𓈙𓈖𓏭𓃩𓀜	88790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nšn.j
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓄊𓋴𓂋𓏏𓆗	49670	PROPN	entity-name	_	_	_	_	Translit=Wsr.t
+14	𓅾𓅱𓀁𓏥	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓎟𓏏𓇾𓇾𓈇𓈇𓆗	400928	_	epitheton-title	_	_	_	_	Translit=nb.t-Tꜣ.wj
+
+# sent_id = IBUBd2ZFSqVuLk3Jm8ekBibw3Ys
+# corpus = sawlit
+# src_text_id = QKN2PJK4CVGI7GXJSMMPTIZZYY
+# src_text = sawlit:pBerlin P 3024//Die Hirtengeschichte
+# owner = Peter Dils
+# text_de = (Denn) er hatte die Gewohnheit, sich dem See zuzuwenden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [x+24]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓄂𓏏𓏤	100310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓈙𓈇	854557	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=š
+

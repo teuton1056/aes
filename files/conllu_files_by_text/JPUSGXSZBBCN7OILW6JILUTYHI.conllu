@@ -1,0 +1,118 @@
+# sent_id = IBUBd5PxCOjZ8EYYtN0H8WMjBtA
+# corpus = bbawgraeberspzt
+# src_text_id = JPUSGXSZBBCN7OILW6JILUTYHI
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 9: CT 151
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [1]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd2Naw179xUcEo0GV5NcOcsI
+# corpus = bbawgraeberspzt
+# src_text_id = JPUSGXSZBBCN7OILW6JILUTYHI
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 9: CT 151
+# owner = Doris Topmann
+# text_de = Die Höhle öffnet sich/ist geöffnet für die, die im Nun sind;
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [2]
+1	𓃹𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
+2	𓊪𓏏𓎛𓉐	175280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯpḥ.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+5	𓏌𓏌𓏌𓇯	500006	PROPN	entity-name	_	_	_	_	Translit=Nw.w
+
+# sent_id = IBUBd6XFEclenEWZs1QRoIFi1ww
+# corpus = bbawgraeberspzt
+# src_text_id = JPUSGXSZBBCN7OILW6JILUTYHI
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 9: CT 151
+# owner = Doris Topmann
+# text_de = weit ist das Schreiten derer, die im Lichtglanz sind.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [2] - [3]
+1	𓊪𓂧𓌒	63170	VERB	verb	_	_	_	_	Translit=pḏ
+2	𓌱𓏏𓏏𓂻𓏥	84510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nmt.t
+3	𓇋𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+4	𓇶𓅱	20880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣḫ.w
+
+# sent_id = IBUBd7xUoQEMo0ekqbAlCAy4Ujs
+# corpus = bbawgraeberspzt
+# src_text_id = JPUSGXSZBBCN7OILW6JILUTYHI
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 9: CT 151
+# owner = Doris Topmann
+# text_de = Das Grab öffnet sich/ist geöffnet für den Einen, so dass er hinausgehen kann.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [3]
+1	𓃹𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
+2	𓎛𓄿𓏏𓉐	100280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓌡𓏤𓂝	852351	_	epitheton-title	_	_	_	_	Translit=wꜥ
+5	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7Rl1oUQnkMCuArM9iyjnFI
+# corpus = bbawgraeberspzt
+# src_text_id = JPUSGXSZBBCN7OILW6JILUTYHI
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 9: CT 151
+# owner = Doris Topmann
+# text_de = Das Grab öffnet sich/ist geöffnet für mich.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [3]
+1	𓃹𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓎛𓄿𓏏𓉐	100280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
+
+# sent_id = IBUBdxCTgiWEIkQjq2QTvD8jndM
+# corpus = bbawgraeberspzt
+# src_text_id = JPUSGXSZBBCN7OILW6JILUTYHI
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 9: CT 151
+# owner = Doris Topmann
+# text_de = ich bin in die Sumpflöcher(?) hinabgestiegen.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [4]
+1	𓉔𓄿𓂻𓈖	97350	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄡𓄿𓋴𓅱𓎺𓎺𓎺	858250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣs.w
+
+# sent_id = IBUBdWwKudxiokDJhDBCs648evk
+# corpus = bbawgraeberspzt
+# src_text_id = JPUSGXSZBBCN7OILW6JILUTYHI
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 9: CT 151
+# owner = Doris Topmann
+# text_de = Mein Fuß ist auf ...(?), mein Arm erhoben.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [4] - [5]
+1	𓂋𓂧𓂾	96600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rd
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈙𓊪𓍿𓅱𓆱𓏤	154010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šptj
+5	𓂝	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓊃𓍿𓊃𓉽𓇋𓇋	149390	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sṯzi̯
+
+# sent_id = IBUBd7LiuONZn0hAp9toSa6KLMU
+# corpus = bbawgraeberspzt
+# src_text_id = JPUSGXSZBBCN7OILW6JILUTYHI
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 9: CT 151
+# owner = Doris Topmann
+# text_de = Ich werde meinen Platz, der im Gottesschiff ist, nicht vergessen;
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [7]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓐝𓉔𓅱𓀜	73070	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mhi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓎼𓏏	87870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ns.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓇋𓏶𓅓𓏏	25130	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jm.j
+7	𓂧𓊪𓏏𓊛𓏏𓏤𓊹𓏤	500272	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dp.t-nṯr
+

@@ -1,0 +1,558 @@
+# sent_id = IBcBktvYtoT8fUKqoQ805IlPcdQ
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Beginn der Heilmittel zum Befestigen eines Zahnes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,2]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓏠𓈖𓏏𓏛	851677	VERB	verb	VerbForm=Fin	_	_	_	Translit=smn
+5	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+
+# sent_id = IBcBkiDBx76G50fWoWWzPcARvmw
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Mehl des $mjmj$-Getreides: 1, Ocker: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,2]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+8	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBkh90dpdqKEjQrhD96Af9Qns
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,3]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBkuKdHTeEqkeNnWMzrAWhvbo
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Der Zahn werde damit ausgestopft.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,3]
+1	𓏲𓆷𓄿𓅯𓀜	50140	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wšꜣ
+2	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBkpAolZKYl0ZTgDfr8Pcdygs
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBklJc1FwiaEmlnp1PS039SkQ
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Vom Mahlstein Abgeschlagenes (d.h. Steinmehl?): 1, Ocker: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,3] - [89,4]
+1	𓎛𓀝𓇋𓇋𓏏𓈒𓏥	102800	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥw.yt
+2	𓃀𓈖𓏌𓅱𓏏𓊌𓈒𓏥	55650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bnw.t
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+7	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBktuQaNmG5EQakrOrsnsuYEY
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Der Zahn werde damit ausgestopft.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,4]
+1	𓏲𓆷𓄿𓅯𓀜	50140	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wšꜣ
+2	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBkhR3VyQoxklaizlw1uXagCY
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = (Heilmittel zum) beseitigen einer Ansammlung von Krankheitsauslösern (?) in den Zähnen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,4] - [89,5]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓋴𓂋𓂧𓂧𓌗𓏛	875723	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=srdd
+3	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄑𓏥	23830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jbḥ
+
+# sent_id = IBcBkibNQNpkq0QcoMDRffW1odg
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Geritzte Sykomorenfrüchte: 1, Langbohnen: 1, Honig: 1, Malachit: 1, Ocker: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,5]
+1	𓈖𓈎𓂝𓅱𓏏𓈒𓏥	89040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nqꜥ.wt
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓃛𓏲𓏏𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓇅𓏲𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+10	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBksZBQl3Y4E0WnVxnmTQwdn4
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde zermahlen
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,5]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcBkmnCp5zQr0eJqQsy9ooFzdA
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = (und) zerquetscht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,6]
+1	𓏏𓅓𓏏𓅓𓏲𓀜	172340	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tmtm
+
+# sent_id = IBcBkmy3O2bnWE5LgQz5TMwWRTw
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde an den Zahn gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,6]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+
+# sent_id = IBcBknZtfQJWG0OvhWcK6qscuX8
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln eines Zahnes, der (zer)fressen ist an der Öffnung des (Zahn-)Fleisches:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+5	𓏲𓈙𓂝𓏲𓄑𓀁	50270	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wšꜥ
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rʾ
+8	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcBkp1d6W4LtkgWkzJ3LqYOIak
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Kreuzkümmel: 1, Weihrauch: 1, Johannisbrot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,6] - [89,7]
+1	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBkssj9ZSEbEakoPGKXBhKWPg
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde zerquetscht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,7]
+1	𓏏𓅓𓏏𓅓𓏲𓀜	172340	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tmtm
+
+# sent_id = IBcBkkrQEtCSL0dvv352DoHZ2zk
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde an den Zahn gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,7]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+
+# sent_id = IBcBkrkS0NNQTERtpLLc2JhmJS8
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Befestigen eines Zahnes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓏠𓈖𓏏𓏛	851677	VERB	verb	VerbForm=Fin	_	_	_	Translit=smn
+4	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+
+# sent_id = IBcBkpBOPHQZFUWxinAlCdsfp4E
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, Ocker: 1, Malachit: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,7] - [89,8]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓇅𓏲𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBkjnx2OXZ7UF1oIQw3HQx5p0
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde zerquetscht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,8]
+1	𓏏𓅓𓏏𓅓𓏲𓀜	172340	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tmtm
+
+# sent_id = IBcBkpajnmNJFk46tMIIvgmDib4
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde an den Zahn gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,8]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+
+# sent_id = IBcBkqM7kk5Fc0DYrjQgDKM5Q3M
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkrxPr1t7Tk6GvYHdfBsFSq8
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Wasser: 1, $sꜥꜣm$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,8]
+1	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓋴𓉻𓂝𓅓𓆰𓏥	128700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥꜣm
+4	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBkj0fhptLs0WCiH1CgwYy2ag
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,8]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcBksHUbUyYnkQyrCYNWRPWWpE
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln der Zähne durch eine (Mund-)Spülung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,8] - [89,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓄑𓏥	23830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jbḥ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄡𓊪𓂝𓏲𓀁𓏪	122950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖpꜥ.w
+
+# sent_id = IBcBkn5Qkqux0ELdsPnu8cCkSN4
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = $ꜥmꜥꜥ$-Körner (des Emmers / der Gerste): 1, süßes Bier: 1, „Feder-des-Nemti“-Pflanze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,9]
+1	𓂝𓅓𓂝𓂝𓆰𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓅈𓆄𓏏𓏤𓆰𓏥	861518	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t-Nmt.j
+7	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBkjsA7qYok0xQmh85ipQaOnc
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde gekaut;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,9]
+1	𓏲𓎼𓄿𓄑𓀁	50790	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wgi̯
+
+# sent_id = IBcBklk7lxWTQEfgtrHKHofbucg
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = werde auf den Boden gegeben (d.h. ausgespuckt).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,9]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBcBkm5kcc5XpUckpdG4Lv1WYzc
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von $bn.wt$-Geschwüren in den Zähnen (und zum) Wachsen-Lassen des Fleisches:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓃀𓈖𓏌𓅱𓏏𓐎𓏥	55640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bn.wt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄑𓏥	23830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jbḥ
+7	𓋴𓂋𓂧𓏏𓌗𓏛	139920	VERB	verb	VerbForm=Fin	_	_	_	Translit=srd
+8	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcBkogHld5BgEChmJENtr9rIc8
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Kuhmilch: 1, frische Datteln: 1, Erdmandeln: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,10] - [89,11]
+1	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+2	𓃒	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+5	𓇆𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓇺𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+8	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBkgKlAM4hmU7DpYqlpqpqKnA
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde gespült (wörtl.: gekaut);
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,11]
+1	𓄡𓊪𓂝𓀁	122930	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖpꜥ
+
+# sent_id = IBcBklWIaSaZi0cykIwQLhqYl1s
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = werde ausgespien (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,11]
+1	𓂐	159200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qꜣꜥ
+
+# sent_id = IBcBkjJ7Uwu7nUW3pWkHcHpzO2w
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkm8vfvQWdUQPguwQprGhNEo
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = $jns.t$-Pflanzen: 1, Geritzte Sykomorenfrüchte: 1, Ocker: 1, Wüstendatteln (?): 1, Gummiharz: 1, $tjꜥm$-Pflanzen: 1, $bsbs$-Pflanzen: 1, Olivenöl: 1, Wasser.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,11] - [89,12]
+1	𓇋𓆛𓈖𓋴𓏏𓆰𓏥	27830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jns.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓈖𓈎𓂝𓅱𓏏𓈒𓏥	89040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nqꜥ.wt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓇋𓄞𓂧𓇭𓈒𓏥	32150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jšd
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓍘𓉻𓂝𓄿𓅓𓆰𓏥	169940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tjꜥm
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓃀𓋴𓃀𓋴𓈒𓏥	57440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bsbs
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+16	𓏤	_	_	_	_	_	_	_	_
+17	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcBkhvjYXAaTUnSgCJ3VQvzdL4
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,12]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcBkhbR91xVYkDdqs9zibtubtA
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Festmachen der Zähne (und zum) Behandeln der Zähne:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,12] - [89,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓂧𓌗𓏛	139340	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḏ
+4	𓄑𓏥	23830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jbḥ
+5	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+6	𓄑𓏥	23830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jbḥ
+
+# sent_id = IBcBkkgKudh2i0IquQzHXAAdRYU
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Sellerie: 1, $dwꜣ.t$-Pflanzen: 1, süßes Bier: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,13]
+1	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓇼𓏏𓏤𓆰𓏥	177980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dwꜣ.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+6	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+7	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBkmLRBW89kUmroSrsug9nslQ
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Werde gekaut;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,13]
+1	𓏲𓎼𓄿𓄑𓀁	50790	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wgi̯
+
+# sent_id = IBcBkirzsrJZvkZBuOQ6PN4TmH8
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = werde auf den Boden gegeben (d.h. ausgespuckt).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,13]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBcBkq3x91vwkUEeu5tHnPxIIwo
+# corpus = sawmedizin
+# src_text_id = BSGT2PKXWBGJLH2655FGMQVKGA
+# src_text = sawmedizin:Papyrus Ebers//89,2-89,15 ⸗ Eb 739-749: Heilmittel gegen Zahnschmerzen
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Behandeln von Blutfraß im Zahn:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+5	𓏶𓅓𓀁𓊃𓈖𓆑𓂐𓏥	872147	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnm-znf
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+

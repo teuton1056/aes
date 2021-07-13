@@ -1,0 +1,114 @@
+# sent_id = IBcAZtzAQtKUWELAuoWFZ3fR3b4
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = Isis, die Große, die Mutter, die Herrscherin beider Länder
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 1
+1	𓊨𓏏𓆇	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+2	𓅨𓂋𓏏	47420	_	epitheton-title	_	_	_	_	Translit=wr.t
+3	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+4	𓎟𓏏𓇯	82080	_	epitheton-title	_	_	_	_	Translit=nb.t-p.t
+5	𓎺𓏏𓇿𓇿	400832	_	epitheton-title	_	_	_	_	Translit=ḥn.wt-Tꜣ.wj
+
+# sent_id = IBcAZkHFSz9MrkSzhyGauJ6pwE8
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = Osiris, der Herr des Westens, der Herr des Himmels
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 4 - 5
+1	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+2	𓎟𓋀𓏏𓏏	401146	_	epitheton-title	_	_	_	_	Translit=nb-jmn.tjt
+3	𓎟𓇯	400833	_	epitheton-title	_	_	_	_	Translit=nb-p.t
+
+# sent_id = IBcAZrOcRT2yqURhnTjqb1w6RZk
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = Eine (Stele), die Ramose anfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 6 - 7
+1	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓂋𓂝𓋴𓄟𓀽	600290	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-ms.w
+
+# sent_id = IBcAZld1jVDgfkIWsuqM6JZOfok
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = Seine Mutter, Tasemenet.
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 8 - 9
+1	𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄿𓏏𓋴𓏠𓈖𓏏𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZmAWrQwBPkreuaUEG0FhB5U
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = sein Vater, Amunerhatef
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 10 - 11
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏠𓈖𓂋𓄂𓏏𓏤𓆑𓀽	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZhZiotZRREg0lZIbWPnGpX4
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = die Herrin des Hauses, Takar
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 13 - 14
+1	𓎟𓏏𓉐𓏤	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓄿𓏏𓏤𓂓𓂋𓁐	708611	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-kꜣr
+
+# sent_id = IBcAZlL5kroFf0hWmJq6AoKex7c
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = Der Soldat, Tschai.
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 15
+1	𓅱𓂝𓏲𓂡	44390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ.w
+2	𓅷𓏤𓄿𓇋𓀀	550184	PROPN	entity-name	_	_	_	_	Translit=Ṯꜣy
+
+# sent_id = IBcAZtcwWl3zh0NutWiygV1YU58
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = Merire
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 17
+1	𓇳𓌸𓇋𓇋𓀀	600373	PROPN	entity-name	_	_	_	_	Translit=Mr.y-Rꜥw
+
+# sent_id = IBcAZuXIEdIjmUXEkxeveVgLwug
+# corpus = tuebingerstelen
+# src_text_id = TNYNZZSAHRAXBBIR2WPUWTDGEM
+# src_text = tuebingerstelen:Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)//Stele des Ramose (Äg. Slg. Tübingen Inv. Nr. 469)
+# owner = Susanne Beck
+# text_de = Seine Schwester, Iiemwen.
+# findspot = Upper Egypt (South of Assiut)
+# date = unknown
+# lineRef = 20
+1	𓌢𓈖	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇍𓇋𓂻𓐝𓃹𓁐	_	X	unknown	_	_	_	_	_
+

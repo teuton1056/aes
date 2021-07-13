@@ -1,0 +1,26 @@
+# sent_id = IBUBd6uawdAQp06NnEjleJtFSA8
+# corpus = bbawgrabinschriften
+# src_text_id = WX3SK4OLFBA73G4SSQ2DLEG3UE
+# src_text = bbawgrabinschriften:Portikus//Ritualbeischriften
+# owner = Stefan Grunert
+# text_de = Gib die Wasserspende!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Opferliste,Z6,Beischrift1]
+1	𓏙	851711	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=rḏi̯
+2	𓏂	160330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qbḥ.w
+
+# sent_id = IBUBd6oQWPWAjEC2hjWjcFsl3h0
+# corpus = bbawgrabinschriften
+# src_text_id = WX3SK4OLFBA73G4SSQ2DLEG3UE
+# src_text = bbawgrabinschriften:Portikus//Ritualbeischriften
+# owner = Stefan Grunert
+# text_de = Das Entfernen der Fußspuren seitens des Vorlesepriesters.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Opferliste,Z6,Beischrift2]
+1	𓏎𓈖𓏏	26840	NOUN	substantive	VerbForm=Fin	_	_	_	Translit=jn.t-rd
+2	𓂾	96600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rd
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓌨𓎛𓃀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+

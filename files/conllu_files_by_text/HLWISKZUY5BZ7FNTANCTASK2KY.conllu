@@ -1,0 +1,87 @@
+# sent_id = IBUBd6UT4Kak00umr9Wd6K50liQ
+# corpus = bbawgrabinschriften
+# src_text_id = HLWISKZUY5BZ7FNTANCTASK2KY
+# src_text = bbawgrabinschriften:Südwand//Westteil
+# owner = Stefan Grunert
+# text_de = Der Verwalter des Königsvermögens und Vorsteher des großen Gutes Ii-mery.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.84]
+1	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+2	𓅓𓂋𓉐𓏤𓉟	450514	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr-ḥw.t-ꜥꜣ.t
+3	𓇍𓌸𓇋𓇋	450226	PROPN	entity-name	_	_	_	_	Translit=Jy-mr.y
+
+# sent_id = IBUBd1tm6KJcRU02uJxKRa3sDcM
+# corpus = bbawgrabinschriften
+# src_text_id = HLWISKZUY5BZ7FNTANCTASK2KY
+# src_text = bbawgrabinschriften:Südwand//Westteil
+# owner = Stefan Grunert
+# text_de = (Der Hund namens) Ikeni.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.85]
+1	𓇋𓎡𓈖𓇋	710566	PROPN	entity-name	_	_	_	_	Translit=Jknj
+
+# sent_id = IBUBd3oktQCeN00ynm2Sl30P9jI
+# corpus = bbawgrabinschriften
+# src_text_id = HLWISKZUY5BZ7FNTANCTASK2KY
+# src_text = bbawgrabinschriften:Südwand//Westteil
+# owner = Stefan Grunert
+# text_de = Der Älteste des Hauses, Aufseher der Totenpriester und Leiter des Speisezeltes Tjenti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.87]
+1	𓀗𓉐𓏤	450532	_	epitheton-title	_	_	_	_	Translit=sms.w-pr
+2	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+3	𓍛𓉲	450533	_	epitheton-title	_	_	_	_	Translit=ḫrp-zḥ
+4	𓍿𓈖𓍘𓇋	450056	PROPN	entity-name	_	_	_	_	Translit=Ṯntj
+
+# sent_id = IBUBd0sEJoJvX0Dhq5ePxw3LOfw
+# corpus = bbawgrabinschriften
+# src_text_id = HLWISKZUY5BZ7FNTANCTASK2KY
+# src_text = bbawgrabinschriften:Südwand//Westteil
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Totenpriester Henu(?)-nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.86]
+1	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓎛𓏌𓈖𓄤𓆑𓂋	704805	PROPN	entity-name	_	_	_	_	Translit=Ḥnw-nfr
+
+# sent_id = IBUBd46iu8gVt0RjjYPAgsMivPc
+# corpus = bbawgrabinschriften
+# src_text_id = HLWISKZUY5BZ7FNTANCTASK2KY
+# src_text = bbawgrabinschriften:Südwand//Westteil
+# owner = Stefan Grunert
+# text_de = Das Schlagen auf der Harfe.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.88]
+1	𓋴	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓃀𓈖𓏏	54650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjn.t
+
+# sent_id = IBUBdzSgKJXUW07xq8HMzxnnmMU
+# corpus = bbawgrabinschriften
+# src_text_id = HLWISKZUY5BZ7FNTANCTASK2KY
+# src_text = bbawgrabinschriften:Südwand//Westteil
+# owner = Stefan Grunert
+# text_de = Das Schlagen auf der Harfe.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.88]
+1	𓋴𓈎𓐓	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓃀𓈖𓏏	54650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjn.t
+
+# sent_id = IBUBd53mtcIB6EvTgZWSWN0rh3E
+# corpus = bbawgrabinschriften
+# src_text_id = HLWISKZUY5BZ7FNTANCTASK2KY
+# src_text = bbawgrabinschriften:Südwand//Westteil
+# owner = Stefan Grunert
+# text_de = Das Flöten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.91]
+1	𓊃𓃀𓄿	131160	VERB	verb	VerbForm=Fin	_	_	_	Translit=zbꜣ
+

@@ -1,0 +1,83 @@
+# sent_id = IBUBd9Nk6b8H6EjamgKY25XCYP8
+# corpus = sawlit
+# src_text_id = GLCG5C5XVNA3PMRCGRE5WK2Y5Y
+# src_text = sawlit:Stele des Tjetji (BM EA 614)//〈Stele des Tjetji (BM EA 614)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one beloved of his lord, his praised one in the course of every day.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌸𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎿𓇋𓇋	109620	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥzi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓𓌨𓏏𓇳𓏤	650025	ADV	adverb	_	_	_	_	Translit=m-ẖr.t-hrw
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBdxPshe5rkkQXtcrRCc9bncU
+# corpus = sawlit
+# src_text_id = GLCG5C5XVNA3PMRCGRE5WK2Y5Y
+# src_text = sawlit:Stele des Tjetji (BM EA 614)//〈Stele des Tjetji (BM EA 614)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May he fare the firmament,
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [17]
+1	𓍑𓄿𓊛	181780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓈟𓊌	54320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjꜣ
+
+# sent_id = IBUBd1CHR5uIWE56kxWUFwXeea4
+# corpus = sawlit
+# src_text_id = GLCG5C5XVNA3PMRCGRE5WK2Y5Y
+# src_text = sawlit:Stele des Tjetji (BM EA 614)//〈Stele des Tjetji (BM EA 614)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May the desert open her arm(s) for him,
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [17]
+1	𓃹𓈖𓉿	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊃𓏏𓈉	134780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmy.t
+5	𓂋𓈖𓂢	854523	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rmn
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd1zupJ8PqkMorPT8iDbCuSo
+# corpus = sawlit
+# src_text_id = GLCG5C5XVNA3PMRCGRE5WK2Y5Y
+# src_text = sawlit:Stele des Tjetji (BM EA 614)//〈Stele des Tjetji (BM EA 614)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May he reach the council of (the) god.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [17] - [18]
+1	𓋴𓊪𓂋𓂻	132830	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓍑𓆓𓏌𓏏𓀭𓏨	182390	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏꜣḏꜣ.t
+5	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdzAIqVz9wEEFqVXP1t0tAec
+# corpus = sawlit
+# src_text_id = GLCG5C5XVNA3PMRCGRE5WK2Y5Y
+# src_text = sawlit:Stele des Tjetji (BM EA 614)//〈Stele des Tjetji (BM EA 614)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May "welcome" be said to him by the great ones of Abydos.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [18]
+1	𓆓𓂧𓏏	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇍𓅱	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+7	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+8	𓅨𓂋𓀭𓏨	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+9	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+10	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+

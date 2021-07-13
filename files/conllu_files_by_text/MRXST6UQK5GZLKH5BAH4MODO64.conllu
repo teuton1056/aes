@@ -1,0 +1,85 @@
+# sent_id = IBUBd9hRox0kKEnNmwQfyBSdEf8
+# corpus = sawlit
+# src_text_id = MRXST6UQK5GZLKH5BAH4MODO64
+# src_text = sawlit:Stele mit Osirishymnus (Kairo CG 20498)//〈Stele mit Osirishymnus (Kairo CG 20498)〉
+# owner = Peter Dils
+# text_de = den Tausende in Alt-Kairo verklären,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [3]
+1	𓋴𓅜𓐍𓅱𓀁	127110	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=sꜣḫ
+2	𓆼𓏤𓏥	113110	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌨𓂚𓄿𓊖	124280	PROPN	entity-name	_	_	_	_	Translit=H̱r.j-ꜥḥꜣ
+
+# sent_id = IBUBd4QE8qswQExAjElzGXpCHtU
+# corpus = sawlit
+# src_text_id = MRXST6UQK5GZLKH5BAH4MODO64
+# src_text = sawlit:Stele mit Osirishymnus (Kairo CG 20498)//〈Stele mit Osirishymnus (Kairo CG 20498)〉
+# owner = Peter Dils
+# text_de = Herr der Fleischopfer in den oberen Häusern,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [4]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓍉𓏏𓄗𓏥	550337	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=stp.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉐𓏥	60220	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pr
+5	𓁷𓂋𓅱𓇯	108300	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ḥr.j
+
+# sent_id = IBUBd0QPzmQGx0SVow6QZdiF9Bw
+# corpus = sawlit
+# src_text_id = MRXST6UQK5GZLKH5BAH4MODO64
+# src_text = sawlit:Stele mit Osirishymnus (Kairo CG 20498)//〈Stele mit Osirishymnus (Kairo CG 20498)〉
+# owner = Peter Dils
+# text_de = Wenn die Götter ihn sehen, dann ist es ihm, daß sie Lobpreis spenden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6] - [7]
+1	𓌴𓁹	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓊹𓏪	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+4	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇋𓄿𓅱𓀢	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+
+# sent_id = IBUBd3kDXsmf3UaTm4QUUjdIawI
+# corpus = sawlit
+# src_text_id = MRXST6UQK5GZLKH5BAH4MODO64
+# src_text = sawlit:Stele mit Osirishymnus (Kairo CG 20498)//〈Stele mit Osirishymnus (Kairo CG 20498)〉
+# owner = Peter Dils
+# text_de = Wenn die Verklärten ihn sehen, dann ist es für ihn, daß sie Schutz-der-Erde verrichten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7] - [8]
+1	𓌵	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓅜𓏥	203	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣḫ
+4	𓈎𓌳𓌙	854564	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qmꜣ
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓎂𓇾	126140	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=Zꜣ-tꜣ
+
+# sent_id = IBUBd6hVFdYjck8MlfQx6YXNQME
+# corpus = sawlit
+# src_text_id = MRXST6UQK5GZLKH5BAH4MODO64
+# src_text = sawlit:Stele mit Osirishymnus (Kairo CG 20498)//〈Stele mit Osirishymnus (Kairo CG 20498)〉
+# owner = Peter Dils
+# text_de = Nachdem die Menge im thinitischen Gau um ihn getrauert hat, jubeln ihm die Bewohner der Unterwelt zu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8]
+1	𓈖𓉔𓊪𓏛𓈖	85490	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nhp
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓆈𓏏𓏥	41050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥšꜣ.wt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋄	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+7	𓎛𓂝𓂝	102060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜥi̯
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇋𓏶𓏥𓇽𓏏𓉐	500103	_	epitheton-title	_	_	_	_	Translit=jm.jw-dwꜣ.t
+

@@ -1,0 +1,570 @@
+# sent_id = IBUBd6WNk2bcaUSvtxJfh3qgFsA
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Beseitigen der $ꜥꜣꜥ$-Krankheit/Einwirkung im Bauch (und) im $ḥꜣ.tj$-Herzen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,13]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓉻𓂝𓄿𓂝𓂺	35180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓄂𓏏𓏥𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBUBd46CWibqbUZdhhdcs40TiLg
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,14] - [44,15]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd6unb1VwbEW2tSGIifnVzRY
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBdxcwGcnEPkl1n3sGceJMYRk
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,17]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdWPRilnYNE93kkv7R4LK9GM
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd9lUcxVafER2v6uSaDYRIME
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,19]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd6F7ntIV8k3knVupLISqeh0
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUBdQNTWZSWOkAQvmSJS1jW6Mo
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde ausgepresst.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,20]
+1	𓂝𓏏𓐍𓀜	41820	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥtḫ
+
+# sent_id = IBUBd4HIUL697Ud2uxU0XXgaJhI
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde sofort getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,20]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓁷𓏤𓂝𓏤	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBdwzcOHOEzU17gWsOjYYprLQ
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen der $ꜥꜣꜥ$-Krankheit/Einwirkung, (verursacht durch) einen Gott (oder) einen Toten, im Bauch eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,22]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓉻𓂝𓄿𓂝𓂸	35180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBUBd7LFm7gnkUctohMr0deBKWU
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,3]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd5V5VamVsUhXsj7dxqkjv30
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd2bxjK6HdEDIsIk1G8aI1PM
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen der $ꜥꜣꜥ$-Krankheit/Einwirkung am $ḥꜣ.tj$-Herzen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,23]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓉻𓂝𓄿𓂝𓂺	35180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBUBd9DSB6ri6krKt7ibv36Vh14
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,23]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBdzKjRU3Oh09ikRurm9Yq6Nc
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBdWD27EhSa0zQqDQMYZR9nCI
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,1]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBd5FcDna5g0kenbLJGpwIyVA
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen der $ꜥꜣꜥ$-Krankheit/Einwirkung am $ḥꜣ.tj$-Herzen (und zum) Beseitigen der Vergesslichkeit des Herzens, der Flucht des Herzens, der Stiche des Herzens:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,6] - [45,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓉻𓂝𓄿𓂝𓂺	35180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+7	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+8	𓅓𓂝𓉔𓏏𓅪𓄣𓏤	851849	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mh.t-jb
+9	𓏲𓂝𓂋𓂾𓂻𓄣𓏤	872153	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥr-jb
+10	𓂧𓅓𓅱𓏏𓌪𓏥𓄣𓏤	179220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dm.wt
+
+# sent_id = IBUBd0n3afe3HEmMkkwpiiUhJOc
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,8]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBdziNJRjv8EkkipjlKbKkNFI
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBdyexLwYsnUg2t3Yxny2Wj5o
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,10]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBdWMNBF0C7EHOhAeRyP73cXw
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Sofort (wirksame) Mittel zum Beseitigen der $ꜥꜣꜥ$-Krankheit/Einwirkung, (verursacht) von einem Gott (oder) von einem Toten, (und zum Beseitigen) des Schlagens (?) einer jeden Sache:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,10] - [45,11]
+1	𓁷𓂋𓏲𓏥𓂝𓏤	109030	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥr.w-ꜥ
+2	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓉻𓂝𓄿𓂝𓂺	35180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+9	𓋴𓈎𓂋𓌪𓂝	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
+10	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+11	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdyQPmOvQz0QQkw3eDLa3MfE
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,12]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBd8ifAY36gkVmhpxw0ss8BbI
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes sofort (wirksames) Mittel zum ordnungsgemäßen Behandeln des $ḥꜣ.tj$-Herzens:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁷𓂋𓏲𓂝𓏤	109030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w-ꜥ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+5	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓃹𓈖𓌷𓂝𓏛	46200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wn-mꜣꜥ
+
+# sent_id = IBUBd8Eu0mcXeknJnDCYyUIh6R8
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,13]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBd51zWNBhckWTou6IgsdlxVI
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein sofort (wirksames) Mittel zum Beseitigen (der Einwirkung) eines Toten im Rumpf, (zum) Beseitigen einer $ꜥꜣꜥ$-Krankheit/Einwirkung, (verursacht) von einem Gott (oder) einem Toten, (sowie) der Krankheitsauslöser (?) und des Schlagens (?) einer jeden üblen Sache:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,13] - [45,14]
+1	𓁷𓂋𓏲𓂝𓏤	109030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w-ꜥ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+7	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+8	𓉻𓂝𓄿𓂝𓂺	35180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+13	𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+14	𓋴𓈎𓂋𓇋𓌪𓂝	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
+15	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+16	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+17	𓈋𓅱𓏏𓅪𓏥	182840	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḏw
+
+# sent_id = IBUBd2iLGtWvMET5pAC3d4h1URo
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,16]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBd0b0XlkWmkuepE4Rn0dZx7I
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd6vHK9UmkEMZgmhNWNqB98M
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,18]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBdxYHcML9UEQDgOXTB8tqRlM
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln des $ḥꜣ.tj$-Herzens (und zum) Entfernen der Krankheitsauslöser (?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+5	𓋴𓂋𓏲𓇋𓏭𓂻	139300	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwi̯
+6	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+
+# sent_id = IBUBd4mdNJdHZEBXlFThVCQOfn0
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,20]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBd4x7BFuMA0TsqPQF7U4Ax1E
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd9Vn5jy460wkmM9Fmy0qQNU
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,21]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBd4xo0zWt50S9jpSglmjoH5Q
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), ein sofort (wirksames) Mittel zum Kühlen des $ḥꜣ.tj$-Herzens:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁷𓂋𓏲𓂝𓏤	109030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w-ꜥ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓋴𓈎𓃀𓃀𓏁𓈗	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+5	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBUBd96lL8AVjEq5oi3bRfk3wl8
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,22]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBd8UC8gWKh02Zi2SeD2LSDUg
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), ein sofort (wirksames) Mittel, zum ordnungsgemäßen Beseitigen einer $ꜥꜣꜥ$-Krankheit/Einwirkung im Rumpf und im $ḥꜣ.tj$-Herzen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [45,22] - [46,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓁷𓂋𓏲𓂝𓏤	109030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w-ꜥ
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓉻𓂝𓄿𓂝𓂺	35180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓃹𓈖𓌷𓂝𓏛	46200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wn-mꜣꜥ
+
+# sent_id = IBUBdQ5vhvSkh0TgrIhLZ3L9qH8
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBdx0b6UQ0303XkdTWXsVbNAA
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,5]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBdQfBgBlPH0CFsT5WjcUAFkU
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd0PaOS5HU05KiJD1Baaiy3g
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,7]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBd94Hh7oFYUVXhO1LeAuKG60
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Abwehren einer $ꜥꜣꜥ$-Krankheit/Einwirkung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍚𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+4	𓉻𓂝𓄿𓂝𓂺	35180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣꜥ
+
+# sent_id = IBUBd55AZaONQU6QsJdQn49arXE
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = $nḥbw.t$-Flüssigkeit (?) von Balken, ausgeglüht mit Öl/Fett.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,8] - [46,9]
+1	𓅘𓎛𓃀𓏲𓏏𓏌𓏥	86340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḥbw.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓊃𓅬𓄿𓏲𓆱𓏥	126360	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zꜣw
+4	𓋴𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=snwḫ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBUBd4XbgR6Mz0FjkAWXtm0Gv3Y
+# corpus = sawmedizin
+# src_text_id = L4F2MBSL5VBT3PZZH43J7ZOLEA
+# src_text = sawmedizin:Papyrus Ebers//44,13-46,9 ⸗ Eb 221-241: "Heilmittel gegen die $ꜥꜣꜥ$-Krankheit/Einwirkung"
+# owner = Lutz Popko
+# text_de = Werde darauf (d.h. auf die betroffene Stelle) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,9]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

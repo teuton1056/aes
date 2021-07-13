@@ -1,0 +1,32 @@
+# sent_id = IBUBd4eMNZKFAEFzojpbd04UaP4
+# corpus = sawlit
+# src_text_id = 3QQQI65QRRAALC2U5ATVYJRM5E
+# src_text = sawlit:Stele des Chnumhotep (Durham N 1935)//〈Stele des Chnumhotep (Durham N 1935)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who knows the laws, experienced in action, loyal to the one who promoted him,
+# findspot = Eastern Desert
+# date = MK & SIP
+# lineRef = [C.4] - [C.5]
+1	𓂋𓐍𓏛	95620	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫ
+2	𓉔𓊪𓅱𓏛𓈓	98260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hp
+3	𓄃	157030	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šsꜣ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓐥	78770	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mḏd
+7	𓍯𓏏𓈐𓈓	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+9	𓋴𓏠𓈖𓐍𓍊𓏝	135360	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smnḫ
+10	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd6dGLgH920x3mqBlwjC5rac
+# corpus = sawlit
+# src_text_id = 3QQQI65QRRAALC2U5ATVYJRM5E
+# src_text = sawlit:Stele des Chnumhotep (Durham N 1935)//〈Stele des Chnumhotep (Durham N 1935)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Verwalter der Kammer, Nebschabet.
+# findspot = Eastern Desert
+# date = MK & SIP
+# lineRef = [C.10]
+1	𓇋𓂋𓂝𓏏𓉐	28720	_	epitheton-title	_	_	_	_	Translit=jr.j-ꜥ.t
+2	𓎟𓆷𓃀𓏏𓀀	_	X	unknown	_	_	_	_	_
+

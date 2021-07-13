@@ -1,0 +1,521 @@
+# sent_id = IBUBd84tS5jiB0ieqOwQ8dWaYz8
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sei gepriesen!
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 87,1,1]
+1	𓇋𓄿𓏲𓏏𓀢𓏛	600170	ADJ	adjective	_	_	_	_	Translit=jꜣ.wt
+2	𓏏𓏲𓅆	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+
+# sent_id = IBUBd95d9TQJIkuLr3kWCoRVQuI
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Amun hat über dich gesprochen.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 87,1,1]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓎢𓅆	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdxAGHNBhPUnQtfVMqMoXCxM
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = dein Landepflock ist in Theben festgemacht,
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 87,1,6]
+1	𓈖𓂝𓇋𓇋𓄿𓏏𓌼𓏏𓆱	80450	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nꜥy.t
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏠𓈖𓍖𓏛𓍘𓇋	851677	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=smn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌀𓏏𓊖𓅆	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+
+# sent_id = IBUBd9jmb0k3CEyWm6AuMGeWjWE
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Alle Länder sind in Fest(stimmung).
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 87,1,8]
+1	𓇾𓇾𓇾𓈇𓈇𓈇	854573	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tꜣ
+2	𓎟𓎟𓎟	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓃀𓎱𓇳	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+
+# sent_id = IBUBd4gwvUomqEFTiUjVnBJWQBY
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Die guten (wörtl.: echten) Steine sind aus den Wadis gekommen.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 21,2]
+1	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+2	𓇋𓈖𓂋𓊌𓏥	27560	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jnr
+3	𓆄𓏏𓆇𓅆	66460	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=mꜣꜥ
+4	𓉐𓂋𓇋𓇋𓂻	60920	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=pri̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓆛𓈖𓏏𓈉𓏪	26780	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jn.t
+
+# sent_id = IBUBd968fVDfzUHctchOrmo9YeE
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Deine Macht vernichtete sie.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 21,6]
+1	𓄡𓂧𓃀𓏲𓌪𓂡	124950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖdb
+2	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅢𓏤𓏫𓏛𓏥	53300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ.w
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5zAAIbiU0Mvi93fR4MGuLw
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sie sagten sich (wörtl.: in ihrem Herzen):
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 21,6]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏪	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+5	𓏲𓏪	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBd1xhjUhByENQq7iQVZmbQrI
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Er erhörte nicht, was sie sagten.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 21,7]
+1	𓃀𓏲	55130	PART	particle	_	_	_	_	Translit=bw
+2	𓄔𓅓𓏛	150560	VERB	verb	_	_	_	_	Translit=sḏm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓆓𓂧𓏏	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓏲𓏪	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBdyrxPgcSOUzIq8TsO0VhLb4
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sie, die Ignoranten (oder: Unbekannten), wurden zur (rechten) Stunde bezwungen.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 21,8]
+1	𓏲𓂝𓆑𓀕	44640	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜥf
+2	𓋴𓏏𓏥	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓃀𓏲𓂋𓐍𓏛𓏲𓏪	859646	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw-rḫ⸗w
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓃹𓈖𓏌𓏲𓏏𓇳	46420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wnw.t
+6	𓏲𓏪	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBd8SGay1i60Oas5F0n79FK4g
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Er wird für dich handeln, der Einzigartige unter Hunderttausenden!
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 21,10]
+1	𓁹𓏲𓇋𓇋𓏲	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢𓅆	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓆐𓏥	104440	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥfn
+
+# sent_id = IBUBdypQufVADUAKrIz9WyuqZOE
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Er wird Millionen zu Einem machen.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 21,10]
+1	𓁹𓇋𓇋𓏲	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁨𓏫	109250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḥ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdx5YEwNhwkxUvOR1sxm0AF4
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = (Es) geschah (im) Moment/Zenit des Tages, (dass) alle Menschen für dich versammelt wurden.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 22,1]
+1	𓆣𓂋𓏲𓊪𓏲	858535	VERB	verb	_	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓄿𓏏𓏯𓇳𓏤	5	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣ.t
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓀾𓏛	170500	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=twti̯
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓎢𓅆	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇾𓍃𓅓𓅓𓀀𓁐𓏥	169350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ-tm.w
+
+# sent_id = IBUBd8WW4GQJukucnVIbae0ailM
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Für die Ewigkeit wird das sein, was Amun gesagt hat.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 22,2]
+1	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓇋𓀁𓆓𓂧𓏲	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+3	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+4	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋𓎛𓇳𓎛	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdyeYBenDMkZutsFkEaE3Ar0
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Das Meer erhob sich für dich, um zu jubeln.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 22,3]
+1	𓆑𓄿𓀋𓀜	63460	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=fꜣi̯
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢𓅆	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓇋𓇋𓅓𓂝𓈗𓈘𓈇	24730	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ym
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓈖𓉔𓄿𓅓𓏲𓀁𓏪	85580	VERB	verb	VerbForm=Fin	_	_	_	Translit=nhm
+
+# sent_id = IBUBd4eZcuMow0q4lEMeebgTW0c
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Die Seilmacher fertigen Stricke.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 22,4]
+1	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+2	𓈖𓂝𓇋𓇋𓂷𓂡𓏪	80430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nꜥ.y
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓍯𓄿𓈖𓏥𓂋𓏤𓆰𓏫	42980	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣr.t
+
+# sent_id = IBUBd2xRq4QQ4EaCgRlLM3UYzdE
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Jeder Teich ist gefüllt.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 22,9]
+1	𓋴𓃹𓈖𓏌𓏲𓌕𓈇𓏤	130190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=swn.w
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+3	𓎔𓏛	854514	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mḥ
+
+# sent_id = IBUBdy0aKNy1Q0tHugct6ts3XKU
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sie wandten ihren Blick nach Napata.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 22,10]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏲𓏪	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓁷𓂋𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+4	𓏲𓏪	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈖𓄿𓅯𓄿𓄿𓏏𓏭𓏲𓈇𓏤𓈗	850127	PROPN	entity-name	_	_	_	_	Translit=Npyt
+
+# sent_id = IBUBd4ApWED8o0WFuPUooGhWxUw
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sie füllten (oder: ergriffen) den Verwaltungsbezirk von ... (?).
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 22,10]
+1	𓎔𓏛	854514	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+2	𓏲𓏪	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓐖𓏏𓏤	854544	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=spꜣ.t
+4	𓍑𓄿𓂝𓏤𓈖𓈗𓏏𓈗𓈘𓈇	859335	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣ-ꜥ-n-mw
+
+# sent_id = IBUBd3Vz3m0X8EjOtjg8TMOjJWc
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = "Dies sind die bedeutenden Dinge, die uns widerfuhren.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 88,2]
+1	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+2	𓉻𓂝𓏛𓏫	34770	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ
+3	𓈖𓄿𓏭𓏪	851663	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣj
+4	𓆣𓂋𓏤𓊪𓏲	858535	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓏏𓏲𓈖𓈖𓏥	851197	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗n
+
+# sent_id = IBUBd8NWmdnQKkBNtfbzFmhyEYA
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Seht, Amun hat sich Ägypten zugewandt.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 88,4]
+1	𓊪𓏏𓂋𓇋𓆵𓁻	62910	INTJ	interjection	_	_	_	_	Translit=ptr
+2	𓊪𓈖𓂝𓊜	59960	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pnꜥ
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆎𓅓𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+
+# sent_id = IBUBdx1wFcHJ5U61qfXWE29BKxg
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sein (des Landes) Ernteertrag ist neu bestimmt (?) worden.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto.⁝ 88,6]
+1	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈙𓈗𓌽𓈓𓏊𓏫	154860	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šm.w
+4	𓊃𓌴	134750	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=smꜣwi̯
+
+# sent_id = IBUBd0xAWmaKIEQRnBSU8dHR77k
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = (O) der (du) das Land Hatti betrittst: Mögest du seine Berge zum Einsturz bringen.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 89,6]
+1	𓅧𓈎𓏲𓂻	41180	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥq
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓐍𓏏𓍔𓄿𓏲𓌙𓀀𓁐𓏥𓈉	121250	PROPN	entity-name	_	_	_	_	Translit=Ḫt
+7	𓊪𓈖𓂝𓊜𓂷𓂡	59960	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pnꜥ
+8	𓎢𓅆	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓈖𓄿𓇋𓇋𓏥	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈋𓏤𓊌𓏥	182830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏw
+
+# sent_id = IBUBdwZg3LvWu0KnooaBwgWam7E
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Ihr Leben ist perfekt.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 20,1,1]
+1	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+2	𓏲𓏪	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓋹𓈖𓐍	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+4	𓄤𓆑𓂋	854519	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nfr
+
+# sent_id = IBUBd0Mpqc21TEimkU1s9WZ4ekg
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Kommt die Überschwemmung zu ihrer (richtigen) Zeit, entstehen (wahre) Wasserfluten in deiner Residenz.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 20,1,1]
+1	𓏭𓂻𓏲𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓎛𓂝𓊪𓊅𓈗𓈘𓈇	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏏𓂋𓇋𓆵𓇳	172700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈖𓏏𓏭𓈘𓏥	79020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=n.t
+7	𓆣𓂋𓏲𓏪	858535	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖnw
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQQmPQzczUJ1gz9pTt1XplU
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Seine Denkmäler jubeln lauthals.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 20,1,6]
+1	𓈖𓄿𓇋𓇋	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓏠𓈖𓏌𓏲𓏛𓏥𓅆	70420	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mn.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴𓎼𓄿𓃀𓄔𓀁𓏫	147150	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgb
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓈖𓉔𓄿𓅓𓏲𓀁𓏪	85580	VERB	verb	VerbForm=Fin	_	_	_	Translit=nhm
+
+# sent_id = IBUBdwWCKeA6g0S9gJ17H0pevEg
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sei gepriesen!
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 20,1,7]
+1	𓇋𓄿𓅱𓏏𓀢𓏛	600170	ADJ	adjective	_	_	_	_	Translit=jꜣ.wt
+2	𓏏𓏲𓅆	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+
+# sent_id = IBUBd5pviiyueEQ5pb4faDENMIE
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sei gepriesen, der (du) zu deinem Vater gekommen bist,
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 20,1,9]
+1	𓇋𓄿𓅱𓏏𓀢𓏛	600170	ADJ	adjective	_	_	_	_	Translit=jꜣ.wt
+2	𓏏𓏲𓅆	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓇍𓇋𓇋𓂻	21930	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdysxRmaQa0A9hDDUnD7dGkQ
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = vor dem zahlreiche Siege (liegen),
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 20,1,9]
+1	𓈖𓆱𓐍𓏏𓀜𓏏𓏲𓏪	87620	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nḫt.w
+2	𓈎𓈖𓏌𓏲𓏴𓏛𓏪	161060	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=qn.w
+3	𓂋𓄂𓏏𓏤	500053	ADP	preposition	_	_	_	_	Translit=r-ḥꜣ.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdx6Wl6JisUy0kJkHp7KXLho
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Gaben bringt dir jedes Fremdland.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 20,2,1]
+1	𓏎𓈖	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓏎𓈖𓏌𓏲𓏛𓏥	27040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jn.w
+
+# sent_id = IBUBd4BvjmwP2kDhootnXSiShyM
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = (der) du mit der Hellen (Krone Oberägyptens) erschienen bist!
+# findspot = unknown
+# date = NK
+# lineRef = [Vso⁝ 86,1,1]
+1	𓈍𓂝𓏛	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
+2	𓍘𓇋	851183	PRON	pronoun	PronType=Prs	_	_	_	Translit=tj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌉𓏲𓏏𓏯𓋑	112440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥḏ.t
+
+# sent_id = IBUBdzyqasVe4UxfiIkiYhauQLA
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = (Es) wird hell, wenn du den Himmel überquerst.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso⁝ 86,1,1]
+1	𓌉𓆓𓇳	112301	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥḏ
+2	𓍑𓄿𓇋𓇋𓊛	181780	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=ḏꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓁷𓂋𓇯	107670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥr.t
+
+# sent_id = IBUBdzAnQmSkH0wTsbTH4dYefTE
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Sei gegrüßt,
+# findspot = unknown
+# date = NK
+# lineRef = [Vso⁝ 86,1,1]
+1	𓇋𓐩𓏌𓆓𓏛	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓅆𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQXn8ga4nEKgj5TilQlllRM
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = (der) du mit der Mächtigen (d.h. der Doppelkrone) erschienen bist!
+# findspot = unknown
+# date = NK
+# lineRef = [Vso⁝ 86,1,1]
+1	𓈍𓂝𓏛	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
+2	𓏏𓏲𓅆	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌂𓏏𓏯𓋖𓏏𓏲𓅆	142280	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sḫm.tj
+
+# sent_id = IBUBd7Rqbuzt90ychVo70If7TgE
+# corpus = sawlit
+# src_text_id = JP5NVGIJPJEFTD66MVNTLU6JQY
+# src_text = sawlit:pTurin Cat. 1892+1886+1893 (ehemals: pCGT 54031)//Hymnen auf Ramses VI. und VII.
+# owner = Lutz Popko
+# text_de = Alle Menschen mögen zu dir kommen, (ausrufend):
+# findspot = unknown
+# date = NK
+# lineRef = [Vso.⁝ 86,1,2]
+1	𓈖𓌰𓅓𓋴𓂾𓂻	84420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nms
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇾𓍃𓅓𓅓𓀀𓁐𓏥	169350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ-tm.w
+

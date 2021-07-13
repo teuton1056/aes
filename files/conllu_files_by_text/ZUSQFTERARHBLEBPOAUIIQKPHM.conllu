@@ -1,0 +1,50 @@
+# sent_id = IBUBd0OFeQ8iaUPcsQwsk1VVI2A
+# corpus = bbawgraeberspzt
+# src_text_id = ZUSQFTERARHBLEBPOAUIIQKPHM
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20e: 5. Tagesstunde
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [33]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd72hfdMy60qMs3CWMWx0Dwk
+# corpus = bbawgraeberspzt
+# src_text_id = ZUSQFTERARHBLEBPOAUIIQKPHM
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20e: 5. Tagesstunde
+# owner = Doris Topmann
+# text_de = Re erscheint, das Gold der Götter.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [33]
+1	𓈍𓂝	114740	VERB	verb	_	_	_	_	Translit=ḫꜥi̯
+2	𓇴	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓋞𓊹𓊹𓊹	500314	_	epitheton-title	_	_	_	_	Translit=nbw-nṯr.w
+
+# sent_id = IBUBdWaIEjbeNUeSnsTelERCfKk
+# corpus = bbawgraeberspzt
+# src_text_id = ZUSQFTERARHBLEBPOAUIIQKPHM
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20e: 5. Tagesstunde
+# owner = Doris Topmann
+# text_de = Die geheimen Höhlungen öffnen sich ihm.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [33] - [34]
+1	𓃹𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈎𓂋𓏏𓈒𓉐𓏥	854566	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qrr.t
+5	𓈙𓇾𓏛𓏥	157940	VERB	verb	Status=Abs	_	_	_	Translit=štꜣ
+
+# sent_id = IBUBdQzlOYD9ekkVobbQd8u6I00
+# corpus = bbawgraeberspzt
+# src_text_id = ZUSQFTERARHBLEBPOAUIIQKPHM
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20e: 5. Tagesstunde
+# owner = Doris Topmann
+# text_de = 'Schweigende'.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [40]
+1	𓇋𓅱𓎼𓂋𓇼	32780	PROPN	entity-name	_	_	_	_	Translit=Jgr.t
+

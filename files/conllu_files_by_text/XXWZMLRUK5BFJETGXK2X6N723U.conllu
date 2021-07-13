@@ -1,0 +1,100 @@
+# sent_id = IBUBd3op1fLMq0Xdh3tEhtjk8L4
+# corpus = bbawgrabinschriften
+# src_text_id = XXWZMLRUK5BFJETGXK2X6N723U
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis, der vor der Gotteshalle ist, der Imiut, der auf seinem Berge ist, der Herr der Nekropole gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓏅𓊹𓉱	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+6	𓏶𓅱𓏏𓊖	25390	_	epitheton-title	_	_	_	_	Translit=jm.j-wt
+7	𓁶𓈋𓆑	600421	_	epitheton-title	_	_	_	_	Translit=tp.j-ḏw⸗f
+8	𓎟𓇿𓂦	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+
+# sent_id = IBUBdzrPnjVaO0b8sX6BnTz4DlI
+# corpus = bbawgrabinschriften
+# src_text_id = XXWZMLRUK5BFJETGXK2X6N723U
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓊵𓏏𓊪𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏏𓊪𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+
+# sent_id = IBUBd28boXSuZEhqh7rnmVOtPU4
+# corpus = bbawgrabinschriften
+# src_text_id = XXWZMLRUK5BFJETGXK2X6N723U
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Kammerdiener des Königs, Aktenschreiber des Königs in (dessen) Angesicht und Senior-Vorsteher der Schreiber Itji.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓇓𓏏𓁶𓌨	450367	_	epitheton-title	_	_	_	_	Translit=ẖr.j-tp-nswt
+2	𓇓𓏏𓏟𓂝𓏝𓐍𓏏𓆑𓁷	450604	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜥ-n-nswt-ḫft-ḥr
+3	𓃥𓅓𓂋𓏟	450596	_	epitheton-title	_	_	_	_	Translit=zꜣb-jm.j-rʾ-zẖꜣ.ww
+4	𓇋𓍿𓇋	710722	PROPN	entity-name	_	_	_	_	Translit=Jṯj
+
+# sent_id = IBUBdWeDEXu7pE6SuDw7idF9vXM
+# corpus = bbawgrabinschriften
+# src_text_id = XXWZMLRUK5BFJETGXK2X6N723U
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Seine Ehefrau, die Verwalterin des Königsvermögens Meru-ka.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4] -  [5]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓂋𓐍𓏏	95750	_	epitheton-title	_	_	_	_	Translit=jr.jt-jḫ.t-nswt
+4	𓌸𓂋𓅱𓎡	702334	PROPN	entity-name	_	_	_	_	Translit=Mr.w-kꜣ
+
+# sent_id = IBUBd1saDclWxENQn04pnEDPITQ
+# corpus = bbawgrabinschriften
+# src_text_id = XXWZMLRUK5BFJETGXK2X6N723U
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn Ibebi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓇋𓃀𓃀𓇋	703843	PROPN	entity-name	_	_	_	_	Translit=Jbb.j
+
+# sent_id = IBUBd5idRY1RXUTOiVF0rkKIsb4
+# corpus = bbawgrabinschriften
+# src_text_id = XXWZMLRUK5BFJETGXK2X6N723U
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Seine Tochter Henutsen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [7]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓏌𓏏𓈖𓋴	400701	PROPN	entity-name	_	_	_	_	Translit=Ḥn.wt⸗sn
+
+# sent_id = IBUBdxSszviMM0z8mzuNehx8ARg
+# corpus = bbawgrabinschriften
+# src_text_id = XXWZMLRUK5BFJETGXK2X6N723U
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sein Sohn Ibebi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [8]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓃀𓃀𓇋	703843	PROPN	entity-name	_	_	_	_	Translit=Jbb.j
+

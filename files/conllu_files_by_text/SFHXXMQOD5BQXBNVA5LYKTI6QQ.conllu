@@ -1,0 +1,35 @@
+# sent_id = IBUBd0DxaJECXkhYjvjlrTQXSiY
+# corpus = bbawgrabinschriften
+# src_text_id = SFHXXMQOD5BQXBNVA5LYKTI6QQ
+# src_text = bbawgrabinschriften:Westwand//Personenbeischriften unten
+# owner = Stefan Grunert
+# text_de = Sein leiblicher Sohn Rauwer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] -  [2]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓄡𓏏	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋𓂝𓅨𓂋	450178	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-wr
+
+# sent_id = IBUBd8wWx3XbQ0RagAAbqRoAOnk
+# corpus = bbawgrabinschriften
+# src_text_id = SFHXXMQOD5BQXBNVA5LYKTI6QQ
+# src_text = bbawgrabinschriften:Westwand//Personenbeischriften unten
+# owner = Stefan Grunert
+# text_de = Seine leiblichen Kinder Seschemnefer, der Jüngere, Pechu-en-ptah (und) Ab.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4] -  [5]
+1	𓄟	74750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ms
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓄡𓏏	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓋴𓌮𓄤	707086	PROPN	entity-name	_	_	_	_	Translit=Sšm-nfr
+7	𓅨𓂋	156650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šrj
+8	𓊪𓏏𓎛𓊪𓎛𓈖	701539	PROPN	entity-name	_	_	_	_	Translit=Pḥ.w-n-Ptḥ
+9	𓄿𓃀𓍋	700461	PROPN	entity-name	_	_	_	_	Translit=Ꜣb
+

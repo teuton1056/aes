@@ -1,0 +1,26 @@
+# sent_id = IBUBd6ysJnkklU3eqWMDOsss4FE
+# corpus = sawlit
+# src_text_id = DK2E3OFE7RB3ZCBBNYTFSP3VQE
+# src_text = sawlit:Tjay (TT 23)//Harfnerlieder Text F
+# owner = Lutz Popko
+# text_de = Es gibt keinen, der gegangen und zurückgekommen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6]
+1	𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+2	𓇋𓈝	154340	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šmi̯
+3	𓂻𓏲	21930	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+4	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBdyqj0Q1W6ERQh313AFV6gfM
+# corpus = sawlit
+# src_text_id = DK2E3OFE7RB3ZCBBNYTFSP3VQE
+# src_text = sawlit:Tjay (TT 23)//Harfnerlieder Text F
+# owner = Lutz Popko
+# text_de = Der Sänger mit dem Arm (?) des Amun, Pentaweret.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6]
+1	𓎛𓎿𓋴𓈖𓅮𓂝𓈖𓇋𓏠𓈖	853572	_	epitheton-title	_	_	_	_	Translit=ḥs.y-n-pꜣ-ꜥ-n-Jmn
+2	𓅮𓇾𓅨𓏏	600140	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-n-tꜣ-wr.t
+

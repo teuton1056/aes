@@ -1,0 +1,44 @@
+# sent_id = IBUBdwTO3y38N0RivIOttrbdZVQ
+# corpus = bbawgrabinschriften
+# src_text_id = 3L7OL7SJ6FDH7PAKM4WLAGUTPQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Chontamenti gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓏅𓏏𓇋𓏠𓈖𓅂𓀭	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+
+# sent_id = IBUBd4nMQT8n9UJwsjCPmkkJYuE
+# corpus = bbawgrabinschriften
+# src_text_id = 3L7OL7SJ6FDH7PAKM4WLAGUTPQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Er möge sehr friedlich wandeln auf den schönen Wegen, auf denen die Würdigen wandeln bei dem Großen Gott, dem Herren der Nekropole, der einzige Freund (des Königs), Leiter der beiden Throne uns Liebling seines Herren in jedem, was er wünscht, Seschem-nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] - [3]
+1	𓐍𓊪𓂻	116050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+7	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓍯𓏏𓈐𓈐𓈐	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+9	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+10	𓐍𓊪𓊪𓏏𓂻	116050	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḫpi̯
+11	𓎡𓌳𓄪𓐍𓅱	25090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jmꜣḫ.w
+12	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+14	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+15	𓊹𓀭𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+16	𓎟𓊻	450574	_	epitheton-title	_	_	_	_	Translit=nb-ẖr.t-nṯr
+17	𓋴𓍋𓌡𓏏𓏤	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+18	𓌂𓈖𓄓𓏏𓎼𓎼	450741	_	epitheton-title	_	_	_	_	Translit=ḫrp-ns.tj
+19	𓇋𓏶𓄣𓈖𓎟𓆑𓅓𓌸𓂋𓂋𓏏𓆑𓎟𓏏	854036	_	epitheton-title	_	_	_	_	Translit=jm.j-jb-n-nb⸗f-m-mrr.t⸗f-nb.t
+20	𓋴𓌮𓄤	707086	PROPN	entity-name	_	_	_	_	Translit=Sšm-nfr
+

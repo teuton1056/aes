@@ -1,0 +1,2218 @@
+# sent_id = IBUBd8Omin53S0z5mVI8PQ4r7tU
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Leben ist in ihm, (aber auch) Tod ist in ihm.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1,1]
+1	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8jrrS1nGUssqOv6uh8lT2Y
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Du sollst es nicht kennen (und) du sollst es nicht hören!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1,2]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋𓐍𓏛	95620	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḫ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓄔𓅓𓏛	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwrTi1DJd0DFnMZv0iQBU8w
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Leben ist in ihm, (aber) Tod ist in ihm durchaus.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1,3]
+1	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+8	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBd5dDDJlzxEfomhuGmIT09DQ
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Kein Auge soll es sehen, keine Hand soll es berühren!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓄖𓂻	61370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+7	𓋴	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+
+# sent_id = IBUBd0CLOpqqIEHdluvCQVaOa2U
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Die Ohren sollen es nicht hören (und) es soll den Mund  nicht verlassen ("aus dem Munde herauskommen")!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓄔𓅓	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+3	𓋴	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓄟𓋴𓇥𓂋𓄔𓄔𓏫	76230	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=msḏr
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+7	𓋴	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+
+# sent_id = IBUBdxzRQIdh60hMlG1pFjt27Hg
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Daraufhin wurde die erste Urgötterschaft zum ersten Mal geschaffen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3,1]
+1	𓊢𓂝𓂻	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓁹𓏏𓈖	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓅯𓄿𓏲𓇳𓏤𓁶𓊪𓏭	858532	PROPN	entity-name	_	_	_	_	Translit=Pꜣw.t-tp.jt
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊃𓊪𓊗𓁶𓊪𓏭	132610	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-tp.j
+
+# sent_id = IBUBd37yP9AgpU0Km4nh4v5MDuo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) sie sagten zu Re, nachdem er geboren worden war: "Dein Sohn Osiris wird unter deinen Kindern sein!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3,2]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓅓𓆱𓐍𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓄟𓋴𓏰𓏛𓏲𓏏	74950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓆣𓂋𓏛	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓄟𓋴𓏰𓏥𓅆	74750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ms
+16	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7Kr6GG5EkZkgBt8q741gd8
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = . . . (und) er gelangte zu einer Scholle.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,1]
+1	𓄖𓂻	61370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓌡𓂝𓏤	600043	PRON	pronoun	_	_	_	_	Translit=wꜥ
+5	𓏏𓈇𓏤𓏫	127650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣṯ.w
+
+# sent_id = IBUBd4SKPHtJGE0BlJHyh6BJdRo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da sagte Osiris: "Wie reich ist (doch) dieses Land!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,1]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+4	𓅨𓂋𓏲𓏭	47271	ADJ	adjective	_	_	_	_	Translit=wr
+5	𓅯𓄿𓏭	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+6	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdzhRk6hQCkQFuXwge8S7nc4
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) man sagt daher das 'Reiche Land' dazu bis zum heutigen Tag.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,1]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇾𓏤𓈇𓅨𓂋𓊖	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+6	𓁷𓏤𓏯	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋𓏠𓈖	92020	ADP	preposition	_	_	_	_	Translit=r-mn-m
+9	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+10	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdyWnWAgSZUfrhwGzMW9T1C4
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Osiris fühlte sich dort überaus wohl.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,2]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓄤𓆑𓂋𓏛	854519	VERB	verb	VerbForm=Fin	_	_	_	Translit=nfr
+4	𓅓𓏌𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓉻𓂝𓏛	855762	ADV	adverb	_	_	_	_	Translit=ꜥꜣ.t
+8	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+
+# sent_id = IBUBd3vtTQQhmkgdlF0bo3SzLes
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Doch) er hörte (davon), nämlich Seth.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,2]
+1	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+4	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+
+# sent_id = IBUBdwh4C1eCrUcngvqck6YWFQo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da kam Seth eilig (heran).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,2]
+1	𓇍𓇋𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓐍𓊃𓂾𓂻	142990	VERB	verb	VerbForm=Fin	_	_	_	Translit=zḫz
+
+# sent_id = IBUBd8eyGWMHhUHmlZsiXPZVxp0
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da erschien der Nun, um sich ganz und gar über ihn zu legen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,4]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓏌𓏌𓏌𓇯𓈗𓈘𓈇	500005	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw.w
+3	𓈍𓂝	114740	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜥi̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏲𓂧𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓋴	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓉻𓂝𓏛	855762	ADV	adverb	_	_	_	_	Translit=ꜥꜣ.t
+9	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+10	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBd3G4XD7D6k2WuDOgPH4NfBE
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Er stieg an, um seine geheime Gestalt zu verbergen, (und) er schloß ihn in seinem Innern ein.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,5]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆑𓄿𓀋𓏴𓀜	63460	VERB	verb	VerbForm=Fin	_	_	_	Translit=fꜣi̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇋𓏠𓈖𓀅	26030	VERB	verb	VerbForm=Fin	_	_	_	Translit=jmn
+6	𓊃𓈙𓍔𓄿𓏴𓏛𓏥𓅆	145710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sštꜣ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓀨𓇋𓏲𓏛𓀜	162530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qdi̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+11	𓅓𓏌𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzHN8QYiNkU8o65R13TjBS4
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Doch) er hörte (davon), nämlich Re.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5,5]
+1	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+4	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd4OalakAckQUqLHDpsy33Go
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = ". . . in Ohnmacht, Ohnmacht (und) Leid, Leid!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6,1]
+1	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+2	𓄿𓈎𓄿𓅪	290	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣq
+3	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓇋𓉔𓄿𓇋𓇋𓅪	174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣh.w
+6	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+7	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd64QRpMQxU8cqMDgKVxiqf0
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Das Land nähert sich dem Himmel an.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6,2] - [x+6,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+3	𓄖𓂻	61370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd77P5l2xHEWdp38fAZOQ01A
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und auch) der Mond bleibt unaufhörlich aus.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6,3]
+1	𓇋𓎛𓏲𓂝𓇺𓅆	21810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥḥ
+2	𓇋𓋴𓈎𓂽	31730	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jsq
+3	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+4	𓇓𓏲	49420	VERB	verb	VerbForm=Fin	_	_	_	Translit=ws
+
+# sent_id = IBUBd1lCH6D7sEIvlwGZbwdPhGE
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Das Land ist verkehrt (und) die Nilflut kann nicht (mehr) nach Norden fließen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6,4]
+1	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+3	𓊪𓈖𓂝𓊜𓏛𓀜	59960	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=pnꜥ
+4	𓈖𓏏𓏰𓈗𓈘𓈇	79020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=n.t
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓄡𓂧𓊛𓈗	122000	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫdi̯
+7	𓇓𓏲	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdWKrjXNYBU1huGwrYlBqMXc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = . . . ist es.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,1]
+1	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdwuDHogmT0jLqcWF7sHvgiY
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = So entsteht Schedeh, das Re seinem Sohn gegeben hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,1]
+1	𓆣𓂋𓏛	854383	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr
+2	𓄞𓂧𓎛𓏲𓏋	158910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šdḥ
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓂞𓈖	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxiSQDrmo00GkgvQOfXHeds
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da weinte Horus.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,1]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+3	𓂋𓂋𓅓𓁿	94180	VERB	verb	VerbForm=Fin	_	_	_	Translit=rmi̯
+
+# sent_id = IBUBd3mzYXZk7ECbsI15RvQjyZQ
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Wasser fiel aus seinem Auge zur Erde (und) keimte.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,2]
+1	𓉔𓄿𓇋𓇋𓏭𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=hꜣi̯
+2	𓈗𓈘𓏤𓈇	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+8	𓂋𓂧𓌗𓆰𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWUW6q1FH0r8mkdU2Y8Wfmw
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Geb fühlte sich schlecht deswegen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,2] - [x+7,3]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+3	𓃀𓇋𓈖𓅪	54600	VERB	verb	VerbForm=Fin	_	_	_	Translit=bjn
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdyq3KvldqEGztUWNSgiubLI
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Blut fiel aus seiner Nase zur Erde (und) keimte.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,3]
+1	𓉔𓄿𓏭𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+2	𓊃𓈖𓆑𓏭𓂐	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂉𓏤𓄹	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+8	𓂋𓂧𓌗𓆰𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5BfFwzxgkSOjPVQ8QpDWvI
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da weinten Schu (und) Tefnut gar sehr.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,4]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓆄𓏲𓅆	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+3	𓏏𓆑𓏌𓏏𓁐	171880	PROPN	entity-name	_	_	_	_	Translit=Tfn.t
+4	𓂋𓂋𓅓𓁿	94180	VERB	verb	VerbForm=Fin	_	_	_	Translit=rmi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓉻	855762	ADV	adverb	_	_	_	_	Translit=ꜥꜣ.t
+7	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+
+# sent_id = IBUBd8qW7xiIUkQHqlmhGl4pwVA
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Wasser fiel aus ihrem Auge zur Erde (und) keimte.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,4]
+1	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=hꜣi̯
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.t
+5	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+8	𓂋𓂧𓌗𓆰𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQreAX81RU4TjkmN02FBWCU
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da beweinte Re ihn erneut.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,5]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓂋𓂋𓅓𓁿	94180	VERB	verb	VerbForm=Fin	_	_	_	Translit=rmi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓𓄙𓅓𓏛	64700	ADV	adverb	_	_	_	_	Translit=m-wḥm
+
+# sent_id = IBUBd0u9L1Oyl0A0l139gC0vT3M
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Wasser fiel aus seinem Auge zur Erde (und) wurde zu einer Biene.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,5]
+1	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+8	𓆣𓂋𓏛	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂝𓆑𓏭𓅭	37330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfj
+
+# sent_id = IBUBdWrARQILO0UvoLOKQJX3hJg
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da ermattete Re.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7,7]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓃀𓂧𓈙𓀉𓅪	58470	VERB	verb	VerbForm=Fin	_	_	_	Translit=bdš
+
+# sent_id = IBUBdz6u6AzqdEwqptvwElFQbjo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Er (Re) spie aus (und) erbrach sich.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,1]
+1	𓈎𓂝𓉻𓏛𓂐𓈗	159200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qꜣꜥ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓈙𓂐𓈗	57600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bši̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6R5jH9WG00tmsX6eWgiUEc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = So entstand der Asphalt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,1]
+1	𓆣𓂋𓏛	854383	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr
+2	𓌻𓂋𓎛𓈒𓏥	72800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mrḥ
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdQGOtZIhmEz7hNXmDze8xiI
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da erbrach sich Re erneut.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,2]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓄙𓅓𓏛	48440	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥm
+4	𓃀𓂧𓈙𓀉𓂐𓈗𓆑	57600	VERB	verb	VerbForm=Fin	_	_	_	Translit=bši̯
+
+# sent_id = IBUBd3KMWWvNGUxBtzc3XmqJi7A
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Wasser kam aus seinem Munde heraus zur Erde (und) keimte.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,2]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓏤𓅆	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+8	𓂋𓂧𓌗𓆰𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2OdgattUEoirv86rFvI7qc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = So entstand die Papyruspflanze.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,2] - [x+8,3]
+1	𓆣𓂋𓏛	854383	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr
+2	𓍿𓏲𓆑𓏭𓇇𓆰𓏫	174970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ṯwfj
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdzFfuaIezkbVhmWN72dSdbs
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Da ermatteten Isis (und) Nephthys gar sehr.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,3]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓉠𓏏𓆇𓅆	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+4	𓃀𓂧𓈙𓀉	58470	VERB	verb	VerbForm=Fin	_	_	_	Translit=bdš
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+7	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBdWvxcWNJVUbrutoaCQAmqxI
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Ihr Schweiß kam heraus zur Erde (und) keimte.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,3]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓆑𓂧𓏏𓈗	64260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fd.t
+3	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+6	𓂋𓂧𓌗𓆰𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzEdbTCKAkqyjZASn2fpN4A
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = So entstand der Tischeps-Baum.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,3] - [x+8,4]
+1	𓆣𓂋	854383	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr
+2	𓍘𓀼𓋴𓆭𓏫	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdzTSUW27Ak6EsRM8DabyAQg
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) sein Schweiß fiel dort nieder.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,4] - [x+8,5]
+1	𓉔𓄿𓇋𓇋𓏭𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=hꜣi̯
+2	𓆑𓂧𓏏𓈗	64260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fd.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBdw7SbmrSD0qWua53Z6emBek
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) sein Schweiß fiel dort nieder.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,5]
+1	𓉔𓄿𓏭𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+2	𓆑𓂧𓏏𓈗	64260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fd.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd09lulrfPkI6qViNglfWUMU
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) sein Schweiß fiel dort nieder.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,6]
+1	𓉔𓄿𓏭𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+2	𓆑𓂧𓏏𓈗	64260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fd.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBdyfaCe3IY0AAunLJWTtxL6A
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Schu (und) Tefnut gaben sie zu dem Gottesleib.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,7]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓆄𓏲𓅆	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+3	𓏏𓆑𓏌𓏏𓁐	171880	PROPN	entity-name	_	_	_	_	Translit=Tfn.t
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓋴𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓏤𓊹𓎛𓂝𓏤𓄹𓅆𓏫	102030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w-nṯr
+
+# sent_id = IBUBd6lo1IUtEkZsoJoH0l8mpPk
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Er öffnete seinen Mund an diesem Tag.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+8,8]
+1	𓄋𓊪𓏴𓀜	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓏤𓅆	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+7	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd6k0a15jLUtKmcJoXKSj7Hg
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Er ist es,) der das Unrecht beseitigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+9,4]
+1	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓇋𓀁𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓆑𓂧𓈎𓄿𓀜	64320	VERB	verb	VerbForm=Fin	_	_	_	Translit=fdq
+4	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+5	𓎼𓂋𓍅𓅪	168040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grg
+
+# sent_id = IBUBd0j6Mmlg3kRFqeC7aCcI0LU
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Sei (aber) nicht leichtfertig dabei (und) halte unbedingt Abstand!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+10,5]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓃀𓎼𓄿𓇋𓇋𓀉𓅪	53990	VERB	verb	VerbForm=Fin	_	_	_	Translit=bꜣgi̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓁷𓂋𓏲𓈐𓂻𓏲𓏏	108340	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥri̯
+9	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+10	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBdQcyd0Q2XErXonlaiSnTWbo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Was nun den Aru-Baum des Westens betrifft, er erhebt sich für Osiris wegen der Angelegenheit, die zuvor unter ihm geschehen war.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+10,7] - [x+10,8]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓂝𓂋𓃭𓏤𓏲𓏭𓆭𓏫	39430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥr.w
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓋀𓏏𓏏𓈉	26180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.tjt
+6	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓊨𓇳𓅆	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓇋𓀁𓌥𓃀𓏲𓏛	851527	ADP	preposition	_	_	_	_	Translit=r-ḏbꜣ.t
+11	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+12	𓌃𓂧𓏏𓏛𓀁	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+13	𓇋𓀁𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+14	𓆣𓂋𓏛	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+15	𓌨𓂋𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓏏𓄿𓂢𓏏𓏤	852817	ADV	adverb	_	_	_	_	Translit=tꜣ-ḥꜣ.t
+
+# sent_id = IBUBd19B0YxDD01dqz73EohB13M
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Leben (und) Tod können sich an ihm (dem Tag) zeigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+10,9] - [x+10,10]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+3	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6Kuka7Ukk8AiUObFkfoC4c
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Denn) man fertigt das Buch der 'Abschlußzeremonie' an ihm an.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+10,10]
+1	𓁹𓂋𓏏	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂧𓌳𓄿𓅓𓎅	184040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḏmꜥ
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓄖𓏲𓏭𓂓𓏤𓏏𓏯𓍼𓏤	854773	PROPN	entity-name	_	_	_	_	Translit=Pḥ.wj-kꜣ.t
+6	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyanM3fpOkX9lORkZA1xdvA
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Es ist) eine geheime Schrift (zum) Abwenden von Zaubersprüchen, (zum) Binden von Beschwörungen (und zum) Bannen von Beschwörungen, (sowie zur) Einschüchterung des ganzen Erdkreises.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+10,10] - [x+11,1]
+1	𓏛𓏏𓏤𓍼𓏤	78470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏꜣ.t
+2	𓈙𓇾𓏴𓏛𓏫	400452	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=štꜣ
+3	𓋴𓊪𓈖𓂝𓊜𓏛𓀜	132800	VERB	verb	VerbForm=Fin	_	_	_	Translit=spnꜥ
+4	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+5	𓋭𓊃𓀜	176800	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯꜣz
+6	𓋭𓏏𓏤𓏥	176860	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯꜣz
+7	𓋴𓏠𓈖𓍖𓂡	851677	VERB	verb	VerbForm=Fin	_	_	_	Translit=smn
+8	𓋭𓏏𓏥	176860	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯꜣz
+9	𓂋𓂧𓎛𓏲𓏴𓀜	96540	VERB	verb	VerbForm=Fin	_	_	_	Translit=rtḥ
+10	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+11	𓍶	155200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šn
+12	𓇥𓂋𓏛	92500	ADP	preposition	_	_	_	_	Translit=r-ḏr
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQfbAmWmVEbarpeZdR09mNs
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Leben ist in ihr, (aber auch) Tod ist in ihr.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,1]
+1	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdWsQWKWAV0bLkxEtrVXQo8c
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Du darfst sie (also) nicht verraten!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,1]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓉐𓂋𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd6KnuJEqrUVvjbv0m6qXAoM
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Du hältst dich (besser) ganz und gar fern von ihr!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓂋𓈐𓂻𓏲𓏏	108340	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥri̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+7	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBd6Q3opNa50Pmi3wgkOaZXLg
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Denn) Leben ist in ihr, (aber auch) Tod ist in ihr.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,2] - [x+11,3]
+1	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+4	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd6NZKLoREEcZp1j1xNQVHF0
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Was den 'Stab vom See' anbetrifft, das ist Horus, 'der seine Feinde niederwirft'.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓌃𓏤𓆱𓈖𓈙𓈇𓏤𓈗	858539	_	epitheton-title	_	_	_	_	Translit=mdw-n-š
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓋴𓐍𓂋𓀒𓂡𓐍𓆑𓏏𓏱𓏥𓆑	858540	_	epitheton-title	_	_	_	_	Translit=sḫr-ḫft.jw⸗f
+
+# sent_id = IBUBd5Q6AyvD7kGPkKpEBCVD2Es
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Er wurde aus dem östlichen Behdet geholt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,4]
+1	𓏎𓈖𓏲𓏏	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄑𓂧𓏏𓏭𓊖𓋁𓃀𓏏𓏏𓈉	852411	PROPN	entity-name	_	_	_	_	Translit=Bḥd.t-jꜣb.tjt
+
+# sent_id = IBUBd43xY6fuh0yUqYwQHkMHMlA
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der 'Stab vom See' aber, das ist eine Tamariske.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,4]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓌃𓏤𓆱𓈖𓈙𓈇𓏤𓈗	858539	_	epitheton-title	_	_	_	_	Translit=mdw-n-š
+4	𓇋𓋴𓂋𓆭	31610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jzr
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd1Ef9IocdEp7t2tReXLExNw
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Er hat sieben Einkerbungen(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈖	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏛	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓂝𓂋𓏤𓌳𓄿𓏲𓏭	39530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥrm
+
+# sent_id = IBUBdQPhXagLjEGRpH7i9YgA240
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) er mißt ("macht") drei Ellen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓎔𓂝	73330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ
+5	𓏥	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdxGcVirSI07grwiQOxXQ4iU
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Es war aus Re hervorgegangen, um seine Feinde damit zu fällen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,5]
+1	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴𓐍𓂋𓀜𓂡	142780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫr
+7	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sbj
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0nGy1VZEUVdhyv0WGu4QNc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Und was das Messer anbetrifft, (so) ist seine Länge vier Handbreiten.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,5]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓂧𓊃𓌪𓊌	180620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ds
+4	𓀠	159010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qꜣw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇹	157200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šzp
+7	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd4C3EKk7501Js5xq4Oqp9OI
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Betreffs des Lebenshauses:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓉐𓉐𓋹𓉐𓉐	550421	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥnḫ
+
+# sent_id = IBUBdw023WQQwE08jBJQ4MZuUsg
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der innere Gebäudeteil ist aus einer Schilfmattenverkleidung.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓏌𓈖𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈖𓃀𓇋𓌟𓆭𓏫	82640	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nbj.t
+8	𓎛𓃀𓋴𓍱𓀜	103750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs
+
+# sent_id = IBUBd4SX2wxEsURSre5WQ5DBdQQ
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Betreffs der vier Gebäude und des Lebenszeichens:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏏𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓉐	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+5	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+6	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+7	𓋹	500274	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBd79MMR3rQ0Izgt1XNHQ8T8M
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der 'Lebendige' nun, das ist Osiris.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓋹𓏤𓇋𓇋𓅆	38900	_	epitheton-title	_	_	_	_	Translit=Ꜥnḫ.y
+4	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd3P3w868fEnQjkYBAQy5jUM
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Isis ist zur einen Seite (des Gebäudekomplexes).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓌡𓂝𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+5	𓂋𓇋𓄿𓂢𓏏𓏤	93230	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rj.t
+
+# sent_id = IBUBd3diQGbKJUByjB4sRK3idk0
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Nephthys zur anderen (gegenüber).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,7] - [x+11,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓉠𓏏𓆇𓅆	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓎡𓏏	163760	ADJ	adjective	_	_	_	_	Translit=ky
+
+# sent_id = IBUBd2nznhcNlEt3jZf3Whf5Zt0
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Horus (wiederum) ist zur einen (Seite darüber).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓌡𓂝𓏤𓏏	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdz3IiMLtx0RxsLPxIbAGX5k
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Geb ist sein Fußboden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,8]
+1	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓅭𓇾𓏏𓈇𓏤𓏥	127650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣṯ.w
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4mkpUmpVEdKnmKWidUCdYk
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der 'große Gott' (Osiris) ist es (aber), der verborgen in seinem Innern ruht.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,9]
+1	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓇋𓏠𓈖𓀅	26030	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jmn
+4	𓊵𓏏𓊪	111230	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥtp
+5	𓅓𓏌𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwQDeaQwFkXNssYLpeamQd4
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Die vier äußeren Gebäudeteile sind aus Stein.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,9]
+1	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+2	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓃀𓏲𓂋𓏤𓈐𓂻	55920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnr.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇋𓈖𓂋𓊌	27560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnr
+
+# sent_id = IBUBd5S7GlDgV0EduzWWlANF8ac
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) er (der Stein) geht ("ist") ganz herum ("zu beiden Seiten").
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇋𓂧𓂋𓏏𓏭𓉐𓉐	33320	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jtr.tj
+
+# sent_id = IBUBd18Igg70RU6AnfSpn1BSICY
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Sein Untergrund ist aus Sand.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓌨𓂋𓏛	124420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖr.w
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈙𓂝𓇋𓇋𓈒𓏥	152280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜥy
+
+# sent_id = IBUBd0wBQXmKwUXCtu47oVc8Wh8
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) jede einzelne der vier Außenseiten hat einen Eingang.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓃀𓏲𓂋𓏤𓈐𓂻	55920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnr.w
+5	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+6	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓂋𓏤𓏫	92560	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rʾ
+
+# sent_id = IBUBdx1DuypWBUJMm1zYeZyqeZ0
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Einen (im) Süden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓌡𓂝𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+3	𓇔𓏤𓏫	96011	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rs.j
+
+# sent_id = IBUBdWtQlQLiREJDoujB5Z0JukA
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Einen (im) Westen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+11,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡𓏭	163760	ADJ	adjective	_	_	_	_	Translit=ky
+3	𓋀𓏏𓏏𓏫	26180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.tjt
+
+# sent_id = IBUBd5NmqASEMEMQrMPDXDNpjXw
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Es ist wirklich ganz und gar verborgen, unbekannt (und) unsichtbar!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+12,1]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏠𓈖𓀅	26030	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jmn
+4	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+5	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+6	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+7	𓂜𓈖𓂋𓐍𓏛	_	_	_	_	_	_	_	_
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂜𓈖𓌳𓂂𓂂	_	_	_	_	_	_	_	_
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzWGWUoy3ElYvHdEZoQW3O4
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Sondern (nur) die Sonne sieht in sein Geheimnis (hinein).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+12,1]
+1	𓄋𓊪𓏴	45680	ADP	preposition	_	_	_	_	Translit=wpw
+2	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓇋𓂧𓈖𓏌𓏲𓇳𓅆	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊃𓈙𓇾𓏴𓏛𓅆	145700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sštꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwCZ8EhnwE93thcr6rWYn68
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Die Menschen (das Personal), die in es eintreten (dürfen), das ist die Schreiberschaft des Re (und) das sind die Schreiber des Lebenshauses.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+12,1] - [x+12,2]
+1	𓈖𓄿𓏫	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+2	𓂋𓎀𓀀𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓂝𓈎𓏲𓂻	41180	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥq
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏛𓏏𓏤𓇋𓇋𓀀𓏥	854579	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯ.t
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+11	𓏞𓀀𓏥𓉐𓋹𓉐	858546	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zẖꜣ.w-pr-ꜥnḫ
+12	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd3QRjP71fkdUgtvBPKWeOP8
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Er ist es, der ihn alltäglich verklären soll, ungesehen (und) ungehört (von anderen).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+12,4]
+1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓋴𓅜𓐍𓏛𓀁	127110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣḫ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌨𓂋𓏏𓇳𓏤	400048	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖr.t-hrw
+6	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+8	𓂜𓈖	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+9	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+10	𓂜	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+11	𓄔	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+
+# sent_id = IBUBd6IvVFe5nkj5gUpbfb2QnEo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Kein Asiat darf es (aber) betreten, (und) er darf es (auch) nicht (einmal) sehen!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+12,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂝𓈎𓏲𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓌙𓅓𓀀𓏥	35400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣm
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd9XQYVw0z0rPlKYYaSCUeR8
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Die Bücher aber, welche in ihm sind, das sind die 'Emanationen des Re', um diesen Gott (Osiris) durch sie (wieder) zu beleben (und) um seine Feinde niederzuwerfen!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+12,5] - [x+12,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏛𓏏𓏤𓍼𓏥	78470	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mḏꜣ.t
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅡𓏤𓅆𓏫𓇳𓅆	858542	_	epitheton-title	_	_	_	_	Translit=bꜣ.w-Rꜥw
+7	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂋𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+10	𓋹𓈖𓐍𓏛	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+11	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+12	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+13	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓋴𓐍𓂋𓀜𓂡	142780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫr
+17	𓐍𓆑𓏏𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4YpNFoD3U0Jk5nfJle339k
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Die Schreiberschaft des Lebenshauses ist es jedoch, die in seinem Innern ist, sie sind das Gefolge des Re zum Schutze seines Sohnes Osiris an jedem Tag.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+12,6] - [x+12,7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏛𓏏𓏤𓇋𓇋𓀀𓏥	854579	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ṯ.t
+3	𓉐𓋹𓉐	550421	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥnḫ
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓏌𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓌞𓋴𓅆𓏫	155040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+9	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+10	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓎃𓏤𓏫	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+14	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+17	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBd4B5IXTMjkCQvqNKNwWkqec
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Schu erzeugt einen Lufthauch zur Nase seines Sohnes Osiris (und) um die Feinde zurückzutreiben.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+13,2]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓆄𓏲𓅆	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+3	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓊡𓏥	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂉𓏤𓄹	63920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=fnḏ
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓇋𓆛𓈖𓂧𓂻	27980	VERB	verb	VerbForm=Fin	_	_	_	Translit=jntj
+13	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sbj
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8iNwMYU4kZsj5tWbi1IIRY
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "(Ihr) Feinde (aber), euch wird 'der als (brennender) Windhauch kommt' (Schu) vertreiben!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+13,4]
+1	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbj
+2	𓇋𓆛𓈖𓏏𓏭𓂽	27980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jntj
+3	𓏏𓈖𓏥	175650	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
+4	𓈖𓏏𓏏𓇍𓇋𓂻𓅓𓊡𓏫	858559	_	epitheton-title	_	_	_	_	Translit=jw-m-ṯꜣw
+
+# sent_id = IBUBd0GXfSzGSUHXms8IUtloZPE
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "Wendet (also) euer Gesicht ab!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+13,4] - [x+13,5]
+1	𓆱𓐍𓏏𓂽	854832	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫti̯
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓁷𓏤𓏯	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+4	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd0gqCt8P30I9sa7fls4yUXc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "Ihr seid nichtig für immer!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+13,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓏏𓈖𓏥	175650	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+
+# sent_id = IBUBd1Ymfi61x00AtXIQmFk6Cpc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Geb ist verborgen in seiner Gestalt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+13,9] - [x+14,1]
+1	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+2	𓇋𓏠𓈖𓀅𓏲𓏏	26030	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jmn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇋𓁹𓂋𓏲𓀾𓅆	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdz7Y3sEInUL4ssUaoUc8sZc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Isis ist das Amulett, das für seinen Schutz sorgt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,1]
+1	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎃𓏤𓏛𓏥	125610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+4	𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓎃𓏤𓏛	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8vCc6S0ikZzttKHwLGEzGc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Nephthys beschützt ihn als 'Beschützerin'.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,1]
+1	𓉠𓏏𓆇𓅆	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+2	𓅓𓂝𓎡𓏭𓏛	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅓𓂝𓎡𓏭𓏛𓁐	858560	_	epitheton-title	_	_	_	_	Translit=mk.t
+
+# sent_id = IBUBdWHJpx0V6klGhDgMbPOAhxo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Ozean (und) Mittelmeer bleiben ruhig während seiner Schiffsreise.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,1]
+1	𓍶𓅨𓂋𓈗𓈘𓏤𓈇	853278	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šn-wr
+2	𓇆𓅨𓂋𓈗𓈘𓏤𓈇	43820	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣḏ-wr
+3	𓏠𓈖𓍖	69590	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓐪𓂧𓏌𓏛𓂻𓏏𓏲	146360	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqdi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8SgUw4Qc0hAlloc4l46MJU
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Seine Feinde, im Tode (oder) am Leben, sind zunichte.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓐍𓆑𓏏𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂜𓏏𓏭𓅪	23140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jw.tj
+
+# sent_id = IBUBd7qjGsaLpUdPjGPoOlIRwww
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Eure Bas sind nicht (mehr).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅡𓏤𓏱𓏥	52840	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=bꜣ
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd5fCxiuh40LfrVMQR1XNMws
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Eure Namen sind nicht (mehr).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓈖𓏱𓏥	94700	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=rn
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdzVKQmdzwExllAQTwb4pgGQ
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Eure Schatten sind nicht (mehr).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓋼𓏏𓏤𓏱𓏥	152880	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šw.t
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdWbWbjDiyESvr4mTQNsfWYo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Ihr werdet (überhaupt) nicht (mehr) in diesem Lande sein!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdyKPIxr2z0WMk820FUB0RWo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Ihr) Rebellen dort, die gegen den König in seinem Palast rebellieren wollen, zurück mit euch, Rebellen!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,2] - [x+14,3]
+1	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbj
+2	𓇋𓊪𓈖	24430	PRON	pronoun	PronType=Dem	_	_	_	Translit=jpn
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sbj
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓉥𓂝𓏏𓉐𓅆	39890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥḥ.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+12	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+13	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbj
+
+# sent_id = IBUBdyVoAMzOKEpAhZyWG6QqKS0
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = 'Begatter der Kuh', der sich gestern (noch) verborgen hielt, (aber) heute (wieder)kam.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,3] - [x+14,4]
+1	𓃀𓈖𓏌𓏲𓅭𓅆𓅓𓎡𓏏𓏰𓃒	858564	_	epitheton-title	_	_	_	_	Translit=bnbn-jd.t
+2	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓏭	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓋴𓈙𓇾𓂻	145680	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sštꜣ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓆑𓇳𓏤	133440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sf
+7	𓇍𓇋𓂻	21930	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓅯𓄿𓇳𓏤	58940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pꜣ-hrw
+
+# sent_id = IBUBd9DpkWnutUXptFCAcd6L92I
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = 'Blut des Udjatauges'!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,4]
+1	𓊃𓈖𓆑𓏭𓂐𓈖𓏲𓍑𓄿𓂀𓅆	858565	PROPN	entity-name	_	_	_	_	Translit=Znf-n-wḏꜣ.t
+
+# sent_id = IBUBd9412WXiQUZBjgpNviQ9xrk
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = 'Herz der Meerkatze'!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,4]
+1	𓄣𓈖𓎼𓄿𓆑𓏭𓄛𓅆	858566	PROPN	entity-name	_	_	_	_	Translit=Jb-n-gjf
+
+# sent_id = IBUBd0QKF48meEZer60BSjNBVvk
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = 'Ba der Bas'!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,5]
+1	𓃝𓏤𓃝𓏪	858570	_	epitheton-title	_	_	_	_	Translit=bꜣ-bꜣ.w
+
+# sent_id = IBUBd1KBYyfs9kRHitSc2S3nMlU
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = 'Angesehenster der Angesehenen'!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,5]
+1	𓄅𓏏𓄅𓏥	858571	_	epitheton-title	_	_	_	_	Translit=šf-šf.w
+
+# sent_id = IBUBd6hRmAt76kNqnWNrNUXdF0o
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der 'Verborgene' selbst ist er, überaus heilig (und) verborgen trotz seiner Größe.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,5] - [x+14,6]
+1	𓇋𓏠𓈖𓀅𓅆	26040	_	epitheton-title	_	_	_	_	Translit=jmn
+2	𓊪𓇋𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
+3	𓅓𓎛𓂝𓏤𓄹𓅆	851872	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=m-ḥꜥ.w
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂦𓂋𓏛	854592	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏsr
+6	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+7	𓇋𓏠𓈖𓀅	26030	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jmn
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓅨𓂋	47290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wr
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0OKT1SA6UWCpNsakriQK60
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = 'Lebendiger', du lebst von deinem Leben!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+14,6]
+1	𓋹𓏤𓇋𓇋𓅆	38900	_	epitheton-title	_	_	_	_	Translit=Ꜥnḫ.y
+2	𓋹𓈖𓐍𓏭𓏛	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋹𓈖𓐍𓏭𓏛	38540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥnḫ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6F9Gr6onEU7g6pSYeP10bM
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Sie rezitieren aus dem (Buch) 'Vertreibung (der Feinde) und andere Sprüche', dem (Buch) 'Das keinen Anfang hat', dem (Buch der "Seite"/Dinge) 'des Todes', (und) dem (Buch der "Seite"/Dinge) 'des Lebens', das (Buch) 'Dessen, der groß ist beim Erzitternlassen der Feinde (Sokar-Osiris)'.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+15,3] - [x+15,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓄞𓂧𓀁	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓋴𓁷𓂋𓇋𓏲𓁄𓈟𓂋𓏤𓏫𓍼𓏤	858582	PROPN	entity-name	_	_	_	_	Translit=Sḥr-ḥmw.t-rʾ
+7	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+8	𓂜𓏏𓏭𓅪𓁶𓏤𓆑𓍼	858583	PROPN	entity-name	_	_	_	_	Translit=Jw.tj-tp⸗f
+9	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+10	𓐝𓏤𓅓𓏏𓏱𓍼𓏤	858584	PROPN	entity-name	_	_	_	_	Translit=Gs-mwt
+11	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+12	𓐝𓏤𓋹𓈖𓐍𓏛𓍼𓏤	858585	PROPN	entity-name	_	_	_	_	Translit=Gs-ꜥnḫ
+13	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+14	𓉻𓂝𓏛𓊃𓏏𓏏𓅞𓅪𓍼𓏤	858586	PROPN	entity-name	_	_	_	_	Translit=Ꜥꜣ-sdꜣdꜣ
+
+# sent_id = IBUBdx1BBG4OOUfAn5en9Ys4Dh4
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der eine (Pavian) rezitiert aus der (Schrift) 'Verengen der Kehle' durch 'den, dessen Name verborgen ist' (Amun).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+16,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓌡𓂝𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+3	𓄞𓂧𓀁	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓎼𓄿𓐎𓄈𓏏𓄹𓍼	858600	PROPN	entity-name	_	_	_	_	Translit=Gꜣ-ḥty.t
+7	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+8	𓇋𓏠𓈖𓀅𓂋𓈖𓆑𓅆	26270	_	epitheton-title	_	_	_	_	Translit=jmn-rn⸗f
+
+# sent_id = IBUBd0NTWRjO4UoHmkyt2naQlrE
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der zweite ("andere") (Pavian) rezitiert aus der (Schrift) 'Verengen der Kehle' durch Re.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+16,5] - [x+16,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡𓇋𓇋𓏛	163760	ADJ	adjective	_	_	_	_	Translit=ky
+3	𓄞𓂧𓀁	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓎼𓄿𓐎𓄈𓏏𓄹𓍼	858600	PROPN	entity-name	_	_	_	_	Translit=Gꜣ-ḥty.t
+7	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+8	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd2lGl0uwvU1smWGVnmeoMlc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der dritte ("andere") (Pavian) rezitiert aus der (Schrift) 'Verengen der Kehle' durch Ptah.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+16,6] - [x+16,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡𓇋𓇋𓏛	163760	ADJ	adjective	_	_	_	_	Translit=ky
+3	𓄞𓂧𓀁	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓎼𓄿𓐎𓄈𓏏𓄹𓍼	858600	PROPN	entity-name	_	_	_	_	Translit=Gꜣ-ḥty.t
+7	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+8	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+
+# sent_id = IBUBdwlcitZtkkRMuvQagEOybrE
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der vierte ("andere") (Pavian) rezitiert aus der (Schrift) 'Verengen der Kehle' durch Osiris.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+16,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡𓇋𓇋	163760	ADJ	adjective	_	_	_	_	Translit=ky
+3	𓄞𓂧𓀁	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓎼𓄿𓐎𓄈𓏏𓄹𓍼	858600	PROPN	entity-name	_	_	_	_	Translit=Gꜣ-ḥty.t
+7	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+8	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBdwJiFIifDkKLlrjfJRvTFrc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "Geöffnet sind mir die Türflügel des Himmels!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,1]
+1	𓃹𓈖𓉿𓂡	46060	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=wn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓉿𓉿	34810	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=ꜥꜣ
+5	𓊪𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd3eYXWX04kakmh5nPrTIjig
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "Geöffnet sind mir die Türflügel der Erde!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,1]
+1	𓃹𓈖𓉿𓂡	46060	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=wn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓉿𓉿	34810	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=ꜥꜣ
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdQ7uWHF8zkrXr423QWQoN7E
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "(Denn) ich will in deinem Innern herumgehen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,1]
+1	𓋴𓐪𓂧𓏌𓏲𓂻	146360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sqdi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓𓏌𓈖𓉐𓅆	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7zdKZUrLUtll3wfPYA43rw
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "Ich verstecke mich, (wenn) du dich versteckst!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,2] - [x+19,3]
+1	𓇉𓄿𓊪𓍱𓀜	101300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣp
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇉𓄿𓊪𓍱𓀜	101300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣp
+5	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBd3XFWW0qrE9Fv3nDsYluFVU
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "Ich verberge mich, (wenn) du dich verbirgst!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,3]
+1	𓇋𓏠𓈖𓀅	26030	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmn
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇋𓏠𓈖𓀅	26030	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmn
+5	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBdzOIMRcZkUQvuskFqiUUwQw
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "(Denn) ein Verborgener ist der Wissende!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,3]
+1	𓇋𓏠𓈖𓀅𓏭𓏛	500080	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jmn
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂋𓐍𓏛𓋴	95780	ADJ	adjective	_	_	_	_	Translit=rḫ-sw
+
+# sent_id = IBUBdWsrbslY5UaWodJEclGiQTo
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = "(Und) ich bin der, der sich verborgen hält mit dem Wissen über dich!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,3]
+1	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓇋𓏠𓈖𓀅𓀀	26030	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jmn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓐍𓏛	95620	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḫ
+5	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBd8DPnbbsEESWgEk6m5bhe80
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Der Himmel ist beständig unter seinem Geheimnis.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,4] - [x+19,5]
+1	𓏠𓈖𓍖	69590	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+2	𓊪𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+3	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+4	𓊃𓈙𓏏𓍔𓄿𓏴𓏛𓏫	145700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sštꜣ
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd3WBNUsK4UeqsRGR66rgyII
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Es war in Gegenwart von Re verborgen worden, (nämlich) das, was um seinen (Onuris) Hals ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,7]
+1	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+2	𓇋𓏠𓈖𓀅𓏲𓏏	26030	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=jmn
+3	𓅓𓉔𓄿𓏲𓈐𓇳	65060	ADP	preposition	_	_	_	_	Translit=m-hꜣ.w
+4	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓐍𓐍𓄈𓄹	120510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫḫ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3dQES31nEmCvxXKq08SJs4
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) er belebte ihn augenblicklich (wieder) durch den Atem seines Mundes anstelle seines Sohnes Osiris.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+19,10]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓋹𓈖𓐍𓏛	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆎𓅓𓏛𓈖𓄿𓏏𓇳𓏤	858702	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=km-n-ꜣ.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊡𓏥	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓂋𓏤𓅆	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓂋𓌥𓃀𓏲𓏛	851527	ADP	preposition	_	_	_	_	Translit=r-ḏbꜣ.t
+14	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd4wQWvjKjUvpu9grlgwkWP0
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Weihrauch: 2 1/2 Hin (ca. 1 1/4 Liter).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+21,4]
+1	𓌣𓊹𓍿𓂋𓈒𓈓	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓉔𓈖𓏋	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+3	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓐞	863636	SYM	numeral	_	_	_	_	Translit=gs
+
+# sent_id = IBUBd76KyNZDZ0xQvgGL4VXnO00
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Laß (aber) nicht zu, (daß) er sich (in seine Bestandteile) auflöst!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+21,8]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏲𓆓𓂝𓐣	52360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0pFsW9moEturx8NmqNOjEE
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Das erste geheime ("unbekannte") Werk.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+21,9]
+1	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+2	𓂓𓏏𓀋	163020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣ.t
+3	𓂜𓈖𓂋𓐍𓏛	858673	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n-rḫ
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓁶𓏏	171460	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=tp.j
+
+# sent_id = IBUBdwUF2Y4EtUSjsQn9J1v90h8
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Du verarbeitest es, (sobald) es sich aufgelöst hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+22,2] - [x+22,3]
+1	𓇋𓀁𓁹𓏏	851809	VERB	verb	_	_	_	_	Translit=jri̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅱𓆓𓂝𓐣𓏛	52360	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wḏꜥ
+
+# sent_id = IBUBd579SJKN4UevvwfOlYsUZTc
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Von) seinem Rand ("Außen") (her) (ist) es dann gut  einzuwickeln.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+22,3]
+1	𓊪	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈐𓂻	55920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnr.w
+4	𓂝𓈖𓂻	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+5	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+6	𓅱𓏏𓐎𓏠𓂡	50980	VERB	verb	VerbForm=Fin	_	_	_	Translit=wt
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQ7nbiRHbkmLjhViiyLX1jk
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Zu verwenden) nach deinem Belieben!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+22,6]
+1	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓈎𓄿𓇋𓀾	159670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qj
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓄖𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdzYvQHDg2UyvhUYS37kDbcs
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Wickle es (aber) wirklich gut ein!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+22,7]
+1	𓅱𓏏𓐎𓋳𓂡	50980	VERB	verb	VerbForm=Fin	_	_	_	Translit=wt
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+4	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBdxtubzHC5EF0pRsGpvqLMPI
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (So) bist du überaus gut gefeit, (denn) das ist der 'Lebendige' (Osiris)!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+22,7] - [22,8]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓂋𓎅𓂡𓏏𓅱	107560	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥr
+4	𓅓𓍱𓏤	600392	ADV	adverb	_	_	_	_	Translit=m-šs
+5	𓊗𓏤𓏤	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+6	𓋹𓀭	38900	_	epitheton-title	_	_	_	_	Translit=Ꜥnḫ.y
+7	𓅯	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+
+# sent_id = IBUBdzkMkZ2osEwcmbCjIM7iXCI
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Du bist gefeit gegen den plötzlichen ("eilenden") Tod.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [22,8] - [x+22,9]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓂋𓎅𓂡𓏏𓅱	107560	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥr
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓅓𓂋𓀐	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+6	𓋴𓇋𓆛𓈖𓏌𓅱𓂻	128370	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sjn
+
+# sent_id = IBUBdydSgqzeS0FEifJlX36hzIg
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) du bist gefeit gegen den Himmel.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+22,10] - [x+22,11]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓂋𓎅𓂡𓏏𓅱	107560	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥr
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd0jwoVsp7kTlo0MRWyOx5VM
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = (Und) die Erde kann sich nicht verkehren.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+22,11]
+1	𓅓𓏏𓅱	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓇾𓏤𓏰	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓊪𓈖𓂝𓊜	59960	VERB	verb	VerbForm=Fin	_	_	_	Translit=pnꜥ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWwc92ouwkNmtBfvTWQO4ew
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Es ist Re (und) es ist der Osiris!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+23,2]
+1	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd0Y3BhgAN0jYu9WX9M8dK64
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Dessen Umhüllung ("Außenseite") ist dann ein Widderfell.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+23,4]
+1	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+2	𓅯𓄿𓇋𓇋𓏲	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈐𓂻	55920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnr.w
+5	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+6	𓄚𓈖𓏏𓄛	123140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖn.t
+7	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓊃𓂋𓇋𓏲𓄛	138880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zr
+
+# sent_id = IBUBdwde9T4TaEU2pDIYBCvsAKM
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Dessen Umhüllung ("Außenseite") wiederum ist Papyrus.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+23,4] - [x+23,5]
+1	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+2	𓅯𓄿𓇋𓇋𓏲	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈐𓂻	55920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnr.w
+5	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+6	𓇋𓂧𓇋𓏲𓇉𓆰𓏫	34240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jdḥ.w
+
+# sent_id = IBUBdwWUahyOW0CkqXjJYdWv788
+# corpus = bbawtempelbib
+# src_text_id = Q4OD2GDHL5HIXHU3MGUZ3PAMVM
+# src_text = bbawtempelbib:pBM 10090+10051 (pSalt 825) ("Rituel pour la conservation de la vie")//Das Buch Pehui-Kat ("Abschlußzeremonie")
+# owner = Frank Feder
+# text_de = Die 'Mutter' (Pflanzensamen?) des Papyrus ist in seinem Innern, der hinter dem Gefäß ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+23,7] - [x+23,8]
+1	𓅐𓏏𓏥	69050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+2	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓇋𓏲𓇇𓆰𓏫	34240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jdḥ.w
+4	𓅓𓏌𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+7	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+8	𓎛𓆰𓈖𓏊	106280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥn.w
+

@@ -1,0 +1,195 @@
+# sent_id = IBUBd3nrS1TJJEOorOWllwtVEtk
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = My praise reached the sky.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [9]
+1	𓎛𓎿𓊃𓏏𓏤	109800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥzw.t
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓊪𓎛𓄖𓂻	61370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd4yzPQKhq0igvoZNmUn6MwA
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Then His Majesty proceeded in peace, after he had crushed his enemies in vile Kush.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [9] - [10]
+1	𓊢𓂝𓈖𓂻	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓍛	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅱𓍑𓄿𓂻	52130	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wḏꜣ
+5	𓅓𓊵𓊪𓏏	_	X	unknown	_	_	_	_	_
+6	𓋴𓐍𓂋𓀒𓈖	142780	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓐍𓏏𓆑𓀐𓏥	116800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫft.j
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓎡𓄿𓈙𓈉	163680	PROPN	entity-name	_	_	_	_	Translit=Kꜣš
+12	𓄡𓊃𓅪𓏏	400267	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ẖz
+
+# sent_id = IBUBd1C5ynJNoknniCbiTA7cEbI
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I fared south in order to bring precious things of gold to the Majesty of the King of Upper and Lower Egypt 𓍹Kheperkare𓍺, may he live eternally.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [11]
+1	𓏃𓈖𓏏𓊝𓎡𓀀	119140	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḫnti̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+4	𓃀𓄑𓎺𓅱𓏩	54440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjꜣ.w
+5	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓋞𓃀𓅱𓏥	81680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbw
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+11	𓇳𓆣𓂓	400021	PROPN	entity-name	_	_	_	_	Translit=Ḫpr-kꜣ-Rꜥw
+12	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+13	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+14	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+15	𓈖𓅱𓎛𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+
+# sent_id = IBUBd4usb1FmiEBVqA27jQejB6M
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I sailed south (again) together with the noble and count, eldest son of the king of his own body, Imeny, LPH.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [12]
+1	𓏃𓈖𓏏𓊝𓈖	119140	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnti̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+4	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+5	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+6	𓇓𓏏𓅭𓀗𓈖𓄡𓏏𓏤𓆑	851286	_	epitheton-title	_	_	_	_	Translit=zꜣ-nswt-n-ẖ.t⸗f-sms.w
+7	𓇋𓏠𓈖𓇋𓇋𓀀	400002	PROPN	entity-name	_	_	_	_	Translit=Jmny
+8	𓋹𓍑𓋴	550118	VERB	verb	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd7qslBF0CU7dqmLOLzSWiiQ
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was praised for it in the palace;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [13]
+1	𓎛𓎿𓊃𓀁𓎡𓅱𓀀	109620	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḥzi̯
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇓𓏏𓈖𓉐𓏤	400419	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-nswt
+
+# sent_id = IBUBd1dq0sP8uEJ6jS2XW6ynZAY
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the king's son thanked me.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [14]
+1	𓇼𓀢	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+2	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀𓏤	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓇓𓏏𓅭𓀀	855950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-nswt
+
+# sent_id = IBUBd0djOF5QXkltpCQ6TyVhZoY
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Then I sailed south to bring precious things from the city of Koptos together with the noble and count, governor of the city and vizier Senwosret, LPH.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [14]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓏃𓈖𓏏𓊝𓎡𓀀	119140	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḫnti̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊄𓃀𓏏𓂻	131460	VERB	verb	VerbForm=Fin	_	_	_	Translit=zbi̯
+6	𓃀𓄑𓎺𓅱𓏩	54440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjꜣ.w
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓂧𓏇𓇋𓈇	179330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dmj
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓎤𓃀𓅂𓈉	166970	PROPN	entity-name	_	_	_	_	Translit=Gbtw
+11	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+12	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+13	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+14	𓅓𓂋𓊖𓏏𓏤	400045	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-nʾ.t
+15	𓅷𓏏𓏤	174090	_	epitheton-title	_	_	_	_	Translit=ṯꜣ.tj
+16	𓄊𓋴𓂋𓏏𓊃𓈖𓀀	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+17	𓋹𓍑𓋴	550118	VERB	verb	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd7EmQ5Rm7U9ZpVKVvJzzt20
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I returned in peace, my army (being) intact, after I had done all that had been said to me.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [15]
+1	𓇍𓂻𓇋𓎡𓅱𓀀	21930	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=jwi̯
+2	𓅓𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+3	𓀎𓏨	76300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mšꜥ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂝𓆓𓎙𓏛	41890	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥḏ
+6	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓆓𓂧𓏏	185810	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḏd
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd5nqNDIg90putOBxCJt2JmE
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I gave to the widow as (much as to) the married woman.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [20]
+1	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆞𓄿𓂋𓏏𓁸𓁐	122600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖꜣr.t
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓎟𓏏	81740	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb.t
+7	𓉔𓇋𓇋𓂸𓀀	97770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hj
+
+# sent_id = IBUBdWgLGyJWyEMgjwdQ7aS4hFo
+# corpus = sawlit
+# src_text_id = NP5U3HYM6FHXTBEEUT7PJMX3JI
+# src_text = sawlit:Grab des Amenemhat (Beni Hasan 2)//Biographie des Amenemhat
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I did not distinguish between the great and the small in all that I gave.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [21]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓍿𓈖𓌙𓅮𓈐	854556	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sṯni̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅨𓂋𓀀	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈙𓂋𓀔𓀀	156650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šrj
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓂝𓏏𓈖	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=rḏi̯
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+10	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+

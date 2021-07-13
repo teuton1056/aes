@@ -1,0 +1,1420 @@
+# sent_id = IBcAh5XKYXHWZkqZjeqsT0U6xaI
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ein anderer Spruch:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.1]
+1	𓎢	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+
+# sent_id = IBcAh2x3s1FTxUo1uXNQD9LypSw
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Oh (Du,) diese Frau!  Dein Schutz wurde eingerichtet von Horus.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.1]
+1	𓉔𓄿𓀁	97240	INTJ	interjection	_	_	_	_	Translit=hꜣ
+2	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+3	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+4	𓌥𓃀𓏲𓏛	854590	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏbꜣ
+5	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+6	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+7	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+8	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBcAh3C90hZbgUMIkCwpM9jwdII
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Dein Schutz wurde (dir) zugeweiht/zugeschlagen von Seth.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.1]
+1	𓋴𓈎𓂋𓇋𓏲𓀜	854551	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sqr
+2	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+5	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+
+# sent_id = IBcAhzGUn3U8BEpZgKKBbhhZLUE
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Mögen sie nicht krank sein!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.4]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓍋𓅓𓂋𓅪	71790	VERB	verb	VerbForm=Fin	_	_	_	Translit=mr
+
+# sent_id = IBcAh7k2380CAEMXpvjYgWl3Wjg
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Mögen sie nicht verstört sein!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.4] - [x+2.5]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓐍𓈖𓈖𓏯𓂡𓏥	123700	VERB	verb	VerbForm=Fin	_	_	_	Translit=ẖnn
+
+# sent_id = IBcAhxYz1XXZIUvtoJMkNcUxNdg
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Mögen sie das, was in ihnen ist, nicht auf den Boden werfen!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.5]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓏲𓂧𓏴𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+4	𓏶𓅓𓏭	25120	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jm.j
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBcAh99EQp23X0ohqqBBNrsS73E
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Möget ihr (pl.) nicht erstarrt darniederliegen (?; oder: besinnungslos sein?)!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.6]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓈖𓈎𓅓𓏏𓅪𓏏	89100	VERB	verb	VerbForm=Fin	_	_	_	Translit=nqm
+
+# sent_id = IBcAhQcPyVwuxE0QuT8fPqhqYhk
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Möget ihr (pl.) das, was in ihnen (d.h. dem Schoß/Oberschenkelbereich?) ist, nicht auf den Boden werfen!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.6]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓏲𓂧𓏴𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+4	𓏶𓅓𓏭	25120	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jm.j
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBcAh8mVH3jhKkEHp8I3krnV1Sk
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Oh (Du,) diese Frau!  Dein Schutz ist der Schutz der Isis, die in (dem Ort) Netjeri ist (einem Gewässer bei Behbeit el-Hagar).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.6] - [x+2.7]
+1	𓉔𓄿𓀁	97240	INTJ	interjection	_	_	_	_	Translit=hꜣ
+2	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+3	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+4	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+5	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+6	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+7	𓊨𓏏𓆇𓁗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+8	𓁷𓄣𓏤	108540	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḥr.j-jb
+9	𓊹𓏏𓂋𓆳𓈗	90480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr.j
+
+# sent_id = IBcAhWDyPKRoREgHt0hQmWzNlIM
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Horus, Osiris, Thoth und Har〈oeris?〉 sind dein Schutz.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.7]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓅝𓏏𓏭𓅆	185290	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj
+4	𓅃𓅆	550351	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-wr
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+7	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBcAhWuT3E7jREgKkYyraPs7jXo
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Mögen sie deinen Schutz geben/bestellen als Vorfälle (oder: mit Heilmitteln) der Isis.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.7]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+4	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+7	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+8	𓊨𓏏𓆇𓁗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+
+# sent_id = IBcAh21nBpsQ90kVsVvnQXUZnS8
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Mögen sie deinen Schutz geben/bestellen mit der Sehne, die im Fersen-/Fußknöchelbereich (?) des Osiris ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.7] - [x+2.8]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+4	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂋𓂧𓌗	93760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rwḏ
+7	𓏶𓅓𓏭	25130	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jm.j
+8	𓋴𓋴𓏏𓂾𓄹	144200	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sst
+9	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBcAhQQfYhgCIU4ZoZAA98WIWs0
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Worte zu sprechen über eine (Pflanze namens) Sehne-des-Phönix.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.8]
+1	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+2	𓌃𓏤𓏫	78150	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mdw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂋𓂧𓌗𓄹𓈖𓃀𓈖𓏌𓏲𓅭𓆰𓏫	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAh83iQqsZak0Il5NEPZdWr70
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (sie) werde der Frau für ihren Anus gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+2.8]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓄖	61490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wj
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAiK4XaMfKqkDTg0B0IqfRHS0
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ein anderes Amulett, das gemacht wird für eine Frau, deren Kinder zur Welt (wörtl.: nach draußen) gekommen sind, ohne dass die von ihr Geborenen (über)lebt haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.9]
+1	𓎢𓇋𓇋𓏭	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓏲𓍑𓄿𓏏𓂂𓏫	52280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ.w
+3	𓁹𓏏	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+6	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=pri̯
+7	𓀔𓀀𓁐𓏥	854539	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ẖrd
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓂋𓂋𓏲𓏏𓏭𓇯𓂻	92110	ADV	adverb	_	_	_	_	Translit=r-rw.t
+10	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+11	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥnḫ
+12	𓄟𓋴𓀀𓁐𓏫	74750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ms
+13	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAiFAYfobzO0zGnpSr0tVxWLU
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = sie erlauben nicht, dass für sie (d.h. Frau NN) ein männlicher Sohn oder eine weibliche Tochter (über)lebt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.11]
+1	𓂜𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓂝𓏏𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+8	𓂺𓀀	174250	ADJ	adjective	_	_	_	_	Translit=ṯꜣ.y
+9	𓅭𓏏𓏏𓁐	125630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zꜣ.t
+10	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+11	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBcAiOjBzBIIsUwQuAq9x99YQWs
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Nun hörten es die Esel.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.11]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+3	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓉻𓂸𓏏𓏯𓄛	21520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜥꜣ.t
+
+# sent_id = IBcAiMaxcFXilkrUkrwfQbvtNqE
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Da sind die Esel gestorben,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.11]
+1	𓅓𓏏𓏱	69300	VERB	verb	VerbForm=Fin	_	_	_	Translit=mwt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓉻𓂸𓏏𓏯𓄛	21520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜥꜣ.t
+
+# sent_id = IBcAiNMR5Q1keERJjN8kEhptnas
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (und) da sind ihre Eselsfohlen dahingeschieden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.11]
+1	𓐍𓊪𓏲𓏱	116050	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓐠𓏤𓎢𓄿𓄛𓏫	146490	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=skꜣ
+5	𓊃𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcAiEBuhOj7PEHSkC43WQEhEgY
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Beraubt (wörtl.: leer) ist also dieses Land von der Majestät/Inkarnation des Seth.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.12]
+1	𓆅𓏲𓅪	152670	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šwi̯
+2	𓇋𓂋𓆑	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+
+# sent_id = IBcAiM8lfJQHWUrihXEDLSeNaXY
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Wie wird es also diesem Land ergehen, wenn die Majestät/Inkarnation des Seth nicht in ihm ist?
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.12]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓇋𓂋𓆑	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓅓𓂝	64430	PRON	pronoun	PronType=Int	_	_	_	Translit=m
+7	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+8	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+11	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAiEQkWVJNakLWglwWQo8k5gs
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Nun hörten es die Schafe.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.12]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓄔𓅓𓏛	150580	PROPN	entity-name	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=Sḏm
+3	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓊃𓂋𓇋𓏲𓄛𓏫	138880	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zr
+
+# sent_id = IBcAiBT6o2HCnECNhh7QODv8g3Q
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Da sind die Schafe gestorben,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.12]
+1	𓅓𓏏𓏱	69300	VERB	verb	VerbForm=Fin	_	_	_	Translit=mwt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓊃𓂋𓇋𓏲𓄛𓏫	138880	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zr
+
+# sent_id = IBcAiPf9bNR7wENSqcb8jPrDQ1Y
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (und) da sind ihre Lämmer dahingeschieden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.12] - [x+3.13]
+1	𓐍𓊪𓏲𓏱	116050	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓄑𓏛𓅡𓏤𓄛𓏫	_	_	_	_	_	_	_	_
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcAiG1w05NFuUPIl5469NaA1WI
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Beraubt (wörtl.: leer) ist also dieses Land von der Majestät/Inkarnation des Ba(-neb-ded?).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.13]
+1	𓆅𓏲𓅪	152670	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šwi̯
+2	𓇋𓂋𓆑	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓅡𓏤𓅆	52850	PROPN	entity-name	_	_	_	_	Translit=Bꜣ
+
+# sent_id = IBcAiAliCjsG9UobvuhCExdb8Gc
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Wie wird es also diesem Land ergehen, wenn die Majestät/Inkarnation des Ba(-neb-ded?) nicht in ihm ist?
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.13]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓇋𓂋𓆑	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓅓𓂝	64430	PRON	pronoun	PronType=Int	_	_	_	Translit=m
+7	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+8	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓅡𓏤𓅆	52850	PROPN	entity-name	_	_	_	_	Translit=Bꜣ
+11	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAiBBTi0UaKk3FpBYwrVXy7W8
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Da sind die Rinder gestorben,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.13]
+1	𓅓𓏏𓏱	69300	VERB	verb	VerbForm=Fin	_	_	_	Translit=mwt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓃒𓏥	30410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḥ
+
+# sent_id = IBcAiESk7Nq8AE14gzbfZqhWCG4
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (und) da sind ihre Kälber dahingeschieden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.13] - [x+3.14]
+1	𓐍𓊪𓏲𓏱	116050	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓄑𓊃𓏏𓏯𓃒𓏫	56890	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=bḥz
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcAiBgWDVvLg0HCmDSUd9PZj3c
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Da sind die Schweine gestorben,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.16]
+1	𓅓𓏏𓏱	69300	VERB	verb	VerbForm=Fin	_	_	_	Translit=mwt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓆷𓄿𓇋𓏲𓄛𓏫	151350	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šꜣj
+
+# sent_id = IBcAiHDqUECLv0MBqcZKZxpQ6vo
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Nun hörten es die Fische.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+3.18]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+3	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓂋𓅓𓆟𓏥	94160	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rm
+
+# sent_id = IBcAiLyW2EMXqU3OrnyPAlQs2ko
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Es) werde das Amulett um ihren Hals gelegt.  (oder: ..., indem das Amulett um ihren Hals gelegt wird.)
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.2]
+1	𓂋𓂝𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏲𓍑𓄿𓏏𓂂𓏫	52280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ.w
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓄈𓄹	120510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫḫ
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAidvDpnbIzEgPjejq4B2JFig
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Du bist erledigt, (du) Toter, der tot ist (wörtl.: in totem/getötetem Zustand)!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.2] - [x+4.3]
+1	𓏏𓍃𓅓𓏛	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+2	𓏲𓏏	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+4	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+5	𓅓𓏏𓏱𓏲𓏏	69300	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mwt
+
+# sent_id = IBcAiY1OHzpfGUH0kgPC3J3ReDw
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Du bist verjagt, (du) Toter!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.3]
+1	𓈞𓅓𓂽	105200	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥmi̯
+2	𓏲𓏏	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+
+# sent_id = IBcAicrSFPvBgUVykAuEN0Rc1ww
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Der Wind hat deine Kleidung aufgerissen/weggezogen, so dass deine Schande/Kastration (?) sichtbar geworden ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.3]
+1	𓎢𓆑𓄿𓏲𓄖	164200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kfi̯
+2	𓊡𓏫	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+3	𓎛𓃀𓋴𓍱𓏥	103750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥbs
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓌴𓂂𓂂	66270	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+6	𓈞𓅓𓏏𓏭𓂺	104750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcAiReU0sVXmUeQsjfCNv6wOUA
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Du wirst die Beerdigung des Osiris nicht beobachten (können);
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌴𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈎𓂋𓇋𓋴𓍱𓀜	161950	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=qrs
+5	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBcAifWmHouOHUy2uvdwhR6JQTw
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = du wirst nicht zur großen Neschemetbarke hinuntersteigen (können)!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈖𓈙𓅓𓊛	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+6	𓅨𓏏𓂋𓅆	47271	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wr
+
+# sent_id = IBcAiTH2juO5D04uoUvFagi5mEc
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = du wirst dich nicht aufrichten (können).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcAiQjt3pepNUQ4rbes3EOh7ls
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Du bist vor dich hin abgeflossen/ausgelaufen/zugrunde gegangen;
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.4]
+1	𓈙𓊪𓂐	153630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šp
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋𓐍𓆑𓏏𓁷𓏤𓏯𓏏	92260	ADP	preposition	_	_	_	_	Translit=r-ḫft-ḥr
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcAiYRDwt9hlkXEqLV2ID7WJgk
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = du wirst nicht (mit bösen Absichten) zu dieser Frau und ihren Kindern hinuntersteigen (können).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+6	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+7	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+8	𓀔𓀀𓁐𓏥	854539	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ẖrd
+9	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAiYOeNqLQBkp3jGtpHDayz1Q
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Du,) der auf die Klageschreie (wörtl.: Stimme des Jammerns/Wehgeschreis) hin gekommen ist,  die Flamme möge/wird gegen dich vorgehen – (du) Feind, Jener (oder: Feindin?), Toter/Wiedergänger, Tote/Wiedergängerin, Gegner, Gegnerin und so weiter – in der geheimen Halle.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.4] - [x+4.5]
+1	𓇍𓇋𓂻	21930	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫrw
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇋𓐛𓅓𓀁	24660	VERB	verb	VerbForm=Fin	_	_	_	Translit=jm
+6	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+7	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓐍𓆑𓏏𓏱	116800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫft.j
+11	𓊪𓆑𓏭𓏱	851258	PRON	pronoun	PronType=Dem	_	_	_	Translit=pfj
+12	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+13	𓅓𓏏𓏏𓏱	69330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mwt.t
+14	𓍑𓄿𓏱	181880	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḏꜣ.yw
+15	𓍑𓄿𓏏𓏱	181820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣ.yt
+16	𓈞𓂋𓏤𓏫	105450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-rʾ
+17	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+18	𓏲𓋴𓐍𓏏𓏯𓎺𓉐	49870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wsḫ.t
+19	𓈙𓇾𓏴𓏛𓏫	400452	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=štꜣ
+
+# sent_id = IBcAiWD9EE0qdEevto1yA5vLNfg
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (So wie) die weibliche Katze dich vertrieben hat, (so) hat der Falke dich zurückgedrängt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.5]
+1	𓂧𓂋𓀜𓈖	180130	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓏇𓇋𓏲𓏏𓄛	854443	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjw.t
+4	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+5	𓈞𓅓𓂽𓈖	105200	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmi̯
+6	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+7	𓃀𓇋𓄿𓎢𓅃𓅆	500418	PROPN	entity-name	_	_	_	_	Translit=Bjk
+
+# sent_id = IBcAiQBJTWdvpUSSkEv2QT3L2eQ
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Du bist abgeflossen/ausgelaufen, (mit dem Ergebnis, dass) du erledigt bist, (du) Toter/Wiedergänger, Tote/Wiedergängerin und so weiter.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.5]
+1	𓈙𓊪𓂐	153630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šp
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓍃𓅓𓏲𓏏	854578	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=tm
+4	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓅓𓏏𓏏𓏱	69330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mwt.t
+6	𓈞𓂋𓏤𓏫	105450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-rʾ
+
+# sent_id = IBcAiaXFqEdBO0rZqrNPhoDNcqI
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Worte zu sprechen über einen Falken, eine Katze und ein Udjatauge (?; oder: (d.h. zwei) Amulette) aus Fayence, aufgezogen auf einer $ꜥꜣ.t$-Leinenschnur aus rotem Stoff.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.5] - [x+4.6]
+1	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+2	𓌃𓏤𓏫	78150	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mdw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓃀𓇋𓄿𓎢𓅃𓅆	500418	PROPN	entity-name	_	_	_	_	Translit=Bjk
+5	𓏇𓇋𓏲𓏏𓄛	854443	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjw.t
+6	𓂀	52140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜣ.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓍘𓎛𓈖𓈒𓏥	176620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥn.t
+9	𓍊𓏛𓀜	71120	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mnḫ
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓉻𓏏𓏯𓍱	34920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+12	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+13	𓇋𓂧𓏇𓇋𓇋𓏏𓍱	34040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jdm.jt
+
+# sent_id = IBcAiY5UyLJc5kxMhTG65N0Q1qo
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Es) werde der Frau an ihrem Hintern/Anus gegeben/gesetzt, so dass er (das Kind?) (planmäßig) gelöst (d.h. entbunden) wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.6]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓄖	61490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wj
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓊠𓂝𓏛𓀜𓏲𓏏	48760	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥꜥ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAiSW4g01O2EiIuJz7W045QJ0
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Es) werde um den Hals ihres Sohnes gelegt am Tag seiner Geburt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.6]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄈𓄹	120510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫḫ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓄟𓋴𓏲𓏏	75070	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=msw.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAicCLWnYHWkXBpXhS73BFrYI
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Das ist ein großer Schutz des (männlichen) Kindes im Geburtshaus.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.6]
+1	𓅓𓂝𓎢𓏏𓏛𓏫	76880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mkw.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓉻𓏏𓏛	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉐𓏤𓄟𓋴𓏯𓉐	60620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr-ms
+
+# sent_id = IBcAiaBTozGJ4UP4jox42F3Yvgc
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Es ist) wirklich millionenfach vorzüglich.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.7]
+1	𓅓𓍱𓏤𓆄𓏏𓏛	853360	ADV	adverb	_	_	_	_	Translit=m-šs-mꜣꜥ
+2	𓄑𓄑	109250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḥ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBcAiVTefv6J7kaWl5gX1u2COM8
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Spruch zum Schutz des Bettes/Schlafgemachs der Gebärenden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.7]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+4	𓂠𓏏𓉐	107240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnk.yt
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+7	𓄟𓋴𓁐	74840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ms.t
+
+# sent_id = IBcAiQ1gXlninEzlv6ik3uQzTj4
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = während Isis bei/an ihrem Schoß (d.h. vor ihr) steht,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊨𓏏𓆇𓁗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈎𓈖𓏌𓏲𓂘	161180	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qnj
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAiWPkc7aORU9jgTlncEl9S8A
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (und) während Nephthys hinter ihr (d.h. hinter ihrem Rücken) steht;
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓉠𓏏𓆇𓁗	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+3	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAiUhK8rul0U8br25uYuK59Tw
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Hathor steht an ihrem Kopf,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.8]
+1	𓉗𓏏𓁷𓂋𓏏𓆇𓁗	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+2	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+3	𓍑𓍑𓏌𓏏𓁶	182330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏꜣḏꜣ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAiccAc8nHXki4po3BR3yuiic
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (und) Renen(ut)et steht an ihren Füßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.8]
+1	𓂋𓈖𓈖𓏏𓆇𓁗	95190	PROPN	entity-name	_	_	_	_	Translit=Rnn.wtt
+2	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+3	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAiTiWju5OuUu0pmBLgOOJYgU
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ipet-weret bereitet ihren Schutz,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.8]
+1	𓇋𓊪𓏏𓅨𓏏𓂋𓁗	852853	PROPN	entity-name	_	_	_	_	Translit=Jp.t-wr.t
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓎃𓏤	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAidclQCG59UIiou6OiN9zFzc
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = wobei ein jeder von ihnen ihren Schutz bereitet.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓌡𓂝𓏤𓎟	600044	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ-nb
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAidRcfwVQSkEBg0X98EyXckc
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = wobei ein jeder von ihnen ihren Schutz bereitet.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+4.11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓌡𓂝𓏤𓎟	600044	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ-nb
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓎃𓏤	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAibL5o81J8UjZoiwftGIgb3M
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ein anderer Spruch zum Schutz des Bettes/Schlafgemachs des Geburtshauses.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5.1]
+1	𓎢	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+5	𓂠𓏏𓉐	107240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnk.yt
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓉐𓏤𓄟𓋴𓏯𓏏𓉐	60620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr-ms
+
+# sent_id = IBcAiVpjeSpVMkIin0xOIyetlQA
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Sei gegrüßt, du frisches/grün-blaues Horusauge, mit zahlreichen Erscheinungsformen/Transformationen,  die ihren (göttlichen) Herrn schützt mit ihrer Flamme, mit/aus ihrem Körper, mit/bei ihrer ersten Erscheinungsform/Transformation von/in Chemmis!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5.3] - [x+5.4]
+1	𓇋𓐩𓏌	854522	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓁹𓈐𓅆	853670	_	epitheton-title	_	_	_	_	Translit=jr.t-Ḥr.w
+5	𓇅𓏯	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+6	𓆈𓏏𓏥	41011	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥšꜣ
+7	𓆣𓂋𓏲𓀾𓏛𓏥	116300	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫpr.w
+8	𓅓𓂝𓎢𓏏𓏛𓏫	77020	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=mki̯
+9	𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+10	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓈖𓃀𓇋𓏏𓊮	82650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nbj.t
+13	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+16	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓆣𓂋𓏲𓀾	116300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫpr.w
+19	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+20	𓁶𓊪	171460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=tp.j
+21	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+22	𓆤𓇇𓊖	211	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-bj.t
+
+# sent_id = IBcAiTwJ7OPtcUBOlG0c3dWuo2c
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Komm du (fem.) doch!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5.4]
+1	𓅓𓂝𓇋𓂻𓏏	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBcAiSQoxL8OSUuxgHN7GW2xD8o
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ihr werdet nicht zulassen, dass sie zum Geburtshaus kommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5.6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂞𓏏	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓉐𓏤𓄟𓋴𓏯𓉐	60620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr-ms
+
+# sent_id = IBcAiSYhMiAALkjhlDAXg7DYtP8
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Worte zu sprechen über einem Amulett (oder: einem Udjat-Auge) aus Fayence, das auf einer $snb$-Pflanzen(faser) aufgezogen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5.6]
+1	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+2	𓌃𓏤𓏫	78150	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mdw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂀	52140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓋣𓈒𓏥	176620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥn.t
+7	𓍊𓏛𓀜	71120	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=mnḫ
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓋴𓈖𓃀𓏏𓆰𓏫	136970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snb
+
+# sent_id = IBcAiSr31txkD0NBpAMdWWLY1eU
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Es) werde um den Hals einer/der Frau des Geburtshauses (oder: im Geburtshaus) gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5.6]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄈𓄹	120510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫḫ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓉐𓏤𓄟𓋴𓏯𓉐	60620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr-ms
+
+# sent_id = IBcAib7C3tIJmU4qmho6UZyDVhM
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Spruch zum Durchführen des Schutzes des Liegeplatzes (oder: der Schlafstätte) der Gebärenden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+5.6] - [x+5.7]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓎃𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+7	𓊨𓏏𓉐𓁀𓂡	_	_	_	_	_	_	_	_
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+10	𓄟𓋴𓁑𓁐	74840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ms.t
+
+# sent_id = IBcAkCUtPBBGjU9IuHjflzEW9Ks
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = [... ... ...;] Fett eines männlichen/wilden (?) Schweines, Blätter der Nilakazie; Milch einer (Frau), die ein männliches (Kind) geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.1]
+1	𓌻𓂋𓎛𓏏𓏊	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+2	𓆷𓄿𓇋𓏲𓄛	151350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣj
+3	𓄑𓏤𓏯	40070	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥḥꜣ.wtj
+4	𓄔	185150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏrḏ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓍶𓇾𓆭𓏫	156510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnḏ.t
+7	𓇋𓂂𓏏𓏊	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓀔	74840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ms.t
+10	𓂺	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+
+# sent_id = IBcAkAOuV68H90qSp7v7PuwsseQ
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = So wie er (der Uterus?) sich umgedreht hat (oder: herumgegangen ist), so leidet sie (die Frau?) Schmerzen an ihrem Bauch/Unterleib.  (oder: Kaum hat er (der Uterus?) sich umgedreht (oder: ist herumgegangen), da leidet sie (die Frau?) Schmerzen an ihrem Bauch/Unterleib.)
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.10]
+1	𓄲𓂋𓂻𓈖	61900	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓏠𓈖𓅪𓈖	69660	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAkMvnPg53VE2opv1qWxz95Ms
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde."
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.10]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓆇𓏲𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcAkLWlhPcGkUWIq92WO3jJ3Ts
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Dann musst du daraufhin für sie zubereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.10]
+1	𓆇𓏲𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAkCWL09tSSEcihhh8VrH9swQ
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = trockenes $bẖs$-Gebäck.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.10]
+1	𓃀𓄡𓊃𓏛	57150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bẖs.w
+2	𓆄𓏲𓏲𓇳	152730	ADJ	adjective	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šwi̯
+
+# sent_id = IBcAkMsGG4g9ZEGurW7C389KX84
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Es) werde fein zermahlen/zerrieben;
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.10]
+1	𓐩	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞	136700	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcAkHcAX2dXf0Cupf9fNqUZxf4
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (es) werde zubereitet durch Erhitzung mit neuem Gänsefett;
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.10] - [x+6.11]
+1	𓆇𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓂋𓆑𓊮	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓏊	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+6	𓅬	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓌳𓄿𓏲𓏛	66820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣw.t
+
+# sent_id = IBcAkDnp6SS06UWHmFyTcpbgzEs
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (es) werde gegessen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.11]
+1	𓏶𓅓𓏭𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+
+# sent_id = IBcAkHuuI0DZ1kQfoa0uDKI7Sok
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ein anderes (Rezept):
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.11]
+1	𓎢𓏏	163760	ADJ	adjective	_	_	_	_	Translit=ky
+
+# sent_id = IBcAkLsanZxBM0vIhTGYYLIcHiU
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = $mꜣꜥ$-Pflanzen/Holz;  (Es) werde fein gemahlen mit Honig;
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.11]
+1	𓌷𓂝𓏲𓆰𓏫	66680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣꜥ.w
+2	𓐩	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+3	𓏞	136700	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆤𓏏𓏯𓏊	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBcAkHQ2JgW7V0e8twQaBzscELw
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Buch der Vertreibung von Furcht und Angst aus einem weiblichen Kind (oder: kleinen Mädchen).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.16]
+1	𓏛𓏏𓏤𓍼𓏤	78470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏꜣ.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈖𓂋𓇋𓏲𓏛𓀜	85160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nr.w
+5	𓅾𓏏𓏱	138770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=snḏ.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓀔𓁐	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+
+# sent_id = IBcAkOV81bHn3EMWlHECb12eKME
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ich bin (die Nilpferdgöttin) Reret, die mit ihrer Stimme bezwingt – ihrer Stimme mit bösem Gebrüll –,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.16]
+1	𓇋𓏌𓀀𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓂋𓂋𓇋𓏏𓄛	95310	PROPN	entity-name	_	_	_	_	Translit=Rr.t
+3	𓋴𓉔𓄿𓂧𓂢𓏴𓀜	140230	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=shd
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓈋𓅪	182840	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏw
+10	𓍸𓏲𓏭𓀁	179860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dnj.wt
+
+# sent_id = IBcAkLBFK51crEgroRFKWuuhGcE
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = die den rettet, der aus ihrem Körper hervorgegangen/herausgekommen ist;
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+6.16] - [x+6.17]
+1	𓈖𓈞𓅓𓏛𓀜	86430	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=nḥm
+2	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAkKoZoubABk7GqArWeEfxgvQ
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ein anderes Buch der Vertreibung von Furcht und Angst.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓏛𓏏𓏤𓍼𓏤	78470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏꜣ.t
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓈖𓂋𓇋𓏲𓏛𓀜	85160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nr.w
+6	𓋴𓈖𓂧𓏏𓏯𓀁	138770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=snḏ.t
+
+# sent_id = IBcAkPQHdfvDYEPopE1WOGHZYF0
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Hinaufgeschnellt ist ein Schrei von/wegen $ṯjꜣtj.t$-Leiden (Zahnschmerzen/Kaumuskelkrampf??) und (von/wegen) $jd.t$-Unheil zu jedem Gott und jeder Göttin.  (oder: Hinaufgeschnellt ist ein Schrei von/wegen $ṯjꜣtj.t$-Leiden (Zahnschmerzen/Kaumuskelkrampf??), (d.h.) das/dem $jd.t$-Unheil eines jeden Gottes und einer jeden Göttin.)
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.11] - [x+7.12]
+1	𓊪𓏲𓇋𓇋𓂻	58780	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=pꜣi̯
+2	𓋴𓎼𓄿𓃀𓏲𓀁	147160	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sgb
+3	𓎀𓇋𓄿𓍘𓇋𓏱𓏏	_	_	_	_	_	_	_	_
+4	𓈞𓏏𓅪	104750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+8	𓊹𓏏𓆇𓁗	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+9	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcAkOQToyQteEYwhHoBeFPvG70
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = wobei ihre Gesichter zum Großen-Grünen-Meer (Mittelmeer im Norden?) gerichtet sind!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.12] - [x+7.13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇆𓅨𓂋𓈗𓈘𓈇	43820	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣḏ-wr
+
+# sent_id = IBcAkAmVTJOal0tyi3pflp3jGLI
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Kein Gott und keine Göttin haben ihren Namen kennengelernt und (ebenso wenig den Namen) des Kindes, das im Innern der Lotosblüte ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.13] - [x+7.14]
+1	𓂜𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓐍𓏛𓈖	95620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+5	𓊹𓏏𓆇𓁗	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+7	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+10	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+11	𓋴𓆑𓏭𓀔𓅆	133600	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sfy
+12	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+13	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+14	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+15	𓊃𓈙𓈖𓏭𓆸𓆰𓏫	145220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zšn
+
+# sent_id = IBcAkANbesHGnkQwo6WyxojsrQE
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Kommt! Möget ihr (Herrn) NN, geboren von (Frau) NN, vor jeglicher bösen Sache retten!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.14] - [x+7.15]
+1	𓅓𓂝𓇋𓂻𓈖𓏥	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓈖𓈞𓅓𓏛𓀜	86430	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+5	𓏯𓏏	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+6	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+7	𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+10	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+11	𓈋𓏲𓅪	182840	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḏw
+
+# sent_id = IBcAkMk9XfBwKkWWoNgpV0xPtPA
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Aber falls ihr nicht auf meine Worte hört,  dann werde ich euren Namen in Anwesenheit der Anderen/Feinde nennen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.15]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓏏𓅓𓏛	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+5	𓄔𓅓𓏛	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+6	𓌃𓂧𓏏𓀁𓏥	78030	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mdw.t
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+12	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+13	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+14	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+15	𓎢𓄿𓏲𓏭𓀀𓁐𓏥	163840	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=kj.wj
+
+# sent_id = IBcAkNjcwnnxTkNJukTx5HBFaGE
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = Ich werde euch in den Westen verschleppen, so wie die (übrigen) Sterne des Himmels,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.16]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇋𓏏𓎛𓏲𓏴𓀜	33410	VERB	verb	VerbForm=Fin	_	_	_	Translit=jtḥ
+5	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓋀𓏏𓏏𓈉	26180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.tjt
+8	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+9	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+10	𓇼𓏤𓅆𓏫	131180	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbꜣ
+11	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+12	𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBcAkNWdXYXcPUjvopCoyTlHhWM
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = und Osiris wird an euch eine Bestrafung vollstrecken.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.16] - [x+7.17]
+1	𓅓𓏲𓏏	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+2	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+6	𓋴𓃀𓇋𓏲𓌪	131610	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sbj.w
+
+# sent_id = IBcAkKGgEGqc0UplsMFbrvLNWlQ
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (Es) werde zu einer Schriftrolle gemacht (d.h. einem kleinen Papyrusamulett);
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.17]
+1	𓆇𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓏛𓏏𓏤𓍼𓏤	78470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏꜣ.t
+
+# sent_id = IBcAkLD30QU9BUVttMhALvrOahk
+# corpus = sawmedizin
+# src_text_id = BSBQAB76HVERDAHVNWM54FMUSQ
+# src_text = sawmedizin:Papyrus Brooklyn 47.218.2//〈Papyrus Brooklyn 47.218.2 〉Geburtshilfe-Papyrus
+# owner = Peter Dils
+# text_de = (es) werde um den Hals des männlichen Kindes gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+7.17]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄈𓄹	120510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫḫ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓀔𓀀	156650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šrj
+

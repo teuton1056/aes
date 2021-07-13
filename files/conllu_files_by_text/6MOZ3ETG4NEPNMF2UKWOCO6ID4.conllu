@@ -1,0 +1,54 @@
+# sent_id = IBUBd10YUbvn70L1t40Tuwedq00
+# corpus = bbawgrabinschriften
+# src_text_id = 6MOZ3ETG4NEPNMF2UKWOCO6ID4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Tausend an Brot, tausend an Bier, tausend an Alabastergefäß, tausend an Kleidung, Retech-Brot und Wer-Brot.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [links]
+1	𓏑	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+3	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+5	𓍱𓎱	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+6	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+7	𓋲	71170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+8	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+9	𓏏𓍕𓏖	169210	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-rtḥ
+10	𓏏𓅨	600033	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-wr
+
+# sent_id = IBUBd2QdxtlqaESFsgqpdrL4S6M
+# corpus = bbawgrabinschriften
+# src_text_id = 6MOZ3ETG4NEPNMF2UKWOCO6ID4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Balsamierer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechts]
+1	𓅱𓏏	51020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wt.j
+
+# sent_id = IBUBd6m4JzkFRkqgvQiMBZfsYUY
+# corpus = bbawgrabinschriften
+# src_text_id = 6MOZ3ETG4NEPNMF2UKWOCO6ID4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Speisen des Verklärten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechts]
+1	𓋴𓌱𓏏	137400	VERB	verb	VerbForm=Fin	_	_	_	Translit=snm
+2	𓅜𓐍	203	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḫ
+
+# sent_id = IBUBd1sFhRhSj0h3uFij8TV26Ac
+# corpus = bbawgrabinschriften
+# src_text_id = 6MOZ3ETG4NEPNMF2UKWOCO6ID4
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Aufwärter des großen Kellers.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechts]
+1	𓏊𓏃𓅨	851368	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdp.w-ḫnt.y-wr
+

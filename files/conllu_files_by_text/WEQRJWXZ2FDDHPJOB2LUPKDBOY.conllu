@@ -1,0 +1,30 @@
+# sent_id = IBUBdQyc4eD9S0ezuy1on9WskYY
+# corpus = bbawgrabinschriften
+# src_text_id = WEQRJWXZ2FDDHPJOB2LUPKDBOY
+# src_text = bbawgrabinschriften:Scheintür des Senedjemib Inti//oberer Sturzbalken/linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, 〈〈ein Opfer, das〉〉 Osiris, Herr von Busiris, 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓁹𓊨	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓎟𓊽𓂧𓊖𓅱	400982	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w
+
+# sent_id = IBUBd4VsYWZOQEAzhhripgj4F5U
+# corpus = bbawgrabinschriften
+# src_text_id = WEQRJWXZ2FDDHPJOB2LUPKDBOY
+# src_text = bbawgrabinschriften:Scheintür des Senedjemib Inti//oberer Sturzbalken/linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Ein Totenopfer für {für}den  Aktenschreiber des Königs in (dessen) Angesicht, Versorgter bei Osiris Inti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] -  [2]
+1	𓉓𓏳	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓇓𓏏𓏞𓂝𓏝𓐍𓏏𓆑𓁷𓏤	450604	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜥ-n-nswt-ḫft-ḥr
+4	𓇋𓌳𓄪𓐍𓅱𓐍𓂋𓁹𓊨	850391	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-Wsjr
+5	𓆛𓈖𓍘𓇋	708854	PROPN	entity-name	_	_	_	_	Translit=Jntj
+

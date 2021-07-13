@@ -1,0 +1,105 @@
+# sent_id = IBUBdy1AVYVoQUauj3lT8MJ0NQk
+# corpus = sawlit
+# src_text_id = UIJINU5ZIRFNRFODPVMJDQZUYM
+# src_text = sawlit:oKairo JE 50249 (MSS Gardiner AHG/31.58)//Die Klagen des Chacheperreseneb
+# owner = Peter Dils
+# text_de = Es ist so, daß ich mir Gedanken mache über das, was geschehen ist, (über) den Zustand, der überall im Lande geschehen ist.
+# findspot = unknown
+# date = NK
+# lineRef = [1]
+1	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈖𓎢𓄿𓏭𓀁	89260	VERB	verb	VerbForm=Fin	_	_	_	Translit=nkꜣ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆣𓂋𓏏𓏥	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+8	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+9	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+10	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+11	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd4TdQohWKEGMuvjzeMmsdZE
+# corpus = sawlit
+# src_text_id = UIJINU5ZIRFNRFODPVMJDQZUYM
+# src_text = sawlit:oKairo JE 50249 (MSS Gardiner AHG/31.58)//Die Klagen des Chacheperreseneb
+# owner = Peter Dils
+# text_de = Veränderungen geschehen;
+# findspot = unknown
+# date = NK
+# lineRef = [2]
+1	𓆣𓂋𓏲𓀾𓏫	116300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫpr.w
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆣𓂋	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+
+# sent_id = IBUBdxSEO9WsRUpUp2ZQVEnZCWo
+# corpus = sawlit
+# src_text_id = UIJINU5ZIRFNRFODPVMJDQZUYM
+# src_text = sawlit:oKairo JE 50249 (MSS Gardiner AHG/31.58)//Die Klagen des Chacheperreseneb
+# owner = Peter Dils
+# text_de = (es) ist nicht wie im Vorjahr.
+# findspot = unknown
+# date = NK
+# lineRef = [2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+3	𓆳𓆑𓇳	137300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snf
+
+# sent_id = IBUBdy5JZGYfqk1ymyWWRSKEkCY
+# corpus = sawlit
+# src_text_id = UIJINU5ZIRFNRFODPVMJDQZUYM
+# src_text = sawlit:oKairo JE 50249 (MSS Gardiner AHG/31.58)//Die Klagen des Chacheperreseneb
+# owner = Peter Dils
+# text_de = Das Land ist in Aufruhr (oder: mobilisiert?), geworden zu dem, was mich zerstört, und gemacht zu etwas, das (für immer) ruht (d.h. tot ist).
+# findspot = unknown
+# date = NK
+# lineRef = [2] - [3]
+1	𓋴𓉔𓄿𓃩𓀜	140020	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=shꜣ
+2	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+3	𓆣𓂋𓏲	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌉𓆓𓏏𓅪𓂝	112660	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥḏi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓁹𓂋𓏲	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jri̯
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊵𓏏𓊪𓏲𓏛𓏥	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+
+# sent_id = IBUBd5WVYgw6BkfRoIYxTZW56jw
+# corpus = sawlit
+# src_text_id = UIJINU5ZIRFNRFODPVMJDQZUYM
+# src_text = sawlit:oKairo JE 50249 (MSS Gardiner AHG/31.58)//Die Klagen des Chacheperreseneb
+# owner = Peter Dils
+# text_de = Die Gerechtigkeit ist vor die Tür gesetzt worden;
+# findspot = unknown
+# date = NK
+# lineRef = [3]
+1	𓂋𓂝𓏏𓂻𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓌷𓂝𓏏𓆄𓏛𓏥	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+3	𓂋𓂋𓏲𓏏𓏭𓇯	92110	ADV	adverb	_	_	_	_	Translit=r-rw.t
+
+# sent_id = IBUBdznqmzJ2pElytUEgKu76WkM
+# corpus = sawlit
+# src_text_id = UIJINU5ZIRFNRFODPVMJDQZUYM
+# src_text = sawlit:oKairo JE 50249 (MSS Gardiner AHG/31.58)//Die Klagen des Chacheperreseneb
+# owner = Peter Dils
+# text_de = das Unrecht herrscht (wörtl.: ist) im Innern der Ratshalle.
+# findspot = unknown
+# date = NK
+# lineRef = [3] - [4]
+1	𓇋𓋴𓆑𓏏𓅪𓏥	31500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jzf.t
+2	𓅓𓄚𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+3	𓉲𓏤𓉐	140250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḥ
+
+# sent_id = IBUBd5Tl2uihaEOficlmuQCd1ZI
+# corpus = sawlit
+# src_text_id = UIJINU5ZIRFNRFODPVMJDQZUYM
+# src_text = sawlit:oKairo JE 50249 (MSS Gardiner AHG/31.58)//Die Klagen des Chacheperreseneb
+# owner = Peter Dils
+# text_de = ihre (kultischen) Bedürfnisse (oder: Anweisungen) sind übergangen/vernachlässigt worden.
+# findspot = unknown
+# date = NK
+# lineRef = [4]
+1	𓃹𓈖𓏏𓂻𓏏𓏲	46280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wni̯
+2	𓅓𓂝𓌨𓂋𓏲𓏛𓏥	74680	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mẖr.w
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+

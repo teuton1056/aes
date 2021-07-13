@@ -1,0 +1,57 @@
+# sent_id = IBUBd6Zb9alk4kKzi7iQCidQRZw
+# corpus = bbawgrabinschriften
+# src_text_id = H4S3EFWXKNGS5MCKAF2KU5HEHE
+# src_text = bbawgrabinschriften:Südwand//Beischriften 2. Register
+# owner = Stefan Grunert
+# text_de = Das Sägen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.27]
+1	𓅱𓋴𓏏𓌪	49470	VERB	verb	VerbForm=Fin	_	_	_	Translit=wsi̯
+
+# sent_id = IBUBd94oRfCdTkzspLLe7JXSYW0
+# corpus = bbawgrabinschriften
+# src_text_id = H4S3EFWXKNGS5MCKAF2KU5HEHE
+# src_text = bbawgrabinschriften:Südwand//Beischriften 2. Register
+# owner = Stefan Grunert
+# text_de = Das Meißeln.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.28]
+1	𓏠𓈖𓍐	71070	VERB	verb	VerbForm=Fin	_	_	_	Translit=mnḫ
+
+# sent_id = IBUBd1BhDiLiX0F1g5WCTmHXr3Y
+# corpus = bbawgrabinschriften
+# src_text_id = H4S3EFWXKNGS5MCKAF2KU5HEHE
+# src_text = bbawgrabinschriften:Südwand//Beischriften 2. Register
+# owner = Stefan Grunert
+# text_de = Das Zimmern eines (Tür)riegels.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.29]
+1	𓇥𓂋𓍈	91630	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḏr
+2	𓊃𓄭	125000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBUBdxS1QwjtNkRBl0TPmaSr308
+# corpus = bbawgrabinschriften
+# src_text_id = H4S3EFWXKNGS5MCKAF2KU5HEHE
+# src_text = bbawgrabinschriften:Südwand//Beischriften 2. Register
+# owner = Stefan Grunert
+# text_de = Das Zimmern.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.30]
+1	𓄭	91630	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḏr
+
+# sent_id = IBUBd9afcFPyUU9DvFG2nhcOS98
+# corpus = bbawgrabinschriften
+# src_text_id = H4S3EFWXKNGS5MCKAF2KU5HEHE
+# src_text = bbawgrabinschriften:Südwand//Beischriften 2. Register
+# owner = Stefan Grunert
+# text_de = Das Zimmern von Sesedj-Holz.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.31]
+1	𓈖𓇥𓂋	91630	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḏr
+2	𓆓𓋴	850595	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ssḏm
+

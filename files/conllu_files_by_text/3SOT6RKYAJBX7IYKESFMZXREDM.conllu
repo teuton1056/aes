@@ -1,0 +1,25 @@
+# sent_id = IBUBdyvvHw5gX0VdlhJYRxrccqw
+# corpus = bbawgrabinschriften
+# src_text_id = 3SOT6RKYAJBX7IYKESFMZXREDM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ra-wer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Türrolle]
+1	𓂋𓂝𓅨	450178	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-wr
+
+# sent_id = IBUBd9HkBGmSgUASoLablqp3W00
+# corpus = bbawgrabinschriften
+# src_text_id = 3SOT6RKYAJBX7IYKESFMZXREDM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker Außenpfosten]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓊪𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+

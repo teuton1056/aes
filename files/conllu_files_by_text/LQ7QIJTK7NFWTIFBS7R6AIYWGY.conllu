@@ -1,0 +1,208 @@
+# sent_id = IBYBU17I12vPc06uqZiJimHHglI
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = A thousend (of) bread and beer, a thousand (of) bulls and fowl, a thousand (of) alabaster (vessels) and (pieces of) linen, a thousand (of) all things from which the god lives, for the ka of the dignified priest Mentuhotep, born of Hathoremhat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+4	𓃿	162930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+5	𓅿	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+6	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+7	𓍱	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+8	𓋲	71170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+9	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+10	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+11	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+12	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+13	𓋹𓈖𓐍𓏏	38530	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ꜥnḫ
+14	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+15	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+16	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+17	𓂓	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+18	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+19	𓇋𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+20	𓊹𓍛	104940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm-nṯr
+21	𓏠𓈖𓍿𓅱𓊵	400025	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w-ḥtp.w
+22	𓄟	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+23	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+24	𓎛𓁷𓂋𓉗𓅓𓄂𓏏	704570	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w-m-ḥꜣ.t
+
+# sent_id = IBUBd3bz8I2ycktYiryGzXmsLTM
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His truly beloved father, the dignified god's seal-bearer, Neferperet, born of Renesankh.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+2	𓌻	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓌳𓐙	500218	ADV	adverb	_	_	_	_	Translit=mꜣꜥ
+5	𓇋𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+6	𓊹𓋨	400008	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-nṯr
+7	𓄤𓉐𓂋𓏏𓎱	_	X	unknown	_	_	_	_	_
+8	𓄟	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+9	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+10	𓂋𓈖𓋴𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzdV6Tk3AUKkoLVGvyLBETI
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved mother, the dignified Hathoremhat, born of Beneret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.4]
+1	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+2	𓌻𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓄪𓏏	25100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmꜣḫ.wt
+5	𓉗𓎛𓁷𓂋𓅓𓄂𓏏	704570	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w-m-ḥꜣ.t
+6	𓄟𓏏	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+7	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+8	𓃀𓈖𓂋𓈖𓇋𓏏	712097	PROPN	entity-name	_	_	_	_	Translit=Bnj.t
+
+# sent_id = IBUBdWvc8ZHnW0cwi8d5BBd5wwg
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Speisebedarf
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5]
+1	𓂧𓄑𓏏𓊵	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+
+# sent_id = IBYBUwAqRXOwLU98uMQQc7RDUGI
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His sister, Renesankh.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓈖𓋴𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdWeOfI9xF0ayrdpYPTeFeWI
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His sister, Nebetta.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎟𓏏𓏐𓏒𓏥	859729	PROPN	entity-name	_	_	_	_	Translit=Nb.t-tʾ
+
+# sent_id = IBUBdWfFxRf0W0oWrv4E50GhQJc
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son, Neferperet
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉐𓂋𓏏𓎱𓄤	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5QAonVOME9hr5BexdnfBWw
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter, Hathoremhat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉗𓁷𓂋𓅓𓄂𓏏	704570	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w-m-ḥꜣ.t
+
+# sent_id = IBUBd8KWYLq4ok3QjFmfT8P0cuQ
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The (female) servant, Ita.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.3]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓇋𓏏𓏐𓏒	400222	PROPN	entity-name	_	_	_	_	Translit=Jtꜣ
+
+# sent_id = IBUBdQRC3MwxT0IhtXlFzFI2yL4
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The (female) servant, Idi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.4]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓇋𓂧𓄔𓇋	710746	PROPN	entity-name	_	_	_	_	Translit=Jdj
+
+# sent_id = IBUBdxjkujWWrUCStS2BJPIMMq8
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter, Renesankh.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.1]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓈖𓋹𓋴	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8zZQZ51oUaosk00Ya0K6YQ
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The (female) servant, Senet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.2]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓊃𓈖𓏏	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+
+# sent_id = IBUBd0DJBaRFyUrMluing2Fm87U
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The royal servant, Shema.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.3]
+1	𓇓𓍛	851166	_	epitheton-title	_	_	_	_	Translit=ḥm-nswt
+2	𓈙𓌳𓄿𓂻	713864	PROPN	entity-name	_	_	_	_	Translit=Šmꜣ
+
+# sent_id = IBUBd0thAQYGiEUqjSj4SJZWKA4
+# corpus = sawlit
+# src_text_id = LQ7QIJTK7NFWTIFBS7R6AIYWGY
+# src_text = sawlit:Stele des Montuhotep (Cambridge E.9.1922)//〈Stele des Montuhotep (Cambridge E.9.1922)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The (female) servant, Neferperet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.4]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓉐𓂋𓏏𓎱𓄤	_	X	unknown	_	_	_	_	_
+

@@ -6,6 +6,7 @@ import html
 import time
 import csv
 import tqdm
+import split
 
 def load_conversion_tables():
 	with open('upos_aes.json','r') as fp:
@@ -87,7 +88,14 @@ def convert_sentence(aes_sentence,upos_conversion_table,con):
 	# get token data
 	id_int_number = 1
 	tokens = []
+	aline = ''
+	bline = ''
 	for token in aes_sentence['token']:
+		if aline == '':
+			aline = token['lineCount']
+			bline = token['lineCount']
+		elif token['lineCount'] != aline:
+			bline = token['lineCount']
 		this_token = {
 			'id':None,
 			'form':None,
@@ -193,6 +201,10 @@ def convert_sentence(aes_sentence,upos_conversion_table,con):
 		#this_token['misc'] = '_'
 		new_tokens.append(this_token)
 	new_sentence = TokenList(new_tokens)
+	if aline == bline:
+		metadata['lineRef'] = aline
+	else:
+		metadata['lineRef'] = f"{aline} - {bline}"
 	new_sentence.metadata = metadata
 	return new_sentence
 
@@ -200,6 +212,10 @@ def convert_sentence(aes_sentence,upos_conversion_table,con):
 def main():
 	data = aes_statistics.load_data_better()
 	convert_corpus(data)
+	print('Splitting into corpus files')
+	split.main()
+	print('Splitting into text files')
+	split.text_split()
 
 if __name__ == '__main__':
 	main()

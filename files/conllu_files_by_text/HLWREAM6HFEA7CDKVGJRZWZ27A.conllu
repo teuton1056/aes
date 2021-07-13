@@ -1,0 +1,22 @@
+# sent_id = IBUBd8CIQPRM6EBbgpZaPobqr64
+# corpus = bbawamarna
+# src_text_id = HLWREAM6HFEA7CDKVGJRZWZ27A
+# src_text = bbawamarna:Durchgang zum Hof/Südseite//linke Szene: Amenophis IV. an Re-Harachte
+# owner = Ingelore Hafemann
+# text_de = [vor Amenophis IV., unten]: Durchführen des großen Opfers für Re-Harachte damit er durchführen möge das geben von Leben wie Re ewiglich.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vor Amenophis IV. unten]
+1	𓊃𓌷𓂝	134630	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣꜥ
+2	𓇎𓏏𓏥	35330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣb.t
+3	𓉻𓏏𓂝	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓅊𓏤𓈃	70002	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj
+6	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓏙	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+9	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+10	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+11	𓇳𓏤	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+12	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+

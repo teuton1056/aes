@@ -1,0 +1,55 @@
+# sent_id = IBUBd9zKoBMz50rfizQXA2FpPZk
+# corpus = sawlit
+# src_text_id = 2Q225P4U3VBL7I4SYEEPNBKLIE
+# src_text = sawlit:Stele des Sobekhotep (Glasgow AGM 1923.33.ad)//〈Stele des Sobekhotep (Glasgow AGM 1923.33.ad)〉
+# owner = Alexander Schütze
+# text_de = Min Anbeten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓇼𓀢	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓈾	70530	PROPN	entity-name	_	_	_	_	Translit=Mnw
+
+# sent_id = IBUBd338SrPqR0RRkOVjXuZVGL4
+# corpus = sawlit
+# src_text_id = 2Q225P4U3VBL7I4SYEEPNBKLIE
+# src_text = sawlit:Stele des Sobekhotep (Glasgow AGM 1923.33.ad)//〈Stele des Sobekhotep (Glasgow AGM 1923.33.ad)〉
+# owner = Alexander Schütze
+# text_de = Sohn des Osiris, mit hoher Doppelfederkrone,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1] - [A.2]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+2	𓊩𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓈎𓀠	158990	ADJ	adjective	_	_	_	_	Translit=qꜣ
+4	𓆄𓆄	860191	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.tj
+
+# sent_id = IBUBd2bkQ3SupUd7t7WeWRPBrqg
+# corpus = sawlit
+# src_text_id = 2Q225P4U3VBL7I4SYEEPNBKLIE
+# src_text = sawlit:Stele des Sobekhotep (Glasgow AGM 1923.33.ad)//〈Stele des Sobekhotep (Glasgow AGM 1923.33.ad)〉
+# owner = Alexander Schütze
+# text_de = der Herr der Kraft, der aus Chemmis herauskommt,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.2]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓄖𓏏𓏭	61400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.tj
+3	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇇𓋔𓏏𓊖𓏤	211	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-bj.t
+
+# sent_id = IBUBdzHodDGHpUzkr5opZXRGDmY
+# corpus = sawlit
+# src_text_id = 2Q225P4U3VBL7I4SYEEPNBKLIE
+# src_text = sawlit:Stele des Sobekhotep (Glasgow AGM 1923.33.ad)//〈Stele des Sobekhotep (Glasgow AGM 1923.33.ad)〉
+# owner = Alexander Schütze
+# text_de = der das Gemetzel hinter ihm/sich vertreibt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓂧𓂋𓂡	180130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dr
+2	𓈙𓂝𓏏𓄬	152300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥ.t
+3	𓅓𓐍𓏏	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

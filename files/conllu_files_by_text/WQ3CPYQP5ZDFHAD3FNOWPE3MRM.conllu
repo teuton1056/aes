@@ -1,0 +1,24 @@
+# sent_id = IBUBd0azFq2LIEFUrDEBWgISh9E
+# corpus = bbawgrabinschriften
+# src_text_id = WQ3CPYQP5ZDFHAD3FNOWPE3MRM
+# src_text = bbawgrabinschriften:Westwand//Beischriften 3. Gruppe
+# owner = Stefan Grunert
+# text_de = Das Singen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓎛𓋴𓂝𓏏	109680	VERB	verb	_	_	_	_	Translit=ḥsi̯
+
+# sent_id = IBUBd7K8NEJoNUhmvFzmgMVTKQQ
+# corpus = bbawgrabinschriften
+# src_text_id = WQ3CPYQP5ZDFHAD3FNOWPE3MRM
+# src_text = bbawgrabinschriften:Westwand//Beischriften 3. Gruppe
+# owner = Stefan Grunert
+# text_de = Das Flöte spielen mittels Langflöte.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓊃𓃀	131160	VERB	verb	_	_	_	_	Translit=zbꜣ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓅓	66170	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ.t
+

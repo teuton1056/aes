@@ -1,0 +1,69 @@
+# sent_id = IBUBd20xpPxSSEy8nQd8UOkMfNw
+# corpus = bbawgrabinschriften
+# src_text_id = EOBHW6FSABBIZHBUAV7JYEYQVQ
+# src_text = bbawgrabinschriften:Südwand//Schiffstransport 〈Bildbeischriften 〉
+# owner = Stefan Grunert
+# text_de = Das Transportschiff, sein Name ist 'Groß ist die Kraft des Asosi'.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Bildtitel]
+1	𓋴𓐟𓄿𓍿𓊠	127640	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sꜣṯ
+2	𓂝𓉻𓄿𓊪𓄇𓎛𓏏𓇋𓊃𓊃𓇋	850964	PROPN	entity-name	_	_	_	_	Translit=Ꜥꜣ-pḥ.tj-Jzzj
+3	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyvhY24BmEGlvES22njzla8
+# corpus = bbawgrabinschriften
+# src_text_id = EOBHW6FSABBIZHBUAV7JYEYQVQ
+# src_text = bbawgrabinschriften:Südwand//Schiffstransport 〈Bildbeischriften 〉
+# owner = Stefan Grunert
+# text_de = Vorsteher der Zehn.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.Person]
+1	𓅓𓂋𓎆	855673	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ-mḏ
+
+# sent_id = IBUBd50Vq5lXGULEgTVX3WRuQo4
+# corpus = bbawgrabinschriften
+# src_text_id = EOBHW6FSABBIZHBUAV7JYEYQVQ
+# src_text = bbawgrabinschriften:Südwand//Schiffstransport 〈Bildbeischriften 〉
+# owner = Stefan Grunert
+# text_de = Vorsteher der Lotsen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3. Person]
+1	𓅓𓂋𓋴𓃀𓇼	450273	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ-sbꜣ.w
+
+# sent_id = IBUBd34g9tY6VkqYkStQJLsqgTA
+# corpus = bbawgrabinschriften
+# src_text_id = EOBHW6FSABBIZHBUAV7JYEYQVQ
+# src_text = bbawgrabinschriften:Südwand//Schiffstransport 〈Bildbeischriften 〉
+# owner = Stefan Grunert
+# text_de = Sargdeckel.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Sargdeckel]
+1	𓉿𓏤	34810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBdWHqnDCaK0KMkBzMwiJ48Rg
+# corpus = bbawgrabinschriften
+# src_text_id = EOBHW6FSABBIZHBUAV7JYEYQVQ
+# src_text = bbawgrabinschriften:Südwand//Schiffstransport 〈Bildbeischriften 〉
+# owner = Stefan Grunert
+# text_de = Sarg.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Sarg]
+1	𓈎𓂋𓇓𓅱𓊌𓏤	161980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qrs.w
+
+# sent_id = IBUBd6hj4DVV1E0Hnk68Q3SQm70
+# corpus = bbawgrabinschriften
+# src_text_id = EOBHW6FSABBIZHBUAV7JYEYQVQ
+# src_text = bbawgrabinschriften:Südwand//Schiffstransport 〈Bildbeischriften 〉
+# owner = Stefan Grunert
+# text_de = Ein Kapitän.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4. Person]
+1	𓏶𓁹𓁹	855660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-jr.tj
+

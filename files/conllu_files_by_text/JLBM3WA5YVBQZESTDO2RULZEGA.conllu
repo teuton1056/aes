@@ -1,0 +1,69 @@
+# sent_id = IBUBd6x5LwJG0EVAsqSWjV9cEnQ
+# corpus = bbawgraeberspzt
+# src_text_id = JLBM3WA5YVBQZESTDO2RULZEGA
+# src_text = bbawgraeberspzt:〈oberes Register (horizontal)〉//T 13
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [Z1]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBdwpe143LQUWPmIsaRYgJn3o
+# corpus = bbawgraeberspzt
+# src_text_id = JLBM3WA5YVBQZESTDO2RULZEGA
+# src_text = bbawgraeberspzt:〈oberes Register (horizontal)〉//T 13
+# owner = Doris Topmann
+# text_de = O ihr Götter, die Feuer speien für Osiris an der Spitze der Unterwelt mit der Flamme, die in ihren Mäulern ist!
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [Z1]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊹𓏏𓂋𓀭𓏪	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+3	𓇋𓊪𓈖	24430	PRON	pronoun	PronType=Dem	_	_	_	Translit=jpn
+4	𓋴𓏏𓏏𓇋𓇋𓊮𓏥	854553	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sti̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+7	𓏅𓇼𓏏𓉐	500145	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-dwꜣ.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓈖𓊃𓂋𓏏𓊮	88300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nsr.t
+10	𓇋𓏶	25130	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jm.j
+11	𓂋𓂋𓂋	92560	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=rʾ
+12	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd0QvjVpXSkARvk7pG62opzo
+# corpus = bbawgraeberspzt
+# src_text_id = JLBM3WA5YVBQZESTDO2RULZEGA
+# src_text = bbawgraeberspzt:〈oberes Register (horizontal)〉//T 13
+# owner = Doris Topmann
+# text_de = - Sie verschlucken ihre Flammen (wieder), nachdem dieser große Gott an ihnen vorbeigezogen ist. -
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [Z1]
+1	𓂢𓐝	37500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓃀𓋴𓅱𓊮𓏪	856590	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=bz
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓅓𓆱𓐍𓏏	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓂝𓊪𓂻	36990	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥpi̯
+7	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+8	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+9	𓉻𓂝	34750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥꜣi̯
+10	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd6ylqeEpUUvzs3HuMu6UOIc
+# corpus = bbawgraeberspzt
+# src_text_id = JLBM3WA5YVBQZESTDO2RULZEGA
+# src_text = bbawgraeberspzt:〈oberes Register (horizontal)〉//T 13
+# owner = Doris Topmann
+# text_de = Eure Flamme sei auf seinen Feinden.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [Z2]
+1	𓈖𓊃𓂋𓏏𓊮	88300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nsr.t
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓐍𓆑𓏏𓀑𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

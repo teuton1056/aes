@@ -1,0 +1,57 @@
+# sent_id = IBUBdwJ68dh2ckuQkoy45S9OYDE
+# corpus = sawlit
+# src_text_id = NV3A4HH2R5G3DHB37UHVHIFVUU
+# src_text = sawlit:Stele des Khety-ankh (Heni) (Heliopolis)//〈Stele des Khety-ankh (Heni) (Heliopolis)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I gave the lie to one who said it, truth to the one who came with it,
+# findspot = Delta
+# date = MK & SIP
+# lineRef = [4]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓇋	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎼𓂋𓍅	168040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grg
+4	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+6	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+7	𓐙𓐙𓂝𓏏𓁦	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+8	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓇍𓇋𓇋	21930	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+10	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+11	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd0yPdnvPFkU8rUdkE2hHt5E
+# corpus = sawlit
+# src_text_id = NV3A4HH2R5G3DHB37UHVHIFVUU
+# src_text = sawlit:Stele des Khety-ankh (Heni) (Heliopolis)//〈Stele des Khety-ankh (Heni) (Heliopolis)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one like the king in pacifying the two lands, praised by him in the course of the day,
+# findspot = Delta
+# date = MK & SIP
+# lineRef = [7]
+1	𓏇𓏏	67930	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mj.tj
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓉔𓂋𓇋𓇋𓏏𓀜	140180	VERB	verb	VerbForm=Fin	_	_	_	Translit=shru̯
+5	𓇿𓇿	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+6	𓎿𓇋𓇋	109750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥz.y
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓𓌨𓂋𓏏𓇳𓏤	650025	ADV	adverb	_	_	_	_	Translit=m-ẖr.t-hrw
+
+# sent_id = IBUBd9l1fugOQUdEqWlxR2QWppE
+# corpus = sawlit
+# src_text_id = NV3A4HH2R5G3DHB37UHVHIFVUU
+# src_text = sawlit:Stele des Khety-ankh (Heni) (Heliopolis)//〈Stele des Khety-ankh (Heni) (Heliopolis)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who did what His Majesty ordered without negligence (?) therein,
+# findspot = Delta
+# date = MK & SIP
+# lineRef = [7]
+1	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓎗𓅱𓏏𓏝	52040	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wḏ.t
+3	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓋴𓈖𓏏𓏕	854546	VERB	verb	VerbForm=Fin	_	_	_	Translit=zni̯
+7	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+

@@ -1,0 +1,624 @@
+# sent_id = IBcARFJnCb82ikVslXT1knMwE4M
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel gegen Blutfraß und (zum) Stillen des „Fressens“:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,19]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓏶𓅓𓀁𓊃𓈖𓆑𓂐𓏥	872147	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnm-znf
+5	𓋴𓎼𓂋𓏏𓀁	147260	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgr
+6	𓏲𓈙𓂝𓏲𓄑𓏥𓈒𓏥	50300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšꜥ.w
+
+# sent_id = IBcARP2jhtCvK0booPCVr5eynkA
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = „Haarfrüchte“: 1, $jnwn$-Pflanzen: 1, $sꜣr$-Pflanzen: 1, $sbtt.yt$-Pflanzen: 1, $sꜥꜣm$-Pflanzen: 1, Natron: 1, $ꜥmꜥꜥ$-Körner (der Gerste / des Emmers): 1, Mehl/Pulver von „männlichem“ Pflanzenbrei: 1, Bodensatz vom Wein: 1, „Selbstentstandenes“ des Dattelsafts: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,19] - [75,21]
+1	𓍁𓏏𓏥𓁸𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓇋𓆛𓈖𓃹𓈖𓆰𓏥	27130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnwn
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓋴𓐟𓄿𓂋𓇋𓆰𓏥	126910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣr
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓋴𓃀𓏏𓏏𓇋𓇋𓏏𓆰𓏥	132250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sbtty.t
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓋴𓉻𓂝𓄿𓅓𓆰𓏥	128700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥꜣm
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓂝𓅓𓂝𓂝𓆰𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+16	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+17	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+18	𓅷𓄿𓇋𓇋𓏌𓏥	174250	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+19	𓏤	_	_	_	_	_	_	_	_
+20	𓏏𓍔𓄿𓎛𓏏𓅯𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+21	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+22	𓇋𓂋𓊪𓏌𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+23	𓏤	_	_	_	_	_	_	_	_
+24	𓆣𓂋𓆓𓊃𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+25	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+26	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+27	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcARCQyUuVqi0UuoNkOcUrVnoo
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Werde in Handwärme (wörtl.: Wärme des Fingers) zu einer Masse zerkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,21] - [76,1]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓂋𓆑𓊮𓏛	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+
+# sent_id = IBcARMDbheO7ZEL6vxxS7joAOS0
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,1]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcARNfIL9iQVUl3sc4Ju2iTPy0
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen eines Blutnestes, ohne dass es sich (schon) festgesetzt hat:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,1] - [76,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓅹𓏤𓈖𓊃𓈖𓆑𓂐𓏥	144510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zš-n-znf
+5	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+6	𓋭𓊃𓍢𓂝𓈖	176800	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAROnhUTWWj0xKrCQ81NbrjCw
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Werde mit Bier vom Extraopfer gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,3]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓇉𓄿𓏲𓏛𓏥𓐍𓏏𓏛𓏥	101230	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.w-jḫ.t
+
+# sent_id = IBcARFABWWkEWEtjnfZHPyosyus
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Werde getrunken über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,3] - [76,4]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAREoF7BtKUEAslMCikmsv6h8
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcARK1nMyQYSEBLuMM4UNUJ9f0
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Fett: 1, Weihrauch: 1, $gw$-Gras vom Garten: 1, $gw$-Gras vom Uferland: 1, Sägemehl der $ꜥš$-Konifere: 1, edle Salbe: 1, Getrocknete Myrrhe: 1, $ꜥꜣgj.t$-Harz: 1, Sellerie: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,4] - [76,6]
+1	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓎛𓋴𓊪𓈇𓏤	109980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzp
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓈅𓈇𓏤	52640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏb
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓏲𓋴𓏏𓌪	49450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ws.t
+14	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+15	𓂝𓈙𓐎𓆮𓈒𓏥	40940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥš
+16	𓏤	_	_	_	_	_	_	_	_
+17	𓈖𓍇𓏌𓏲𓂧𓅱𓀻𓏤𓋴𓏲𓏌𓏥	878585	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nwd.w-šps.w
+18	𓏤	_	_	_	_	_	_	_	_
+19	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+20	𓆄𓏲𓇳𓈒𓏥	152730	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šwi̯
+21	𓏤	_	_	_	_	_	_	_	_
+22	𓉻𓂝𓄿𓎼𓏏𓎯𓏌𓏥	35500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣg.yt
+23	𓏤	_	_	_	_	_	_	_	_
+24	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+25	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcARAXMZ4K3T0QJh9AMy9ZvkGc
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,6]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcARKwQzdS6bUhWo8J3WMYiric
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,6]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	852606	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcARMxPJp5n9EgtnRq1pWPXWbs
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Mehl von Datteln, gedörrt: 1, Mehl von $ꜥmꜥꜥ$-Körnern des Emmers: 1, Natron: 1, „Federkonstruktion“-Droge: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,7] - [76,8]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+4	𓍯𓄿𓅓𓊮	42410	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓂝𓅓𓂝𓂝𓆰𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓇣𓏏𓏯𓌽𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+13	𓏤	_	_	_	_	_	_	_	_
+14	𓂓𓏏𓀋𓆄𓅱𓏏𓈒𓏥	866972	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣ.t-šw.t
+15	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcARBWjP5FWBULFq8UfMaCnGYo
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden, indem sie/es erwärmt ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,8]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓊃𓈙𓅓𓅓𓊮	145200	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=sšmm
+
+# sent_id = IBcARMiSbuNabUkbozgcLM6i5DM
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für das Beseitigen 〈von ... am〉 Hals:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓐍𓂝𓅓𓄈𓄹	114880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜥm
+
+# sent_id = IBcARAgt6JtQOkkTmhi3r7NfUWI
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Fledermaus, aufgeschnitten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,8] - [76,9]
+1	𓂧𓂋𓎼𓇋𓇋𓏏𓅬	859221	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dꜣgy.t
+2	𓊪𓌉𓆓𓏴𓀜𓍘𓇋	61660	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=pḥḏ
+
+# sent_id = IBcARAZtISmplk0YouPtkPfRG4Y
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden, so dass er sofort gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBcARGnPNSn6OUf7gqgC63lOQ8o
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen des Blutes von der Seite:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,9] - [76,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓇥𓂋𓏲𓏲𓄹	185060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏrw.w
+
+# sent_id = IBcARFQHmc0GMUh6tLmXT9KbP6Y
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Maische, gegoren (wörtl.: entstanden), gegorener Pflanzenbrei.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,10]
+1	𓈙𓃀𓏏𓏴𓈒𓏥	153270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šb.t
+2	𓆣𓂋𓏏	854383	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂝𓍯𓄿𓇋𓇋𓏏𓐎𓏌𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+
+# sent_id = IBcAROM6Z8n6RE1jgB0C3TtYWQk
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,10]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcARND6PLvUMECyjpp5DxncHbI
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = werde zu irgendeiner Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,10] - [76,11]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcARAWf5mSlvkI9upbLlQEFe3Y
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = werde mit Öl/Fett und Olivenöl berieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,11] - [76,12]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+
+# sent_id = IBcARARyTwkdaExxvcgI4WQfc4k
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,12]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcARMuRbcLQkU2RnWeGqxDKxGU
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = $šꜥ.tjt$-Gebäck, mit $mstꜣ$-Flüssigkeit vermengt, nachdem es vom Feuer gekommen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,12] - [76,13]
+1	𓈙𓂝𓏏𓏏𓏒	152400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥ.tjt
+2	𓄿𓏇𓇋𓀜𓍘𓇋	136	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜣmj
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄟𓋴𓏏𓍔𓄿𓈗	75980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mstꜣ
+5	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBcARFd4IjnXP0Swq5dVJ6Mj1TM
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Das Leiden werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,13] - [76,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓏠𓈖𓏏𓅪𓏪	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcARMKhvDroCkS6qUworbrDtgA
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcARJbJcRnDZElMrxseQxxC6QQ
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = $šꜥt.t$-Gebäck, mit Öl/Fett und unterägyptischem Salz vermengt und erwärmt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,14]
+1	𓈙𓂝𓏏𓏏𓏒	152400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥ.tjt
+2	𓄿𓏇𓇋𓀜𓍘𓇋	136	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜣmj
+3	𓋴𓂋𓆑𓊮𓏛𓍘𓇋	139380	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=srf
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+6	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+
+# sent_id = IBcARCBgsujwCE7yi3GtJY6VaD0
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Die Einwirkung jeder Sache (und) jedes Leiden werden darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,15]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓊨𓏏𓂝𓏤𓅪𓏥	125160	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-ꜥ
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓏠𓈖𓏏𓅪𓏥	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+6	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+7	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcARP0C09gBPEVmj8JeS2kZQYU
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcARMZmzQc9NEyjmfCOBIzvhSQ
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Werde mit unterägyptischem Salz vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,15] - [76,16]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+
+# sent_id = IBcARIipcWmqskzFnDe7Mx8WHFc
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Das Leiden werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,16]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓏠𓈖𓏏𓅪𓏥	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcARHA9TvCS4ELrlDOF3rsvMNU
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Schmerzen in allen (möglichen) Körperteilen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,16] - [76,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓍋𓅓𓂋𓏏𓅪𓏥	72000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcARNi4oZBLBEIqnTlphisMGOY
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Rizinussamen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,17]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓂧𓎼𓄿𓅓𓆮𓈒𓏥	181210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dgm
+
+# sent_id = IBcARGg9FTeW3EFWi4fvg8XdVKc
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Werde zerstoßen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,17]
+1	𓉔𓄿𓃀𓈎𓂝	98220	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hbq
+
+# sent_id = IBcARMglUh39bEyPhTGyrPV8Pfk
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = werde in Honig gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,17]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBcAREae4r5PhkjIla4MWUkcCnk
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,18]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcARIMZmmACFE85ojuqPTcbOK4
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für eine Seite, wenn sie schmerzt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓇥𓂋𓏲𓏲𓄹	185060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏrw.w
+4	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcARIyXvTXGSkQQrKjXOdBO0KU
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Ein Hin-Maß-Gefäß Maische: 1, unterägyptisches Salz: 1, Rinderfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,18] - [76,19]
+1	𓂺𓏌𓏊	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈙𓃀𓏏𓏴𓏌𓏥	153270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šb.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+8	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+9	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcARBC22W53SUSSqYXtg7g8nWY
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse verkocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,19]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcARLF6MLA6VU1upbD5AVJwkNM
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = werde vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,19]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+
+# sent_id = IBcARIR6b0d7RU9wukS2VQCvGF0
+# corpus = sawmedizin
+# src_text_id = J35OWBNYQFBKVLWBKP2DRLZT4A
+# src_text = sawmedizin:Papyrus Ebers//75,19-76,19 ⸗ Eb 592-602: "Heilmittel gegen Blutfraß und zum Stillen des Fressens"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

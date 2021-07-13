@@ -1,0 +1,92 @@
+# sent_id = IBUBd1tFyy0KXks2n5EMgt9gCVA
+# corpus = sawlit
+# src_text_id = W6NIQJOSU5AK3EXHOERNIZFWPQ
+# src_text = sawlit:〈Harfnerlieder Text I: 〉Panniut (TT 331)//Harfnerlieder Text I
+# owner = Lutz Popko
+# text_de = O wie süß ist das Verweilen in Theben!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓇛𓐝𓏛𓏲𓏭	91410	ADJ	adjective	_	_	_	_	Translit=nḏm
+2	𓈞𓊃𓀀	105780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥmsi̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌀	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+
+# sent_id = IBUBd1ydPMAZpkyeoIAFeV5vgfA
+# corpus = sawlit
+# src_text_id = W6NIQJOSU5AK3EXHOERNIZFWPQ
+# src_text = sawlit:〈Harfnerlieder Text I: 〉Panniut (TT 331)//Harfnerlieder Text I
+# owner = Lutz Popko
+# text_de = Das Herz ist immer in Freude.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂋𓈙𓄹𓏛𓏥	96180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rš.w
+4	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBdyrgDOMq6UAAoh7nXpJzTGk
+# corpus = sawlit
+# src_text_id = W6NIQJOSU5AK3EXHOERNIZFWPQ
+# src_text = sawlit:〈Harfnerlieder Text I: 〉Panniut (TT 331)//Harfnerlieder Text I
+# owner = Lutz Popko
+# text_de = Du mögest Amun preisen,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓇼𓀢𓏛	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓏠𓈖	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+
+# sent_id = IBUBdQzu5gJV6UicoWsFWQf4BR0
+# corpus = sawlit
+# src_text_id = W6NIQJOSU5AK3EXHOERNIZFWPQ
+# src_text = sawlit:〈Harfnerlieder Text I: 〉Panniut (TT 331)//Harfnerlieder Text I
+# owner = Lutz Popko
+# text_de = du mögest Re sehen, wenn er aufgeht
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓌵	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇳𓏤𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+4	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈍𓂝𓂝𓏛	114740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜥi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2O2wQ0Q1EK3ubPotSc5ROw
+# corpus = sawlit
+# src_text_id = W6NIQJOSU5AK3EXHOERNIZFWPQ
+# src_text = sawlit:〈Harfnerlieder Text I: 〉Panniut (TT 331)//Harfnerlieder Text I
+# owner = Lutz Popko
+# text_de = und du mögest jeden Tag Lobpreis geben am Morgen, ohne Unterlass.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5] - [6]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓊃𓋴𓅱𓀜	138070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sns.w
+4	𓁷𓏤𓁶𓏤	108280	ADP	preposition	_	_	_	_	Translit=ḥr-tp
+5	𓇼𓇋𓇋𓏏𓇳	178120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dwꜣ.yt
+6	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+7	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+8	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+9	𓍋𓏲𓃀𓀁	79	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣb.w
+
+# sent_id = IBUBd6AZTMmSpU91kBZWLztQWvw
+# corpus = sawlit
+# src_text_id = W6NIQJOSU5AK3EXHOERNIZFWPQ
+# src_text = sawlit:〈Harfnerlieder Text I: 〉Panniut (TT 331)//Harfnerlieder Text I
+# owner = Lutz Popko
+# text_de = Du mögest deine Stimme erheben wie der göttliche Benu-Vogel.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7] - [8-9]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓃀𓈖𓏌𓅣𓏲𓊹𓏏𓂋𓏛	853466	_	epitheton-title	_	_	_	_	Translit=Bn.w-nṯr.y
+

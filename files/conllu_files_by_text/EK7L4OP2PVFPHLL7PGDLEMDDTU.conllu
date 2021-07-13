@@ -1,0 +1,49 @@
+# sent_id = IBUBdxj0ZJgiVk3Dl9mQt8XQR7A
+# corpus = bbawamarna
+# src_text_id = EK7L4OP2PVFPHLL7PGDLEMDDTU
+# src_text = bbawamarna:Skarabäus des Ipy//〈Skarabäus des Ipy〉
+# owner = Gunnar Sperveslage
+# text_de = Ein Opfer, das der König und der lebendee Aton geben, der jedes Land mit seiner Schönheit erhellt.
+# findspot = unknown
+# date = NK
+# lineRef = [1]
+1	𓏙𓊵𓏏𓊪	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+5	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥnḫ
+6	𓋴𓌉𓆓𓇶𓇿𓎟𓐝𓄤𓏤𓏥𓆑	859523	_	epitheton-title	_	_	_	_	Translit=sḥḏ-tꜣ-nb-m-nfr.w⸗f
+
+# sent_id = IBUBdzj35jBXjU4IgnydAZIJIkY
+# corpus = bbawamarna
+# src_text_id = EK7L4OP2PVFPHLL7PGDLEMDDTU
+# src_text = bbawamarna:Skarabäus des Ipy//〈Skarabäus des Ipy〉
+# owner = Gunnar Sperveslage
+# text_de = Es möge für mich an jedem Neujahrstag frisches Wasser ausgegossen werden.
+# findspot = unknown
+# date = NK
+# lineRef = [6] -  [7]
+1	𓍿𓏏𓆑𓈗	854582	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯtf
+2	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+6	𓂋𓈖𓊪𓀔	95000	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=rnpi̯
+7	𓏏𓈖𓏌𓌙𓏏𓏤	175840	NOUN	substantive	Number=Sing|Gender=Masc	_	_	_	Translit=ṯnw
+8	𓄍	45600	PROPN	entity-name	_	_	_	_	Translit=Wp-rnp.t
+
+# sent_id = IBUBdypNWiRhl0ovkOnGwQwwv8c
+# corpus = bbawamarna
+# src_text_id = EK7L4OP2PVFPHLL7PGDLEMDDTU
+# src_text = bbawamarna:Skarabäus des Ipy//〈Skarabäus des Ipy〉
+# owner = Gunnar Sperveslage
+# text_de = Für den Ka des Vorsteher der Arbeiten des Goldhauses, Ipy.
+# findspot = unknown
+# date = NK
+# lineRef = [8] -  [9]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓂓	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓇯𓀋𓏏𓏭𓏤𓂡𓉗𓋞	859548	_	epitheton-title	_	_	_	_	Translit=ḥr.j-kꜣ.t-n-ḥw.t-nbw
+5	𓇋𓀁𓊪𓏭𓇋𓇋	704397	PROPN	entity-name	_	_	_	_	Translit=Jpy
+

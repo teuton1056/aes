@@ -1,0 +1,1331 @@
+# sent_id = IBYCVxhI8IN1rkTRjI366T1hYaA
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Beseitigen des Hustens:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,1]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓋴𓂋𓇋𓇋𓏏𓐎𓏥	139220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sry.t
+
+# sent_id = IBYCV296WwGN605TrOTsjDsDhSc
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Frisches Johannisbrot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,1]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+2	𓇅𓆓𓏏𓏛	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBYCV2GNk7o8I0w3r1xHfIXWk5Y
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde in einem neuen $ḥn.w$-Topf in Wasser gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,1] - [53,2]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓆰𓈖𓏌𓏲𓏌𓏤	106280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥn.w
+6	𓌳𓄿𓏛	66150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣw
+
+# sent_id = IBYCV7IkDDoZLURjq8qI5n3LYWI
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCVwlDlUAJZ0YYrzOSNhtkfVI
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Johannisbrot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,2]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBYCV25T5u6MlEJvkU9l1NDW1rc
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde gekocht mit süßem Bier.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,2]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+
+# sent_id = IBYCV62z0Yd5WEHSqkWZJRgIVVQ
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOCOBfp2zxkzQsEQ0YjTvQc0
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = So sollst du ein $rmn.t$-Gefäß (bereit)stellen, dessen (eine) Hälfte mit Wasser und die (andere) Hälfte mit Johannisbrot (gefüllt) ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,3] - [53,4]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	_	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋𓏠𓈖𓏏𓏌𓏤	94350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rmn.t
+4	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+8	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBYCOM4DSAOoQEviq30SuCmRfj8
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = So sollst du veranlassen, dass man ein Viertel eines Dja (?) aus diesem $rmn.t$-Gefäß abgießt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,4] - [53,5]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏𓆑𓈗𓏏𓏲	148240	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=stf
+4	𓏴	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓏠𓈖𓏏𓂢𓏌𓏤	94350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rmn.t
+9	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBYCV3SDp4fbeEMkrkXz8Bfj8uE
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCV5udr7onUU1SlZT9CuE9Wg0
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Mehl von Datteln: ein Hin-Maß.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,6]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+4	𓉔𓈖𓏌𓏲𓏌𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+
+# sent_id = IBYCV2Ou7BUTQU1CvdPTW5joF18
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde zu einem $ḫꜣḏ.w$-Fladen gemacht:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,6] - [53,7]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆼𓄿𓂧𓏒	114410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣḏ.w
+
+# sent_id = IBYCV9Dlii8CVEiAoT5gE0UMPyQ
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = (diese) werden aufs Feuer gestellt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,7]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBYCV2zhfMYDJEp2nIkEfKhc6WQ
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = dadurch werde (dann) dieses $ḫꜣḏ.w$-Brot zum Entstehen gebracht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,7]
+1	𓋴𓆣𓂋	142050	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫpr
+2	𓆼𓄿𓂧𓏒	114410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣḏ.w
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYCOPMtT4Jdskwqv8IsVyFx6NY
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Und es soll folglich (vom Feuer) genommen werden, nachdem dies getan wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,7] - [53,8]
+1	𓄞𓂧𓀜𓐍𓂋𓏏𓏲	854561	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+4	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+
+# sent_id = IBYCOOK0w2VWs0WghGRG5Ujo0h8
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde mit Fett und Olivenöl zu einem $ꜣmꜥ.t$-Brei gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,8]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄿𓅓𓂝𓏏𓏒𓏥	141	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣmꜥ.t
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+
+# sent_id = IBYCOHF0tjyb5kVhgo7emEGHKA0
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde von einem Mann in angenehmer Wärme gegessen, so dass er sofort gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,8] - [53,9]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓂋𓆑𓊮𓏛	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+6	𓇛𓅓𓏛	91410	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nḏm
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBYCWGVEt1sh80AdhJIJjyYkHNw
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,9]
+1	𓎢𓏏	_	X	unknown	Number=Sing|Gender=Fem	_	_	_	_
+
+# sent_id = IBYCOAdWlXxox0K2tdJuK4J4j90
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Johannisbrot: 1, Datteln, zerquetscht: 1, ein Hin-Maß Milch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,9] - [53,10]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+4	𓉻𓂝𓄿𓎼𓀜	854496	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥꜣg
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓉔𓈖𓏌𓏲𓏌𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+
+# sent_id = IBYCOClLTmEQy0x2kK2cpYU1Ft4
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,10]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+
+# sent_id = IBYCWCpNheTQjEGqrmdMkpINXSg
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCWAeEn6XljU2LnxvQFnDby0c
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Kuhmilch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,10]
+1	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+2	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+
+# sent_id = IBYCWKFHeMiQAkCWqpKludWUrWc
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,10]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCOFqYxQ6oJkyFncltyQYV8fo
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Nachdem das $mhwj$-Milchprodukt zermahlen/verrührt worden ist, werde Dickmilch/Sauermilch dazu gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,10] - [53,11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓅓𓂝𓉔𓅱𓏏𓈒𓏥	73160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mhwj
+4	𓐩𓏌𓂝	90880	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nḏ
+5	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+6	𓋴𓏇𓇋𓏌𓏥	134840	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=smj
+7	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYCOCQnG6wHJUP4uu9f4jy8i3U
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde von dem Mann $sẖb$-eingenommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,11]
+1	𓋴𓄡𓃀𓀁	143480	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sẖb
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBYCWGIMX7FeQkg0mBsKZW4IPp8
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCWCjxZvs8vkpWhTn5AZwGdO8
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Kerne von Datteln.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,12]
+1	𓈖𓇋𓇋𓏏𓈒𓏥	26930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jnj.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+
+# sent_id = IBYCWNhWyvx1YERitOP2KMjqLFg
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde zerstoßen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,12]
+1	𓉔𓄿𓃀𓈎𓂝	98220	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hbq
+
+# sent_id = IBYCWDhoo8SwfEtohrZm0TRRbNQ
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = werde in einen Stoffbeutel gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,12] - [53,13]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓈎𓂋𓆑𓏏𓋳	161710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qrf.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓋳𓏥	103750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs
+
+# sent_id = IBYCOCNoxsRfZ0lmsmGroW7Wkzg
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Dieser Beutel werde 1 (?) Tag in Maische gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,13]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈎𓂋𓆑𓏏𓍱	161710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qrf.t
+3	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈙𓃀𓏏𓏴𓏌𓏥	153270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šb.t
+6	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCOJCHTUfgLU9JnEGZlx76c4s
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ins Feuer werde sie (d.h. die Maische?) gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,13]
+1	𓂝𓂝𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBYCON7brmwkV0A0nRBMtKIMmOA
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Der (so entstandene?) $ꜣḥ$-Brei werde (vom Feuer) genommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,13]
+1	𓄞𓂧𓀜	854561	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+2	𓄿𓎛𓏌𓏥	186	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḥ
+
+# sent_id = IBcAJgC1PHxWGUAdib2lAmHKpjs
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Dieser Beutel werde entleert, indem er (d.h. sein Inhalt) in einen $ḥn.w$-Topf gefüllt werde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,14]
+1	𓅱𓆼𓄿𓀜	49100	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḫꜣ
+2	𓈎𓂋𓆑𓏏𓍱	161710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qrf.t
+3	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+4	𓂋𓂝	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+5	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎛𓆰𓈖𓏌𓏲𓏌𓏤	106280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥn.w
+
+# sent_id = IBYCOM4DczDQlk8ehhWrXOIPmRc
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Wasser werde ihm (dem Inhalt) (zu)gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,14]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBYCWBMQORQDPkt1iLNSJILdpSs
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOLgQ4vT6sUeAgDHW6x4U4yY
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Gegorener Pflanzenbrei: 1/4 (Dja), Öl/Fett: 1/4 (Dja), Bier: 1/4 (Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,15] - [53,16]
+1	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂝𓍯𓄿𓇋𓇋𓏏𓏌𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+4	𓏴	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+6	𓏴	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+8	𓏴	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCWIb89xvTvUDRpRxyXZLGleQ
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde in einen Kessel gegeben;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,16]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓉔𓂧𓏏𓏊	95500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rhd.t
+
+# sent_id = IBYCWNakwHu5Hk2hvOHDu3y8mDw
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,16]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCOKf28bQl8010jhSgMTmpgc4
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Danach sollst du zermahlen: $ꜥfꜣ$-Pflanzen: 1, „Stechholz“: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,16] - [53,17]
+1	𓇋𓂋𓅓𓆱𓐍𓏏𓂻	28350	ADV	adverb	_	_	_	_	Translit=jr-m-ḫt
+2	𓐩𓏌𓂝𓐍𓂋	90880	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂝𓆑𓄿𓆰𓏥	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCOMkLM6NGpE0dm1zsNmlpnBs
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde in diesen Kessel gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,17]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓉔𓂧𓏏𓏌𓏤	95500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rhd.t
+4	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBYCWOnrIu52ok2ElqDDo3IjYus
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCONx0cvz9LUcIrRZmIOuHcJE
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Mehl von Datteln: 1/64 (Oipe ⸗ 1 Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,18]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+4	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCOHHnDYYixkR9ieH7ZbQ2lLQ
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde in Wasser gegeben;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,18]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBYCOIL8Jk0UX065gsWoze6u1y8
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = werde zu $šd.t$-Teig gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,18]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄞𓂧𓏏𓏒	158970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šḏ.t
+
+# sent_id = IBYCOFziKxxPfUxTnr6NXGW4wxs
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde zu einem $ḫꜣḏ.w$-Fladen gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,20]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆼𓄿𓂧𓏒	114410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣḏ.w
+
+# sent_id = IBcBMp4Q3d40j0lps14BgknTrAE
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Nachdem er gebacken wurde, sollst du ihn mit Honig und Rinderfett zu $ꜣmꜥ.t$-Brei verarbeiten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,20] - [53,21]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓈎𓆑𓈖𓊮	160470	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qfn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓄿𓅓𓂝𓏏𓏌𓏥	141	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣmꜥ.t
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓆤𓏏𓏯𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+12	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+13	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+
+# sent_id = IBYCOK8AI1iBO0zXiVvLMi7O71w
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde über einen Tag hinweg gegessen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,21]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCWOZPd0cJQk3Vgnop5MQOKdw
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOE3HBlQXIkPjoaIjYspNK48
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Kuhmilch, Erdmandeln.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,21]
+1	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+2	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+3	𓇹𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+
+# sent_id = IBYCOLqbFBpHCUSdvGtPiJRxBAQ
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde in ein $rmn.t$-Gefäß gegeben, wobei (dies)es aufs Feuer gestellt werde wie (zum) Kochen von Langbohnen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,21] - [53,22]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓏠𓈖𓏏𓂢𓏌𓏤	94350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rmn.t
+4	𓂞𓍘𓇋	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rḏi̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+7	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+8	𓊪𓊃𓏏𓊮	62180	VERB	verb	VerbForm=Fin	_	_	_	Translit=psi̯
+9	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+
+# sent_id = IBYCOMjCU0uUfUOWvvlYksfBnQk
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Nachdem (es) gekocht wurde, soll der Mann diese Erdmandeln kauen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [53,22] - [54,1]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+4	𓅱𓈙𓂝𓄑𓀁𓐍𓂋	50270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wšꜥ
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+7	𓇹𓈒𓏥	44830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜥḥ
+
+# sent_id = IBYCWK5lWpjLD0erjVYzUNA3bWg
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOGKrFCUeOEsliWX64B4uPYc
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Honig, $smj$-Milch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,2]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓋴𓏇𓇋𓏌𓏥	134840	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=smj
+
+# sent_id = IBYCOCd527JS6UbWt08ye49UzuA
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,2]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCOPZcx2UkvUGWnfyw6hC2iMU
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde gegessen,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,2]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+
+# sent_id = IBYCWI8V2bmsPUNQjc08vxNcdfU
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOIjfBJHM1kbwmtWwLQU65zA
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Zähne vom Schwein.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,3]
+1	𓅘𓎛𓂧𓏏𓄑	86750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḥḏ.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓆷𓄿𓄛𓏤	151350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣj
+
+# sent_id = IBYCOEfYqWcM50aYqgKDyUSubyY
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,3]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYCWNji0jbasEJgoslkTkVdPS4
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOMaGTlmvBEBPv6BEppRCrB0
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Flüssigkeit vom Datteltrester (?), Honig, $smj$-Milch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,4] - [54,5]
+1	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓊃𓂋𓅐𓏌𓏥	139490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zrm.t
+4	𓅯𓏏𓏯𓏊𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+5	𓋴𓏇𓇋𓏌𓏥	134840	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=smj
+
+# sent_id = IBYCOAko4e9jWkrgv62nXShaluE
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,5]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCWELFzOu9qUtnu8QMqh3m7Bs
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOOTNukXGfUTrhiqW1bw0nrQ
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Mehl vom $mjmj$-Getreide: 1/64 (Oipe ⸗ 1 Dja), Gänsefett 1/64 (Oipe ⸗ 1 Dja), Honig: 1/64 (Oipe ⸗ 1 Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,5] - [54,6]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+4	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+6	𓅬	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+7	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+9	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCOI59GhMGBkKsh7gw9aj3Nyo
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,6]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCWF7ISO1ewkDoi0457bx9Ebo
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCONUStAgx9kiGgrhXObsQDFI
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,7]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYCOHTFCEWdDkU0q17yV6oC1SI
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,7] - [54,8]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCODatr4zMBUNxhtWljEC9B5w
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = werde in 1/16 (Oipe ⸗ 4 Dja) Bier gegeben;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,8]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓂄	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCWC8WDJJBSEY2gVyAGLXUOnI
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOElO9yDg6EimvpeR5c1M6kc
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,9]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYCOFfXw4W55kf5hhQPcZI2Kx0
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = werde aufs Feuer gestellt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,9]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBYCOLWZnHOOGErqpttT33DUPWc
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Der Rauch davon werde über 1 Tag hinweg mit einem Schilfrohr inhaliert (wörtl.: verschluckt).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,9]
+1	𓂝𓅓𓄈𓀁	37500	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+2	𓎛𓏏𓏭𓊮	111130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtj
+3	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓃀𓏏𓌟	131120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sb.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCWFZDir0OGk5Dqkn0kjK3Bf0
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), ein sofort (wirksames) Mittel zum Beseitigen von Husten im Bauch:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁷𓂋𓏲𓂝𓏤	109030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w-ꜥ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓋴𓂋𓇋𓇋𓏏𓂐	139220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sry.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+
+# sent_id = IBYCWLdrj8p73EBRqk9mYtppYqw
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOEazJfn3mUfJmgZwomkT6Wo
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = $mjmj$-Getreide, geröstet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,13]
+1	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+2	𓂝𓏲𓎼𓊮	36210	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥwg
+
+# sent_id = IBYCWOTuhyEiT0Anl5DcR6cfLK0
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde mit Bier vermengt, wozu eine $bḏꜣ$-Backform erwärmt werde;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,13]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓋴𓈙𓅓𓅓𓊮	145200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšmm
+5	𓃀𓍑𓄿𓏌𓏤	58570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bḏꜣ
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYCOBF8ME8EHE5HodiN2psiRUU
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = werde zu einem Fladen gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,14]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓃀𓇋𓏏𓏒	54150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBYCWCNhu7Mn9UATvUhFlJbucqk
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCODf4HLDQckPWrhkkjHXSf9o
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,16]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCOKi5LBuHUEPSmmDandI0nCM
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,16]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCOMuMD0meh0iDqWWtxANS36w
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde handwarm (wörtl.: in Wärme des Fingers) gegessen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,16] - [54,17]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓂋𓆑𓊮𓏛	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+
+# sent_id = IBYCWJe3kDoHvE3mnIKMVDo4bWA
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOI5PJoW8e0w3q6G3vPLO2mI
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Frisches Johannisbrot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,17]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+2	𓇅𓏏𓏛	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBYCOKwrZcR7AEZ8nKzRRIZxIqA
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde in ein $rmn.t$-Gefäß gegeben, dessen (eine) Hälfte mit Wasser, (die andere) Hälfte mit Johannisbrot (gefüllt) ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,17]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓏠𓈖𓏏𓂢𓏊	94350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rmn.t
+4	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+8	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBYCWP0l2LQFCUybiWwFVgaxja8
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCOB9IZ9AlFUJWgREIXQKKBvA
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Realgar: 1,Rötel (?): 1, $ꜥꜥꜣm$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,18] - [54,19]
+1	𓄫𓅱𓏏𓏛𓏥𓄣𓏤𓈒𓏥	45	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣw.t-jb
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓏠𓈖𓏭𓈒𓏥	70100	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mnj
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓂝𓂝𓅓𓆰𓏥	35700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜥꜣm
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCONPENjHyyEW3ktNubWdJkgY
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,19]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCOIL2UIKQUUeVqY1aQUgfypI
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Und so erhitzt du sie (folglich) auf dem Feuer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,20]
+1	𓋴𓈙𓅓𓅓𓊮𓐍𓂋	145200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšmm
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBYCODQaIrBthUOpn6pPsqhqhR8
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Und so nimmst (wörtl.: holst) du (folglich) einen davon.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,20]
+1	𓏎𓈖𓐍𓂋	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓌡𓂝𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYCOPx2Q8NVcUCMvFQQWxWi3eI
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Und so gibst (folglich) du (etwas) von diesem Heilmittel darauf.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,20] - [54,21]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇑𓇑𓈖𓈖	500001	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn-n
+5	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pẖr.t
+6	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYCOOxmbpdQM0uevPxkOQWT5EY
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Und so bedeckst du ihn (d.h. den Stein) (folglich) mit einem neuen $ḥn.w$-Topf, wobei dessen Unterseite durchbohrt wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,21] - [54,22]
+1	𓇉𓄿𓊪𓋳𓀜𓐍𓂋	101300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣp
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏊𓏤	106280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥn.w
+6	𓌴𓏛	66150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣw
+7	𓏲𓉔𓃀𓏴𓂝	48390	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=whb
+8	𓎢𓆑𓄿𓄖	164110	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kfꜣ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYCOIjQdFPWUUQhvZ0zd0McoKA
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Und so gibst du (folglich) ein Rohr des Schilfs in diese Durchbohrung.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,22]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈙𓃀𓃀𓌟	153410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šbb
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓈖𓃀𓇋𓏏𓌟	82640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nbj.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓏲𓉔𓃀𓏴𓂝	48400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=whb
+8	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBcBNaOUK1spPkwyrazeodkDd08
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Und so gibst du (folglich) deinen Mund an dieses Rohr, so dass du den Rauch davon inhalierst (wörtl.: verschluckst).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,22] - [54,23]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈙𓃀𓃀𓌟	153410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šbb
+7	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂝𓅓𓄈𓀁	37500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓎛𓏏𓏭𓊮	111130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtj
+12	𓇋𓂋𓏭	851428	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jr.j
+
+# sent_id = IBcBNY0FDYQUpE2diz70Pg4Hnjc
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren) mit jedem (anderen) Stein.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [54,23]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓇋𓈖𓂋𓊌	27560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnr
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBYCOO4etw982kZetqVauMDwsxs
+# corpus = sawmedizin
+# src_text_id = 7USDA2QTOZEKHKANKSDDZY7KXM
+# src_text = sawmedizin:Papyrus Ebers//53,1-55,1 ⸗ Eb 305-325: "Heilmittel gegen Husten"
+# owner = Lutz Popko
+# text_de = Und so sollst (du) (folglich) etwas Fett danach essen, von fettem Fleisch oder Öl/Fett.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,1]
+1	𓏶𓅓𓀁𓐍𓂋	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖𓎢𓏏𓏴	600036	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nkt
+4	𓈎𓈖𓐎	160900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qn
+5	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+6	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+9	𓆓𓂧𓄿𓏯𓏛	186080	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḏdꜣ
+10	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+11	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+

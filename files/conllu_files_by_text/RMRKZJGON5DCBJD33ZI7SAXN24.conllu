@@ -1,0 +1,60 @@
+# sent_id = IBUBd8ngF67a90Fdld7ZblFBrko
+# corpus = bbawgraeberspzt
+# src_text_id = RMRKZJGON5DCBJD33ZI7SAXN24
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 22 + T 23: PT 226
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [1]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBdwk0jgoRBkcykcUH0s1ldKk
+# corpus = bbawgraeberspzt
+# src_text_id = RMRKZJGON5DCBJD33ZI7SAXN24
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 22 + T 23: PT 226
+# owner = Doris Topmann
+# text_de = Die $nꜥw$-Schlange ist von der $nꜥw$-Schlange umschlungen worden, das saugende(?) Kälbchen, das von der Weide kam, ist umschlungen worden.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [1] -  [2]
+1	𓍲𓈖	155450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šni̯
+2	𓈖𓂝𓅱𓆙	80510	PROPN	entity-name	_	_	_	_	Translit=Nꜥw
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓈖𓂝𓅱𓆙	80510	PROPN	entity-name	_	_	_	_	Translit=Nꜥw
+5	𓍲𓈖	155450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šni̯
+6	𓃀𓎛𓋴𓊃𓃿	56890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bḥz
+7	𓆼𓃀𓅱𓈅	856167	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣb.w
+8	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓎛𓋴𓊪𓈈	109980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzp
+
+# sent_id = IBUBd0Td4gPBzkWGi7Gqf1qDyoo
+# corpus = bbawgraeberspzt
+# src_text_id = RMRKZJGON5DCBJD33ZI7SAXN24
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 22 + T 23: PT 226
+# owner = Doris Topmann
+# text_de = $hj.w$-Schlange, leg dich hin, kriech davon!
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [3]
+1	𓉔𓇋𓅱	97860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hj.w
+2	𓋴𓇥𓂋	150740	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḏr
+3	𓋴𓃀𓈖	131760	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zbn
+
+# sent_id = IBUBdQW5oYQAVEhzgumiigyPRyI
+# corpus = bbawgraeberspzt
+# src_text_id = RMRKZJGON5DCBJD33ZI7SAXN24
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 22 + T 23: PT 226
+# owner = Doris Topmann
+# text_de = Schlange, wende dich um/ab, damit Re dich sehe.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [3] -  [4]
+1	𓎛𓆑𓆙	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
+2	𓊪𓈖𓂝𓊜	59960	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=pnꜥ
+3	𓍿𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+4	𓌳𓁹	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+5	𓍿𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+6	𓇳𓏤𓊹	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+

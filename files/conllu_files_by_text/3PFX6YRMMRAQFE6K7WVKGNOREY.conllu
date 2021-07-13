@@ -1,0 +1,260 @@
+# sent_id = IBUBd2FaMeFcZECvi2WRB3oxzVQ
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Ein Opfer, das der König und Osiris geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓊩𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd4u2YWriUk90qQixhOwM9K8
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Sei gegrüßt, Osiris, Sohn der Nut, Herr der beiden Hörner, mit hoher Atef-Krone,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3]
+1	𓇋𓐩𓆓𓏛	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓅭	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+6	𓏌𓏏𓇯	80940	PROPN	entity-name	_	_	_	_	Translit=Nw.t
+7	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+8	𓄏𓄏	36250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥb
+9	𓈎𓄿𓀠	158990	ADJ	adjective	_	_	_	_	Translit=qꜣ
+10	𓋚𓏪	326	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣtf
+
+# sent_id = IBUBdQa7uoI1ekRuu6IZx2Cxqpg
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Herr der Ehrfurcht auf Den-beiden-Hügeln, groß an Schrecken in Rosetau,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6] - [A.7]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓅾	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈏𓈏	853167	PROPN	entity-name	Number=Dual|Status=Abs	_	_	_	Translit=Jꜣ.tj
+5	𓉻𓂝𓏛	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+6	𓈖𓂋𓅱𓅐𓏪	85170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nrw.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓏤𓍬𓍬𓍬𓈉	93110	PROPN	entity-name	_	_	_	_	Translit=Rʾ-sṯꜣ.w
+
+# sent_id = IBUBdwloQrUjCEfVgDQUzD9jZNE
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Herr der Würde in Heliopolis, Herr der Macht im Tjenenet-Heiligtum,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7] - [A.8]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓈙𓆑𓈙𓆑𓏏𓏛𓏥	154240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šfšf.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇓𓏏𓈖𓀔𓈖𓈖𓊖	84750	PROPN	entity-name	_	_	_	_	Translit=Nn-nswt
+5	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+6	𓏣	142140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫm
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓍿𓇑𓇑𓈖𓏏𓉐	176030	PROPN	entity-name	_	_	_	_	Translit=Ṯnn.t
+
+# sent_id = IBUBd9VIgQ6Zj0PRjxXgkMhbTFE
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = groß an Beliebtheit während des irdischen Lebens,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8]
+1	𓉻𓂝𓏛	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+2	𓌻𓂋𓅱𓏏	72650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrw.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁶𓏤𓇾𓈇𓏤	171330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp-tꜣ
+
+# sent_id = IBUBd0Scshvj5U6arhQcFt3ufn0
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Herr mit schönem Andenken im Gottespalast,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8] - [A.9]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓋴𓆼𓄿𓀁	141690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫꜣ.w
+3	𓄤	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉦𓏏	39890	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḥ.t
+6	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd2kgctcfQkQxmtbVv3chEMo
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = groß an Erscheinungen in Abydos,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓉻𓂝𓏛	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+2	𓈍𓂝𓅱𓏛𓏥	114840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜥ.w
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓍋𓈋𓃀	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBdwmVAzvFk0FriKuGXLBwe68
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = für den ein Gemetzel angerichtet wird in der großen Halle, die in Herwer ist,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.10]
+1	𓈎𓌳𓌙𓏛	854564	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=qmꜣ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄬𓏏𓏥	152300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥ.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎺𓏏𓉐	49870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wsḫ.t
+7	𓉻𓂝𓏏	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+8	𓇋𓏏𓏶	25130	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jm.j
+9	𓁷𓂋𓅨𓊖	107890	PROPN	entity-name	_	_	_	_	Translit=Ḥr-wr
+
+# sent_id = IBUBdxhvgUJdQ0rdvyMm4scjyL4
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = vor dem die großen Mächte erschaudern,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.10] - [A.11]
+1	𓈖𓂋𓂋𓅱𓂡	85070	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=nri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏣𓏪	142140	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫm
+5	𓉻𓂝𓏛𓏪	450158	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBd3YbstR4okg1jJGD8Er4il8
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = für den sich die Großen von ihren Matten erheben,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.11]
+1	𓊢𓅱𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ꜥḥꜥ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅨𓂋𓏥	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+5	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏏𓌳𓄿𓎅𓏪	172150	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=tmꜣ
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd5D0A52qMkWhpWgyLnUyuZg
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = dessen Furchtbarkeit Schu gegeben hat, dessen Würde Tefnut geschaffen hat,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.11] - [A.12]
+1	𓂋𓂞𓈖	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓆄𓅱𓀭	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+3	𓅾	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈎𓌳𓌙𓏛𓈖	854564	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=qmꜣ
+6	𓏏𓆑𓈖𓏏𓁐	171880	PROPN	entity-name	_	_	_	_	Translit=Tfn.t
+7	𓄆𓏏𓏥	154080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šf.yt
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd60sqmZLOEhMmUU0hMCy3gw
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = für den die beiden Landesheiligtümer von Ober- und Unterägypten in Verbeugung gekommen sind wegen der $wr$-Größe seiner Furchtbarkeit und der $ꜥꜣ.t$-Größe seiner Würde,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.12]
+1	𓇍𓈖	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jwi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓏏𓂋𓏏𓏭𓉐𓉐	33310	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=jtr.tj
+5	𓇗	154760	PROPN	entity-name	_	_	_	_	Translit=Šmꜥ.w
+6	𓇉	73940	PROPN	entity-name	_	_	_	_	Translit=Mḥ.w
+7	𓅓𓎢𓋴𓅱𓀓𓏪	_	X	unknown	_	_	_	_	_
+8	𓈖𓅨𓂋𓈖	450342	ADP	preposition	_	_	_	_	Translit=n-wr-n
+9	𓅾	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈖𓉻𓏏𓈖	857380	PART	particle	_	_	_	_	Translit=n-ꜥꜣ.t-n.t
+12	𓄆𓏏𓏥	154080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šf.yt
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQ2W9nLpQUxWueLDmiN8XUs
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Ein solcher ist Osiris, der Fürst der Götter, der große Mächtige des Himmels, Herrscher der Lebenden, König derer, die dort sind,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.13] - [A.15]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+4	𓇋𓍘𓇋𓇋𓀲	32930	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jty
+5	𓊹𓏪	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+6	𓏣	854304	_	epitheton-title	_	_	_	_	Translit=sḫm
+7	𓉻	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+10	𓋾𓈎𓀭	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓋹𓅱𓏪	400614	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥnḫ
+13	𓇓𓏏𓈖𓀲	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓈖𓏏𓅂𓏪	89890	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=n.tjw
+16	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdzYISq6RrUCDiVAnOafHvwY
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = den tausende in Alt-Kairo verklären,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.15] - [A.16]
+1	𓋴𓅜𓐍𓅱	127110	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=sꜣḫ
+2	𓆼𓏪	113110	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌨𓂋𓂚𓄿𓊖	124280	PROPN	entity-name	_	_	_	_	Translit=H̱r.j-ꜥḥꜣ
+
+# sent_id = IBUBdxvbgPRB8UjmqB9Gn0J0rnw
+# corpus = sawlit
+# src_text_id = 3PFX6YRMMRAQFE6K7WVKGNOREY
+# src_text = sawlit:Stele des Sobekhotep und Sobekiry (Louvre C 30)//〈Vorderseite: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = für den das Sonnenvolk in Heliopolis jubelt,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.16] - [A.17]
+1	𓎛𓂝𓂝𓀠	102060	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḥꜥi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇶𓅓𓅓𓏏𓀀𓁐𓏪	106750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnmm.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+

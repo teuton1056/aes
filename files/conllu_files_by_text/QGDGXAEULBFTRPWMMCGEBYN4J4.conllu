@@ -1,0 +1,144 @@
+# sent_id = IBUBd9jyqpwTREq0oDj3EF06ELY
+# corpus = bbawhistbiospzt
+# src_text_id = QGDGXAEULBFTRPWMMCGEBYN4J4
+# src_text = bbawhistbiospzt:fragmentarische Stele des Piye//Stehender König (ausgehackt) nach links überreicht Schmuckstücke
+# owner = Silke Grallert
+# text_de = Amun von Napata gab mir, Herrscher über jedes Fremdland zu sein.
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [17] - [18]
+1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇋𓏠𓈖𓈖𓈗𓊖𓊪	862766	PROPN	entity-name	_	_	_	_	Translit=Jmn-Npyt
+5	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓋾𓀯	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓈉	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+9	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd1fYKbYVR0Eck7MSoQDEVL4
+# corpus = bbawhistbiospzt
+# src_text_id = QGDGXAEULBFTRPWMMCGEBYN4J4
+# src_text = bbawhistbiospzt:fragmentarische Stele des Piye//Stehender König (ausgehackt) nach links überreicht Schmuckstücke
+# owner = Silke Grallert
+# text_de = Der(jenige), zu dem ich sage:
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [18]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+3	𓏏𓅱𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxsKtXTzk0Gvqk7UGhkfjho
+# corpus = bbawhistbiospzt
+# src_text_id = QGDGXAEULBFTRPWMMCGEBYN4J4
+# src_text = bbawhistbiospzt:fragmentarische Stele des Piye//Stehender König (ausgehackt) nach links überreicht Schmuckstücke
+# owner = Silke Grallert
+# text_de = Amun in Theben gab mir, zu herrschen über das Schwarze Land (⸗ Ägypten).
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [19]
+1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇋𓏠𓈖𓐝𓌀𓏏𓊖	862767	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-Wꜣs.t
+5	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓋾𓀭	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓆎𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+
+# sent_id = IBUBd6B2Q2V0pkPKpHa1KZejEMA
+# corpus = bbawhistbiospzt
+# src_text_id = QGDGXAEULBFTRPWMMCGEBYN4J4
+# src_text = bbawhistbiospzt:fragmentarische Stele des Piye//Stehender König (ausgehackt) nach links überreicht Schmuckstücke
+# owner = Silke Grallert
+# text_de = 'Erscheine nicht (als Fürst)!', er erscheint nicht (als Fürst).
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [20]
+1	𓅓𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓈍	114740	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜥi̯
+3	𓃀	55130	PART	particle	_	_	_	_	Translit=bw
+4	𓁹	851809	VERB	verb	_	_	_	_	Translit=jri̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈍	114740	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜥi̯
+
+# sent_id = IBUBd4dPLs4QukkQpoonHxnah6s
+# corpus = bbawhistbiospzt
+# src_text_id = QGDGXAEULBFTRPWMMCGEBYN4J4
+# src_text = bbawhistbiospzt:fragmentarische Stele des Piye//Stehender König (ausgehackt) nach links überreicht Schmuckstücke
+# owner = Silke Grallert
+# text_de = Jeder, dem ich mein Gesicht (freundlich) zuwende,
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [20] - [21]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+3	𓏏𓅱	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+4	𓏙	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓀀	_	_	_	_	_	_	_	_
+6	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBdzB9oH6XCE7tiBktQuFIToY
+# corpus = bbawhistbiospzt
+# src_text_id = QGDGXAEULBFTRPWMMCGEBYN4J4
+# src_text = bbawhistbiospzt:fragmentarische Stele des Piye//Stehender König (ausgehackt) nach links überreicht Schmuckstücke
+# owner = Silke Grallert
+# text_de = keine Art des Zerstörens seiner Stadt gibt es, sogar wenn es nicht in meiner Hand ist.
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [21] - [22]
+1	𓅓𓈖𓂜	69560	PART	particle	_	_	_	_	Translit=mn
+2	𓈎𓀾	159670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qj
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓐍𓆑𓊊	63970	VERB	verb	VerbForm=Fin	_	_	_	Translit=fḫ
+5	𓅮𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂧𓊖𓏇	179330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dmj
+8	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+10	𓇓	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+11	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+13	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+14	𓇋𓈖𓄿𓀁	26700	PART	particle	_	_	_	_	Translit=jn
+
+# sent_id = IBUBd9KR4gsBekB0uSDvNZzjPFQ
+# corpus = bbawhistbiospzt
+# src_text_id = QGDGXAEULBFTRPWMMCGEBYN4J4
+# src_text = bbawhistbiospzt:fragmentarische Stele des Piye//Stehender König (ausgehackt) nach links überreicht Schmuckstücke
+# owner = Silke Grallert
+# text_de = Amun (aber) ist es, der mich schuf.
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [23]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏠𓈖	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+3	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+
+# sent_id = IBUBdwucWPUlo0iKoNZ6rq1ZKW4
+# corpus = bbawhistbiospzt
+# src_text_id = QGDGXAEULBFTRPWMMCGEBYN4J4
+# src_text = bbawhistbiospzt:fragmentarische Stele des Piye//Stehender König (ausgehackt) nach links überreicht Schmuckstücke
+# owner = Silke Grallert
+# text_de = $[Schutzformel im Rücken des Königs]$: Leben und Schutz sind hinter dir wie Re täglich.
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [24]
+1	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓎃	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+3	𓈖𓇉	600068	ADP	preposition	_	_	_	_	Translit=n-ḥꜣ
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓇳𓏤	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+7	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+

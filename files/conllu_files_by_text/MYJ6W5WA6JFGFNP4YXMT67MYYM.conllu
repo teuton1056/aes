@@ -1,0 +1,652 @@
+# sent_id = IBcCJjwrROK6l0jjry1q2oQawbs
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Jeder ⸢Gott soll⸣ dich ⸢verfluchen⸣.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 1,1]
+1	𓋴𓎛𓅨𓂋𓀁	140600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥwr
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBcCJoFdxMsgP0AIlB3fVVcFRxg
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Re soll dich verfluchen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 1,6]
+1	𓋴𓎛𓅨𓂋𓀁	140600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥwr
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅯𓄿𓂋𓂝𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBcCJm8EMJtFzkqpuWPE4BRW1BY
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde daran gegeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 1,8]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCJuWV6tRJcE9UmfTHRZnefEc
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Eine andere (Beschwörung):
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 1,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+
+# sent_id = IBcCJQfOa24MaEYQsqrNoQvHJu4
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Eine [andere] Beschwörung:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 3,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCJQr2oIat80aajSWdiiShuWo
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Was die Elite ⸢der Leute⸣ betrifft, die du mit dir gebracht hast, um zu kämpfen, sie haben ihre verdorbenen Weiber (?) verlassen, sie sind geflohen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 4,1] - [vs. 4,2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓍉𓊪𓏛	148170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=stp.w
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂋𓎀𓀀𓏥𓁐	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+6	𓏎𓈖𓈖	26870	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jni̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓂚𓄿𓀜	39920	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
+12	𓆼𓄿𓂝𓂻	113560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣꜥ
+13	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+14	𓈖𓄿𓇋𓇋𓏫	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+15	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+16	𓈖𓄿𓂓𓏏𓏲𓁐	874925	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nk.t
+17	𓋴𓏏𓏫	851209	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+18	𓅱𓂝𓂋𓏏𓂾𓂻	44680	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜥr
+
+# sent_id = IBcCJ93NHrJDDE50kVw14t8ExuM
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Komm heraus, Achu, komm heraus!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 4,2] - [vs. 4,3]
+1	𓅓𓂝𓇋𓏏𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓂋𓃀𓏲𓈖𓏥𓂋𓏲𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓂝𓐍𓏲𓐎	40610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḫ.w
+5	𓅓𓂝𓇋𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+6	𓂋𓃀𓏲𓈖𓏥𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+
+# sent_id = IBcCJ5pJ2Bw65kb7m929QiRM4Wo
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Deine Augen sollen erblinden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 4,3]
+1	𓎢𓄿𓏠𓈖𓁻	163570	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣmn
+2	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+3	𓎢𓏭	851169	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗kj
+
+# sent_id = IBcCJyI0K7ijEk52liHssPbgOnc
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde zerrieben zu einer einheitlichen Masse.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 4,8]
+1	𓐩𓏌𓂡	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓏤𓏏	44150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCJ4UpY5Ek6kaChOb1xVbnBlQ
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde daran gegeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 4,8]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCJzjjAjHON0k5glZA1E4t81Y
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Eine andere (Beschwörung):
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 4,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCJ4PjCYQS6kRWoazNrOV3TCE
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Siehe, ich habe dich überwunden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 4,10]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓄂𓏏𓏤	100310	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCJ7euJ7KUjkQFkoSS2RiKuwA
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = ⸢Ebenso habe ich begonnen dich zu überwinden, oh Achu⸣, der du ergriffen bist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 4,10] - [vs. 5,1]
+1	𓆷𓄿𓈖𓏛𓈖	851685	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šꜣꜥ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓄂𓏏𓏤	100310	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.t
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+7	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+8	𓂝𓐍𓏲𓐎	40610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḫ.w
+9	𓈖𓇥𓂋𓀜	91670	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=nḏri̯
+
+# sent_id = IBcCJQItLAJIZ0xvnqDy63xMCHc
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Ich habe deine Mutter erschaffen, indem sie schwanger war mit dir.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 5,1]
+1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅓𓏏𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+6	𓃛𓏲𓅨𓂋𓁒	22930	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=jwr
+7	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCJ5LWU3lQR0r8oitfLucK0Ic
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Wegen der Schlange ist es, der, die dir der Gott auferlegt hatte.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 5,2]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎛𓆑𓄫𓏲𓆙	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓂋𓂝𓈖	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+10	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBcCJxfHsAJrqUAjkvyOI1y3vlU
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Der Meißel der Anat soll an deine Schläfe gegeben werden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 5,6]
+1	𓂞𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓏛𓏏𓏤𓈔	78480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏꜣ.t
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂝𓈖𓍘𓇋𓅆	38980	PROPN	entity-name	_	_	_	_	Translit=ꜥnt
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓌷𓂝𓄹	66530	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mꜣꜥ
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCJQ3FuPn1YUGmjWuaecxcQfo
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = ⸢Eine andere (Beschwörung)⸣:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 5,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCJzdPEzIlr0gwnzOEKHWfW4g
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Los, [du] sollst dich von hier wegmachen, oh Samanu!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 7,2]
+1	𓅓𓂝𓇋𓏏𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓂋𓏲𓇋𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+5	𓂧𓏭𓈐	177830	ADV	adverb	_	_	_	_	Translit=dy
+6	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+7	𓐠𓏤𓅓𓂝𓏲𓈖𓄿𓐎	135190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=smn
+
+# sent_id = IBcCJ3w8tLfCQkWmuik11EC1yw4
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Folge der Feder, die in meiner Hand ist, nach draußen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 7,2]
+1	𓅓𓂝𓇋𓏏𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+3	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+4	𓎔𓂝𓎛𓏏𓆃	73500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḥ.t
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓂋𓃀𓏲𓈖𓏥𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+
+# sent_id = IBcCJybyWBeQtk0fgPIWES9mnyw
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Ich bin Seth!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 7,3]
+1	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓃫𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+
+# sent_id = IBcCJ5loeQr1zUAwtq726ZtXtw8
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde zerrieben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 7,4]
+1	𓐩𓏌𓂡𓊮	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcCKKRIzKlgaUu8g5UzDphWxDE
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Eine andere (Beschwörung):
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 7,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCKIgmaFz010BztLCsgAfvCac
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = ⸢Der Löwe⸣ brüllt in dir.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 7,7] - [vs. 7,8]
+1	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓌳𓄿𓇋𓏲𓄛𓏤	66370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣj
+3	𓈖𓉔𓏲𓈖𓉔𓏲𓃫𓀁	85630	VERB	verb	VerbForm=Fin	_	_	_	Translit=nhmhm
+4	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCKAeXLb6TgUc3qElHkQCHgmQ
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Siehe, Re wartet auf dich, um aufzugehen, Atum, um unterzugehen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 9,2]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓇋𓆛𓈖𓂻	128360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sjni̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓂋𓂝𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓏲𓃀𓈖𓇳	854500	VERB	verb	VerbForm=Fin	_	_	_	Translit=wbn
+9	𓏏𓍃𓅓𓏲𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓊵𓏏𓊪𓏲𓏛	111230	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥtp
+
+# sent_id = IBcCKKWrWk8yA0zRtABYwvOWX30
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Bist du gekommen um die ⸢Sonnenscheibe⸣ fernzuhalten, um die Leere anschwellen (?) zu lassen?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 9,11]
+1	𓇋𓈖𓇋𓏲	550032	PART	particle	_	_	_	_	Translit=jn-jw
+2	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓁷𓂋𓀜	108340	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥri̯
+6	𓇋𓏏𓈖𓇳𓅆	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓇋𓈙𓆑𓏛	154160	VERB	verb	VerbForm=Fin	_	_	_	Translit=šfu̯
+9	𓆄𓏲𓏏𓅪𓏥	450167	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t
+
+# sent_id = IBcCKCESVzCXWkhHuWIdW6ks9pQ
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Du sollst dich entfernen aus dem Arm des NN, den die NN geboren hat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 9,12]
+1	𓂋𓏲𓇋𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎼𓄿𓃀𓂢𓏤𓄹	166900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gbꜣ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+8	𓏯𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+9	𓏠𓈖𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcCKPF3cnO1WU6Fu96kSaQRud4
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Deine Gifte / Giftzähne sollen nicht darin bleiben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 9,12]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+3	𓈖𓈙𓆑𓏲𓀜𓏫	852795	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nšf
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCKIdFMlFMBksuqQw5b6VzARA
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde zerrieben zu einer einheitlichen Masse.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 10,1]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCKD4jiBdSf0BogXnmmOZA3DA
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde damit verbunden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 10,1] - [vs. 10,2]
+1	𓐎𓏏𓏲𓀜	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓎼𓄿𓃀𓂢𓏤𓄹	166900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gbꜣ
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCKLNxFUXLzUKii1gcXW5r8LI
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Sehr gut!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 10,2]
+1	𓄤𓄤	83800	ADJ	adjective	_	_	_	_	Translit=nfr-nfr
+
+# sent_id = IBcCKEP28YQWH0owpU69R9MvOIQ
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Die Wüsten sollen dich trinken, wenn sie verdorrt sind.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 12,1]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+4	𓈉𓏏𓏤𓏫𓌙𓀀𓁐𓏥𓈉	114300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣs.t
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+7	𓍑𓄿𓅓𓂝𓏏𓅪𓏥	184050	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḏmꜥ
+
+# sent_id = IBcCKEimQyQ9c0hQvbJxbFQ2zXU
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Speit den Achu, der in euch ist, hinaus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 15,1]
+1	𓃀𓈙𓂐	57600	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=bši̯
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓂝𓐍𓏲𓐎	40610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḫ.w
+4	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓂋𓃀𓏲𓈖𓏥𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+
+# sent_id = IBcCKFJyaFWTVkT5hKSzvGFWk9U
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Man soll gegen dich schlagen mit einer Matte, die ich gefertigt habe.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 18,1]
+1	𓎛𓏏𓀜𓏷𓀜𓇋𓇋	854530	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=ḥwi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌡𓂝𓏤𓀀𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+6	𓊪𓊃𓈙𓏏𓏴𓎅	62300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=psš.t
+7	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCKNLoEgXqokWonHMFVC9wXIc
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde zerrieben in Wein: 1.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 19,1]
+1	𓐩𓏌𓂡	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓂋𓊪𓏲𓈗𓏊𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcCKPZWWp9SL0YLg5pm2k2eT1A
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde daran gegeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 19,1]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCKCsRFHeChkoagjUbk4Dm9Z8
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Eine andere (Beschwörung):
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 19,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCKIjExFjT4UzSgP4Q00Z4elE
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Die Krankheitsauslöser(?) sollen auf ihre Gesichter fallen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 23,1]
+1	𓐍𓂋𓀒	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
+2	𓏲𓐍𓂧𓏲𓐎𓏥	863792	PROPN	entity-name	_	_	_	_	Translit=Wḫd.w
+3	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+4	𓁷𓏤𓏫	107510	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥr
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcCKBxs8cIyeU9QswytDn1BuWI
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Der, der alle schlechten und bösen Dinge gegen ihn tat, in der Nacht, am Tag, zu jeder Zeit, seine Füße sollen sich umwenden, seine Schritte sollen attackiert (?) werden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 24,1] - [vs. 24,2]
+1	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+3	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓃀𓇋𓈖𓅪	54605	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=bjn
+7	𓈋𓏲𓏏𓅪𓏥	182840	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḏw
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓎼𓂋𓎛𓇰	167920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓈖𓍇𓏌𓏲𓇳	80840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw
+14	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+15	𓂝𓈖𓈖𓂽	38040	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnn
+16	𓂋𓂧𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+17	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+18	𓏏𓃀𓏏𓃀𓏲𓏱	858677	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbdb
+19	𓂻𓏏𓏥	84510	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nmt.t
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCKMSQ79uKE0LMvGZxBAgix5k
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Denn du hast die Schritte des Horus attackiert, du hast dort die Schritte des Jachu verletzt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 24,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓈞𓅓𓀜𓈖	86430	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂻𓏏𓏥	84510	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nmt.t
+5	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+6	𓋴𓐠𓄿𓏏𓂿𓅪𓈖	127960	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sjꜣṯ
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+9	𓂻𓏏𓏥	84510	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nmt.t
+10	𓇶𓏲𓅆	854996	_	epitheton-title	_	_	_	_	Translit=jꜣḫ.w
+
+# sent_id = IBcCKLs7WYwH2EuUq52gFQjD7mA
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Spruch zum Fallen des Wassers:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 25,1]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓉔𓄿𓇋𓇋𓏏𓂻	97350	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣi̯
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcCKLIHGL7kNUEEktQs05SP0XE
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Ich bin $Bṯḥ$, die Frau des Horus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 25,3]
+1	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅡𓏤𓅷𓏤𓄑𓏛𓆗	874910	PROPN	entity-name	_	_	_	_	Translit=Bṯḥ
+3	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥm.t
+4	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBcCKG84zNRE40VohfY0Pf2vzpU
+# corpus = sawmedizin
+# src_text_id = MYJ6W5WA6JFGFNP4YXMT67MYYM
+# src_text = sawmedizin:Papyrus Leiden I 343 + I 345//〈Verso: 〉 Magisch-Medizinischer Text
+# owner = Marc Brose
+# text_de = Eine andere (Beschwörung):
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [vs. 25,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+

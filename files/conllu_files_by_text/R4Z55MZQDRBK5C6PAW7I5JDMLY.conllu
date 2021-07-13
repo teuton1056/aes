@@ -1,0 +1,30 @@
+# sent_id = IBUBd0appWx54E4vt32FcKg5LWU
+# corpus = sawlit
+# src_text_id = R4Z55MZQDRBK5C6PAW7I5JDMLY
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,5-5,9: Werbung für den Schreiberberuf
+# owner = Lutz Popko
+# text_de = Alle seine Unternehmungen sind hart.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 5,6]
+1	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sḫr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+4	𓇥𓂋𓇋𓏲𓏛𓀜	850133	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏri̯
+
+# sent_id = IBUBd8AkVrkh40rFsNplzlnkc2g
+# corpus = sawlit
+# src_text_id = R4Z55MZQDRBK5C6PAW7I5JDMLY
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,5-5,9: Werbung für den Schreiberberuf
+# owner = Lutz Popko
+# text_de = Man packt den Besten von ihnen (wörtl.: seinen Guten).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 5,7]
+1	𓏏𓏲𓏏𓏲	851206	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗tw
+2	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓅷𓄿𓂷𓂡	174260	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯꜣi̯
+4	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓄤𓆑𓂋	83500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nfr
+

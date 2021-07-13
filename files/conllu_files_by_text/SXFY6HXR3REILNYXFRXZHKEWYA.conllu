@@ -1,0 +1,29 @@
+# sent_id = IBUBd8AiUvY0GUrMmrzVwnjhm2I
+# corpus = sawlit
+# src_text_id = SXFY6HXR3REILNYXFRXZHKEWYA
+# src_text = sawlit:〈Harfnerlieder Text N: 〉Sul (Saqqara)//Harfnerlieder Text N
+# owner = Lutz Popko
+# text_de = dein Grab ist in Anchtaui.
+# findspot = unknown
+# date = NK
+# lineRef = [2]
+1	𓁷𓏏𓈀	107640	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr.t
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋹𓈖𓐍𓇾𓇾𓈉	70026	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ-Tꜣ.wj
+
+# sent_id = IBUBdxOv4FhcMUJOmtqjzVFdMms
+# corpus = sawlit
+# src_text_id = SXFY6HXR3REILNYXFRXZHKEWYA
+# src_text = sawlit:〈Harfnerlieder Text N: 〉Sul (Saqqara)//Harfnerlieder Text N
+# owner = Lutz Popko
+# text_de = Dein Ba möge in ihm (dem Grab oder dem Westen) ruhen!
+# findspot = unknown
+# date = NK
+# lineRef = [3] - [4]
+1	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+2	𓊸𓅡	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓐝𓏌𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

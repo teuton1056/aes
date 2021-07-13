@@ -1,0 +1,321 @@
+# sent_id = IBUBdzKYRE7GNk9flaAQST8Auvk
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was one wise and clever, one who knew his rank, loyal to the one who distinguished him, the keeper of property, Senwosret, justified.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [A5] - [A6]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊃𓐠𓄿	126160	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜣꜣ
+3	𓋴𓃀𓈎	132120	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sbq
+4	𓂋𓐍𓏛	95620	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫ
+5	𓊨𓏏𓂾	125360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t-rd
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓐥	78770	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mḏd
+8	𓈐𓏏	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓋴𓏠𓈖𓐍𓍊	135360	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smnḫ
+11	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+12	𓀸𓐍𓏏	28700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jr.j-jḫ.t
+13	𓄊𓋴𓂋𓏏𓊃𓈖𓀀	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+14	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBdydBIRQuD0Vjon5xq1i9YQA
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May he give praise to Osiris.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [A6]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓄿𓀢	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓊨𓁹𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBdy7grVUrQ02OoaV56e7ak0g
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Ehefrau, die er liebt, Zenet, die Gerechtfertigte.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [B1]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓈖𓏏𓏕	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+6	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBd17uhWNBc0PQtmwcyYIFcNM
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Hetepy, justified.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [C2]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓊵𓊪𓏏𓇋𓇋	400200	PROPN	entity-name	_	_	_	_	Translit=Ḥtpy
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd6cOQ7s42Uehse28jb2EBBI
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Senwosret, justified.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [C3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd6WdiMsQO01AgZE9GbdX9dU
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Benit, justified.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [C5]
+1	𓏏𓅭	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓈖𓇜𓇋𓏏	712097	PROPN	entity-name	_	_	_	_	Translit=Bnj.t
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBdzV5viVwW070kHjjogD8IW0
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Iri, justified.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [C6]
+1	𓏏𓅭	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓁹𓇋	200004	PROPN	entity-name	_	_	_	_	Translit=Jrj
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBd5QzClFR1k2inuF2lQAUJ5M
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = It is his son Senwosret who perpetuates his name.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [D1]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+5	𓋴𓋹	128910	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜥnḫ
+6	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0wIAwfoyUWVpUHqWhOCAtw
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Dedetnebu.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [D2]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋞𓈒𓏥𓂞𓂞𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdQ31MmxSI0Uiod8edotB33E
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The servant Dedetnebu.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [D4]
+1	𓍛𓏏𓏤	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓋞𓂞𓂞𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdwFj0ycuoUUPtt1qtVKc4XQ
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Her son Senwosret.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [D5]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+
+# sent_id = IBUBdzMIWyzSOk1WgsGv3bV1qDk
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Daughter of Ybeb. (?)
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [D6]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zꜣ.t
+2	𓇋𓇋𓃀𓃀	859786	PROPN	entity-name	_	_	_	_	Translit=Ybb
+
+# sent_id = IBUBdxJRugEslUTnr1V7Ambdfwc
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Dag〈et〉.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [D7]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂧𓄿𓎼𓁶	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5JPmGVWpUB2nNZCqjoWhcY
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Itiankh.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [D8]
+1	𓇋𓏏𓆑𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6sMUEaaFUJOnytcpaFGgOI
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The brewer Senwosret. Senwosret. Hetepi.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [E.1.1] - [E.1.3]
+1	𓀪𓏏𓏭	37440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥf.tj
+2	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+4	𓎛𓊵𓏏𓊪𓇋	400054	PROPN	entity-name	_	_	_	_	Translit=Ḥtpj
+
+# sent_id = IBUBdQNI1rn1C0oIuWKNJISFZHI
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The washerman Redisebek. The brewer Mentuhotep. Itiankh.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [E.2.1] - [E.2.3]
+1	𓅬𓏏𓏭	95930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫt.j
+2	𓆍𓂋𓂞	_	X	unknown	_	_	_	_	_
+3	𓀪𓏏𓏭	37440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥf.tj
+4	𓏠𓈖𓏏𓅱𓊵𓏏𓊪	400025	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w-ḥtp.w
+5	𓇋𓏏𓆑𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8Si4vCQRkAfqx1xzc1y250
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Ankhu. The asiatic woman Dedetamun. Her daughter Renefankh.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [E.3.1] - [E.3.3]
+1	𓋹𓈖𓐍𓅱	400209	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ.w
+2	𓉻𓂝𓄿𓅓𓏏𓌙	35410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣm.t
+3	𓇋𓏠𓈖𓂞𓂞	_	X	unknown	_	_	_	_	_
+4	𓏏𓅭	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓂋𓈖𓆑𓋹	400528	PROPN	entity-name	_	_	_	_	Translit=Rn⸗f-ꜥnḫ.w
+
+# sent_id = IBUBd6HzO7UOZE2zozHnWezfd5I
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Hetepy. Senwosret. Senwosret.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [E.4.1] - [E.4.3]
+1	𓎛𓊵𓏏𓊪𓇋𓇋	400200	PROPN	entity-name	_	_	_	_	Translit=Ḥtpy
+2	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+
+# sent_id = IBUBdQD34jJJbkmilGGTbCWLk2c
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Benit. Benit. Her son Hetepy.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [E.5.1] - [E.5.3]
+1	𓃀𓈖𓂋𓇜𓇋𓏏	712097	PROPN	entity-name	_	_	_	_	Translit=Bnj.t
+2	𓃀𓈖𓂋𓇜𓈖𓇋𓏏	712097	PROPN	entity-name	_	_	_	_	Translit=Bnj.t
+3	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓎛𓊵𓏏𓊪𓇋𓇋	400200	PROPN	entity-name	_	_	_	_	Translit=Ḥtpy
+
+# sent_id = IBUBd88epNp75EirrccjVPPndWs
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Servant of the king Senwosret. The butler Hetepy. The worker (?) Senwosret.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [E.6.1] - [E.6.3]
+1	𓇓𓍛	851166	_	epitheton-title	_	_	_	_	Translit=ḥm-nswt
+2	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+3	𓏊𓅱	51600	_	epitheton-title	_	_	_	_	Translit=wdp.w
+4	𓎛𓊵𓏏𓊪𓇋𓇋	400200	PROPN	entity-name	_	_	_	_	Translit=Ḥtpy
+5	𓂓𓇋𓇋	859747	_	epitheton-title	_	_	_	_	Translit=kꜣ.wj
+6	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+
+# sent_id = IBUBd3DHArxmFkeWunz094WHa50
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Satamun. Her daughter In. Her son Hetepy.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [E.7.1] - [E.7.3]
+1	𓇋𓏠𓈖𓅭𓏏	706074	PROPN	entity-name	_	_	_	_	Translit=Zꜣ.t-Jmn
+2	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓇋𓆛𓈖	_	X	unknown	_	_	_	_	_
+5	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓎛𓊵𓏏𓊪𓇋𓇋	400200	PROPN	entity-name	_	_	_	_	Translit=Ḥtpy
+
+# sent_id = IBUBdzgQk1LD8UKWmkX8oj5p30E
+# corpus = sawlit
+# src_text_id = FDPGSYHSOFGJ5GR2K4FUXWB6GE
+# src_text = sawlit:Stele des Senwosret (Louvre C 170 ⸗ E 3110)//〈Stele des Senwosret (Louvre C 170 ⸗ E 3110)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Senwosret. Satkau. Satamun.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [E.8.1] - [E.8.3]
+1	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+2	𓂸𓃒𓏥𓅭𓏏	_	X	unknown	_	_	_	_	_
+3	𓇋𓏠𓈖𓅭𓏏	706074	PROPN	entity-name	_	_	_	_	Translit=Zꜣ.t-Jmn
+

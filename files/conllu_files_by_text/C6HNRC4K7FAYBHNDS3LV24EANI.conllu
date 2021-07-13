@@ -1,0 +1,921 @@
+# sent_id = IBUBd7mQ25iA90OCtUXgpNYtAGA
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Du sollst loseilen; hole uns Saatgut aus der Siedlung!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2,9]
+1	𓎛𓆰𓈖𓏌𓏲𓂾𓂻	854531	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥn
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏎𓈖	26870	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jni̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+6	𓉐𓂋𓏏𓏯𓌾𓏥	60310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓂧𓏇𓇋𓏏𓈇𓏤𓊖	179330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dmj
+
+# sent_id = IBUBd6UFnBQRCkCtsqfLGM7idJ4
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Geh und öffne den Speicher und hole dir, was du möchtest (wörtl.: das, was in deinem Herzen ist)!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3,1] - [3,2]
+1	𓇋𓀀𓈝𓅓𓏏𓂻	154340	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šmi̯
+2	𓇋𓀀𓃹𓈖𓉿𓂡	46060	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wn
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓅓𓂝𓌨𓂋𓇋𓏏𓉐	74650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mẖr
+5	𓅓𓏏𓏲	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓏎𓈖	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+11	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQZXOsJ6FED4s7kbIHhZQgg
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Siehe aber, du bist zu mir wie (wörtl.: in der Art) eine Mutter!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3,9] - [3,10]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+3	𓎢𓏭𓏛	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏏𓏲𓁐	851202	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗(t)
+5	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓅐𓏏𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+
+# sent_id = IBUBd0hIn8LLz0UEphO3UOrS8Ck
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Und dein Ehemann ist zu mir wie (wörtl. in der Art) ein Vater.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3,10]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+3	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓉔𓄿𓇋𓇋𓂺𓏛	97770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hj
+5	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴𓐍𓂋𓏲𓏛	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+
+# sent_id = IBUBdWpe0lhn1USYqFNkAOprVQY
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Erwähne es mir (gegenüber) nicht wieder!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4,1]
+1	𓅓𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓆓𓂧𓏏𓏲	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓂝𓈖𓂻	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBd9lrPLuNS0VkmzPayeBvDJE
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Und ich werde es (auch) niemandem (wörtl.: nicht einem) sagen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4,1]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+3	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆓𓂧𓏏𓏲	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd8UukBqSokRSiD2i45oEZ9s
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Dann sagte sie zu ihm:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4,10]
+1	𓊢𓂝𓂻	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4ZrVj5qUkYJhvpEzywa67Y
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "(Es) hat sich keiner mit mir gestritten außer dein kleiner Bruder.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4,10] - [5,1]
+1	𓃀𓏲𓊪𓏲	600038	PART	particle	_	_	_	_	Translit=bw-pw
+2	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+3	𓌃𓂧𓏏𓏯𓀁	78140	VERB	verb	VerbForm=Fin	_	_	_	Translit=mdwi̯
+4	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+5	𓁐	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓁷𓂋𓏲𓈐	109000	ADP	preposition	_	_	_	_	Translit=ḥr.w
+7	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+10	𓅪	600257	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šrj
+
+# sent_id = IBUBdx8qjDsStUWBjjWBvrbxirg
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = 'Komm, halten wir ein (Schäfer)stünd(chen), schlafen wir (miteinander)!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5,1]
+1	𓅓𓂝𓇋𓏏𓂻𓁐	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnw.t
+5	𓋴𓇥𓂋𓁀	150740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏr
+6	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+
+# sent_id = IBUBd5lggqwew08YogDVRyhxeoU
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = 'Bin ich nicht (wie) deine Mutter?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5,2]
+1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+2	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+3	𓇋𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+4	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+
+# sent_id = IBUBd0u1PjZZa0OQrvZjU4wijEg
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Wenn du also zulässt, dass er (weiter)lebt, dann werde ich mich umbringen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5,3]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓁐	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓅓𓏏𓏱	69300	VERB	verb	VerbForm=Fin	_	_	_	Translit=mwt
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓁐	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdwxlaioTqU3CjYaus5nd8Mo
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Dann ließ er seinen Speer schärfen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓂧𓅓𓏲𓌫𓂡𓏏𓏲	852332	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dm
+6	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈖𓂢𓏲𓇋𓇋𓈔	80060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=njw.y
+
+# sent_id = IBUBd70EIpwLpEPcnguFHVMT6hw
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Siehe, dein großer Bruder steht vor dir mit seinem Speer, um dich zu töten!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5,8] - [5,9]
+1	𓅓	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎡𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+6	𓉻𓏛	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+7	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+8	𓂋𓄂𓏏𓏤𓏏𓏲	500053	ADP	preposition	_	_	_	_	Translit=r-ḥꜣ.t
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓌨𓂋𓏭𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+11	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓈖𓂢𓏲𓇋𓇋𓈔	80060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=njw.y
+14	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+15	𓄡𓂧𓏲𓃀𓏲𓌫𓂡	124950	VERB	verb	VerbForm=Fin	_	_	_	Translit=ẖdb
+16	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6lmFSUj60W9n9w53GsqhjU
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Du solltest vor ihm fliehen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5,9]
+1	𓂋𓏲𓇋𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓂋𓄂𓏏𓏤	500053	ADP	preposition	_	_	_	_	Translit=r-ḥꜣ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8GrKVf4y0KdqLWmonUES4U
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Bleib dort stehen bis zum Morgen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6,9]
+1	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥḥꜥ
+2	𓂧𓏭𓈐	177830	ADV	adverb	_	_	_	_	Translit=dy
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓌉𓆓𓇳𓇾𓏤𓈇	112630	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥḏ-tꜣ
+
+# sent_id = IBUBdWE7GqUCRkUChWrOKSk4xjA
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Ich werde nicht an dem (gleichen) Ort sein, an dem (auch) du bist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7,2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆣𓂋𓏲	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+8	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋴𓈖𓏥	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBdWdAoojWokSPhmiyIQ6djfI
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Ich bin doch (nicht nur der angebliche Verführer deiner Frau, sondern) auch dein kleiner Bruder!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7,4]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓇋𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+3	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+6	𓅪	600257	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šrj
+7	𓅓𓂋𓂝𓏤	64970	ADV	adverb	_	_	_	_	Translit=m-rʾ-ꜥ
+
+# sent_id = IBUBdxgFm2mHdEeGjQ36P7pIu9s
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Du bist doch zu mir wie ein (wörtl.: nach Art eines) Vater!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7,4] - [7,5]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓏏𓏲𓎡	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+3	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+
+# sent_id = IBUBdxxLvQQ5nkEdpUwQLXvN5U0
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Deine Frau ist doch zu mir wie eine (wörtl.: nach Art einer) Mutter!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7,5]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+5	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴𓐍𓂋𓏲𓏛	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓅐𓏏𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+
+# sent_id = IBUBd5fyQtzUqUs3iHFu8SZOTqI
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Ist (es) nicht (so)?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7,5]
+1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+2	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+
+# sent_id = IBUBd11AdVzaWEfZlBF3eEKcBrM
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = 'Komm, halten wir ein (Schäfer)stünd(chen), schlafen wir (miteinander)!'
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7,6]
+1	𓅓𓂝𓇋𓏭𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnw.t
+5	𓋴𓇥𓂋𓁀	150740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏr
+6	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+
+# sent_id = IBUBd1zuSQQ7s0Dom0Hdt3OtSzc
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = (weil) er wegen der Krokodile nicht dorthin überzusetzen wusste, wo sein kleiner Bruder war.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓍑𓄿𓇋𓇋𓊛	181780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+7	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+8	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+11	𓅪	600257	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šrj
+12	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+13	𓅓𓇥𓂋	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+14	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+15	𓅓𓋴𓎛𓅱𓆊𓏥	75590	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mzḥ
+
+# sent_id = IBUBd3EUmmaJYUW0ueVcGQQQl4Y
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Wenn du dich nun an etwas Schlechtes erinnerst, kannst du dich nicht (auch) an etwas Gutes erinnern oder an irgendeine Sache, die ich für dich getan habe?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8,2]
+1	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓋴𓆼𓄿𓇋𓇋𓀁	141620	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=sḫꜣ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓌡𓂝𓏤𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+6	𓃀𓇋𓈖𓅪	54620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjn
+7	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+8	𓃀𓏲	55130	PART	particle	_	_	_	_	Translit=bw
+9	𓁹𓂋𓏲	851809	VERB	verb	_	_	_	_	Translit=jri̯
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓋴𓆼𓄿𓇋𓇋𓀁	141620	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫꜣ
+12	𓌡𓂝𓏤𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+13	𓄤𓆑𓂋	83510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nfr
+14	𓅓𓂋𓏤𓊪𓏲𓏛	600585	ADV	adverb	_	_	_	_	Translit=m-rʾ-pw
+15	𓌡𓂝𓏤𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+16	𓈖𓎢𓏏𓏴𓏛𓏥	600036	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nkt
+17	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+18	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+19	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+20	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+21	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+22	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd9wOE9Tw3ELysOhBGtq4FFs
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Da gelangte er zu seinem Haus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8,7]
+1	𓄭𓂋𓂻	132830	VERB	verb	VerbForm=Fin	_	_	_	Translit=spr
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+
+# sent_id = IBUBdQThdg1ZukZOiqBwYkdMSWo
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Da ging er aus seiner Burg hinaus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9,2]
+1	𓉐𓂋𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓃀𓐍𓈖𓏌𓏲𓉐	57030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bḫn
+
+# sent_id = IBUBd7j5cnZHP0A5mcYxMHPLjcY
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Siehe, seine Frau ist getötet worden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9,5]
+1	𓊪𓏏𓂋𓇋𓆵𓁻	62910	INTJ	interjection	_	_	_	_	Translit=ptr
+2	𓄡𓂧𓃀𓏲𓌫𓂡	124950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖdb
+3	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+
+# sent_id = IBUBd85UNHXT5UMdhNw3X3RDifQ
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Ach forme doch bitte eine Frau für Bata, damit er nicht alleine wohnt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9,6] - [9,7]
+1	𓇋𓐍𓏛	30730	PART	particle	_	_	_	_	Translit=jḫ
+2	𓀨𓀜	162420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qd
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓌡𓂝𓏤𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+5	𓊃𓏏𓁐𓈞𓏏𓁐	125370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z.t-ḥm.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓅡𓏤𓏏𓏐𓏒𓏥𓅆	850439	PROPN	entity-name	_	_	_	_	Translit=Bꜣtꜣ
+8	𓏏𓍃𓅓𓏛	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+9	𓎢	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓈞𓊃𓀕	105780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥmsi̯
+11	𓌡𓂝𓏤𓅪	44350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜥi̯
+
+# sent_id = IBUBdy0eSvuPO07CrSmPBXAMfpI
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Geh nicht hinaus, damit das Meer (sc. der Meeresgott Jam) dich nicht ergreift!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10,1] - [10,2]
+1	𓅓𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓉐𓂋𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+3	𓂋𓃀𓏲𓈖𓏥𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+4	𓏏𓍃𓅓𓏏	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓇋𓇋𓅓𓂝𓏏𓈗𓈘𓈇	24730	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ym
+7	𓇋𓅷𓄿𓂷𓂡	33530	VERB	verb	VerbForm=Fin	_	_	_	Translit=jṯꜣ
+8	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBdxEz4xCwZUzwq3I4P07yinE
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Die junge Frau ging hinaus, um unter der Tanne, die neben ihrem Haus war, spazieren zu gehen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10,5]
+1	𓉐𓂋𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+5	𓂝𓆓𓂧𓏲𓀔𓁐	42300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥḏd.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓐪𓂧𓏌𓏲𓂾𓂻𓏥	162530	VERB	verb	VerbForm=Fin	_	_	_	Translit=qdi̯
+8	𓌨𓂋𓏭𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+9	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+10	𓂝𓈙𓐎𓆮	40940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥš
+11	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+12	𓂋𓐛𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+13	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+14	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+15	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+
+# sent_id = IBUBd3QhUULnRUD6kd1tVWoSrns
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Ergreife sie mir!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10,7]
+1	𓇋𓀁𓎔𓏛	854514	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mḥ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd0vtqv65B03jp0rxHwGouWc
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Salbenduft ist in den Kleidern Pharaos - LHG!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10,10]
+1	𓋴𓏏𓏭𓐎𓏥	148990	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sṯj
+2	𓋴𓎼𓈖𓈖𓏋𓏫	147240	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sgnn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+5	𓎛𓃀𓋴𓏲𓍱𓏥	103750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥbs
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓉻𓉐𓉐𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+8	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBdW0fHqcWdUvylVEu019t68Q
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Dann brachte man sie ihm.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏎𓈖	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzfWkxcfnUfonjBrVuyYNA0
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Lass Boten in jedes Land gehen, um sie zu suchen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11,5] - [11,6]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈝𓅓𓏏𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+3	𓄋𓊪𓏲𓏏𓏴𓂾𓂻𓏥	45760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wpw.tj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓏲𓆼𓄿𓐍𓂻	49120	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḫꜣ
+9	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBdxCra2jBWUiwkWefn39HZS8
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Da sagte Seine Majestät - LHG:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11,7]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBdzFM7cDA1EYPm3VmO6VzDWw
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Veranlasse, dass die Tanne 〈ge〉fällt 〈wird〉 und dass man sie zerhackt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12,4]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈙𓂝𓂧𓄦𓌫𓂡	152600	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šꜥd
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓂝𓈙𓐎𓆮	40940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥš
+5	𓅓𓏏𓏲	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+6	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓋴𓎝𓎡𓎝𓎡𓏴𓂡	147010	VERB	verb	VerbForm=Fin	_	_	_	Translit=sksk
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7UyI5GQeEVDkujquqWDFG0
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = ohne es zu finden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅠𓅓𓏛	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7lGRkon4kjKmU1xCGMif1A
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Und dies war das Herz seines kleinen Bruders!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13,8]
+1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+2	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+8	𓅪	600257	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šrj
+9	𓅯𓄿𓏭	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+
+# sent_id = IBUBd3lYv2vPwEacr9eeU2HuebU
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Das ist ein großes Wunder, das (wörtl.: indem es) geschehen ist!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [15,4]
+1	𓃀𓏲𓇋𓄿𓇋𓇋𓏏𓏯𓏛𓏥	54480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.yt
+2	𓉻𓏏𓏛	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+3	𓏏𓄿𓏭	851662	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣj
+4	𓆣𓂋𓏲𓍘𓇋	858535	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+
+# sent_id = IBUBd0n7XFnwzUiDrKs0jsVMBIg
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Siehe, ich bin (immer) noch am Leben!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [15,8]
+1	𓊪𓏏𓂋𓇋𓆵𓁻	62910	INTJ	interjection	_	_	_	_	Translit=ptr
+2	𓏏𓏲𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+3	𓋹𓈖𓐍𓎢𓏲𓀀	38530	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+4	𓅓𓂋𓂝𓏤	64970	ADV	adverb	_	_	_	_	Translit=m-rʾ-ꜥ
+
+# sent_id = IBUBdyxSbHwaQkfHiNurUkhrtxM
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Ich bin Bata.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [15,9]
+1	𓇋𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅡𓏤𓏏𓏐𓏒𓏥𓅆	850439	PROPN	entity-name	_	_	_	_	Translit=Bꜣtꜣ
+
+# sent_id = IBUBd9HQjD0ezUZ8g9YfW8QxCt4
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Siehe, ich bin dennoch am Leben, wobei ich ein Stier bin."
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [15,10] - [16,1]
+1	𓊪𓏏𓂋𓇋𓆵𓁻	62910	INTJ	interjection	_	_	_	_	Translit=ptr
+2	𓏏𓏲𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+3	𓋹𓈖𓐍𓎢𓏲𓀀	38530	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+4	𓅓𓂋𓂝𓏤	64970	ADV	adverb	_	_	_	_	Translit=m-rʾ-ꜥ
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓃒	162930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+
+# sent_id = IBUBdxCWWyHtzEUqpQw3SgPLyPw
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = (er) solle ihr (wörtl.: mir) bei Gott einen Eid leisten, dass,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [16,3]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓂝𓂋𓈎𓏲𓍼𓏤	854608	NOUN	substantive	VerbForm=Fin	_	_	_	Translit=ꜥrq
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓅓𓆓𓂧	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+
+# sent_id = IBUBdQXnMYYFb0tQheekagnfJJA
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = was (auch immer) sie (wörtl.: du) sagen werde, er (wörtl.: ich) ihr darin gehorchen werde.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [16,3] - [16,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓀀	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓄔𓅓𓏛	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+15	𓊃𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBdWQyJYpXu0Yoi7EQtuDVYWw
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "He du Lügnerin!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [17,6]
+1	𓉔𓄿𓀁	97240	INTJ	interjection	_	_	_	_	Translit=hꜣ
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓎼𓂋𓍅𓏛𓅪𓏥	168100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=grg.t
+
+# sent_id = IBUBdz4MDFUX8EhCuaoXuUzcid4
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Ich bin Bata!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [17,6] - [17,7]
+1	𓇋𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅡𓏤𓏏𓏐𓏒𓏥𓅆	850439	PROPN	entity-name	_	_	_	_	Translit=Bꜣtꜣ
+
+# sent_id = IBUBd53Q8jT61ElaktzFACQzN9Q
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Ich lebe dir zu Trotz (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [17,7]
+1	𓏏𓏲𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+2	𓋹𓈖𓐍𓎢𓏲𓀀	38530	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+3	𓐍𓃀𓅯𓄿𓐎𓂡𓏏𓏲	_	X	unknown	_	_	_	_	_
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBd5hO2ls39kiBkGLjxixWM5w
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Leiste mir bei Gott einen Eid mit den Worten:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [17,9] - [17,10]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓂝𓂋𓈎𓏲𓍼𓏤	854608	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥrq
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓁐	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓅓𓆓𓂧	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+
+# sent_id = IBUBd8DBTO8vp07VuFBJ1Rh7uck
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Da sah es die Königsgemahlin, die Edelfrau.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [18,3] - [18,4]
+1	𓊢𓂝𓂻	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓊪𓏏𓂋𓇋𓆵𓁻	62900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ptr
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓇓𓏏𓈖𓅆𓈞𓏏𓁐𓅆	400334	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥm.t-nswt
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓀻𓋴𓏭𓁐	169300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šps.t
+
+# sent_id = IBUBd9P6FGqMvE8tsD0tkWa2tv0
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Man hat dir einen Sohn geboren."
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [18,7] - [18,8]
+1	𓄟𓋴𓇋𓇋𓁑	74950	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=msi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓌡𓂝𓏥𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+6	𓅭𓏤𓅷𓄿𓇋𓇋𓂺𓏛	126150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-ṯꜣ.y
+
+# sent_id = IBUBd9frCvpyeUhLnUQfcfWHaSk
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = "Lasst mir die hohen Beamten Seiner Majestät - LHG - holen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [19,4]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓏎𓈖𓏏𓏲	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈖𓄿𓇋𓇋𓏥	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓀙𓅱𓀀𓏥	138920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sr
+8	𓉻𓂝𓄿𓇋𓇋𓏲𓏛𓏥	450158	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥꜣ
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd7fKl0cwSkcjvgAQDmERMXc
+# corpus = sawlit
+# src_text_id = C6HNRC4K7FAYBHNDS3LV24EANI
+# src_text = sawlit:pD'Orbiney ⸗ pBM EA 10183//Recto: Das Zweibrüdermärchen
+# owner = Lutz Popko
+# text_de = Ich will sie von allen Angelegenheiten, die mit mir geschehen sind, wissen lassen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [19,4] - [19,5]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂝𓌴𓄿𓅓𓏲𓁻	37500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+4	𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫr
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+8	𓆣𓂋𓏲	858535	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+9	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+

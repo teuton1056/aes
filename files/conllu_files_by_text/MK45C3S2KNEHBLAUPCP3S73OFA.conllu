@@ -1,0 +1,50 @@
+# sent_id = IBUBd2YWQ9IKYEIeoRv78PJWZlU
+# corpus = sawlit
+# src_text_id = MK45C3S2KNEHBLAUPCP3S73OFA
+# src_text = sawlit:Stele des Ameny (Kairo CG 20546)//〈Stele des Ameny (Kairo CG 20546)〉
+# owner = Alexander Schütze
+# text_de = Seine Ehefrau, die er liebt, die macht, was er lobt, die Priesterin der Hathor, Renefanch, die Anchetren geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1] - [B.2]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓎛𓎿𓊃𓊃𓏏	109620	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḥzi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓉡𓊹𓍛	400979	_	epitheton-title	_	_	_	_	Translit=ḥm.t-nṯr-Ḥw.t-Ḥr.w
+9	𓂋𓈖𓆑𓋹𓈖𓐍	400528	PROPN	entity-name	_	_	_	_	Translit=Rn⸗f-ꜥnḫ.w
+10	𓄟𓋴𓏏𓈖	74950	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=msi̯
+11	𓋹𓈖𓐍𓏏𓂋𓈖	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd94lWId6iUYhsaJQxjZbCUo
+# corpus = sawlit
+# src_text_id = MK45C3S2KNEHBLAUPCP3S73OFA
+# src_text = sawlit:Stele des Ameny (Kairo CG 20546)//〈Stele des Ameny (Kairo CG 20546)〉
+# owner = Alexander Schütze
+# text_de = Der Iripat und Hatia, der Große der Großen, der Ausgezeichnete der Bekannten, der Älteste vor dem Rechit-Volk, der Generalissimus, Imeny.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5] - [B.6]
+1	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+2	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+3	𓅨𓂋𓅨𓅨𓅨	401053	_	epitheton-title	_	_	_	_	Translit=wr-wr.w
+4	𓋴𓂝𓎛𓃶𓋴𓍋𓀀𓏥	861094	_	epitheton-title	_	_	_	_	Translit=sꜥḥ-smr.w
+5	𓋴𓂋𓀚𓅓𓄂𓏏𓏤𓂋𓐍𓇋𓇋𓏏𓅚𓏥	852731	_	epitheton-title	_	_	_	_	Translit=sr-m-ḥꜣ.t-rḫ.yt
+6	𓅓𓂋𓀎𓏥𓅨𓂋	854242	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-mšꜥ-wr
+7	𓇋𓏠𓈖𓇋𓇋	400002	PROPN	entity-name	_	_	_	_	Translit=Jmny
+
+# sent_id = IBUBd2yZkUBlBEemitJqAX9HGow
+# corpus = sawlit
+# src_text_id = MK45C3S2KNEHBLAUPCP3S73OFA
+# src_text = sawlit:Stele des Ameny (Kairo CG 20546)//〈Stele des Ameny (Kairo CG 20546)〉
+# owner = Alexander Schütze
+# text_de = Der Schlächter (?) Imeny.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓆭𓏏𓏮	854261	_	epitheton-title	_	_	_	_	Translit=zfṯ
+2	𓇋𓏠𓈖𓇋𓇋	400002	PROPN	entity-name	_	_	_	_	Translit=Jmny
+

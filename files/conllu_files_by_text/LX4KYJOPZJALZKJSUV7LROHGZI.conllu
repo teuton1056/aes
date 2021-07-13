@@ -1,0 +1,344 @@
+# sent_id = IBUBdxtOQ0eOukIZlUtdcSNbEnc
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who is given thanks for completion when the inspection is made long by sacred cows in the presence of the great Djadjat council.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓇼	854584	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=dwꜣ
+2	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆎𓏏	164450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=km.t
+6	𓐍𓏏𓆑	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+7	𓋴𓍯𓎛𓎝	129860	VERB	verb	VerbForm=Fin	_	_	_	Translit=swꜣḥ
+8	𓌴𓁹𓅱	66280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣꜣ
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓅨𓂋𓏏𓃒𓏥	47440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wr.t
+11	𓐍𓏏𓆑𓁷𓏤	116790	ADP	preposition	_	_	_	_	Translit=ḫft-ḥr
+12	𓍑𓍑𓏏𓏳𓏥	182390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣḏꜣ.t
+13	𓉻𓏏	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBdQLuWd6zUUjShKkFsppvaJA
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one learned in judging between two men.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓋴𓃀𓇼𓅱𓀁	131210	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=sbꜣ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐣𓌪	52360	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜥ
+4	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd7iK94FRq0eKuuxQRV6o9D4
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = who is sent because of his being considered efficient,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.10]
+1	𓉔𓃀𓂻	97580	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=hꜣb
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓏠𓈖𓐍𓍊	71080	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mnḫ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBd03WXFonAEwGq2PsRbS8Qms
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = who bends his arm to his superiors,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.12]
+1	𓐍𓄿𓂘	113820	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜣb
+2	𓂢𓏤𓄼𓏤	854523	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rmn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓇯𓏥𓁶𓏤	108900	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥr.j-tp
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6GFJdrqRUQlvElnDfNhZ8c
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who follows the way without going astray,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.13]
+1	𓌞𓅓	155000	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šms
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓂟𓍿𓈖𓈐	77960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mṯn
+4	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+5	𓆓𓈖𓃀𓏴𓂻	_	X	unknown	VerbForm=Fin	_	_	_	_
+
+# sent_id = IBUBd8j5ykYEhUmqi8IO0n8CB68
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the dignified chamberlain Antef, begotten of Senet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.14]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓄓𓏤𓂝𓄚𓏌𓏏𓏭	400016	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜥ-ẖn.wtj
+3	𓏎𓈖𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+4	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓊃𓈖𓏏𓏕	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+
+# sent_id = IBUBd26vFEQ1O0aQjlWDuQ8WmDo
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His father Sebekwenu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆍𓃹𓈖𓏌𓏤	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd4bN85GEAUbegfUgWn6mI28
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His wife Hepu;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓊪𓐑𓅱	400218	PROPN	entity-name	_	_	_	_	Translit=Ḥpw
+
+# sent_id = IBUBd0nTlDesdUqHvrqTbsCYth4
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his sister Senet;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓌢𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊃𓈖𓏏	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+
+# sent_id = IBUBd2aDIFmhMULlotW3WG9oDhc
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his sister Senu;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓌢𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌢𓌢𓌢	706815	PROPN	entity-name	_	_	_	_	Translit=Sn.w
+
+# sent_id = IBUBdw45Jdni10K9gNMy8GWt1Hc
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his sister Antef;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓌢𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏎𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBdWfrgvw0t0PHh4S57QNMOqI
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his brother Wehenu(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅱𓎛𓏌𓇋	_	_	_	_	_	_	_	_
+
+# sent_id = IBUBdyeycPoz20eMrQCvI6nLzX0
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother Senuankh;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.6]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌢𓏪𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd2mfTVMtyUAQipWJVKv13XE
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his sister Inu;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.7]
+1	𓌢𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓆛𓈖𓏌𓏤	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd2GdM3LLCkvtlOVuW7SNtus
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his sister Nebetmut;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.8]
+1	𓌢𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎟𓅐𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdWCYMsjwqkyLhb2wSNQxTVs
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his brother Itiankh;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.9]
+1	𓌢	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏏𓆑𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd49eyyG2nkzjq6Dg4TORKHs
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his brother Sebekwenu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.10]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆍𓃹𓈖𓏌𓏤	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzW9gCzzYEnCmvYeEf20C9k
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother Senuankh;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌢𓏪𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdWAXPPOL9EBtuYW0jQQxA7E
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his brother Montuwosre;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏠𓈖𓅱𓏏𓄊𓋴	400206	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w-wsr.w
+
+# sent_id = IBUBd6uWUPIGcUkeriDgvWr0i0w
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his brother Ankef;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.3]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂣𓈖𓎡𓆑	400765	PROPN	entity-name	_	_	_	_	Translit=ꜥnk⸗f
+
+# sent_id = IBUBd3lXyzvMJ0cJr2Rou7jXju0
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = his brother Senbeb.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.4]
+1	𓌢	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓈖𓃀𓃀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd1QPo7NEAUA2iSL1RRXoJLc
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother Sainheret;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.5]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑𓏤	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏎𓈐𓅭	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdycAcdQpNksroZhI5Jl77wg
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the attendant Antef;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.6]
+1	𓌞𓅱	155030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+2	𓏎𓈖𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBdW8k6VX6u05shyliipp43Qk
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the brewer Antef;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.7]
+1	𓀪𓏏𓏭	37440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥf.tj
+2	𓏎𓈖𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBd74iXgfE5EyJmKWvvYf4ayU
+# corpus = sawlit
+# src_text_id = LX4KYJOPZJALZKJSUV7LROHGZI
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 572)//〈Stele des Antef, Sohn der Senet (BM EA 572)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the nurse (?) Isen (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.8]
+1	𓄿𓏏	336	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣṯ.yt
+2	𓇋𓊃𓈖	_	_	_	_	_	_	_	_
+

@@ -6,6 +6,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [41]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd1CtUd8BXU1ynJn0fMJcfNY
@@ -16,6 +17,7 @@
 # text_de = Die Türflügel des Himmels sind geöffnet/öffnen sich für Patjenfi, den Gerechtfertigten.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [41]
 1	𓃹𓈖	46060	VERB	verb	_	_	_	_	Translit=wn
 2	𓉿𓉿	34810	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=ꜥꜣ
 3	𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
@@ -31,6 +33,7 @@
 # text_de = Die Türflügel der Erde sind für ihn aufgetan/tun sich für ihn auf.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [41] - [42]
 1	𓊃𓈙𓉿	144300	VERB	verb	_	_	_	_	Translit=zš
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -45,6 +48,7 @@
 # text_de = Die Riegel des Geb sind für ihn geöffnet/öffnen sich für ihn.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [42]
 1	𓃹𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -59,6 +63,7 @@
 # text_de = Patjenfi, der Gerechtfertigte, ist es, der ihn/sich löst.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [43]
 1	𓇋𓋔	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
 3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
@@ -73,6 +78,7 @@
 # text_de = Der Mund des Pelikans ist aufgetan/tut sich auf für Patjenfi, den Gerechtfertigten.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [45] - [46]
 1	𓊃𓈙𓉿	136070	VERB	verb	_	_	_	_	Translit=zn
 2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rʾ
 3	𓎛𓈖𓏏𓍿	106020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥn.t
@@ -88,6 +94,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [24]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd3Wr7XDsQUANgqgIq24gHY8
@@ -98,6 +105,7 @@
 # text_de = 〈Worte〉 sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [27]
 1	𓆓	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd5i2XMIkxUQVtMDZR9bmVwg
@@ -108,6 +116,7 @@
 # text_de = Die 'Tänzerin' ist es, die dich zu mir gebracht hat.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [27] -  [28]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓇋𓃀𓅡𓇋𓇋𓏏𓅨	23570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jbꜣ.yt
 3	𓏎𓈖𓏏	26870	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=jni̯
@@ -123,6 +132,7 @@
 # text_de = Ich werde du sein, indem ich fest bin/dauere.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [29]
 1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -138,6 +148,7 @@
 # text_de = Großer Gott, bahne mir den Weg, damit ich auf ihm vorbeigehe.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [29] -  [30]
 1	𓊹𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
 2	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -156,6 +167,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [24]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdztcX00PBUtTqTdHCUy0dWk
@@ -166,6 +178,7 @@
 # text_de = Falle, kriech davon!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓇋𓐍𓂋𓀜	119610	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫr
 2	𓋴𓃀𓈖	131760	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zbn
 
@@ -177,6 +190,7 @@
 # text_de = 'Die Preisende'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓎛𓎡𓏌𓏏	500676	PROPN	entity-name	_	_	_	_	Translit=Ḥkn.t
 
 # sent_id = IBUBd0KRzFczPEuav9Qg9QVtmNE
@@ -187,6 +201,7 @@
 # text_de = 'Herrin der Wahrheit'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓎟𓐙𓏏	82120	_	epitheton-title	_	_	_	_	Translit=nb.t-mꜣꜥ.t
 
 # sent_id = IBUBdW9qckmfEkqehuIOKlwx6aw
@@ -197,6 +212,7 @@
 # text_de = 'Unterweltliche'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓇼𓄿𓅱𓏏𓉐𓏏	500928	PROPN	entity-name	_	_	_	_	Translit=Dwꜣ.tjt
 
 # sent_id = IBUBdxDGMgQD80Ufl3NCWQrkMQk
@@ -207,6 +223,7 @@
 # text_de = 'Oberhaupt der Kas'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓁷𓂋𓁶𓏤𓂓𓏥	500930	PROPN	entity-name	_	_	_	_	Translit=Ḥr.jt-tp-kꜣ.w
 
 # sent_id = IBUBdxP8eTJH505QpBVOfNP10pE
@@ -217,6 +234,7 @@
 # text_de = 'Die Rechte'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓋀𓏏𓏏	500929	PROPN	entity-name	_	_	_	_	Translit=Wnm.t
 
 # sent_id = IBUBdWlWV50trU5fklZ85xdLrh0
@@ -227,6 +245,7 @@
 # text_de = 'Tait'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓏏𓍔𓄿𓏏	169440	PROPN	entity-name	_	_	_	_	Translit=Tꜣj.t
 
 # sent_id = IBUBd9QkdrdWXEsssXNhWCGcrl4
@@ -237,6 +256,7 @@
 # text_de = 'Die die Gestalten schafft'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓁹𓁹𓇋𓅱𓏛𓏥	500933	PROPN	entity-name	_	_	_	_	Translit=Jr.t-jr.ww
 
 # sent_id = IBUBd1AH7BhlYUVqseIWofXl81Y
@@ -247,6 +267,7 @@
 # text_de = 'Die Lebende'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓋹𓈖𓏏𓏏	38730	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ.t
 
 # sent_id = IBUBdyFbAGFnfEr5qJJNqjds8RY
@@ -257,6 +278,7 @@
 # text_de = 'Die Bringende'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓀞𓍿𓏏𓏭	861712	_	epitheton-title	_	_	_	_	Translit=jn.t
 
 # sent_id = IBUBd8PdiWhvYUvGiRpYy23o110
@@ -267,6 +289,7 @@
 # text_de = Den Gott preisen, viermal.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [88]
 1	𓇼	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
 2	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
 3	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
@@ -280,6 +303,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [21]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdy98zEnJ8Ec5mNdH0qXkQGs
@@ -290,6 +314,7 @@
 # text_de = Dein Knochen ist eine Harpunenspitze(?), so daß du harpuniert wirst(?).
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [21] - [22]
 1	𓌟	162200	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qs
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓈎𓋴𓌟	162190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qs
@@ -304,6 +329,7 @@
 # text_de = Die Herzen sind gehemmt.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [22]
 1	𓄣𓄣𓄣	23290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jb
 2	𓇥𓂋𓃭	184570	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏr
 
@@ -315,6 +341,7 @@
 # text_de = Die Nomaden(?), die in $mtꜣ$ sind, sind zu Fall gebracht worden.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [22]
 1	𓉺𓉺𓉺	22690	PROPN	entity-name	_	_	_	_	Translit=Jwn.tjw
 2	𓇋𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
 3	𓐝𓏏𓍔𓄿𓀭	77390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mtꜣ
@@ -328,6 +355,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [17]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd2achSKbq0rOjgoQAMOxj80
@@ -338,6 +366,7 @@
 # text_de = 'Die die Bas der Götter preist, die Millionen erblickt'.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [24]
 1	𓋴𓎛𓂝𓅢𓊹𓊹𓊹𓊪𓏏𓂋𓁻𓁨	861272	PROPN	entity-name	_	_	_	_	Translit=Sḥꜥ.t-bꜣ.w-nṯr.w-ptr.t-ḥḥ
 
 # sent_id = IBUBd9WgmoNEMUYbhrQiUOsCdiE
@@ -348,6 +377,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [41]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd4AmkknR4U8tnM1bGIQ7XlU
@@ -358,6 +388,7 @@
 # text_de = Re erscheint, vereint mit dem Auge des Atum, sehend mit seinem Auge, seiner $wrr.t$-Krone.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [41] - [42]
 1	𓈍𓂝	114740	VERB	verb	_	_	_	_	Translit=ḫꜥi̯
 2	𓇳	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
 3	𓅓𓏛	123420	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ẖnm
@@ -379,6 +410,7 @@
 # text_de = Du bist dadurch zum Herrscher aller Länder geworden.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [42] - [43]
 1	𓋾𓈎𓈖	110340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥqꜣ
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓇾	854573	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tꜣ
@@ -393,6 +425,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd3L61r4IRU1mqot9vzmSud8
@@ -403,6 +436,7 @@
 # text_de = Deine Schwester Nephthys kommt zu dir, die Schwester in/aus Geheset, damit sie dir deinen Kopf anknüpfe, damit sie dir deine Knochen zusammenfüge, damit sie dir deine Glieder vereinige.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1] - [2]
 1	𓇋𓇋	21930	VERB	verb	_	_	_	_	Translit=jwi̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -439,6 +473,7 @@
 # text_de = Sie gibt Luft an deine Nase, damit du lebst.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [2]
 1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
 3	𓊡	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
@@ -456,6 +491,7 @@
 # text_de = Der Schreiber 〈des Gottesbuches〉.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓏞𓅱𓈙𓈖	600377	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-mḏꜣ.t-nṯr
 
 # sent_id = IBUBdy0VTCyrjEyymX8DU9VhKl0
@@ -466,6 +502,7 @@
 # text_de = 'Herrin des Ansehens im Haus'.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [8]
 1	𓎟𓆑𓄫𓅓𓉞	861328	PROPN	entity-name	_	_	_	_	Translit=Nb.t-fꜣ.w-m-ḥw.t
 
 # sent_id = IBUBdxrUwpLiz0JIodqnmvafTEc
@@ -476,6 +513,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [49]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd0JxNQIC7EaWsL2gIkPdfVU
@@ -486,6 +524,7 @@
 # text_de = Der Horusdiener, Diener des 'Goldes', Wirkliche Königsbekannte, den er liebt, Patjenfi, der Gerechtfertigte.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [54] - [55]
 1	𓍛𓅃	858869	_	epitheton-title	_	_	_	_	Translit=ḥm-Ḥr.w
 2	𓍛𓋞𓏏	861262	_	epitheton-title	_	_	_	_	Translit=ḥm-nbw
 3	𓇓𓏏𓈖𓂋𓐍𓐙𓌳𓂝	859712	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt-mꜣꜥ
@@ -502,6 +541,7 @@
 # text_de = Morgendlicher Gott, gib mir den Weg frei, damit ich Re im Schönen Westen anbete.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [28] - [29]
 1	𓊹𓏤𓇼𓀭	851596	PROPN	entity-name	_	_	_	_	Translit=nṯr-dwꜣ.j
 2	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -522,6 +562,7 @@
 # text_de = Ein Gesicht ist auf ein Gesicht gefallen, ein Gesicht hat auf ein Gesicht gesehen.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [30]
 1	𓐍𓂋𓂻	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
 2	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -539,6 +580,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [57]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd58e5227oUMZrtcyGwpufsY
@@ -549,6 +591,7 @@
 # text_de = Re erscheint, der Stier der Maat, Herr der Erscheinungen, mehr als die Götter, Einherr, Lenker der Beiden Länder.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [57] - [58]
 1	𓈍𓂝𓀭𓏪	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
 2	𓂋	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
 3	𓂓𓏤𓂸𓐙𓌳𓂝𓏏	861276	_	epitheton-title	_	_	_	_	Translit=kꜣ-Mꜣꜥ.t
@@ -566,6 +609,7 @@
 # text_de = Wie schön ist dein Erscheinen, Re!
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [61]
 1	𓄤	854519	VERB	verb	_	_	_	_	Translit=nfr
 2	𓅱	10010	PART	particle	_	_	_	_	Translit=⸗wj
 3	𓈍𓂝𓏛𓏥	114840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜥ.w
@@ -580,6 +624,7 @@
 # text_de = Ein Königsopfer des Osiris, des Herrn von Busiris, des Großen Gottes, des Herrn von Abydos:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓇓𓏏𓏙𓊵	111510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥtp-ḏi̯-nswt
 2	𓁹𓊨𓊹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
 3	𓎟𓊽𓂧𓊖𓅱	400982	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w
@@ -594,6 +639,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [65]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd0sw4YiUv0GXkSxmHK4AZXw
@@ -604,6 +650,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd53pWQIm0EPFq5vGNjVmBiY
@@ -614,6 +661,7 @@
 # text_de = Mögest du mich über Wasser verfügen lassen wie (über) die Glieder des Seth.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [3] - [4]
 1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓌂𓅓𓂡	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
@@ -632,6 +680,7 @@
 # text_de = Ich bin es, der den Himmel überquert.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓍑𓄿𓊛	181780	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏꜣi̯
 3	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
@@ -644,6 +693,7 @@
 # text_de = Ich bin 'Löwe'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓃭𓏤𓀭	500396	PROPN	entity-name	_	_	_	_	Translit=Rw
 
@@ -655,6 +705,7 @@
 # text_de = Ich bin Re, der {$stm$} 〈Wildstier〉.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓇳𓏤𓊹	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
 3	𓋴𓏏𓅓𓀭	854781	PROPN	entity-name	_	_	_	_	Translit=Smꜣ
@@ -667,6 +718,7 @@
 # text_de = Ich habe Keule gegessen.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4] - [5]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓏶𓅓𓀁𓈖	46710	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -680,6 +732,7 @@
 # text_de = Ich habe den Vorderschenkel verzehrt.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓍑𓄿𓏴𓏏𓈖	181780	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -693,6 +746,7 @@
 # text_de = Ich habe die Inseln des Binsengefildes durchzogen.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂋𓂋𓂻𓈖	61900	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -708,6 +762,7 @@
 # text_de = Mir ist Ewigkeit, die keine Grenzen hat, gegeben.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [6]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂋𓂝𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -725,6 +780,7 @@
 # text_de = Denn ich bin ja der Erbe der $nḥḥ$-Ewigkeit, dem die $ḏ.t$-Ewigkeit gegeben ist.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [6] - [7]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
 3	𓃛𓄯𓅱	22460	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jwꜥ.w
@@ -742,6 +798,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdyegWYYPx0LCh1Ej1qrNN7I
@@ -752,6 +809,7 @@
 # text_de = Komm - zweimal - zu deinem Ba.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [3.2]
 1	𓇍𓇋𓂻	21930	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jwi̯
 2	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -766,6 +824,7 @@
 # text_de = Einziger, Kollege der beiden Götter (?), der die Menschen versorgt(?).
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [3.2] - [12]
 1	𓌡𓏤𓂝	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
 2	𓌢𓈖𓏌	550359	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sn.nw
 3	𓊹𓊹	851539	_	epitheton-title	_	_	_	_	Translit=nṯr.wj
@@ -780,6 +839,7 @@
 # text_de = Ich gehöre nicht zum Gau des Schweigens.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [13]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
 3	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
@@ -793,6 +853,7 @@
 # owner = Doris Topmann
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [13] - [14]
 1	𓋴𓇥𓂋𓈖	_	_	_	_	_	_	_	_
 2	𓇿𓏤𓈅	_	_	_	_	_	_	_	_
 3	𓊪𓈖	_	_	_	_	_	_	_	_
@@ -808,6 +869,7 @@
 # text_de = Nut.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [2]
 1	𓏌𓏏𓇯	80940	PROPN	entity-name	_	_	_	_	Translit=Nw.t
 
 # sent_id = IBUBdW3mTg6FEUCAvQlu0VCyfJ0
@@ -818,6 +880,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdwnKfdLcnEzPlttJIoMKgUo
@@ -828,6 +891,7 @@
 # text_de = Du vereinigst dich mit dem 'Der seines Gesichts beraubt ist'(?).
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓄥𓅓	134180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zmꜣ
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -841,6 +905,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd0alGQYKQkdjkmTMfOz5TDs
@@ -851,6 +916,7 @@
 # text_de = Auf dein Gesicht, (du,) der auf seiner Windung(?) ist!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
 2	𓁷	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -866,6 +932,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [Z1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdwpe143LQUWPmIsaRYgJn3o
@@ -876,6 +943,7 @@
 # text_de = O ihr Götter, die Feuer speien für Osiris an der Spitze der Unterwelt mit der Flamme, die in ihren Mäulern ist!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [Z1]
 1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
 2	𓊹𓏏𓂋𓀭𓏪	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
 3	𓇋𓊪𓈖	24430	PRON	pronoun	PronType=Dem	_	_	_	Translit=jpn
@@ -897,6 +965,7 @@
 # text_de = - Sie verschlucken ihre Flammen (wieder), nachdem dieser große Gott an ihnen vorbeigezogen ist. -
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [Z1]
 1	𓂢𓐝	37500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
 2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓃀𓋴𓅱𓊮𓏪	856590	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=bz
@@ -917,6 +986,7 @@
 # text_de = Eure Flamme sei auf seinen Feinden.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [Z2]
 1	𓈖𓊃𓂋𓏏𓊮	88300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nsr.t
 2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -931,6 +1001,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd2Naw179xUcEo0GV5NcOcsI
@@ -941,6 +1012,7 @@
 # text_de = Die Höhle öffnet sich/ist geöffnet für die, die im Nun sind;
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [2]
 1	𓃹𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
 2	𓊪𓏏𓎛𓉐	175280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯpḥ.t
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -955,6 +1027,7 @@
 # text_de = weit ist das Schreiten derer, die im Lichtglanz sind.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [2] - [3]
 1	𓊪𓂧𓌒	63170	VERB	verb	_	_	_	_	Translit=pḏ
 2	𓌱𓏏𓏏𓂻𓏥	84510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nmt.t
 3	𓇋𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
@@ -968,6 +1041,7 @@
 # text_de = Das Grab öffnet sich/ist geöffnet für den Einen, so dass er hinausgehen kann.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [3]
 1	𓃹𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
 2	𓎛𓄿𓏏𓉐	100280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -983,6 +1057,7 @@
 # text_de = Das Grab öffnet sich/ist geöffnet für mich.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [3]
 1	𓃹𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -996,6 +1071,7 @@
 # text_de = ich bin in die Sumpflöcher(?) hinabgestiegen.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓉔𓄿𓂻𓈖	97350	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -1009,6 +1085,7 @@
 # text_de = Mein Fuß ist auf ...(?), mein Arm erhoben.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4] - [5]
 1	𓂋𓂧𓂾	96600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rd
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
@@ -1025,6 +1102,7 @@
 # text_de = Ich werde meinen Platz, der im Gottesschiff ist, nicht vergessen;
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓐝𓉔𓅱𓀜	73070	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mhi̯
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -1041,6 +1119,7 @@
 # text_de = Osiris, mögest du in der Gotteshalle zufrieden sein; Königlicher Siegler Panehsi, mögest du in der Gotteshalle zufrieden sein.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [96]
 1	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
 2	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -1061,6 +1140,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdymQREMLGEtQtLFegQQOsoI
@@ -1071,6 +1151,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd60wLF8j1Eg5jH8cez0Qp2U
@@ -1081,6 +1162,7 @@
 # text_de = Osiris, er hat seine wohlriechende Atemluft an die Nase des Königlichen Sieglers Panehsi gegeben.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
 2	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 3	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
@@ -1103,6 +1185,7 @@
 # text_de = Lebt er, lebt es.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
@@ -1116,6 +1199,7 @@
 # text_de = Atmet es Luft, atmet er Luft.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓌢𓌢𓏌𓂉	138130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snsn
 2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
 3	𓊡	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
@@ -1131,6 +1215,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [25]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd1pIh0q8BkvZnfG0zfo5U6w
@@ -1141,6 +1226,7 @@
 # text_de = 'Die mit leuchtender Erscheinung'.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [31]
 1	𓊏𓊪𓇳𓈍𓂝	861273	PROPN	entity-name	_	_	_	_	Translit=Sšp.t-ḫꜥ.w
 
 # sent_id = IBUBd3FmTCyRg0WlnGclSqMox6I
@@ -1151,6 +1237,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdWORoJdtjUJumT8KgPcZkd4
@@ -1161,6 +1248,7 @@
 # text_de = Mögest du veranlassen, dass der Horusdiener, Diener des 'Goldes', Vorsteher der Priester der Götter des Südens, der Königsbekannte Patjenfi am Tage herausgehe, wie er (es) wünscht.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [13] - [16]
 1	𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
@@ -1183,6 +1271,7 @@
 # text_de = Spruch vom Eintreten bei Osiris.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
 2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
 3	𓅧𓂻	41180	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥq
@@ -1197,6 +1286,7 @@
 # text_de = "Es ist der Zweigesichtige.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓁷𓁷𓊹	861771	PROPN	entity-name	_	_	_	_	Translit=Ḥr.wj
 
@@ -1208,6 +1298,7 @@
 # text_de = {...}〈Willkommen〉", sagt man zu dem Zweigesichtigen, " wie (ist es)?" (?)
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [7] - [8]
 1	𓇋	21930	VERB	verb	_	_	_	_	Translit=jwi̯
 2	𓅱	10010	PART	particle	_	_	_	_	Translit=⸗wj
 3	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
@@ -1225,6 +1316,7 @@
 # text_de = Ich bin heute aus der Verengung(?) der Westlichen(?) herausgekommen.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [8]
 1	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓏇𓈖	68330	ADV	adverb	_	_	_	_	Translit=mjn
@@ -1240,6 +1332,7 @@
 # text_de = Ich bin gekommen und bin eingetreten, indem ich den Weg weise.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [8] - [9]
 1	𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓅧𓈖	41180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
@@ -1256,6 +1349,7 @@
 # text_de = Der Eine, der leuchtet - ich bin unter seiner Menge herausgekommen.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [9] - [10]
 1	𓌡𓏤𓂝	852351	_	epitheton-title	_	_	_	_	Translit=wꜥ
 2	𓊪𓋴𓆓𓇳	62420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psḏ
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1273,6 +1367,7 @@
 # text_de = O du 'Der im Bereich seiner Stadt ist', geh und sag 'Dem mit geheimen Gesicht', der in ...(?) ist, dass der Große an der Spitze steht.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [11] - [15]
 1	𓇋𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
 2	𓇋𓏶𓅓𓇥𓂋𓅱𓊖𓏏𓏤𓆑	861772	_	epitheton-title	_	_	_	_	Translit=Jm.j-ḏr.w-nʾ.t⸗f
 3	𓇋𓊃𓂻	127740	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zj
@@ -1292,6 +1387,7 @@
 # owner = Doris Topmann
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [16]
 1	𓅨𓂋𓎛𓎯	_	_	_	_	_	_	_	_
 2	𓊃	_	_	_	_	_	_	_	_
 3	𓅓	_	_	_	_	_	_	_	_
@@ -1305,6 +1401,7 @@
 # owner = Doris Topmann
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [16]
 1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
 2	𓋭𓊃	176800	VERB	verb	_	_	_	_	Translit=ṯꜣz
 3	𓍲𓈖𓀀	155300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šn.t
@@ -1317,6 +1414,7 @@
 # text_de = Rufe den Bruder!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [16]
 1	𓈖𓇋𓋴𓀞	80210	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=njs
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓌢𓈖𓊹	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
@@ -1329,6 +1427,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdWYV65qhhkvuntJi7wyvORQ
@@ -1339,6 +1438,7 @@
 # text_de = Hati-a Patjenfi, löse dich.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [12] - [13]
 1	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
 2	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
 3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
@@ -1353,6 +1453,7 @@
 # text_de = Gib dich zur Erde!
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [13]
 1	𓇋𓅓𓂝	851706	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jmi̯
 2	𓏏𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -1366,6 +1467,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [Z1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd5PRlQxvbkCghWEB4JlWR6c
@@ -1376,6 +1478,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [17]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd8ngF67a90Fdld7ZblFBrko
@@ -1386,6 +1489,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdwk0jgoRBkcykcUH0s1ldKk
@@ -1396,6 +1500,7 @@
 # text_de = Die $nꜥw$-Schlange ist von der $nꜥw$-Schlange umschlungen worden, das saugende(?) Kälbchen, das von der Weide kam, ist umschlungen worden.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1] -  [2]
 1	𓍲𓈖	155450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šni̯
 2	𓈖𓂝𓅱𓆙	80510	PROPN	entity-name	_	_	_	_	Translit=Nꜥw
 3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
@@ -1415,6 +1520,7 @@
 # text_de = $hj.w$-Schlange, leg dich hin, kriech davon!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [3]
 1	𓉔𓇋𓅱	97860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hj.w
 2	𓋴𓇥𓂋	150740	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḏr
 3	𓋴𓃀𓈖	131760	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zbn
@@ -1427,6 +1533,7 @@
 # text_de = Schlange, wende dich um/ab, damit Re dich sehe.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [3] -  [4]
 1	𓎛𓆑𓆙	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
 2	𓊪𓈖𓂝𓊜	59960	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=pnꜥ
 3	𓍿𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
@@ -1442,6 +1549,7 @@
 # text_de = Mögest du (?) den Horusdiener Patjenfi, den Gerechtfertigten, vor Tadel(?) schützen(?).
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [55] - [56]
 1	𓋴𓐍	141880	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫwi̯
 2	𓎟	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓍛𓅃	858869	_	epitheton-title	_	_	_	_	Translit=ḥm-Ḥr.w
@@ -1458,6 +1566,7 @@
 # text_de = 'Allherrin'.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [56]
 1	𓎟𓏏𓂋𓇥𓂋	861275	PROPN	entity-name	_	_	_	_	Translit=Nb.t-r-ḏr
 
 # sent_id = IBUBd0GnGP0PL0KsmY1HuOPgpi4
@@ -1468,6 +1577,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd4XamkLdQk5xgXdFbQYq95M
@@ -1478,6 +1588,7 @@
 # text_de = Verspritze Wasser (⸗ Gift) und die beiden Weihen stehen bereit.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓋴𓏏𓄝	854553	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sti̯
 2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
 3	𓂝𓊢𓂝	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
@@ -1491,6 +1602,7 @@
 # text_de = siehst du ihn (nur) an, wird er deinen Zweiten geben (?).
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [18] - [19]
 1	𓌳𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
@@ -1507,6 +1619,7 @@
 # text_de = Die beißende $nꜥw$-Schlange ist gebissen worden.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [19]
 1	𓊪𓎛𓋴	62220	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pzḥ
 2	𓈖𓂝𓆙	852793	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nꜥw
 3	𓊪𓎛𓋴	62220	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pzḥ
@@ -1519,6 +1632,7 @@
 # text_de = Der Himmel ist beschworen worden, die Erde ist beschworen worden, ..., der die Rechit umgibt, ist beschworen worden.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [19] - [20]
 1	𓍲𓈖	854559	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šni̯
 2	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
 3	𓍲𓈖	854559	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šni̯
@@ -1536,6 +1650,7 @@
 # text_de = Der Gott, dessen Kopf blind ist, wird beschworen werden; du selbst wirst hier beschworen werden, Skorpion.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [20]
 1	𓍲𓈖𓏏	854559	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šni̯
 2	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
 3	𓈙𓊪𓁹	153620	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=šp
@@ -1556,6 +1671,7 @@
 # text_de = O du großes Kollegium des Himmels!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [8] -  [9]
 1	𓇋𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
 2	𓍑𓍑𓏌𓏏𓇿𓊹𓏤𓏤𓏤	182390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣḏꜣ.t
 3	𓏏𓅱	851518	PRON	pronoun	PronType=Dem	_	_	_	Translit=tw
@@ -1571,6 +1687,7 @@
 # text_de = Ihr habt mich zu euch geholt als einen von euch.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓏎𓈖𓈖	26870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
 3	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
@@ -1590,6 +1707,7 @@
 # text_de = Das $ḥzꜣ$(-Gewässer ?) des Großen öffnet sich/ist geöffnet für mich, wenn er den Flügel des Opfergottes trägt, der den in seinem Leib zufriedenstellt. (?)
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [11] -  [12]
 1	𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -1612,6 +1730,7 @@
 # text_de = Ich will hinausgehen, damit ich Weißbrot empfange.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓊏𓊪	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
@@ -1626,6 +1745,7 @@
 # text_de = 'Die mit schmerzhafter Glut'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓍋𓈖𓄓𓊃𓂋𓏏𓊮	72320	PROPN	entity-name	_	_	_	_	Translit=Mr.t-nsr.t
 
 # sent_id = IBUBd89w9QpMtUPnvBMxA9mh1fg
@@ -1636,6 +1756,7 @@
 # text_de = 'Herrin der Glut'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓎟𓍯𓍯𓏏𓊮	501037	PROPN	entity-name	_	_	_	_	Translit=Nb.t-wꜣwꜣ.t
 
 # sent_id = IBUBd4sQBqTViE88lQj4XVXG7WY
@@ -1646,6 +1767,7 @@
 # text_de = 'Brennende'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓏏𓎡𓇋𓇋𓏏𓊮	173650	PROPN	entity-name	_	_	_	_	Translit=Tkꜣ.yt
 
 # sent_id = IBUBd0ZpzX9qWkcnlq9M0V7VI7E
@@ -1656,6 +1778,7 @@
 # text_de = 'Flamme'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓈖𓃀𓏏𓊮	861201	PROPN	entity-name	_	_	_	_	Translit=Nbj.t
 
 # sent_id = IBUBd6LKPo293k5oqjFa8NIg9R8
@@ -1666,6 +1789,7 @@
 # text_de = 'Die den Aufruhr vertreibt'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓂧𓂋𓂡𓈖𓈙	180190	PROPN	entity-name	_	_	_	_	Translit=Dr.t-nšn.j
 
 # sent_id = IBUBd61tu9aXDkPws9S9ZD0KD4Y
@@ -1676,6 +1800,7 @@
 # text_de = 'Die mit lebendigem Gesicht'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓋹𓁷𓏤	501033	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ.t-ḥr
 
 # sent_id = IBUBdwYPvo2Zx026mtcrM1AUDKk
@@ -1686,6 +1811,7 @@
 # text_de = 'Die mit erhabenen Gestalten'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓏏𓈖𓏌𓇋𓁹𓂋𓏛𓏥	861198	PROPN	entity-name	_	_	_	_	Translit=Ṯn.t-jr.w
 
 # sent_id = IBUBd0btyQvtmUGbkAmZ8eKE5Z0
@@ -1696,6 +1822,7 @@
 # text_de = 'Herrin der Gestalten'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓎟𓇋𓁹𓂋𓏛𓏥	861199	PROPN	entity-name	_	_	_	_	Translit=Nb.t-jr.w
 
 # sent_id = IBUBd6CAmW2Pp0QuhZyQjBbzVqA
@@ -1706,6 +1833,7 @@
 # text_de = 'Die mit vollkommener Erscheinung'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓄤𓈍𓏥	500663	PROPN	entity-name	_	_	_	_	Translit=Nfr.t-ḫꜥ.w
 
 # sent_id = IBUBd4EajuCpvUt4i0HeWdfQ26U
@@ -1716,6 +1844,7 @@
 # text_de = 'Hitzige'.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓂋𓎡𓎛𓏏𓊮	861200	PROPN	entity-name	_	_	_	_	Translit=Rkḥ.t
 
 # sent_id = IBUBd73BKMaowUbyvUoNwO5miwY
@@ -1726,6 +1855,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd8tQr8sgvEYrgOhjToLaeps
@@ -1736,6 +1866,7 @@
 # text_de = Der Kopf der großen 〈schwarzen〉 $kꜣ$-Schlange ist abgeschnitten worden.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4] -  [5]
 1	𓎛𓋴𓈎𓌫𓅓	110200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
 2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tp
 3	𓂓𓂸	162950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
@@ -1750,6 +1881,7 @@
 # text_de = Wende dich um/ab!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓊪𓈖𓂝𓊜	59960	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=pnꜥ
 2	𓍿𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
 
@@ -1761,6 +1893,7 @@
 # text_de = Schlüpf in die Erde!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [6]
 1	𓐍𓃀𓐍𓃀	861711	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫbḫb
 2	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
 
@@ -1772,6 +1905,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [23]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdQm6IlII6ElZnyUCghVPMYk
@@ -1782,6 +1916,7 @@
 # text_de = Gefäß, Gefäß! (?)
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [23]
 1	𓅓𓂺𓇋𓇋	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
 2	𓅓𓂝𓂺𓍘𓇋	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
 
@@ -1793,6 +1928,7 @@
 # text_de = Du Langer (?) seiner Mutter! - zweimal -
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [23]
 1	𓄿𓄿𓄿	49	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜣwi̯
 2	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1807,6 +1943,7 @@
 # text_de = Der mit Flüssigkeit(?), Gefäß(?)!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [24]
 1	𓅓𓇋𓂺𓍘𓇋	_	_	_	_	_	_	_	_
 2	𓅓𓂺𓍘𓇋	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
 
@@ -1818,6 +1955,7 @@
 # text_de = Ignoriere nicht!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [24]
 1	𓐝	64410	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=m
 2	𓂜𓅓𓐍	116910	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫm
 
@@ -1829,6 +1967,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdwa7G1XYSU5bvZ1mMQtseNk
@@ -1839,6 +1978,7 @@
 # text_de = Sie wird deine Füße 〈nicht〉 abwehren. (?) / Sie wird verhindern, dass deine Füße 〈...〉. (?) / Sie nähert sich deinen Füßen. (?)
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓍚	854535	VERB	verb	_	_	_	_	Translit=ḫsf
 2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
 3	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
@@ -1852,6 +1992,7 @@
 # text_de = Sie gibt dir Luft an deine Nase, damit du lebst.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [2]
 1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -1871,6 +2012,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [65]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd17WzsGjQ0L8uheUzXEkCeo
@@ -1881,6 +2023,7 @@
 # text_de = Das $jb$-Herz des Patjenfi ist im Haus der Herzen gegeben worden.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [65]
 1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓄣	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
 3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
@@ -1897,6 +2040,7 @@
 # text_de = Es ist mit/in ihm zufrieden, aber nicht, wenn er den Opferkuchen des Osiris essen sollte/gegessen hätte auf jener östlichen Seite des Totenbezirks.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [66] - [67]
 1	𓊵𓏏	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓇋𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -1922,6 +2066,7 @@
 # text_de = Eine $ḫwḫ.t$-Barke ist auf der Fahrt stromab, die andere auf der Fahrt stromauf.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [67] - [68]
 1	𓐍𓅱𓐍𓏏𓊛	115240	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫwḫ.t
 2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
 3	𓐍𓂧𓈖𓊛	_	X	unknown	_	_	_	_	_
@@ -1937,6 +2082,7 @@
 # text_de = $N-ẖn.wt$.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [72]
 1	𓈖𓂙𓈖𓏏𓅱𓇼	861334	PROPN	entity-name	_	_	_	_	Translit=N-ẖny.t
 
 # sent_id = IBUBd9WhWbPEo0B2uhEA742CWTs
@@ -1947,6 +2093,7 @@
 # text_de = Worte sprechen durch Nut:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
 3	𓏌𓏏𓇯	80940	PROPN	entity-name	_	_	_	_	Translit=Nw.t
@@ -1959,6 +2106,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdwm3op3zXEv8niq8onJ3jM0
@@ -1969,6 +2117,7 @@
 # text_de = 'Die die Schönheit des Re erscheinen lässt'.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [8]
 1	𓋴𓈍𓏏𓄤𓄤𓄤𓇳𓇼	500566	PROPN	entity-name	_	_	_	_	Translit=Sḫꜥ.t-nfr.w-Rꜥw
 
 # sent_id = IBUBd9kxTXcJt0lhjyQcsyhvYJY
@@ -1979,6 +2128,7 @@
 # text_de = Die Türflügel des Himmels öffnen sich für dich, die Türflügel des Firmaments gehen auf für dich.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [8]
 1	𓃹𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -1998,6 +2148,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdxBipvFMG0ylvsWUHGXoK7o
@@ -2008,6 +2159,7 @@
 # text_de = Fall nieder! Kriech davon!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓇋𓐍𓂋𓀜	119610	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫr
 2	𓋴𓃀𓈖𓏤	131760	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zbn
 
@@ -2019,6 +2171,7 @@
 # text_de = Den Gott preisen, viermal.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [3]
 1	𓇼	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
 2	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
 3	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
@@ -2032,6 +2185,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [57]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd8QJ1Sjp80aXpsQCGZQDlBM
@@ -2042,6 +2196,7 @@
 # text_de = O 'Löwe', Padihorresnet, der Gerechtfertigte, ist eine Blüte(?).
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [57]
 1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
 2	𓃭	500396	PROPN	entity-name	_	_	_	_	Translit=Rw
 3	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
@@ -2056,6 +2211,7 @@
 # text_de = Sein Abscheu ist die Gottes-Schlachtbank.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [57] - [58]
 1	𓃀𓏏𓅱𓆛	55150	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bw.t
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
@@ -2070,6 +2226,7 @@
 # text_de = Sein Herz soll nicht von den {Bittenden(?)} 〈Kämpfern〉 in Heliopolis fortgenommen werden.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [58] - [59]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓎁𓏏	33560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
 3	𓄂𓏏𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
@@ -2085,6 +2242,7 @@
 # text_de = O {Geschminkte} 〈Geschwänzte〉 des Osiris, er/es hat Seth gesehen, umgewendet hinter dem, der den schlug, der ihm Streit gebracht hat.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [59] - [61]
 1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
 2	𓈖𓁹𓊨	861839	_	epitheton-title	_	_	_	_	Translit=sd.yw-Wsjr
 3	𓌳𓁹	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
@@ -2106,6 +2264,7 @@
 # text_de = Er erbittet von ihm das Herz des Patjenfi, des Gerechtfertigten.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [62] - [63]
 1	𓂧𓄑𓏛	178750	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbḥ
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅖	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
@@ -2123,6 +2282,7 @@
 # text_de = 'Die auf dem Scheitel(?) der Störung(?) ist'.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [64]
 1	𓁷𓁶𓏏𓄋𓏏𓏤𓂙𓈖𓏌𓏏𓏤𓇼	861338	PROPN	entity-name	_	_	_	_	Translit=Ḥr.jt-tp-wp.t-ẖnn.w
 
 # sent_id = IBUBdQ5Rmm7CB08skIVXZidDQyU
@@ -2133,6 +2293,7 @@
 # text_de = Spruch, an der Seite des Osiris zu sein.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [17]
 1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
 2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
 3	𓃹𓈖𓈖	46050	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnn
@@ -2148,6 +2309,7 @@
 # text_de = Ich bin der Feurige, Bruder der Feurigen, Herr der Köpfe, der an Spitze lebt (?), der mit den Armen stark ist (?), mit schwachen(?) Beinen, der bei den $rḫ.yt$-Leuten ist.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [17] -  [19]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓄿𓋴𓃀𓊹	278	PROPN	entity-name	_	_	_	_	Translit=Ꜣzb
 3	𓌢𓈖𓊹	136230	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sn
@@ -2172,6 +2334,7 @@
 # text_de = Ich bin Orion, der die Erde in Frieden erreicht, der gegenüber den $ꜣḫꜣḫ$-Sternen des Himmels fährt.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [19] -  [20]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓋴𓐠𓎛𓃅𓊹	853991	_	epitheton-title	_	_	_	_	Translit=Sꜣḥ
 3	𓋴𓐠𓃅𓂻	126980	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜣḥ
@@ -2192,6 +2355,7 @@
 # text_de = Ich bin Sepa am Tag des Sepa, der Älteste in seinem Feld.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [20] -  [22]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓊃𓊪𓅮𓊹	132640	PROPN	entity-name	_	_	_	_	Translit=Zpꜣ
 3	𓉔𓂋𓅱𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=hrw
@@ -2209,6 +2373,7 @@
 # text_de = Ich bin Osiris (siegeln) (sein Vater) (seine Muttter) am Tag, als das Gemetzel angerichtet wurde.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [22] -  [23]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓁹𓊨𓊹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
 3	𓐍𓏏𓅓𓏝	121710	VERB	verb	_	_	_	_	Translit=ḫtm
@@ -2228,6 +2393,7 @@
 # text_de = {Sein Vater} mein Vater ist Geb, meine Mutter ist Nut.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [23] -  [24]
 1	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 2	𓇋𓏏𓆑𓊹	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -2246,6 +2412,7 @@
 # text_de = Worte sprechen:
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBdzpTCmbadU8TojqqPblXol8
@@ -2256,6 +2423,7 @@
 # text_de = Man gibt dir den Kranz der Rechtfertigung als Abgelegtes des Herrn von Abydos.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [2]
 1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -2276,6 +2444,7 @@
 # text_de = Luft für deine Nase!
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [3]
 1	𓊡𓏥	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑𓈖𓂧𓏏𓂉	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
@@ -2289,6 +2458,7 @@
 # text_de = Alles Vortreffliche im Himmel!
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [3]
 1	𓅜𓐍𓏛	217	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
 2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
 3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2302,6 +2472,7 @@
 # text_de = Dein Erbe dauert.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓂋𓅱𓂧𓌗𓏛	93780	VERB	verb	_	_	_	_	Translit=rwḏ
 2	𓃛𓂝𓄯	857231	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwꜥ.w
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -2314,6 +2485,7 @@
 # text_de = Dein Ka ist vollkommen, du bist mit ihm zufrieden.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓍿𓏏𓅱	170480	VERB	verb	_	_	_	_	Translit=twt
 2	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -2330,6 +2502,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [33]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd737eF2SMklEldsDicWmSww
@@ -2340,6 +2513,7 @@
 # text_de = Der Horusdiener Patjenfi, der Gerechtfertigte, verfügt über sein $jb$-Herz.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [33]
 1	𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 2	𓍛𓅃	858869	_	epitheton-title	_	_	_	_	Translit=ḥm-Ḥr.w
 3	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
@@ -2356,6 +2530,7 @@
 # text_de = Er verfügt über sein $ḥꜣ.tj$-Herz
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [34]
 1	𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2370,6 +2545,7 @@
 # text_de = Er verfügt über seine Beine.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [35]
 1	𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2384,6 +2560,7 @@
 # text_de = Er verfügt über das Totenopfer.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [36] - [37]
 1	𓌂𓐝	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2397,6 +2574,7 @@
 # text_de = Er verfügt über Atemluft.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [37]
 1	𓌂𓐝	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2410,6 +2588,7 @@
 # text_de = Er verfügt über Wasser.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [37]
 1	𓌂𓐝	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2423,6 +2602,7 @@
 # text_de = Er verfügt über den Fluss.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [38]
 1	𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2436,6 +2616,7 @@
 # text_de = Worte sprechen:
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = GFWMRYNPYRHK3EDTVKII4BT5QU
@@ -2446,6 +2627,7 @@
 # text_de = Der Kopf der großen 〈schwarzen〉 $kꜣ$-Schlange ist abgeschnitten worden.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [4] - [5]
 1	𓎛𓋴𓈎𓌫𓅓	110200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
 2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tp
 3	𓂓𓂸	162950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
@@ -2460,6 +2642,7 @@
 # text_de = Wende dich um/ab!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [5]
 1	𓊪𓈖𓂝𓊜	59960	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=pnꜥ
 2	𓍿𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
 
@@ -2471,6 +2654,7 @@
 # text_de = Schlüpf in die Erde!
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [6]
 1	𓐍𓃀𓐍𓃀	861711	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫbḫb
 2	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
 
@@ -2482,6 +2666,7 @@
 # text_de = Ein Gesicht ist auf ein Gesicht gefallen, ein Gesicht hat auf ein Gesicht gesehen.
 # findspot = Delta
 # date = TIP - Roman times
+# lineRef = [6]
 1	𓐍𓂋𓂻	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
 2	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -2499,6 +2684,7 @@
 # text_de = Worte sprechen:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [33]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd72hfdMy60qMs3CWMWx0Dwk
@@ -2509,6 +2695,7 @@
 # text_de = Re erscheint, das Gold der Götter.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [33]
 1	𓈍𓂝	114740	VERB	verb	_	_	_	_	Translit=ḫꜥi̯
 2	𓇴	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
 3	𓋞𓊹𓊹𓊹	500314	_	epitheton-title	_	_	_	_	Translit=nbw-nṯr.w
@@ -2521,6 +2708,7 @@
 # text_de = Die geheimen Höhlungen öffnen sich ihm.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [33] - [34]
 1	𓃹𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2535,5 +2723,6 @@
 # text_de = 'Schweigende'.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [40]
 1	𓇋𓅱𓎼𓂋𓇼	32780	PROPN	entity-name	_	_	_	_	Translit=Jgr.t
 

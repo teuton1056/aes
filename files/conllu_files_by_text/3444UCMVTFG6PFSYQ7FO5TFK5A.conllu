@@ -1,0 +1,228 @@
+# sent_id = IBUBd4kjsLwnT0ROsX9bELR4PA4
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Es ist sein Sohn, der das Denkmal gemacht und seinen Namen belebt hat, Abkau.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A.1]
+1	𓇋𓈖	_	X	unknown	_	_	_	_	_
+2	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓏠𓈖𓏌𓏌𓏌𓏝𓏥	70420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn.w
+6	𓋴𓈖𓐍	128910	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜥnḫ
+7	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓄏𓃒𓏪	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6sOmTUgu07PiGcwzFNGbA8
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Der Versorgte Nachty.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A.2]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓈖𓆱𓐍𓏏𓇋𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8v6mleX9Eskpn8CT6WDZcg
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Einen Rinderschenkel übergeben durch den Sohn, der von ihm geliebt wird, Abkau.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A.3]
+1	𓂋𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓄗𓏤	116430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpš
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌸𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓄏𓃒𓏥	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7pf6TkN0E8ZoZPtiGs9Bvo
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Sein Sohn, der von ihm geliebt wird, Upuautnacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A.4]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓄋𓈐𓏏𓏥𓈖𓆱𓐍𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7NqeopRf0FXrxCQEAf4DbE
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Sein Sohn, Nachti, der Jüngling.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A.5]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓂧𓄔𓈖𓆱𓐍𓏏𓇋𓇋	710193	PROPN	entity-name	_	_	_	_	Translit=Nḫt.y-jd
+
+# sent_id = IBUBd3VJhjpifkCdmZYwkoIWXzU
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Sein Sohn Upuautnacht, der Jüngere.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A.6]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄋𓈐𓏏𓏥𓈖𓆱𓐍𓏏	_	X	unknown	_	_	_	_	_
+4	𓈖𓐍𓈖	87250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫn.w
+
+# sent_id = IBUBd8W8Xq2eFkuIkA9Ev8TUZFE
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Seine Tochter, die von ihm geliebt wird, Nebetitef.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A.7]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎟𓏏𓏏𓆑	703182	PROPN	entity-name	_	_	_	_	Translit=Nb.t-jtj⸗f
+
+# sent_id = IBUBdyDlmUVzHETDovUXnDu7zl0
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Der Sohn seines Sohnes, Upuautnacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A.10]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+2	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄋𓈐𓈖𓆱𓐍𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6gOQHlZJ0LLtMIEcOFUaZM
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Der Hatia Nachti.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [E.1]
+1	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+2	𓈖𓆱𓐍𓏏𓇋𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxk0wuzRB0wQrg8pf8KwE4M
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Seine Ehefrau, die von ihm geliebt wird, die einzige Hofdame, die Priesterin der Hathor, Weni.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [E.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇑𓏏𓐬𓌡𓏏𓏏𓏤	850039	_	epitheton-title	_	_	_	_	Translit=ẖkr.t-nswt-wꜥ.tjt
+6	𓊹𓍛𓉡	400979	_	epitheton-title	_	_	_	_	Translit=ḥm.t-nṯr-Ḥw.t-Ḥr.w
+7	𓇋𓃹𓈖	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7LXP1PSJkZvuLST4iH7Pac
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Ein Totenopfer für den Vorsteher der Rinderherden Nachtiiqer.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [F.1]
+1	𓉓	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓅓𓂋𓏤𓃒𓏥	600270	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-jḥ.w
+4	𓈖𓆱𓐍𓏏𓇋𓇋𓈎𓂋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxDAKgudmkyFhwL6URV1u4s
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Der Versorgte Nacht(i), möge er in Frieden zum Horizont des Westens des Tempels des Osiris gehen.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [F.3] - [F.4]
+1	𓄪𓐍𓅱	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓈖𓆱𓐍𓏏	_	X	unknown	_	_	_	_	_
+3	𓋴𓍑𓄿𓂻	150210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊵𓏏	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓈌	227	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜣḫ.t
+9	𓋀𓏏𓏏𓈉	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr
+12	𓁹𓊨	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd9sWAmKuz0zKpF3xv8n0ZHY
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Der Sohn seines Sohnes, Nachti.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [F.5]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+2	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖𓆱𓐍𓏏𓇋𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd2BlfJQuRkeToKad7f1p1sY
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Ein Totenopfer für den Vorsteher und Seniorschreiber, Nachtiiqer.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [G.1]
+1	𓉓	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓅓𓂋𓏤	25550	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ
+4	𓃥𓏞	450131	_	epitheton-title	_	_	_	_	Translit=zꜣb-zẖꜣ.w
+5	𓈖𓆱𓐍𓏏𓇋𓇋𓈎𓂋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd4YAJfeWW0eVt52iNcKHpDg
+# corpus = sawlit
+# src_text_id = 3444UCMVTFG6PFSYQ7FO5TFK5A
+# src_text = sawlit:Stele des Nachtiiqer (Chatsworth 720/12)//〈Stele des Nachtiiqer (Chatsworth 720/12)〉
+# owner = Alexander Schütze
+# text_de = Der Priester, der Iripat und Hatia, Nachti.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [G.3]
+1	𓊹𓍛	104940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm-nṯr
+2	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+3	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+4	𓈖𓆱𓐍𓏏𓇋𓇋	_	X	unknown	_	_	_	_	_
+

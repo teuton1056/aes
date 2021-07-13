@@ -1,0 +1,57 @@
+# sent_id = IBUBdzq2M1R7d0T7mHYtWSBpZkI
+# corpus = sawlit
+# src_text_id = YAZ4UC2BZ5HCPHLLA4BQ6GXAJY
+# src_text = sawlit:〈Harfnerlieder Text K: 〉Piay (TT 263)//Harfnerlieder Text K
+# owner = Lutz Popko
+# text_de = Du mögest in Frieden in deinem Felsgrab erwachen!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓍟𓁻𓍿	95940	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rs
+2	𓐝𓊵	_	X	unknown	_	_	_	_	_
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇋𓇩𓇋𓏮𓉐	31010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jz
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdwm45jetE0uUiQIQylJGbQ4
+# corpus = sawlit
+# src_text_id = YAZ4UC2BZ5HCPHLLA4BQ6GXAJY
+# src_text = sawlit:〈Harfnerlieder Text K: 〉Piay (TT 263)//Harfnerlieder Text K
+# owner = Lutz Popko
+# text_de = Deine Bitten wurden erhört, so dass du gerufen wirst.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓄔𓐝	150560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓄭𓏏𓏥	132870	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=spr.t
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖𓇋𓋴𓀞𓏏𓏲	80210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=njs
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdwj1R7uSAEStsAjqNnhuwUA
+# corpus = sawlit
+# src_text_id = YAZ4UC2BZ5HCPHLLA4BQ6GXAJY
+# src_text = sawlit:〈Harfnerlieder Text K: 〉Piay (TT 263)//Harfnerlieder Text K
+# owner = Lutz Popko
+# text_de = Du gesellst dich zum Horusgeleit,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8-9] - [9]
+1	𓈙𓃀𓋔𓏌𓏲𓏴𓏛𓏥	153490	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šbn
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓌞𓋴𓂻𓈓𓅃	155100	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šms-Ḥr.w
+
+# sent_id = IBUBd8GO4tJCjU1Rpa4dEJurzgg
+# corpus = sawlit
+# src_text_id = YAZ4UC2BZ5HCPHLLA4BQ6GXAJY
+# src_text = sawlit:〈Harfnerlieder Text K: 〉Piay (TT 263)//Harfnerlieder Text K
+# owner = Lutz Popko
+# text_de = du bist einer von ihnen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9]
+1	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+2	𓌡	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+3	𓇋𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+

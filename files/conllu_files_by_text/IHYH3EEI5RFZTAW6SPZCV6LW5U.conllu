@@ -1,0 +1,46 @@
+# sent_id = IBUBdzK8E7lG8U4IrdmFSZPY0wI
+# corpus = bbawgrabinschriften
+# src_text_id = IHYH3EEI5RFZTAW6SPZCV6LW5U
+# src_text = bbawgrabinschriften:Kultnische//Beischriften (oberes Register)
+# owner = Stefan Grunert
+# text_de = Entfernen der Fußspur.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏎𓈖𓏏	26840	NOUN	substantive	VerbForm=Fin	_	_	_	Translit=jn.t-rd
+2	𓂋𓂧𓂾	96600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rd
+
+# sent_id = IBUBdyywGRcVrkvOlpQSpnbLrr0
+# corpus = bbawgrabinschriften
+# src_text_id = IHYH3EEI5RFZTAW6SPZCV6LW5U
+# src_text = bbawgrabinschriften:Kultnische//Beischriften (oberes Register)
+# owner = Stefan Grunert
+# text_de = Trankopfer-Darbringen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓈎𓎛𓃀𓏁	854563	VERB	verb	VerbForm=Fin	_	_	_	Translit=qbḥ
+
+# sent_id = IBUBd6HuDI4Ye0QArEQ1j2YwR94
+# corpus = bbawgrabinschriften
+# src_text_id = IHYH3EEI5RFZTAW6SPZCV6LW5U
+# src_text = bbawgrabinschriften:Kultnische//Beischriften (oberes Register)
+# owner = Stefan Grunert
+# text_de = Ende des Opfers.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓄖	61490	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pḥ.wj
+2	𓐍𓏏𓇤𓏊𓏳	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+
+# sent_id = IBUBd4UQUtkU6Exmtxy92tL3RGI
+# corpus = bbawgrabinschriften
+# src_text_id = IHYH3EEI5RFZTAW6SPZCV6LW5U
+# src_text = bbawgrabinschriften:Kultnische//Beischriften (oberes Register)
+# owner = Stefan Grunert
+# text_de = Räucherung.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓊹𓋴𓍿𓂋𓈓	138660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+

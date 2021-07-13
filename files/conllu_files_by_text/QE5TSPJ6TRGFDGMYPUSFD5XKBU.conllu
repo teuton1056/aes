@@ -1,0 +1,1248 @@
+# sent_id = IBcDNOgkfP1j9k2kjrWJ55PHgXc
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Denn was deinen Nacken betrifft, (er ist) der (Hals)wirbel der Wirbelsäule des Nehebkau.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,1]
+1	𓁷𓏤𓈖𓏏𓏭	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓋭𓏏𓏤	176930	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ṯꜣz.t
+6	𓃀𓈎𓇓𓏲𓄹	57780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bqs.w
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓅘𓎛𓃀𓂓𓏤	86270	PROPN	entity-name	_	_	_	_	Translit=Nḥb.w-kꜣ.w
+
+# sent_id = IBcDNAxQl9RuokP4uujG7QDo2MM
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht werden sie deinen Nacken schief machen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓎼𓄿𓊊𓀜	168510	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gsꜣ
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḥb.t
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNNFkJQWXtU0mhDMDAQmT05E
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht werden sie abgewehrt durch irgendeinen Gott, irgendeine Göttin etc. (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓍚𓀜𓏏𓏲	854535	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫsf
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+5	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+6	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+7	𓊹𓏏𓂋𓏏𓆇𓆗	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+9	𓍍𓏭𓂋𓏤𓏱𓏥	105450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-rʾ
+
+# sent_id = IBcDNDP6QAOE5kPNiLWu2g8uSlQ
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,3]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNA9Qnk0Vrk1pmh4Xc2B0KyU
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dich gerettet, ich habe dich herausgeholt aus allen schlimmen (und) bösen Angelegenheiten, aus allen bösen Zaubern, die sie gegen dich ausgesprochen haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,3] - [rt. 7,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓈞𓅓𓏲𓏛𓀜𓈖	86430	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+5	𓊠𓂝𓏲𓏛𓀜𓈖	48760	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥꜥ
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓄿𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+11	𓃀𓇋𓈖𓅪𓏫	54605	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=bjn
+12	𓈋𓅱𓏏𓅪𓏥	182840	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=ḏw
+13	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+14	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+15	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+16	𓈋𓅱𓏏𓏛𓏥	182840	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ḏw
+17	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+18	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNHXERQnOEUBAuAlOYn7CYDY
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?), (obwohl?) sie Entstandene (⸗ entstanden) sind, um sie (⸗ die bösen Zaubersprüche) gegen dich auszusprechen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,4] - [rt. 7,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓆣𓂋𓏲	858535	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+7	𓋴𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+10	𓋴𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNKtDa44Bd0t5nIQyvBVWUEs
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNOwLzG1RCU3OhbEVuYSanv8
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNE35oQB6xkJFocmM966WK04
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh ⸢NN⸣, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,6] - [rt. 7,7]
+1	𓇋𓀀	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDND5m2AfXvkPwgN3aQ3VHEEM
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich ⸢geschehen⸣ (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,7] - [rt. 7,8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNC50vAlYFUBQjOnOx9xMDKM
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNCSatDMRs0bPsE8a8BkOiiY
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNB5lg7sJekyOgWVh7WBU0lg
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht in deine Glieder eindringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂝𓈎𓏭𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNFGF4nvlnEjJpd051B1tumY
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dir deine(n) Arm(e) in dein Gefolge gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,9]
+1	𓂋𓂝𓏲𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓎼𓄿𓃀𓏲𓂢𓏏𓏤𓄹	166370	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gꜣb.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNKXkSPIFl05LilInbD4WE9w
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,10]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNGYnnV0iGEengDpwVv9cVuI
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,11]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNLQWMUcQdEaphQiatcgrf8M
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,11]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNOj1xv2SIk99r3cm4URMP2w
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben ⸢über⸣ deine Glieder.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,11] - [rt. 7,12]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNKiAKeYJJEqZq2fLrKsW568
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht in deinen Körper eindringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,12]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂝𓈎𓄿𓏭𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNMhqHMOg1EgonTr9eqXc7zM
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dir dein Herz in dein Gefolge gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,12]
+1	𓂋𓂝𓏲𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓄂𓏏𓏭𓄣𓏤	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNMZVOalrrEQ2kNaclpiflDY
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 7,13]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNGu6W8BFQklonGQbWldboFU
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNASqhfyWq0EujJoxB0kkbeE
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNLkjfZIrb0zYugIhnKoPQlg
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,1] - [rt. 8,2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNDmS2eTH8kIsqG17t1yeDto
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht in deine Glieder eindringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂝𓈎𓏭𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNCuNKRIa0kGhjVUQUkNwnVY
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dir deine Leber in dein Gefolge gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,2]
+1	𓂋𓂝𓏲𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mjz.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNIM41CmQmkuKqyFroKyqsmQ
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Denn was deine Leber betrifft, das ist die Leber des Atum.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,2] - [rt. 8,3]
+1	𓁷𓈖𓏏𓏭	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mjz.t
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjz.t
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓏏𓍃𓐝𓏲𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+
+# sent_id = IBcDNEQb32H5WkQQhNObUwdMUrY
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,3]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNMtNz2Qu5EJVqUUFaEgXvTc
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dich gerettet, ich 〈habe〉 dich beschützt, vor allen schlimmen (und) bösen Angelegenheiten, vor allen bösen Zaubern, die sie gegen dich ausgesprochen haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,3] - [rt. 8,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓈞𓅓𓏲𓏛𓀜𓈖	86430	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+5	𓐍𓂤𓏲𓏛	115110	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓄿𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+11	𓃀𓇋𓈖𓅪	54605	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=bjn
+12	𓈋𓅱𓏏𓅪𓏫	182840	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=ḏw
+13	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+14	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+15	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+16	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+17	𓋴𓏏𓏥	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+18	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNHxejHnC2kMzqbFZdzy5fMg
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNNycDKdi5kiAkTK1lFeVFIk
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁𓏫	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓏏𓏥	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNDLm5qea1kVVpPFpcfgqyMI
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNNXfX1QqMkHzvc3MCwcqcV8
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dir deine Milz in dein Gefolge gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,5]
+1	𓂋𓂝𓏲𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓈖𓈙𓏏𓄹	85010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nnšm
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNGFu69NFCERAkcZ1af2Z2s0
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Denn deine Milz, das ist die Milz des Re.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,5]
+1	𓁷𓏤𓈖𓏏𓏭	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓈖𓈙𓏏𓄹	85010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nnšm
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓈖𓈙𓏏𓄹	85010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nnšm
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓂋𓂝𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBcDNPixC0gquE6erHYuW07w7T0
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,6]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNNddScbRpEbTulrR9XtM6RE
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNH8vQujfl0HogaWn3OmFcUk
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁𓏫	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNLjvQYyc7Uj0m0ZY1yUM2ZQ
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNK4K5U9WyUWopeQ3FBPyuKw
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht in deine Glieder eindringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNOfPaXWHQUfZjIt0EwxBW6Y
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dir deine Lunge in dein Gefolge gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,8]
+1	𓂋𓂝𓏲𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅱𓆑𓏏𓄹	45860	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wfꜣ
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNNAYgZ7nA0ySjPSQd4QYt5Q
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Denn was deine Lunge betrifft, das ist die Lunge desjenigen, dessen Schrein groß ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,8]
+1	𓁷𓏤𓈖𓏏𓏭	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓅱𓆑𓏏𓄹	45860	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wfꜣ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅱𓆑𓏏𓄹	45860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wfꜣ
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓉻𓏛𓂓𓂋𓇋𓏯𓉐𓆑	877823	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-kꜣr⸗f
+
+# sent_id = IBcDNBwuHHp0RUTxvsQ7je4UKxA
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,9]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNPjAoLwrd0o1sMxjQA9QvQI
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dich gerettet, ich 〈habe〉 dich beschützt, vor allen schlimmen (und) bösen Angelegenheiten, vor allen bösen Zaubern, die sie gegen dich ausgesprochen haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,9] - [rt. 8,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓈞𓅓𓏲𓏛𓀜𓈖	86430	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+5	𓐍𓂤𓏲𓏛	115110	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓄿𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+11	𓃀𓇋𓈖𓅪𓏫	54605	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=bjn
+12	𓈋𓅱𓏏𓅪𓏫	182840	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=ḏw
+13	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+14	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+15	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+16	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+17	𓋴𓏏𓏥	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+18	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNEoHLSwTW0ObnIlIpbYsYtI
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,10]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNHPvjUtReUvUiuqOOJPybsk
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,10]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNEjnc56B60notQlcFbaD8ZQ
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,10]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNMDl866QcUWRr8AfbOyPLok
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht in deine Glieder eindringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,10]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNJd8UXHSy0qnlDGvlPOiFLk
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dir deinen Bauch in dein Gefolge gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂋𓂝𓏲𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓄡𓏏𓏤𓄹	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNNB2UwgEw0CohWq6zaRDBpg
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,12]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNLWOlbQLp05JjMOVeHCfdI8
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,13]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNNjb4ppmdUuZphJr4cKiKHs
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,13]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNOp8JFz5h0RuhDY4wNp2JRw
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 8,13] - [rt. 9,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNDo4wkgL00ctnEmJUpdN5e4
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht in deine Glieder eindringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNLhGoPoIJkHCsC1HAj9zQSU
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Denn was deinen Bauchnabel betrifft, das ist der Bauchnabel des Sterns, des Einzigartigen am Bug der Barke des Re.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,1] - [rt. 9,2]
+1	𓁷𓏤𓈖𓏏𓏭	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓄡𓊪𓏲𓄹𓏥	122880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖpꜣ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓄡𓊪𓏲𓄹𓏫	122880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖpꜣ
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓇼𓏤𓅆	131180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbꜣ
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓌡𓂝𓏲𓏏𓏭𓅪	44230	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ.tj
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓄂𓏏𓏤	100310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥꜣ.t
+12	𓏲𓇋𓄿𓊛𓅆𓈖𓂋𓂝𓇳𓅆	500879	PROPN	entity-name	_	_	_	_	Translit=Wjꜣ-(n)-Rꜥw
+
+# sent_id = IBcDNA2UtjMPTUo7u5zzJM8z6no
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,2]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNO5SZkCco07QjCf7ndUrNSg
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dich gerettet, ich 〈habe〉 dich beschützt, vor allen schlimmen (und) bösen Angelegenheiten, vor allen bösen Zaubern, die sie gegen dich ausgesprochen haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,2] - [rt. 9,3]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓈞𓅓𓏲𓏛𓀜𓈖	86430	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+5	𓐍𓂤𓏲𓏛	115110	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓄿𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+11	𓃀𓇋𓈖𓅪𓏫	54605	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=bjn
+12	𓈋𓅱𓏏𓅪	182840	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=ḏw
+13	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+14	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+15	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+16	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+17	𓋴𓏏𓏥	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+18	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNDv7KM8M60ACkEDWaKohrpA
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNBfLyupkhErotdovtNbrdPg
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁𓏫	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNKaBXFg6pkcWtq9dieS2ta8
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,3] - [rt. 9,4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNJVfVYcdu0pth6Gt1H5a1nk
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht in deine Glieder eindringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNB1h6i0INUXqhHWNTOK6esI
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Oh NN, den die NN geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,4]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+
+# sent_id = IBcDNLkQcO4xbUCQs2AKTvfCqRI
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich 〈habe〉 dich gerettet, ich 〈habe〉 dich beschützt, vor allen schlimmen (und) bösen Angelegenheiten, vor allen bösen Zaubern, die sie gegen dich ausgesprochen haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓈞𓅓𓏲𓏛𓀜	86430	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+5	𓐍𓂤𓏲𓏛	115110	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓄿𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+11	𓃀𓇋𓈖𓅪	54605	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=bjn
+12	𓈋𓅱𓏏𓅪	182840	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=ḏw
+13	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+14	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+15	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+16	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+17	𓋴𓏏𓏥	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+18	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNGpympeyhUdNuJNQ1WmKj2Q
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht gegen dich geschehen (d.h. wirken?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNF6w5MzKOExNqBpzyhXKfn0
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keinen Geschmack finden an dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂧𓊪𓏏𓄓𓀁𓏫	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNI3oFVBTPU9XqofViitKj4s
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden keine Macht ausüben über deinen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,5] - [rt. 9,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNIdjFGmFnElogsOFTXwF95s
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sie werden nicht in deine Glieder eindringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNPgwoSgQ7k5kgrZ1gDJWua4
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Ich habe dir dein Hinterteil in dein Gefolge gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,6]
+1	𓂋𓂝𓏲𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓄖𓏏𓏤𓄹	61520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wyt
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNIPwbtHamkgcslVIF4PIdsw
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = (Denn) was dein Hinterteil betrifft, das ist das Hinterteil der Isis.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,6] - [rt. 9,7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄖𓏏𓏤𓄹	61520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wyt
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓄖𓏏𓏤𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓊨𓏏𓆇𓆗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+
+# sent_id = IBcDNMtcfrtdfEdev11Q3r9PTEA
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht wird Macht über dein Hinterteil ausgeübt werden durch Menschen etc.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌂𓅓𓏲𓏛𓀜𓏏𓏲	851679	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄖𓏏𓏤𓄹	61520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wyt
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+8	𓍍𓏭𓂋𓏤𓏱𓏥	105450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-rʾ
+
+# sent_id = IBcDND0scRLvyEhqt6mHjxfMCxQ
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht werden irgendwelche Zauber eintreten, die männliche oder weibliche Zauberer gegen dich wirken.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+4	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+5	𓁹𓂋𓏏	851809	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓎛𓂓𓄿𓏲𓀁𓀀𓏥	110700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+7	𓎛𓂓𓄿𓏲𓀁𓁐𓏥	162370	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.yt
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDNOKJ7SmuZ0LWgKFBIZe0Weg
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht wird geschehen, was sie gewirkt haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcDNGd9kyTz5EqcuUStC2JZAgI
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht wird gehört werden, was sie ausgesprochen haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓄔𓅓𓏛𓏏𓅱	150560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+3	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcDNMqGp5CmDklHmL4t3PX74fg
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = NN, den die NN geboren hat, ist gereinigt, so wie Re täglich rein ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,8] - [rt. 9,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+3	𓄟𓋴𓆇𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓏠𓈖𓏏𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+5	𓋴𓃂𓈗	130010	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=swꜥb
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓃂𓈗	44430	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜥb
+8	𓂋𓂝𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+9	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBcDNAYwXrGjP0xykiiJx5IyFZM
+# corpus = sawmedizin
+# src_text_id = QE5TSPJ6TRGFDGMYPUSFD5XKBU
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 6,x-9,9: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Es ist (zu Ende) gekommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,9]
+1	𓂻𓏲𓋴𓊪𓏲	21930	VERB	verb	_	_	_	_	Translit=jwi̯
+

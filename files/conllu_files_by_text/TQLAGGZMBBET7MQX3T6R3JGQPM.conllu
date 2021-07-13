@@ -1,0 +1,62 @@
+# sent_id = IBUBd2GVwmlYVUK8sILVtk1KKRs
+# corpus = bbawgrabinschriften
+# src_text_id = TQLAGGZMBBET7MQX3T6R3JGQPM
+# src_text = bbawgrabinschriften:Südwand//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Das Bringen der Opfergaben (⸗ausgelöstes Fleischstück)
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓋴𓐍𓊪𓏏𓂻	141990	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫpi̯
+2	𓋴𓏏𓊪𓏏	550337	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=stp.t
+
+# sent_id = IBUBdW3iQIGnMkKVhENhdhCytr8
+# corpus = bbawgrabinschriften
+# src_text_id = TQLAGGZMBBET7MQX3T6R3JGQPM
+# src_text = bbawgrabinschriften:Südwand//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Ka-Priester Neken.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓈖𓎡𓈖	851031	PROPN	entity-name	_	_	_	_	Translit=Nkn
+
+# sent_id = IBUBdx3vAKdYek0rhXqxCRfa7ec
+# corpus = bbawgrabinschriften
+# src_text_id = TQLAGGZMBBET7MQX3T6R3JGQPM
+# src_text = bbawgrabinschriften:Südwand//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Der Schreiber des Hauses des Gottesbuches des Palastes Iry.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [7]
+1	𓊹𓉐𓏝𓏞	450640	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-pr-mḏꜣ.t-nṯr-pr-ꜥꜣ
+2	𓇋𓂋𓇋𓇋	450059	PROPN	entity-name	_	_	_	_	Translit=Jr.y
+
+# sent_id = IBUBd0tQJbcSPUZJjfhhVwCzPBQ
+# corpus = bbawgrabinschriften
+# src_text_id = TQLAGGZMBBET7MQX3T6R3JGQPM
+# src_text = bbawgrabinschriften:Südwand//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Schreiber des Hauses des Gottesbuches des Palastes Kai-em-tjenenet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [14]
+1	𓊹𓏞𓉐𓌎	450640	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-pr-mḏꜣ.t-nṯr-pr-ꜥꜣ
+2	𓂖𓇋𓅓𓍿𓇑𓇑𓏏	450202	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-m-ṯnn.t
+
+# sent_id = IBUBd5D51tJWLUbSvKO4KPn0cnk
+# corpus = bbawgrabinschriften
+# src_text_id = TQLAGGZMBBET7MQX3T6R3JGQPM
+# src_text = bbawgrabinschriften:Südwand//1. Register v.u.
+# owner = Stefan Grunert
+# text_de = Sein Stiftungsbruder, der Totenpriester Qar.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [15]
+1	𓌢𓆓𓏏	136580	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn-ḏ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+4	𓈎𓄿𓂋𓎤	450331	PROPN	entity-name	_	_	_	_	Translit=Qꜣr
+

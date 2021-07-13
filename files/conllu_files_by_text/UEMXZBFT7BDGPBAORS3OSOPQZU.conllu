@@ -1,0 +1,231 @@
+# sent_id = IBUBd7hSBwivhUDhos7Zb9mmTeo
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Möge 〈er〉 die schönen Wege durchwandeln an der Öffnung des westlichen Horizontes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓂧𓈖𓂧𓈖	180020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dndn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈐𓏏𓏥	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+4	𓄤𓆑𓂋𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓊪𓎼𓄿𓈇𓏤	854511	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pgꜣ
+7	𓈌𓏏𓏤	227	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜣḫ.t
+8	𓋀𓏏𓏏	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+
+# sent_id = IBUBdzVBK67EHksxsX2gl5Mrezw
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Mögen sie ihm zusammen mit dem Gefolge des Osiris ein reines Opfer geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.10]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊵𓏏𓊪𓏏	111360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥtp.t
+6	𓃂𓍘	44430	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜥb
+7	𓎛𓈖𓂣	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+8	𓌞𓋴𓂻𓏥	155040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓊨𓁹𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBYBIWaKWpAChkLkvpYVaWsNaCc
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.15]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅃	400146	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBYBI0bpYUxWwEw1ltgN290j0nk
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Sein Bruder, Djaa, der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.16]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍑𓅀𓁸	709630	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣꜣ
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBYBIWYXtJ6hM08IsQqWrWwuu6k
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Sein Bruder, Chenti-cheti-em-hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.17]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏃𓏏𓄡𓍘𓅓𓄂𓏏𓏤	705685	PROPN	entity-name	_	_	_	_	Translit=Ḫnt.j-ẖ.ty-m-ḥꜣ.t
+
+# sent_id = IBYBI6o98eyvvUnAih1cbUM3NE8
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Sein Bruder, Anchef, der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.18]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋹𓈖𓐍𓆑	550185	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ⸗f
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBYBIwmW4Cj18EBHtze0PBIWRDU
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Sein Bruder, Chenti-cheti, der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.19]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏃𓏏𓄡	550109	PROPN	entity-name	_	_	_	_	Translit=Ḫnt.j-ẖ.ty
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd44KpEHTB0HFusnbNpxQkRo
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Seine Mutter, Senu, die Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓏏𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌢𓈖𓏌	706815	PROPN	entity-name	_	_	_	_	Translit=Sn.w
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBd0A34ibxnk56pgVHdFx2QLo
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Sein Vater, Itanch, der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏏𓆑𓋹𓈖𓐍	_	X	unknown	_	_	_	_	_
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd4f0rmY6wUdCpOpkDffl6gs
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Sein Bruder.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓃀𓊃𓌠	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxWDBvkyEEemkE9F3RVcsCE
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Seine Schwester, Rechutanch, die Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁐𓏪𓋹𓈖𓐍	_	X	unknown	_	_	_	_	_
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBdydQPwPEjk6aj8JFLWS1LhM
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Seine Schwester, Anches, die Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋹𓈖𓐍𓋴	711171	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ⸗s
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBd1v0hQ2kkUf1iNq7fiilLTM
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Die Mutter seiner Mutter, Sobekweser, die Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓏏𓅐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓅐𓏏𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓆍𓄊𓋴	706614	PROPN	entity-name	_	_	_	_	Translit=Sbk-wsr.w
+6	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBdWNX8zDaUkr3sPkQkFnzGWw
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Die Amme, Kyweret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓏠𓈖𓂝𓏏𓂑	70360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnꜥ.t
+2	𓎡𓇋𓇋𓅨𓂋𓏏	707777	PROPN	entity-name	_	_	_	_	Translit=Ky-wr.t
+
+# sent_id = IBUBd98Nn72lYEWikxdvxXFWTHs
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Seine Schwester, Sathuther, die Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.6]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉡𓅭𓏏	400439	PROPN	entity-name	_	_	_	_	Translit=Zꜣ.t-Ḥw.t-Ḥr.w
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBdW59dHjKyEsUmQQmujyFmAA
+# corpus = sawlit
+# src_text_id = UEMXZBFT7BDGPBAORS3OSOPQZU
+# src_text = sawlit:Stele des Djaa (BM EA 573)//〈Stele des Djaa (BM EA 573)〉
+# owner = Alexander Schütze
+# text_de = Seine Schwester, Kes, die Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.7]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎡𓋴	_	X	unknown	_	_	_	_	_
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+

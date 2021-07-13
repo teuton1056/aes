@@ -1,0 +1,186 @@
+# sent_id = IBUBdzqtkTuloEApiFLGYS1luuM
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = Wenn du eine Frau untersuchst, die an Magen-/Brust(?)schmerzen leidet, die Menstruation kommt nicht zu ihr, und in/an der Oberseite (oder: oberen Hälfte) ihres Bauchnabels findest du etwas (wörtl.: eine Sache), (...)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [20.13 = Vso 3.13] - [20.14 = Vso 3.14]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+10	𓇍𓏭𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+13	𓎛𓋴𓏠𓈖𓍖𓂐𓏥	110040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+14	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+15	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓐞𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+19	𓁷𓂋𓏭𓇯	108300	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḥr.j
+20	𓐎𓏤	122880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖpꜣ
+21	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdxvQjYmeikvQl2STSOEG2hY
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = Dann mußt du über sie (d.h. die Frau; oder: darüber, d.h. über dieses "etwas") sagen: "Das ist/bedeutet eine Verstopfung/Blockierung von/aus Blut auf ihrer Gebärmutter."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [20.14 = Vso 3.14] - [20.15 = Vso 3.15]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓍲𓈖𓂝𓏲𓄹	155750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnꜥ
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓈟𓏏𓄰𓄹	850291	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jd.t
+11	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd7CIUWVVHUfLm9hoKRa1beY
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = Und du mußt für sie etwas, das das Blut hinuntergehen läßt (wörtl.: ein Abgehenlassen des Blutes), zubereiten:  $sfṯ$-Koniferenharz, Kreuzkümmel, Bleiglanz, süße/aromatische Myrrhe.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [20.16 = Vso 3.16] - [20.17 = Vso 3.17]
+1	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+2	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓋴𓉔𓄿𓏏𓂻	140090	VERB	verb	VerbForm=Fin	_	_	_	Translit=shꜣi̯
+6	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+7	𓋴𓆑𓏏𓏊𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+8	𓏏𓊪𓈖𓈖𓏏𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+9	𓄟𓋴𓂧𓅓𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+10	𓂝𓈖𓏏𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+11	𓇛𓅓𓏛	91410	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nḏm
+
+# sent_id = IBUBd1ZNFoB2o0WGrAroVJBOntc
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = (Es) werde zu einer einzigen Masse (wörtl.: Sache) gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [20.17 = Vso 3.17]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd10XdXLv4U6uuy1PTun9zA8
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = die Schamgegend/Unterleibsregion (?) werde damit sehr oft gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [20.17 = Vso 3.17]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓎢𓊃𓄹	164950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kns
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓆈𓏥	450155	ADV	adverb	_	_	_	_	Translit=ꜥšꜣ
+5	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBdWYad8RvjkXYuc7nd8Z18z0
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = Dann mußt du die Pflanze (namens) Ohr-der-Wildsau(?)/Wüstenspringmaus(?) auf/in Öl/Fett geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [20.18 = Vso 3.18]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓄟𓋴𓇥𓂋𓄔𓎛𓇥𓂋𓏏𓄛𓆰𓏥	863003	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=msḏr-ḥḏr.t
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎯𓏏𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBUBd4WoW5YQX0fPidHtWG8lPqk
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = Nachdem es (d.h. das Heilmittel) verfault ist, mußt du es verreiben (oder: Nachdem sie (d.h. die Patientin) einen Verwesungsgeruch verbreitet, mußt du sie ein-/abreiben)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [20.18 = Vso 3.18] - [21.1 = Vso 4.1]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂋𓐟𓏤	851453	ADP	preposition	_	_	_	_	Translit=r-sꜣ
+3	𓎛𓍯𓄿𓐎	102640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwꜣ
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓋴𓇋𓆛𓈖𓐎𓂝𓐍𓂋	128320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zjn
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+
+# sent_id = IBUBdWeLjAzckEctvzMHPlj6QTA
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = und ihre beiden Leistenbereiche(?) sehr oft damit salben/eincremen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.1 = Vso 4.1]
+1	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+2	𓐛𓊃𓀜	168280	VERB	verb	VerbForm=Fin	_	_	_	Translit=gs
+3	𓈖𓊪𓎛𓏲𓄹𓄹	83190	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=npḥ.w
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+6	𓆈𓏥	450155	ADV	adverb	_	_	_	_	Translit=ꜥšꜣ
+7	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBdy2paUAQ2kDphJjBzj4mlDg
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = Dann mußt du Myrrhe und Weihrauch zwischen ihren Schenkeln geben/stellen (d.h. verbrennen für eine Räucherbehandlnung);
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.1 = Vso 4.1] - [21.2 = Vso 4.2]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂝𓈖𓏏𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓊹𓌢𓈖𓏏𓂋𓆵𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+6	𓏶𓅓𓏭𓏏𓏲	25400	ADP	preposition	_	_	_	_	Translit=jm.wtj
+7	𓏠𓈖𓏏𓂾𓂾	69800	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=mn.t
+8	𓋴𓏭	127780	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sj
+
+# sent_id = IBUBdWBEo4xlNU2XksSeVMqoHJ0
+# corpus = sawmedizin
+# src_text_id = 7ZRL36RM5RE3PCZIDD7P6J6X4U
+# src_text = sawmedizin:Papyrus Edwin Smith//20.13-21.3 ⸗ Vso 3.13-4.3: Heilmittel für Menstruationsprobleme
+# owner = Peter Dils
+# text_de = (Es) werde veranlaßt, daß der zugehörige Rauch in ihr Fleisch (d.h. ihre Vagina) eintritt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [21.3 = Vso 4.3]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓎛𓏏𓏭𓊮	111130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtj
+4	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

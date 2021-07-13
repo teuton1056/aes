@@ -1,0 +1,120 @@
+# sent_id = IBUDMYhYaQDvnkW2vsPViCc31Zo
+# corpus = sawlit
+# src_text_id = M44O22QTDJHBHE2JD7CETEXMMM
+# src_text = sawlit:Stele des Senaaib (Kairo CG 20517)//〈Stele des Senaaib (Kairo CG 20517)〉
+# owner = Alexander Schütze
+# text_de = Behdeti, der große Gott.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓄑𓂧𓏏𓊖	850566	PROPN	entity-name	_	_	_	_	Translit=Bḥd.tj
+2	𓊹𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+
+# sent_id = IBUBd1MoA6bOQUyqtxqUD36l7Bg
+# corpus = sawlit
+# src_text_id = M44O22QTDJHBHE2JD7CETEXMMM
+# src_text = sawlit:Stele des Senaaib (Kairo CG 20517)//〈Stele des Senaaib (Kairo CG 20517)〉
+# owner = Alexander Schütze
+# text_de = Behdeti, der große Gott.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.2]
+1	𓄑𓂧𓏏𓊖	850566	PROPN	entity-name	_	_	_	_	Translit=Bḥd.tj
+2	𓊹𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+
+# sent_id = IBUBd7WKDDp42EChpkkw335Uafs
+# corpus = sawlit
+# src_text_id = M44O22QTDJHBHE2JD7CETEXMMM
+# src_text = sawlit:Stele des Senaaib (Kairo CG 20517)//〈Stele des Senaaib (Kairo CG 20517)〉
+# owner = Alexander Schütze
+# text_de = (der König,) geliebt von Min-Horus, dem Starken, dem Sohn des Osiris.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.7] - [B.6]
+1	𓌸𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+2	𓈾𓅃	401130	PROPN	entity-name	_	_	_	_	Translit=Mnw-Ḥr.w
+3	𓈖𓆱𓐍𓏏𓀜	858952	_	epitheton-title	_	_	_	_	Translit=nḫt
+4	𓅭𓊨𓁹	853760	_	epitheton-title	_	_	_	_	Translit=zꜣ-Wsjr
+
+# sent_id = IBUBd4kKZUSK1k3FueExJ6bcCEA
+# corpus = sawlit
+# src_text_id = M44O22QTDJHBHE2JD7CETEXMMM
+# src_text = sawlit:Stele des Senaaib (Kairo CG 20517)//〈Stele des Senaaib (Kairo CG 20517)〉
+# owner = Alexander Schütze
+# text_de = Min-Horus, den Starken, Anbeten bei seiner schönen Prozession durch den König von Unter- und Oberägypten, 𓍹Menchaure𓍺, dem ewiglich Leben gegeben ist, den leiblichen Sohn des Re, 𓍹Senaaib𓍺, der ewiglich lebe, wobei er sagt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1] - [C.3]
+1	𓇼𓄿𓀢	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓈾𓅃	401130	PROPN	entity-name	_	_	_	_	Translit=Mnw-Ḥr.w
+3	𓈖𓆱𓐍𓏏	858952	_	epitheton-title	_	_	_	_	Translit=nḫt
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉐𓂋𓏏	60280	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+8	𓇋𓋔	26660	ADP	preposition	_	_	_	_	Translit=jn
+9	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+10	𓇳𓏠𓈖𓈍𓂝𓏥	860751	PROPN	entity-name	_	_	_	_	Translit=Mn-ḫꜥ.w-Rꜥw
+11	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+12	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+13	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+14	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓄡𓏏	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓏟𓏛𓄣𓏤	860752	PROPN	entity-name	_	_	_	_	Translit=Snꜥꜥ-jb
+19	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+20	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+21	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+22	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2EarvdJqUTvkQrvW2mLUSA
+# corpus = sawlit
+# src_text_id = M44O22QTDJHBHE2JD7CETEXMMM
+# src_text = sawlit:Stele des Senaaib (Kairo CG 20517)//〈Stele des Senaaib (Kairo CG 20517)〉
+# owner = Alexander Schütze
+# text_de = Sei gegrüßt, Min, in Frieden!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓇋𓐩	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷𓂋	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈾	70530	PROPN	entity-name	_	_	_	_	Translit=Mnw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+
+# sent_id = IBUBd1v7GEZKSUx0gkYQ32OTBGw
+# corpus = sawlit
+# src_text_id = M44O22QTDJHBHE2JD7CETEXMMM
+# src_text = sawlit:Stele des Senaaib (Kairo CG 20517)//〈Stele des Senaaib (Kairo CG 20517)〉
+# owner = Alexander Schütze
+# text_de = Sei gegrüßt, Min-Horus, der Gefolgsmann(?), in Frieden!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3] - [C.4]
+1	𓇋𓐩	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷𓂋	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈾𓅃	401130	PROPN	entity-name	_	_	_	_	Translit=Mnw-Ḥr.w
+5	𓌞𓋴𓂻	853223	_	epitheton-title	_	_	_	_	Translit=šms.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+
+# sent_id = IBUBd4cQvcBCFktPoy6GK8Wi26I
+# corpus = sawlit
+# src_text_id = M44O22QTDJHBHE2JD7CETEXMMM
+# src_text = sawlit:Stele des Senaaib (Kairo CG 20517)//〈Stele des Senaaib (Kairo CG 20517)〉
+# owner = Alexander Schütze
+# text_de = Sei gegrüßt, Osiris Chontamenti, in Frieden!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓇋𓐩	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷𓂋	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊩𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓏃𓏏𓋀𓅂	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+

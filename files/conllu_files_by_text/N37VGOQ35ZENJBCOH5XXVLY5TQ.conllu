@@ -1,0 +1,322 @@
+# sent_id = IBUBd6twbWsEDUIdiLmLtZj7crc
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Geschrieben im Jahr 12, vierter Monat der Übeschwemmungszeit (Khoiak), des Pharao Alexander, Sohn des Alexander.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1] -  [2]
+1	𓏞𓏲𓏲𓍼𓏥	600375	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=zẖꜣ
+2	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆳𓇳	94920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.t
+4	𓎆𓏮𓏏	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓇹	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+6	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓆷𓇳	216	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓉐𓉻𓅆𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+10	𓇋𓂋𓎡𓊃𓈖𓂧𓂋𓊃𓌙𓈉𓅆	860196	PROPN	entity-name	_	_	_	_	Translit=Ꜣlksntrs
+11	𓅭𓏤𓀀	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+12	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓇋𓂋𓎡𓊃𓈖𓂧𓂋𓊃	860196	PROPN	entity-name	_	_	_	_	Translit=Ꜣlksntrs
+
+# sent_id = IBUBd6YkMeIIGEWCnWSZQE8M7BA
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Der Graf, Gottesvater (und) Prophet von Amun-Re König der Götter.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3]
+1	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+2	𓊹𓇋𓏏𓆑𓀀𓊹𓍛𓏤𓀀𓈖𓇋𓏠𓈖𓅆𓇳𓅆𓇓𓏏𓈖𓅆𓊹𓊹𓊹𓅆𓏫	852572	_	epitheton-title	_	_	_	_	Translit=jtj-nṯr-ḥm-nṯr-n-Jmn-Rꜥw-nswt-nṯr.w
+
+# sent_id = IBUBd6MMJI6ni02zqlMJoScRkE0
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Harpre-dem-Kind, dem überaus großen, erstgeborenen des Amun.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4]
+1	𓊹𓍛𓏤𓀀𓈖𓄑𓂋𓅆𓊪𓇳𓅆𓅯𓄿𓀔𓅆𓉻𓂝𓅨𓂋𓁶𓊪𓈖𓇋𓏠𓈖𓅆	860199	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Ḥr.w-pꜣ-Rꜥw-pꜣ-ẖrd-ꜥꜣ-wr-tp.j-n-Jmn
+
+# sent_id = IBUBdw3OfWoaWkcbmwZuJWWwwNo
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Amun-dem-Spitzhörnigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [5]
+1	𓊹𓍛𓏤𓀀𓈖𓇋𓏠𓈖𓅆𓇮𓄏𓄏	852573	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-Jmn-spd-ꜥb.wj
+
+# sent_id = IBUBdyGiBX3qb0EKgapcZNMajrk
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Chons, der in Bennet (Chonstempel in Karnak) residiert.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [5]
+1	𓊹𓍛𓏤𓀀𓈖𓐍𓈖𓇓𓏲𓅆𓁷𓂋𓄣𓏤𓃀𓈖𓈖𓏏𓉐𓅆	852576	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Ḫns.w-ḥr.j-jb-Bnn.t
+
+# sent_id = IBUBd6RT6GuhfEvcvKUIEaUaTz0
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Osiris-dem-Großen-des-Isched-Baumes.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [6]
+1	𓊹𓍛𓏤𓀀𓊨𓇳𓅆𓅨𓂋𓅯𓄿𓇋𓈙𓇾𓆭𓏫	860201	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Wsjr-wr-pꜣ-jšd
+
+# sent_id = IBUBdQsQJRU1iEDuhmy9xdd99Bk
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Osiris, der in Ascheru (Mut-Tempelbezirk in Karnak) residiert.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [6-7]
+1	𓊹𓍛𓏤𓀀𓈖𓊨𓇳𓅆𓁷𓄣𓏤𓇋𓈙𓂋𓃭𓏤𓈗𓊖	852578	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Wsjr-ḥr.j-jb-Jšrw
+
+# sent_id = IBUBdyFs6pJKW0HhmVtWq5hBXk4
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Amun dem hochbefiederten, der in Ipet-Sut (Karnak) residiert.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [7]
+1	𓊹𓍛𓏤𓀀𓈖𓇋𓏠𓈖𓅆𓀠𓋛𓏤𓅆𓁷𓄣𓏤𓇋𓊪𓏭𓊨𓏥𓊖	852580	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Jmn-qꜣ-šw.tj-ḥr.j-jb-Jp.t-s.wt
+
+# sent_id = IBUBd7yz13MBf08UsU6xFVvSa28
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Wab-Priester der Re-Domäne vom Dach des Amuntempels in der zweiten Priesterphyle.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [8]
+1	𓃂𓈗𓀀𓈖𓊪𓇳𓅆𓁶𓏤𓉗𓏏𓉐𓈖𓉐𓏤𓇋𓏠𓈖𓅆𓁷𓏤𓎃𓏮𓏌	852579	_	epitheton-title	_	_	_	_	Translit=wꜥb-n-Pr-Rꜥw-tp-ḥw.t-n-pr-Jmn-ḥr-zꜣ-2-n.w
+
+# sent_id = IBUBd7NeXyKF00CLgA36uQt2UwI
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Schreiber des Gottesvermögens des Amun in der zweiten Priesterphyle.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓏞𓏲𓏲𓍼𓏥𓊹𓋨𓏲𓀀𓈖𓇋𓏠𓈖𓅆𓁷𓏤𓎃𓏮𓏌	852574	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ḫtm.t-nṯr-n-Jmn-ḥr-zꜣ-2-n.w
+
+# sent_id = IBUBdxKmZdkqbEkxn9JnIW3Tx8Q
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Bevollmächtigter des Amun(tempels) der zweiten und vierten Priesterphyle.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [9-10]
+1	𓇋𓏏𓈖𓏌𓏲𓀁𓈖𓇋𓏠𓈖𓅆𓈖𓎃𓏮𓏌𓎃𓏤𓏤𓏤𓏤𓏌	852575	_	epitheton-title	_	_	_	_	Translit=Jdn.w-n-(pr)-Jmn-n-zꜣ-2-n.w-4-n.w
+
+# sent_id = IBUBdyPcPyOeJkOdpWJ6s3tGCxk
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Nefer-hotep, dem großen Gott.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [9-10]
+1	𓊹𓍛𓏤𓀀𓈖𓄤𓊵𓏏𓊪𓅆𓅯𓄿𓊹𓅆𓉻𓂝𓏛	852582	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Nfr-ḥtp-pꜣ-nṯr-ꜥꜣ
+
+# sent_id = IBUBd7MWeVEMNUnrqps7trudNWk
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Nefer-hotep dem Kind.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓊹𓍛𓏤𓀀𓈖𓄤𓊵𓏏𓊪𓅆𓅯𓄿𓀔𓅆	860202	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Nfr-ḥtp-pꜣ-ẖrd
+
+# sent_id = IBUBd0YQvBRbN0nqib8UPlB6fBo
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Osiris, Horus, Isis und Nephthys des Tempels von Hu (Diospolis parva).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [11-12]
+1	𓊹𓍛𓏤𓀀𓈖𓊨𓇳𓅆𓄑𓂋𓅆𓊨𓏏𓆇𓅆𓉠𓏏𓆇𓅆𓈖𓊹𓉗𓏏𓉐𓅆𓈖𓉗𓏏𓉐𓊖	852583	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Wsjr-Ḥr.w-Ꜣs.t-Nb.t-ḥw.t-n-ḥw.t-n-Ḥw
+
+# sent_id = IBUBdxs0o0Duw05jqYlAd3wRysg
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Min.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [12]
+1	𓊹𓍛𓏤𓀀𓈖𓈾𓅆	852586	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Mnw
+
+# sent_id = IBUBd5FZzWufeE6qthDXkTg11PY
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Hathor, Herrin von Hut-Sechem (Diospolis parva).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [12-13]
+1	𓊹𓍛𓏤𓀀𓈖𓉗𓏏𓁷𓂋𓏏𓆇𓅆𓎟𓏏𓉗𓏏𓉐𓌂𓏤𓏥𓊖	852585	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Ḥw.t-Ḥr.w-nb.t-Ḥw.t-Sḫm
+
+# sent_id = IBUBd6OhzqC7uUqvsj3GDMf4gz0
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Mehit.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [13]
+1	𓊹𓍛𓏤𓀀𓈖𓎔𓎛𓇋𓇋𓏏𓆇𓁗	852587	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Mḥy.t
+
+# sent_id = IBUBd1X9Jp9vEEhooIgYbWeA6dc
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Prophet von Atum, Herr von Hut-Sechem (Diospolis parva).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [13-14]
+1	𓊹𓍛𓏤𓀀𓈖𓇋𓏏𓅓𓏛𓅆𓎟𓏏𓉗𓏏𓉐𓌂𓏤𓅆𓏥𓊖	860203	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-n-Jtm.w-nb-Ḥw.t-sḫm
+
+# sent_id = IBUBd5bsOr20SEtYlJlujAmMNWw
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Bevollmächtigter des Neferhotep(tempels) (aller) vier Priesterphylen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [14-15]
+1	𓇋𓏏𓈖𓏌𓏲𓀁𓈖𓄤𓊵𓏏𓊪𓅆𓈖𓅯𓄿𓏤𓏤𓏤𓏤𓎃𓏤𓏫	852590	_	epitheton-title	_	_	_	_	Translit=jdn.w-n-Nfr-ḥtp-n-pꜣ-4-zꜣ
+
+# sent_id = IBUBd9DX04eCsUndgpu7UNipQCk
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Erster Prophet von Neferhotep.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [15]
+1	𓊹𓍛𓏤𓀀𓈖𓁶𓏤𓊪𓏭𓈖𓄤𓊵𓏏𓊪𓅆	852589	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-tp.j-n-Nfr-ḥtp
+
+# sent_id = IBUBd20mQyfZyUm6thLTrIv58JI
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Schreiber des Amun der dritten Priesterphyle.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [18-19]
+1	𓏞𓏲𓏲𓍼𓏥𓀀𓈖𓇋𓏠𓈖𓅆𓈖𓎃𓏥𓏌	852581	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-n-Jmn-n-zꜣ-3-n.w
+
+# sent_id = IBUBd98I0uYlskp7hewpkQQQ7iA
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Man ruft sie in die Barke des Re.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [29]
+1	𓈖𓇋𓋴𓀞	80210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=njs
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏲𓇋𓄿𓊛	44020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wjꜣ
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd80cu9DWkU3OpN1MbgzzmO0
+# corpus = bbawtotenlit
+# src_text_id = N37VGOQ35ZENJBCOH5XXVLY5TQ
+# src_text = bbawtotenlit:Papyrus "Bremner Rhind" (pBM 10188)//2. Kolophon
+# owner = Frank Feder
+# text_de = Betreffs irgendjemands aus irgendeinem Fremdlande, (vor allem) Nubien, Kusch (und) Syrien, der diese Buchrolle fortnimmt (und) von dem, was mir gehört, entfernt, ihr Leichnam soll nicht bestattet werden, sie sollen keine Wasserspende empfangen (und) sie sollen keinen Weihrauch riechen, weder Sohn noch Tochter soll sich für sie erheben, um ihnen Wasser zu spenden, ihres Namens soll nirgenwo auf Erden gedacht werden (und) sie sollen den Sonnenschein nie(mals) sehen!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [33] -  [38]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓊃𓏤𓀀𓎟𓏏	125290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z-nb
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓈉𓏏𓏤𓈉𓏥	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+5	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+6	𓈖𓅘𓎛𓋴𓌙𓈉	86640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥs
+7	𓎡𓈙𓌙𓈉	163680	PROPN	entity-name	_	_	_	_	Translit=Kꜣš
+8	𓆼𓄿𓃭𓏤𓌙𓈉	119580	PROPN	entity-name	_	_	_	_	Translit=ḫr
+9	𓏠𓈖𓏠𓈖𓂢𓂻	70710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mnmn
+10	𓈙𓆑𓏏𓍼𓏤	154290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šfd.w
+11	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+12	𓂋𓏲𓇋𓄿𓂢𓂻𓆑𓋴	93540	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rwi̯
+13	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+14	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+15	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+16	𓂝𓃀𓎺𓏲𓏏	21680	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥb
+17	𓆞𓐎𓏱	122220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖꜣ.t
+18	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+19	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+20	𓂷𓏏𓏤	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+21	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+22	𓏁𓈗	160330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qbḥ.w
+23	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+24	𓋴𓋴𓈖𓏭𓂉	144080	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ssn
+25	𓏲𓏏	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+26	𓊸𓈒𓏫	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+27	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+28	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+29	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+30	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+31	𓅭𓏤𓀀	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+32	𓅭𓏏𓏏𓁐	125630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zꜣ.t
+33	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+34	𓄝𓏏𓏏𓂐	854553	VERB	verb	VerbForm=Fin	_	_	_	Translit=sti̯
+35	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+36	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+37	𓈗𓈘𓈇	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+38	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+39	𓋴𓆼𓄿𓏲𓀁𓏲𓏏	141620	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫꜣ
+40	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+41	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+42	𓁶𓏤	850801	ADP	preposition	_	_	_	_	Translit=tp
+43	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+44	𓇋𓏲𓄫𓏲𓏛	91930	ADP	preposition	_	_	_	_	Translit=r-ꜣw
+45	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+46	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+47	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+48	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+49	𓄝𓏏𓏏𓇶𓏫	147910	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=stw.t
+50	𓇋𓏏𓈖𓇳𓅆	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+

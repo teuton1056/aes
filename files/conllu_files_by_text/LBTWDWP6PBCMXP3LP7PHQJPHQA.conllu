@@ -1,0 +1,63 @@
+# sent_id = IBUBd2Hdks1BxUGdsx412WWMedw
+# corpus = sawlit
+# src_text_id = LBTWDWP6PBCMXP3LP7PHQJPHQA
+# src_text = sawlit:Stele des Khety (Kairo JE 45057)//〈Stele des Khety (Kairo JE 45057)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = An offering which the king gives and Osiris, lord of Busiris, foremost of the westerners, great god, lord of Abydos:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1]
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓎟𓊽𓂧𓊖𓅱	400982	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w
+4	𓏅𓈖𓏏𓊿𓅂	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+5	𓊹𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+6	𓎟𓍋𓃀𓈋𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+
+# sent_id = IBUBdz2jGsOYGkIihnNrx5QEOpI
+# corpus = sawlit
+# src_text_id = LBTWDWP6PBCMXP3LP7PHQJPHQA
+# src_text = sawlit:Stele des Khety (Kairo JE 45057)//〈Stele des Khety (Kairo JE 45057)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who gives garments to beautiful (women), who gives ornaments to the (ladies) beloved of the king, overseer of precious $nwḏ.pl$-ointments,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [3] -  [4]
+1	𓏙𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+2	𓅓𓅷𓄿𓅓𓅱𓋳𓏥	77910	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mṯꜣm
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓄤𓂋𓏏𓁐𓏪	83660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nfr.t
+5	𓏙𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+6	𓈙𓎡𓂋𓐬𓏥	124740	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖkr
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓌻𓂋𓏏𓁐𓏪	72470	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+9	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+10	𓅓𓂋𓍇𓏌𓅱𓆓𓅱𓇛𓈒𓏥𓀻𓋴𓅱𓏪	860320	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-nwd.w-šps.jw
+
+# sent_id = IBUBd8Z8jkjw8k4WlCXCMS1KEo0
+# corpus = sawlit
+# src_text_id = LBTWDWP6PBCMXP3LP7PHQJPHQA
+# src_text = sawlit:Stele des Khety (Kairo JE 45057)//〈Stele des Khety (Kairo JE 45057)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who is over the secrets of the morning house, overseer of the workplace Khety, who says:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6]
+1	𓁷𓂋𓋴𓈙𓏏𓍔𓄿𓏝𓈖𓉐𓏤𓇼𓏏	800057	_	epitheton-title	_	_	_	_	Translit=ḥr.j-sštꜣ-n-pr-dwꜣ.t
+2	𓅓𓂋𓈙𓏤	400315	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-š
+3	𓄡𓏏𓇋𓇋	550188	PROPN	entity-name	_	_	_	_	Translit=H̱.ty
+4	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+
+# sent_id = IBUBdy2pkrpxkkhThgjdibsuMIM
+# corpus = sawlit
+# src_text_id = LBTWDWP6PBCMXP3LP7PHQJPHQA
+# src_text = sawlit:Stele des Khety (Kairo JE 45057)//〈Stele des Khety (Kairo JE 45057)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The revered one, overseer of the workplace, Khety.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [10]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓅓𓂋𓈙𓏤	400315	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-š
+3	𓄡𓏏𓇋𓇋	550188	PROPN	entity-name	_	_	_	_	Translit=H̱.ty
+

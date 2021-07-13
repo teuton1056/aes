@@ -1,0 +1,257 @@
+# sent_id = IBUBdyXft23IYkwliidGDV9kreE
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Der Gutsvorsteher, Phylenschreiber (und) Totenpriester Djati.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg2; [1]
+1	𓅓𓂋𓉐𓏤	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+2	𓏞𓈖𓎂	144500	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-n-zꜣ
+3	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+4	𓍒𓄿𓏏𓇋	450020	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣ.tj
+
+# sent_id = IBUBdxvvznPwJU54nXAYxm0dKIw
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Seine Mutter, die Verwalterin des Königsvermögens, Schafet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg2; [2]
+1	𓅑𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓂋𓐍𓏏	95750	_	epitheton-title	_	_	_	_	Translit=jr.jt-jḫ.t-nswt
+4	𓆷𓆑𓏏𓅃𓈎	707214	PROPN	entity-name	_	_	_	_	Translit=Šꜣf.t
+
+# sent_id = IBUBd1exa5OtX0cQr4uoo0Bcmuk
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Der Gutsvorsteher Teti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg2; [4]
+1	𓅓𓂋𓉐𓏤	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+2	𓏏𓏏𓇋	550233	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBdzrxAAn8xUsHpbbT6WPsR50
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Seine Frau Schafet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg2; [5]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆷𓆑𓏏𓈎	707214	PROPN	entity-name	_	_	_	_	Translit=Šꜣf.t
+
+# sent_id = IBUBd6Uw3mbnO0QSjaa3eDsLQNY
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn, sein Geliebter, Djati.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg2; [3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓌸𓂋𓐚	400005	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.y
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓍒𓄿𓏏𓇋	450020	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣ.tj
+
+# sent_id = IBUBdwHjM6RQdUqAnmCPn9izyWU
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Die Totenpriesterin, seine Schwester Ni-su-Ptah.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [1]
+1	𓂖	105000	_	epitheton-title	_	_	_	_	Translit=ḥm.t-kꜣ
+2	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊪𓏏𓎛𓈖𓋴	400348	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Ptḥ
+
+# sent_id = IBUBd0A7QeaRQ0xrj6GSktnOE4I
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Seine Schwester Chut-en-Ba.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [2]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊸𓃞𓐍𓅱𓏏𓈖	705525	PROPN	entity-name	_	_	_	_	Translit=Ḫw.t.n-Bꜣ
+
+# sent_id = IBUBd20OLGRFCUNmt3qTokFUDvI
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Die Müllerin (und) Totenpriesterin Chenemet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [3]
+1	𓐩𓆓𓏏	91340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḏ.wt
+2	𓂖	105000	_	epitheton-title	_	_	_	_	Translit=ḥm.t-kꜣ
+3	𓐍𓈖𓅓𓏏	705628	PROPN	entity-name	_	_	_	_	Translit=Ḫnm.t
+
+# sent_id = IBUBd4MvOPwJGEszuWONGYDg92I
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Das gute Erhitzen (der aufgestapelten Töpfe).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [4]
+1	𓈎𓂋𓇋	161810	VERB	verb	VerbForm=Fin	_	_	_	Translit=qrr
+2	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+
+# sent_id = IBUBd2aZWiszY0H5nop30Rn94eY
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Das Durchseihen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [5]
+1	𓇋𓏏𓐍	41820	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥtḫ
+
+# sent_id = IBUBdQxniYsQfUpLuNOnCsXD9yA
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Senbet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [6]
+1	𓊃𓈖𓃀𓏏	706411	PROPN	entity-name	_	_	_	_	Translit=Znb.t
+
+# sent_id = IBUBd048CuAQDUlMuNb0dKcwJYs
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Der Gutsvorsteher Djati.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg4; [1]
+1	𓅓𓂋𓉐	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+2	𓍒𓄿𓏏𓇋	450020	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣ.tj
+
+# sent_id = IBUBd3AlYoQvXkaQgqQCVeUIGJ0
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Sein Bruder, sein Geliebter, Ka-i-wehemu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg4; [2]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓐚	400005	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.y
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎡𓄙𓅱	707660	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-wḥm.w
+
+# sent_id = IBUBdwWk3p1QXkcdgAW8QD3CUGE
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Sein Bruder, sein Geliebter, der Totenpriester Heru-nefer
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg4; [3]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓐚	400005	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.y
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+6	𓉔𓂋𓅱𓄤	550101	PROPN	entity-name	_	_	_	_	Translit=Hrw-nfr
+
+# sent_id = IBUBd0kAzYMWBUGBih2yhEqiXNk
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Das friedliche nordwärts Fahren zum Horizont des Cheops (Pyramidenkomplex von Cheops) zum Grab.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg4; [Titel]
+1	𓐍𓂧	122000	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫdi̯
+2	𓅓𓊵𓏏	_	X	unknown	_	_	_	_	_
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓐍𓅱𓆑𓅱𓏏𓅞𓉴	450600	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Ḫwi̯⸗f-wj
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓇋𓐪𓊃𓉐	31010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz
+
+# sent_id = IBUBd9ZP1IOiYEkllQQmgWN5gbA
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Der Entscheider, der ihn übersetzen wird, ist sein Bruder Senedjem-ib.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg4; [4]
+1	𓃥	851088	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣb
+2	𓍒𓄿𓏏	181780	VERB	verb	_	_	_	_	Translit=ḏꜣi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋴	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓌢𓈖𓐚	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓋴𓇛𓈖𓆓𓅓	450119	PROPN	entity-name	_	_	_	_	Translit=Snḏm-jb
+
+# sent_id = IBUBd2v3ZalQeUgIjQ4CeShqoBY
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Der Gutsvorsteher Djati.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg5; [1]
+1	𓅓𓂋𓉐	400013	_	epitheton-title	Number=Sing|Status=Pron	_	_	_	Translit=jm.j-rʾ-pr
+2	𓍒𓄿𓏏𓇋	450020	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣ.tj
+
+# sent_id = IBUBd2XfPJiSI0HXnzQoQWDFYQ0
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Sein Bruder Kai-demedju.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg5; [2]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎡𓂧𓆓𓐒	710377	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-dmḏ.w
+
+# sent_id = IBUBd9l1FeoQ00vSmBlhyHQXpzQ
+# corpus = bbawgrabinschriften
+# src_text_id = KEKEBQOX2ZAB5AAADJEZ4YJQ3Y
+# src_text = bbawgrabinschriften:Scheintür//linkes Panel
+# owner = Stefan Grunert
+# text_de = Sein Bruder Senedjem-ib
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg5; [4]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓇛𓈖𓆓𓅓	450119	PROPN	entity-name	_	_	_	_	Translit=Snḏm-jb
+

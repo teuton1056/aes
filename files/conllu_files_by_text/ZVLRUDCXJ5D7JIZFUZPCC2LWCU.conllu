@@ -1,0 +1,50 @@
+# sent_id = IBUBd9xPx1EZNkLmkZD5m2Z28mM
+# corpus = bbawgrabinschriften
+# src_text_id = ZVLRUDCXJ5D7JIZFUZPCC2LWCU
+# src_text = bbawgrabinschriften:Eingang//südl. Türwange
+# owner = Stefan Grunert
+# text_de = Du achtest auf das Lenktau!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.2]
+1	𓂋𓋴𓌘𓏏	95940	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rs
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁷𓆓	107540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+
+# sent_id = IBUBdWFaJVWn4UpGkW8C5aWlB2Q
+# corpus = bbawgrabinschriften
+# src_text_id = ZVLRUDCXJ5D7JIZFUZPCC2LWCU
+# src_text = bbawgrabinschriften:Eingang//südl. Türwange
+# owner = Stefan Grunert
+# text_de = Hier ist ja der Kanal des Westens.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.2]
+1	𓌸𓂋	71840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mr
+2	𓊿𓏏	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+3	𓏇𓍈𓏌	68390	ADV	adverb	_	_	_	_	Translit=mj-nꜣ
+4	𓄿	2	PART	particle	_	_	_	_	Translit=ꜣ
+
+# sent_id = IBUBd3MHhFBX1UrDu04ziiTgJAo
+# corpus = bbawgrabinschriften
+# src_text_id = ZVLRUDCXJ5D7JIZFUZPCC2LWCU
+# src_text = bbawgrabinschriften:Eingang//südl. Türwange
+# owner = Stefan Grunert
+# text_de = Das ist das Richtige!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.2]
+1	𓁶𓄤	171120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tp-nfr
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd6xP9XZH0kc7uNyPLyDb1S8
+# corpus = bbawgrabinschriften
+# src_text_id = ZVLRUDCXJ5D7JIZFUZPCC2LWCU
+# src_text = bbawgrabinschriften:Eingang//südl. Türwange
+# owner = Stefan Grunert
+# text_de = Jj-ky (Personenname)
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.4]
+1	𓇋𓇋𓎡𓇋𓇋	712239	PROPN	entity-name	_	_	_	_	Translit=Jy-ky
+

@@ -1,0 +1,32 @@
+# sent_id = IBUBd188FcJlhkCcth7FW78BrVg
+# corpus = sawlit
+# src_text_id = AOWFFV653VBB3KBJS5ZWNRCIH4
+# src_text = sawlit:〈15. 〉oBodmer Inv. 12//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Er wird 〈keinen〉 von seiner Stelle abwehren.
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓍚𓀜	854535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫsf
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊨𓏏𓉐𓏏	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxYcvu8XH0Q6je5IVVx4F4s
+# corpus = sawlit
+# src_text_id = AOWFFV653VBB3KBJS5ZWNRCIH4
+# src_text = sawlit:〈15. 〉oBodmer Inv. 12//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Ist er unversehrt, so bin ich unversehrt von Leichen.
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 7] - [vso, 8]
+1	𓅱𓍑𓄿𓏛	52090	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅱𓍑𓄿𓏛	52090	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜣ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓆞𓄿𓏲𓏱𓏥	122220	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣ.t
+

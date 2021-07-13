@@ -1,0 +1,36 @@
+# sent_id = IBUBd4HMqzGFHUvYuL4BicQ5AXs
+# corpus = sawlit
+# src_text_id = 5D5ST6HPRRG4FEQKZZEWHNX36E
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 581)//〈Antef, Sohn der Senet (BM EA 581)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = An invocation offering for the dignified chamberlain Antef, begotten of Senet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A7]
+1	𓉓	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓄪𓏤	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+4	𓄓𓂣𓐍𓏌𓏏𓏰𓏰	400016	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜥ-ẖn.wtj
+5	𓏎𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+6	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+8	𓊃𓈖𓏏	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+
+# sent_id = IBUBdWx6WAXyWUaMrmEl3jBQvZk
+# corpus = sawlit
+# src_text_id = 5D5ST6HPRRG4FEQKZZEWHNX36E
+# src_text = sawlit:Stele des Antef, Sohn der Senet (BM EA 581)//〈Antef, Sohn der Senet (BM EA 581)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was good within the offices, a kind one, free from piggishness.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B15]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓄤	854519	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nfr
+3	𓅓𓄚𓏌𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+4	𓐍𓄿𓉐𓏨	113180	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣ
+5	𓍯𓄿𓎛𓎝𓄣	400652	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣḥ-jb
+6	𓆄𓅱	152670	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šwi̯
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓂋𓇋𓏏	859731	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rrj.t
+

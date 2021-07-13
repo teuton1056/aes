@@ -1,0 +1,460 @@
+# sent_id = IBUBd9wnDx6swUVMpeMUHpMjXKU
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Mittel:   Was gemacht wird für eine Quetschung von $bn.wt$-Geschwüren:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4.1] - [4.2]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓋴𓈞𓅓𓍖𓀜	140730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḥm
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓃀𓈖𓏌𓏲𓐎𓏫	55640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bn.wt
+
+# sent_id = IBUBd68RLLOmxUBBozJxSBKdsco
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes (Mittel):  Was gemacht wird nach dem Bleiben (der Krankheit):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4.11]
+1	𓎢𓇋𓇋	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+2	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+4	𓏠𓈖𓏛	69590	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+
+# sent_id = IBUBd6RjpH19VkxJqCOnGsHXYiw
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Mehl der Johannisbrotfrucht: 1,  nördliches Salz: 1, Natron: 1, östliches Salz: 1,  Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5.5] - [5.6]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓌳𓄿𓅓𓇋𓇋𓍖𓈒𓏥	105070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t
+6	𓎔𓏏𓏏	73560	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mḥ.tj
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓎛𓌳𓄿𓅓𓇋𓇋𓍖𓈒𓏥	105070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t
+11	𓋁𓃀𓏏𓈇𓏤	20610	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jꜣb.j
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓆤𓏏𓏯𓏊𓏫	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd7VRUWCHkE10llQrSX43M50
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes (Mittel) für dasselbe:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5.6]
+1	𓎢𓇋𓇋𓀀	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mj.tjt
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8ekbOtzR0cQne88319pOZ4
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel für eine Quetschung von $bn.wt$-Geschwüren, das Entfernen von $tꜣ.w$-Hitze von seinem After, auf der Blase, auf dem $sꜥq-mšꜣt$-Körperteil (?), für einen Mann oder eine Frau:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5.8] - [5.10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓈞𓅓𓍖𓀜	140730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḥm
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓃀𓈖𓏌𓏲𓐎𓏥	55640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bn.wt
+7	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+8	𓏏𓍔𓄿𓏲𓊮	168950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ.w
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓄖𓏲𓏭𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wyt
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓈙𓊪𓇋𓇋𓏏𓄹	154000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=špty.t
+14	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+15	𓋴𓅧𓈎𓂻𓅓𓂝𓆷𓄿𓏲𓏏𓄹	861170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥq-mšꜣ.t
+16	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+17	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+18	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+19	𓂋𓏤𓊪	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBUBd1FJzZG1d0X9qTCtjkagAq4
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Was gemacht wird als Verband danach (d.h. nach dem Einlauf):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6.1]
+1	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐎𓏏𓏯𓀜	50990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wt
+4	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+5	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+
+# sent_id = IBUBd7nQu4oZ10rVg9EQwogQJSU
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Myrrhenharz: 1,   Fett von Vögeln (?): 1,   Kümmel: 1,   Weihrauchharz: 1,   Honig: 1;   werde zu einer Masse gemacht; werde damit verbunden, so dass er gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6.1] - [6.2]
+1	𓂝𓈖𓏏𓅂𓈒𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓌻𓂋𓎛𓏲𓏊𓏫	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+4	𓅯	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓊹𓌢𓏏𓂋𓇋𓆵𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓆤𓏏𓏯𓏊𓏫	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+15	𓏤𓏏	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+16	𓐎𓏏𓏯𓀜	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+17	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4ji5M07508Xk64Z0jf10HA
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel, welches gemacht wird nach ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6.6] - [6.7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓇋𓇋𓏏𓏛	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd6pe9oiF609Xhe0gl97SNgQ
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Handbuch der Sammlung von Mitteln des Arztes:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6.8]
+1	𓏶𓅓𓏭𓂧𓏏𓏤	861173	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-ḏr.t
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓋴𓎛𓏲𓏭𓅯𓏥	140550	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sḥw
+4	𓊃𓊪𓊗𓏫	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓌕𓏌𓏤𓏛	855957	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zwn.w
+
+# sent_id = IBUBdys0EkZQzUqvs8DtQh7u7Ec
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Was gemacht wird als Einlauf danach:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6.10] - [6.11]
+1	𓁹𓂋𓇋𓇋𓏏𓏛	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇅𓎛𓏲𓏊𓀜	861174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdḥ
+4	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+5	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+
+# sent_id = IBUBd1wNWshQik0grwIzH1SMzfk
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel zur Behandlung der Brust, zur Kühlung des Herzens, zur Kühlung des Afters, zum Beseitigen all seiner (⸗ des Afters) $tꜣ.w$-Hitze:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6.13A]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓂧𓏲𓐍𓐎	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+5	𓍲𓈖𓃀𓏏𓄹	156060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnb.t
+6	𓋴𓏁𓏛	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+7	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+8	𓋴𓏁𓏛	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+9	𓄖𓏲𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+10	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+11	𓏏𓍔𓄿𓏲𓊮	168950	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tꜣ.w
+12	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+13	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd0xGFg8qXE1qo7y1ppEde7o
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel zur Kühlung des Herzens, zur Kühlung des Afters, zur Belebung der Gefäße, das gemacht wird in der Zeit des Sommers:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6.13] - [7.1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓈎𓃀𓏁𓈗𓏛	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+5	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+6	𓋴𓈎𓃀𓏁𓈗𓏛	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+7	𓄖𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+8	𓋴𓋹𓈖𓐍	128910	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜥnḫ
+9	𓂸𓏏𓏯𓄹𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+10	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓏏𓂋𓇋𓆵𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+13	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+14	𓈙𓈗𓇳	154850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šm.w
+
+# sent_id = IBUBd1wZkzqCP0covHMWgqtTO4U
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel, was gemacht wird nach ihm als Einlauf:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇅𓎛𓏲𓏊𓀜	861174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdḥ
+
+# sent_id = IBUBdzScNa5RvEDnt5FjFiuHvm8
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel zum Beseitigen der $kꜣp.w$-Hitze auf dem Herzen:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓊶𓊪𓏲𓊮	861176	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣp.w
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBUBdWQJK8QtgEPKmh9amQsLmvo
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel, was gemacht wird nach ihm als Einlauf:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇅𓎛𓏲𓏊𓀜	861174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdḥ
+
+# sent_id = IBUBdxfYXrMf00FSp8z0pJgkZis
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel, was gemacht wird nach ihm als Einlauf, (zum) Beseitigen der $kꜣp.w$-Hitze aus dem After (und) um ihn zu kühlen:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇅𓎛𓏲𓏊𓀜	861173	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-ḏr.t
+8	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+9	𓊶𓊪𓏲𓊮	861176	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣp.w
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓄖𓏲𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+12	𓋴𓈎𓃀𓏁𓈗𓏛	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+13	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd1Dmu6O5rEVMjT5elVdtdQA
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel, was gemacht wird zum Beseitigen der $tꜣ.w$-Hitze auf dem Herzen (und) zum Kühlen des Afters:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.9] - [7.10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+6	𓏏𓍔𓄿𓏲𓊮	168950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ.w
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓄂𓏏𓏭𓄣𓄹	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+9	𓋴𓈎𓃀𓏁𓈗𓏛	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+10	𓄖𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+
+# sent_id = IBUBd7ZlaudzWEHph04NQiVJSg8
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes (Heilmittel), was man macht nach ihm als Einlauf:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.10] - [7.11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁹𓂋𓏏𓏏𓏛𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓁷𓏤𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇅𓎛𓏲𓏊𓀜	861174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdḥ
+
+# sent_id = IBUBd1XWNZS5GklvsNTCAA33nhY
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel zum Beseitigen der $tꜣ.w$-Hitze:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓏏𓍔𓄿𓏲𓊮	168950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ.w
+
+# sent_id = IBUBdWhOW54G8EbjlsLIgTbQzJQ
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel, was gemacht wird als Einlauf:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓂋𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇅𓎛𓏲𓏊𓀜	861174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdḥ
+
+# sent_id = IBUBd0DHpQAfyk0wvjXRdnDAQHg
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes (Heilmittel), was gemacht wird an diesem (d.h. demselben) Tag:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7.14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdz7TWqza4kU7jxhWjaIhOtM
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes (Heilmittel), was gemacht wird als Trank zum Beseitigen der $ꜣm.w$-Glut (in Kombination) mit Schmerzstoffen:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8.3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓅨𓂋𓇋𓈗𓀁	130370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zwr
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+7	𓄿𓅓𓏲𓐎	142	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣm.w
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓏲𓐍𓈖𓏲𓐎𓏥	49410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḫd.w
+
+# sent_id = IBUBdyhKtQef2kfIjEWkYcwzCtE
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8.8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd4J1lcCSu0sWqg9ZNX7DSlI
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8.11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd2QbXB14pk1wlkAMoCbXY1w
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Was gemacht wird nach dem Einlauf:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8.13]
+1	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓐟𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+3	𓇅𓎛𓏲𓏊𓀜	861174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdḥ
+
+# sent_id = IBUBdy9x4F2EykQxh84TzjJExkc
+# corpus = sawmedizin
+# src_text_id = J2NEBUVNKNE57DSTW73MVFZVNQ
+# src_text = sawmedizin:Papyrus Chester Beatty 6 (BM EA 10686)//〈Recto: 〉Medizinischer Text
+# owner = Marc Brose
+# text_de = Was gemacht wird danach als Einlauf:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8.14]
+1	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓁷𓏤𓐟𓏤	600325	ADV	adverb	_	_	_	_	Translit=ḥr-sꜣ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇅𓎛𓏲𓏊𓀜	861174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdḥ
+

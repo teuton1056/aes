@@ -1,0 +1,199 @@
+# sent_id = IBUBd4Z3Y2hE2EjRnvRWamiEZQY
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am a wise man, who taught himself to know,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.12]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓂋𓐍𓏝	95630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫ
+3	𓋴𓃀𓇼𓏝	_	X	unknown	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	_
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂋𓐍𓏝	95640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫ
+
+# sent_id = IBUBd5V5nQTwYEfhqAfSh3QBUDI
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one who consults and makes (others) consult with him,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.12] - [A.13]
+1	𓈖𓆓𓐩𓏌𓈖𓆓𓐩𓏌𓏝𓅱	91600	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nḏnḏ
+2	𓂋𓂣	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+3	𓈖𓆓𓐩𓏌𓍿𓅱	90910	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+4	𓅓𓂣	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3V9LSWH2EozlOzt0iTeN7w
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one white of clothes, whom a spectator of the festival notices amidst his collegues,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.13] - [A.14]
+1	𓎛𓌉	112301	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥḏ
+2	𓎛𓃀𓋴𓅱𓋳𓏪	103750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥbs
+3	𓊪𓏏𓁹	62900	VERB	verb	_	_	_	_	Translit=ptr
+4	𓌳𓁹𓅀	66270	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜣ
+5	𓎛𓃀𓎳𓏤	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+6	𓅓𓅓	64371	ADP	preposition	_	_	_	_	Translit=m-m
+7	𓌢𓈖𓀀𓏪	136230	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sn
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5C234PqAEVOpezkMIheU8s
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one broad-hearted, free of narrow-heartedness,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.14]
+1	𓅱𓋴𓐍𓋝	49800	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wsḫ
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓆅𓇋𓇋	152670	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šwi̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓆰𓋴𓈖𓄣𓏤	107000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥns-jb
+
+# sent_id = IBUBdxEl5HxsckaYozOMFVQjSIc
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one bright of supper, good of meal,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.15]
+1	𓎛𓌉	112301	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥḏ
+2	𓄟𓇋𓇋𓏏𓏒𓏥	74990	PROPN	entity-name	_	_	_	_	Translit=Ms.yt
+3	𓄤	854519	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nfr
+4	𓎛𓊃𓏠𓈖𓏒𓏥	110110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn.w
+
+# sent_id = IBUBd1luZ2nbkE78uu8ExPSgLVM
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved son, Antef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏎𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBd6O8ktXpvkkcqKVHbxJ0x4k
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved son, [Ant]ef(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏎𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBd6fztulxwUKyqNFwQwqPSTs
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His father Antef, born of Senet-Antef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏎𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+4	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓊃𓈖𓏏𓏎𓏏𓆑	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdQmZcZPrBkoLpgz9MBjTmzI
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother, Ankeku.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓌢𓈖𓏏	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂣𓈖𓎡𓎡𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd88W9o1bQUKEtEYjHyYWPY8
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother Djedjnebu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓌢𓈖𓏏	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂣𓂣𓋞𓈒𓏥	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7DiJ4MyX0LJoXCnXNmxkRM
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Senet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊃𓈖𓏏𓏒	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+
+# sent_id = IBUBd6Whzh720UpEmEbS07bWLXw
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Renefankh.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.3]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓈖𓆑𓋹𓈖𓐍	400528	PROPN	entity-name	_	_	_	_	Translit=Rn⸗f-ꜥnḫ.w
+
+# sent_id = IBUBd6Q4a3pXWUUIttkcVA40mjk
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The servant (?) Satamun.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.4]
+1	𓅭𓏏	53870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bꜣk.t
+2	𓇋𓏠𓈖𓅭𓏏	706074	PROPN	entity-name	_	_	_	_	Translit=Zꜣ.t-Jmn
+
+# sent_id = IBUBd19aIgQS2kjhjEzll28ImUY
+# corpus = sawlit
+# src_text_id = NRYPKMDIXNEPLPVITGNDTPMF4E
+# src_text = sawlit:Stele des Antef (Leiden V 6 ⸗ AP 74)//〈Stele des Antef (Leiden V 6 ⸗ AP 74)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The brewer Samenekhet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.6]
+1	𓀪𓏏𓏭	37440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥf.tj
+2	𓏠𓈖𓐍𓏏𓅭	_	X	unknown	_	_	_	_	_
+

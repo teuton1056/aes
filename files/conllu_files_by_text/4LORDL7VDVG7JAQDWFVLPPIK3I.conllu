@@ -1,0 +1,275 @@
+# sent_id = IBUBd5cdAbmhjkY6jV0TRWSWHDA
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Die Erfahrung gehört einem, der sorgt für (?; oder: hört auf?) das, was im Herzen geschieht. (???)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto III, 2]
+1	𓋴𓄃𓏲𓏭𓏛	157090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsꜣ.w
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓏲𓐍𓂋𓀁	49310	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḫr
+4	𓆣𓂋𓏥	858535	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBdQ1FWOAjZEhvnOe4tYQF2NA
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Der Assistent, er beobachtet den Lehrer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto III, 4]
+1	𓌨𓂋𓂝𓏤𓀀	124270	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ꜥ
+2	𓊪𓏏𓂋𓆵𓁹	62900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ptr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇼𓄿𓏲𓀜𓀀	131320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbꜣ.w
+
+# sent_id = IBUBd3Rg9oZ91U5bsqvyknDl4ts
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Wer den Schutz vertreibt, ist einer, der ohne Schutz ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto III, 5]
+1	𓂧𓂋𓀜	180130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dr
+2	𓎃𓏲𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂜𓏏𓏭𓅪	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+5	𓎃𓏲𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdy9060Vmrk8iig3EPcVIfdo
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Verletzung für den, der Horus verletzt! (???)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto III, 6]
+1	𓋴𓇋𓄿𓏏𓂿	127960	VERB	verb	_	_	_	_	Translit=sjꜣṯ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓋴𓇋𓂝𓏏𓂿	127960	VERB	verb	_	_	_	_	Translit=sjꜣṯ
+4	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBdyrIeCM0vkfwmMOi7jdjdxs
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Was geschieht, ist das, was dort berührt. (???) (oder: Werden zu einem, der dort berührt. (???))
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto IV, 1]
+1	𓆣𓂋	858535	VERB	verb	_	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂧𓏇𓇋	179320	VERB	verb	_	_	_	_	Translit=dmj
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd7CyTSbpoEzxpPrpdGeEKV8
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Der Offenherzige (?), der ans Ziel gelangt (?; oder: der angegriffen wird?), nicht (handwerklich) geschickt ist es, daß er handelt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto IV, 2]
+1	𓊪𓐍𓆼𓄿𓍸𓏛𓀀	61730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pḫꜣ
+2	𓄖𓂻	61370	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pḥ
+3	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+4	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+7	𓍎𓏲𓏭𓏛	105500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmw.w
+
+# sent_id = IBUBdWccHSRSt0bksp9cT6y0ssg
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Ein Mann tut, was er tut, (aber) ohne den zu kennen, der es (das Gleiche?) gegen ihn tut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto IV, 3]
+1	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+6	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁹𓏲𓀀	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+9	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9qrlnvR4UfQos1kdNg0hFs
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Ihr sollt euch nicht widersetzen wegen (?) dem, was getan wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto IV, 4]
+1	𓏶𓅓	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓇋𓏏𓈖𓂊𓀜	33130	VERB	verb	VerbForm=Fin	_	_	_	Translit=jtn
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+
+# sent_id = IBUBd02RyzihakzJhDdWzoaKuI4
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Sprich (oder: sprecht) nicht zu einem, der sein Herz wäscht (d.h. sein Mütchen kühlt)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Rto IV, 4]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓌃𓏲𓇋𓇋𓀁	78140	VERB	verb	VerbForm=Fin	_	_	_	Translit=mdwi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓇋𓂝𓈗	21550	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jꜥi̯
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+6	𓆑𓀀	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4G8lyWO10cPvZm3gvBezWw
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Es gibt kein Leben für den, der den Gott nicht kennt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Vso I, 6]
+1	𓂜𓃹𓈖𓏏	450141	PART	particle	_	_	_	_	Translit=n-wn.t
+2	𓋹𓈖𓐍	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓐍𓅓𓂜	116910	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫm
+5	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdyDxvXwyiEm7mMr4X7rnDqo
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Seht, die Vergütung des Unwissenden, seine Höhe (wörtl.: Zahl) ist unbekannt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Vso II, 3]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓉔𓅓𓏲𓏐𓏊𓏥	98420	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=hm.t
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓐍𓅓𓂜𓀀	116920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫm
+6	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+7	𓂋𓐍𓏛	95620	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+8	𓏏𓈖𓏌𓏲𓌙𓅯𓏛𓏥	175830	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ṯnw
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyTA5U3Lo0qbpWx9ZBaVL3w
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Er (d.h. der Unwissende) hält (wörtl.: findet) den Besitz von Seinesgleichen (für etwas Ähnliches), wie wenn ein Wunder geschieht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Vso II, 3]
+1	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jḫ.t
+4	𓏇𓏏𓏲𓏛	68220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mj.tw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+8	𓃀𓇋𓄿𓏏𓎺𓄑𓏛𓏥	54480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.yt
+
+# sent_id = IBUBdWPPVEmKFkhbkU4y6GVmzNo
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = "Schwätzer", sagt man über den Redner.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Vso II, 4]
+1	𓆈𓏥𓂋𓏤	853563	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥšꜣ-rʾ
+2	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌃𓏲𓏲𓀁𓀀	78210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mdw.w
+
+# sent_id = IBUBd2ONbn998UXDiPRHoSqDhBQ
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Der Sachkundige (sagt): "Ich werde (Sachen) erwerben (wörtl.: einfangen)" wie ein Ungebildeter, wobei er (aber) seine (eigene) Fähigkeiten vergißt/unterdrückt (?; wörtl.: verschluckt).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Vso II, 4]
+1	𓂋𓐍𓏛𓐍𓏏𓏛𓏥	95710	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rḫ-jḫ.t
+2	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+3	𓌦𓏏𓏛	854548	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫt
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓐍𓅓𓂜𓀀	116920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫm
+7	𓂝𓅓𓄈	37500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅜𓐍𓏲𓏛𓏥	253	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣḫ.w
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd26YbwOQ20NEl5mIpr1OPn8
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Der Weise (sagt): "Zu wem werde ich sprechen?"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Vso II, 4]
+1	𓂋𓐍𓏛𓀀	95630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫ
+2	𓁷𓏤	650039	VERB	verb	_	_	_	_	Translit=ḥr-ḏd
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅓𓂝	64430	PRON	pronoun	PronType=Int	_	_	_	Translit=m
+
+# sent_id = IBUBd55lta9vwEHUnwZValVXen0
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Eine Rede verschwindet hinterher nicht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Vso II, 5]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓎛𓊨𓏏𓅯𓅪𓈖	111600	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+3	𓌃𓂧𓏏𓀁	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+4	𓂋𓐟𓏤𓏛	851453	ADP	preposition	_	_	_	_	Translit=r-sꜣ
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd4E1yEXovESWlMNH8QhBHjM
+# corpus = sawlit
+# src_text_id = 4LORDL7VDVG7JAQDWFVLPPIK3I
+# src_text = sawlit:〈pRamesseum II ⸗ 〉pBM EA 10755//Die Lehre des pRamesseum II
+# owner = Peter Dils
+# text_de = Die Wut spaltet den Zerstörer nicht (oder: Die Wut des Zerstörers zerbricht nicht).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [Vso II, 5]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓊪𓐍𓆼𓄿𓍸𓏛𓈖	61730	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḫꜣ
+3	𓈖𓄡𓈖𓈖𓏲𓃫𓀁	88790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nšn.j
+4	𓌉𓆓𓏲𓏴𓀀	853560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+

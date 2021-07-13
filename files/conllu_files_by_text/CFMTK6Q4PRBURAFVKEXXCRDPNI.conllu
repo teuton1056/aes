@@ -1,0 +1,237 @@
+# sent_id = IBUBdz0INUqBZEiRiQgj2HKNDrY
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One dignified before Osiris, the steward Amen〈em〉het, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+3	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+4	𓅓𓂋𓉐𓏤	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+5	𓇋𓏠𓈖𓄂𓏏𓏤	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+6	𓌳𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd6fe7QINNEbVmMIFtBXPMlA
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His wife Hepyu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11.a]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐑𓇋𓇋𓅱	704661	PROPN	entity-name	_	_	_	_	Translit=Ḥpj-jw
+
+# sent_id = IBUBd8itt3NLNEHdnXc9WLyHaJc
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His wife Renesankh.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓈖𓋴𓋹𓈖𓐍	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd715lqZaa0HtoAoyG9eMkvI
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Senwosret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+
+# sent_id = IBUBd3S4Nh9HTUsZpTTe7LQ0Yhs
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son ...-hetep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4.a]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍸𓊵𓏏𓊪𓀀	850830	PROPN	entity-name	_	_	_	_	Translit=-
+
+# sent_id = IBUBd7b9p1FnYU5VgXGnk6nQek8
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Rehuerdjersen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4.b]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀀𓏪𓂋𓇥𓋴𓈖𓀀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd0fqsYqKTUtRkCQ76iDXsdM
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Antef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1.a]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏎𓈖𓏏𓆑𓀀	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBd5uLcw040EuCnoUAWOtRJGk
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Sebeknakht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1.b]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆊𓈖𓆱𓐍𓏏𓀜𓀀	550004	PROPN	entity-name	_	_	_	_	Translit=Sbk-nḫt.w
+
+# sent_id = IBUBdzZboNs3e0nKnkdBd5bSKjA
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Dedetmut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1.c]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅐𓏏𓂝𓂝𓏏𓁐	709609	PROPN	entity-name	_	_	_	_	Translit=Dd.t-Mw.t
+
+# sent_id = IBUBd490G6eRkE8Yl2k34mnBh4o
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Hekeni.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1.d]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓎢𓈖𓇋𓁐	705226	PROPN	entity-name	_	_	_	_	Translit=Ḥknj
+
+# sent_id = IBUBd0wiWDHMS0sprDbuBnGW2DQ
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Hepu-ankh.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1.e]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐑𓊪𓅱𓋹𓈖𓐍𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdW0KpAO8M001qgE9DkV2QGE
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother ...-hetep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2.a]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍸𓊵𓏏𓊪𓀀	850830	PROPN	entity-name	_	_	_	_	Translit=-
+
+# sent_id = IBUBd70ujXBQ0UXwoTFs4GmRelY
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother Antef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2.b]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏎𓈖𓏏𓆑𓀀	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBd2iCbHw7HknZtaq6dAaw3LI
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His father Osirishetep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2.c]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊨𓁹𓊵𓏏𓊪𓀀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7VG6PxrhkXQjNzMgpTLmOo
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother ...-hetep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2.d]
+1	𓇋𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍸𓊵𓏏𓊪𓀀	850830	PROPN	entity-name	_	_	_	_	Translit=-
+
+# sent_id = IBUBd7QGtuCvZkhltX0WK2Q5ypA
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother Iupi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3.a]
+1	𓇋𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓅱𓊪𓇋𓀀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7bmmLU5Pk1Vl9w3BBOmyso
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His father Ipi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3.b]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓊪𓇋𓀀	850290	PROPN	entity-name	_	_	_	_	Translit=Jpj
+
+# sent_id = IBUBd47pPT5Kl0AYnce0WxdZ36I
+# corpus = sawlit
+# src_text_id = CFMTK6Q4PRBURAFVKEXXCRDPNI
+# src_text = sawlit:Stele des Amenemhet (Kairo CG 20541)//〈Stele des Amenemhet (Kairo CG 20541)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His mother Hekeni.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3.c]
+1	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓎢𓈖𓇋𓁐	705226	PROPN	entity-name	_	_	_	_	Translit=Ḥknj
+

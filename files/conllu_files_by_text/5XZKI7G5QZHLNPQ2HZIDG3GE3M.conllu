@@ -1,0 +1,57 @@
+# sent_id = IBcDOLyDoZjXokh3uy3MTBN4eAc
+# corpus = sawmedizin
+# src_text_id = 5XZKI7G5QZHLNPQ2HZIDG3GE3M
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 13,2-15,10: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht wird Schmerz von dir entstehen an / in ihm.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 15,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓄿𓉔𓏴𓅪	174	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣh.w
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcDOFsBOnaQj0CQqgIWdkQ5l1M
+# corpus = sawmedizin
+# src_text_id = 5XZKI7G5QZHLNPQ2HZIDG3GE3M
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 13,2-15,10: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Toter, Tote, du seist zerstört!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 15,3]
+1	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+2	𓅓𓏏𓏏𓏱	69330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mwt.t
+3	𓋴𓎛𓊨𓅓𓏏𓅯𓅪𓏫	141190	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḥtm
+4	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDOMhWJE5c0E7LqbgIBg4xp2o
+# corpus = sawmedizin
+# src_text_id = 5XZKI7G5QZHLNPQ2HZIDG3GE3M
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 13,2-15,10: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht wirst du im Glanze erscheinen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 15,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓈍𓂝𓏛𓏱	114740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜥi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcDOKgPCvBQQ0JWgwQONQW7pFM
+# corpus = sawmedizin
+# src_text_id = 5XZKI7G5QZHLNPQ2HZIDG3GE3M
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 13,2-15,10: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Nicht wirst ⸢du⸣ hervorquellen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 15,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓃀𓋴𓆟	854509	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bzi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

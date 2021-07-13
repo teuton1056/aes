@@ -1,0 +1,93 @@
+# sent_id = IBUBd4tzVp17CUFGqWJKEXSdU9U
+# corpus = sawlit
+# src_text_id = KESHSUJZYFG7PPNYFTWGD35NI4
+# src_text = sawlit:Djehutimes (TT 32)//Harfnerlied
+# owner = Lutz Popko
+# text_de = (O) Schreiber des Königs, (o) Fähiger, [du] bist auf den Armen des Amun.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4]
+1	𓇓𓏞	600090	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-nswt
+2	𓇋𓈎𓂋𓏛	850289	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jqr
+3	𓎡	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓂝𓏤𓂝𓏲𓏮	34360	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=ꜥ
+6	𓇋𓏠𓈖	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+
+# sent_id = IBUBdW5bs0FmOEWHixr1mCLnfFY
+# corpus = sawlit
+# src_text_id = KESHSUJZYFG7PPNYFTWGD35NI4
+# src_text = sawlit:Djehutimes (TT 32)//Harfnerlied
+# owner = Lutz Popko
+# text_de = Er möge dich in den (richtigen) Wind setzen, (wo es) kein(e) Flußbiegung/Flußufer (gibt) (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌷𓏤𓂝𓅱𓊡	66790	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.w
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓈎𓂝𓎛𓂢𓈅𓏏𓏤	159840	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜥḥ.w
+
+# sent_id = IBUBdQ6oEWX4zEZQnDkoaNUicAM
+# corpus = sawlit
+# src_text_id = KESHSUJZYFG7PPNYFTWGD35NI4
+# src_text = sawlit:Djehutimes (TT 32)//Harfnerlied
+# owner = Lutz Popko
+# text_de = Es gibt keinen, der nicht in es (d. h. ins Jenseits) gelangt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [15]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓌡𓏤𓂝	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+3	𓏏𓍃𓐝	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+4	𓄭𓂋𓂻	132830	VERB	verb	VerbForm=Fin	_	_	_	Translit=spr
+5	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxDNykD8YEOdg7vWGGCNqOc
+# corpus = sawlit
+# src_text_id = KESHSUJZYFG7PPNYFTWGD35NI4
+# src_text = sawlit:Djehutimes (TT 32)//Harfnerlied
+# owner = Lutz Popko
+# text_de = Man sagt über dich:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [20]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdxnMB5FM3UU1kQyXKgSzWWE
+# corpus = sawlit
+# src_text_id = KESHSUJZYFG7PPNYFTWGD35NI4
+# src_text = sawlit:Djehutimes (TT 32)//Harfnerlied
+# owner = Lutz Popko
+# text_de = Das Schetit-Heiligtum des Sokar ist im Fest.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [22]
+1	𓈙𓍿𓇋𓇋𓏏𓐡	158440	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šṯy.t
+2	𓊃𓎡𓂋	146890	PROPN	entity-name	_	_	_	_	Translit=Zkr
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎱	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+
+# sent_id = IBUBd466FrP74Ew5h026TWqqWlo
+# corpus = sawlit
+# src_text_id = KESHSUJZYFG7PPNYFTWGD35NI4
+# src_text = sawlit:Djehutimes (TT 32)//Harfnerlied
+# owner = Lutz Popko
+# text_de = Nicht wird dein Name vergessen, Tempelvorsteher des Amun, Djehutimes.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [28]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓋴𓐍𓐝𓂜𓏏𓏲	135600	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smḫ
+3	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓄓𓉐𓏤𓈖𓇋𓏠𓈖	853569	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr-n-Jmn
+6	𓁟𓄟	600180	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj-ms.w
+

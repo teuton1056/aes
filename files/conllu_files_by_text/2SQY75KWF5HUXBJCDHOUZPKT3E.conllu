@@ -1,0 +1,161 @@
+# sent_id = IBcCBqx9fhMiR0ydpzzZMFnClO0
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Behandeln der rechten Körperhälfte mit Wander(schmerzen) (?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,6]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+5	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+6	𓋀𓅓𓏭𓂢	46770	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wnm.j
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓏲𓇋𓇋𓏏𓐎	93600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rwy.t
+
+# sent_id = IBcCBsbdJL5xBUirqGx9qxZaQQg
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = (Die Körperhälfte) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,7]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCBmDjW9UrW0iyhxwZh3ZegB0
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCBpKz4FWJo0yOhxfTNEhx5J0
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = (Die Körperhälfte) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,11]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCBt41HdORvUYOlfhxQGata2E
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCBvCh67HZs0GriXFk5hmNWR0
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = $snwt.t$-Winden: 1, Weinbeeren/Rosinen: 1, $mjmj$-Getreide: 1, $ꜣḥ$-Brei: 1, $ḥmꜣ.w$-Pflanzen: 1, $qst,t$-Pflanzen: 1, $ꜥmꜥꜥ$-Körner der Gerste: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,11] - [90,12]
+1	𓊃𓈖𓏌𓏲𓏏𓏏𓆰𓏥	136820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=snwt.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓃹𓈖𓈙𓏭𓈒𓏥	47040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnš
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓄿𓎛𓏌𓏥	186	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḥ
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎛𓌴𓄿𓅓𓏲𓆰𓏥	105080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmꜣ.w
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓌟𓏏𓏏𓆰𓏥	863026	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qst.t
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓂝𓅓𓂝𓂝𓆰𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+14	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+15	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+16	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCBsWzpfWeqU5qpuQkWDiI1ns
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,13]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCBksyyAQgtkp2vBtUsLKJbTY
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = Die Körperhälfte werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,13]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCBtjbD2J8Y028lhlWmE7cn5g
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,13]
+1	𓎡𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCBnu11zRFS0WTioHNjAvPBgs
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = $gy.t$-Pflanzen: 1, Gänsefett: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,13] - [90,14]
+1	𓎼𓄿𓇋𓇋𓏏𓆰𓏥	166650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=gy.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+4	𓅬	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+7	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCBv3N7uxiMksit8rQ6mKN0Vg
+# corpus = sawmedizin
+# src_text_id = 2SQY75KWF5HUXBJCDHOUZPKT3E
+# src_text = sawmedizin:Papyrus Ebers//90,6-90,14 ⸗ Eb 757-760: Heilmittel gegen $rwy.t$-Ausfluss
+# owner = Lutz Popko
+# text_de = (Die Körperhälfte) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [90,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

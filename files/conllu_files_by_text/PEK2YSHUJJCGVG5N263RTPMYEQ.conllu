@@ -1,0 +1,36 @@
+# sent_id = IBUBd1CsM14eRUlNuqdSFXaiKZY
+# corpus = bbawgrabinschriften
+# src_text_id = PEK2YSHUJJCGVG5N263RTPMYEQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Anschauen (eigtl. Vorführen) des Gewünschten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.119]
+1	𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+2	𓌸𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+
+# sent_id = IBUBd6gArVRQ5ESQgonu2v3ZzbM
+# corpus = bbawgrabinschriften
+# src_text_id = PEK2YSHUJJCGVG5N263RTPMYEQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Jungtier der weißen Säbelantilope.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.121]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓌳𓌉	66260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ-ḥḏ
+
+# sent_id = IBUBd01rBX2stU2wpWUVQFQWffw
+# corpus = bbawgrabinschriften
+# src_text_id = PEK2YSHUJJCGVG5N263RTPMYEQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Steinbocks.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.122]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓈖	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+

@@ -1,0 +1,94 @@
+# sent_id = IBcAWO89k8qS1kp4hhvnmTaTGVA
+# corpus = tuebingerstelen
+# src_text_id = U444JTT4GNG6VHNK3LDJJHGBPI
+# src_text = tuebingerstelen:Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)//Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)
+# owner = Susanne Beck
+# text_de = Seine Gemahlin, die Bürgerin der Stadt, Bebi, die Sehenet gebar.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 3 - 4
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌰𓅓𓎛𓇋𓇋𓏏	84360	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nmḥ.yt
+4	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓊖	80890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nʾ.t
+6	𓃀𓃀𓇋	400181	PROPN	entity-name	_	_	_	_	Translit=Bbj
+7	𓄟𓋴𓏏𓈖	74950	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=msi̯
+8	𓋴𓍲𓈖𓏏𓉐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAWFayU6EVwkfpoVcFoVROmCk
+# corpus = tuebingerstelen
+# src_text_id = U444JTT4GNG6VHNK3LDJJHGBPI
+# src_text = tuebingerstelen:Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)//Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)
+# owner = Susanne Beck
+# text_de = Sein Sohn, Horus, den Bebi gebar.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 3
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅃	400146	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓄟𓇋𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+5	𓃀𓃀𓇋	400181	PROPN	entity-name	_	_	_	_	Translit=Bbj
+
+# sent_id = IBcAWOi1vefdsUjniOcXWcVSlL4
+# corpus = tuebingerstelen
+# src_text_id = U444JTT4GNG6VHNK3LDJJHGBPI
+# src_text = tuebingerstelen:Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)//Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)
+# owner = Susanne Beck
+# text_de = Seine Tochter, die Herrin des Hauses, Bebi, die Bebi gebar.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 4 - 5
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+4	𓃀𓃀𓇋	400181	PROPN	entity-name	_	_	_	_	Translit=Bbj
+5	𓄟𓋴𓏏𓈖	74950	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=msi̯
+6	𓃀𓃀𓇋	400181	PROPN	entity-name	_	_	_	_	Translit=Bbj
+
+# sent_id = IBcAWDabwP92d0BtrNxA8wTOYcE
+# corpus = tuebingerstelen
+# src_text_id = U444JTT4GNG6VHNK3LDJJHGBPI
+# src_text = tuebingerstelen:Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)//Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Neferet, die Merutschen, gerechtfertigt, gebar.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 6 - 7
+1	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓊤𓂋𓏏	550116	PROPN	entity-name	_	_	_	_	Translit=Nfr.t
+3	𓄟𓋴𓏏𓈖	74950	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓌸𓏏𓏥𓍵𓈖𓁸𓈓	867602	PROPN	entity-name	_	_	_	_	Translit=Mrw.t-šn.tj
+5	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBcAWCoc1oGVI0womHIZdRWQX3g
+# corpus = tuebingerstelen
+# src_text_id = U444JTT4GNG6VHNK3LDJJHGBPI
+# src_text = tuebingerstelen:Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)//Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)
+# owner = Susanne Beck
+# text_de = Sein Sohn, Imbu, den Bebi gebar.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 1 - 2
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐝𓅓𓃀𓅱	_	X	unknown	_	_	_	_	_
+4	𓄟𓋴𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+5	𓃀𓃀𓇋	400181	PROPN	entity-name	_	_	_	_	Translit=Bbj
+
+# sent_id = IBcAWPoHLESjWEL4grvZyPaKkos
+# corpus = tuebingerstelen
+# src_text_id = U444JTT4GNG6VHNK3LDJJHGBPI
+# src_text = tuebingerstelen:Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)//Stele des Ameni (Äg. Slg. Tübingen Inv. Nr. 459)
+# owner = Susanne Beck
+# text_de = Sein Sohn, Chakau, den Bebi gebar.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 3 - 4
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈍𓂝𓂓𓂓𓂓	400537	PROPN	entity-name	_	_	_	_	Translit=Ḫꜥi̯-kꜣ.w
+4	𓄟𓋴𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+5	𓃀𓃀𓇋	400181	PROPN	entity-name	_	_	_	_	Translit=Bbj
+

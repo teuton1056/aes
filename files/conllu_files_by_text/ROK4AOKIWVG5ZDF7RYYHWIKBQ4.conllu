@@ -1,0 +1,171 @@
+# sent_id = IBcCk1eTTZFHFU5BsyvVzzYTss8
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = Das Land hüllt sich ein (?) ⸢für ihn⸣ wegen des Fluches.
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+1,2]
+1	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎢𓈖𓌰𓅓𓏛	164780	VERB	verb	VerbForm=Fin	_	_	_	Translit=knm
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓋴𓎛𓅨𓂋𓏲𓂋𓏲𓏴𓅪	852704	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḥwr
+
+# sent_id = IBcCk4KHrOaptUyctWEfXJfJoNE
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = Man sagt also zu dir:
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+1,5]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓆓𓂧𓏏𓏲	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCk3b74o8dQ0uRhEn7FimDA9s
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = „(Deine) Mutter Isis ist bei dir!“
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+1,5]
+1	𓅐𓏏𓆇𓅆	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+2	𓊨𓏏𓆇	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCk0IYJtMahE1YuO1jshOevpU
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = "Nein! Es ist kein (gewöhnlicher) Zauber, der in meinem Munde ist!"
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+1,6]
+1	𓅓𓃀𓇋𓄿𓏏𓎺𓄑𓀁𓏫	64760	ADV	adverb	_	_	_	_	Translit=m-bjꜣ.t
+2	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+3	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkꜣ.w
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCk4uQZxpDlkJGn9B8aL2h4RQ
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = Oh! Ah! Oh! Ah! ⸢Wehe! Wehe!⸣
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+1,8]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓉔𓄿𓇋𓇋𓀁	97240	INTJ	interjection	_	_	_	_	Translit=hꜣ
+3	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+4	𓇋𓐝𓏲𓀁	25980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.w
+5	𓊗𓏭	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBcCk0kMmqKpa0YSvLIJaLoO0N4
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = ⸢Der Himmel ist durchtrampelt, die Erde in⸣ Finsternis.
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+1,8]
+1	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+2	𓉔𓄿𓃀𓍁𓍘𓇋	98020	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=hbu̯
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢𓎢𓏲𓏭𓇰𓇳𓏤	165680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kk.w
+
+# sent_id = IBcCk3WMWJkVi0Jnt9Yi3TXcfBc
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = Du Gift, das verhüllt gekommen ist, wirst / sollst gesehen (d.h. sichtbar) werden.
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+1,9]
+1	𓌴𓁹𓄿𓄿𓁻𓏏𓏲	66270	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓂸𓏏𓏲𓏏𓂺	854515	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mtw.t
+4	𓇍𓇋𓇋𓏏𓂻	21930	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+5	𓂝𓆑𓍘𓇋𓏲𓏛𓀜𓍘𓇋	37380	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜥfn
+
+# sent_id = IBcCk3DDMbeelkCas4oeGlEY3fs
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = Sie (⸗ die Giftstoffe) haben den Schlafenden gebissen.
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+1,10]
+1	𓊪𓊃𓎛𓄑𓀁	62220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pzḥ
+2	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓈖𓌰𓅓𓂝𓏲𓁀𓏲𓍱	876704	PROPN	entity-name	_	_	_	_	Translit=Nmꜥ
+
+# sent_id = IBcCk322WUVXX0vIvcuyg3hydUQ
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = Die Weihe (?) ist (die), die verweilte (?).
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+2,1]
+1	𓇥𓂋𓅆	184660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+2	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+3	𓏠𓈖	69590	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+
+# sent_id = IBcCk1i1m41kaUgHs4aSpj3snw8
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = Zu rezitieren über Rückständen (?) von süßem Bier, zum (?) Zufriedenstellen.
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+2,2]
+1	𓆓𓂧𓌃𓏤𓏛	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈞𓅓𓏲𓍖𓈒𓏥	876725	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓎛𓈎𓏏𓏊𓏫	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+6	𓇛𓅓𓏛𓇋𓇋	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴𓊵𓏏𓊪𓏛𓏥	141120	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḥtp
+
+# sent_id = IBcCk1vCW7nQh0a6tQHabuqWsZ0
+# corpus = sawmedizin
+# src_text_id = ROK4AOKIWVG5ZDF7RYYHWIKBQ4
+# src_text = sawmedizin:Papyrus BM EA 10085 + 10105//〈rto. x+1,1-2,12: 〉 Magisch-medizinischer Text
+# owner = Marc Brose
+# text_de = Man wird feststellen, dass es deine Sprüche (sind), die ihn vertreiben, ebenso dass die Ruinenhügel (?) aufgebrochen (?) sind.
+# findspot = unknown
+# date = NK
+# lineRef = [rt. x+2,4]
+1	𓅠𓅓𓏛𓏏	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓋭𓊃𓏛𓀁𓏥	176860	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ṯꜣz
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓇋𓋴𓏏𓂋𓆳𓀢𓏛𓏥	147950	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=stwr
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+7	𓅓𓏇𓏏𓏛	853883	ADP	preposition	_	_	_	_	Translit=m-mj.tjt
+8	𓄿𓏲𓏲𓊌𓏥	7	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣꜣ
+9	𓏴𓂡𓈒𓏥	150110	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḏ
+

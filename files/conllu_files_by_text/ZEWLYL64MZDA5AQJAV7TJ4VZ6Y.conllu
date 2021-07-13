@@ -1,0 +1,43 @@
+# sent_id = IBUBdWNrnNfAfE8yviVffIVKpMY
+# corpus = bbawgrabinschriften
+# src_text_id = ZEWLYL64MZDA5AQJAV7TJ4VZ6Y
+# src_text = bbawgrabinschriften:Zentral-Szene//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der Verwalter des Königsvermögens, Aktenschreiber des Königs, Vorsteher der Häuser der Königskinder, Gutsvorsteher und Totenpriester Kai und seine Ehefrau Wechet-ka.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] -  [4]
+1	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+2	𓇓𓏞𓏏𓈖𓂝𓏝𓈖	550047	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜥ-n-nswt
+3	𓅓𓂋𓉐𓉐𓉐𓇓𓄟𓏏𓀀𓁐	450535	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr.w-ms.w-nswt
+4	𓅓𓂋𓉐	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+5	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+6	𓎡𓄿𓇋	400246	PROPN	entity-name	_	_	_	_	Translit=Kꜣj
+7	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅱𓐍𓏏𓎡	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdyxtLRjXK07ejcKjtwdlWjk
+# corpus = bbawgrabinschriften
+# src_text_id = ZEWLYL64MZDA5AQJAV7TJ4VZ6Y
+# src_text = bbawgrabinschriften:Zentral-Szene//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Kai.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓎡𓄿𓇋	400246	PROPN	entity-name	_	_	_	_	Translit=Kꜣj
+
+# sent_id = IBUBd0eS20j17ktAqAOyhTkuTYA
+# corpus = bbawgrabinschriften
+# src_text_id = ZEWLYL64MZDA5AQJAV7TJ4VZ6Y
+# src_text = bbawgrabinschriften:Zentral-Szene//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Sein Sohn Hesi-Re.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓂝𓎛𓎿𓇋𓇋𓊃	_	X	unknown	_	_	_	_	_
+

@@ -1,0 +1,25 @@
+# sent_id = IBUBdx8d8PH7vkrdjlAxlwKudXs
+# corpus = bbawgrabinschriften
+# src_text_id = JLBCEUYJHNDBZOWRFVBJ52HIXU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = (Personenbeischrift:) Seine älteste Tochter Neferet-ser.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=sms.w
+4	𓄤𓂋𓏏𓂋𓋴	450565	PROPN	entity-name	_	_	_	_	Translit=Nfr.t-sr
+
+# sent_id = IBUBdQywL168dU52lRDO4Q9fAHE
+# corpus = bbawgrabinschriften
+# src_text_id = JLBCEUYJHNDBZOWRFVBJ52HIXU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = (Personenbeischrift:) Nit-anch-Hathor.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓉡𓈖𓋹	702666	PROPN	entity-name	_	_	_	_	Translit=N.jt-ꜥnḫ-Ḥw.t-Ḥr.w
+

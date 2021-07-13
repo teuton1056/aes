@@ -1,0 +1,316 @@
+# sent_id = IBUBdzajkc4RAU7gpuz78HYyxI4
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Es sprach der Sänger des Osiris, des Obersten der (Arbeiter)truppe am Ort der Wahrheit (d.h. in Deir el-Medineh), Inherchau, des Gerechtfertigten; ich spreche:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1] - [2]
+1	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎛𓎿𓋴𓇋𓀁𓏥	109430	_	epitheton-title	_	_	_	_	Translit=ḥs.w
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓁹𓊩	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+6	𓉻𓏛𓈖𓇩𓏏𓏤𓏥𓐝𓊨𓏏𓉐𓐙𓏏	853366	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-n-jz.wt-m-s.t-mꜣꜥ.t
+7	𓏎𓋔𓇯𓈍𓂝𓏛𓏲𓏮𓀰	600147	PROPN	entity-name	_	_	_	_	Translit=Jn-ḥr.t-ḫꜥi̯.w
+8	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+9	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+10	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdQQ8wWCmgEVWjnMOZ23Y700
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Ich bin dieser Fürst, dieser Mann (von Rang), der überdies ein Gerechter war.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓀙	138920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sr
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓊃𓀁𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+6	𓃹𓏲𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+7	𓌶𓂝𓏏𓐙𓏛	500312	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.tj
+8	𓐝𓄿𓇉𓏲𓂡	65090	ADP	preposition	_	_	_	_	Translit=m-ḥꜣ.w
+
+# sent_id = IBUBd7kCINGg6kkbszEWOGNLWoM
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Gut ist, was Gott ihm gegenüber getan hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2] - [3]
+1	𓄤𓆑𓂋	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+2	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓊹𓀭	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9akZ4oMm0oshgrvapodGKU
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Die Gestalt〈en〉, die zu einer Generation geworden sind, schwinden seit der Zeit Gottes,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓄿𓈎𓇋𓀾𓏛	159670	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qj
+2	𓆣𓂋	858535	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓊄𓃀𓏮𓂻	131460	VERB	verb	VerbForm=Fin	_	_	_	Translit=zbi̯
+7	𓇥𓂋	850803	ADP	preposition	_	_	_	_	Translit=ḏr
+8	𓂋𓎡	96390	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rk
+9	𓊹𓀭	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd0GBt2LvlEcRg3nFBzhd1y8
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = der Nachwuchs kommt an ihre Stelle.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3] - [4]
+1	𓄿𓍑𓐝𓀔𓏥	182160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣm
+2	𓂻𓏲𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+5	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdQEalLVv20bGoUqCBuEWFR4
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Das Nilwasser fließt stromab und der Nordwind weht stromauf: Jeder Mann (geht) zu seiner Stunde.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓏌𓏌𓏌𓇯𓈗	500005	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw.w
+2	𓐍𓂧𓊛	122000	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫdi̯
+3	𓎔𓎛𓇋𓇋𓊡𓏲𓏥	73860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḥ.yt
+4	𓏃𓈖𓏏𓏮𓍘𓇋𓇋𓊛	119140	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫnti̯
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wnw.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwRDHxeHYkDQqfXEtWkt6p8
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Feiere einen schönen Tag, (o) Osiris, Oberster der (Arbeiter)truppe am Ort der Wahrheit, Inherchau, Gerechtfertigter!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7] - [8]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓉔𓂋𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+3	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+4	𓁹𓊨𓀭	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+5	𓉻𓏛𓈖𓇩𓏏𓏤𓏥𓐝𓊨𓏏𓉐𓐙𓏏	853366	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-n-jz.wt-m-s.t-mꜣꜥ.t
+6	𓏎𓋔𓇯𓈍𓂝𓏛𓏲𓏮	600147	PROPN	entity-name	_	_	_	_	Translit=Jn-ḥr.t-ḫꜥi̯.w
+7	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd7Yin40HQ0SThRmgA7KTt0g
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Lass dein Herz wirklich, wirklich nicht müde werden zusammen mit deinem Liebling (d.h. mit deiner geliebten Ehefrau)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8] - [9]
+1	𓐝	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓅨𓂋𓂧𓀉𓅪	48260	VERB	verb	VerbForm=Fin	_	_	_	Translit=wrḏ
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂋𓅨𓂋	_	X	unknown	_	_	_	_	_
+6	𓊗𓏮	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+7	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+8	𓏶𓐝𓏮𓄣𓏤	25250	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jm.j-jb
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd2ZJiGUUbkEVjVatYffRPTU
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Kränke nicht dein Herz zeit deiner Existenz (wörtl.: in der Zeit des: du existierst)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9]
+1	𓐝𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓌌𓏴𓅪	112660	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥḏi̯
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓂋𓇋𓆶𓇳	172700	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tr
+7	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdziyhw78rUxvu9OwLQyqXr0
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Feiere einen wirklich, wirklich schönen Tag!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓉔𓂋𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+3	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+4	𓂋𓅨𓂋	_	X	unknown	_	_	_	_	_
+5	𓊗𓏮	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBdzfFQQs6QkBTlVQ6vuvEhNk
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Trage (?; wörtl: gib) Harz zusammen mit feinem Öl auf deine Seite auf (und lege) Kränze aus Lotosblüten und $rrm.t$-Pflanzen an deine Brust!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10] - [11]
+1	𓇋𓅓𓐝𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈎𓏇𓇋𓇋𓏋𓏥	160810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy
+3	𓁶𓊪𓏋𓏩	170960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tp.jt
+4	𓏏𓅱𓀾𓏛𓏏𓏲	170500	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=twti̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓐞𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓌴𓄿𓎛𓏮𓆰𓏥	67240	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mꜣḥ
+9	𓊃𓈙𓈖𓏮𓆸𓆰𓏪	145220	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zšn
+10	𓂋𓂋𓆓𓆰𓏥	95400	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rrm.t
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓍲𓈖𓃀𓏏𓄹	156060	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šnb.t
+13	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdx5bz6aolU9Hvn7roMcBFQA
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Die Frau ist dein Liebling, indem sie an deiner Seite sitzt (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [11] - [12]
+1	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓏶𓐝𓏮𓄣𓏤	25250	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jm.j-jb
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓊃𓇛𓐝𓏛𓏏𓏲	851678	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=snḏm
+6	𓂋𓐞𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd15aSUUsnkokh8HgPwxFd6I
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Dein Herz sei/werde nicht ärgerlich wegen allem, was geschieht/geschehen ist!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12]
+1	𓇋𓐝	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓎛𓆓𓈖𓏌𓏲𓏴𓅪	112780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥḏn
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓆣𓂋𓏏𓏥	858535	VERB	verb	Number=Plur|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+8	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdzyBayWHcEXVjCvkbEDL90Q
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Setze Gesang vor dich!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12] - [12-13]
+1	𓇋𓐝𓐝𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓎛𓎿𓋴𓇋𓀁𓇋𓏥	109390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥs.t
+3	𓂋𓐍𓏏𓆑𓁷𓏤	92260	ADP	preposition	_	_	_	_	Translit=r-ḫft-ḥr
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5aCQZqNAkPAu8zWwzWJWK0
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Gedenke nicht des Schlechten und des Abscheus Gottes!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13]
+1	𓐝𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓋴𓆼𓄿𓀁	141620	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫꜣ
+3	𓈋𓏲𓏏𓅪𓏥	182900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏw.t
+4	𓅱𓃀𓏏𓏲𓆜𓏥	55150	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=bw.t
+5	𓊹𓀭	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd8qHQcWy20EjiGcUiPYUeCM
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Erinnere dich der Freude, o Rechtschaffener, o richtiger und gerechter Mann, der gelassen, bescheiden/geduldig und zufrieden ist, der geruhsam und heiter ist und der nichts Schlechtes spricht!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13] - [15]
+1	𓋴𓆼𓄿𓀁	141620	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḫꜣ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋𓈙𓏲𓏏𓂉𓏛𓏥	96220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ršw.t
+5	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓂝𓈎𓂭𓂭𓏛	41310	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥqꜣ
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+8	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+10	𓂸𓏏𓂭𓂭𓏛	400854	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mtj
+11	𓌶𓂝𓐙𓏏	854512	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜥ
+12	𓈎𓃀𓎛𓏁𓏛𓏥	854563	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qbḥ
+13	𓎝𓎛𓏛	43010	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wꜣḥ
+14	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+15	𓉔𓂋𓏛	99050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=hru̯
+16	𓊃𓂋𓆑𓀁𓏥	139410	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=srf
+17	𓃹𓈖𓆑𓄑𓀁	46660	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnf
+18	𓏏𓍃𓐝𓏛	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+19	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+20	𓃀𓇋𓈖𓅪	54620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjn
+
+# sent_id = IBUBd0i4jQXPQEeioFJcXxYMdME
+# corpus = sawlit
+# src_text_id = LI2DSUZ53RDGFCSXTR75S3ZVLE
+# src_text = sawlit:〈Harfnerlieder Text D: 〉Inherchau (TT 359)//Harfnerlieder Text D
+# owner = Lutz Popko
+# text_de = Gib deinem Herzen täglich Trunkenheit, bis jener Tag kommt, an dem man landet (d.h. stirbt)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [15] - [16]
+1	𓇋𓐝𓐝𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓏏𓐍𓏋𓂡	173150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tḫ.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓐝𓎼𓂋𓏮𓏛𓏥𓉔𓂋𓇳𓏤	650025	ADV	adverb	_	_	_	_	Translit=m-ẖr.t-hrw
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓇍𓇋𓏮𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+9	𓉔𓂋𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+10	𓅮𓆑𓏮𓈐	851258	PRON	pronoun	PronType=Dem	_	_	_	Translit=pfj
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓏠𓈖𓇋𓌙𓊛	854513	VERB	verb	VerbForm=Fin	_	_	_	Translit=mjni̯
+13	𓇋𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

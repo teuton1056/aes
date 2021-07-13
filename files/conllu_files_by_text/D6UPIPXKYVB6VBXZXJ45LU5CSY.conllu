@@ -1,0 +1,169 @@
+# sent_id = IBUBd5Sx5vufQkLMteVEWzrMQz4
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = King of Upper and Lower Egypt 𓍹Nubkaure𓍺, given life forever,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓇓𓆤𓏏𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+2	𓇳𓋞𓂓𓂓𓂓	400160	PROPN	entity-name	_	_	_	_	Translit=Nbw-kꜣ.w-Rꜥw
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd7xjUFJGi0mkkSySvYPSqFM
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = son of Re 𓍹Amenemhat𓍺, given life for ever.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.2]
+1	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+2	𓇋𓏠𓈖𓅓𓄂𓏏	400161	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd2piq2ZWNkCauC8hbvRCZNE
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was a unique one in the heart of his lord, one whom he chose in front of the two lands in order to direct for him the canal-outlet (?) in the Thinite nome, the dignified Kheperkare.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌡	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄣	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓍉𓈖	854554	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=stp
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓏃𓏏	850802	ADP	preposition	_	_	_	_	Translit=ḫnt
+11	𓇾𓇾	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓌂	120150	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫrp
+14	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓂝𓈗𓈇𓏤	34410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓋅	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+19	𓄪	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+20	𓆣𓂓	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdwSEHclfAkokhgms2O5CZ7M
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One dignified in front of Ptah-Sokar, hereditary noble and local prince, one great in his office, great in his rank, a magistrate at the fore of the people, one truly beloved of his lord, the chamberlain Kheperkare, lord of dignity.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1] - [D.7]
+1	𓇋𓄪	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+3	𓊪𓏏𓎛𓊃𓎡𓂋𓅋	400612	PROPN	entity-name	_	_	_	_	Translit=Ptḥ-Zkr
+4	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+5	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+6	𓅨	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓊑𓏤	20430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jꜣw.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓉻𓂝𓄿𓏝	34760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣ
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓃶	129070	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥḥ
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓋴𓂋𓀚	138920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sr
+15	𓅓𓄂𓏏	500048	ADV	adverb	_	_	_	_	Translit=m-ḥꜣ.t
+16	𓅚𓏥	95820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rḫ.yt
+17	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mr.y
+18	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓌳𓐙𓂝	66460	ADJ	adjective	_	_	_	_	Translit=mꜣꜥ
+21	𓅓𓂋𓂝𓄚𓏌𓏏𓏮𓉐	400016	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜥ-ẖn.wtj
+22	𓇳𓆣𓂓	_	X	unknown	_	_	_	_	_
+23	𓎟𓄪	81950	_	epitheton-title	_	_	_	_	Translit=nb-jmꜣḫ
+
+# sent_id = IBUBd2yqJVouFUtJioNWlePFvmI
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved father Tjaw.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.8] - [D.9]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓇋𓇋𓈘	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅷𓄿𓅱	709111	PROPN	entity-name	_	_	_	_	Translit=Ṯꜣw
+
+# sent_id = IBUBd4jPq3bAmEU7kQpbt3HFViw
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Required offerings.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.15]
+1	𓄑𓂧𓏏𓊵	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+
+# sent_id = IBUBd2ONgtmcfk2eteveOtkC1I4
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Bread, 1000 (pieces); beer, 1000; bulls, 1000; birds, 1000.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.16]
+1	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+3	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+5	𓃿	162930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+6	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+7	𓅿	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+8	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBdxHsBYIy50dJvXk4uvrkb4E
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved brother Antef, lord of dignity.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.1] - [E.2]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈘	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏎𓈖𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+6	𓎟𓄪𓏤	81950	_	epitheton-title	_	_	_	_	Translit=nb-jmꜣḫ
+
+# sent_id = IBUBd0xbb3cM4ELlvwx9YCsAnW4
+# corpus = sawlit
+# src_text_id = D6UPIPXKYVB6VBXZXJ45LU5CSY
+# src_text = sawlit:Stele des Kheperkare (Kairo CG 20531)//〈Stele des Kheperkare (Kairo CG 20531)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved brother Ser, lord of dignity.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.3] - [E.4]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈘	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓂋𓀚	400735	PROPN	entity-name	_	_	_	_	Translit=Sr
+6	𓎟𓄪𓏤	81950	_	epitheton-title	_	_	_	_	Translit=nb-jmꜣḫ
+

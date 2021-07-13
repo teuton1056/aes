@@ -1,0 +1,23 @@
+# sent_id = IBUBd0LDiIWXl0R6roExd9QgE2Y
+# corpus = bbawgrabinschriften
+# src_text_id = 6ODYRBNU4NCCTHR7DYUNGXU4DM
+# src_text = bbawgrabinschriften:Westwand//Essensbereitung 〈oberes Register〉
+# owner = Stefan Grunert
+# text_de = Das Backen lassen (des Brotes in der Asche).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓋴𓈎𓆋	146120	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqfn
+
+# sent_id = IBUBd9MkUtZNMUcGqDdARV1mlgs
+# corpus = bbawgrabinschriften
+# src_text_id = 6ODYRBNU4NCCTHR7DYUNGXU4DM
+# src_text = bbawgrabinschriften:Westwand//Essensbereitung 〈oberes Register〉
+# owner = Stefan Grunert
+# text_de = Das Vermischen des Brotteigs.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓄿𓇹𓐍𓏖𓏖𓏖	89	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣbḫ
+2	𓆼𓄿𓈋	114410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣḏ.w
+

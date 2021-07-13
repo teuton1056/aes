@@ -1,0 +1,142 @@
+# sent_id = IBcDM4zWXVzcUkjWlTI3QDzxIMg
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Buch von der Tageszeit (?):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5.4]
+1	𓏛𓏏𓏤𓍼𓏤𓈖𓏏𓉔𓂋𓏲𓇳𓏤𓅨𓂋𓈙𓏲𓇳𓏤	877826	PROPN	entity-name	_	_	_	_	Translit=Mḏꜣ.t-n.t-hrw-wrš
+
+# sent_id = IBcDM9G4VQzWukE9tOSyiafr3CA
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Re, der von selbst entstanden ist!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5.4]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓆣𓂋𓏲𓆓𓊃𓆑	500388	_	epitheton-title	_	_	_	_	Translit=ḫpr-ḏs⸗f
+
+# sent_id = IBcDM6vBYQBtLExigyZMLF7Xl2c
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Re, der Pun[t] erschaffen hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5.4]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓈎𓌳𓄿𓅓𓏲𓅯𓏛	854564	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qmꜣ
+4	𓊪𓃹𓈖𓏏𓈉	59790	PROPN	entity-name	_	_	_	_	Translit=Pwn.t
+
+# sent_id = IBcDM9okckdV80cpi3pS9wBkihg
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Re-Chepri!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5,5]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇳𓅆𓆣𓂋𓇋𓀾𓅆	860064	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḫpr.j
+
+# sent_id = IBcDM5t304JkKkQbmbfnyxweIeQ
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Ptah, Schöngesichtiger!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5,6]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+3	𓄤𓆑𓂋𓁷𓏤𓅆	400940	_	epitheton-title	_	_	_	_	Translit=nfr-ḥr
+
+# sent_id = IBcDMyij9pHOLU2ukJMaEC5g7Bw
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Ptah, Herr der Ma'at!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5,6]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+3	𓎟𓌷𓂝𓏏𓆄𓏛	861804	PROPN	entity-name	_	_	_	_	Translit=Nb-Mꜣꜥ.t
+
+# sent_id = IBcDMQQKweqU5kiVkhNotV1fRFU
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Ptah unter seinem Moringabaum!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5,7]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+3	𓌨𓂋𓏭𓏛𓃀𓈎𓆭𓏛𓆑	400649	_	epitheton-title	_	_	_	_	Translit=ẖr.j-bꜣq⸗f
+
+# sent_id = IBcDM6NxDOZV1Uvyr0aq0FblV3o
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Osiris Wenennefer!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5,9]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊨𓁻𓅆𓃹𓈖𓈖𓄤𓆑𓂋𓅆	500722	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Wnn-nfr
+
+# sent_id = IBcDMWwRLjYqoENFkfEkmfEyeME
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Osiris inmitten von Busiris!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5,9]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓁷𓂋𓏭𓄣𓏤	108540	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḥr.j-jb
+4	𓊽𓊽𓂧𓏲𓊖	185980	PROPN	entity-name	_	_	_	_	Translit=Ḏd.w
+
+# sent_id = IBcDM3hMd8okKkWViu1o8MpiaC8
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Osiris, Vorderster seines Hauses!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5,10]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊨𓁻𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓏃𓈖𓏏𓏭𓂊𓏛	854347	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḫnt.j
+4	𓉗𓏏𓉐𓏏𓏲	99790	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥw.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcDM6xZFImvlEFOuOM82JVxwFA
+# corpus = sawmedizin
+# src_text_id = 5B7O4PWL2NG5PDUO47QHGLIEOY
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 5,4-6,x: 〉 Anrufungen an die Götter
+# owner = Marc Brose
+# text_de = Oh Horus Chenti-irti!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 5,11]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓅃𓅆𓏃𓈖𓏏𓏭𓂊𓏛𓁹𓁹𓏲𓏭𓅆𓅆	852420	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-Mḫnt.j-(n)-jr.tj
+

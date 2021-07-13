@@ -1,0 +1,48 @@
+# sent_id = IBUBdQXmrZpW6k72oxWF0nESNng
+# corpus = bbawgrabinschriften
+# src_text_id = 7ZD7Y6XWRBBD3DA7CKXBBMNSA4
+# src_text = bbawgrabinschriften:südliche Laibung//Inschrift C
+# owner = Stefan Grunert
+# text_de = Die Ernte möge gebracht werden im Auftrag des Gottesopfers aus Unter- und Unterägypten als Stundendienst-Vergütung.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [16]
+1	𓏎	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓄿𓊃𓐍𓎺	265	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣzḫ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄋𓏏𓏝	45750	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wpw.t
+5	𓊹𓊵𓏏𓏝	850949	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp.t-nṯr
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇾𓎕𓇉	169120	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-mḥ.w
+8	𓇗	154690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šmꜥ.w
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓎩𓃹𓏌𓏏𓇼	850960	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jdr-wnw.t
+
+# sent_id = IBUBd199BEqIRE64tjhVXatG9H4
+# corpus = bbawgrabinschriften
+# src_text_id = 7ZD7Y6XWRBBD3DA7CKXBBMNSA4
+# src_text = bbawgrabinschriften:südliche Laibung//Inschrift C
+# owner = Stefan Grunert
+# text_de = Ein Heute wie ein (absolut) Neues:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [23]
+1	𓏇𓈖	850961	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mjn
+2	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+3	𓌳𓏏	66820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣw.t
+
+# sent_id = IBUBdQVFaix8W0RChgBTOGokZAE
+# corpus = bbawgrabinschriften
+# src_text_id = 7ZD7Y6XWRBBD3DA7CKXBBMNSA4
+# src_text = bbawgrabinschriften:südliche Laibung//Inschrift C
+# owner = Stefan Grunert
+# text_de = Totenpriester sind für ihn ernannt worden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [24]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂖𓀀𓁐	104990	_	epitheton-title	Number=Plur|Status=Abs	_	_	_	Translit=ḥm-kꜣ
+

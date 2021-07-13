@@ -1,0 +1,186 @@
+# sent_id = IBUBlcWhcZYGuEtjnz2cpRkNSnQ
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde damit jeden Tag verbunden, bis er gesund ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [II.12]
+1	𓐎𓏏	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓇛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBlScniDWPQEPghJvPhv072KU
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = (Überschrift:) Erweichen von Steifheit (der Glieder), Ausstrecken von Verkrümmungen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [III.0]
+1	𓊃𓎼𓈖𓈖𓀉	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+2	𓈖𓆱𓐍𓏏𓏏	87600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḫt.t
+3	𓂧𓃹𓈖𓍢	178160	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwn
+4	𓈎𓂋𓆑𓏏𓍢𓏥	161720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qrf.t
+
+# sent_id = IBUBlXSaGarmzkzgv0UNTVyN8qI
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde damit jeden Tag gesalbt, bis er gesund ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [III.26] - [III.27]
+1	𓐞𓊃	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+3	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈖𓆓𓇛𓅓	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUCAewRgPFlg0SYlLthFNyBrXA
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde damit [täg]lich verbunden, bis er sich wohl fühlt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [VIII.64]
+1	𓐎𓏏	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓇛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUCAs5yTPHQ8U4dsehcd7ZdKmw
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde damit täglich verbunden, bis er sich wohl fühlt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XI.5]
+1	𓐎𓏏	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓋴	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓇛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUCAu9LDjVQW0QIvoIXkfbWQLA
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde in diesem Honig zerkleinert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XII.9]
+1	𓈎𓈎𓈖𓏴	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+2	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+4	𓆤𓏏𓏌	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBUCKcfCaMSR7UtConqJ1ncu33o
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = Ein anderes Heilmittel.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XIII.10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUCKTokRuWFz0EwgaErxYotOjs
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = Erweichen der $šw.t$ der $mt.w$-Gefäße.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XIV.13]
+1	𓊃𓎼𓈖𓈖𓀉	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+2	𓆄𓏏𓏤	152840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂸𓏏𓅱𓍢𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBUCKcvfnHlVgUZ4qrE3rWtllWc
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = Erweichen von Verkrümmungen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XV.20]
+1	𓊃𓎼𓈖𓈖𓀉	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+2	𓈎𓂋𓆑𓏏𓍢𓏥	161720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qrf.t
+
+# sent_id = IBUCKVWQ0NqSrkbai6LvxjBCq80
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = Heilmittel zum Erweichen von (Glieder)steifheit.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XVI.26]
+1	𓄲𓏏	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀉	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓈖𓆱𓐍𓏏𓏏	87600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḫt.t
+
+# sent_id = IBUCKTazNl2DF0UkmSWGIUYKFWY
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = Erweichen von $mt.w$-Gefäßen, nämlich $šṯ$-Gefäßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XVII.38]
+1	𓋴𓎼𓈖𓈖𓀉	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+2	𓂸𓏏𓍢𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+3	𓈙𓍘𓍯𓐏𓏥	856858	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šṯ
+
+# sent_id = IBUCKXpe4QktWUwCiBE0McZBOhk
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = Erweichen von $mt.w$-Gefäßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XVIII.47]
+1	𓋴𓎼𓈖𓈖𓀉	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+2	𓂸𓏏𓅱𓍢𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBUCKXQU6QXDw0N8jhfHNd8tLfI
+# corpus = sawmedizin
+# src_text_id = RVQ2KP3SAJF25PBO2XVKRC6JXE
+# src_text = sawmedizin:pRam V (recto)//pRam V, Nr. 1-20
+# owner = Gunnar Sperveslage
+# text_de = Erweichen der $šw.t$ der Gefäße.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [XIX.56]
+1	𓋴𓎼𓈖𓈖𓀉	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+2	𓆄𓏏𓏤	152840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂸𓏏𓍢𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+

@@ -1,0 +1,19 @@
+# sent_id = IBUBd7DpVKKhUEZop4Y21QZ9oGk
+# corpus = bbawgrabinschriften
+# src_text_id = I36HI2WIZVFZVDNUDU44HXTMSM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, 〈〈ein Opfer,〉〉 das Anubis 〈〈gibt〉〉: Er möge bestattet werden in der westlichen Begräbnisstätte.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓈎𓂋𓌠𓋴𓊭𓏏	161940	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qrs
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓊃𓏏𓈉	134780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmy.t
+9	𓊿𓏏𓏏	26150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jmn.tj
+

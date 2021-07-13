@@ -1,0 +1,70 @@
+# sent_id = IBUBd3HQMCcn6krvuK8aALQWOPA
+# corpus = sawlit
+# src_text_id = KEE7A2XJUBCGVP6PZNA6JWNXQU
+# src_text = sawlit:Stele des Senweseret (Wien ÄS 198)//〈Stele des Senweseret (Wien ÄS 198)〉
+# owner = Alexander Schütze
+# text_de = Anbeten des Upuaut, des Herrn von Tadjeser, durch den Sprecher des Wesirs, Senweseret, wobei er sagt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1] - [2]
+1	𓂧𓍯𓄿𓇼𓀢	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓄋𓊪𓏏	45580	PROPN	entity-name	_	_	_	_	Translit=Wp-wꜣ.wt
+3	𓎟𓇿𓈇𓏤𓂦𓈉	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+4	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+5	𓄙𓅱𓀁𓈖𓅷𓏏𓏤	860744	_	epitheton-title	_	_	_	_	Translit=wḥm.w-n-ṯꜣ.tj
+6	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+7	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd66yEwpuxkPbr94ITdk5zWc
+# corpus = sawlit
+# src_text_id = KEE7A2XJUBCGVP6PZNA6JWNXQU
+# src_text = sawlit:Stele des Senweseret (Wien ÄS 198)//〈Stele des Senweseret (Wien ÄS 198)〉
+# owner = Alexander Schütze
+# text_de = mit großer Wereret-Krone, der aus dem Mutterleib herausgekommen ist, indem er die Wereret-Krone empfangen hat,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [3] - [4]
+1	𓉻𓂝𓄿𓏛	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+2	𓅨𓂋𓂋𓏏𓋑	47920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrr.t
+3	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+6	𓊏𓊪𓂟	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅨𓂋𓂋𓏏𓋑	47920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrr.t
+
+# sent_id = IBUBd2V0Cw5n506CuAusjqhm7pg
+# corpus = sawlit
+# src_text_id = KEE7A2XJUBCGVP6PZNA6JWNXQU
+# src_text = sawlit:Stele des Senweseret (Wien ÄS 198)//〈Stele des Senweseret (Wien ÄS 198)〉
+# owner = Alexander Schütze
+# text_de = dem Geb sein Erbe überantwortet hat,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [4] - [5]
+1	𓌉𓅱𓏛𓈖	51970	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=wḏ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅬𓃀𓀭	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+5	𓃛𓂝𓏏𓏛𓏥	22420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwꜥ.wt
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWC6fRkStk9grmKFWWUGZI8
+# corpus = sawlit
+# src_text_id = KEE7A2XJUBCGVP6PZNA6JWNXQU
+# src_text = sawlit:Stele des Senweseret (Wien ÄS 198)//〈Stele des Senweseret (Wien ÄS 198)〉
+# owner = Alexander Schütze
+# text_de = Mögest du mich unter die Gefolgsleute und Edlen geben, die hinter dir sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [5] - [6]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓅓𓅓𓂞𓇋	64371	ADP	preposition	_	_	_	_	Translit=m-m
+5	𓋴𓅱𓂻𓏥𓌞𓏪𓅱	155030	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šms.w
+6	𓋴𓂝𓎛𓀭𓏪	129120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ
+7	𓏶𓅓𓅱𓏪𓆱𓐍𓏏𓂻	25760	ADJ	adjective	Number=Plur|Status=Pron|Gender=Masc	_	_	_	Translit=jm.j-ḫt
+8	𓎡𓀀𓏤	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

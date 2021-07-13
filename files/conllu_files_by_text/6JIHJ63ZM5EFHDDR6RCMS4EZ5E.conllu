@@ -1,0 +1,35 @@
+# sent_id = IBUBd8tZQjl6iUzXvu5uagBKrwo
+# corpus = bbawgrabinschriften
+# src_text_id = 6JIHJ63ZM5EFHDDR6RCMS4EZ5E
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Wab-Priester des Königs Itju.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇓𓈖𓏏𓀆	44590	_	epitheton-title	_	_	_	_	Translit=wꜥb-nswt
+2	𓇋𓍿𓅱	710749	PROPN	entity-name	_	_	_	_	Translit=Jṯw
+
+# sent_id = IBUBd90BEEkbakpHriXZHgbSXRY
+# corpus = bbawgrabinschriften
+# src_text_id = 6JIHJ63ZM5EFHDDR6RCMS4EZ5E
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Die Miteret Init-kaes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂋𓈖𓏏𓐚𓏇	68570	_	epitheton-title	_	_	_	_	Translit=mjtr.t
+2	𓏎𓎡𓈖𓋴	708283	PROPN	entity-name	_	_	_	_	Translit=Jn.t-kꜣ⸗s
+
+# sent_id = IBUBdwHC2kfCSk9RtiqrjqXGse8
+# corpus = bbawgrabinschriften
+# src_text_id = 6JIHJ63ZM5EFHDDR6RCMS4EZ5E
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Weihrauch.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓊹𓋴𓍿𓈓𓎺	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+

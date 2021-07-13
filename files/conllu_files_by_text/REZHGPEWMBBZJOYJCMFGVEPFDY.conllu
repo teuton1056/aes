@@ -1,0 +1,307 @@
+# sent_id = IBUBd9lEpvmUz0lohwrHXBNu1iE
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Beginn des Liedes:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1]
+1	𓄂𓂝𓐝	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓎛𓎿𓋴𓀁𓏬	109390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥs.t
+
+# sent_id = IBUBdWUr9CQ8CEPVkkmLnw1oDcg
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Gedenke, (o) Herz, jenes Tages, an dem man landet (wörtl.: des Landens).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1]
+1	𓋴𓆼𓀁	141620	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḫꜣ
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓉔𓂋𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓊪𓏤𓆑	59880	PRON	pronoun	PronType=Dem	_	_	_	Translit=pf
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓏠𓈖𓇋𓁀𓏏	854513	VERB	verb	VerbForm=Fin	_	_	_	Translit=mjni̯
+
+# sent_id = IBUBd5kcNnWmLk16qdJRC3flWQ4
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Er (sc.: der Tag) wird dem bewusst gemacht (wörtl.: ins Herz gelegt), der über ein Begräbnis verfügt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1]
+1	𓂝𓂝𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓌨𓂋𓏮𓈎𓂋𓊃𓊭	853361	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ẖr.j-qrs
+
+# sent_id = IBUBdQWiW8hKmUE8kRFzTax2xkU
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Weh doch dem, der ihn nicht würdigt (?), denn es gibt keinen, der daran vorbeikommt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1] - [2]
+1	𓐍𓏥𓇋𓇋	114510	INTJ	interjection	_	_	_	_	Translit=ḫy
+2	𓏏𓐝	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+3	𓊃𓈖𓋴	138090	VERB	verb	VerbForm=Fin	_	_	_	Translit=snsi̯
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓁷𓏤𓈖𓏏𓏏	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+6	𓂋𓆑	28170	PART	particle	_	_	_	_	Translit=jr
+7	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+8	𓃹𓈖𓏮𓂻	46280	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wni̯
+9	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd5OlBbGBpkT9kZoW1r7yWcc
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Der Starke und der Schwache sind von einer Art (d. h. sind sich darin gleich).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓍘𓈖𓈓𓂋𓏤𓂡	176060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ṯnr
+2	𓄡𓊃𓅪𓏭	124610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖz
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓐪𓂧𓏌𓏛	162430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qd
+5	𓌡𓂝𓏤	600041	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdWObwjomc0zSurcs5C6jOPE
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Wie dauerhaft ist dein Name in der Ewigkeit, verklärt in der Nekropole!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓊽𓊽𓅱𓏮	854593	VERB	verb	_	_	_	_	Translit=ḏdi̯
+2	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖𓆓𓏏𓇾	_	X	unknown	_	_	_	_	_
+5	𓋴𓅜𓐍𓏛	127110	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sꜣḫ
+6	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓏤𓊹𓌨𓂋𓏏	500066	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ẖr.t-nṯr
+
+# sent_id = IBUBdxJMIsQk6Eyjlpsl8L4gkMw
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Sie werden sich deiner Vollkommenheit zuwenden, indem sie den Altar deiner Mumie festlegen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4] - [5]
+1	𓋴𓏏𓏥	851209	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓅱𓈅𓃀	52620	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏb
+4	𓄤𓏤	83520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nfr
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓋴𓏠𓈖𓈖𓍖𓏛	851677	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smn
+7	𓊃𓈖𓈓	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓄫𓏏𓊰	39	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜣw.t
+9	𓊃𓂝𓎛𓀾	129130	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥḥ
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd8weTA5tGEydpUDvsaYfp7g
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = O Gottesvater, ich höre dein Lob in der Gegenwart der Herren der Ewigkeit.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓊸𓊹𓇋	32860	_	epitheton-title	_	_	_	_	Translit=jtj-nṯr
+3	𓄔𓐝𓀁	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓎿𓏏𓅱𓏥	109800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥzw.t
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓂋𓐞𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+8	𓎟𓈓𓎛𓇳𓎛	852707	_	epitheton-title	_	_	_	_	Translit=nb.w-nḥḥ
+
+# sent_id = IBUBd3xtRJcqNkQzv4k2uUGpWO4
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = (Man) wird sich an dich erinnern wegen deiner Vollkommenheit, weil du einer bist, der zu Heliopolis Zutritt hat und der die Geheimnisse kennt, die in ihm (sc. Heliopolis) sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8]
+1	𓋴𓆼𓏏𓏲	141620	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄤𓏤	83520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nfr
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓂝𓈎𓂻	41180	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥq
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+12	𓂋𓐍𓏛	95620	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫ
+13	𓊃𓈙𓇾	145700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sštꜣ
+14	𓇋𓏶	25130	ADJ	adjective	Number=Sing|Status=Pron|Gender=Masc	_	_	_	Translit=jm.j
+15	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdxUHGTfKg0TsharZyZws81o
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Für den Vorlesepriester, der das Herz des Amun zufrieden stellt, Neferhotep, der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8]
+1	𓇋𓈖	_	X	unknown	_	_	_	_	_
+2	𓌨𓂋𓎱	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+3	𓊵𓏏𓊪	141120	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḥtp
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓇋𓏠𓈖	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+7	𓄤𓊵𓏏𓊪𓀼	450077	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḥtp.w
+8	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd5b03SMdjE66iDVJKjA9k5c
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = O Gottesvater, dein Ba ist ausgezeichnet worden, indem dein Sarg vorübergeht, Anubis seine beiden Hände auf dich legt (?), die beiden Schwestern dich umfassen und die Reinigung für dich erneut durchgeführt wird, du, der du überwiesen bist an die Arbeit der Ewigkeit.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9] - [10]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓊸𓊹𓇋	32860	_	epitheton-title	_	_	_	_	Translit=jtj-nṯr
+3	𓊃𓏃𓈖𓏏𓏮	142720	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫnti̯
+4	𓊸𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓊃𓈖𓈙𓏴𓂻	854546	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zni̯
+7	𓈎𓂋𓋴𓀾	161980	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qrs.w
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓎛𓎛𓅱	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+10	𓇋𓈖𓊪𓅱𓃣	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+11	𓂝𓏤𓂝	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓎸𓐝	123420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖnm
+16	𓏏𓅱	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+17	𓌢𓈖𓏏𓏮𓁐𓁐	851924	_	epitheton-title	_	_	_	_	Translit=sn.tj
+18	𓁹𓏏𓅱	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+19	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+20	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+21	𓃂𓏏𓈗	44440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥb
+22	𓐝𓅶𓏏	_	X	unknown	_	_	_	_	_
+23	𓋴𓇋𓊪𓍘𓇋	854525	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sjp
+24	𓐝	78870	ADP	preposition	_	_	_	_	Translit=n
+25	𓂓𓏏𓀋	163010	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=kꜣ.t
+26	𓆓𓏏𓈀	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBdzOnkadhXEk0pZtxGc9oEJ8
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Die Horuskinder sind dein Schutz.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10]
+1	𓄟𓅱𓏥𓅃	550349	PROPN	entity-name	Number=Plur|Status=Cons	_	_	_	Translit=Ms.w-Ḥr.w
+2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎃𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3pmUQKttEhjtWvyDEnC8RY
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = O Gottesvater, das Andenken an dich ist in Heliopolis
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓊸𓊹𓇋	32860	_	epitheton-title	_	_	_	_	Translit=jtj-nṯr
+3	𓋴𓆼𓀁	141690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sḫꜣ.w
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+
+# sent_id = IBUBd54iJ9ToPk6AkiEsostp9zs
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = und dein Beschützer ist in Theben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12] - [13]
+1	𓈖𓃀𓇋𓇋	82700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nby.w
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌀𓏏𓈈𓊖	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+
+# sent_id = IBUBdWEXNtWBPUKoo44DMSQnrhE
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Nicht wirst Du gesucht (wörtl.: gibt es ein Dich-suchen) ewiglich.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13]
+1	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+2	𓎛𓎛𓏭𓂻	101930	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥjḥj
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋𓎛𓇳𓎛	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8qwABuXcUZZp74VWR9JtyI
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = Du mögest aufgerichtet sein und glücklicher als zu der (Zeit), als du existiertest.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16] - [17]
+1	𓍿𓊃𓍞𓂡𓍘𓇋	854581	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ṯzi̯
+2	𓄤𓍘𓇋	854519	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nfr
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdzZArsgbPUrcurfAMw5JvxY
+# corpus = sawlit
+# src_text_id = REZHGPEWMBBZJOYJCMFGVEPFDY
+# src_text = sawlit:〈Harfnerlieder Text J: 〉Neferhotep (TT 50), Lied 3//Harfnerlieder Text J
+# owner = Lutz Popko
+# text_de = O Gelobter, Neferhotep, Gerechtfertigter, dein Sohn ist im Triumph, indem seine Feinde gefällt sind in Ewigkeit.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [17]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓎛𓎿𓋴	109750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥz.y
+3	𓄤𓊵𓏏𓊪𓀼	450077	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḥtp.w
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+5	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓐙𓊤	66740	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+9	𓋴𓐍𓂋𓀒	142780	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫr
+10	𓐍𓆑𓅂𓀑𓈓	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓈖𓆓𓏏𓈀	_	X	unknown	_	_	_	_	_
+

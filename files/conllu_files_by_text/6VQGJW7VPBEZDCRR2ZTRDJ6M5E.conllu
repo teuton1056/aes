@@ -1,0 +1,57 @@
+# sent_id = IBUBdyjidviApkA4oRo07E3sz0c
+# corpus = sawlit
+# src_text_id = 6VQGJW7VPBEZDCRR2ZTRDJ6M5E
+# src_text = sawlit:Neferrenpet (TT 178)//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Es sprach der Sänger, der im (Grab)haus des Schreibers des Gottesopfers, des Schreibers des Schatzhauses des Amuntempels, Kenro (Kel), des Gerechtfertigten ist; er spricht:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1] - [2]
+1	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎛𓎿𓋴𓀁	109430	_	epitheton-title	_	_	_	_	Translit=ḥs.w
+4	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+5	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄿𓏏	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+7	𓉗𓏏𓉐	99790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥw.t
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓁹𓊨𓀭	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+10	𓏞𓊵𓏏𓊪𓊹	850271	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ḥtp-nṯr
+11	𓏞𓉐𓌉𓉐𓈖𓇋𓏠𓈖𓉐𓏤	853570	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-pr-ḥḏ-n-pr-Jmn
+12	𓎡𓈖𓏥𓂋𓏤𓀰	550263	PROPN	entity-name	_	_	_	_	Translit=Knr
+13	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+14	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdz7orJge50regBI4YkbJTuQ
+# corpus = sawlit
+# src_text_id = 6VQGJW7VPBEZDCRR2ZTRDJ6M5E
+# src_text = sawlit:Neferrenpet (TT 178)//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest dich auf deine rechte Seite wenden,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5-6] - [6]
+1	𓊪𓈖𓂝𓂻	59960	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pnꜥ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋀𓐝𓂢	46770	ADJ	adjective	Number=Sing|Status=Pron	_	_	_	Translit=wnm.j
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd8wxnOYFO0PFtclWXc7SlKc
+# corpus = sawlit
+# src_text_id = 6VQGJW7VPBEZDCRR2ZTRDJ6M5E
+# src_text = sawlit:Neferrenpet (TT 178)//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = du mögest dich auf deine linke Seite begeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6] - [7]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋁𓂢𓏭	20530	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jꜣb.j
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

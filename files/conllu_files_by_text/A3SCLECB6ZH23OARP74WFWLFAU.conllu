@@ -1,0 +1,3590 @@
+# sent_id = IBcBSeCQWqycCkPsnzMbFGIots4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Anfang der Salben zum Stärken der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,5]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓈖𓍇𓏌𓏲𓂧𓏏𓏌	81590	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nwd.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓏠𓈖𓏛	851677	VERB	verb	VerbForm=Fin	_	_	_	Translit=smn
+5	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSR4qAjSAX0lljpWpIL2y9Io
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Heilmittel zum Verschaffen von Linderung an den Gefäßen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,5]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSbAckPmEQU4iuEiC7pOjW60
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Katerfett: 1, „Fauliges-Holz“-Droge: 1, $ꜥꜣg.yt$-Harz vom $jqr.w$-Baum: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,5] - [79,6]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+2	𓏇𓇋𓏲𓄛	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓆱𓂝𓍯𓄿𓈒𓏥	860327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ꜥwꜣ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓉻𓂝𓎼𓇋𓇋𓏏𓆇	35500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣg.yt
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓇋𓈎𓂋𓏲𓆮	32310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jqr.w
+9	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSZWAGFchIEUprykfhG7L4iA
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,6] - [79,7]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSdETHI1lgEp4hxsm4VrC8Cc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die Gefäße) werden damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,7]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBSRBDmNQQoEt3uJRKWHOHfSo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSeTJR3cJp0Qeo4G3CDRAU4g
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Koriandersamen: 1, Leder vom Sandalenmacher: 1, $sskꜣ$-Droge: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,7]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓆷𓄿𓏲𓆰𓏥	151280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓄟𓋴𓈎𓊌	75890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mskꜣ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓋸𓏲𓂝𓀀	175130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯbw
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓋴𓋴𓂓𓄿𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+9	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSa2OyEyzkk2IhZrEdyQ6XcE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,8]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSe4j5FeIWE9dngjvZUMrKAg
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die Gefäße) werden damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,8]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBSfSqp3HiuUBGmeOQZsfN2H0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSet6Dvhib06svnLx2bQuU4g
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Schlangenfett.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,8]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+2	𓆙𓏤	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
+
+# sent_id = IBcBSToTHkTQyEq0g9iLpSkwKWI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die Gefäße) werden damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,8]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBSahNNIZxh0dktiBTOwMML9E
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), jede Sache in Gang zu bringen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,8] - [79,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓊃𓈖𓉔𓊪𓏛	137790	VERB	verb	VerbForm=Fin	_	_	_	Translit=snhp
+4	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBSR9ubnTIYkQXtgX7gp20KgM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Fladen von Brot aus Gerste: 1, Früchte/Samen der $tḥwꜣ$-Pflanze: 1, $ḏꜣs$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,9]
+1	𓃀𓇋𓏏𓏒	54150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+8	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+11	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSVoJ5QlFi0W2jNqkojwUNF0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,9] - [79,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSVuVgqN0V0Vbmaw8F58Occg
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für das Behandeln eines Gefäßes in der linken Seite:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+7	𓋁𓃀𓂢	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+
+# sent_id = IBcBSbQ9BKRAn0Xksb3NxaVVQT8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel für die linke Seite:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+5	𓋁𓃀𓏭𓂢	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+
+# sent_id = IBcBSeE4iB7cMkFjiG8zwWpx1B8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSZgSAu2lqUM1s2biBDAEeAE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen eines Gefäßes des Knies:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓌴𓄿𓊨𓏏𓂾	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+
+# sent_id = IBcBSYPkQNvIgEbhhxBcWgqsKLg
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: 1, $nḥd.t$-Myrrhe: 1, Steinbockfett: 1, Honig: 1, Weihrauch: 1, Sellerie: 1, $ḥnj-tꜣ$-Planzen (oder: $ḥnj$-Pflanzen des Landes): 1, $ḥtm$-Mineral: 1, Zwiebeln/Knoblauch: 1, Späne vom Kupfer: 1, Schaf-/Ziegenfett: 1, Kreuzkümmel: 1, Öl/Fett: 1, Natron: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,20] - [79,22]
+1	𓎛𓌴𓏏𓄞𓂧𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓅘𓎛𓂧𓏏𓄑𓈒𓏥	86740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḥd.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+6	𓈖𓂋𓄫𓏲𓄛𓏫	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+13	𓏤	_	_	_	_	_	_	_	_
+14	𓎛𓆰𓈖𓏭𓇾𓈇𓏤𓈒𓏥	865697	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥnj-tꜣ
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓎛𓊨𓏏𓅬𓈒𓏥	111660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtm
+17	𓏤	_	_	_	_	_	_	_	_
+18	𓌉𓏲𓆰𓏥	112710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+19	𓏤	_	_	_	_	_	_	_	_
+20	𓆞𓄿𓏲𓂝𓏥	122410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣ.w
+21	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+22	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt
+23	𓏤	_	_	_	_	_	_	_	_
+24	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+25	𓋿𓅱𓏏𓃙𓏪	35870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥw.t
+26	𓏤	_	_	_	_	_	_	_	_
+27	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+28	𓏤	_	_	_	_	_	_	_	_
+29	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+30	𓏤	_	_	_	_	_	_	_	_
+31	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+32	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSfBEA6WWYUWxgWNrdMW57yw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,22]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcBSS6BxaZwWkPVvlt8JXAWRac
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,22]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSYxp2yLpRUEXiDjTgIf3IHw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Lösen einer Versteifung in allen (möglichen) Körperteilen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [79,22] - [80,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓊠𓂝𓍢𓂝	48760	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥꜥ
+4	𓊃𓈖𓆱𓐍𓏏𓏲𓏯𓏥	138020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḫt.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBSb5i7zjpvESVkNjwAprA85k
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Fleisch eines fetten Rindes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,1]
+1	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+4	𓆓𓂧𓄿𓏯𓐎	186080	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḏdꜣ
+
+# sent_id = IBcBSaXL5ZUwO0igsXaL0tsm0w4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Das Leiden werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,1] - [80,2]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓏠𓈖𓏏𓅪𓏥	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSdhe80bw40ahtAZxxFKoXD0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Eine andere Salbe zum Gesund-Machen eines Knochens in allen (möglichen) Körperteilen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓍇𓏌𓏲𓂧𓏏𓏌	81590	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nwd.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓋴𓈖𓃀𓏛	144100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssnb
+5	𓌟𓏤	162200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qs
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+9	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+10	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcBSVjt6UffI0mRhVYHQQnHPy8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Dieses Rezept ist) wirklich vortrefflich!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,2]
+1	𓍱𓏤𓏛𓌷𓂝𓏛	851592	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šs-mꜣꜥ
+
+# sent_id = IBcBSZtJp1UVN03sv7GUnngYlWk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Natron: 1, $wšb.t$-Alaun: 1, Fett: 1, schwarzer Feuerstein: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,3]
+1	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓍯𓄿𓈙𓃀𓏏𓈒𓏪	50430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wšb.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓌪𓊌	180610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ds
+8	𓆎𓅓𓁸	401218	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=km
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+11	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSeLxRqwYj0o4pw3nOVkAW2Q
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,4]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSWPcFEESTEQQvSPq2ImsTyI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,4]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSZ2JekqKBkpPj9fNa2nB80Q
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Salbe zum Erweichen jeder Sache:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,4]
+1	𓈖𓍇𓏌𓏲𓂧𓏏𓏌	81590	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nwd.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBSQDoYRoQ7krorZKbKfsWqyQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Gummiharz: 1, $prš$-Droge: 1, Myrrhe: 1, Ocker: 1, Rinderfett: 1, Wachs: 1 {Gefäße}.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,5]
+1	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊪𓂋𓈙𓈒𓏥	61260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=prš
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+10	𓃒	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+13	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSfXfkHihwEDQg7et3hTCKuY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,6]
+1	𓊮	154890	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmm
+
+# sent_id = IBcBSSzJycLKmkM1qDyhOkVNSCY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,6]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSVF3ClZfuE8YhekmhqH9BNQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSbJEd5sNeU0Ckgouf4c0H4Y
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $ṯr.w$-Ocker: 1, Fayence: 1, Späne vom Kupfer: 1, Weihrauch: 1, Honig: 1, Natron: 1, unterägyptisches Salz: 1, Roter Ocker: 1, Steinbockfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,6] - [80,7]
+1	𓏞𓏲𓈒𓏥	176220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯr.w
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓋣𓈖𓏏𓈒𓏥	176620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥn.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓆞𓄿𓏲𓂝𓏥	122410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣ.w
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+16	𓏤	_	_	_	_	_	_	_	_
+17	𓏠𓈖𓈙𓂋𓈒𓏪	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+18	𓏤	_	_	_	_	_	_	_	_
+19	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+20	𓈖𓂋𓄫𓏲𓄛	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+21	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSdqMNMXQzUnNvtouu5KQQag
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,8]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSVStQMNDQEKQicn1d7XTCIk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSVSkQ1G7skZkmuoQOBxBpK8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Fleisch vom Wels: 1, Bodensatz von süßem Bier: 1, $gy.t$-Pflanzen: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,8] - [80,9]
+1	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈖𓂝𓂋𓆟𓏤	80570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nꜥr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+8	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓎼𓇋𓇋𓏏𓆰𓏥	166650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=gy.t
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+13	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBScJRs0xpfUCItS4vTfiB4do
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSaSeq5NfNUqVhJTQqEt6tEs
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,13]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcBSSynYEXxIkuYrzYUankto1E
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = werde zu einer homogenen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,13]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSRMW5vsJAEW8qz5yL8x3bdw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSabD087tXE4QgQqqlRWjb8k
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSfSiN6p1PkPEjCP6XXHAgt8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Frische Datteln: 1, frische $wꜣm$-Früchte: 1, Rinderfett: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,14] - [80,15]
+1	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+2	𓇅𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓍯𓄿𓅓𓈒𓏥	42870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣm
+5	𓇅𓏏𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+8	𓃒	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+11	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSSjgRRWQGUfZgA81SLoyQ4U
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,15]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSUfn70d3o0XPv22WAQ2CRPA
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Veranlassen, dass die Gefäße ein Heilmittel annehmen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓊏𓊪𓂝	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+5	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+6	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBcBSXpwQfROAk6phGE987yKrwo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Milch einer (Frau), die einen Knaben geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,15] - [80,16]
+1	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓄟𓋴𓏏𓏯	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=msi̯
+4	𓅷𓄿𓇋𓇋𓂺𓀀	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+
+# sent_id = IBcBSe0tjhteCU1SrvKS3bolzmk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Jede schmerzende Stelle werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,17]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓏠𓈖𓏏𓅪𓏥	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBSeW4T6pGRkeoocXQ7l1czP0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSeYbIXfXsUDirvn8b9epQJg
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Datteltrester, Bodensatz vom Bier.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,17]
+1	𓐟𓏤𓂋𓍿𓀀𓁐𓏥	139490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zrm.t
+2	𓈙𓆑𓏲𓏌𓏥	154060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šf.w
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+
+# sent_id = IBcBSQgYUS6NjkWgn3sQUPnbQZo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,17] - [80,18]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBSc0Y51P8M0hHqndZ3kJtXJ8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,19]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSdLojrrXD04mt4XWB1MRQUE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSS5HGldjPkq1t4GqXEQ0XeQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSaTGIeq4t0GRkEQHIQ6GI9g
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,21]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSURcuIWkCEjTsMK1HSx6ZBY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSbXtHToplESOkViQCSFnf1I
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Olivenöl: 1, Weihrauch: 1, unterägyptisches Salz: 1, $sskꜣ$-Droge: 1, $jbr$-Öl: 1, Honig: 1, Fleisch vom Rind: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [80,21] - [81,1]
+1	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍖𓈒𓏥𓎔𓏏	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓋴𓋴𓂓𓄿𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓇋𓃀𓂋𓇋𓈒𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+16	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSaUVXandMEOWkjnnsDG99UY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,1]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSW5nYQO8OUf8qW2Zen0WiSY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,4]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSfVIGW4xdU5pnW5LyOQjQOk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,4]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSZiWG9QJ9k92ixqTh25yHsQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen der Gefäße der Zehe:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,4] - [81,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓃃𓏤𓄹	126950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣḥ
+
+# sent_id = IBcBScQFwhmo4ELWvDK7s0QTUVI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $ꜥmꜥꜥ$-Körner des Emmers: 1, $ꜥmꜥꜥ$-Körner der Gerste: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,5] - [81,6]
+1	𓂝𓅓𓂝𓂝𓈒𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓇣𓏏𓏤𓌽𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓂝𓅓𓂝𓂝𓈒𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+10	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSVJ83xkvA0Jup2zOnOQGUWU
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zerkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,6]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSSkyoBSV2UEfvw8lXPUzN5g
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber handwarm (wörtl.: in Wärme des Fingers) verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,6]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓂋𓆑𓊮𓏛	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+
+# sent_id = IBcBSQZDUhECWke9kQ4GTPZXmvk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Dieses Rezept ist) wirklich vortrefflich!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,6]
+1	𓍱𓏤𓏛𓏥𓌷𓂝𓏛	851592	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šs-mꜣꜥ
+
+# sent_id = IBcBSb6igVYeMUOWvfr4o4hVo8Y
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSei1wubqo0lCmi4whWVg6OY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Wachs: 1, Rinderfett: 1, „Haarfrüchte“: 1, frischer Weihrauch: 1, $gw$-Gras: 1, Koriandersamen: 1, Früchte/Samen der $ḫꜣs.yt$-Pflanze: 1, Früchte/Samen der $sꜣr$-Pflanze: 1, „Stechholz“: 1, Bleiglanz: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,7] - [81,9]
+1	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+4	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓍁𓏏𓏥𓁸𓏥𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+9	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+14	𓆷𓄿𓏲𓆰𓏥	151280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+17	𓆼𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+18	𓏤	_	_	_	_	_	_	_	_
+19	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+20	𓋴𓐟𓄿𓂋𓇋𓆰𓏥	126910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣr
+21	𓏤	_	_	_	_	_	_	_	_
+22	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+23	𓏤	_	_	_	_	_	_	_	_
+24	𓄟𓋴𓂧𓅓𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+25	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSXQyw3QUyUQWkZWQRD9VLu8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,9]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSTbqH6cLWUUTooUjWun5Ans
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden, (nachdem sie) mit Myrrhe eingerieben wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,9] - [81,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sgnn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+
+# sent_id = IBcBSYVYcC1iJUsFhFgosusRtbc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Verschaffen von Linderung an den Gefäßen der Schulter:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+5	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓈎𓂝𓎛𓂢𓏤	159830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜥḥ
+
+# sent_id = IBcBSZtP2gi60Epck7DuyLfPMhE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,14]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSRMgxXrW0EkVi4Qef4Kc4ik
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSbqzKe56X0jqhu8LTpaeYG4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Wachs: 1, Rinderfett: 1, „Haarfrüchte“: 1, $šfšf.t$-Droge: 1, $sꜥꜣm$-Pflanzen: 1, „Teich-Zungen“-Droge: 1, Bleiglanz: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,15] - [81,16]
+1	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+4	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓍁𓏏𓏥𓁸𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓈙𓆑𓈙𓆑𓏏𓈒𓏥	154250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šfšf.t
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓋴𓉻𓂝𓄿𓅓𓆰𓏥	128700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥꜣm
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓄓𓏤𓄹𓈙𓈇𓏤𓈒𓏥	863030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns-š
+13	𓏤	_	_	_	_	_	_	_	_
+14	𓄟𓋴𓂧𓅓𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+17	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSb0uWfpkWkBCusgdOlv6Gjk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,16]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSSPw1NscAEhRkzqKOfoSeWc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden, (nachdem sie) mit Myrrhe gesalbt wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,16] - [81,17]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓈖𓏏𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+
+# sent_id = IBcBSVZDzfz3R04QkHsfpsZVjfw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beleben der Gefäße und Erfrischen der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓋹𓈖𓐍	128910	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜥnḫ
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+5	𓋴𓇅𓆓𓏛	129930	VERB	verb	VerbForm=Fin	_	_	_	Translit=swꜣḏ
+6	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSSaEnhtic0bGlGaXpcImV8c
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $jhm.t$-Harz: 1, Weihrauch: 1, $sfṯ$-Öl: 1, Wachs: 1, Sägemehl vom Kampferbaum: 1, Sägemehl vom Wacholder: 1, Koriandersamen: 1, Fett vom Schwein: 1, Rinderfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,18] - [81,20]
+1	𓇋𓉔𓅓𓏏𓈒𓏥	30300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jhm.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓋴𓆑𓏏𓏌𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓏲𓋴𓏏𓌪𓈒𓏥	49450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ws.t
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓍘𓀻𓏤𓋴𓈒𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓏲𓋴𓏏𓌪𓏪	49450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ws.t
+14	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+15	𓏲𓂝𓈖𓐎𓆮	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+16	𓏤	_	_	_	_	_	_	_	_
+17	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+18	𓆷𓄿𓏲𓆰𓏥	151280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+19	𓏤	_	_	_	_	_	_	_	_
+20	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+21	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+22	𓆷𓄿𓃟	151350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣj
+23	𓏤	_	_	_	_	_	_	_	_
+24	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+25	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+26	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSQfJBc2gb0xJo998szOFAOM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,20]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSaVK8Qji0Uf0pVIzZ7XzAfg
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden, (nachdem sie) mit Myrrhe gesalbt wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,20]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+
+# sent_id = IBcBSXuQUrgSG0URiRuIkrgMNCY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes Einreibemittel zum Verschaffen von Linderung an den Gefäßen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓅨𓂋𓎛𓏏𓏊𓀜	48060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrḥ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+5	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSbQCjDhKlkQRpIgcXb8hVTw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $jbr$-Öl: 1, Bestes vom Weihrauch: 1, Früchte/Samen der $tntj$-Pflanze: 1, Koriandersamen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81,21] - [82,1]
+1	𓇋𓃀𓂋𓇋𓏌𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓏃𓈖𓏏𓏏𓂉	118890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫnt.jt
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+8	𓏏𓈖𓍘𓇋𓈒𓏥	861520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tntj
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+11	𓆷𓄿𓏲𓆰𓏥	151280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+12	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSXJ07u21F0y7jLhafiL7Eyw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen eines Gelenks in jedem (möglichen) Körperteil:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓂋𓏤𓂝𓏏𓏭𓄹𓄹	92750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ-ꜥ.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBSRT8ClxO9UtQqZd0Mx06jqk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Honig: 1, Wachs: 1, Bestes vom Weihrauch: 1, $jbr$-Öl: 1, $mhwj$-Milchprodukt: 1, Mehl vom Johannisbrot: 1, $šꜣšꜣ$-Früchte: 1, Früchte/Samen der $ḏꜣs$-Pflanze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,2] - [82,3]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓏠𓈖𓎛𓏌𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓏃𓈖𓏏𓏏𓂉	118890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫnt.jt
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓇋𓃀𓂋𓎯𓏌𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓅓𓂝𓉔𓏲𓏭𓏌𓏥	73160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mhwj
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+16	𓏤	_	_	_	_	_	_	_	_
+17	𓆷𓄿𓆷𓄿𓈒𓏥	151960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣšꜣ
+18	𓏤	_	_	_	_	_	_	_	_
+19	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+20	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+21	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSXHW1NZi2089miWKUic05Sc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,3] - [82,4]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSSMn4op8kUIWmnEkGL6RHGQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,4]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBSZEQEPylCkSNrJ5WwjbYOLk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSR1PreW41kuVvchxfltxU28
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Wacholderbeeren: 1, Wurzelstock (?) der $rkrk$-Pflanze: 1, $ẖsꜣ.yt$-Balsam: 1, $prš$-Droge: 1, Selleriesamen: 1, $ẖpꜣ$-Kügelchen (?) des Weihrauchs: 1, $tpꜣ.w$-Teil des Wacholders: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,4] - [82,6]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓏲𓂝𓈖𓐎𓆮	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓅐𓈒𓏥	69050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓂋𓎢𓂋𓎢𓆰𓏥	96430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rkrk
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓄡𓊃𓐟𓄿𓇋𓇋𓏏𓁸𓈒𓏥	124590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖsꜣ.yt
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓊪𓂋𓈙𓈒𓏥	61260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=prš
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+13	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓄡𓊪𓐎	122890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖpꜣ
+16	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+17	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+18	𓏤	_	_	_	_	_	_	_	_
+19	𓏏𓊪𓅯𓄿𓏲𓐎𓏥	171400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpꜣ.w
+20	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+21	𓏲𓂝𓈖𓐎𓆮𓈒𓏥	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+22	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSf1W6Z6bVURcqGCfuvTLZtc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,6]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSToOWs8EukOIkuRUdHNlETo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Das betroffene Gelenk) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,6]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSRQXWiqqh0kcmmaK9NsHkxs
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen von Steifheit in allen (möglichen) Körperteilen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓈖𓆱𓐍𓏏𓏏𓀜	872162	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḫt.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcBSaExmBL3ik8hs4zoWi7VYbw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,10]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSW8VbHjJ50LOgvemxdx7ij0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSeVZkXrBSESkkfJBVrOKBps
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSTozOWXWAEiAp6jE1nIMNAo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Rinderfett: 1, Bodensatz vom Wein: 1, Zwiebeln/Knoblauch: 1, Ruß (?) von der Mauer: 1, Früchte/Samen der $ḫꜣs.yt$-Pflanze: 1, Früchte/Samen der $tḥwꜣ$-Pflanze: 1, Früchte/Samen der $ḏꜣs$-Pflanze: 1, oberägyptische $sjꜣ$-Droge: 1, Weihrauch: 1, Myrrhe: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,11] - [82,13]
+1	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+2	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓏏𓍔𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓇋𓂋𓊪𓏌𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓌉𓏲𓆰𓏥	112710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓆓𓂝𓃀𓏏𓈒𓏥	182660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥb.t
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓊅𓏤𓈇	27180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnb
+13	𓏤	_	_	_	_	_	_	_	_
+14	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+15	𓆼𓄿𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+16	𓏤	_	_	_	_	_	_	_	_
+17	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+18	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+19	𓏤	_	_	_	_	_	_	_	_
+20	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+21	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+22	𓏤	_	_	_	_	_	_	_	_
+23	𓋷𓄿𓈒𓏥	127870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjꜣ
+24	𓇗𓂝𓏯𓈒𓏥	154790	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šmꜥ.j
+25	𓏤	_	_	_	_	_	_	_	_
+26	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+27	𓏤	_	_	_	_	_	_	_	_
+28	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+29	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSdbIPl9ulEPBirx7JsgRAWo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Der Körper werde (damit) gesalbt
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,13]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcBSTQ9ByWWQULbo7OfLirTISg
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (und) werde dem Sonnenlicht ausgesetzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,13]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆄𓏲𓇳	152750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šw
+
+# sent_id = IBcBSXxjlZW8LEowkN00WWfQuGo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes Einreibemittel zum Erweichen einer Versteifung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,13] - [82,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓅨𓂋𓎛𓏏𓏌𓏥	48060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrḥ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓎼𓈖𓈖𓀉𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+5	𓋴𓈖𓆱𓐍𓏏𓏲𓂝𓏥	138020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḫt.w
+
+# sent_id = IBcBSahHAlHGNETxpv5Aw6Xyvj0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Schweinefett: 1, Schlangenfett: 1, Fett des $jbṯrs.w$-Tieres: 1, Mäusefett: 1, Katerfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,14] - [82,15]
+1	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+2	𓆷𓄿𓃟	151350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣj
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+5	𓆙	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+8	𓃙𓍿𓂋𓇓𓏲𓄛	24010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbṯrs.w
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+11	𓊪𓈖𓏌𓏲𓄛	60020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pn.w
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓌻𓂋𓉔𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+14	𓏇𓇋𓏲𓄛	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+15	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSWvEKMNlnk82lW5RKzSrQnU
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse vereint.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,15] - [82,16]
+1	𓋬𓂧𓏛	179420	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dmḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSUAbVH5BhUr2vNNJs1kOq54
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die Versteifungen) werden darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,16]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSXOSbV8qaUW5k6caCw28lBA
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen der $šw.t$-Erhebung (?) des Gefäßes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓆄𓏏𓏤	872165	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcBSeLGzZrgIke2pwzfwEkuhfs
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = „Stechholz“: 1, Fett: 1, Milz vom Rind: 1, Weihrauch: 1, Langbohnen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,16] - [82,17]
+1	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓈖𓈖𓈝𓅓𓂻𓄹𓏥	85010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nnšm
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcBSTVzRBZWBUT4vvgsREEyWWY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,17]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSa6MYmFBB06tnvvEro2Wdy4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSQGuJqWJXkO7tDQ1lm9pimY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Zwiebeln/Knoblauch: 1, Flaschenkürbis: 1, unterägyptisches Salz: 1, Honig: 1, Steinbockfett: 1, $sskꜣ$-Droge 1, Fleisch vom Rind: 1, nubischer Hämatit: 1, Johannisbrot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,18] - [82,19]
+1	𓌉𓏲𓆰𓏥	112710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓃀𓂧𓂧𓏲𓆰𓏥𓂓𓂸𓆰𓏥	861516	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bdd.w-kꜣ
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+10	𓈖𓂋𓄫𓏲𓄛	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓋴𓋴𓂓𓄿𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+13	𓏤	_	_	_	_	_	_	_	_
+14	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+17	𓏤	_	_	_	_	_	_	_	_
+18	𓂞𓂞𓈒𓏥	177900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dd
+19	𓏤	_	_	_	_	_	_	_	_
+20	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+21	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSR0WNcmYmUGQqAQ2xBEFRRs
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSWgdszkMEke6k6n43euWKLM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBScdQevnEUUiQmQZjHG14ipA
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = „Männlicher“ Mergelton: 1, Koriandersamen: 1, Datteln: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,20]
+1	𓐎𓈖𓏌𓏥	128340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjn
+2	𓅷𓄿𓇋𓇋𓂺	174250	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+5	𓆷𓄿𓏲𓆰𓏥	151280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+8	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSeHfskhxA00RkSAUrjbQbSE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die bestroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,20]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSalhVfgmGUUxoLesjSXwZNc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Stillen des Fressens eines Gefäßes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,20] - [82,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓂋𓏏𓀁	147260	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgr
+4	𓏲𓈙𓂝𓏲𓄑𓈒𓏥	50300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšꜥ.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcBSRzLUWBiQUlcsHwXg1lyA5o
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $ḏꜥ.t$-Droge: 1, Dattelsaft, getrocknet: 1, unterägyptisches Salz: 1, Bodensatz von süßem Bier: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,21] - [82,22]
+1	𓆓𓂝𓏏𓏌𓏪	182550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥ.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓇜𓇋𓏲𓏊𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+4	𓋴𓈙𓂋𓇳	130790	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=swšr
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+11	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+12	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSRTlxhNkp0gtjnFB89E0ues
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,22]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSYGqFnNWW0vZjnW8gKVxqH0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) gegen (?) Weichheit des Gefäßes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [82,22]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓎼𓈖𓈖𓀕𓅪	167540	VERB	verb	VerbForm=Fin	_	_	_	Translit=gnn
+4	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcBSbiLNCbzYUxcmEEV9DOGc2E
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,8]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSSlVCdbfek6cvHUvCY0up6w
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,8]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSRUK6d7FDUTcuV4Qk64uLFI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Lösen einer Versteifung in jedem (möglichen) Körperteil:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,8] - [83,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓊠𓂝𓍢𓂝	48760	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥꜥ
+4	𓊃𓈖𓆱𓐍𓏏𓏲𓂝𓏥	138020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḫt.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBSe5kQWbqWUaFkf2tMDPjkl0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = „Lebendiges“ Fleisch: 1, „lebendige“ $gy.t$-Pflanzen: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,9]
+1	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+2	𓋹𓈖𓐍	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓎼𓇋𓇋𓏏𓆰𓏥	166650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=gy.t
+5	𓋹𓈖𓐍𓏏	38530	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+8	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSbQR6vl9Zk8Fv5n4QwYW0lo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,9]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcBSQfRzViboEiMnz8rMVmIhpU
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSRL6wh9SKkb9pBJsKC4zHm8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSf02cjY25Eaqre779h82fJk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Milz vom Rind: 1. Datteltrester: 1, $sskꜣ$-Droge: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,9] - [83,10]
+1	𓂜𓈖𓈝𓅓𓄹	85010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nnšm
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓊃𓂋𓅐𓏌𓏥	139490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zrm.t
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓋴𓋴𓂓𓄿𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+8	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSYutMz1AGk2nkv8bVHZhIF0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,10]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSUifQEDgrkfFshFZHLKf4rs
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSerWywlWKUg2koS3kmjkp6g
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSam7GJYWUEETgl35UmLgUXE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,12]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSWWRe07T0kkEjTRoJJNCXIs
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSfWrlx4QjUr9rb2WXgjllHo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Johannisbrot: 1, Wachs: 1, Honig: 1, $sꜣr$-Pflanzen: 1, unterägyptisches Salz: 1, Datteltrester: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,12] - [83,13]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓋴𓐟𓄿𓂋𓇋𓆰𓏥	126910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣr
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓊃𓂋𓅐𓏌𓏥	139490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zrm.t
+12	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSfmNb5CVrUKysa1FNUqySwQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,13]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcBSTP95qAOL0psuugFxWfLVUQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSV5u380Rrk8ZgaBHYhpWKLk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: 1, Datteltrester: 1, $ḏꜥ.t$-Erde: 1, Natron: 1, $ꜥfꜣ$-Lattich: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,13] - [83,14]
+1	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊃𓂋𓅐𓏌𓏥	139490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zrm.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓆓𓂝𓏏𓏌𓏪	182550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥ.t
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓂝𓆑𓄿𓆰𓏥	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+10	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSVhm7wmnLUPluQRNbtQwYRs
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,14]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcBSULrrtWwl0KWoiImA1Vz8Hw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBScWVLL16B0ZTrh5ACLAeZTw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Oberägyptische $nšꜣ$-Wasserpflanzen: 1, unterägyptische $nšꜣ$-Wasserpflanzen: 1, Papyrus: 1, $tjꜣ$-Pflanzen: 1, „Feder-des-Nemti“-Pflanzen: 1, $ṯr.w$-Ocker: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,14] - [83,15]
+1	𓈖𓆷𓄿𓏲𓆰𓏥	88540	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nšꜣ
+2	𓇗𓂝𓏯	154790	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šmꜥ.j
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓈖𓆷𓄿𓏲𓆰𓏥	88540	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nšꜣ
+5	𓇇	74000	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mḥ.wj
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓇇𓏏𓆰	73850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḥy.t
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓏏𓇋𓄿𓆰	169900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tjꜣ
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓆄𓏏𓏤𓅈𓆰𓏥	861518	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t-Nmt.j
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓏞𓏲𓈒𓏥	176220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯr.w
+14	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSXYoK0f8EEzQrQslEW4Geeo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,15]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSaFtN2LdokjQhN3DEgQKiy4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $ḏꜥ.t$-Erde: 1, Dattelsaft: 1, unterägyptisches Salz: 1, Bodensatz vom Wein: 1, Natron: 1, Rinderfett: 1, Feigen: 1, $ꜥfꜣ$-Lattich: 1, Honig: 1, Eselskot: 1, „lebendige“ $tpꜣ.w$-Teile: 1, $šnf.t$-Früchte: 1, $sskꜣ$-Droge: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,15] - [83,18]
+1	𓆓𓂝𓏏𓏌𓏥	182550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥ.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍖𓈒𓏥𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓇋𓂋𓊪𓏌𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+14	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓂧𓃀𓍼𓈒𓏥	177710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dꜣb
+17	𓏤	_	_	_	_	_	_	_	_
+18	𓂝𓆑𓄿𓆰𓏥	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+19	𓏤	_	_	_	_	_	_	_	_
+20	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+21	𓏤	_	_	_	_	_	_	_	_
+22	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+23	𓉻𓂸𓃩	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+24	𓏤	_	_	_	_	_	_	_	_
+25	𓏏𓊪𓏲𓈒𓏥	171400	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tpꜣ.w
+26	𓋹𓈖𓐍𓏲𓏪	38530	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+27	𓏤	_	_	_	_	_	_	_	_
+28	𓈙𓈖𓆑𓏏𓈒𓏥	156130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnf.t
+29	𓏤	_	_	_	_	_	_	_	_
+30	𓋴𓋴𓂓𓂝𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+31	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSctyaoSb7UZ5lTYxHbWJE8o
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,18]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSXaHaWRmiErImNCk8lCitP0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,18]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSQmbBUZrh0KPqlDrGeByguI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSROf6k4lI0lQtwH429NWJk4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $twn$-Pflanzen: 1, Johannisbrot: 1, $psḏ$-Schoten: 1, Langbohnen: 1, Öl/Fett: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,18] - [83,19]
+1	𓏏𓃹𓈖𓃒𓆰𓏥	170310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twn
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓇶𓈒𓏥	62440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+12	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBScwqqunqnU6zqG6M8PKjUy4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,19]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcBSTn1AIYqWk3Zq1OACn9sYV4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSZ2jS47QdEQBkHm24yztF80
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSYo0p6I7uEQftcRzwV7zabE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = „Stechholz“: 1, Rinderfett: 1, Langbohnen: 1, Weihrauch: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,19] - [83,20]
+1	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+4	𓃒	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+9	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSXOuXtbTZ0r1tMcK7gjAFvU
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,20]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSVqoUViR5UQMsENwP7v4mu4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSWHjXXM55UTlsv2MiBdE01w
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,22]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcBSfuO7ftZK028vvfs3Hb1WGM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,22]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSQYA2i2N30pdtMGmBljlHtA
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,22]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSQ3GDs8uLU2okSo7xDVdfx4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Bodensatz (von ...): 1, Dattelsaft: 1, unterägyptisches Salz: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [83,22]
+1	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓃀𓈖𓇋𓏲𓇜𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSadMjfJR00QznsWswZk7sQM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,1]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSYvgeiLG0EJIqto5IHzTUGQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,1]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBScVIxTk4AUxropMwnqoMWcM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Honig: 1, Wachs: 1, Johannisbrot: 1, $sꜥꜣm$-Pflanzen: 1, Wacholderbeeren: 1, Selleriesamen: 1, $mw.t$-Teile vom $gw$-Gras: 1, $jbsꜣ$-Pflanzen: 1, Öl/Fett: 1, $pšn.t$-Droge: 1, Koniferenöl: 1, Starkbier: 1, Früchte/Samen der $šꜣms$-Pflanze: 1, Weihrauch: 1, Ocker: 1, Mehl von $ꜥmꜥꜥ$-Körnern (des Emmers / der Gerste): 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,1] - [84,5]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓋴𓉻𓂝𓄿𓅓𓆰𓏥	128700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥꜣm
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+10	𓏲𓂝𓈖𓐎𓆮	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+13	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓅐𓏏𓏥	69050	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw.t
+16	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+17	𓇋𓎼𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+18	𓏤	_	_	_	_	_	_	_	_
+19	𓇋𓃀𓃙𓐟𓏤𓆰𓏥	23930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbzꜣ
+20	𓏤	_	_	_	_	_	_	_	_
+21	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+22	𓏤	_	_	_	_	_	_	_	_
+23	𓊪𓈙𓈖𓏏𓈒𓏥	62650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pšn.t
+24	𓏤	_	_	_	_	_	_	_	_
+25	𓎙𓂧𓏌𓏥𓂝𓈙𓐎𓆮	42070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḏ-ꜥš
+26	𓏤	_	_	_	_	_	_	_	_
+27	𓂦𓂋𓏏𓏌𓏥	185590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏsr.t
+28	𓏤	_	_	_	_	_	_	_	_
+29	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+30	𓆷𓄿𓄟𓋴𓆰𓏥	151850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣms
+31	𓏤	_	_	_	_	_	_	_	_
+32	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+33	𓏤	_	_	_	_	_	_	_	_
+34	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+35	𓏤	_	_	_	_	_	_	_	_
+36	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+37	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+38	𓂝𓅓𓂝𓂝𓆰𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+39	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSf6uOpvwxEgRp2sBCRpREt8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,5]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSaGomZdxvk6lkseHrWAAzb4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,5]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSeNDSmYttEBxk8po2x5edpo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSZscQjeE8UpRtaaNxrdpkGk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $bzn$-Salz: 1, unterägyptisches Salz: 1, süßes Bier: 1, Früchte der Sykomore: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,5] - [84,6]
+1	𓃀𓊃𓈖𓈒𓏥	57460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bzn
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+6	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓇭𓈒𓏥	32170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jšd.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+11	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSZSfbJoGiEn9mQHNIRSHQug
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,6]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSQwWl8pofEb2uFCHJdIMKuM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSWqU7BbxXkJgrCN8chzNICI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $jbw$-Pflanzen: 1, $ḏsr.t$-Pflanzen: 1, $šs.yt$-Fritte: 1, Kampferöl/-holz: 1, $psḏ$-Schoten: 1, $gw$-Gras: 1, $jbsꜣ$-Pflanzen: 1, Selleriesamen: 1, Koriandersamen: 1, Nilpferdfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,6] - [84,8]
+1	𓇋𓃀𓏲𓆰𓏥	23690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbw
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓂦𓂋𓏏𓆰𓏥	185630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏsr.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓊃𓈙𓐟𓇋𓇋𓏏𓈒𓏥	157140	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šs.yt
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓍘𓀻𓏤𓋴𓈒𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓇶𓈒𓏥	62440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏ
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓇋𓃀𓃙𓐟𓏤𓆰𓏥	23930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbzꜣ
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+16	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+17	𓏤	_	_	_	_	_	_	_	_
+18	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+19	𓆷𓄿𓏲𓆰𓏥	151280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+20	𓏤	_	_	_	_	_	_	_	_
+21	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+22	𓂧𓃀𓄛	178280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbj
+23	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSbY5iQLr3kXaqZ5ti5JYT3M
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,8]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSciejqgjQUCTgDBmLh74edc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSUDloI2Ivk6ylue6ehWSwTE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $psḏ$-Schoten: 1, Langbohnen: 1, $šps$-Pflanzen (oder: Kampferbaum): 1, Pflanzenbrei: 1, Früchte (der Sykomore) (?) – zerstoßen sind sie mit dem $jrḥnn.t$-Vogel, (d.h.) zerstoßen sind sie mit seinen Federn.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,8] - [84,10]
+1	𓇶𓈒𓏥	62440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓃛𓏲𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓀻𓏤𓆰𓏥	153830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šps
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓇭𓈒𓏥	32170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jšd.t
+10	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=qnqn
+11	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓇋𓂋𓎛𓈖𓈖𓏏𓅬	29880	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jrḥnn.t
+14	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=qnqn
+15	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+16	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+17	𓆄𓏏𓏤𓆃𓏥	152830	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šw.t
+18	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSdRgVkhCj0AvgFNoF8DQgQ4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSaphNbd2V0ddvqVDD9Cy65Q
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSeeiSKOlrU1VgplnWpxsL3g
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Weißes Öl: 1, Gänsefett: 1, Steinbockfett: 1, $ẖpꜣ$-Teil des Wacholders: 1, $sfṯ$-Öl: 1, süße Myrrhe: 1, $šꜣšꜣ$-Früchte: 1, Zwiebeln/Knoblauch: 1, Wachs: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,10] - [84,11]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+2	𓌉𓏏𓇳	112300	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḥḏ
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+5	𓅬	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+8	𓈖𓂋𓄫𓏲𓄛	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓐎	122890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖpꜣ
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓏲𓂝𓈖𓐎𓆮	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+13	𓏤	_	_	_	_	_	_	_	_
+14	𓋴𓆑𓏏𓏌𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+17	𓇛𓅓𓏛	91410	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nḏm
+18	𓏤	_	_	_	_	_	_	_	_
+19	𓆷𓄿𓆷𓄿𓈒𓏥	151960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣšꜣ
+20	𓏤	_	_	_	_	_	_	_	_
+21	𓌉𓏲𓆰𓏥	112710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+22	𓏤	_	_	_	_	_	_	_	_
+23	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+24	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSYS4ABKyrEMQmoup8anNqp0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,11]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSQ4aQI2MnUPVgOzeAjbM2MM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,12]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSdudI0lk30F5vO41CPu0NOc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSUIge1YJF0Juln4R9tEDVcI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $šnf.t$-Früchte: 1, unterägyptisches Salz: 1, Honig: 1, Dattelsaft: 1, Natron: 1, $sskꜣ$-Droge: 1, Rinderfett: 1, Bodensatz (von ...): 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,12] - [84,13]
+1	𓈙𓈖𓆑𓏏𓈒𓏥	156130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnf.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓋴𓋴𓂓𓄿𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+14	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+17	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSQyZY0cESkzFp8HuybjuaV8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,13]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBScoOWLo9IE8etAxqs4F8beQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,13]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSXZzoQAbQEuynTQ1jCygzQo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel, etwas, was zu tun ist bei einem Gefäß in allen (möglichen) Körperteilen, wenn es zuckt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,13] - [84,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+6	𓈖𓉔𓊪𓂻	854520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nhp
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBSUJpNxRQuUinoGykjVMGCWM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Gegorener Pflanzenbrei: 1, „Inneres der Maische“: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,14] - [84,15]
+1	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂝𓍯𓄿𓇋𓇋𓏏𓏌𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓏶𓅓𓏭	25120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓈙𓃀𓏏𓏒𓏪	153270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šb.t
+8	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSdhHmI9qAk99siydPWqZDaQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einem Klümpchen (?) gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,15]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊪𓈖𓋴𓏏𓈒	60120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pns.t
+
+# sent_id = IBcBSXpkzPxBVku6pAqwafEf5JQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = werde erwärmt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,15]
+1	𓋴𓈙𓅓𓅓𓊮	145200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšmm
+
+# sent_id = IBcBSc9IZVVEBED1oymvamemxa0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,15]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBScXppiF7bkBpnrw60TzJfrc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSe87TUbVLUqkjWVE7BjhH40
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $nḥd$-Myrrhe: 1, Weihrauch: 1, Samen/Früchte der $ḫꜣs.yt$-Pflanze: 1, $ḥpꜥpꜥ.t$-Pflanzen: 1, $sskꜣ$-Droge: 1, $ns.ty$-Keimlinge (?) des $bšꜣ$-Getreide(produkte)s: 1, Sellerie: 1, $gw$-Gras: 1, Koniferenöl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,15] - [86,17]
+1	𓅘𓎛𓂧𓈒𓏥	86730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥd
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+6	𓆼𓄿𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓎛𓊪𓂝𓊪𓂝𓏏𓆰𓏥	104120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥpꜥpꜥ.t
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓋴𓋴𓂓𓄿𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓈖𓄓𓍘𓇋𓇋𓌽𓏥	87890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns.ty
+13	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+14	𓃀𓆷𓄿𓌽𓏥	57570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bšꜣ
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+17	𓏤	_	_	_	_	_	_	_	_
+18	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+19	𓏤	_	_	_	_	_	_	_	_
+20	𓎙𓂧𓏌𓏥𓂝𓈙𓐎𓆮	42070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḏ-ꜥš
+21	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSRrlpTKtE0W5mbivSGDl3Bw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,17]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSXjDd9HUxUxrvNAFgkkguVI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,17]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSYOtQgkPnE1Oh90dQb2069I
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSW13iTiQyUASgoR1XIPTmtY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Früchte der Sykomore: 1, Bodensatz von süßem Bier: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,18]
+1	𓇭𓈒𓏥	32170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jšd.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+8	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+9	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBScseO3jYs0YKqnOO75M2rgM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,18]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSQedVGBMOUpTra8JMdHSmyQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,18]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSSWlWvdhjEzbmYV3yBYsVAw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Vertreiben des $šp.t$-Phänomens eines Gefäßes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,18] - [84,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈙𓊪𓏏𓐎	153670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šp.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcBSSHuSvWpM0u7h50QbqMWjhY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Erdmandeln: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,19]
+1	𓇺𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+2	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSe5eCoE6ckxhgXFC9doRwl0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde von einem Mann gekaut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,19]
+1	𓏲𓎼𓄿𓄑𓀁	50790	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wgi̯
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcBSUWR4nQ9N0kcla9dnGsSAZg
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $sḫt$-Droge der Spießente.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,19]
+1	𓌦𓏏𓆇𓏥	862955	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫt
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓊃𓏏𓅭	125060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+
+# sent_id = IBcBSSqbQ6DpLU4RupeWdWG0uA0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde in den After gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,20]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄖𓏲𓏭	61490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.wj
+
+# sent_id = IBcBSeuwe4tunEV7mKxFL5iqNI8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSUhHW5eMoUQikE8YSLGV2E8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = $ḫpr-wr$-Droge: 1, Wachs: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,20]
+1	𓆣𓂋𓅨𓂋𓈒𓏥	116310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-wr
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBST3GJxlZfkhAhP052zscIHY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,20]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSY0EtFalXUkSjh7Rqb1gFAo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Stärken der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,20] - [84,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓏠𓈖𓏛	851677	VERB	verb	VerbForm=Fin	_	_	_	Translit=smn
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSbj8ENqY30Lun1nVlIXy9Vc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Rinderfett: 1, Weihrauch: 1, Wachs: 1, Wacholderbeeren: 1, Früchte/Samen der $ḫꜣs.yt$-Pflanze: 1, Kampferholz: 1, Kreuzkümmel: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [84,21] - [85,1]
+1	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+2	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+9	𓏲𓂝𓈖𓐎𓆮	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+12	𓆼𓄿𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+13	𓏤	_	_	_	_	_	_	_	_
+14	𓍘𓀻𓋴𓆰𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+17	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSYxIEFFOyUQvuu8ryWR4aZY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,1]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSdd415AQoEWgruJgalEJkn0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Eine andere Salbe zum Beruhigen der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓍇𓏌𓏲𓂧𓏏𓏌	81590	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nwd.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓊵𓏏𓊪	141120	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḥtp
+5	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSYhSYUmbsEJlqWmmRj2XBM8
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Bleiglanz: 1, Wachs: 1, Weihrauch: 1, Kampferöl/-holz: 1, getrocknete Myrrhe: 1, Rinderfett: 1, süßes Olivenöl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,2] - [85,3]
+1	𓀔𓈋𓅐𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓍘𓀻𓋴𓈒𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓂝𓈖𓅂𓈒𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+10	𓆄𓏲𓇳	152730	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šwi̯
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+13	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+16	𓇛𓅓𓏛	91410	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nḏm
+17	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcBSRWOK1cNqkbohQehGfEFWLw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,3] - [85,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSYezDONBOkAitK6EpAzWE5o
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Süße Myrrhe: 1, Sägemehl der $ꜥš$-Konifere: 1, Mehl der Dattel: 1, Öl/Fett des Wäschers: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,4] - [85,5]
+1	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+2	𓇛𓅓𓏛	91410	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nḏm
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓌪	49450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ws.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓂝𓈙𓐎𓆮𓈒𓏥	40940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥš
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+13	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+14	𓅺𓏏𓅂𓂝𓀀	95930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫt.j
+15	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSeZq1Vzg3UiXlMBvNmsZ3l4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse verkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,5]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSSrojVFzrUh9jJWu2qktHSE
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Ausstrecken einer Verkrümmung (und zum) Erweichen einer Versteifung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,5] - [85,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓃹𓈖𓂻	178160	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwn
+4	𓈎𓂋𓆑𓏏𓏌𓏥	161720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qrf.t
+5	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+6	𓈖𓆱𓐍𓏏𓏏𓀜	872162	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḫt.t
+
+# sent_id = IBcBSbPXewarJkxsqNQMOtatV9E
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Dattelsaft: 1, unterägyptisches Salz: 1, $šfšf.t$-Droge: 1, Öl/Fett: 1, Natron: 1, $ḏꜣs$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,6] - [85,7]
+1	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓈙𓆑𓈙𓆑𓏏𓏯𓈒𓏥	154250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šfšf.t
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓍖𓈖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+12	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSdDHWrjAPkgPtWesWDYdrRQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zu einer homogenen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,7]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBSSRhkc74IkSZrsRWpfO70vQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,7]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSRaHR47dZkRknGXziw6yXyM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Erweichen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕𓅪	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+
+# sent_id = IBcBSSFAnUgMlknnsVvS6l0pJPM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Natron: 1, unterägyptisches Salz: 1, Koniferenöl: 1, Bodensatz von Bier: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,7] - [85,8]
+1	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎙𓂧𓏌𓏥𓂝𓈙𓐎𓆮	42070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḏ-ꜥš
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+10	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSS0PSmkJB022j8dGVN7M6gw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,8]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSbp0eFL19EQQo2BohWiW1qI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSVxSwJ1Ozk0WvWMfSm1MdPY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Honig: 1, unterägyptisches Salz: 1, Eselskot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,8] - [85,9]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+6	𓉻𓂸𓃩	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+7	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSZojFdozgUzIrON4WHad3mY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,9]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSeSRhc8cAEXLk1aDmafLtrc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSS7Wl14vMUGfghvJofPm50M
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBSd2GPjtcM0GlhTajrpoi0Zo
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Öl/Fett: 1, Honig: 1, „lebendige“ $tpꜣ.w$-Teile: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,9] - [85,10]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓏏𓊪𓅯𓄿𓏲𓈒𓏥	171400	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tpꜣ.w
+6	𓋹𓈖𓐍𓏲𓏪	38530	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+7	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSdVmJuodwUVJo2nCt3faHQQ
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,10]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSTntUWaKEEq9nIiMfypAGug
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSaeW2UPyUkWNiSpmlwbcLo4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Kühlen der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓈎𓃀𓃀𓏁𓈗	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcBSajWh3adnU1huuOQHNeEXSc
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,11] - [85,12]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSV2K2xyjg0h8t4IGRxc9Q5o
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Etwas, was zu tun ist gegen ein Gefäß, wenn es steif ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,12]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+4	𓈖𓆱𓐍𓏏𓂝	87560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḫt
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcBSSYhLzkhxE4Brf69FmUUvww
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Polei-Minze (?): 1, $nšꜣ$-Wasserpflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,12]
+1	𓈖𓇋𓄿𓇋𓄿𓏲𓆰𓏥	79950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣjꜣ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓈖𓆷𓄿𓆰𓏥	88540	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nšꜣ
+4	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSS33yoWkgkz8qhHv0iaJMtk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde zerschlagen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,12]
+1	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+
+# sent_id = IBcBSfsGiZB740famTRwiKGJeEk
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = (Der betroffene Körperteil) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,12]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBSUxZV7nJlEQ0njjvhlY8hSM
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), jede Sache in Gang zu bringen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,13]
+1	𓎡𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓊃𓈖𓉔𓊪𓂻	137790	VERB	verb	VerbForm=Fin	_	_	_	Translit=snhp
+4	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBSdyVNjxMvUNDuz1FrNy45nI
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ton für Statuen: 1, $jbsꜣ$-Pflanzen: 1, $šꜣšꜣ$-Früchte: 1, Öl/Fett: 1 Wachs: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,13] - [85,14]
+1	𓐛𓏤	24690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓀾𓏤	170470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twt
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓇋𓃀𓃙𓐟𓏤𓆰𓏥	23930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbzꜣ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓆷𓄿𓆷𓄿𓈒𓏥	151960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣšꜣ
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+12	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBSUWW3YyFdU8vkwbfuSBzgz4
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,14]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBSY0JQT3UQEnslcW7voVWCxw
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von $rhn.w$-Erscheinungen der Krankheitsauslöser (?) im Arm, wenn er zittert:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,14] - [85,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓂋𓉔𓈖𓏌𓏲𓂢𓏥	95490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rhn.w
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎼𓃀𓂢	166900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gbꜣ
+9	𓂧𓄿𓅪	177620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dꜣ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcBSVauZX0L7kEbptqffuQru8I
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Pflanzenbrei von Gerste.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,15]
+1	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBcBSVA6dkaC1k06ucw3Q7YL9f0
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = Werde geknetet (?);
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,15]
+1	𓂝𓈎𓂋𓇋𓇋𓏲𓏌	854551	VERB	verb	Voice=Pass|VerbForm=Fin	_	_	_	Translit=sqr
+
+# sent_id = IBcBSXWN4RZwwUG1uDOgcgQKcUY
+# corpus = sawmedizin
+# src_text_id = A3SCLECB6ZH23OARP74WFWLFAU
+# src_text = sawmedizin:Papyrus Ebers//79,5-85,16 ⸗ Eb 627-696: Salbmittel zur Gefäßbehandlung
+# owner = Lutz Popko
+# text_de = werde vollständig zum Gären gebracht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [85,15]
+1	𓋴𓂝𓍯𓄿𓐎	128740	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥwꜣ
+2	𓁷𓏤𓐪𓂧𓏌𓏛	108220	ADV	adverb	_	_	_	_	Translit=ḥr-qd
+

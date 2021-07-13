@@ -1,0 +1,43 @@
+# sent_id = IBUBdWDAFrgTykOWh79dPEkPXUc
+# corpus = sawlit
+# src_text_id = 6QBYXMDFURF7ROS7NBVOG5B5EA
+# src_text = sawlit:Stele des Wernebkem(ui) oder Anchefeni (Kairo CG 20703)//〈Stele des Wernebkem(ui) oder Anchefeni (Kairo CG 20703)〉
+# owner = Peter Dils
+# text_de = Isis ist die Herrin der Macht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊨𓏏𓆇	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎟𓏏	81740	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb.t
+5	𓄊𓋴𓂝	49600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wsr.w
+
+# sent_id = IBUBd6JL3TdqQEYdoxYd3ug852E
+# corpus = sawlit
+# src_text_id = 6QBYXMDFURF7ROS7NBVOG5B5EA
+# src_text = sawlit:Stele des Wernebkem(ui) oder Anchefeni (Kairo CG 20703)//〈Stele des Wernebkem(ui) oder Anchefeni (Kairo CG 20703)〉
+# owner = Peter Dils
+# text_de = Der Versorgte und Sänger Anchef-en-i, er sagt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓄪𓇋𓇋	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓎿𓋴𓅱	109430	_	epitheton-title	_	_	_	_	Translit=ḥs.w
+3	𓋹𓈖𓐍𓆑𓈖𓀀	711169	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ⸗f-n⸗j
+4	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6oG6CLJu0hUiLXPcy7eavE
+# corpus = sawlit
+# src_text_id = 6QBYXMDFURF7ROS7NBVOG5B5EA
+# src_text = sawlit:Stele des Wernebkem(ui) oder Anchefeni (Kairo CG 20703)//〈Stele des Wernebkem(ui) oder Anchefeni (Kairo CG 20703)〉
+# owner = Peter Dils
+# text_de = Das Kind des Kinderhortes Kap, Hezui, der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓀔𓈖𓊶𓉐	400445	_	epitheton-title	_	_	_	_	Translit=ẖrd-n-kꜣp
+2	𓎿𓋴𓅱𓇋𓀁	_	X	unknown	_	_	_	_	_
+3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+

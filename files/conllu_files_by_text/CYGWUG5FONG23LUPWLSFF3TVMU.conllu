@@ -1,0 +1,41 @@
+# sent_id = IBUBd5TMXLjAdUpwlFM7xZW1TXc
+# corpus = bbawgrabinschriften
+# src_text_id = CYGWUG5FONG23LUPWLSFF3TVMU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Priester Iren-Re.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓋴𓌉𓊹𓍛	450234	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-nṯr
+2	𓂋𓂝𓁹𓈖	450224	PROPN	entity-name	_	_	_	_	Translit=Jr.n-Rꜥw
+
+# sent_id = IBUBd5qjVtWxfExsqro10cPFuQM
+# corpus = bbawgrabinschriften
+# src_text_id = CYGWUG5FONG23LUPWLSFF3TVMU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn Anch-em-a-Re hat für ihn (es) gemacht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅭	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓀗	135720	ADJ	adjective	_	_	_	_	Translit=sms.w
+7	𓂋𓂝𓋹𓅓	450127	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ-m-ꜥ-Rꜥw
+
+# sent_id = IBUBd0YmW5DLkEQmvu6qNoGtR24
+# corpus = bbawgrabinschriften
+# src_text_id = CYGWUG5FONG23LUPWLSFF3TVMU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Vorsteher der Totenpriester Iren-Re.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2] - [3]
+1	𓅓𓂋𓂖	800075	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḥm.w-kꜣ
+2	𓂋𓂝𓁹𓈖	450224	PROPN	entity-name	_	_	_	_	Translit=Jr.n-Rꜥw
+

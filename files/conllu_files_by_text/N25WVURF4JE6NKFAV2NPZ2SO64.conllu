@@ -1,0 +1,39 @@
+# sent_id = IBUBdQq9fqSthkSyhJXPEyDGOGc
+# corpus = bbawgrabinschriften
+# src_text_id = N25WVURF4JE6NKFAV2NPZ2SO64
+# src_text = bbawgrabinschriften:Biographische Inschriftenstele//〈Text〉
+# owner = Stefan Grunert
+# text_de = Seine Majestät sagte zu ihm:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓍛	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9g7DAaiTkjPvMJ1xQn2VAg
+# corpus = bbawgrabinschriften
+# src_text_id = N25WVURF4JE6NKFAV2NPZ2SO64
+# src_text = bbawgrabinschriften:Biographische Inschriftenstele//〈Text〉
+# owner = Stefan Grunert
+# text_de = Du mögest unversehrt sein.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓍑𓅱𓍘	52090	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wḏꜣ
+
+# sent_id = IBUBd9wAKttT6kFFv9HXK7J64qY
+# corpus = bbawgrabinschriften
+# src_text_id = N25WVURF4JE6NKFAV2NPZ2SO64
+# src_text = bbawgrabinschriften:Biographische Inschriftenstele//〈Text〉
+# owner = Stefan Grunert
+# text_de = Seine Majestät sagte:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓐍𓂋𓌂𓃭	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+2	𓍛	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

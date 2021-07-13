@@ -1,0 +1,590 @@
+# sent_id = IBUDQvP2XKtTpkfvoBcmexUWo8s
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde veranlasst, dass er (es) trinkt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A2]
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓊃𓅨𓂋𓇋𓀁	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcBiIJwDVOGKEzHnKUeWKQP7gc
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Vertreiben von Durst bei einem Kind:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A9]
+1	𓂧𓂋𓂡	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓇋𓃀𓏏𓃙𓈗	23430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jb.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄡𓂋𓂧𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+
+# sent_id = IBUDQoG1FHtJX0RIpRw2UFIcmY4
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Beseitigen der $wrm.yt$-Krankheit im Bauch:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A10]
+1	𓂧𓂋𓂡	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓅨𓂋𓅓𓇋𓇋𓏏𓐎	850411	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrm.yt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+
+# sent_id = IBUDQmWX5J9da0tOmjlEliGEofs
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Dann soll man Haare (oder: ein Haar) daran geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A11]
+1	𓂋𓂞𓐍𓂋𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓍲𓈖𓁸	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇑𓇑	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+
+# sent_id = IBUDQhXICYC630YQkN7LjDJWhq8
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Seine Stirn werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A12]
+1	𓎼𓊃𓂡	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓄂𓏏𓏤	100310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥꜣ.t
+3	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUDQxVhOETGzU2unVtd7lTftnk
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde als Zauberspruch gesagt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A13]
+1	𓆓𓂧𓏏	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓂓𓄿𓀁	110660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkꜣ.w
+
+# sent_id = IBUDQ9uiPDTCnEwTvcWlFzcxqIs
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Das Anheben der Haare (⸗ Wimpern?) im Auge:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A13]
+1	𓍿𓊃𓏏𓍞	854581	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯzi̯
+2	𓍲𓈖𓁸𓏥	155510	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šnj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+
+# sent_id = IBYBlURhKVh0s0skvQPuF0sEhoQ
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Beseitigen einer $thm$-Wunde im Auge:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A14] - [A15]
+1	𓂧𓂋𓂡	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓏏𓉔𓅓𓂾	172990	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=thm
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+
+# sent_id = IBYBlU1KSTMUNEo6sC0FQo8Yn3k
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = $ẖpꜣ$-Kügelchen des Ebenholzbaumes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A15]
+1	𓄡𓊪𓅯𓄿𓐎	122890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖpꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓉔𓃀𓍁𓈖𓏭𓆱	98180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hbnj
+
+# sent_id = IBYBlR7i1j2w20x0muV0srQEZHg
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde in schwarze Augenschminke gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A16]
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓄟𓊃𓆓𓅐𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+
+# sent_id = IBYBlcM2XBkDG0IKszPXbxN5hGI
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Ein anderes Heilmittel.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBYBllPzGKMSWUfbkUiQbQkdzYA
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde in Honig zerstoßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A18]
+1	𓆞𓄿𓏏𓂡	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆤𓏏𓏤𓏊𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBYBlmrMGByI2kZDviWQEWrkbkw
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde sorgsam fein zerrieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A18]
+1	𓐩𓏌𓂡	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓊃𓈖𓂝𓂝𓏞𓏛	136700	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏠𓈖𓐍𓍊𓏛	400111	ADV	adverb	_	_	_	_	Translit=mnḫ
+
+# sent_id = IBYBlkvIxBiYOk6BhEOSpbpGlDY
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = $rd$-Teil der Dornakazie.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A19]
+1	𓂋𓂧𓇜𓏤	96620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rd
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓍲𓈖𓆓𓏏𓆭	156510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnḏ.t
+
+# sent_id = IBYBlrfEWOmacU5rtbR0i3gfokE
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Das ist das Beseitigen der $tḫn$-Verletzung.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A21]
+1	𓂧𓂋𓂡	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓏏𓐍𓈖𓌙	173260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḫn
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBYBlssKKajIXk6QsbSWaLHvhMs
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde in gegorenem Pflanzenschleim zerstoßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A22]
+1	𓆞𓄿𓂡	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂝𓅱𓇋𓇋𓏏𓈀𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+
+# sent_id = IBYBlmVxpwjeQkF2q0w8VhSWYCc
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde viele Male an die Außenseite der beiden Augen gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A22]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓐟𓏤	125680	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+6	𓊃𓊪𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+7	𓆈𓄿𓏲𓏥	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+
+# sent_id = IBYBlgQaHw2Xf0yirlCv3p2nEcA
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Ein weiteres Heilmittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A22]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBYBlldPrjQun0iQorM3d3xBZ58
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde mit Bodensatz(?) der $jꜥy.t$-Flüssigkeit gemischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A23]
+1	𓄿𓏇𓇋𓂡	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓄡𓂝𓂡𓅱𓈗𓈀𓏥𓏌𓏤	122760	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ẖꜥꜥ
+4	𓇋𓂝𓏏𓈗𓈀𓏥	21570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜥy.t
+
+# sent_id = IBYBliNc1gbKjUvlpwtZr7TNBUA
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Du sollst (dann) dieses Heilmittel oberhalb der beiden Augen auf diese Binde geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A24]
+1	𓂋𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓄲𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+4	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+5	𓅓𓐞𓏤𓁷𓂋𓇯	65920	ADP	preposition	_	_	_	_	Translit=m-gs-ḥr.j
+6	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓊃𓏏𓊪𓍉𓋳𓏤	148100	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=stp
+9	𓈖𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBYBllE5pDm4MU4RuvMBS2IUjoM
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Kühlen beider Augen ((Gut! Mache es!)):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A24]
+1	𓊃𓈎𓃀𓃀𓏁𓈗	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+2	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+3	𓄤	854519	VERB	verb	_	_	_	_	Translit=nfr
+4	𓁹	851809	VERB	verb	_	_	_	_	Translit=jri̯
+
+# sent_id = IBYBluCfD1Kj5kRgmQ5CtvAEsMM
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Grüner Bernstein(?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A24]
+1	𓋴𓐟𓄿𓉔𓂋𓏏𓈒𓏥	140160	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=shr.t
+
+# sent_id = IBYBlvifY4Xk2UbCnPSlmW09l7g
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde mit Wasser gemischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A24] - [A25]
+1	𓄿𓏇𓇋𓂡	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBYBli1ooNUiPkiNmyTBpFNgxQk
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde an die Außenseite der beiden Augen gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓐟𓏤	125680	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+
+# sent_id = IBYBlibEdEhDkE1uuA1thNiblpU
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Ein weiteres Heilmittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBYBlsaonkcpQ0JSspX6BuCUMYQ
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Kolloquinte/Johannisbrotfrucht:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓍑𓄿𓂋𓏏𓎣𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBYBlqEy3ih2pUbZtFQcjv0CSWM
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Sie) werde im Gärungsprodukt(?) des Honigs fein zerrieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓐩𓏌𓂡	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓊃𓈖𓂝𓂝𓏞𓏛	136700	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆣𓂋𓆓𓋴𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓆤𓏏𓏤𓏊𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBYBlnGsEuC3UEiJnUIo0FCWJDQ
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Sie) werde an die Außenseite der beiden Augen gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓐟𓏤	125680	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+
+# sent_id = IBYBls2eaBIEhkRWhGIvxvB39bY
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Ein weiteres Heilmittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBYBlrPwYtNFOUUuqvxq9vxyCY0
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = $mjmj$-Getreide(?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓅓𓅓𓌽𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+
+# sent_id = IBYBltEHWObth0T1iseTWdQVuHo
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde ins Wasser gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBYBlhcAnH5ZsEK4hQaNF6Piw0g
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde nachts dem Tau ausgesetzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A25]
+1	𓁀	150740	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏr
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓂨𓏏𓇲	21180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣd.t
+
+# sent_id = IBYBlskAtW9AgkQWjukGEvxAryw
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Ein weiteres Heilmittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A26]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBYBlihBChCQpkmYt5rZmlLWDG0
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Sellerie und Hanf(?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A26]
+1	𓌳𓏏𓏏𓆰	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+2	𓈙𓅓𓈙𓅓𓏏𓆰𓏥	155110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šmšm.t
+
+# sent_id = IBYBlgh8wzs3AkZjui5DCjSQJhY
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde zerkleinert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A26]
+1	𓈎𓈖𓈎𓈖𓏴	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+
+# sent_id = IBYBljtflcyJL0Hvuw0uQjWqd64
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde nachts dem Tau ausgesetzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A26]
+1	𓁀	150740	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏr
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓂨𓏏𓇲	21180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣd.t
+
+# sent_id = IBYBlhcLRFancklBg6DC6EWdW9I
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werden am Morgen an beide Augen des Mannes damit gewaschen. ((gut!))
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A26]
+1	𓇋𓂝𓈗	21550	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥi̯
+2	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+3	𓈖	850787	ADJ	adjective	Number=Dual|Gender=Fem	_	_	_	Translit=n.j
+4	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+6	𓇼𓄿𓇳𓏲𓏭	400078	ADV	adverb	_	_	_	_	Translit=dwꜣ.w
+7	𓄤	854519	VERB	verb	_	_	_	_	Translit=nfr
+
+# sent_id = IBYBlplm1beKUkiRgqoMDAYL9i0
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde von dem Mann getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A27]
+1	𓊃𓅨𓂋𓇋𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBYBls4hWjxMRktymKVdWEF9RGM
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Es ist das Töten des $ḥfꜣ.t$-(Band?)-Wurmes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A29]
+1	𓋴𓌳𓄿𓅓𓌪	134370	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣ
+2	𓎛𓆑𓄿𓏏𓆙	104370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥfꜣ.t
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBYBlrGAGteec0Ago3jlMZC1xSw
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde von dem Mann gegessen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A30]
+1	𓏶𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBYBllZ96FG1Q0KdvCeDA0KYQPo
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = Regeln des Harnes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A30]
+1	𓊃𓌳𓐙𓂝𓂻	134630	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣꜥ
+2	𓈗𓇋𓇋𓏏𓂺	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBYBlnauJLLarUnql5bEPHgdmyM
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde in einem Napf(maß?) (voll) geronnenem Bier zerrieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A31]
+1	𓊃𓇋𓆛𓈖𓏌𓏲𓂡	128320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zjn
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓃀𓅡𓄿𓎼𓏏𓈗	53970	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=bꜣg
+5	𓐍𓆼𓄿𓅱𓏭𓏊𓏤	113770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣwj
+
+# sent_id = IBYBljfiLWoFWUYjtCfr4AloH4s
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde geglättet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A31]
+1	𓈖𓂡𓂡𓏞𓏛	80460	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nꜥꜥ
+
+# sent_id = IBYBlusiYZyMK0Bkr2mURueQzdc
+# corpus = sawmedizin
+# src_text_id = BAKKDAKFWBBXNARFVVMMRWLJJ4
+# src_text = sawmedizin:pRam III (recto)//pRam III, Fragment A
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde vom Mann getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A31]
+1	𓊃𓅨𓂋𓇋𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+

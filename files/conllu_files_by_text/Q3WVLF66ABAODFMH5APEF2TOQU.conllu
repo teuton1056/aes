@@ -1,0 +1,25 @@
+# sent_id = IBUBd4mkWQdkI0iFqbNPmHTLDjw
+# corpus = bbawgrabinschriften
+# src_text_id = Q3WVLF66ABAODFMH5APEF2TOQU
+# src_text = bbawgrabinschriften:Opferkapelle//Südwand
+# owner = Stefan Grunert
+# text_de = Das Bringen eines Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [mittleres Register⁝1]
+1	𓂻𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+2	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+
+# sent_id = IBUBd5b3lVYGqEtgiMReWbkW9GA
+# corpus = bbawgrabinschriften
+# src_text_id = Q3WVLF66ABAODFMH5APEF2TOQU
+# src_text = bbawgrabinschriften:Opferkapelle//Südwand
+# owner = Stefan Grunert
+# text_de = Das Bringen eines Jungtiers der weißen Säbelantilope.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oberes Register]
+1	𓂻𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+2	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+3	𓌳𓌉	66260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ-ḥḏ
+

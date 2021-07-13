@@ -1,0 +1,39 @@
+# sent_id = IBUBd0yHewsV5kIguJllXmTFlcY
+# corpus = sawlit
+# src_text_id = UGOPLGD7GBCMJOGYLITPBULW2Q
+# src_text = sawlit:Stele des Khety (London UC 14430)//〈Stele des Khety (London UC 14430)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = As for any son of a man who does this - his father leaves him alone at the court.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.x+9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅭	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+3	𓊃𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+6	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓃀𓎁	854510	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bṯ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓈎𓈖𓃀𓏏𓊋	161350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qnb.t
+
+# sent_id = IBUBd4hhfUimY0gyr9UQg21FTqA
+# corpus = sawlit
+# src_text_id = UGOPLGD7GBCMJOGYLITPBULW2Q
+# src_text = sawlit:Stele des Khety (London UC 14430)//〈Stele des Khety (London UC 14430)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May life be united with every heir of his,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.x+11]
+1	𓎸	123420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖnm
+2	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄯	22460	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwꜥ.w
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+

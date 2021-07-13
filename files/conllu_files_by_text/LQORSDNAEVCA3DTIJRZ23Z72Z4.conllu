@@ -1,0 +1,555 @@
+# sent_id = IBUBd70tnC0hW09JumWPypVAQQY
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = An offering which the king gives (and) Osiris, lord of Busiris, foremost of the Westerners, great god, lord of Abydos,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.2]
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓎟𓂧𓂧𓅱𓊖𓏤	400982	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w
+4	𓏅𓈖𓏏𓋀𓅂	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+5	𓊹𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+6	𓎟𓍋𓃀𓈋𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+
+# sent_id = IBUBdWzHDGHWtkLjjYCUExaSprw
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The father of the father of my father has served as scribe of the watered fields of Abydos in the Thinite nome since the time of Horus Wahankh, King of Upper and Lower Egypt, son of Re, Antef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4] - [A.5]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓏞𓎛𓏏𓈇𓏥𓅓𓈗	861019	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜣḥ.wt-m-mw
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+6	𓋅𓅨𓂋𓊖𓏏𓏤	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+7	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+8	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jtj
+9	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓇥𓂋	850803	ADP	preposition	_	_	_	_	Translit=ḏr
+14	𓂋𓎡𓇳𓈇	96390	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rk
+15	𓅃	400034	_	epitheton-title	_	_	_	_	Translit=Ḥr.w
+16	𓎝𓋹	400552	PROPN	entity-name	_	_	_	_	Translit=Wꜣḥ-ꜥnḫ
+17	𓇓𓏏𓆤	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+18	𓇳𓅭	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+19	𓏎𓏏𓆑	600456	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBd67WDMggKExlsYLHHrc7Er8
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I have now come to this tomb at the Terrace of the Noble God, (at) the ground great of fame,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5]
+1	𓇍𓅱𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇋𓇩𓊃𓉐𓏤	31010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓂋𓂧𓊍	93730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rwd
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓊹𓀻	852951	_	epitheton-title	_	_	_	_	Translit=nṯr-šps.j
+11	𓅱𓂝𓂋𓏏𓂾𓏤𓈇𓉻𓏏𓉔𓅓𓉔𓏏𓀁	860302	PROPN	entity-name	_	_	_	_	Translit=Wꜥr.t-ꜥꜣ.t-hmhm.t
+
+# sent_id = IBUBdzblfqE9TUpQiPWckmo5BQ8
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified scribe of the cadaster Ameny.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓏞𓈖𓎅𓏤𓈇	401063	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w-n-ṯmꜣ
+3	𓇋𓏠𓈖𓇋𓇋	400002	PROPN	entity-name	_	_	_	_	Translit=Jmny
+
+# sent_id = IBUBd7C61vGAVEv5h6y9gG6udhs
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved wife Ameni.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓏠𓈖𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd11Mhux9h0JWnyWt0y34v6U
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified scribe of the cadaster Imsu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓏞𓈖𓎅𓏤𓈇	401063	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w-n-ṯmꜣ
+3	𓇋𓐜𓅓𓊃𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7d8arH2B06WkAPor2Gccyw
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved wife Mereret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.4]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌻𓂋𓂋𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdQRZ23ktjU9nnuQK1pQlXdc
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved wife Muut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅐𓏏𓏥	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7AP6SOGNU7MtqHIxdQKzOI
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The butler Sobeknakht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.6]
+1	𓍏	44930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbꜣ
+2	𓆍𓀜	550004	PROPN	entity-name	_	_	_	_	Translit=Sbk-nḫt.w
+
+# sent_id = IBUBd4QMJOX7yEdbnBmgWJWnz9I
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved son Imsu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓐜𓅓𓊃𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8uQ1HWh2kPskPWEa0SmWQo
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Hepu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓊪𓐑𓅱	400218	PROPN	entity-name	_	_	_	_	Translit=Ḥpw
+
+# sent_id = IBUBd5WXplX3uEmHl1jkJzGBNEY
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved daughter Muut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅐𓏏𓏪	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd2yag3yXkkQ6jrpuvRh0AFk
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The butler Ameni.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.6]
+1	𓍏	44930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbꜣ
+2	𓇋𓏠𓈖𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdQf1xJwVg0y0rgGJhq9WR9Q
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified scribe of the fields Ameni, born of Hepu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓏞𓎛𓏏𓈇𓏥	450361	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜣḥ.wt
+3	𓇋𓏠𓈖𓇋	_	X	unknown	_	_	_	_	_
+4	𓄟𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+5	𓎛𓊪𓐑𓅱	400218	PROPN	entity-name	_	_	_	_	Translit=Ḥpw
+
+# sent_id = IBUBd0H3NxZ3jU61j0Qo2lh5c6I
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved wife Neni.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖𓈖𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5pqvNL1mE8Wp7tFGpwod5c
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved son Imsu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.3]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓐜𓅓𓊃𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd9lRL3e8Y07AmOgie2stEAw
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Imsu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.4]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓐜𓅓𓊃𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5x776u0KUB3sCyboVfeVDs
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His mother Hepu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.5]
+1	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓊪𓐑𓅱	400218	PROPN	entity-name	_	_	_	_	Translit=Ḥpw
+
+# sent_id = IBUBd6OZVWQ9A0t4swgucetrgqA
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified Dedu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.6]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓂞𓂞𓅱	400041	PROPN	entity-name	_	_	_	_	Translit=Ddw
+
+# sent_id = IBUBdQjzOFtvx0QTrtZ2UHebqFI
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His father, scribe of the fields, Ameni.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.8]
+1	𓇋𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏞𓎛𓏏𓈇𓏥	450361	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜣḥ.wt
+4	𓇋𓏠𓈖𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxZY0pQN8ktytpXq7W9KTqE
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Imsu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓐜𓊃𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd68sWMEkREO7vSUEMS3bNE8
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Amenemhet the elder.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.2]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏠𓇋𓈖𓅓𓄂𓉻	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd4JBqqXEi0o2gigR7iZKdL8
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Amenemhet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.3]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏠𓈖𓅓𓄂	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+
+# sent_id = IBUBd0topSFqDUR2vQAAeMEHTXA
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Mereret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.4]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓂋𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd4KwTYlJ00c1jJ0s1Faci9g
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Imsu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.6]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓐜𓅓𓊃𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdyXhWVkVBUDcolres8G7FB4
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Dedet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.7]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂞𓂞𓏏	709621	PROPN	entity-name	_	_	_	_	Translit=Dd.t
+
+# sent_id = IBUBdQ4h9uaHuU4klIy3T2sGfrg
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Dedusobek.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.8]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆍𓂞𓂞𓅱	400376	PROPN	entity-name	_	_	_	_	Translit=Dd.w-Sbk
+
+# sent_id = IBUBd0amT4ujaEj9v5FnZ9wekLg
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Senwosret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.9]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+
+# sent_id = IBUBd2Q9VoIOwkHtmXprGiJGhTU
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Senwosret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.10]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+
+# sent_id = IBUBdxBevQiRvkxJkruqnW4hHoc
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His son Amenemhet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.11]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏠𓈖𓅓𓄂𓏤𓏏	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+
+# sent_id = IBUBd3zaRNXKPU4BuswVtsYeAX4
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Hepu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.12]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓊪𓐑𓅱	400218	PROPN	entity-name	_	_	_	_	Translit=Ḥpw
+
+# sent_id = IBUBdzlEkaoja0moojWZy2y86QU
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The brewer Onurishetep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.1]
+1	𓀪𓏏𓏭	37440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥf.tj
+2	𓏎𓈐𓊵𓏏𓊪𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6qmnJiHnkoissiyJ6rqceI
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The herdsman Renefankhu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.2]
+1	𓀜𓅱	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+2	𓂋𓈖𓆑𓋹𓈖𓐍𓅱	400528	PROPN	entity-name	_	_	_	_	Translit=Rn⸗f-ꜥnḫ.w
+
+# sent_id = IBUBd3Jc2AxqmUZLrUiBNOBogGs
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The maid Isi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.3]
+1	𓍏𓏏	45030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbꜣ.yt
+2	𓇋𓋴𓇋	400120	PROPN	entity-name	_	_	_	_	Translit=Jsj
+
+# sent_id = IBUBdyBou8jBA0U9rfbef6Fq7V4
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The butcher Senuankhu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.4]
+1	𓌫	145080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sšm
+2	𓌢𓈖𓏌𓏥𓋹𓈖𓐍𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzI5d9VhN0henvAGH4tKmYA
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The butler Sobekhotep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.5]
+1	𓍏	44930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbꜣ
+2	𓆍𓊵𓏏𓊪𓅱	400122	PROPN	entity-name	_	_	_	_	Translit=Sbk-ḥtp.w
+
+# sent_id = IBUBd0OMft5p4EkFj8weKeQNhGA
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The servant Senet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.6]
+1	𓅧𓏏	41450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥq.yt
+2	𓊃𓈖𓏏𓏕	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+
+# sent_id = IBUBd157hnzZZ0iPsWOT8n7D3Bk
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Nebetit.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.8]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎟𓏏𓇋𓏏𓆑	703182	PROPN	entity-name	_	_	_	_	Translit=Nb.t-jtj⸗f
+
+# sent_id = IBUBd6j4XMoEJUg5lMaxlcSD9Ik
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Mereret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.10]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓂋𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdQmO7IE4lELUjb1d5DkUlag
+# corpus = sawlit
+# src_text_id = LQORSDNAEVCA3DTIJRZ23Z72Z4
+# src_text = sawlit:Stele des Antefiqer (Leiden V 3 ⸗ AP 7)//〈Stele des Antefiqer (Leiden V 3 ⸗ AP 7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His daughter Tjetu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.11]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+

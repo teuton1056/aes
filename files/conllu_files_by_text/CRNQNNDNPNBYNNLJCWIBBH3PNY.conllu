@@ -1,0 +1,226 @@
+# sent_id = IBUBdyfWR8rN902PgEZsjrK2dVQ
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Die Edlen sowie die Verklärten sind in ihren Pyramidengräbern bestattet.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,4-6,5] - [6,5]
+1	𓊃𓂝𓎛𓏲𓀼𓏫	129120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ
+2	𓅜𓐍𓏲𓀼𓏫	203	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣḫ
+3	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+4	𓈎𓂋𓋴𓏲𓀜	161940	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qrs
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓍋𓅓𓂋𓉴𓏏𓉐𓏫	71780	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mr
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdQEgV5DvaEhnvqCV4yDQXzY
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Diejenigen, die (sich) (Grab)häuser bauten: Ihre (Grab)stätten existieren nicht (mehr).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,5]
+1	𓀨𓀜	162420	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qd
+2	𓉗𓅱𓏏𓉐𓏫	99790	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥw.t
+3	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+4	𓊨𓏏𓉐𓏫	854540	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=s.t
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd0oK3i4msErtuYZPPRy7Tjw
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Siehe, was aus ihnen (den Gräbern) gemacht wurde!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,5] - [VI 6]
+1	𓊪𓏏𓂋𓇋𓆳𓁻	62900	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ptr
+2	𓁹𓂋𓏏𓏲𓏫	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdz3yh7plmk1KgJ9jHB9cMAk
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Ich hörte die Worte des Imhotep und des Hordedef, mit deren Aussagen man sich häufig ausdrückt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [VI 6] - [6,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄔𓅓𓏛𓈖	150560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓌃𓂧𓏏𓀁𓏫	78030	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=mdw.t
+5	𓇍𓇋𓏭𓂻𓅓𓊵𓏏𓊪𓀼𓀀	400243	PROPN	entity-name	_	_	_	_	Translit=Jy-m-ḥtp
+6	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+7	𓅨𓂋𓅆𓂞𓂞𓆑𓀼	709870	PROPN	entity-name	_	_	_	_	Translit=Ḏd⸗f-Ḥr.w
+8	𓋴𓆓𓂧𓏲𓀁	150940	VERB	verb	_	_	_	_	Translit=sḏd
+9	𓍘𓇋	851175	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tj
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋴𓆓𓂧𓅱𓏏𓀁𓏴𓏛	150950	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sḏd.w
+12	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+13	𓂋𓏤𓋴𓏭𓈐	96030	ADV	adverb	_	_	_	_	Translit=rsj
+
+# sent_id = IBUBd4tRYzy8HENci1VOFQyerWk
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Siehe die zugehörigen (Grab)stätten: Deren Mauern sind zerfallen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,7]
+1	𓊪𓏏𓂋𓇋𓆳𓀁	62900	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ptr
+2	𓊨𓏏𓉐𓏫	854540	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=s.t
+3	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+4	𓇋𓆛𓈖𓃀𓏲𓊅𓈇𓏪	27180	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jnb
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓆑𓐍𓏲𓍼𓏭𓂻	63970	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=fḫ
+
+# sent_id = IBUBd129eNdrzE9OsfIZVWXv7kE
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Es gibt ihre (Grab)stätten nicht (mehr), als ob sie nie entstanden wären (wörtl.: wie die, die nie entstanden sind).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,7] - [6,7-6,8]
+1	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+2	𓊨𓏏𓉐𓏫	854540	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=s.t
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓂜𓈖	850806	PART	particle	_	_	_	_	Translit=n
+7	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd5XcRWXX9khXi0eusD45kW8
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Du mögest wohlbehalten sein! Dein Herz ist deswegen auf Selbstvergessenheit (wörtl.: auf Das-Herz-Vergessen-Lassen) aus - nützlich ist das für dich.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,9]
+1	𓏲𓍑𓄿𓏛	52090	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜣ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓊃𓅖𓉔𓄿𓏏𓅪	135500	VERB	verb	VerbForm=Fin	_	_	_	Translit=smhi̯
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓁷𓏤𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+11	𓅜𓐍𓏛	600475	ADJ	adjective	_	_	_	_	Translit=ꜣḫ
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdzu8EPDslEP2iVxoXs0xKTs
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Folge deinem Herzen, solange du lebst!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,9]
+1	𓌞𓋴𓏲𓂻	155000	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šms
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+5	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdxt2one2xkjzs78bVWUhuKc
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Lege Myrrhe auf deinen Kopf, indem du dich in feines Leinen kleidest!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,10]
+1	𓇋𓅓𓅖	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓂝𓈖𓏏𓅂𓏌𓏫	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+3	𓁷𓏤𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+5	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓃹𓈖𓐍𓏲𓍼𓍱𓏫𓀀𓈖	46920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnḫ
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊪𓈎𓏏𓆀𓍱𓏫	59330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+
+# sent_id = IBUBdxptADurtUjtgGI8WowxpcY
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Salbe dich mit echten Kostbarkeiten vom göttlichen Besitz!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,10] - [6,11]
+1	𓐞𓊃𓏲𓏛𓀜	168280	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=gs
+2	𓍘𓇋	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓃀𓇋𓄿𓎺𓏛𓏥	54480	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bjꜣ.yt
+5	𓌷𓂝𓏏𓇋𓏲𓏛	66460	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=mꜣꜥ
+6	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+7	𓐍𓏏𓏛𓏥𓊹𓅆	30810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jḫ.t-nṯr
+
+# sent_id = IBUBd1tqJFzWjEuPvKTAEFQ2lZw
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Refrain:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,1]
+1	𓌳𓄿𓏲𓏏𓄫𓌟𓀁𓏫	66860	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣw.t
+
+# sent_id = IBUBd8lB0ztgx0jpsjUoEYbuRrc
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Siehe, niemand wird (jemals) seine Habe mit sich nehmen können (wörtl.: nicht veranlasst einer, dass seine Dinge mit ihm genommen werden).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,2]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+4	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓎁𓏏𓏏𓀜	33560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓐍𓏏𓏛𓏥𓏏𓏲	30750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jḫ.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdxWqyi7ZNEzEirbxOVlkavo
+# corpus = sawlit
+# src_text_id = CRNQNNDNPNBYNNLJCWIBBH3PNY
+# src_text = sawlit:pHarris 500 ⸗ pBM EA 10060//Recto 6-7: Anteflied (Harfnerlieder Text A)
+# owner = Lutz Popko
+# text_de = Siehe, es gibt keinen, der gegangen ist und der wiederkam.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,2] - [7,3]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+4	𓈝𓅓𓏭𓂻𓀀	154340	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šmi̯
+5	𓂻𓏲𓏏𓂻𓀀	21930	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+6	𓂝𓈖𓏌𓏲𓀃	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+

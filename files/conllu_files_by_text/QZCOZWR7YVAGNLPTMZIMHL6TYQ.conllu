@@ -1,0 +1,344 @@
+# sent_id = IBUBd6zi1EvQsE1DphEarPjN9uE
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Der Prinz (und) Fürst.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1]
+1	𓂋𓊪𓂝𓏏	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+2	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+
+# sent_id = IBUBdyFEBW0qFkfkp5beWZjbRDY
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Der Gott war in seinen Horizont eingegangen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6]
+1	𓂝𓂋𓈐	21770	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥr
+2	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓈌𓏏𓉐	227	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣḫ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQuDyifW30YytryQ9wZrLHU
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Der König von Ober- und Unterägypten Sehotep-ib-re, er war zum Himmel aufgestiegen (und) hatte sich mit der Sonne vereinigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6] - [7]
+1	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+2	𓇳𓋴𓊵𓏏𓊪𓄣𓏤	400449	PROPN	entity-name	_	_	_	_	Translit=Sḥtp-jb-Rꜥw
+3	𓋴𓁷𓂋𓇯	140980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+7	𓎸𓅓𓏛	123420	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ẖnm
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓇋𓏏𓈖𓇳	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+
+# sent_id = IBUBdQJcxPee7ESXjsJyXJzu4Wg
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Der Gottesleib war verschmolzen mit dem, der ihn geschaffen hatte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7] - [8]
+1	𓎛𓂝𓄹	854529	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥꜥ.w
+2	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+3	𓍋𓃀𓐍𓏴𓏛	89	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣbḫ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd7ggV7XwsEzFniYIGzVHnlk
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = (Da) war die Residenz in Schweigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄚𓈖𓏌𓏲𓊖	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓎼𓂋𓀁	147270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sgr
+
+# sent_id = IBUBd4BQ7T4mE0wAj8ChWdRQNSg
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Die Herzen waren in Gram(beugung).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [9]
+1	𓄣𓏥	23290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jb
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓅠𓅓𓏲𓅪𓏥	167180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gm.w
+
+# sent_id = IBUBd7bzbPoefU5qjnWwDaeL9QM
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Sein ältester Sohn war dessen Oberbefehlshaber, der vollkommene Gott Sesostris.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12] - [13]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗𓀀	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓁷𓂋𓏭𓇯	108310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.j
+6	𓇋𓂋𓏭	851428	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jr.j
+7	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
+8	𓄊𓋴𓂋𓏏𓊃𓈖	400051	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+
+# sent_id = IBUBd7qZG18FT0AysmMXvs06RDo
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Er kam (nun) wieder (war auf dem Rückweg) (und) brachte Gefangene von den Tehenu-Libyern (und) jegliches Vieh ohne (sein) Ende.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [15] - [16]
+1	𓍘	169720	PART	particle	_	_	_	_	Translit=tj
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓈞𓅓𓂝	104600	PART	particle	_	_	_	_	Translit=ḥm
+4	𓇍𓇋𓇋𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jwi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓏎𓈖𓈖	26870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓋴𓈎𓂋𓌪𓂝𓋹𓈖𓐍𓌙𓀀𓁐𓏥	146240	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sqr-ꜥnḫ
+9	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓋣𓈖𓏌𓏲𓌙𓀀𓁐𓏥	176700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯḥnw.yw
+11	𓏠𓈖𓏠𓈖𓏏𓃒𓏥	70730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnmn.t
+12	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+13	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+14	𓇥𓂋𓏲𓈐𓏥	184990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.w
+15	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdyaPIjxp7kEVki7Wg4cznYA
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Die Höflinge (Vertrauten) der Privatgemächer (des Königs), sie hatten zur westlichen Seite geschickt, um den Königssohn wissen zu lassen (von) der Situation, die entstanden war in der Audienzhalle.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [17] - [19]
+1	𓋴𓍋𓅓𓂋𓏲𓀙𓀀𓏥	856044	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=smr
+2	𓏌𓏤	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓍉𓊃𓉐	148220	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=stp-zꜣ
+4	𓉔𓄿𓃀𓂻	97580	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+8	𓋀𓏏𓏭𓈉	26150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jmn.tj
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+11	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+12	𓇓𓏏𓈖𓅭𓀀	855950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-nswt
+13	𓋴𓌫𓅓𓏛𓏥	144990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sšm
+14	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓂝𓄚𓈖𓏌𓍘𓏏𓏭𓉐	850364	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥ-ẖn.wtj
+
+# sent_id = IBUBd1TfdQeFjUnss3kVEGr9JP8
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = (Als) sie ihn zur Abendzeit erreicht hatten, fanden ihn die Boten auf dem Wege (Marsch).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [19] - [20]
+1	𓅠𓅓𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓄋𓊪𓏲𓅂𓂻𓀀𓏥	45760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wpw.tj
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓍯𓄿𓏏𓈐	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+6	𓄖𓂻𓈖	61370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓏏𓂋𓆵𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓆼𓄿𓏲𓏭𓇰	113750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣwj
+
+# sent_id = IBUBd0c9zMQnvkgnlJhaf2ZbCVk
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = (Als) man rief nach einem von ihnen, da stand ich gerade dabei!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [24]
+1	𓈖𓇋𓀁𓈖	80210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=njs
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓌡𓂝𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+6	𓇋𓋴𓏏	851440	PART	particle	_	_	_	_	Translit=jsṯ
+7	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+8	𓊢𓂝𓂻𓎢𓏲𓀀	851887	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+
+# sent_id = IBUBd28PB6n6MUNBuVMINBfMA6k
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = (Obwohl) ich nicht in unmittelbarer Nähe ("in der Nähe von Ferne") war, hörte ich seine Stimme, (während) er sprach.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [25]
+1	𓄔𓅓𓈖	150560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓌃𓂧𓏲𓀁	78140	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mdwi̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓅓𓂝𓂋𓏲𓈐𓏥	_	X	unknown	_	_	_	_	_
+12	𓍯𓄿𓈐	42640	ADV	adverb	_	_	_	_	Translit=wꜣ.w
+
+# sent_id = IBUBd4AflspHl0jZkd9AgKWpQ7Y
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Ich war entsetzt (mein Herz/Verstand verwirrte sich) (und) meine Arme gehorchten mir nicht mehr (waren ausgebreitet).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [26]
+1	𓊪𓊃𓐍𓂻	62240	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pzḫ
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓊃𓈙𓂻	144320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
+5	𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd6AYzww0rkwPgXejp75H4Ss
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Zittern war in jedes meiner Glieder gefallen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [26] - [27]
+1	𓋴𓂧𓄿𓅯𓅪	149670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sdꜣ.w
+2	𓐍𓂋𓀒	119610	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdQ2WVCQf2Uuxka3Rf2sKfvo
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Um mir ein Versteck zu suchen, verzog ich mich in Sprüngen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [27] - [28]
+1	𓈖𓆑𓂝𓂻𓈖	83400	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nfꜥ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈖𓆑𓏏𓆑𓏏𓂻	83960	VERB	verb	VerbForm=Fin	_	_	_	Translit=nftft
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓎛𓎛𓏭𓂻	101930	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥjḥj
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+10	𓊨𓏏𓏥	125140	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t
+11	𓂧𓎼𓀉	181130	VERB	verb	_	_	_	_	Translit=dgi̯
+
+# sent_id = IBUBd7DNZ749PkjukTQ7XEOWjXY
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = (Denn) ich meinte nicht, nach diesem (noch) zu leben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [31]
+1	𓂜𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓋹𓈖𓐍	38530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥnḫ
+5	𓂋𓐟𓏤	851453	ADP	preposition	_	_	_	_	Translit=r-sꜣ
+6	𓇑𓇑	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+
+# sent_id = IBUBd2wWPniMiE6jpQG5zw00624
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = Am (äußersten) Rande der Feldflur verbrachte ich dort den Tag.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [33] - [34]
+1	𓅨𓂋𓈙𓇳𓈖	48130	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wršu̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐖𓈇	41960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓇏𓏏𓈇	141480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t
+
+# sent_id = IBUBd1fmYrFJd0srmPJlbS7rFr0
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = "Ein Hornniederbeuger ist er, der die Hände lähmt, seine Feinde können das Gefecht nicht aufnehmen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78] - [79]
+1	𓏲𓂝𓆑𓍢𓂝𓂝𓃀𓄏	44640	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wꜥf
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓋴𓎼𓈖𓈖𓀉	147220	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sgnn
+4	𓂧𓏏𓏥	184630	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏr.t
+5	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+6	𓋭𓊃𓍢𓂝𓈖	176800	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+7	𓊤𓏲𓇋𓇋𓏲𓀜𓏱𓏥	120070	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫrw.y
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓍚𓏲𓀜𓏥	146580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sk.w
+
+# sent_id = IBUBdzNasetHqEZooJyzGmVMAU0
+# corpus = sawlit
+# src_text_id = QZCOZWR7YVAGNLPTMZIMHL6TYQ
+# src_text = sawlit:pBerlin P 10499 aus Theben-West (R)//〈Verso: 〉Sinuhe
+# owner = Frank Feder
+# text_de = "Ein Weitausschreitender ist er, (wenn) er den Flüchtling vernichtet, es gibt kein Entkommen ('Ende') für Den-der-ihm-den-Rücken-zuwendet!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [81]
+1	𓊪𓂧𓌒𓂻𓂻𓏏𓏥	63170	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pḏ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓋴𓄝𓂝	854552	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ski̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓃀𓉔𓄿𓏲𓂻𓀀	56720	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bhꜣ.w
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓄖𓏲𓏭	61490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.wj
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓂞𓂞𓈖𓆑𓐟𓏤𓀀	850783	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏḏ-n⸗f-sꜣ
+

@@ -1,0 +1,880 @@
+# sent_id = IBUBdx7ZcRaLl0LTpTG8RfgJGgM
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist der Herr der Weisheit(?)/des Umherstreifens (wie ein Schakal)(?)/Schakalhaftigkeit(?), dessen Namen (sogar) seine Mutter nicht kennt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 28 = 319]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓊃𓄿𓃀𓅱𓏏	852031	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zꜣb.wt
+5	𓐍𓅓𓂜𓈖	116910	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḫm
+6	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2HjDaDQOUPOlk3BLMwleDc
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Er hat Teti geschaffen;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓈖	74950	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBdxqhW2WVYkbZmGrIipIfiGk
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = (aber) Teti ist mächtiger als er.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
+1	𓅱𓄊𓋴𓂋	500010	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wsr
+2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQ0BoAYjkElem9RUNLgQPXI
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Tetis Kas sind hinter ihm.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂔𓂔𓂔	162870	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=kꜣ
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓇉𓄿	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6lCHEylM0IxpuPT5musVsI
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Tetis Hemsut sind unter seinen Füßen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎛𓈞𓅱𓋴𓏏𓄝𓄝𓄝	852032	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḥms.t
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓌨	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓂋𓂧𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQ5lKuLQUEBuoBfq284TC0g
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Tetis Götter sind über ihm.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nṯr
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓁶𓊪	850801	ADP	preposition	_	_	_	_	Translit=tp
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5vMJVJE1kPrs1l7ZJO0BKY
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Tetis Uräen sind an seinem Scheitel.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓂝𓂋𓅱𓏏𓆘𓆘𓆘	21780	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jꜥr.t
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄋𓏏𓏤	45530	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wp.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8WQjLBqL00XkRXyySRj6Us
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Tetis Mächte sind dabei ihn zu schützen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 30 = 321]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄊𓄊𓄊𓏏	49760	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=wsr.wt
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓅓𓎡𓏏	77020	VERB	verb	VerbForm=Fin	_	_	_	Translit=mki̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1nSst6PL0IBjPgjOHVGjFQ
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist der Stier des Himmels, grimmig in seinem Charakter, der von der Gestalt eines jeden Gottes lebt, der ihre Eingeweide(?) ißt, (derer) die gekommen sind, nachdem ihr Bauch mit Zauberkräften gefüllt wurde auf der Flammeninsel.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 30 = 321]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓂓𓂸𓃒	162930	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=kꜣ
+4	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓈖𓉔𓂧	85810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nhd
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄣	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋹𓈖𓐍	38530	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓆣𓂋	116300	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫpr.w
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+14	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+15	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
+16	𓅱𓊃𓅓𓅱𓄹	49560	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wzm.w
+17	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+18	𓂻𓅱𓅱	21930	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jwi̯
+19	𓅓𓎔𓏝	854514	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+20	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+21	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+22	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓎛𓂓𓏝𓅱𓈓	110660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥkꜣ.w
+24	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+25	𓈀𓏤𓈖𓋴𓇋𓋴𓇋𓊮𓊖	22100	PROPN	entity-name	_	_	_	_	Translit=Jw-nsrsr
+
+# sent_id = IBUBdQU9WNFNDEYgg8CBjR1FD0k
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist einer, der ausgestattet ist, der seine Ach-Kräfte vereint.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 30 = 321]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓐢𓂝𓂋	37090	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥpr
+4	𓇋𓂝𓃀𓎺	21680	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jꜥb
+5	𓅜𓅜𓅜	253	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜣḫ.w
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzCP1rml20cej6BMtK5DXiU
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Mit seinem Rücken zu Geb sitzt Teti da.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 322]
+1	𓈞𓋴	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+3	𓐟𓏤	125670	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅬𓃀	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+
+# sent_id = IBUBd09itMyuh0rph3MsyoF2QZw
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist Herr der Opfergaben, der das Tau knotet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 322]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓊵𓏏𓊪𓏏𓏝	111360	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtp.t
+5	𓍿𓊃𓋭	176800	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ṯꜣz
+6	𓂝𓈎𓄿𓍢	41360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥqꜣ
+
+# sent_id = IBUBdw1ZEsBL7UiBow03HPc6kNM
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist einer, der sein Opfermahl selbst bereitet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 322]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓄫𓅱𓏏𓏐𓏊𓏖𓏝	39	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣw.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓆓𓋴	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3aH8pbBY0nkreogCQfjlhk
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist einer, der Menschen ißt und von Göttern lebt. ein Herr von Boten, der Aufträge erteilt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 322]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
+4	𓂋𓅓𓍿𓈓	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+5	𓋹𓈖𓐍	38530	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd8RkPzUxwUB0twn5bSRaJG4
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist ein Herr von Boten, der Aufträge erteilt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 32 = 323]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓏎𓏌𓅱𓈓	27050	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jn.w
+5	𓐍𓆩𓄿𓂝	113560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜣꜥ
+6	𓄋𓊪𓏏𓏝𓏝𓏝	45750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wpw.t
+
+# sent_id = IBUBdwWm4gpkjkQWhqNPA75Nm3I
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Der Scheitelpacker, der im Kessel(?) ist, ist es, der sie für Teti mit dem Lasso fängt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 32 = 323]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓐍𓅓𓂝𓂬𓄋𓏏𓏤𓄋𓏏𓏤𓄋𓏏𓏤𓇋𓏶𓎡𓎛𓄿𓅱𓅆	860207	PROPN	entity-name	_	_	_	_	Translit=Jḫmꜥ-wp.wt-jm.j-kḥꜣ.w
+3	𓋴𓊪𓎛𓍢	132950	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=spḥ
+4	𓋴𓈖	136190	PRON	pronoun	PronType=Prs	_	_	_	Translit=sn
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBd8VEoABfnEvqvmMiVYTipA8
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = 'Der-auf-dem-Roten(?)' ist es, der sie für Teti fesselt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 32 = 323]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓁷𓂋𓍿𓂋𓏟𓏏𓅱𓅆	852033	PROPN	entity-name	_	_	_	_	Translit=Ḥr.j-ṯr.wt
+3	𓈎𓄿𓋴𓍢	159470	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qꜣs
+4	𓋴𓈖	136190	PRON	pronoun	PronType=Prs	_	_	_	Translit=sn
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBd7kkTWwKhUhDuWpnYQu9pcQ
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Der 'Wanderer', der die Herren niedermetzelt, ist es, der sie für Teti absticht und er holt das, was in ihrem Leib ist, für ihn heraus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 32 = 323] - [T/A/E 33 = 324]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓐍𓈖𓊃𓅱𓅆	118700	PROPN	entity-name	_	_	_	_	Translit=Ḫnz.w
+3	𓅓𓂧𓋴	78280	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mds
+4	𓎟𓅱𓅆𓅆𓅆	81650	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nb
+5	𓍑𓄿𓂧𓄃	182290	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏꜣd
+6	𓋴𓈖	136190	PRON	pronoun	PronType=Prs	_	_	_	Translit=sn
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+9	𓄞𓂧	854561	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓇋𓏶𓏏	25130	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jm.j
+14	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+15	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdQpNHV6Axk4dk4BivmGOkzg
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = - Das ist der Bote, den Teti um Vergeltung zu üben ausgesandt hat. -
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
+1	𓄋𓊪𓏏𓅆	45760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wpw.tj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓉔𓄿𓃀𓅱𓂻	97580	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=hꜣb
+4	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓐍𓋴𓍙𓆑	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+
+# sent_id = IBUBdy7mR6GQZ0hUi3Bh9Lo8WBE
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Schesemu ist es, der sie für Teti schlachtet und ihm aus ihnen eine Mahlzeit auf seinen Feuerstellen kocht, (und zwar) das Abendbrot.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓈙𓊃𓅓𓅱𓅆	157510	PROPN	entity-name	_	_	_	_	Translit=Šzm.w
+3	𓂋𓐍𓋴	95870	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫs
+4	𓋴𓈖	136190	PRON	pronoun	PronType=Prs	_	_	_	Translit=sn
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+7	𓆑𓋴𓋴𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=psi̯
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇋𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓎡𓏏𓅱𓏏𓈓	165760	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ktw.t
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓅓𓈙𓂋𓃭𓏏𓅱𓇶	76500	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mšr.wt
+
+# sent_id = IBUBdw6UN8njp0QPiKqeRQsFysg
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd8JEfQb9Xk2buL8ffL2R6L8
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist es, der ihre Zauberkraft ißt. ihre Ach-Kraft verschlingt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+3	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
+4	𓎛𓂓𓏝𓈓	110660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥkꜣ.w
+5	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdzPuDpBBVktWhQ8fnSdI0Ak
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist es, der ihre Ach-Kraft verschlingt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+3	𓇋𓂝𓅓	37500	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥm
+4	𓅜𓅜𓅜	253	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣḫ.w
+5	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd4X8xQIEG0ljpkZNbeCrbTk
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Großen unter ihnen sind für das Morgenmahl des Teti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 33 = 324] - [T/A/E 34 = 325]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅨𓂋	47280	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wr
+3	𓋴𓈖𓈓	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓇋𓐍𓏏𓂧𓍯𓇼𓏏𓇳𓈃	99014	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jḫ.t-dwꜣ.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBd773c2hMI08Zt3MUEMs5RR4
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Mittleren unter ihnen sind für sein Abendessen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 34 = 325]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁷𓄣𓅱	401116	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥr.j-jb
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓅓𓈙𓂋𓃭𓅱𓏏𓇶	76500	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mšr.wt
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWVQTO9OOEeju3wbpKi65IA
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Kleinen unter ihnen sind für das Nachtmahl des Teti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 34 = 325]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈙𓂋𓂋𓅆𓅆𓅆	156650	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šrj
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓇋𓐍𓏏𓐍𓉹𓅱𓇱	99003	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jḫ.t-ḫꜣwj
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBd44TxbcZoEuQjWMze1UWm8o
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Greise und Greisinnen unter ihnen sind für seine Feuerung.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 34 = 325]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓄿𓈓	20380	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣw
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓄿𓅱𓏏𓈓	20400	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣw.t
+5	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓎡𓄿𓊪𓏏𓊶𓊶𓊶	163390	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=kꜣp.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7GoNeBlyENLju4vsuDOOKQ
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Großen im Norden des Himmels sind es, die für ihn Feuer an die Kessel legen, in denen sie sind, mit den Schenkeln der Ältesten unter ihnen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 34 = 325] - [T/A/E 35 = 326]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓉻𓂝𓈒𓄿𓅂𓅆𓅆𓅆	34760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ
+3	𓎔𓅂	73560	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=mḥ.tj
+4	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓅱𓂧𓅱	854503	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wdi̯
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓋴𓆓𓏏𓊮	150140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḏ.t
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓅱𓎛𓄿𓏏𓅱𓎵𓈓	48690	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḥꜣ.t
+11	𓌨𓂋𓏏	850794	ADP	preposition	Number=Plur|Status=Pron|Gender=Fem	_	_	_	Translit=ẖr
+12	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓐍𓊪𓈙𓄗𓄗𓄗	116430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫpš
+15	𓈖𓅱	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+16	𓋴𓅓𓋴𓈓	856128	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sms.w
+17	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd8ua6L6DeE2Hq74sGKYQGlc
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die im Himmel gehen für Teti umher/dienen Teti, wenn die Feuerstellen für ihn aus/mit den Beinen ihrer Frauen zugerichtet(?)/aufgestellt(?)/angefacht(?) werden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 35 = 326]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊪𓄴𓂋	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+3	𓇋𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+4	𓊪𓏏𓇯𓅆𓈓	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+7	𓈙𓋴𓂋𓌕𓏏	157600	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šsr
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓎡𓏏𓅱𓏏𓈓	165760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ktw.t
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓂋𓂧𓂾𓂾𓂾𓅱	96600	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rd
+13	𓈖𓅱	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+14	𓈞𓏏𓈓	104730	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥm.t
+15	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdwVSjwAd0EdwhVI8pI5MieY
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti hat die beiden Himmel insgesamt umrundet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 35 = 326]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂧𓃀𓈖𓄴𓈖	854585	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbn
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓊪𓏏𓇯𓇯	58710	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=p.t
+5	𓏏𓍃𓅓𓍘𓇋	854578	VERB	verb	Number=Dual|Gender=Fem|VerbForm=Conv	_	_	_	Translit=tm
+
+# sent_id = IBUBd8RcQoQbGUdjh7WXROGHeQ4
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist die Große Macht, die Macht hat über die Mächte/die Mächtigen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 35 = 326] - [T/A/E 36 = 327]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓋴𓌂𓐍𓅓𓅨𓅆	500490	_	epitheton-title	_	_	_	_	Translit=sḫm-wr
+4	𓋴𓌂𓐍𓅓	851679	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḫm
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓌂𓐍𓅓𓅱𓅆𓅆𓅆	142140	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫm
+
+# sent_id = IBUBdQfKiuF24kPKgWafhQZPwKA
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist die schauder-erweckende Gestalt, der schauder-erweckendste der Schauder-erweckenden, der Große.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 36 = 327]
+1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓂝𓈙𓅓𓅆	40780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥẖm
+4	𓂝𓈙𓅓	40790	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥẖm
+5	𓂝𓈙𓅓𓅱𓅆𓅆𓅆	40790	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥẖm
+6	𓅨𓂋𓅆	851429	_	epitheton-title	_	_	_	_	Translit=wr
+
+# sent_id = IBUBd8QIvTAhlk5kuNWGNpzUtHI
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Tetis Platz (oder: der Respekt vor Teti?) ist an der Spitze aller Ehrwürdigen (oder: Würden?), die im Horizont sind.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 36 = 327]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅓𓎡𓏏	76890	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mk.t
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓅓𓄂𓏏	500049	ADP	preposition	_	_	_	_	Translit=m-ḥꜣ.t
+5	𓋴𓎛𓂝𓋩𓅱𓈓	129120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ
+6	𓎟𓅱	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+7	𓇋𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+8	𓅜𓏏𓐍𓈀	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+
+# sent_id = IBUBd9oGXliuuE0jqSWJz6eesAA
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Tausende gehen für Teti umher/dienen Teti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 36 = 327]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊪𓄲𓂋	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+3	𓆼𓆼𓆼	113110	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBdwEh2QksSk1jpLLMl65Nbuc
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Es wurde ihm Legitimation als Große Macht von Orion, dem Vater der Götter, verliehen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 36 = 327] - [T/A/E 37 = 328]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂋𓏙	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋴𓌂𓐍𓅓𓅨𓂋𓅆	500490	_	epitheton-title	_	_	_	_	Translit=sḫm-wr
+8	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+9	𓋴𓐟𓃃𓎛𓇼	127020	PROPN	entity-name	_	_	_	_	Translit=Sꜣḥ
+10	𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jtj
+11	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd12FWlfYQki5vXTQJdfJN2U
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist wieder am Himmel erschienen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 37 = 328]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄙𓅓𓈖	48440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓈍𓂝𓅱	114840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜥ.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBdyosFQI21kdQtF82SHAN6Uo
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist gekrönt als Herr des Horizontes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 37 = 328]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+3	𓋴𓃀𓈖𓋒	131780	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sbn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+6	𓅜𓐍𓏏𓈀𓅆	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+
+# sent_id = IBUBdQIKKn3OkEGrgAcwfxKfyJw
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti hat die Herzen der Götter weggenommen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 37 = 328]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓎁𓈖	33560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓄂𓏏𓄣𓄣𓄣	100400	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḥꜣ.tj
+5	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd4Vy9LuLr0iEngfW9NWmDa4
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ist zufrieden damit, von Herzen und ihren Zauberkräften zu leben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
+1	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋹𓈖𓐍	38530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥnḫ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄂𓏏𓄣𓄣𓄣	100400	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+7	𓎛𓂓𓏝𓅱𓈓	110660	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥkꜣ.w
+8	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓇋𓋴𓍿	851440	PART	particle	_	_	_	_	Translit=jsṯ
+
+# sent_id = IBUBd3f7TxESMk0FjOuek1bXZOo
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti ekelt sich/speit aus (?), wenn er von den erbrechenerregenden(?) Dingen im Roten leckt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
+1	𓆑𓇋𓅱	63730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=fjw
+2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+3	𓈖𓄓𓋴𓃀	88100	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nsbi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓃀𓈙𓅱𓈓	132090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbš.w
+7	𓇋𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+8	𓂧𓈙𓂋𓏏𓋕	857575	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dšr.t
+
+# sent_id = IBUBd33kR23zykNiuZQki5BLibo
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Es geht Teti gut/Teti ist gesättigt/Teti erholt sich:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+3	𓍯𓐍𓇇	43260	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḫi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyyWwZrZz0ZYk7wRf9926ac
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Ihre Zauberkraft ist im Bauch des Teti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎛𓂓𓏝	110660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥkꜣ.w
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBdzJ6D35sJ0KQuVUOzccIwRY
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Würden des Teti werden ihm nicht fortgenommen werden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
+1	𓈖𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓈞𓅓𓅓	86430	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓋴𓎛𓂝𓋩𓋩𓋩𓅱	129070	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ
+4	𓈖𓅱	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+5	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+6	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6G4zhy10E1lk3RvC7QIQKw
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Teti hat die Erkenntnis eines jeden Gottes verschlungen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂝𓅓𓈖	37500	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+4	𓋴𓇋𓋷𓄿𓅆	127850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjꜣ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd7dkbgkH8UQVrW9W0AzzBeo
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Die Lebenszeit des Teti ist die Ewigkeit, die Grenze des Teti ist die Unendlichkeit in dieser seiner Würde eines 'Will-er-so-tut-er, will-er-nicht-so-tut-er-nicht', der auf immer und ewig im Bereich des Horizontes ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 31 = 329] - [T/A/E 32 = 330]
+1	𓂝𓊢𓅱𓇳	40480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.w
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+5	𓈖𓅘𓎛𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+6	𓇦𓂋	184990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏr.w
+7	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+10	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓋴𓎛𓂝𓋩	129070	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥḥ
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓌸𓂋𓂋𓆑𓁹𓂋𓆑	857367	PROPN	entity-name	_	_	_	_	Translit=Mrr⸗f-jrr⸗f
+17	𓄟𓆓𓆓𓆑𓂜𓁹𓈖𓆑	860206	PROPN	entity-name	_	_	_	_	Translit=Msḏḏ⸗f-n-jri̯.n⸗f
+18	𓇋𓏶	25130	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jm.j
+19	𓇦𓂋𓃭𓅱	184990	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏr.w
+20	𓅜𓐍𓏏𓈀	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+21	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+22	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+23	𓈖𓅘𓎛𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+
+# sent_id = IBUBdxaSxsIDVk6RnByfVXXOvsA
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Ihr Ba ist ja in Tetis Bauch, ihre Wirkungsmächtigkeit ist bei Teti als sein Mehr an Speise über die (der) Götter hinaus, erhitzt für Teti mit ihren Knochen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 32 = 330]
+1	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
+2	𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ẖ.t
+6	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+7	𓅜𓅜𓅜	253	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜣḫ.w
+8	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+10	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓇉𓅱	101060	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.w
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓇋𓐍𓏏𓏐𓏊𓏖	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+17	𓈎𓂋𓂋𓏏𓊮	161810	VERB	verb	_	_	_	_	Translit=qrr
+18	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+19	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+20	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+21	𓌟𓌟𓌟	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+22	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdx9NYwQqeUB4lILZxqZNfsY
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Ihr Ba ist ja bei Teti, ihre Schatten sind von ihren Besitzern (entfernt) (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 32 = 330]
+1	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
+2	𓅡𓅆	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+5	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+6	𓋼𓋼𓋼𓅱𓏏	152880	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šw.t
+7	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓇋𓂋𓅱𓅆𓅆𓅆	851428	ADJ	adjective	Number=Plur|Status=Pron|Gender=Masc	_	_	_	Translit=jr.j
+10	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd41npbzgRkeBuT266dA9huQ
+# corpus = bbawpyramidentexte
+# src_text_id = OY5XUHC3ZNAI3GGV3HNTTUYOAY
+# src_text = bbawpyramidentexte:〈Ostwand〉//PT 273 + PT 274
+# owner = Doris Topmann
+# text_de = Diejenigen, die (schlimme) Taten tun, werden nie und nimmer die Macht haben, den Lieblingsplatz des Teti unter den Lebenden in diesem Land zu zerstören.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [T/A/E 33 = 331]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓌂𓐍𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓁹𓅱𓅆𓈓	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓇋𓁹𓅱𓏏𓏝𓏝𓏝	28590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.yt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓐍𓃀𓋴𓌸	115810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫbs
+7	𓊨𓏏𓄣	125150	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-jb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋹𓋹𓋹𓅱	400614	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥnḫ
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+14	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+15	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+16	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+17	𓈖𓅘𓎛𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+

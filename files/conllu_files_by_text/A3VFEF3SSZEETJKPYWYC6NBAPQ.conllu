@@ -1,0 +1,263 @@
+# sent_id = IBUBdxj8ZVYvoEKLh3DVL75IXEE
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Siehe, hiermit setze ich dich auf den Weg Gottes (d.h. des Königs).
+# findspot = unknown
+# date = NK
+# lineRef = [rto, 1]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wꜣ.t
+8	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd44JGeHqWUcgphLwJSJWw4E
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Das Verehren des (Überschwemmungsgottes) Hapi.
+# findspot = unknown
+# date = NK
+# lineRef = [rto, 3]
+1	𓇼𓄿𓀢	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓎛𓂝𓊪𓈙𓈗𓅆	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+
+# sent_id = IBUBd0puW4pEW0yGtaNCS9WrgEY
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Der Weber (oder: Mattenflechter?) in der Weberei: es geht ihm schlechter als einer (verheirateten, hochschwangeren) Frau.
+# findspot = unknown
+# date = NK
+# lineRef = [rto, 9]
+1	𓐖𓈖𓇋𓇋𓎅𓀜𓀀	161280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qn.yw
+2	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+3	𓈖𓄿𓇋𓇋𓏏𓉐	79620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nꜣy.t
+4	𓃀𓇋𓈖𓅪	54605	ADJ	adjective	_	_	_	_	Translit=bjn
+5	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊃𓏏𓁐𓈞𓏏𓁐	125370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z.t-ḥm.t
+
+# sent_id = IBUBd3daoJ1ldUROiU7vKxYvjXk
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Seine Knie sind gegen seinen Magen (oder: Brustraum?) (gedrückt).
+# findspot = unknown
+# date = NK
+# lineRef = [rto, 9]
+1	𓌴𓄿𓂾𓂾	67370	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=mꜣs.t
+2	𓆑𓏭	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQWO9UVPlkc6gPE9tq7nYn4
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = (Und) er kann keine Luft atmen.
+# findspot = unknown
+# date = NK
+# lineRef = [rto, 9]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓏏𓊪𓇋𓂊𓀜𓈖𓈖	600420	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tpr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+
+# sent_id = IBUBd2tLG0uVi067rXNKkMoXCzM
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Er pflegt dem Türwächter ein (regelmäßiges Natural-)Entgeld zu geben, um ihm zu erlauben, ans Tageslicht hinauszugehen.
+# findspot = unknown
+# date = NK
+# lineRef = [rto, 10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅧𓈎𓏲𓈀𓏥	41470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥq.w
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓇋𓂋𓀸𓏛𓉻𓉿𓆱𓏥𓀀	28730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jr.j-ꜥꜣ
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂋𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+10	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓌌𓏲𓏏𓏯𓇶𓏫	112740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥḏw.t
+
+# sent_id = IBUBdQ5gbw3eOkFPsD9MYA7QCFw
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Viel ist (auch), was er den Sumpfbewohnern (?) gibt, die ihm den Weg zeigen.
+# findspot = unknown
+# date = NK
+# lineRef = [rto, 11] - [rto, 12]
+1	𓅨𓂋	47271	ADJ	adjective	_	_	_	_	Translit=wr
+2	𓂜𓂜𓇋𓇋𓏏	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓏶𓅓𓏲𓏏𓆷𓈇𓏤𓀀𓏥	853373	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jm.j-šꜣ
+6	𓂞𓂞𓇋𓇋	851711	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+
+# sent_id = IBUBd9zVNmzWGkwCv24FwWl2nVI
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Sein Haus (auf der Reise?) ist (ja) aus Stoff oder aus Lehmziegeln:
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂧𓄿𓇋𓏲𓈀𓏤𓍱	177680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dꜣj.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓅙𓃀𓏏𓊌	183120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏb.t
+
+# sent_id = IBUBd3Rnna9YtE6zlRAl8PWd8Nw
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = (da) wird er nicht frohen Herzens (zurück)kommen.
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇍𓇋𓇋𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋴𓇛𓅓𓏛	851678	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snḏm
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBd0OJZqQNJ0IPsQmt4E4IRHs
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Der Köhler (?): seine Finger sind verwest;
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 3]
+1	𓋴𓏏𓈖𓏌𓏲𓇋𓇋𓐎𓀜𓀀	148350	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=stnw.y
+2	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+3	𓆑𓏭	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎛𓍯𓄿𓏲𓐎𓏛	102640	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥwꜣ
+
+# sent_id = IBUBd2CqbKFykUPzherWnqwMlx4
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = ihr Geruch (wörtl.: der Geruch davon) ist (der von) Leichnamen.
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 3]
+1	𓋴𓏏𓏭𓐎	148990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯj
+2	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆞𓄿𓏲𓏏𓐎𓏫	122220	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣ.t
+
+# sent_id = IBUBdywojiPEJUQHrOy7L4QTqvU
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Seine Augen sind entzündet vom vielen Rauch.
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 3]
+1	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+2	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+3	𓏲𓎛𓆑𓏲𓊮	853374	VERB	verb	Number=Dual|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wḥf
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓏲𓅨𓂋	47290	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wr
+6	𓎛𓏏𓏭𓊮	111130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtj
+
+# sent_id = IBUBd3Cv8sBeTkRkiZ4x9SOjIrY
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Daß er unversehrt ist, ist in einem Unversehrt-Sein von (Tier)kadavern/Leichen (d.h. er fühlt sich so wohl, wie man sich in der Gesellschaft von Kadavern/Leichnamen überhaupt fühlen kann; m.a.W.: er fühlt sich hundsmiserabel).
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 4]
+1	𓅱𓍑𓄿𓏛	52090	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅱𓍑𓄿𓏲𓏛	52090	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓆞𓄿𓏲𓏏𓐎𓏱𓏥	122220	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣ.t
+
+# sent_id = IBUBdzESgLaexkbnkja5VtRdLJg
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = (Nur) sein Leder bekommt er zwischen die Zähne (wörtl.: In seine (Leder)häute/Tierfelle beißt er).
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 4]
+1	𓊪𓊃𓎛𓄑𓀀	62220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pzḥ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓅓𓄟𓋴𓂓𓄿𓏲𓄛𓏬	75890	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mskꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7H13N23Y0QWvqPH1Maa46s
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Der Wäscher {ist auf dem Wäscher} 〈wäscht〉 am Uferdamm, indem/so daß er dem Krokodilsgott Chenti nahe kommt.
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 5]
+1	𓅹𓏏𓏭𓅂𓀜𓀀	95930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫt.j
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓅹𓏏𓏭𓅂𓀜	95890	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḫt
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌸𓂋𓇋𓇋𓏏𓈇𓏤	72540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.yt
+6	𓋴𓐠𓄿𓎛𓃅𓂻	126980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣḥ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓏃𓈖𓏏𓏭𓆊𓅆	119090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫnt.j
+
+# sent_id = IBUBd23XSucQw0QolWmWychte3w
+# corpus = sawlit
+# src_text_id = A3VFEF3SSZEETJKPYWYC6NBAPQ
+# src_text = sawlit:〈13. 〉tLouvre N 693//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Er kann nicht sagen: "Die Krokodile stehen (da)", nachdem/weil seine Angst (oder die Angst vor ihm: dem Krokodil) ihn blind gemacht hat.
+# findspot = unknown
+# date = NK
+# lineRef = [vso, 11]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓅓𓋴𓎛𓏲𓆊𓏬	75590	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mzḥ
+6	𓊢𓂝𓂻	851887	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+7	𓈙𓊪𓁻𓈖	153620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šp
+8	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+9	𓅾𓀁𓏫	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

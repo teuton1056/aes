@@ -1,0 +1,107 @@
+# sent_id = IBcAZVIc5allBkULqXyTS5tQoK4
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = Ein Libationsopfer darbringen für deinen Ka dur<ch> seinen Sohn, Neferhotep.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 15 - 16
+1	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓎿	160330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qbḥ.w
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓂓	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓄤𓊵𓏏𓊪	450077	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḥtp.w
+
+# sent_id = IBcAZYwmpgDkhEhYi1d1L79Djb0
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = It
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 17
+1	𓇋𓏏𓆑	710650	PROPN	entity-name	_	_	_	_	Translit=Jtj
+
+# sent_id = IBcAZczu8FxosUMZtzNDZWdelE0
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = Meh
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 18
+1	𓐝𓂝𓄑𓏛𓀀	600439	PROPN	entity-name	_	_	_	_	Translit=Mḥ
+
+# sent_id = IBcAZWNjQXed00eqi3a6xnUP2mI
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = Neferrenpet
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 19
+1	𓄤𓆳𓀀	600277	PROPN	entity-name	_	_	_	_	Translit=Nfr-rnp.t
+
+# sent_id = IBcAZVQ6tP1bVkepiDACgKLbW2k
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = Iahmes
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 21
+1	𓇺𓄟𓋴𓀀	550247	PROPN	entity-name	_	_	_	_	Translit=Jꜥḥ-ms.w
+
+# sent_id = IBcAZU55WwwJO0TrmKz7FKwivtE
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = Isnebet
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 22
+1	𓇋𓋴𓋞𓏏𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAZTLnW4EjkE6NpsGjQC5agbs
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = Sepedui
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 23
+1	𓇮𓅱𓇋𓇋	867626	PROPN	entity-name	_	_	_	_	Translit=Spd.wj
+
+# sent_id = IBcAZbua5WbasEaCizyB5G2oPNQ
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = […]em
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 24
+1	𓅡𓄙𓅓	850830	PROPN	entity-name	_	_	_	_	Translit=-
+
+# sent_id = IBcAZSvYFVKVZEEopU2DXh1wM4w
+# corpus = tuebingerstelen
+# src_text_id = DEXH45APVZCC7PUHNWIM5WXFNE
+# src_text = tuebingerstelen:Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)//Stele des Neferhotep (Äg. Slg. Tübingen Inv. Nr. 472)
+# owner = Susanne Beck
+# text_de = Weritati
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 25
+1	𓅨𓂋𓏭𓇾𓍘	711590	PROPN	entity-name	_	_	_	_	Translit=Wr.y-tꜣ-tj
+

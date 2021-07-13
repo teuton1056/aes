@@ -1,0 +1,669 @@
+# sent_id = IBYCk5CnpQGHkUqYpv1e4f8sBIo
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Beseitigen des Ergrauens und zum Behandeln des Haares.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,8]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓋴𓆎𓅓𓁸𓏥	146790	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=skm
+6	𓋴𓂋𓏲𓐍𓐎	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+7	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+
+# sent_id = IBYCk69l7UhvDUbzhqKFEjW2WVE
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Blut eines schwarzen Kalbs.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,8] - [65,9]
+1	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓄑𓊃𓃒	56890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bḥz
+4	𓆎𓅓𓁸𓏛	401218	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=km
+
+# sent_id = IBYCk5eWS99lMUscjtQyjA4SQJ4
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,9]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYCkQe6J5HIgkWOvQqS3wTU9ig
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,9]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYCkWjVKp3zJ0aZq36ZxCwyQfw
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCk5Wj7SPu6UKMkWlxy13BW80
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Panzer der Schildkröte, Wirbelsäule (?) vom Raben / von der Krähe (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,9] - [65,10]
+1	𓊪𓈎𓇋𓇋𓏏𓊌	59350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓈙𓏏𓅂𓄛	158430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šṯ.w
+4	𓃀𓈎𓇓𓏲𓄹𓏥	57780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bqs.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓎼𓄿𓃀𓎼𓏲𓅬	166410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gꜣbg.w
+
+# sent_id = IBYCk8ZS0bImiU7pjvZn7qtLo9A
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,10]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYCk0A2QiOZ3keatrjjvT2d318
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Vorbeugen des Ergrauens:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,10] - [65,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+4	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓆣𓂋	854383	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr
+6	𓋴𓆎𓅓𓁸𓏥	146790	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=skm
+
+# sent_id = IBYCk9VgmBXLXkr5kVxXwXdvWKQ
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Plazenta der Katze, Eier vom Raben / von der Krähe (?), Öl/Fett, $jbr$-Öl.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,11] - [65,12]
+1	𓅐𓏏𓈒𓏥𓂋𓍿𓀀𓁐𓏥𓄹	69180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t-rmṯ
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏇𓇋𓇋𓏏𓄛	854443	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjw.t
+4	𓋴𓏲𓎛𓏏𓆇	130630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swḥ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓎼𓄿𓃀𓎼𓏲𓅬	166410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gꜣbg.w
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+8	𓇋𓃀𓏏𓇋𓈒𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+
+# sent_id = IBYCkyCPU7dSD0WjsJcVbMgsnzE
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde vollständig ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,12]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+
+# sent_id = IBYCk4Q8rjjXzUSDkDQxBWZnCDk
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde an den Kopf des Mannes gegeben, nachdem er rasiert wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,12]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓂋𓐟𓏤	851453	ADP	preposition	_	_	_	_	Translit=r-sꜣ
+7	𓍜𓂝	122800	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜥq
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYCk8jFuIfZxEUJgM5IHjpx6zY
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCkQ70x6QZwkkpuTHtRsoJZsw
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Blut vom Horn eines schwarzen Rindes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,12] - [65,13]
+1	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂧𓃀𓄐	178290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=db
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+6	𓆎𓅓𓁸𓏛	401218	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=km
+
+# sent_id = IBYCkQmDRlEYPE2WqQmQPiBAeFQ
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde vollständig mit Öl/Fett ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,13]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYCkzBvclnuMUoImnoCRlrO2sI
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,13]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYCkyK0PH2rWkbToqTKuvqcL40
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCk9k0daWUlkfMqamOeBk875U
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Gehirn vieler Fiederbartwelse (oder: Gehirn eines einfachen Fiederbartwelses).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,13] - [65,14]
+1	𓄿𓇋𓋴𓂐𓏥	13	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣjs
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓊠𓂝𓏲𓆟𓏥	48830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḥꜥ.w
+4	𓆈𓏥	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+
+# sent_id = IBYCkQuy9fVNwUsUgOnBonv5t8U
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde in einen Hin-Topf gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,14]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓉔𓈖𓏌𓏊𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+
+# sent_id = IBYCkWLW3viOCkcInLVSAfWwevg
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde an den Kopf des Mannes gegeben, der nicht ergrauen soll.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,14]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+7	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+8	𓋴𓆎𓅓𓁸𓏛	146770	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=skm
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYCkWKSBo4bF0XghGMLlqFjn3s
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCk9kKg7byxkoRoqlimS706AI
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Kaulquappen vom $šd.yt$-Kanal.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,15]
+1	𓎛𓆑𓂋𓈖𓏌𓏲𓆙𓏥	104430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥfn
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓄞𓂧𓇋𓇋𓏏𓈇𓏤	158820	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šd.yt
+
+# sent_id = IBYCkW6LlDp8MkRTviOjGV9f1jU
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde getrocknet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,15]
+1	𓋴𓈙𓂋𓇳	130790	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swšr
+
+# sent_id = IBYCkWRefBKb70n0lSkWH3M2I00
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde zerrieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,15]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYCkWgWuStVl0ewuTe9XecFLB8
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde mit $jbr$-Öl vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,15]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓄣𓂋𓇋𓈒𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+
+# sent_id = IBYCk4dQwbzH6ULQhWseFt5QW7Y
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben, nachdem er rasiert wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,15] - [65,16]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+3	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+4	𓍜𓀜	122800	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜥq
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYCk6DwQbtuU0HQpdwMHQeqUGk
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCk80svS5QQEh7pMaG9cT6gso
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Blut von der Wirbelsäule eines Raben / einer Krähe (?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,16]
+1	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓃀𓈎𓇓𓏲𓄹𓏥	57780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bqs.w
+4	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓎼𓄿𓃀𓎼𓏲𓅬	166410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gꜣbg.w
+
+# sent_id = IBYCkQXYIWqXt0pHjQgOP4DFn8E
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde in echtes $jbr$-Öl gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,16] - [65,17]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓃀𓂋𓇋𓈒𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+4	𓌷𓂝𓏛	66460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣꜥ
+
+# sent_id = IBYCkWhAtUvGBEqXtJVmGv762oM
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,17]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYCk6nRnc5vAksWtSOXAiqBGNE
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Dann soll er (d.h. der Patient) seinen Arm auf den Rücken eines lebenden Milans ausstrecken;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,17]
+1	𓄝𓏏𓀜𓇋𓈖	854553	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sti̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓐟𓏤	125670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓇥𓂋𓇋𓇋𓏏𓅬	184660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+9	𓋹𓈖𓐍𓏏	38530	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBYCkQgSEHqoOEjrpFO3YceSzhI
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = an eine lebende Schwalbe gibt er (dagegen?) seinen Kopf.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,17] - [65,18]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓏠𓈖𓏏𓅬	69780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+7	𓋹𓈖𓐍𓏏	38530	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBYCk2eOKFHqr06Qgx7y7S16WIs
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCk0WxFchsm0i8pVNQVYrcddg
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Horn einer Gazelle.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,18]
+1	𓂧𓃀𓄏𓏤	178290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=db
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓎼𓎛𓄛	168210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gḥs
+
+# sent_id = IBYCkxnKD1Ti4kHmgvAVObOKge4
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde vollständig mit Öl/Fett in einem Kessel ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,18]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐎𓏏𓈔	48690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḥꜣ.t
+
+# sent_id = IBYCk83wFVDeGUf4pLb3I30v6Ac
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,18] - [65,19]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYCk2FNhbkEIE18pLaDhFWPCVc
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Der Kopf eines Mannes oder einer Frau werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,19]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+7	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBYCk21TJoWQ7EXbjQyCCMflcaQ
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum ordnungsgemäßen Beseitigen von Ergrauen und (zum) Behandeln des Haars:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,19] - [65,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓋴𓆎𓅓𓁸𓏥	146790	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=skm
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓃹𓈖𓌷𓂝𓏛	46200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wn-mꜣꜥ
+7	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+8	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+
+# sent_id = IBYCk9tp3sBALkRwnoEsRdQRY1Q
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Blut eines schwarzen Rindes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,20]
+1	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+4	𓆎𓅓𓁸𓏛	401218	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=km
+
+# sent_id = IBYCk5px0YF7RkGRuazEcqWgCXI
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde in Öl/Fett gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,20]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYCk75Nci9zGEp9qznWLIoXaTk
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,20]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYCk5Chijg70EI8vMYTqK6jd9k
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen des Ergrauens.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [65,20] - [65,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓋴𓆎𓅓𓁸𓏥	146790	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=skm
+
+# sent_id = IBYCk12PRqcHbkwGsUphf7eS6gA
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,1]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYCk1rJpTr7ukaXp4YONkEzZrc
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = (Zum) Vorbeugen von Ergrauen an den Augenbrauen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,2]
+1	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+2	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓋴𓆎𓅓𓁸𓏥	146790	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=skm
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓇋𓆛𓈖𓎛𓏲𓂃𓏥	27700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jnḥ
+
+# sent_id = IBYCk5RmEQmWnEYztUOQQnq0znQ
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes gutes Heilmittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓄤𓆑𓂋𓏏𓏛	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+
+# sent_id = IBYCkyZiQDtuoUkIg62ivSQb72c
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde getrocknet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,6]
+1	𓋴𓆄𓏲𓏲𓇳	144800	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšwi̯
+
+# sent_id = IBYCmG1L0GPQDUQXqe3KJYYDsyU
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = Werde in einen $ḏꜣḏꜣ$-Topf (und dieser) aufs Feuer gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,6]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓍑𓄿𓍑𓄿𓏲𓏊𓏤	872144	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣḏꜣ.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBYCmMnrd4dszEgdr5TIeGRj0kY
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = (Sobald (???)) das, was darin ist, bereit ist auszuglühen, werde (es) in Öl getaucht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,6] - [66,7]
+1	𓃹𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎼𓂋𓍅𓏛	854571	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=grg
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓍇𓏌𓏲𓐍𓊮	81460	VERB	verb	VerbForm=Fin	_	_	_	Translit=nwḫ
+7	𓄡𓏏𓃀𓀜	124900	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖtb
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYCkyaiI8wl4U5wguNJ3AejuNk
+# corpus = sawmedizin
+# src_text_id = 7YKDGDFXMVDU7FGWTYWL5VG7IA
+# src_text = sawmedizin:Papyrus Ebers//65,8-66,7: Eb 451-463: "Heilmittel gegen Ergrauen des Haares"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,7]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+

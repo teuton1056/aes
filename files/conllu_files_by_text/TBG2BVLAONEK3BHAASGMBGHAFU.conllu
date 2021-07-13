@@ -1,0 +1,53 @@
+# sent_id = IBUBdQWT5WWTbkR2rnyx9dYOWvM
+# corpus = sawlit
+# src_text_id = TBG2BVLAONEK3BHAASGMBGHAFU
+# src_text = sawlit:Stele des Antef, Son des Tjefi (MMA 57.95)//〈Stele des Antef, Son des Tjefi (MMA 57.95)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = - I was then in the middle of my youth, when the king (usually) appoints a man to his office, when a man (usually) assumes (his) father's position -,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [5]
+1	𓇋𓋴𓍿	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓅱	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓅓𓄚𓏌𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+4	𓈖𓐍𓈖𓏌𓏏𓅪	87300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḫn.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂠𓂠	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+8	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+9	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓊑𓏏𓏝	20430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jꜣw.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓉔𓅀	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+15	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓊨𓏏	854540	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t
+18	𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9oFYDFguEoEpBRqm2ibOh0
+# corpus = sawlit
+# src_text_id = TBG2BVLAONEK3BHAASGMBGHAFU
+# src_text = sawlit:Stele des Antef, Son des Tjefi (MMA 57.95)//〈Stele des Antef, Son des Tjefi (MMA 57.95)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one truly beloved of his Lord, his praised one and his beloved one, the distinguished one, Intef, born of Tjefi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mr.y
+3	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌳𓐙𓂝	66460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣꜥ
+6	𓎛𓎿𓇋𓇋	109750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥz.y
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈖𓊨𓏏𓄣	79900	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n.j-s.t-jb
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇋𓌳𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+11	𓏎𓈖𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+12	𓄟𓋴	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+13	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓎀𓆑𓇋	709207	PROPN	entity-name	_	_	_	_	Translit=Ṯfj
+

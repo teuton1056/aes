@@ -1,0 +1,34 @@
+# sent_id = IBUBdQCbA0IRDkzsg0Kh6hq4LQk
+# corpus = bbawamarna
+# src_text_id = 5JHJMEHT35GBFK7ZQIUBJJPF7Y
+# src_text = bbawamarna:pBerlin 9784//Erste Eintragung
+# owner = Ingelore Hafemann
+# text_de = Laß den Preis (für) zwei (Dienst)Tage der Dienerin Cherit übergeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3] -  [5]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓂞𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓋴𓃹𓈖𓏌𓏲𓌕𓏛𓏥	130160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swn.t
+4	𓉔𓂋𓏲𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓏮	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓍛𓏤𓁐	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+8	𓆼𓄿𓂋𓏤𓍘𓇋𓏏𓏑𓈀𓏥𓁐	705719	PROPN	entity-name	_	_	_	_	Translit=Ḫr.yt
+
+# sent_id = IBUBdzN1QpjzAkZ3r3XP0tv5n1A
+# corpus = bbawamarna
+# src_text_id = 5JHJMEHT35GBFK7ZQIUBJJPF7Y
+# src_text = bbawamarna:pBerlin 9784//Erste Eintragung
+# owner = Ingelore Hafemann
+# text_de = Angefertigt vom Schreiber Tjutju an diesem Tag.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13]
+1	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓏞	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+3	𓎀𓏲𓎀𓏲𓀀	709338	PROPN	entity-name	_	_	_	_	Translit=Ṯṯ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+

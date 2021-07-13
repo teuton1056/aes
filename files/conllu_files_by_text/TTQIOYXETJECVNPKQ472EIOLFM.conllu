@@ -1,0 +1,13 @@
+# sent_id = IBUBd1qiLWy02kzOgXObQxphJGw
+# corpus = sawlit
+# src_text_id = TTQIOYXETJECVNPKQ472EIOLFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Vso. 1,9-2,1: Anweisung zur Personenerfassung
+# owner = Lutz Popko
+# text_de = (Es) ist gut, wenn du gesund bist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Vso. 2,1]
+1	𓄤𓆑𓂋	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+2	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

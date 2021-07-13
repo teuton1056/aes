@@ -1,0 +1,95 @@
+# sent_id = IBUBdQrtZ2CuT0nhsXfGtnMZGqo
+# corpus = bbawgrabinschriften
+# src_text_id = O3WZGXNWJVF5LMOL5ZJAKSL72U
+# src_text = bbawgrabinschriften:Architrav des [Seschemu], Wien ÄS 7793//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Seine Tocher Schepset-kau.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓅭	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀻𓏏𓎡𓎡𓎡	707307	PROPN	entity-name	_	_	_	_	Translit=Šps.t-kꜣ.w
+
+# sent_id = IBUBd7rtTnZVmEe0kGeEnACIzUU
+# corpus = bbawgrabinschriften
+# src_text_id = O3WZGXNWJVF5LMOL5ZJAKSL72U
+# src_text = bbawgrabinschriften:Architrav des [Seschemu], Wien ÄS 7793//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Seschemu, der Jüngere.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓌮𓈗	450286	PROPN	entity-name	_	_	_	_	Translit=Sšm.w
+2	𓋴𓅪	91770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḏs
+
+# sent_id = IBUBd3mfRVxOl0MEucFX4JCm77Y
+# corpus = bbawgrabinschriften
+# src_text_id = O3WZGXNWJVF5LMOL5ZJAKSL72U
+# src_text = bbawgrabinschriften:Architrav des [Seschemu], Wien ÄS 7793//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Chenet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓂙𓈖𓏏	713644	PROPN	entity-name	_	_	_	_	Translit=H̱n.t
+
+# sent_id = IBUBd3QBrxxPKUDiniZaoG0abTk
+# corpus = bbawgrabinschriften
+# src_text_id = O3WZGXNWJVF5LMOL5ZJAKSL72U
+# src_text = bbawgrabinschriften:Architrav des [Seschemu], Wien ÄS 7793//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Jat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓇋𓄿𓏏	712214	PROPN	entity-name	_	_	_	_	Translit=Jꜣ.t
+
+# sent_id = IBUBdzpnWkfBZUC8rcsLQuXBDbw
+# corpus = bbawgrabinschriften
+# src_text_id = O3WZGXNWJVF5LMOL5ZJAKSL72U
+# src_text = bbawgrabinschriften:Architrav des [Seschemu], Wien ÄS 7793//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Peret.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [7]
+1	𓉐𓂋𓏏	701485	PROPN	entity-name	_	_	_	_	Translit=Pr.t
+
+# sent_id = IBUBd3mWHkS8aE5hnRMAfGCSlWQ
+# corpus = bbawgrabinschriften
+# src_text_id = O3WZGXNWJVF5LMOL5ZJAKSL72U
+# src_text = bbawgrabinschriften:Architrav des [Seschemu], Wien ÄS 7793//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Netjer-neferu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [9]
+1	𓊹𓄤	200028	PROPN	entity-name	_	_	_	_	Translit=Nṯr-nfr.w
+
+# sent_id = IBUBd0BU7bRVfUajqg0gB6g9oBs
+# corpus = bbawgrabinschriften
+# src_text_id = O3WZGXNWJVF5LMOL5ZJAKSL72U
+# src_text = bbawgrabinschriften:Architrav des [Seschemu], Wien ÄS 7793//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Sein Vater Weses.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [10]
+1	𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅱𓋴𓋴	712626	PROPN	entity-name	_	_	_	_	Translit=Wss
+
+# sent_id = IBUBdWnNXAliWkMxt34uDWKy29A
+# corpus = bbawgrabinschriften
+# src_text_id = O3WZGXNWJVF5LMOL5ZJAKSL72U
+# src_text = bbawgrabinschriften:Architrav des [Seschemu], Wien ÄS 7793//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Seine Mutter Jat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [11]
+1	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓄿𓏏	712214	PROPN	entity-name	_	_	_	_	Translit=Jꜣ.t
+

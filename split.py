@@ -16,5 +16,22 @@ def main():
 		for sentence in corpora[corpus]:
 			fp.write(sentence.serialize())
 
+def text_split():
+	fp = open('corpus.conllu','r',encoding='utf-8')
+	data = fp.read()
+	fp.close()
+	sentences = conllu.parse(data)
+	texts = {}
+	for sentence in sentences:
+		if sentence.metadata['src_text_id'] in texts.keys():
+			texts[sentence.metadata['src_text_id']].append(sentence)
+		else:
+			texts[sentence.metadata['src_text_id']] = [sentence]
+	for text in texts.keys():
+		fp = open(f'./files/conllu_files_by_text/{text}.conllu','w',newline='',encoding='utf-8')
+		for sentence in texts[text]:
+			fp.write(sentence.serialize())
+
 if __name__ =="__main__":
 	main()
+	text_split()

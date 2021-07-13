@@ -1,0 +1,143 @@
+# sent_id = IBUBd8g6pilyiExSuRA2BQ5LdCM
+# corpus = bbawtempelbib
+# src_text_id = ZVKMLQ6HKFCT5HS6NXDPME47FA
+# src_text = bbawtempelbib:pFlorenz PSI inv. I 72//Mythologisches Handbuch für die oberägyptischen Gaue 7-16
+# owner = Frank Feder
+# text_de = Das ist ihre Erscheinung (zur Festprozession) des Sistrenportikus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [x+3,14]
+1	𓈍𓂝𓏛𓇋𓇋𓅆	_	X	unknown	Number=Sing|Status=Pron	_	_	_	_
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓉔𓏏𓉐𓊃𓈙𓈙	855042	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=hꜣy.t-zšš.t
+
+# sent_id = IBUBd4zSxZzev0AQnuZ2qCmR3rg
+# corpus = bbawtempelbib
+# src_text_id = ZVKMLQ6HKFCT5HS6NXDPME47FA
+# src_text = bbawtempelbib:pFlorenz PSI inv. I 72//Mythologisches Handbuch für die oberägyptischen Gaue 7-16
+# owner = Frank Feder
+# text_de = Dann wurde Anubis, der 'Herr von Ro-Qerret', zu seinem (des Ortes) Schutz eingesetzt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [x+3,17]
+1	𓊢𓂝𓇳𓏤	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓂋𓂝𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓇋𓈖𓊪𓏰𓅆	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+4	𓎟𓏏𓂋𓏤𓈎𓂋𓂋𓏏𓉐𓊖	401004	_	epitheton-title	_	_	_	_	Translit=nb-Rʾ-qrr.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎃𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdxmQWW2hIkyXtg6ho9gjITk
+# corpus = bbawtempelbib
+# src_text_id = ZVKMLQ6HKFCT5HS6NXDPME47FA
+# src_text = bbawtempelbib:pFlorenz PSI inv. I 72//Mythologisches Handbuch für die oberägyptischen Gaue 7-16
+# owner = Frank Feder
+# text_de = Was den Gott (die Sonnenscheibe?) anbetrifft: das ist Horus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [x+4,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅯	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓄑𓂋𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdQcl2CQEx0zXkJJuCmzfRUc
+# corpus = bbawtempelbib
+# src_text_id = ZVKMLQ6HKFCT5HS6NXDPME47FA
+# src_text = bbawtempelbib:pFlorenz PSI inv. I 72//Mythologisches Handbuch für die oberägyptischen Gaue 7-16
+# owner = Frank Feder
+# text_de = Dann sagte er zu ihr: "Hier ist Schepsi ('ich') im Innern meines eigenen Hauses!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [x+6,8]
+1	𓊢𓂝𓂻	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓𓂝𓎡	64440	PART	particle	_	_	_	_	Translit=m
+7	𓀼𓋴𓏭𓏛𓀀	153800	_	epitheton-title	_	_	_	_	Translit=Špsj
+8	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+9	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd6QXquP5Q0WbpRfxokMZOEs
+# corpus = bbawtempelbib
+# src_text_id = ZVKMLQ6HKFCT5HS6NXDPME47FA
+# src_text = bbawtempelbib:pFlorenz PSI inv. I 72//Mythologisches Handbuch für die oberägyptischen Gaue 7-16
+# owner = Frank Feder
+# text_de = (Da) wandte sich der Kopf der 'Glänzenden' (Hathorkuh) um, um ihren Sohn zu sehen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [x+6,13]
+1	𓂋𓂋𓂻	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+2	𓁶𓏤𓏯	854577	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tp
+3	𓅜𓐍𓏛𓃒𓏏𓆇𓁐	222	_	epitheton-title	_	_	_	_	Translit=ꜣḫ.t
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+6	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdWbOS3LvakFYkMxWKpdMiS4
+# corpus = bbawtempelbib
+# src_text_id = ZVKMLQ6HKFCT5HS6NXDPME47FA
+# src_text = bbawtempelbib:pFlorenz PSI inv. I 72//Mythologisches Handbuch für die oberägyptischen Gaue 7-16
+# owner = Frank Feder
+# text_de = (Und) 'I' (Thot) ist daher sein (des Gaues) 'Schlagender'.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [x+6,19]
+1	𓇋𓅆	21980	PROPN	entity-name	_	_	_	_	Translit=Jw
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓏷𓀜𓏌𓏲𓏴	855342	_	epitheton-title	Number=Sing|Status=Pron	_	_	_	Translit=ḥw
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤𓏯	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdyBf7dpjdUjti5pjGXEfnHU
+# corpus = bbawtempelbib
+# src_text_id = ZVKMLQ6HKFCT5HS6NXDPME47FA
+# src_text = bbawtempelbib:pFlorenz PSI inv. I 72//Mythologisches Handbuch für die oberägyptischen Gaue 7-16
+# owner = Frank Feder
+# text_de = Was Mech betrifft, (wie) man (ja) zu Heben sagt, Seth war es, er raubte die Reliquie des Osiris.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [x+7,19] -  [x+7,20]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓎔𓎛𓏲𓄧𓊖	800037	PROPN	entity-name	_	_	_	_	Translit=Mꜣ-ḥḏ
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+5	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓎛𓃀𓈖𓏌𓏲𓊖	103670	PROPN	entity-name	_	_	_	_	Translit=Ḥbn.w
+7	𓊃𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓐍𓈖𓊪𓏴𓂻𓈖	117850	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnp
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+12	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓊨𓏰𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd1f1T3DoD0yOkzeO1c1IB14
+# corpus = bbawtempelbib
+# src_text_id = ZVKMLQ6HKFCT5HS6NXDPME47FA
+# src_text = bbawtempelbib:pFlorenz PSI inv. I 72//Mythologisches Handbuch für die oberägyptischen Gaue 7-16
+# owner = Frank Feder
+# text_de = (Und) Horus sagte: "Ich habe für Gleiches gesorgt, entsprechend dem, was er getan hat!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [x+7,22]
+1	𓄑𓂋𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎔𓏛𓎛𓏲𓄧𓀁𓈖	73360	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥi̯
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓁹𓂋𓏭𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

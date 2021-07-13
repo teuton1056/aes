@@ -1,0 +1,14 @@
+# sent_id = IBcDMvgmOWLAG0LhjDm91Yd69yI
+# corpus = sawmedizin
+# src_text_id = PQSHLK5HOFDIZOELLKDTXKDVGI
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 2,9-3,5: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = ⸢So „sei fern“⸣ davon, zu ⸢sagen⸣ (d.h. So sage also!):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 2,11]
+1	𓎢𓄿𓀁	162840	PART	particle	_	_	_	_	Translit=kꜣ
+2	𓍯𓄿𓏲𓏲𓈐𓂻	42550	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wꜣi̯
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+

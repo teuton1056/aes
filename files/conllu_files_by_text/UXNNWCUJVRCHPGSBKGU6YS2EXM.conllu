@@ -1,0 +1,81 @@
+# sent_id = IBUBd7uniRVOr0ggp9sSqFKWEkU
+# corpus = bbawgraeberspzt
+# src_text_id = UXNNWCUJVRCHPGSBKGU6YS2EXM
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21i: 9. Nachtstunde, Tb 26
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [65]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd17WzsGjQ0L8uheUzXEkCeo
+# corpus = bbawgraeberspzt
+# src_text_id = UXNNWCUJVRCHPGSBKGU6YS2EXM
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21i: 9. Nachtstunde, Tb 26
+# owner = Doris Topmann
+# text_de = Das $jb$-Herz des Patjenfi ist im Haus der Herzen gegeben worden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [65]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓄣	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
+5	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr
+7	𓄣𓏥	23290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jb
+
+# sent_id = IBUBd9JZA6kGHUBNlFpQyQIKeQY
+# corpus = bbawgraeberspzt
+# src_text_id = UXNNWCUJVRCHPGSBKGU6YS2EXM
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21i: 9. Nachtstunde, Tb 26
+# owner = Doris Topmann
+# text_de = Es ist mit/in ihm zufrieden, aber nicht, wenn er den Opferkuchen des Osiris essen sollte/gegessen hätte auf jener östlichen Seite des Totenbezirks.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [66] - [67]
+1	𓊵𓏏	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂜𓇋𓋴	850807	PART	particle	_	_	_	_	Translit=n-js
+6	𓈎𓈎𓈖	46710	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈙𓂝𓏏𓈒	152490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥw.t
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓁹𓊨	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+11	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+12	𓐝𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+13	𓊪𓆑	59880	PRON	pronoun	PronType=Dem	_	_	_	Translit=pf
+14	𓋁𓏏𓏏	20570	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.tj
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓎼𓇋𓇋𓏏𓊖	166170	PROPN	entity-name	_	_	_	_	Translit=Gꜣy
+
+# sent_id = IBUBdyckztJOjkQ1rQzs09BCfvc
+# corpus = bbawgraeberspzt
+# src_text_id = UXNNWCUJVRCHPGSBKGU6YS2EXM
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21i: 9. Nachtstunde, Tb 26
+# owner = Doris Topmann
+# text_de = Eine $ḫwḫ.t$-Barke ist auf der Fahrt stromab, die andere auf der Fahrt stromauf.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [67] - [68]
+1	𓐍𓅱𓐍𓏏𓊛	115240	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫwḫ.t
+2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓂧𓈖𓊛	_	X	unknown	_	_	_	_	_
+4	𓎡𓏏	853029	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ky.t
+5	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏅𓍿𓇋𓇋𓊛	119150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫnt.yt
+
+# sent_id = IBUBd9udy31zxUwto8rD6LElAu0
+# corpus = bbawgraeberspzt
+# src_text_id = UXNNWCUJVRCHPGSBKGU6YS2EXM
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21i: 9. Nachtstunde, Tb 26
+# owner = Doris Topmann
+# text_de = $N-ẖn.wt$.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [72]
+1	𓈖𓂙𓈖𓏏𓅱𓇼	861334	PROPN	entity-name	_	_	_	_	Translit=N-ẖny.t
+

@@ -1,0 +1,115 @@
+# sent_id = IBUBd7jC2kyXxEV9qMGValOOAxo
+# corpus = sawlit
+# src_text_id = EO6FM43W2VFMXFPUKDU3CWPX6Y
+# src_text = sawlit:Stele des Antef, Sohn des Montuhotep (BM EA 1628)//〈Stele des Antef, Sohn des Montuhotep (BM EA 1628)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was the first overseer of a troop, son of the first overseer of a troop, superior to all overseers of a troop, having descended as the fifth heir.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [5] - [6]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅓𓂋𓋭𓏏𓏤𓀭𓈓	550445	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ-ṯz.t
+3	𓁶𓊪	171460	ADJ	adjective	_	_	_	_	Translit=tp.j
+4	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+5	𓅓𓂋𓋭𓏏𓏤𓀀𓈓	550445	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ-ṯz.t
+6	𓁶𓊪	171460	ADJ	adjective	_	_	_	_	Translit=tp.j
+7	𓌨𓂋𓄂𓏏𓏤	500047	ADP	preposition	_	_	_	_	Translit=ẖr-ḥꜣ.t
+8	𓅓𓂋	855661	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ
+9	𓎟𓀭	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓋭𓏏𓏤𓀭	176970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯꜣz.t
+12	𓉔𓄿𓂻𓎡𓅱𓀭	97350	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓄯𓂝𓅱𓀭	22460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜥ.w
+15	𓈓𓈒𓈒	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd491dLCuukYGlnoWLBzzPEc
+# corpus = sawlit
+# src_text_id = EO6FM43W2VFMXFPUKDU3CWPX6Y
+# src_text = sawlit:Stele des Antef, Sohn des Montuhotep (BM EA 1628)//〈Stele des Antef, Sohn des Montuhotep (BM EA 1628)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was the first overseer of a troop of all herdsmen of small cattle.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6]
+1	𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅓𓂋𓋭𓏏𓏤𓀭	550445	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ-ṯz.t
+3	𓁶𓊪	171460	ADJ	adjective	_	_	_	_	Translit=tp.j
+4	𓈖𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓀸𓅱𓀭	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+7	𓂝𓅱𓌙𓇋𓇋𓏏𓃙𓏪	35870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥw.t
+
+# sent_id = IBUBd3uSBFjmmUxht9F50YcZ8F0
+# corpus = sawlit
+# src_text_id = EO6FM43W2VFMXFPUKDU3CWPX6Y
+# src_text = sawlit:Stele des Antef, Sohn des Montuhotep (BM EA 1628)//〈Stele des Antef, Sohn des Montuhotep (BM EA 1628)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I buried the dead in my coffin,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8] - [9]
+1	𓇋	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈎𓂋𓋴𓊬𓆱𓈖	161940	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qrs
+3	𓀭	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓𓏏𓏱𓀭	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈎𓂋𓋴𓊬𓆱𓏥	161980	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qrs.w
+7	𓀭	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd8K7v7mZZUE5puZhZZ67Nvc
+# corpus = sawlit
+# src_text_id = EO6FM43W2VFMXFPUKDU3CWPX6Y
+# src_text = sawlit:Stele des Antef, Sohn des Montuhotep (BM EA 1628)//〈Stele des Antef, Sohn des Montuhotep (BM EA 1628)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I dressed him in my clothes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [9]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎛𓃀𓋴𓋳𓈖	103740	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥbs
+3	𓀭	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎛𓃀𓋴𓋳𓏬	103750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥbs
+7	𓀭	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd4A7YeQSuEO8kOgAdnCYJzQ
+# corpus = sawlit
+# src_text_id = EO6FM43W2VFMXFPUKDU3CWPX6Y
+# src_text = sawlit:Stele des Antef, Sohn des Montuhotep (BM EA 1628)//〈Stele des Antef, Sohn des Montuhotep (BM EA 1628)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was, however, the first one of his city, one who opens the office on the day of the council.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11] - [12]
+1	𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓁶𓊪	550180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp.j
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓄋𓊪𓏝	45640	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wpi̯
+8	𓐍𓆼𓄿𓉐𓏤	113180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓊃𓎛𓉲𓉐𓏤	140260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḥ
+
+# sent_id = IBUBd8SnIkXTzUHSnwgmHHjYJp0
+# corpus = sawlit
+# src_text_id = EO6FM43W2VFMXFPUKDU3CWPX6Y
+# src_text = sawlit:Stele des Antef, Sohn des Montuhotep (BM EA 1628)//〈Stele des Antef, Sohn des Montuhotep (BM EA 1628)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was a decision-maker on the day of the court (session), one who swears an oath on the day of swearing an oath.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12] - [13]
+1	𓏌𓎡𓀭	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓏏𓈙𓄿𓅱𓏝	854633	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tšꜣ
+3	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=hrw
+4	𓈎𓈖𓃀𓏏𓊋𓏏𓈓𓀭	161350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qnb.t
+5	𓂝𓂋𓈎𓍼𓏝	39650	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥrq
+6	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=hrw
+7	𓂝𓂋𓈎𓍼𓏝𓏤	39650	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥrq
+

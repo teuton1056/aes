@@ -1,0 +1,56 @@
+# sent_id = IBUBd8pMqQfaZ0hKjakFeoHgwN4
+# corpus = sawlit
+# src_text_id = MED7STS24BE5TCVIM7TAMZYXPI
+# src_text = sawlit:pDeM 39//Herischef und General Meryre
+# owner = Lutz Popko
+# text_de = Dann sagte er:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+
+# sent_id = IBUBd7kBIfNSV00olU0ySiV0HCE
+# corpus = sawlit
+# src_text_id = MED7STS24BE5TCVIM7TAMZYXPI
+# src_text = sawlit:pDeM 39//Herischef und General Meryre
+# owner = Lutz Popko
+# text_de = "Ich will (es) tun,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 4]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd2QUFoFh70QekefD7MurAes
+# corpus = sawlit
+# src_text_id = MED7STS24BE5TCVIM7TAMZYXPI
+# src_text = sawlit:pDeM 39//Herischef und General Meryre
+# owner = Lutz Popko
+# text_de = schau, ich will (es) tun!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 4]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢𓏭𓏛	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdy7TAfXWck72l9yr4Z71GJs
+# corpus = sawlit
+# src_text_id = MED7STS24BE5TCVIM7TAMZYXPI
+# src_text = sawlit:pDeM 39//Herischef und General Meryre
+# owner = Lutz Popko
+# text_de = Dann sagte er zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂋𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

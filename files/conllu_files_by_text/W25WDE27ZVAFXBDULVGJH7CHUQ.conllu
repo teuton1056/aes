@@ -1,0 +1,1800 @@
+# sent_id = IBUBdyurE9lVxUndtgSlKkcvsl0
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Es war nämlich der Wunsch des Re〈-Harachte〉, das Amt dem Seth, dem mit großer Kraft, dem Sohn der Nut zu geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1,12] - [2,1]
+1	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓅯𓄿𓇳𓅆	70002	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+7	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+8	𓇋𓄿𓅱𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓃫𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+11	𓉻𓏛𓄖𓏏𓏭𓏯𓏯𓀜𓏏𓏲𓅆	550354	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-pḥ.tj
+12	𓅭𓏤𓅆𓏌𓏌𓏌𓇯𓈗𓏏𓆇𓆗	853115	_	epitheton-title	_	_	_	_	Translit=zꜣ-Nw.t
+
+# sent_id = IBUBdwoypS35SUW8umA78WycolQ
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Da antwortete Ba-neb-Djed, der große lebende Gott, auf das, was er (Atum) gesagt hatte (?; oder: Da antwortete Ba-neb-Djed ... durch das, was er (folgendermaßen) sagte):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2,4] - [2,5]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓏲𓈙𓃀𓇋𓇋𓀁	50340	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=wšb
+3	𓅡𓏤𓅆𓎟𓊽𓊽𓂧𓏲𓊖𓏤𓅆	850187	PROPN	entity-name	_	_	_	_	Translit=Bꜣ-nb-Ḏd.t
+4	𓊹𓅆𓉻𓏛𓋹𓈖𓐍	855246	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ-ꜥnḫ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆓𓂧𓏏𓈖	185810	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḏd
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd31nxDpZMUcPs9fgv5HGmQs
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Lasst ein Schreiben an Neith, die Große, die Gottesmutter, schicken!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2,5] - [2,6]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓉔𓄿𓃀𓏲𓂻𓏏𓏲	97580	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
+3	𓅱𓆼𓄿𓍼𓏤	49180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫꜣ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈖𓏏𓆇𓅆	79010	PROPN	entity-name	_	_	_	_	Translit=Nj.t
+6	𓅨𓂋	47420	_	epitheton-title	_	_	_	_	Translit=wr.t
+7	𓊹𓅐𓏏𓆇𓅆	69170	_	epitheton-title	_	_	_	_	Translit=mw.t-nṯr
+
+# sent_id = IBUBdwZFywdc8kWao3qCnIaHCmE
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Man hat (schon) einmal (wörtl.: ein erstes Mal) zwischen ihnen richterlich entschieden, (und zwar) in der Halle (namens) 'Einzig an Wahrheit'."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2,7]
+1	𓇋𓀁𓁹𓂋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓄋𓊪𓏲𓏴𓏛𓀁𓏏𓏲	45640	VERB	verb	VerbForm=Fin	_	_	_	Translit=wpi̯
+4	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+7	𓁶𓊪𓏭	171460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=tp.j
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+10	𓅱𓋴𓐍𓏏𓏯𓉐𓏪	49870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wsḫ.t
+11	𓌡𓂝𓏤𓌷𓂝𓏤𓆄𓆄𓆄𓏛𓏥	855248	PROPN	entity-name	_	_	_	_	Translit=Wꜥ-mꜣꜥ.t
+
+# sent_id = IBUBd6tnyHQyckL9r2Rk1PkvNtw
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Ich will es tun!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2,9]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdxzfUTY5EEjfmh5FJwUgkl8
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Dann diktierte er (oder: dann schrieb er):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+
+# sent_id = IBUBdwUP644nlUqckwD2xiFcl2Y
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Gebt das Amt des Osiris seinem Sohn Horus!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3,2]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓇋𓄿𓅱𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBd2aoYy3MmUD2jkkReTVT41A
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = 'Lass Seth an seinem Hab (und Gut) reicher werden (wörtl.: Bereichere Seth an seinem Besitz)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3,4]
+1	𓇋𓀁𓈎𓃀𓄲𓏛𓏫	854562	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=qꜣb
+2	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓐍𓏏𓏛𓏥𓏏𓏲	30750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jḫ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1irKmzug03QkSiI2t1aYS0
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Diese Göttin hat recht."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3,7]
+1	𓌷𓂝𓏭𓆄𓏛𓏏𓏲	66460	ADJ	adjective	_	_	_	_	Translit=mꜣꜥ
+2	𓏏𓄿𓏭	851662	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣj
+3	𓊹𓏏𓂋𓏏𓆇𓅆	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+
+# sent_id = IBUBd9bHpue1CEYniqiCFln5ASY
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Du bist schwach an deinem Leib;
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3,7] - [3,8]
+1	𓏏𓏲𓎡	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+2	𓎛𓏲𓅨𓂋𓀔𓅪𓏏𓏲	103190	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥwrw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓂝𓏏𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0NQgmX1Wk59mjQNLLaC96Q
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = und dieses Amt ist zu groß für dich, du Knabe mit Mundgeruch (wörtl.: Knabe, schlecht ist der Geschmack seines Mundes)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3,8]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓏏𓄿𓏭	851662	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣj
+3	𓇋𓄿𓅱𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+4	𓉻𓂝𓄿𓏛𓍘𓇋	34750	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜥꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+8	𓂝𓆓𓂧𓀔𓅪	42290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏd
+9	𓃀𓇋𓈖𓏌𓏲𓏭𓅪	54605	ADJ	adjective	_	_	_	_	Translit=bjn
+10	𓂧𓊪𓏏𓄓𓀁	179020	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=dp.t
+11	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3fiHArQz0PHrVOm4HHFnFc
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Dein Schrein ist leer."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3,10]
+1	𓂓𓂋𓇋𓏯𓉐𓅆	163620	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣr
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓆄𓏲𓏭𓅪	152670	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šwi̯
+
+# sent_id = IBUBd7nDorB5DUXQvfYvwZHJTQU
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Gehe du nach draußen!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3,12]
+1	𓉐𓂋𓇋𓇋𓏭𓂻	60920	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=pri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋𓃀𓏲𓈖𓏥𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+
+# sent_id = IBUBdwyWm9b7iU82gdz93pmwXXY
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Sprecht doch!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,3]
+1	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḏd
+2	𓂋𓂋𓏤	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd0QBOENQx0FVipfNOYh6lmw
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Seth, der Sohn der Nut, hat recht."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,6]
+1	𓌷𓂝𓏭𓆄𓏛𓏏𓏲	66460	ADJ	adjective	_	_	_	_	Translit=mꜣꜥ
+2	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓅭𓏤𓅆𓏌𓏌𓏌𓇯𓈗𓏏𓆇𓆗	853115	_	epitheton-title	_	_	_	_	Translit=zꜣ-Nw.t
+
+# sent_id = IBUBd5roeEonvk6xn9jRSSLrUus
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "(Soll) man, während der leibliche Sohn (des Osiris) (daneben) steht, das Amt dem Bruder (des Osiris) (von derselben) Mutter geben?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,6] - [4,7]
+1	𓇋𓀁𓁹𓂋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+5	𓇋𓄿𓅱𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓅐𓏏𓆇𓅆	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+10	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+11	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+12	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓄡𓏏𓏤𓄹𓅆	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+14	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+
+# sent_id = IBUBd4VWGCSDpUg4km36xnBOSVg
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Da sagte Ba-neb-Djed, der große lebende Gott:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,7]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅡𓏤𓅆𓎟𓊽𓊽𓂧𓏲𓊖𓏤𓅆	850187	PROPN	entity-name	_	_	_	_	Translit=Bꜣ-nb-Ḏd.t
+3	𓊹𓅆𓉻𓏛𓋹𓈖𓐍	855246	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ-ꜥnḫ
+
+# sent_id = IBUBd8Nochz7fkoHg2HtRGpZBvI
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "(Soll) man, während sein (des Osiris) erwachsener Bruder Seth (daneben) steht, das Amt d(ies)em Knaben geben?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,7] - [4,8]
+1	𓇋𓋴𓅱𓏏	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓇋𓀁𓁹𓂋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓇋𓄿𓅱𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓂝𓆓𓂧𓀔𓅪	42290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏd
+10	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+11	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+12	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+15	𓉻𓏛	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+16	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+
+# sent_id = IBUBdyaunjWRn0ksnUhWL7eKf8U
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Was sollen diese Reden, die du gehalten hast, die nicht wert sind, gehört zu werden?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,8] - [4,9]
+1	𓇋𓐍𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+2	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+3	𓌃𓂧𓏏𓏯𓀁𓏫	78030	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mdw.t
+4	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+7	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+8	𓆷𓄿𓏲𓏛	151560	ADJ	adjective	_	_	_	_	Translit=šꜣ.w
+9	𓄔𓅓𓏏𓏲	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+10	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBdzYIWtvTXk0plfqGAWkAKQE
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Da sagte Horus, der Sohn der Isis:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,9]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓅃𓅆𓅭𓏤𓅆𓊨𓏏𓆇𓅆	853039	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-zꜣ-Ꜣs.t
+
+# sent_id = IBUBd0LlJuQEEkwsgyguJh0NfFA
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Sei nicht verärgert!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,13]
+1	𓅓𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓎛𓆓𓈖𓏌𓏲𓀁	112780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥḏn
+
+# sent_id = IBUBd9xGeZ9etE5WgiHEeAHgqAk
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Ich werde nicht vor dem Gericht prozessieren, solange Isis darin ist."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,3]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓐍𓈖𓏌𓏲𓅯𓂻	142520	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫn
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+8	𓊋𓏏𓏯𓀀𓏥	161350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qnb.t
+9	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd1Da47acc0jVjeFKGTeh30o
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = 'Setze keine Frau, die Isis gleicht, über!'"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,4] - [5,5]
+1	𓅓𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓂞𓏏	851711	VERB	verb	_	_	_	_	Translit=rḏi̯
+3	𓍑𓄿𓇋𓇋𓊛	181780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏꜣi̯
+4	𓊃𓏏𓁐𓈞𓏏𓁐	125370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z.t-ḥm.t
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+6	𓅓	65500	ADP	preposition	_	_	_	_	Translit=m-zn.t-r
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+
+# sent_id = IBUBd8DOwmnDOUgOoUMG0Dr0h6s
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Man hat zu mir gesagt:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,11]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdwGS1NImckZevZ3jSQc5wtg
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = 'Setze keine Frau über!'"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,11]
+1	𓅓𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓍑𓄿𓇋𓇋𓊛	181780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏꜣi̯
+3	𓊃𓏏𓁐𓈟𓀀𓁐𓏪	125370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z.t-ḥm.t
+4	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdxFz7MnevEK1iO1GXmJLBB4
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Das, was du gesagt hast, das hat man (doch bloß) wegen Isis zu dir gesagt."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,11] - [5,12]
+1	𓇋𓀁𓁹𓂋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓆓𓂧𓏏𓏲	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓌨𓂋𓏭𓏛𓊨𓏏𓉐𓂋𓏤𓈖	852482	ADP	preposition	_	_	_	_	Translit=ẖr-s.t-rʾ
+8	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+9	𓅯𓄿𓏭	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+10	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd41858OwQEIOl7WvVedvam4
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Da sagte Isis zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,12]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+
+# sent_id = IBUBdws03UTIZUDUmrKO1Ey5gOs
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Was soll es mir, dein Gebäck?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓇋𓐍𓏛	_	X	unknown	_	_	_	_	_
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+7	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+8	𓅱𓆼𓄿𓏏𓏒	49220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḫꜣ.t
+
+# sent_id = IBUBd0qRtZxdhUsQsl1pYK9ALjs
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Gib den goldenen Siegelring (her)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,1]
+1	𓇋𓅓𓅓𓂝𓏏𓏲	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓐍𓏏𓅓𓏲𓋩𓊌	121690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫtm
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓋞	81680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbw
+
+# sent_id = IBUBdzH99TZ4E0YeglIv7bK0lnU
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Ich bin hier bei dir, schönes Kind!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,7] - [6,8]
+1	𓏏𓏲𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+2	𓂧𓏭𓈐	177830	ADV	adverb	_	_	_	_	Translit=dy
+3	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+4	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+5	𓈙𓂋𓇋𓏲𓀔𓏏𓏛	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+6	𓄤𓆑𓂋𓏏𓏛	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+
+# sent_id = IBUBdwgXGAARP0xFvDXhQv2Q4Pg
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Daher wünsche ich, dich zu seinem Vorkämpfer zu machen (wörtl.: Daher (steht) mein Herz auf das Veranlassen, dass du ihm (die Funktion eines) Vorkämpfer(s) ausübst)."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,11] - [6,12]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓄣𓏤	23370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jb
+3	𓁐	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+6	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓈖𓆱𓐍𓏏𓀜𓏏𓏲	87580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫt
+
+# sent_id = IBUBd5BA4lkgQ0W8kj5eZTCetRw
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Schäme dich (?)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,14]
+1	𓇋𓀀𓎀𓅓𓏲𓁻	175420	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ṯm
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQE9eNxhsU2AqDusBQDY0Pc
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Dein eigener Mund ist es, der das gesagt hat!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,14]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+5	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+6	𓆓𓊃	854591	NOUN	substantive	_	_	_	_	Translit=ḏs
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5NfxYuWYUbNnB1Q7TJP2AM
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Was willst du noch?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,1]
+1	𓇋𓐍𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBdyWcWwrNoUQNstRNQwWDXag
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Was willst du wieder?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,2]
+1	𓇋𓐍𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBd73jIudckEOWm7EhkysgNPg
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Sie hat dort wieder rumgekeift (wörtl.: ein großes Geschrei gemacht), nachdem sie ihre Gestalt vor meinem Angesicht zu (der) eines schönen Mädchens verwandelt hatte.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,3]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓃀𓅯𓄿𓎼𓄿𓏭𓅪𓏪	58000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bgꜣ.w
+4	𓇋𓅓𓅆	24640	ADV	adverb	_	_	_	_	Translit=jm
+5	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+8	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+9	𓆣𓂋𓏯𓏛𓏪	116300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫpr.w
+10	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓌡𓂝𓏤𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+13	𓈙𓂋𓇋𓏲𓀔𓁐	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+14	𓄤𓆑𓂋𓏏𓏛	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+15	𓂋𓁷𓂋𓏤	92210	ADP	preposition	_	_	_	_	Translit=r-ḥr
+16	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdwCYn3h7sEf5k53QF3W4w20
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Nun siehe also, du hast dich selbst verurteilt (wörtl.: Also siehe, schau, du warst es, der dich selbst abgeurteilt hat).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,11] - [7,12]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+3	𓎢𓏭𓏛	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊪𓏏𓂋𓇋𓆵𓁻	62910	INTJ	interjection	_	_	_	_	Translit=ptr
+5	𓅓𓈖𓏏𓎢	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+6	𓇋𓀁𓄋𓊪𓏲𓏏𓏴𓀁	45640	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wpi̯
+7	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+8	𓆓𓊃	854591	NOUN	substantive	_	_	_	_	Translit=ḏs
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdwWx8dA3y0I0pQRJjAZ5P6g
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Was willst du noch?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,12]
+1	𓇋𓐍𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+2	𓐍𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBd0WySJ5w3UklucXkUgjqNdU
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Veranlasse, dass man Nemti bringt und dass man ihm eine schwere Strafe erteilt, sagend:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,12]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓏎𓈖	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓅈𓏏𓏭𓅆	850356	PROPN	entity-name	_	_	_	_	Translit=Nmt.j
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓅓𓂝𓄚𓈖𓏭𓊛𓀜	74630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mẖn.tj
+7	𓅓𓏏𓏲	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+8	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+9	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓋴𓃀𓇼𓄿𓇋𓇋𓏏𓏛𓀜	131390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sbꜣ.yt
+13	𓉻𓏏𓏛	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+14	𓂋𓆓𓂧	859134	PART	particle	_	_	_	_	Translit=r-ḏd
+
+# sent_id = IBUBd8XRgpbVEU3libWCCZ7xcD0
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Gold soll mir ein Abscheu meiner Stadt sein!" (d.h.: Der Besitz von/Umgang mit (o.ä.) Gold soll in der Stadt, deren Hauptgott ich bin, ein Tabu darstellen.)
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,1]
+1	𓁹𓏲	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓋞𓈒𓏥	81680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓃀𓅱𓏏𓆜𓏥	55150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bw.t
+7	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+9	𓅆	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd7MTVbsUtUR5qkBFHpG70EA
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Soll man nicht nach dem handeln, was Atum, der Herr der beiden Länder und von Heliopolis, und Re-Harachte gesagt haben?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,5] - [8,6]
+1	𓇋𓋴𓅱𓏏	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+3	𓇋𓀁𓁹𓂋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+4	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓅯𓄿𓏲	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+7	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+8	𓏏𓍃𓅓𓏲𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+9	𓎟𓇾𓇾𓈇𓈇𓉺𓏌𓊖𓅆	851249	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj-Jwn.w
+10	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+11	𓅯𓄿𓇳𓅆𓅃𓅆𓈌𓏏𓏭𓉐𓉐𓅆𓅆	70002	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj
+
+# sent_id = IBUBd95USyqQSEhJiPfGNvzjC6w
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "(Soll) man, während ich als sein erwachsener Onkel (daneben) stehe, das Amt meinem kleinen Neffen geben?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,7]
+1	𓇋𓀁𓁹𓂋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+5	𓇋𓄿𓅱𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+8	𓅆	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓌢𓏤𓅆	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+10	𓈙𓂋𓇋𓏲𓅪	600257	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šrj
+11	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓊢𓂝𓂻𓎢	851887	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓌢𓏤𓅆	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+18	𓉻𓏛	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBdWEV0gOXlkQ4mIWwbRw6dpw
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Seth wird Horus, meinen Sohn, (ja) umbringen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,11] - [8,12]
+1	𓄡𓂧𓃀𓏲𓌫𓂡	124950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖdb
+2	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+5	𓁐	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓈙𓂋𓇋𓏲𓀔𓅆	156650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šrj
+
+# sent_id = IBUBd9mSXP705EfthzZItjysMVw
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Komm zu mir, 〈meine〉 Mutter Isis, meine Mutter!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,1]
+1	𓅓𓂝𓇋𓏭𓂻𓁐	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+5	𓁐𓅆	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+7	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓅐𓏏𓆇𓅆	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+
+# sent_id = IBUBdQItwGbM4Ua7jWPFa9CsgiA
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Rufe zu deinem Erz,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,2]
+1	𓇋𓀁𓂝𓈙𓀁𓏥	40890	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥš
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥmt
+4	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBd8GqKPXUsUQto1WA8SozcHQ
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = (es) solle sich von mir lösen (wörtl.: Löse dich von mir)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,2]
+1	𓋴𓆑𓐍𓍼𓂡	133780	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sfḫ
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd3QnPgVxTUH9kbssS9qNZQE
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ich bin (doch) Horus, Sohn der Isis!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,2]
+1	𓇋𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅃𓅆𓅭𓏤𓅆𓊨𓏏𓆇𓅆	853039	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-zꜣ-Ꜣs.t
+
+# sent_id = IBUBdWAjshuE407erVFAqNhJt6E
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Löse dich von ihm!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,2] - [9,3]
+1	𓋴𓐍𓆑𓏏𓍼𓂡	133780	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sfḫ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzSYxwkbO0WNkKlNdWSCTr4
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Rufe zu deinem Erz,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,5]
+1	𓇋𓀁𓂝𓈙𓀁	40890	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥš
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥmt
+4	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBd6UAdoG01k5Tkje2QnogXhA
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = (es) solle sich von mir lösen (wörtl.: Löse dich von mir)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,5]
+1	𓋴𓐍𓆑𓏏𓍼𓂡	133780	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sfḫ
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd4qWH4mJQ0yognQJDQnwwTw
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ich bin (doch) dein Bruder (von derselben) Mutter, Isis!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,5]
+1	𓇋𓏌𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+3	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+7	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+
+# sent_id = IBUBd1w2Wwi8YkXcnnkmYM5BiEo
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Löse dich von ihm!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,7]
+1	𓋴𓐍𓆑𓏏𓍼𓂡	133780	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sfḫ
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3St37yr6kgjjszQWTcbwPs
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Was ist das, was (da) ohne Kopf dahergekommen ist (wörtl.: Was ist das, was gekommen ist, indem es keinen Kopf hat)?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,11]
+1	𓇋𓐍𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓇍𓄿𓇋𓇋𓏭𓂻𓍘𓇋	21930	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=jwi̯
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓂜𓈖𓃹𓈖𓏲	79090	PART	particle	_	_	_	_	Translit=nn-wn
+7	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+8	𓊃𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+9	𓍑𓄿𓍑𓄿𓁶𓏤𓅆	182330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣḏꜣ
+
+# sent_id = IBUBdQQvAjBaaEd8n0XYl13mPxM
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Mein vollkommener Herr, es ist Isis, die Große, die Gottesmutter, nachdem ihr Sohn Horus ihren Kopf abgetrennt hat."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,12]
+1	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+4	𓄤𓏤𓅆	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+5	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+6	𓅨𓂋	47420	_	epitheton-title	_	_	_	_	Translit=wr.t
+7	𓊹𓅐𓏏𓆇𓅆	69170	_	epitheton-title	_	_	_	_	Translit=mw.t-nṯr
+8	𓏏𓄿𓏭	851662	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣj
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓂋𓏲𓇋𓏭𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+11	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+12	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+13	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+14	𓈙𓂋𓇋𓏲𓀔𓅪	156650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šrj
+15	𓍑𓄿𓍑𓄿𓁶𓏤	182330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏꜣḏꜣ
+16	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd5YbumnZB0ORlxYLks7dXP8
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Lasst uns loseilen und ihm eine schwere Strafe erteilen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,1]
+1	𓎛𓆰𓈖𓏌𓏲𓂾𓂻	854531	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥn
+2	𓈖𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+3	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓈖𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓋴𓃀𓇼𓄿𓇋𓇋𓏏𓏛𓀜	131390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sbꜣ.yt
+8	𓉻𓏏𓏛	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBd5oBAANxGE0DkoJDl9A0yyI
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Öffne deine Augen!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,8]
+1	𓇋𓀁𓃹𓈖𓉿𓂡	46060	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wn
+2	𓁹𓏏𓏤𓄹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd1qZPWdHJUl1mMXr1gsrjcQ
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ich will diese Milch hineingeben."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,8]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁐	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖𓄿𓏭	851663	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣj
+4	𓇋𓀁𓁹𓂋𓏏𓏋𓏫	854491	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jrṯ.t
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd41s2rhU6UdTmoI6lkTNJu4
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Öffne deine Augen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,9]
+1	𓇋𓀁𓃹𓈖𓉿𓂡	46060	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wn
+2	𓁹𓏏𓏤𓄹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdyMSDqT5dU3GpWy9HUobd4s
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Horus wurde gefunden, nachdem Seth ihn an seinen Augen geschädigt hatte.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,10]
+1	𓅠𓅓𓏛	167210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+3	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓎼𓄿𓃀𓏲𓏭𓅪	166950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gbi̯
+5	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+6	𓃫𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8Ivm4Yvj0dWnq7Hu2CBnu8
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Aber ich habe ihm wieder hochgeholfen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,10] - [10,11]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓁹𓇋𓇋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+3	𓁐	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓋴𓊢𓂝𓂻	129190	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜥḥꜥ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBdQLsOUY0Pkf3sAciWae2QG8
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Schau, er ist gekommen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,11]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢𓏭𓏛	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓𓏲	851203	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓂻𓏲𓏭𓂻	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+
+# sent_id = IBUBdxGHPJtdS0Q3gnV0IJxRT14
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Lasst nach Horus und Seth rufen, damit über sie geurteilt wird!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,11]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓂝𓈙𓀁	40890	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥš
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+6	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+7	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+8	𓄋𓊪𓏲𓏏𓏴𓀁𓏏𓏲	45640	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+9	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBd872kLWijkcWhesAtG57gWA
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = hört (aber vorher), was ich euch sage:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,12]
+1	𓄔𓅓𓏛𓏥	150560	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḏm
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd3as2UO2DEc1uHnMGlJIMRo
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ihr sollt essen
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,12]
+1	𓏶𓅓𓏭𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdyzR3QRgwkspmCc017r2VNE
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = und ihr sollt trinken, damit wir Frieden halten,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [11,1]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓊵𓏏𓊪𓏛𓏥	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+4	𓈖𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+
+# sent_id = IBUBdyL6YQ6PiUcWiNAMPbAtPg4
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Komm; wir wollen einen Festtag in meinem Haus verbringen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [11,1] - [11,2]
+1	𓅓𓂝𓇋𓏭𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓈖𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+4	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+
+# sent_id = IBUBd9Z37u4Ve00yuXMW9Znf3Eo
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Ich will (es) tun;
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [11,2]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd94qvglCd0E3h0MpyEZUJmg
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Komm zu mir, Isis, meine Mutter!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [11,5]
+1	𓅓𓂝𓇋𓏭𓂻𓁐	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓊨𓏏𓆇𓆗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+5	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓅐𓏏𓆇𓅆	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+
+# sent_id = IBUBd0MXQvvnSkcOm7XybP0g6gM
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Komm und schau (auf) das, was Seth mir angetan hat!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [11,5]
+1	𓅓𓂝𓇋𓏭𓂻𓁐	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓊪𓏏𓂋𓇋𓆵𓁻𓁐	62900	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ptr
+3	𓈖𓄿𓏭	851663	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣj
+4	𓇋𓀁𓁹𓂋𓏲	851809	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd2w3vJHRq0mIi5eGHRzlLr4
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Komm, wir wollen eilen!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12,1]
+1	𓅓𓂝𓇋𓏭𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓎛𓆰𓈖𓏌𓏲𓂾𓂻	854531	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥn
+3	𓈖𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+
+# sent_id = IBUBdxgrQip43kZbhclaprVIF7Q
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ich will zusammen mit dir vor Gericht prozessieren."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12,1]
+1	𓋴𓐍𓈖𓏌𓏲𓅯𓂻𓀁	142520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫn
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋𓎛𓈖𓂝	92200	ADP	preposition	_	_	_	_	Translit=r-ḥnꜥ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+7	𓊋𓏏𓏯𓀀𓏥	161350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qnb.t
+
+# sent_id = IBUBdQHblbhpmEZ7u7xjHJGfcQk
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Ich will (es) tun;
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12,1]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd2o8pUV7ZEJzgGK03OfWkLQ
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "So sprecht!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12,2]
+1	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḏd
+2	𓂋𓂋𓏤	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd2MSKB8hsUbhiNFBoKFlMKw
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Komm heraus, Same des Seth!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12,7]
+1	𓅓𓂝𓇋𓏭𓂻𓁐	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓂋𓃀𓏲𓈖𓏥𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+3	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+4	𓂸𓏏𓅱𓏏𓂺	854515	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mtw.t
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+
+# sent_id = IBUBd7QQq0odoUadiZWGyWsyyMU
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Komm heraus, Same des Horus!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12,8] - [12,9]
+1	𓅓𓂝𓇋𓏭𓂻𓁐	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓂋𓃀𓏲𓈖𓏥𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+3	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+4	𓂸𓏏𓅱𓏏𓂺	854515	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mtw.t
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBd8YiGafWL0kplQJ9ft95Xus
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Woher soll ich kommen?"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇍𓄿𓇋𓇋𓏭𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+5	𓏏𓈖𓏌𓏲𓌙𓅯𓏛𓏥	175740	PRON	pronoun	PronType=Int	_	_	_	Translit=ṯnj
+
+# sent_id = IBUBd3oVs41YBU2ziJWufTQnD8s
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Komm heraus aus seinem Scheitel!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [12,11]
+1	𓅓𓂝𓇋𓏭𓂻𓁐	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓂋𓃀𓏲𓈖𓏥𓂋𓏤𓈐𓂻	91970	ADV	adverb	_	_	_	_	Translit=r-bnr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄋𓏏𓏤𓄹𓅆	45530	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wp.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4wIvh6kJEy7p6nQWwxvjjY
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Horus hat recht,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13,1]
+1	𓌷𓂝𓏭𓆄𓏛𓏏𓏲	66460	ADJ	adjective	_	_	_	_	Translit=mꜣꜥ
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBdxzxrh9YNUKJq9IQZKz5vx0
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Seth hat Unrecht."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13,1]
+1	𓂝𓍑𓄿𓏲𓏛𓀜	42110	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥḏꜣ
+2	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+
+# sent_id = IBUBdxuEt6gwlkjPvrKLIBQWbUA
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Horus hat recht,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13,2]
+1	𓌷𓂝𓏭𓆄𓏛𓏏𓏲	66460	ADJ	adjective	_	_	_	_	Translit=mꜣꜥ
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBd0pa2uNVWESgsrvEdH0QUjM
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "(Es ist) doch Stein."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13,7]
+1	𓇋𓈖𓂋𓊌𓏥	27560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnr
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4nbgt3Wl0OXr3YfyNUfv3A
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Da versank das Schiff des Seth im Wasser.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13,9]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓊛𓏤	40210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓉔𓂋𓊪𓏲𓈗𓀜	99170	VERB	verb	VerbForm=Fin	_	_	_	Translit=hrp
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+10	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd0bGCT84eEhHqtDfYWCaxcg
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Schleudere es nicht zu ihm!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13,11]
+1	𓅓𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
+2	𓎛𓀜𓏷𓀜𓏏𓏲	854530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7jdByrSLUqgo8DCuSrh5cs
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = aber (es ist) bis jetzt (schon) tausendmal (passiert), dass (mir) ihm gegenüber recht gegeben wurde, Tag für Tag,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [14,1]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅯𓄿𓏭	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓌷𓂝𓏏𓆄𓏛𓏥𓅆	854512	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=mꜣꜥ
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBd8OfJaDr8URqubDlrYvOf78
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ich habe zusammen mit ihm in der Halle "Der Pfad der Wahrheit" prozessiert.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [14,2]
+1	𓋴𓐍𓈖𓏌𓏲𓅯𓏛𓀁	142520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫn
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇋𓀁𓏭𓂋𓏤𓅓𓂝𓏲	29840	ADP	preposition	_	_	_	_	Translit=jrm
+4	𓆑𓅆	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+7	𓅱𓋴𓐍𓏏𓏯𓉐	49870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wsḫ.t
+8	𓈐𓏏𓏤𓆄𓆄𓆄𓅆𓅆	855253	PROPN	entity-name	_	_	_	_	Translit=Wꜣ.t-mꜣꜥ.t
+
+# sent_id = IBUBdxWWkn1q1EkejrdzVLgqU2A
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Man hat mir ihm gegenüber recht gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [14,2]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓌷𓂝𓏏𓆄𓏛𓏥	854512	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜥ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxkVTug7JEz1iIjHUAwknjY
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ich habe zusammen mit ihm in der Halle "Horus vor den Hörnern (?)" prozessiert.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [14,2] - [14,3]
+1	𓋴𓐍𓈖𓏌𓏲𓅯𓂻𓀁	142520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫn
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇋𓀁𓏭𓂋𓏤𓅓𓂝𓏲	29840	ADP	preposition	_	_	_	_	Translit=jrm
+4	𓆑𓅆	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+7	𓅱𓋴𓐍𓏏𓏯𓉐	49870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wsḫ.t
+8	𓅃𓅆𓏃𓈖𓏏𓏭𓂊𓂝𓃀𓄏𓄏𓄏𓅆	855249	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-ḫnt.j-ꜥb.w
+
+# sent_id = IBUBdzg7XolSz0Srs11LU9eZDrE
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ich habe zusammen mit ihm in der Halle "Binsengefilde" prozessiert.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [14,3]
+1	𓋴𓐍𓈖𓏌𓏲𓅯𓂻𓀁	142520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫn
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇋𓀁𓏭𓂋𓏤𓅓𓂝𓏲	29840	ADP	preposition	_	_	_	_	Translit=jrm
+4	𓆑𓅆	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+7	𓏲𓋴𓐍𓏏𓏯𓉐	49870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wsḫ.t
+8	𓇏𓏏𓈇𓏤𓄿𓈖𓏥𓂋𓏤𓊖	141560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t-jꜣr.w
+
+# sent_id = IBUBdxh1JxM6jEkFnLaQ89Z3umQ
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Ich habe zusammen mit ihm in der Halle "Der Teich des Feldes" prozessiert.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [14,3] - [14,4]
+1	𓋴𓐍𓈖𓏌𓏲𓅯𓂻𓀁	142520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫn
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇋𓀁𓏭𓂋𓏤𓅓𓂝𓏲	29840	ADP	preposition	_	_	_	_	Translit=jrm
+4	𓆑𓅆	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+7	𓅱𓋴𓐍𓏏𓏯𓉐𓏪	49870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wsḫ.t
+8	𓅯𓄿𓈙𓈇𓏤𓏥𓈖𓇏𓏏𓈇𓏤	855254	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-š-n-sḫ.t
+
+# sent_id = IBUBd2rSuQPn605AjLwKXP3Wv80
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Man hat mir ihm gegenüber recht gegeben."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [14,4]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓌷𓂝𓏭𓆄𓏛𓏥	854512	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜥ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdy8meSZDR0RJnQBZlht0WWc
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Horus, der Sohn der Isis, hat in allem, was er gesagt hat, recht."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [14,4]
+1	𓌷𓂝𓏭𓆄𓏛𓏏𓏲	66460	ADJ	adjective	_	_	_	_	Translit=mꜣꜥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇋𓀁𓆓𓂧𓏏𓏲	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+6	𓈐𓅆𓅭𓏤𓅆𓊨𓏏𓆇𓅆	853039	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-zꜣ-Ꜣs.t
+
+# sent_id = IBUBd73RJpHKl02Bv0XOHbYQSjM
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = 'Wenn du nicht entstanden wärst, wenn du nicht geboren wärst, wären Gerste und Emmer trotzdem entstanden!'"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [15,2] - [15,3]
+1	𓉔𓄿𓈖𓄿𓀁	97660	PART	particle	_	_	_	_	Translit=hꜣnꜣ
+2	𓃀𓏲	55130	PART	particle	_	_	_	_	Translit=bw
+3	𓆣𓂋	858535	VERB	verb	_	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓉔𓄿𓈖𓄿𓀁	97660	PART	particle	_	_	_	_	Translit=hꜣnꜣ
+6	𓃀𓏲	55130	PART	particle	_	_	_	_	Translit=bw
+7	𓄟𓋴𓏯𓏥	74950	VERB	verb	_	_	_	_	Translit=msi̯
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+11	𓇣𓏏𓏭𓌾𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+12	𓆣𓂋𓏲	858535	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+13	𓅓𓂋𓂝𓏤	64970	ADV	adverb	_	_	_	_	Translit=m-rʾ-ꜥ
+
+# sent_id = IBUBdyFARG7le0wStmYq2rjT22Y
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Betrachte du doch bitte jetzt deine Lage!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [15,4]
+1	𓇋𓐍𓏛	30730	PART	particle	_	_	_	_	Translit=jḫ
+2	𓊪𓏏𓂋𓇋𓆵𓁻	62900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ptr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+5	𓋴𓐍𓂋𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+6	𓎼𓂋𓏛	167730	PART	particle	_	_	_	_	Translit=gr
+7	𓅓𓈖𓏏𓎢	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+
+# sent_id = IBUBd3FovbBl7El1qdqBMd7xPrg
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Wer unter ihnen ist (einer), der stärker ist als ich?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [15,6]
+1	𓈖𓏭𓅓𓂝𓀁	83990	PRON	pronoun	PronType=Int	_	_	_	Translit=njm
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈖𓆱𓐍𓏏𓀜	87560	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḫt
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd9xgvCYSv0KskrmgUDFPv6M
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Schau nun, sie haben in der Tat (?) ein Unrecht ersonnen!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [15,6] - [15,7]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+3	𓎢𓏭𓏛	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅠𓅓𓏛	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓎼𓂋𓍅𓏭𓅪	168040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grg
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓁹𓂋𓏏	28590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.yt
+
+# sent_id = IBUBd1tQYWHiQkJBuy6X6jhFISw
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Bringe den Seth, der aber mit einem Joch versehen sein soll!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [15,11] - [15,12]
+1	𓏎𓈖	26870	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jni̯
+2	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎛𓆰𓈖𓏌𓏲𓎨𓏛𓏥	105900	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥn
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈎𓄿𓇉𓄿𓆱𓏥	858208	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣḥ
+
+# sent_id = IBUBdQmzLmydzkQntrzQ47fUfhY
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Du bist der vollkommene König Ägyptens!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,1]
+1	𓏏𓏲𓎢	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇓𓏤𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+4	𓄤𓏤𓅆	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+5	𓏌𓏤	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓇾𓌻𓇋𓆵𓊖𓊖	169110	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-mrj
+
+# sent_id = IBUBd7Jilt0tFEQTkwQQbYjbi2w
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Du bist der Herr von Leben, Heil und Gesundheit, der Vollkommene eines jeden Landes bis in die Ewigkeit, (bis zur) Unendlichkeit!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,1] - [16,2]
+1	𓏏𓏲𓎢	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎟𓏤𓅆	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓍑	52100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ
+6	𓋴	136950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snb
+7	𓄤𓏤𓅆𓏥	83500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nfr
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+10	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+11	𓂋𓆷𓄿𓂝𓏛	92360	ADP	preposition	_	_	_	_	Translit=r-šꜣꜥ
+12	𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+13	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+14	𓆓𓏏𓇾	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd9rdvASzwEBhnEadmrqAVAY
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Du bist der vollkommene König!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,2]
+1	𓏏𓏲𓎢	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇓𓏤𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+4	𓄤𓏤𓅆	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+
+# sent_id = IBUBd9pAZiiGt0TvleKX6qpQEIE
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Mein Herz ist in Freude!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,2]
+1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+2	𓏏𓆇𓆗	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓈙𓅱𓏏𓂊𓏛𓏥	96220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ršw.t
+
+# sent_id = IBUBd3wZmRtMtUEdixnEmE89g38
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Du mögest das Land mit deinem Wesen erhellen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,2] - [16,3]
+1	𓋴𓌉𓆓𓇳	141250	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥḏ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇋𓆛𓈖𓏌𓏲𓁸	22570	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwn
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0YDmZoQOEn9iOCErHCbMoA
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Was soll man (jetzt) mit Seth tun?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,3]
+1	𓇋𓐍𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓁹𓂋	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+
+# sent_id = IBUBd17o3xuIm0dZgQrizAhvuLY
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Veranlasst, dass mir Seth, der Sohn der Nut, übergeben wird!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,4]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓂞𓂞𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓁣𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+6	𓅭𓏤𓅆𓏌𓏌𓏌𓇯𓈗𓅆	853115	_	epitheton-title	_	_	_	_	Translit=zꜣ-Nw.t
+
+# sent_id = IBUBd85j1U6Iik9yk0gmroFsx8A
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Er möge bei mir sitzen, indem er zu mir (wie) ein Sohn ist, und er möge am Himmel seine Stimme erheben (d.h. donnern) und man soll sich vor ihm fürchten!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,4]
+1	𓈞𓊃𓀔	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓎛𓈖𓂝	92200	ADP	preposition	_	_	_	_	Translit=r-ḥnꜥ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓈙𓂋𓇋𓏲𓀔𓅆	156650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šrj
+11	𓅓𓏏𓏲	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓊤𓏲𓀁	600211	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫru̯
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+16	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+17	𓅓𓏏𓏲	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+18	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+19	𓋴𓈖𓂧𓏲𓀀	138730	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏ
+20	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyqpXxd7qUYNtWAJ38XtIFg
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Horus, der Sohn der Isis, hat sich als 𓍹Herrscher𓍺 - {LHG} LHG - erhoben."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,5]
+1	𓅃𓅆𓅭𓏤𓅆𓊨𓏏𓆇𓅆	853039	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-zꜣ-Ꜣs.t
+2	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋾𓈎𓅆	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+5	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBdyeigUtcC0Hmr40neQ5ZtB4
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = "Horus hat sich als 𓍹Herrscher𓍺 - {LHG} LHG - erhoben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,6]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋾𓈎𓅆	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+5	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd63JXmcdLkTOtHzHi4D1iCU
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Der Himmel ist in Freude.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,6]
+1	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂋𓈙𓅱𓏏𓂊𓏛𓏥	96220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ršw.t
+
+# sent_id = IBUBd6siT2Ewm0mtjYQV2Ne1ero
+# corpus = sawlit
+# src_text_id = W25WDE27ZVAFXBDULVGJH7CHUQ
+# src_text = sawlit:pChester Beatty I//Recto: Der Streit zwischen Horus und Seth
+# owner = Lutz Popko
+# text_de = Es ist schön zu Ende gekommen innerhalb der theb(anisch)en "Stätte der Wahrheit" (d.h. Deir el-Medina).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [16,8]
+1	𓂻𓋴𓊪𓏲	21930	VERB	verb	_	_	_	_	Translit=jwi̯
+2	𓄤𓆑𓂋	400458	ADV	adverb	_	_	_	_	Translit=nfr
+3	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+4	𓌀𓏏𓊖𓅆	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓊨𓏏𓉐𓏏𓃀𓏪	125240	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-mꜣꜥ.t
+

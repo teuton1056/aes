@@ -1,0 +1,527 @@
+# sent_id = IBUBd2CSeehqV0VOvV80WiPVprk
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Mir haben sie ihren Schutz gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,3]
+1	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓅓𓂝𓎢𓏏𓏛𓏪	76880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mkw.t
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdwZ971LxB0yPu4C8KwHfgIk
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Ich bin zugehörig zu Re, nachdem er gesagt hat:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,7] - [1,8]
+1	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+2	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+4	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzmds7znVEQho298889U2y4
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = "Ich bin der, der ihn vor seinen Feinden beschützen wird."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,8]
+1	𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓐩𓏌𓂡	854522	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓐍𓆑𓏏𓅂𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyzFkWrYQEWOqgv4BXGqy20
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Er pflegt die Schrift reden zu lassen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌃𓂧𓏏𓀁	78140	VERB	verb	VerbForm=Fin	_	_	_	Translit=mdwi̯
+6	𓂧𓂋𓆑𓏯𓏛	180250	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=drf
+
+# sent_id = IBUBd2DP35XtqkYtodpjONtfw9Y
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = er pflegt Sammelwerke zu erstellen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,9]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋬𓂧𓏏𓍼	179460	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=dmḏ.t
+
+# sent_id = IBUBdy9f5uaJmEqTr9Qj90tE6Bg
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = er pflegt den Gelehrten (und) den Ärzten, die in seinem Gefolge sind, Wirkungsmacht zu geben, um den zu erlösen, (von) dem der Gott will, dass er (d.h. der Heiler) ihn leben lässt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,9] - [1,10]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅜𓐍𓏛	253	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḫ.w
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓂋𓐍𓏲𓏛𓏥𓐍𓏏𓏛𓏥	95710	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rḫ-jḫ.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓌕𓏌𓏤𓀀𓏥	130260	_	epitheton-title	Number=Plur|Status=Abs	_	_	_	Translit=zwn.w
+8	𓏶𓅓𓏲𓏪𓆱𓐍𓏏𓂻𓀀𓏥	25760	ADJ	adjective	Number=Plur|Status=Pron|Gender=Masc	_	_	_	Translit=jm.j-ḫt
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓊠𓂝𓍢𓂡	48760	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥꜥ
+12	𓌻𓂋𓂋𓏲𓀁	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+13	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+14	𓋴𓋹𓈖𓐍	128910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥnḫ
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd0jVo5SSIENYh4Q19YVvgAw
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Ich bin einer, von dem der Gott will, dass er mich leben lässt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,10]
+1	𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓌻𓂋𓂋𓏲𓀁	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+5	𓋴𓋹𓈖𓐍	128910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥnḫ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+
+# sent_id = IBUBdyfRa8Iub07Ji8qVpU4eLDs
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = (Diese) Worte (sind) zu sprechen beim Auftragen eines Heilmittels auf jeden Körperteil eines Mannes, der krank ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,10] - [1,11]
+1	𓆓𓂧𓌃𓏤𓏥	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓐍𓆑𓏏	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+3	𓎝𓎛𓏛	43010	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜣḥ
+4	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+10	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+11	𓍋𓅓𓂋𓅪𓍘𓇋	71790	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=mr
+
+# sent_id = IBUBdzD3Slw9HkkLrarUdlalNCY
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Ein anderer Spruch für das Lösen jeglichen Verbandes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,12]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓊠𓂝𓍢𓂝	48760	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥꜥ
+5	𓐎𓂝	50990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wt
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd6yect8Lzk3YlX4UilPfuPU
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Ein zu Erlösender werde durch Isis erlöst.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,12]
+1	𓊠𓂝𓍢𓂝	48760	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥꜥ
+2	𓊗𓏭	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓊨𓏏𓏯𓆗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+
+# sent_id = IBUBd70GAe8hg0MMu6jg2AHtHWs
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Horus werde durch Isis von den Übeln erlöst, die gegen ihn durch seinen Onkel/Bruder Seth getan wurden, als er (d.h. Seth) seinen (d.h. des Horus) Vater Osiris tötete.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,12] - [1,13]
+1	𓊠𓂝𓍢𓂝	48760	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥꜥ
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓆇𓏏𓏯𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈋𓏲𓏏𓅪𓏥	182900	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏw.t
+7	𓁹𓇋𓇋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+11	𓌢𓅆	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓃩𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓋴𓌳𓄿𓅓𓌪𓂝	134370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smꜣ
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓌘𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd9CYitWBLEZjvA0EG0YXCzE
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = O Isis, Zauberreiche, du mögest mich erlösen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,13] - [1,14]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊨𓏏𓆇𓏯𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓅨𓂋𓏏𓎛𓂓𓄿𓏲𓀁𓏪𓅆	850409	_	epitheton-title	_	_	_	_	Translit=wr.t-ḥkꜣ.w
+4	𓊠𓂝𓍢𓂝	48760	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥꜥ
+5	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+6	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+
+# sent_id = IBUBd16Ki95NzEGxu91yjH484zg
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Du mögest mich von jeder schlimmen, üblen und gefährlichen (wörtl.: roten) Sache entbinden, von den Einwirkungen eines Gottes, den Einwirkungen einer Göttin, von einem Toten und einer Toten, von einem Widersacher und einer Widersacherin, einem, der sich mir entgegenstellen sollte, so wie du gelöst und wie du entbunden wurdest von deinem Sohn Horus, weil ich in das Feuer eintrat und aus dem Wasser hervorkam!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,14] - [1,17]
+1	𓋴𓆑𓐍𓍼𓏛	133780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sfḫ
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+6	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+7	𓃀𓇋𓈖𓏏𓅪	54605	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=bjn
+8	𓈋𓏲𓏏𓅪𓏥	182840	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḏw
+9	𓂧𓈙𓂋𓏏𓏯	550232	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=dšr
+10	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+11	𓊨𓏏𓂝𓏤𓅪𓏥	125160	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t-ꜥ
+12	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+13	𓊨𓏏𓂝𓏤𓅪𓏥	125160	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t-ꜥ
+14	𓊹𓏏𓂋𓏯𓆗	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+15	𓅓𓏏	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+16	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+17	𓅓𓏏𓏏𓏱	69330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mwt.t
+18	𓅓𓏏	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+19	𓍑𓄿𓇋𓇋𓏲𓏱	181880	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḏꜣ.yw
+20	𓍑𓄿𓇋𓇋𓏏𓏱	181820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣ.yt
+21	𓍑𓄿𓏏𓏴	181780	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏꜣi̯
+22	𓆑𓏭	851172	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+23	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+24	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+25	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+26	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+27	𓊠𓂝𓍢𓂝	48760	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥꜥ
+28	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+29	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+30	𓋴𓆑𓐍𓍼𓏛	133780	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sfḫ
+31	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+32	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+33	𓅬𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+34	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+35	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+36	𓁷𓏤𓈖𓏏𓏏	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+37	𓅧𓈎𓂻𓈖	41180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+38	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+39	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+40	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+41	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+42	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+43	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+44	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd8xWocUlv079l1jLw8W1hQQ
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Ich werde nicht hinabsteigen zur Falle (?) (oder: zum Osten) dieses Tages.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,17]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋁𓃀𓂋𓏏𓆱	23990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jbṯ.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+8	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdx2x22dDBEvEm2tXRu3EQ94
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Während ich (noch) ein Kind und jung bin, habe ich gesprochen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,17] - [1,18]
+1	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓐍𓏤𓀔𓎢𓏲𓀀	112980	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḫ
+4	𓆼𓄿𓀔𓅪𓎢𓏲𓀀	113140	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBdWOHqd53hEjupyHixjbfjyo
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = "O Re, sprich für dein Abbild!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,18]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓌃𓂧𓏏𓀁	78140	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mdwi̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd50QmAuzZ0LBhfRMNoqQvyM
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = (O) Osiris, klage wegen dessen, was aus dir hervorgekommen ist!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,18]
+1	𓆇𓏯𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+2	𓋴𓃀𓎛𓄑𓀁	131900	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sbḥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓉐𓂋𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd8ZGRO10VEb5pBADvNxEO5c
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Re sprach für seinen Leib.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,19]
+1	𓌃𓂧𓏏𓀁	78140	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mdwi̯
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxt4ZE1EYkOJhKl8qlhhzQ4
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Osiris klagte wegen dessen, was aus ihm hervorkommt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,19]
+1	𓋴𓃀𓎛𓄑𓀁	131900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sbḥ
+2	𓍟𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓉐𓂋𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd85QJQQFY0OorUnoTD6PcCY
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Wahrlich, du hast mich gerettet vor jeder schlimmen, üblen und gefährlichen (wörtl.: roten) Sache, vor den Einwirkungen eine Gottes und den Einwirkungen einer Göttin, vor einem Toten, vor einer Toten usw.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1,19] - [2,1]
+1	𓇋𓋴𓎢	851438	PART	particle	_	_	_	_	Translit=jsk
+2	𓈖𓈞𓅓𓂝𓈖	86430	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+5	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+8	𓃀𓇋𓈖𓏏𓅪𓏥	54605	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=bjn
+9	𓈋𓏲𓏏𓅪𓏥	182840	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḏw
+10	𓂧𓈙𓂋𓏏𓏯𓅪	550232	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=dšr
+11	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+12	𓊨𓏏𓂝𓏤𓅪𓏥	125160	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t-ꜥ
+13	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+14	𓊨𓏏𓂝𓅪𓏥	125160	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t-ꜥ
+15	𓊹𓏏𓂋𓏯𓆗	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+16	𓅓𓏏	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+17	𓅓𓏏𓏱	69320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+18	𓅓𓏏𓏏𓏱	69330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mwt.t
+19	𓍍𓏏𓏤𓏛𓏥	105450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-rʾ
+
+# sent_id = IBUBd70hUw3T20O3vQWHqGYAfAI
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = (Dieser Spruch ist) wirklich vortrefflich, Millionen Mal (erprobt)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2,1]
+1	𓍱𓏤𓏛𓏥𓌶𓂝𓏛	851592	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šs-mꜣꜥ
+2	𓁨𓏤	109250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḥ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBUBd51ps5E5QEQ1g23aazRITAE
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Spruch zum Trinken eines Heilmittels:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2,1]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓋴𓅨𓂋𓇋𓀁	130360	VERB	verb	VerbForm=Fin	_	_	_	Translit=zwr
+4	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUBd4i3YtKRjkSHscqPuMQNIW4
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = (Es) kommt das Heilmittel.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2,1] - [2,2]
+1	𓇍𓏭𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUBdwNJuLM340FgjYkswLN7taQ
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = (Es) kommt das, was eine (üble) Sache aus diesem meinem Herzen, aus diesen meinen Körperteilen vertreiben kann.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2,2]
+1	𓇍𓏭𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓂧𓂋𓂋𓂝	180130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dr
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓇋𓊪𓏏𓈖	850009	PRON	pronoun	PronType=Dem	_	_	_	Translit=jptn
+
+# sent_id = IBUBdzLO0PhOXkrfnpaNglbwnD8
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Stark ist der Zauber wegen des Heilmittels und umgekehrt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2,2] - [2,3]
+1	𓈖𓆱𓐍𓏏𓀜	400031	ADJ	adjective	_	_	_	_	Translit=nḫt
+2	𓎛𓂓𓄿𓀁𓏪	110660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkꜣ.w
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+5	𓋭𓄲	177140	X	undefined	_	_	_	_	Translit=ṯꜣz-pẖr
+
+# sent_id = IBUBd1Lj27W1vkqTj2JxKTPFQq8
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = Hast du denn daran gedacht, dass Horus und Seth zur Großen Halle von Heliopolis gezerrt wurden, als über die Hoden des Seth und 〈das Auge des〉 Horus beraten wurde?
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2,3] - [2,4]
+1	𓇋𓈖𓇋𓏲	550032	PART	particle	_	_	_	_	Translit=jn-jw
+2	𓏏𓂋𓏲𓆵𓀁	172720	PART	particle	_	_	_	_	Translit=tr
+3	𓋴𓆼𓄿𓀁𓈖	141620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫꜣ
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓎁𓏏𓀜𓏏𓏲	33560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+6	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+7	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+8	𓃩𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓇩𓏏𓏤𓉐𓏥	31070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jz.t
+11	𓉻𓏏𓏛	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+12	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+13	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓐩𓏌𓀁𓏏𓏲	90910	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+16	𓌨𓂋𓏲𓏭𓄹𓄹	124430	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=ẖr.wj
+17	𓃫𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+18	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+19	𓅃𓅆	28410	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jr.t-Ḥr.w
+
+# sent_id = IBUBd73bmMQ2C0sRvrpg9XqJ3Gc
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = (Diese) Worte (sind) zu sprechen beim Trinken eines Heilmittels.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2,6]
+1	𓆓𓂧𓌃𓏤𓏥	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓐍𓆑𓏏	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+3	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	VerbForm=Fin	_	_	_	Translit=zwr
+4	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUBd7YGZDCMZkSXinzWBfBBpH0
+# corpus = sawmedizin
+# src_text_id = 5FTT5MPBHZC3HK4LCBHO5ILEQY
+# src_text = sawmedizin:Papyrus Ebers//1,1-2,6 ⸗ Eb 1-3: "Sprüche zum Auftragen eines Heilmittels"
+# owner = Lutz Popko
+# text_de = (Dieser Spruch ist) wirklich vortrefflich, Millionen Mal (erprobt)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2,6]
+1	𓍱𓏤𓏛𓏥𓌶𓂝𓏛	851592	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šs-mꜣꜥ
+2	𓁨𓏤	109250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḥ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+

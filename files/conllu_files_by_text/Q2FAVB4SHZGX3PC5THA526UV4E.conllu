@@ -1,0 +1,369 @@
+# sent_id = IBUBd2vHvTQ5pkgHhzPzlLPhW4w
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Es lebe der vollkommene Gott, der mit der Maat zufrieden ist, der Herr des Himmels, der Herr der Erde, der große lebende Aton, der die beiden Länder erleuchtet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [K.I]
+1	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+2	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
+3	𓉔𓂋𓏮𓏛𓁷𓏤𓐙𓏏𓁧	859301	_	epitheton-title	_	_	_	_	Translit=hr-ḥr-Mꜣꜥ.t
+4	𓎟𓇯	400833	_	epitheton-title	_	_	_	_	Translit=nb-p.t
+5	𓎟𓇿	851528	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ
+6	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+7	𓋹𓈖𓐍	38530	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥnḫ
+8	𓅨	47270	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=wrr
+9	𓋴𓇳𓏥𓌌𓈅𓈅	859303	_	epitheton-title	_	_	_	_	Translit=sḥḏ-Tꜣ.wj
+
+# sent_id = IBUBd4TbvJBRx054ijQ09rWrHBk
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Der König von Ober- und Unterägypten, der von der Maat lebt, Nefer-cheperu-Re-Wa-en-Re, Sohn des Re, der von der Maat lebt, Echnaton, der groß in seiner Zeit ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [K.II] - [K.III]
+1	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+2	𓋹𓐝𓐙𓏏	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+3	𓇳𓄤𓆣𓏥𓇳𓌡𓈖	856314	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḫpr.w-Rꜥw-wꜥ-n-Rꜥw
+4	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+5	𓋹𓐝𓐙𓏏	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+6	𓇋𓏏𓈖𓇳𓅜𓐍𓈖	856863	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-n-Jtn
+7	𓉻𓂝𓐝𓊢𓂝𓇳𓏤𓆑	852060	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-m-ꜥḥꜥ.w⸗f
+
+# sent_id = IBUBdWDyqN9pdULyjx3ly8EGmis
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Empfangen von Gunst und Liebe zugunsten von Leben, Wohlergehen und Gesundheit des Königs von Ober- und Unterägypten, der von der Maat lebt, Herr der Beiden Länder, Nefer-cheperu-Re-Wa-en-Re, dem Leben für immer und ewig gegeben ist, Sohn des Re, der von der Maat lebt, Herr der Kronen, Echnaton, der groß in seiner Zeit ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3] - [4]
+1	𓊏𓊪𓅱	157160	VERB	verb	VerbForm=Fin	_	_	_	Translit=šzp
+2	𓎿𓋴𓅱	109800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥzw.t
+3	𓌸𓂋𓅱	72650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrw.t
+4	𓁷𓁶	108280	ADP	preposition	_	_	_	_	Translit=ḥr-tp
+5	𓋹𓍑𓋴	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+8	𓋹𓐝𓐙𓏏𓁧	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+9	𓎟𓇿𓇿𓈅𓈅	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+10	𓇳𓄤𓆣𓏥𓇳𓌡𓈖	856314	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḫpr.w-Rꜥw-wꜥ-n-Rꜥw
+11	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+12	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+13	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+14	𓎛𓇳𓎛	86580	ADV	adverb	_	_	_	_	Translit=nḥḥ
+15	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+16	𓋹𓐝𓐙𓏏𓁧	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+17	𓎟𓈍𓏥	600260	_	epitheton-title	_	_	_	_	Translit=nb-ḫꜥ.w
+18	𓇋𓏏𓈖𓇳𓅜𓐍𓈖	856863	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-n-Jtn
+19	𓉻𓐝𓊢𓂝𓇳𓏤𓆑	852060	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-m-ꜥḥꜥ.w⸗f
+
+# sent_id = IBUBd4KaY2Jnu0JfhziYbH2wies
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Reisen nach Süden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4]
+1	𓈝𓐝𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+2	𓐝𓏃𓈖𓍘𓇋𓇋𓏏𓊛	850635	ADV	adverb	_	_	_	_	Translit=m-ḫnt.yt
+
+# sent_id = IBUBd0FaY7aRCUW0l8Y4IGeFDn0
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Der Eid, den der König von Ober- und Unterägypten, der von der Maat lebt, Nefer-cheperu-Re-Wa-en-Re, Sohn des Re, der von der Maat lebt, Echnaton, der groß in seiner Zeit ist, er lebe für immer und ewig, geleistet hat:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5]
+1	𓋹𓈖𓐍	38560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓆓𓂧𓏏𓈖	185810	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḏd
+3	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+4	𓋹𓐝𓐙𓏏𓁧	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+5	𓇳𓄤𓆣𓏥𓇳𓌡𓈖	856314	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḫpr.w-Rꜥw-wꜥ-n-Rꜥw
+6	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+7	𓋹𓐝𓐙𓏏𓁧	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+8	𓇋𓏏𓈖𓇳𓅜𓐍𓈖	856863	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-n-Jtn
+9	𓉻𓐝𓊢𓂝𓇳𓆑	852060	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-m-ꜥḥꜥ.w⸗f
+10	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+11	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+12	𓎛𓇳𓎛	86580	ADV	adverb	_	_	_	_	Translit=nḥḥ
+
+# sent_id = IBUBd2WZQul7ckCMs9msoWSRWXk
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Ich werde sie für immer und ewig nicht überschreiten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓊃𓈖𓏕𓂻	854546	VERB	verb	_	_	_	_	Translit=zni̯
+3	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+7	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd9Up87szFE5arVSW5wWDed0
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Ich werde sie nicht nach Osten überschreiten für immer und ewig.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓊃𓈖𓏕𓂻	854546	VERB	verb	_	_	_	_	Translit=zni̯
+3	𓀯	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅱𓃀𓈖𓏌𓅱𓇳	45170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+9	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBdQUu00wkQkqOlZ3y48QlfDU
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Ich werde sie nicht nach Westen überschreiten für immer und ewig.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓊃𓈖𓏕	136630	VERB	verb	_	_	_	_	Translit=sni̯
+3	𓀯	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋀𓏏𓏏	26151	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmn.tj
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+9	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd4peTeF9fU8ingfwwj56fcA
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Was die nordöstliche Stele von Achetaton betrifft, die ich an seiner Grenze aufgestellt habe, sie ist die nördliche Stele von Achetaton.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10] - [11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎘𓅱𓉸	51990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏ
+4	𓎔𓏏𓏤𓏤𓈅𓏤𓋁𓃀𓏏𓏤𓏤	859286	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mḥ.tj-jꜣb.tj
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓈌𓏏𓉐𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+7	𓁹𓂋𓅱	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+8	𓀯	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓊢𓂝𓂻	851887	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜥ
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓂋𓂝𓏤	92720	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-ꜥ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+14	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+15	𓎘𓅱𓉸	51990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏ
+16	𓎔𓏏𓏤𓏤𓈅𓏤	73560	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mḥ.tj
+17	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+18	𓈌𓏏𓉐𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+19	𓅮𓄿𓏤𓏤	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+
+# sent_id = IBUBd6dnXQ6O3Uh3u4tQl6bIos8
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Fertigt die nordwestliche Stele, die sich auf dem westlichen Berg von Achetaton befindet, äußerst genau gegenüber von ihr.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11]
+1	𓁹	851809	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎘𓅱𓉸	51990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏ
+4	𓎔𓏏𓏤𓏤𓋀𓏏𓏤𓏤	859287	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mḥ.tj-jmn.tj
+5	𓈖𓏏𓏤𓏤	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+8	𓈋𓏤𓊌	182830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+9	𓋀𓏏𓏤𓏤	26150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jmn.tj
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓈌𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+12	𓂋𓂝𓈎𓅱𓂭𓂭	91960	ADP	preposition	_	_	_	_	Translit=r-ꜥqꜣ
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓂝𓈎𓂭𓂭	41330	ADV	adverb	_	_	_	_	Translit=ꜥqꜣ
+15	𓊗𓏤𓏤	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+
+# sent_id = IBUBd49oymWzAkyQq30FXHWI558
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Und es gehört meinem Vater "Re-Harachte, der im Horizont jubelt in seinem Namen Sonnenlicht, das in der Sonne ist" (⸗Aton), der Leben für immer und ewig gibt, bestehend aus Bergen und Wüsten, aus Weideland, Neuland und Hochland, aus neuem Ackerland und aus Ackerland, aus Wasser, Städten und Ufern, aus Menschen und Viehherden, aus Baumpflanzungen und Allem, was Aton, mein Vater, geschaffen hat, damit es entstanden sei.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13] - [15]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓇋𓏏𓆑𓀭	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+5	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓋹𓅊𓈌𓈌𓎛𓂝𓏮𓏛𓐝𓈌	859387	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj-ḥꜥ-m-ꜣḫ.t
+7	𓐝𓂋𓈖𓆑𓐝𓆄𓅱𓇳𓈖𓏏𓏮𓐝𓇋𓏏𓈖𓇳	856317	PROPN	entity-name	_	_	_	_	Translit=M-rn⸗f-m-Šw-n.tj-m-Jtn
+8	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+9	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+10	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+11	𓎛𓇳𓎛	86580	ADV	adverb	_	_	_	_	Translit=nḥḥ
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓈋𓅱𓅱𓊌𓏥	182830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏw
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓈉𓏏𓏥	114300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣs.t
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓇏𓏏𓈅𓏥	141480	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫ.t
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓅶𓏏𓅱𓈅𓏥	66830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mꜣw.t
+20	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+21	𓈎𓄿𓇋𓇋𓏏𓀠𓈅𓏥	159160	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qꜣ.yt
+22	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓈖𓐍𓃀𓅱𓈅𓏥	87060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nḫb
+24	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+25	𓄿𓎛𓏏𓈅𓏥	191	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣḥ.t
+26	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+27	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+28	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+29	𓂧𓏇𓇋𓅱𓈅𓏥	179330	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=dmj
+30	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+31	𓎘𓃀𓅱𓄷𓈅𓏥	52640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḏb
+32	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+33	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+34	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+35	𓏠𓈖𓏠𓈖𓏏𓃒𓏥	70730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnmn.t
+36	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+37	𓈙𓏏𓍔𓅓𓅱𓆭𓆭𓆭	158000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=štꜣ
+38	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+39	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+40	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+41	𓁹𓂋𓅱	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+42	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+43	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+44	𓅮𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+45	𓀯	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+46	𓇋𓏏𓆑	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+47	𓋴𓆣𓂋	142050	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫpr
+48	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdz8RhIqzQEoalsLEK4LRPeQ
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Sie (die Inschrift auf der Stele) soll nicht ausgelöscht werden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [18]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓆑𓏏𓏏𓄓	64190	VERB	verb	_	_	_	_	Translit=ftt
+3	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyxY8eGNcUD1rxi9hcA7u7k
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Sie (die Inschrift) soll nicht ausgewaschen werden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [18]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓇋𓂝𓈗𓂡	21550	VERB	verb	_	_	_	_	Translit=jꜥi̯
+3	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyxgogbLA0wKixQvjDAEZg0
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Sie (die Inschrift) soll nicht getilgt werden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [18] - [19]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓎡𓂋𓊪𓂡	165060	VERB	verb	_	_	_	_	Translit=krp
+3	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdximYrUaS07XjSUILQU5hNs
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Es soll nicht geschehen, dass sie verloren geht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [19]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓁹𓇋𓇋𓅱	851809	VERB	verb	_	_	_	_	Translit=jri̯
+3	𓎛𓎛𓏤𓏤𓂻	101930	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥjḥj
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd67j8qlVmEdgilbcGaQHJ4k
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Regierungsjahr 8, 4. Monat der Achet-Jahreszeit, letzter Tag.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22]
+1	𓆳𓏏𓇳	850581	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rnp.t-zp
+2	𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇺	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+4	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓆷𓏏𓇳	216	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+6	𓂝𓂋𓈎𓇋𓇋𓍼𓇳	39740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥrq.y
+
+# sent_id = IBUBdyKoOjZCOEHXh2ofXi1zGh4
+# corpus = bbawamarna
+# src_text_id = Q2FAVB4SHZGX3PC5THA526UV4E
+# src_text = bbawamarna:〈Stele B〉//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Ein Eid, den der König von Ober- und Unterägypten, der von der Maat lebt, Herr der Beiden Länder, Nefer-cheperu-Re-Wa-en-Re, Sohn des Re, der von der Maat lebt, Herr der Kronen, Echnaton, der groß in seiner Zeit ist, bezüglich der Aufstellung der Stelen gesprochen hat, die sich an den Grenzen von Achetaton befinden.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22]
+1	𓋹𓈖𓐍	38560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓆓𓂧𓏏𓈖	185810	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḏd
+3	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+4	𓋹𓈖𓐍𓅓𓁧	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+5	𓎟𓇿𓇿𓈅𓈅	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+6	𓇳𓄤𓆣𓏥𓇳𓌡𓈖	856314	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḫpr.w-Rꜥw-wꜥ-n-Rꜥw
+7	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+8	𓋹𓅓𓆄𓏏	859294	_	epitheton-title	_	_	_	_	Translit=ꜥnḫ-m-Mꜣꜥ.t
+9	𓎟𓈍𓏥	600260	_	epitheton-title	_	_	_	_	Translit=nb-ḫꜥ.w
+10	𓇋𓏏𓈖𓇳𓅜𓐍𓈖	856863	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-n-Jtn
+11	𓉻𓅓𓊢𓂝𓇳𓏤𓆑	852060	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-m-ꜥḥꜥ.w⸗f
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+14	𓋴𓏠𓈖𓏏𓏛	135120	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=smn
+15	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+16	𓎘𓅱𓉸𓏪	51990	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḏ
+17	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+18	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓏏𓍔𓈙𓏴𓈅𓏪	169650	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tꜣš
+20	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+21	𓈌𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+

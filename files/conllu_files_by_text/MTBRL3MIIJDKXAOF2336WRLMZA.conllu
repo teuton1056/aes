@@ -1,0 +1,1162 @@
+# sent_id = IBUBd0sMOmZQIkuXjY9bAAuDQuw
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann befahlen sie, dass ihm (einer) geboren wird (wörtl.: Dann befahlen sie zu veranlassen/dass veranlasst wird, dass für ihn (einer) geboren wird).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓎗𓏲𓏛	51970	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏ
+5	𓂞𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+6	𓄟𓋴𓇋𓇋𓏲𓏏	74950	VERB	verb	Voice=Pass|VerbForm=Fin	_	_	_	Translit=msi̯
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzsxw4DZlUfdlA3KHUROeGc
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann wurde ein Sohn geboren.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,3]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓄟𓋴𓇋𓇋𓏯𓏥	74950	VERB	verb	Voice=Pass|VerbForm=Fin	_	_	_	Translit=msi̯
+3	𓌡𓂝𓏤𓀀𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+4	𓅭𓏤𓀀𓅷𓄿𓇋𓇋𓂺𓀀	126150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-ṯꜣ.y
+
+# sent_id = IBUBd6jfVwB3XUYNuYvv0lgN2MY
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann kamen die Hathoren, um ihm das Schicksal zu bestimmen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,3]
+1	𓇍𓇋𓇋𓏏𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+5	𓉗𓏏𓉐𓁷𓂋𓇋𓇋𓏏𓏯𓅆𓏫	99960	PROPN	entity-name	Number=Plur|Status=Abs	_	_	_	Translit=Ḥw.t-Ḥr.w
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓆷𓄿𓏛	151220	VERB	verb	VerbForm=Fin	_	_	_	Translit=šꜣ
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓆷𓄿𓇋𓇋𓏱𓏥	151300	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šꜣ.w
+
+# sent_id = IBUBd3MUy4tsJUc7mB7S7ei2Qzg
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Er könnte durch das Krokodil oder die Schlange sterben, (oder) ebenso (durch) den Hund.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,4]
+1	𓅓𓏏𓏱	69300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mwt
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+5	𓅓𓋴𓎛𓏲𓆌	75590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mzḥ
+6	𓅓𓂋𓏤𓊪𓏲	600585	ADV	adverb	_	_	_	_	Translit=m-rʾ-pw
+7	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+8	𓎛𓆑𓄫𓏲𓆙	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
+9	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+10	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+11	𓃛𓏲𓄛𓏤	21970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jw
+
+# sent_id = IBUBd89Qmh0jKEyOoBchHtN7Ptc
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Da wurde das Herz Seiner Majestät - LHG - überaus betrübt (wörtl.: Da wurde Seine Majestät ..., indem sein Herz überaus schlecht dran war).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,5]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆣𓂋𓏲	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓈋𓏲𓏲𓅪𓏥	600472	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏwi̯
+11	𓂋𓉻𓏏𓏛𓅪𓂋𓏏𓏛	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6zg6N9giEyDvQsQePYsNWw
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann erblickte er einen Hund, der hinter einem erwachsenen Mann war, der auf dem Weg entlangging.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,7] - [4,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓅠𓅓𓎛𓁻	167270	VERB	verb	VerbForm=Fin	_	_	_	Translit=gmḥ
+5	𓌡𓂝𓏤𓀀𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+6	𓍿𓊃𓅓𓏲𓄛𓏤	177290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯzm
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+10	𓌡𓂝𓏤𓀀𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+12	𓉻𓏛	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+13	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+16	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+17	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+18	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+19	𓏇𓇋𓈐𓏏𓏤	67910	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mj.t
+
+# sent_id = IBUBd2L9lzDaRUaBmQgyyobgL88
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann sagte er zu seinem Diener, der neben ihm stand:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓄔𓅓𓏲𓀁	150590	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sḏm
+9	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+10	𓂋𓐛𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3Z7x38FIUicnNG0JsGD1dY
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = "Das ist ein Hund."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,9]
+1	𓍿𓊃𓅓𓏲𓄛𓏤	177290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯzm
+2	𓅯𓄿𓏭	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+
+# sent_id = IBUBd5DD6iRz90P0sWAPgCIFhqk
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann sagte der Prinz zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓄡𓂋𓂧𓏲𓀔𓅆	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6xQe3cAV0GzsVnuk1RLaR8
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = "Lass mir einen Ebensolchen bringen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,9]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓏎𓈖𓏏𓏲	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓌡𓂝𓏤𓀀𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+6	𓏇𓇋𓐪𓂧𓏌𓏲𓏛	851525	ADP	preposition	_	_	_	_	Translit=mj-qd
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0argLw1dUE3sFvOaDFhfjc
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Da sagte Seine Majestät - LHG:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,10]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+
+# sent_id = IBUBd7WNYU7VJkQtmyHTwTu7w1c
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann setzte man ihn auf das östliche Ufer über.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓍑𓄿𓇋𓇋𓏏𓊛𓏏𓏲	181780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏꜣi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+8	𓂋𓂧𓌗𓏏𓈇𓏤	93830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rwḏ
+9	𓋁𓃀𓏏𓈇𓏤	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+
+# sent_id = IBUBdzsWl5SieUwIu2ujJEmfWEQ
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann zog er seinem Wunsch entsprechend nordwärts in die Fremde, während er von allem Vieh des Berglandes lebte.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,2] - [5,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓐍𓂧𓊛	122000	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫdi̯
+5	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+6	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+10	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+11	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓁶𓏤𓈖𓇋𓄿𓏲𓏏𓊑𓄛𓏫	850078	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp-n-ꜥw.t
+15	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+16	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+17	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+
+# sent_id = IBUBd2PektnTcU8gp8W5JBMysSs
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Nun war ihr ein Haus gebaut worden, dessen Fenster 70 Ellen vom Boden entfernt war.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,4] - [5,5]
+1	𓇋𓋴𓏲𓏏	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓀨𓀜	162420	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qd
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓌡𓂝𓏤𓀀𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+6	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓋴𓄞𓂧𓍼𓉐	145880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sšd
+11	𓍯𓄿𓇋𓇋𓈐𓂻	42550	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+12	𓎆𓎆𓎆𓎆𓎆𓎆𓎆	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓈖𓂝	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+14	𓎔𓂝𓏤	73330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+17	𓃛𓏲𓏏𓈖𓈇𓏥	33120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+
+# sent_id = IBUBdwQ0UY3sxkawiCiy7WdiEBk
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann ließ er alle Söhne aller Fürsten des Landes Syrien holen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓏎𓈖𓏏𓏲	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+6	𓈙𓂋𓇋𓅪𓀀𓏫	156650	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šrj
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓀗𓏲𓀀𓏥	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+10	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+13	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+14	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+15	𓆼𓄿𓃭𓏤𓌙𓈉	119580	PROPN	entity-name	_	_	_	_	Translit=ḫr
+
+# sent_id = IBUBd6gkf7syaEhQud75PGMSetU
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = "Was den betrifft, der das Fenster meiner Tochter erreichen wird: Dem wird sie zur Frau (gegeben)."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,5] - [5,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓄖𓂻	61370	VERB	verb	VerbForm=Fin	_	_	_	Translit=pḥ
+8	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓋴𓄞𓂧𓍼𓉐	145880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sšd
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓈙𓂋𓇋𓅪𓏏𓁐	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+14	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+15	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+16	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+
+# sent_id = IBUBdxA3Dew2EUoRhkD3gHXEd0E
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Da nahmen sie den Prinzen mit in ihr Haus.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,7] - [5,8]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓎁𓏏𓏏𓀜	33560	VERB	verb	VerbForm=Fin	_	_	_	Translit=jṯi̯
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓄡𓂋𓂧𓀔𓅆	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+9	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+10	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+
+# sent_id = IBUBdWq4iVGJNE68qdhTyExjckk
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann wuschen sie ihn.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓃂𓈗	44430	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜥb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2BWiYnqC0y4hvS6Nfl3JJ0
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann gaben sie seinem Pferdegespann Futter.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,8] - [5,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓏶𓅓𓏲𓌾𓏥	46740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnm.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎛𓏏𓂋𓇋𓆵𓄛𓏫	111800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtr
+
+# sent_id = IBUBdQReQe6Aekv8q6kuwtuMuWQ
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann versorgten sie den Prinzen (wörtl.: Dann taten sie für den Prinzen jede Sache).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓄡𓂋𓂧𓏲𓀔𓅆	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+
+# sent_id = IBUBd5VBbrIrLE8IlQ6WEBauu90
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann salbten sie ihn.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴𓎼𓈖𓏋𓏫	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdznCadFCsEldkyESlPAH30I
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann bandagierten sie seine beiden Füße.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓐎𓏏𓏲𓏛𓀜	50980	VERB	verb	VerbForm=Fin	_	_	_	Translit=wt
+5	𓂋𓂧𓂾𓂾𓄹	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1FMPOoWVEuHlOkQXr7x80w
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann gaben sie seinem Gefolgsmann Speise.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,9] - [5,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓅧𓈎𓏲𓏒𓏥	41470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥq.w
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓌞𓋴𓏲𓂻	155030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+
+# sent_id = IBUBdzSf2aXb1khpiQfVI5M38G8
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann sagten sie zu ihm gesprächsweise (wörtl.: in der Art eines Gesprächs):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓋴𓆓𓂧𓀁𓏫	150950	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sḏd.w
+
+# sent_id = IBUBdzeMBR2sOkJ0v9iFnwaBnAU
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Meine Mutter starb.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅐𓏏𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓅓𓏏𓏱	69300	VERB	verb	VerbForm=Fin	_	_	_	Translit=mwt
+
+# sent_id = IBUBdzhQc9eiFEiQoV8LRJj4gvA
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann nahm sich mein Vater eine andere Frau, (meine) Stiefmutter (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,11] - [5,12]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+10	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+11	𓇍𓇋𓇋𓏏𓂻𓄟𓋴𓇋𓇋𓏯𓏥	21370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jy-ms.y
+
+# sent_id = IBUBdQ2DaKY47EdsoCQiYK6WBt4
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann umarmten sie ihn.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,12] - [5,13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈎𓈖𓇋𓏲𓂘𓂡	161170	VERB	verb	VerbForm=Fin	_	_	_	Translit=qnj
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWMZ1iTDi096updw6LUzPGw
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann gingen sie, um zu springen, wie es an jedem Tag ihre Beschäftigung (war).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓊪𓏲𓇋𓇋𓏏𓏭𓏫	58780	VERB	verb	VerbForm=Fin	_	_	_	Translit=pꜣi̯
+7	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+8	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+9	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+10	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+11	𓏏𓈖𓏌𓏲𓌙𓅯𓏛	175840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ṯnw
+12	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+
+# sent_id = IBUBdW6xhcGnYETsocw8cQJzjCE
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann stand der Prinz von Ferne da und schaute zu.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,3] - [6,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓄡𓂋𓂧𓏲𓀔𓅆	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓊢𓂝𓂻	851887	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜥ
+6	𓍯𓄿𓏲𓏲𓈐𓂻	42640	ADV	adverb	_	_	_	_	Translit=wꜣ.w
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓈖𓍇𓏌𓏲𓁻	80800	VERB	verb	VerbForm=Fin	_	_	_	Translit=nwꜣ
+
+# sent_id = IBUBdxyGtTvoIEwipNseNPJ8nQg
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann lag der Blick (wörtl.: das Gesicht) der Tochter des Fürsten von Naharina auf ihm.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+6	𓈙𓂋𓇋𓅪𓏏𓁐	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓀗𓀀	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓈖𓄿𓉔𓄿𓂋𓈖𓀁𓈖𓄿𓌙𓈉	85740	PROPN	entity-name	_	_	_	_	Translit=Nhrn
+12	𓁷𓏤𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4gPoWRa0EDLuT3qKNKTFRY
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann sprang er.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊪𓏲𓇋𓇋𓏏𓏯𓏫	58780	VERB	verb	VerbForm=Fin	_	_	_	Translit=pꜣi̯
+
+# sent_id = IBUBdQEkPJM0j04ugHmrrlLX7Lg
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann erreichte er das Fenster der Tochter des Fürsten von Naharina.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄖𓂻	61370	VERB	verb	VerbForm=Fin	_	_	_	Translit=pḥ
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓋴𓄞𓂧𓍼𓉐	145880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sšd
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+9	𓈙𓂋𓇋𓅪𓁐	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+12	𓀗𓀀	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+13	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+14	𓈖𓄿𓉔𓄿𓂋𓈖𓀁𓈖𓄿𓌙𓈉	85740	PROPN	entity-name	_	_	_	_	Translit=Nhrn
+
+# sent_id = IBUBd7MloJZ4vERghcBVwu6YLO8
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann küsste sie ihn.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊃𓈖𓈖𓏭𓂉𓄹	136240	VERB	verb	VerbForm=Fin	_	_	_	Translit=sn
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQzbkANNSEMBg8SRBMgXChM
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann umarmte sie ihn an seinem gesamten Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,6] - [6,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈎𓈖𓇋𓏲𓂘𓂡	161170	VERB	verb	VerbForm=Fin	_	_	_	Translit=qnj
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd15ZiyiecUaWg9zGCH6Fg3Q
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Da ging man, um ihren Vater zu informieren (wörtl.: um das Herz ihres Vaters zu erfreuen).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,7]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+8	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+11	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+12	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+
+# sent_id = IBUBd0TmqmA9gEX6oNATeILZMj4
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann sagte man zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4sKvzHrBUOQqDJp1MhtDGY
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Da wurde der Fürst von Naharina gar sehr wütend.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,9] - [6,10]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓀗𓀀	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓈖𓄿𓉔𓄿𓂋𓈖𓀁𓈖𓄿𓌙𓈉	85740	PROPN	entity-name	_	_	_	_	Translit=Nhrn
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓈎𓈖𓂧𓏏𓏯𓀜	161520	VERB	verb	VerbForm=Fin	_	_	_	Translit=qnd
+8	𓂋𓉻𓏏𓏛𓅨𓂋𓏏𓏛	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdwWJFS7Aa0rWrhTVBGAWoQM
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Da sagte er:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,10]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+
+# sent_id = IBUBd4n6YdAWf0lWsQl8gRGxfqs
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Veranlasst, dass er wieder geht!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,11]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈝𓅓𓏏𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂝𓈖𓂽	38050	ADV	adverb	_	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBd3F1ZeW3l039l9VwTwKW9HI
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann hielt die Tochter ihn fest.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,12]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓈙𓂋𓇋𓏲𓅪𓏏𓁐	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓏏𓏲	854514	VERB	verb	VerbForm=Fin	_	_	_	Translit=mḥ
+6	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5wJWcxzKEzjndpNmQQNeHQ
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann beschwor sie den Gott:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,12]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂝𓂋𓈎𓍼𓏥𓀁	39650	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥrq
+5	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+6	𓅓𓆓𓂧	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+
+# sent_id = IBUBd5NmCHOe70QOmEFGRHm2dc4
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = er war (indessen) an seinem Platz.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,15]
+1	𓇓𓏲	851203	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3RcvtWL1UelkFGqbQhMOM4
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann umarmte er ihn.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈎𓈖𓇋𓏲𓂘𓂡	161170	VERB	verb	VerbForm=Fin	_	_	_	Translit=qnj
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyiiC8R9bEGQpWobQjQ92mI
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann küsste er ihn an seinem ganzen Körper.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊃𓈖𓈖𓏭𓂉𓄹	136240	VERB	verb	VerbForm=Fin	_	_	_	Translit=sn
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBdzldbANNvUcMt4uS9hy9FTM
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann sagte er zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0lCqoVlSk7OjIRaP0GAObM
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = "Erzähle mir von deinen Lebensumständen (wörtl.: Sag mir deinen Zustand/deine Gestalt)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,2]
+1	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḏd
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓈎𓄿𓇋𓀾𓏛	159670	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qj
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQdgWz2kVEgJvxma4bNwR3w
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann sagte er zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWtdqZOAIEitkVUBDiDNaeE
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann starb meine Mutter.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅐𓏏𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓅓𓏏𓏱	69300	VERB	verb	VerbForm=Fin	_	_	_	Translit=mwt
+
+# sent_id = IBUBdyc5HE8lKk6Sotd90RYQNtw
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann begann sie, mich zu hassen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆣𓂋𓏲	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓄟𓋴𓂧𓏏𓇋𓇋𓅪	76210	VERB	verb	VerbForm=Fin	_	_	_	Translit=msḏi̯
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd1Bab0HPYUhSibQKXI5ghW0
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann kam ich flüchtig vor ihr (hierher)."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓇍𓇋𓇋𓏏𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏲𓂝𓂋𓂾𓂻	44680	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜥr
+7	𓂋𓄂𓏏𓏤	500053	ADP	preposition	_	_	_	_	Translit=r-ḥꜣ.t
+8	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd8WPVWQiek9DocXsqyApJSI
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Da gab er ihm seine Tochter zur Ehefrau.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,4]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓈙𓂋𓇋𓅪𓁐	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+
+# sent_id = IBUBd2O02VMCZEvos1falHdwzDE
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann gab er ihm ein Haus und Felder, gleichermaßen Kleinvieh und jeglichen schönen Besitz.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,4] - [7,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+8	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+9	𓄿𓎛𓏏𓈇𓏫	191	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣḥ.t
+10	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+11	𓇋𓄿𓏲𓏏𓊑𓄛𓏫	35870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥw.t
+12	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+13	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+14	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+
+# sent_id = IBUBdyehU9RqcEZgpk2Q0DWhfgY
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Da sagte sie zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,6]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0eLXjnTSEVNkCWx5NScn2k
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Nun war (auch) ein "Starker" darin.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,11]
+1	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓌡𓂝𓏤𓀀𓈖	600042	PRON	pronoun	_	_	_	_	Translit=wꜥ-n
+3	𓈖𓆱𓐍𓏏𓏲𓅆	87690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫt.j
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2gpUWY2N09bjgNbUcmkeYU
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann bemächtigte sich der Schlaf seines Körpers.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,15]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓐪𓂧𓏌𓏲𓁻	162470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qd.t
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌂𓅓𓏲𓀜	851679	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫm
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWriMeI0p0QbufkfVKRMHDo
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann trank sie.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	VerbForm=Fin	_	_	_	Translit=zwr
+
+# sent_id = IBUBd5xsXQSER0twhnL1eaGq6W8
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann wurde sie betrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏏𓐍𓏲𓏋𓀜	173110	VERB	verb	VerbForm=Fin	_	_	_	Translit=tḫi̯
+
+# sent_id = IBUBd9XM7Zv2aEA7tNlWaioW40k
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann sagte sie zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd19uwmLPC0vFqAyWXoHGru0
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = "Siehe, dein Gott gab dir eines deiner Schicksale in deine Hand!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,5]
+1	𓊪𓏏𓂋𓇋𓆵𓁻	62910	INTJ	interjection	_	_	_	_	Translit=ptr
+2	𓂞𓏲	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+6	𓌡𓂝𓏤𓀀	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓈖𓄿𓇋𓇋𓏥	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓆷𓄿𓇋𓇋𓏱𓏥	151300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šꜣ.w
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd4WiPKAP1E64vWb692dmR70
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Nun war sein Hund bei ihm.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,8]
+1	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓃛𓏲𓏏𓈖𓄛𓏤	21970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jw
+5	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6hXowQ0n01Tt2zWDGJPdBI
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Dann nahm es ihn dorthin, wo der "Starke" war.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓎁𓏏𓏏𓀜	33560	VERB	verb	VerbForm=Fin	_	_	_	Translit=jṯi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+8	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+9	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+10	𓈖𓆱𓐍𓏏𓅆𓀜𓀀	87690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫt.j
+11	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd9Zaa6EvJ06msAa9jdsK14o
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = "He, ich bin dein Schicksal, das hinter dir hergekommen ist!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,11]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+3	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓆷𓄿𓇋𓇋𓏱𓏥	151300	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šꜣ.w
+6	𓁹𓇋𓇋𓏏𓏛	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓂻𓏲𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+8	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQ35cTfLVUBVjjfthWPQ5fk
+# corpus = sawlit
+# src_text_id = MTBRL3MIIJDKXAOF2336WRLMZA
+# src_text = sawlit:pHarris 500〈 ⸗ pBM EA 10060〉//Verso 4-8: Das Prinzenmärchen
+# owner = Lutz Popko
+# text_de = Siehe aber, ich werde dich freilassen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,12]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓊪𓏏𓂋𓇋𓆵𓁻	62910	INTJ	interjection	_	_	_	_	Translit=ptr
+3	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆼𓄿𓂝𓂻	113560	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜣꜥ
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

@@ -1,0 +1,165 @@
+# sent_id = IBUBdwNj90NqN0GGkfqtUKkLDHA
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = zu dem das, was ist und nicht ist, kommt,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.2]
+1	𓂻𓅱	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jwi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖𓏏𓏏𓅪	89760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=n.tjt
+5	𓂜𓏏𓏏𓅪	550302	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jw.tjt
+
+# sent_id = IBUBd9vQ2hW7iUbFvMWOox9bdYc
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Oberster von Tadjeser und Arqetheh,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.2] - [A.3]
+1	𓁷𓏤	108310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥr.j
+2	𓇾𓈅𓂦𓂋𓈉	169370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tꜣ-ḏsr
+3	𓂝𓂋𓈎𓏏𓏭𓁨	39730	PROPN	entity-name	_	_	_	_	Translit=Ꜥrq-ḥḥ
+
+# sent_id = IBUBd6cX7LC5eUPDuXwlqdt8UHE
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Abydos ist in "Schutz-der-Erde" für den Gott, der in seiner Form erscheint.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4]
+1	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓀸𓇾𓈇𓏤	126140	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=Zꜣ-tꜣ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+6	𓈍𓂝	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇋𓁹𓅱𓀾	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6vC5KsXskK3rydy3WugIzQ
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Der Versorgte, der Vorsteher der Rinder, Intef, der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓇋𓄪𓐍𓇋𓇋	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓄓𓂋𓂸𓃒𓏩	600270	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-jḥ.w
+3	𓏎𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBdyNCWlLcBUYzm2e7FHcGih4
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Seine Ehefrau, die er liebt, Zentu-anch, die Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓈞𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓈖𓏏𓅱𓋹	860743	PROPN	entity-name	_	_	_	_	Translit=Zntw-ꜥnḫ
+6	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBdwImLeeXAkIylWuDgzjITrE
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Senebebu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓋴𓈖𓃀𓃀𓅱	400115	PROPN	entity-name	_	_	_	_	Translit=Snbb.w
+
+# sent_id = IBUBd2cy8ZUad0dHrkZ6EGITXN0
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Sein Sohn, M...?..., der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓂝𓐍𓏏	850830	PROPN	entity-name	_	_	_	_	Translit=-
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd4Es1TdPekH9iklFCYiQkKU
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Sein Sohn, Nacht(?), der Gerechtfertigte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖𓆱𓐍𓏏	550087	PROPN	entity-name	_	_	_	_	Translit=Nḫt
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd16fuj079Uock02OqqOExJ8
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Die Dienerin Iret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.6]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓁹𓂋𓏏	400740	PROPN	entity-name	_	_	_	_	Translit=Jr.t
+
+# sent_id = IBUBd3I1YhFwa0JclJPznAWAHBc
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Die Dienerin Senen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.7]
+1	𓍛𓏏	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓋴𓈖𓈖	706918	PROPN	entity-name	_	_	_	_	Translit=Snn
+
+# sent_id = IBUBd8fp1R3xO0gxrzDnnGWMD9o
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Seine Tochter Kemet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.8]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎡𓅓𓏏𓏐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdWY8RIPUAUadrVktt4P5x8g
+# corpus = sawlit
+# src_text_id = OIYODBZ74RHM7OPTR72OLCMJ3A
+# src_text = sawlit:Stele des Antef (Glasgow D1922.13)//〈Stele des Antef (Glasgow D1922.13)〉
+# owner = Alexander Schütze
+# text_de = Der Königsdiener(?) Sobekhotep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.11]
+1	𓇓𓍛	851166	_	epitheton-title	_	_	_	_	Translit=ḥm-nswt
+2	𓆍𓊵	400122	PROPN	entity-name	_	_	_	_	Translit=Sbk-ḥtp.w
+

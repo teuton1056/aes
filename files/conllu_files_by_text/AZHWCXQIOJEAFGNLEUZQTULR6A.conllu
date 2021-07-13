@@ -1,0 +1,31 @@
+# sent_id = IBUBd6uq8nwwmUEFpvgDKJFwQsk
+# corpus = bbawgrabinschriften
+# src_text_id = AZHWCXQIOJEAFGNLEUZQTULR6A
+# src_text = bbawgrabinschriften:Nord-Scheintür//rechter Innenpfosten
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+
+# sent_id = IBUBd5r3bvqTYkInt3vusrQZpBo
+# corpus = bbawgrabinschriften
+# src_text_id = AZHWCXQIOJEAFGNLEUZQTULR6A
+# src_text = bbawgrabinschriften:Nord-Scheintür//rechter Innenpfosten
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das [der König] gibt: Ein Totenopfer für ihn täglich und ewiglich.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓉓𓏖	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+7	𓆓𓏏𓐚	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+

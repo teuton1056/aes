@@ -1,0 +1,27 @@
+# sent_id = IBUBd0PTHhYTeUpgqO0RdkTK53Y
+# corpus = bbawgrabinschriften
+# src_text_id = P5JLGGL47NGTHLCTS3YN5WYXHM
+# src_text = bbawgrabinschriften:Scheintürtafel//〈Text〉
+# owner = Stefan Grunert
+# text_de = Die Miteret (Frauentitel) Ischepet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.2]
+1	𓏇𓂋𓏏𓐚	68570	_	epitheton-title	_	_	_	_	Translit=mjtr.t
+2	𓇋𓈙𓊪𓏏	710547	PROPN	entity-name	_	_	_	_	Translit=Jšpt
+
+# sent_id = IBUBdQxIwbVQj0J9rvG2MgDYpoQ
+# corpus = bbawgrabinschriften
+# src_text_id = P5JLGGL47NGTHLCTS3YN5WYXHM
+# src_text = bbawgrabinschriften:Scheintürtafel//〈Text〉
+# owner = Stefan Grunert
+# text_de = Weihrauch, Frucht des Christusdornes, Wein (Getränk), Erdmandel (Rhizomknollen), Weihrauch.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓊹𓋴𓍿	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓈖𓋴𓃀	82810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbs
+3	𓇋𓂋𓊪	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+4	𓇹𓎛𓅱𓂝	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+5	𓋴𓊹𓍿	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+

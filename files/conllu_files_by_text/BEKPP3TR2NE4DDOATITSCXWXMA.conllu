@@ -1,0 +1,39 @@
+# sent_id = IBUBd3axlTozmkSNsX94uh3NUMQ
+# corpus = bbawgrabinschriften
+# src_text_id = BEKPP3TR2NE4DDOATITSCXWXMA
+# src_text = bbawgrabinschriften:Speisetisch-Szene//linke Seite
+# owner = Stefan Grunert
+# text_de = Sein Sohn Ihy-em-zaef.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓎛𓇋𓇋𓅓𓎃𓆑	710452	PROPN	entity-name	_	_	_	_	Translit=Jḥy-m-zꜣ⸗f
+
+# sent_id = IBUBd3E8uLuCq0hItl1iaJY6ivk
+# corpus = bbawgrabinschriften
+# src_text_id = BEKPP3TR2NE4DDOATITSCXWXMA
+# src_text = bbawgrabinschriften:Speisetisch-Szene//linke Seite
+# owner = Stefan Grunert
+# text_de = Seine Tochter Iiti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇍𓍘𓇋	700771	PROPN	entity-name	_	_	_	_	Translit=Jy.tj
+
+# sent_id = IBUBd25gaySRQkahs4sCQJQ2E6A
+# corpus = bbawgrabinschriften
+# src_text_id = BEKPP3TR2NE4DDOATITSCXWXMA
+# src_text = bbawgrabinschriften:Speisetisch-Szene//linke Seite
+# owner = Stefan Grunert
+# text_de = Seine Tochter Chuit-en-Horus.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓁷𓂋𓐍𓅱𓏏𓈖	705522	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+

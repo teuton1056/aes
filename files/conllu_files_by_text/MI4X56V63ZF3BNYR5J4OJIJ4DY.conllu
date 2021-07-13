@@ -1,0 +1,313 @@
+# sent_id = IBUBd249AMYEZUsIglsiXBRk6Z8
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du rufst zu Re, Chepri hört und Atum antwortet dir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1] - [2]
+1	𓂝𓈙𓀞	40890	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥš
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇳𓏤𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓄔𓐝𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+6	𓆣𓂋𓀭	116350	PROPN	entity-name	_	_	_	_	Translit=Ḫpr.j
+7	𓅱𓈙𓃀	50340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wšb
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓏏𓍃𓐝𓅱𓀭	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+
+# sent_id = IBUBdQiXwm0PtUD0gX9ut6GpkQY
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Der Allherr möge das tun, (womit) du zufrieden bist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2] - [3]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓎟𓂋𓇥𓂋𓀭	82220	_	epitheton-title	_	_	_	_	Translit=nb-r-ḏr
+3	𓋔𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+4	𓉔𓂋𓏏𓏛𓏥	99050	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=hru̯
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdxykVQ30eULAtmj7CPMkqzs
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Der mit verborgenem Namen möge dich begrüßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓅱𓄞𓂧𓀁	50700	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wšd
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓇋𓏠𓈖𓏤𓀃𓂋𓈖𓆑	26270	_	epitheton-title	_	_	_	_	Translit=jmn-rn⸗f
+
+# sent_id = IBUBdwFTrJTug0ZenhBKd3wPZMs
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Die Sonnenscheibe möge auf deine Brust scheinen
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3] - [4]
+1	𓊪𓊃𓂧𓇶	62420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psḏ
+2	𓇋𓏏𓈖𓇳	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓍲𓈖𓃀𓏏𓄹	156060	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šnb.t
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0sSsx76lU3Hk88i1gOT5E4
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = und sie möge deine (Grab)höhle erleuchten.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4]
+1	𓇉𓄿𓇋𓇋𓇶	100730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣy
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈎𓂋𓂋𓏏𓉐	854566	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qrr.t
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWwTrQaQaE0agrtTc1sWagk
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Der Westwind möge richtig für dich an deiner Nase sein,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4] - [5]
+1	𓂝𓈎𓌙𓌙𓏛	41310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥqꜣ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋀𓊡	26160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmn.tj
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑𓂧𓈖𓂉𓏤𓄹	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5ik0jSbXEBcg8AVVFfLx7g
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = und der Nordwind möge für dich heulen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓇘𓊡	154730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmꜥ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎔𓎛𓏏𓊡	73860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḥ.yt
+
+# sent_id = IBUBd6cNW9qdTUo0s1gTDPixIOs
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Dein Mund möge an die Brüste der Hesat-Kuh geführt werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5] - [6]
+1	𓍑𓄿𓏴𓏏𓏲	181780	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏠𓈖𓂧𓂑𓂑	71720	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=mnḏ
+6	𓈖	850787	ADJ	adjective	Number=Dual|Gender=Masc	_	_	_	Translit=n.j
+7	𓎛𓏏𓊨𓃕	109540	PROPN	entity-name	_	_	_	_	Translit=Ḥzꜣ.t
+
+# sent_id = IBUBd8yu2hQjyUAeuPxVhdNQ9Z8
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest rein sein, um die Sonnenscheibe zu sehen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6]
+1	𓅨𓏏𓂋𓇋𓌟	854576	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=twr
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓌵𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+5	𓇋𓏏𓈖𓇳	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+
+# sent_id = IBUBdxDncW2N0kKGiip5lWsSzDY
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest dich im göttlichen Wasser (?) reinigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6] - [7]
+1	𓃂	44430	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜥb
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+6	𓊹𓂋𓏏𓈗𓈘	400281	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nṯr.j
+
+# sent_id = IBUBd5MrqoQlq0Z8jMdaWJzYQq4
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest dich zu den Unterweltlichen (?) gesellen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓈙𓃀𓈖𓏌𓏴𓏛	153490	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šbn
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇼𓏏𓅱𓇋𓇋𓀢𓏥	853472	PROPN	entity-name	_	_	_	_	Translit=Dwꜣ.tyw
+
+# sent_id = IBUBd1g4cVQQsExVsxioPZ4ZTxw
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest deine Gestalten annehmen so, wie du gewünscht hast.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7] - [8]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓁹𓏲𓀾𓏛𓏥	29610	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jr.w
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓌻𓂋𓈖	72470	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdx2Qjc3HRkCAiFYNUQkQaWc
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest Den mit zahlreichen Erscheinungsformen preisen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8]
+1	𓊃𓈖𓋴𓏲𓀁	138090	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snsi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓆈𓏥𓆣𓏥	853285	_	epitheton-title	_	_	_	_	Translit=ꜥšꜣ-ḫpr.w
+
+# sent_id = IBUBdxxKhxfULUmZlcNCgM61rYo
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Sie sehen dir ähnlich, diese insgesamt (?)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8] - [9]
+1	𓏏𓅱𓏏𓀾𓏛	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+5	𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+6	𓂋𓄫𓏲𓏛𓏥	91930	ADP	preposition	_	_	_	_	Translit=r-ꜣw
+
+# sent_id = IBUBd2tJNPjA1U4To1PGFnTCwTY
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Alle deine Körperglieder sind vollständig.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9]
+1	𓂝𓏏𓄹𓄹𓄹	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+4	𓏏𓍃𓐝𓏛	854578	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=tm
+
+# sent_id = IBUBd7wMN8W3A0o2jgdnX5yMM4M
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest gerechtfertigt sein bei Re.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9]
+1	𓐙𓊤	66730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜥ-ḫrw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+4	𓇳𓏤𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd0QfZTIGyUlQvYggXQXWwEU
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest dauerhaft sein bei Osiris.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9] - [10]
+1	𓊽𓊽𓏛	854593	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏdi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+4	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBdzuXsZpnV0gBsirFv64s6Ek
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Empfange Opfer vom Besten, damit du das Gleiche wie auf Erden isst.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10]
+1	𓊏𓊪𓂡	157160	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šzp
+2	𓊵𓏏𓏥	111360	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtp.t
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓃀𓄤	55220	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bw-nfr
+5	𓏶𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+8	𓁶𓏤	850801	ADP	preposition	_	_	_	_	Translit=tp
+9	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdz6NGvSWR0cUtlazVJI0Hw0
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest dich in Frieden mit dem (Grab)haus vereinigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [11]
+1	𓎸𓅓𓏛	123420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖnm
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓉗𓏏𓉐	99790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥw.t
+4	𓐝𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd2L6wiR9l06moPpiheQQ7uY
+# corpus = sawlit
+# src_text_id = MI4X56V63ZF3BNYR5J4OJIJ4DY
+# src_text = sawlit:Tjanefer (TT 158), Lied 2//Harfnerlieder Text H
+# owner = Lutz Popko
+# text_de = Du mögest aufgerufen werden, um die Bitten eines Großen zu erzählen, damit du tugendhaft handelst, (o) Osiris Tjanefer, Gerechtfertigter!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [13]
+1	𓈖𓇋𓋴𓀞𓏏𓏲	80210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=njs
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓄭𓂋𓏏𓏥	132870	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=spr.t
+6	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+7	𓅨𓂋	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+8	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓐙	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+11	𓁹𓊨𓀭	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+12	𓅷𓄤	_	X	unknown	_	_	_	_	_
+13	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+

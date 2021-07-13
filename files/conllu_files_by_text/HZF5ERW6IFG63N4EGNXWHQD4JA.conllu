@@ -1,0 +1,48 @@
+# sent_id = IBUBd8QZ61qBMkTIo2Vn7vXz9B8
+# corpus = bbawgrabinschriften
+# src_text_id = HZF5ERW6IFG63N4EGNXWHQD4JA
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ausgewählte Dinge: Tausend an Geflügel, tausend an Geflügel, tausend an Rind, tausend an Rind, tausend an Brot, tausend an Fladen, tausend an Bier.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unter Opfertisch⁝1] - [unter Opfertisch⁝3]
+1	𓋴𓍉𓏏𓊪	148140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=stp.t
+2	𓅿	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+4	𓅿	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+5	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+6	𓃾	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+7	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+8	𓃾	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+9	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+10	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+11	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+12	𓈀	62200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pzn
+13	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+14	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+15	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBdW72W8gNW0Zcq4O3tvhWoN8
+# corpus = bbawgrabinschriften
+# src_text_id = HZF5ERW6IFG63N4EGNXWHQD4JA
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Hab-her-seneferef.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [mittleres Register]
+1	𓉲𓎱𓁷𓂋𓋴𓄤𓂋𓆑	854049	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-ḥr-snfr⸗f
+
+# sent_id = IBUBd51tR1txjkkPh3Qhwmrxk3w
+# corpus = bbawgrabinschriften
+# src_text_id = HZF5ERW6IFG63N4EGNXWHQD4JA
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unteres Register]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+

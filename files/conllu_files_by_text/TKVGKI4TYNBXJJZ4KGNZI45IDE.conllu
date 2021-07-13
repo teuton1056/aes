@@ -1,0 +1,29 @@
+# sent_id = IBUBd0tiWtM9dERuq4E7WouxXco
+# corpus = bbawtempelbib
+# src_text_id = TKVGKI4TYNBXJJZ4KGNZI45IDE
+# src_text = bbawtempelbib:pCarlsberg 307 + pFlorenz PSI inv. I 79 + pBerlin P 14473a//Tägliches Ritual für Sobek den Herrn von Beten (Tebtynis)
+# owner = Frank Feder
+# text_de = "Ein Hetep-di-nisut-Opfer; (denn) ich bin rein"!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [1,5]
+1	𓇓𓏏𓈖𓏙𓊵𓏏𓊪𓈀𓏥	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓃂𓈗𓎡𓏲𓀀	44430	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=wꜥb
+
+# sent_id = IBUBd67Qy91BMka5jZnU8iQB10w
+# corpus = bbawtempelbib
+# src_text_id = TKVGKI4TYNBXJJZ4KGNZI45IDE
+# src_text = bbawtempelbib:pCarlsberg 307 + pFlorenz PSI inv. I 79 + pBerlin P 14473a//Tägliches Ritual für Sobek den Herrn von Beten (Tebtynis)
+# owner = Frank Feder
+# text_de = "(Auch) ich habe dazu meine Krallen herausgestreckt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = unknown
+# lineRef = [2,8]
+1	𓊃𓈙𓉿𓂡𓈖	144320	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂝𓈖𓏌𓏲𓂷𓏏𓄹𓏥	38130	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥn.t
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓇋𓅓𓏛	24640	ADV	adverb	_	_	_	_	Translit=jm
+

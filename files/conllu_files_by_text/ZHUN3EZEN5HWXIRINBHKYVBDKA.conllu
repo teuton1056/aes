@@ -1,0 +1,61 @@
+# sent_id = IBUBd82dAkQhdkw3sWEbYupTRqc
+# corpus = sawlit
+# src_text_id = ZHUN3EZEN5HWXIRINBHKYVBDKA
+# src_text = sawlit:〈01. 〉oMünchen 3400//Die Lehre des Hordjedef
+# owner = Peter Dils
+# text_de = Hüte dich, daß ein anderer dich reinigen wird (d.h. dich korrigiert)!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓀸𓄿𓏲𓏛𓀜	126290	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zꜣu̯
+2	𓂝𓃀𓏲𓄐𓏛	36310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥb
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓎢𓇋𓇋𓀀	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+
+# sent_id = IBUBd907d92V00Y3ohPaDA3qlTA
+# corpus = sawlit
+# src_text_id = ZHUN3EZEN5HWXIRINBHKYVBDKA
+# src_text = sawlit:〈01. 〉oMünchen 3400//Die Lehre des Hordjedef
+# owner = Peter Dils
+# text_de = (Dann) möge dir ein männlicher Nachkomme (wörtl.: männlicher Sohn) geboren werden. (Pause: Strophenende)
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓏏𓅱	74950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+5	𓅷𓄿𓇋𓇋𓂺	174250	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+6	𓂢	167900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+
+# sent_id = IBUBd8Rio1WBR0JNmCRqI3jojZg
+# corpus = sawlit
+# src_text_id = ZHUN3EZEN5HWXIRINBHKYVBDKA
+# src_text = sawlit:〈01. 〉oMünchen 3400//Die Lehre des Hordjedef
+# owner = Peter Dils
+# text_de = (Und) mache deine Stätte des Westens funktionsfähig!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4]
+1	𓋴𓇋𓈎𓂋𓏛	128590	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sjqr
+2	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓋀𓏏𓏏𓈇𓏤	26180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.tjt
+
+# sent_id = IBUBdyQW0GvXj0i3qB0YjLFA1tQ
+# corpus = sawlit
+# src_text_id = ZHUN3EZEN5HWXIRINBHKYVBDKA
+# src_text = sawlit:〈01. 〉oMünchen 3400//Die Lehre des Hordjedef
+# owner = Peter Dils
+# text_de = (Denn) das Haus des Todes gehört dem Leben (oder: ist für das Leben (bestimmt)). (Pause: Strophenende)
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr
+3	𓅓𓏏𓏱𓏏	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓋹𓈖𓐍	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+6	𓂢	167900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+

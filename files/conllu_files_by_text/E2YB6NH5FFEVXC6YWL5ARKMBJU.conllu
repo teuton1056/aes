@@ -1,0 +1,2859 @@
+# sent_id = IBcCiVkWk6QJgEIqisQopZOcRPc
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ḥnḥn.t$-Geschwulst an der Kehle eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [103,19]
+1	𓈙𓊃𓐟𓄿𓏲𓏯𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓎛𓆰𓈖𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄈𓏏𓄹	111160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥty.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCiUf5xh1f7UYlkjE0j6N1LWM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du dieses, infolge einer Verschiebung des $ꜥr.wt$-Stoffes, der an der Vorderseite ist, an der Kehle eines Mannes feststellst,   (und) findest du sie wie etwas vor, in/an (?) dem „Kleidung“ ist,    indem sie weich ist unter deinen Fingern (und)   etwas darauf wie $pꜥpꜥ.yt$-Stoffe ist,  dann musst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [103,19] - [104,2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄈𓏏𓄹	111160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥty.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+9	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+10	𓏲𓂧𓏏𓏴	51490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wd.t
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓂝𓂋𓅱𓏏𓆇𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+13	𓏶𓅓𓏏	25130	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jm.j
+14	𓄂𓏏𓏤	100310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
+15	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+16	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+17	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+18	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+19	𓈖𓏏𓏏	89850	PRON	pronoun	VerbForm=Fin|Mood=Ind|PronType=Rel	_	_	_	Translit=n.tj
+20	𓎛𓃀𓋴𓋳	103750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs
+21	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+22	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+23	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+24	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+25	𓎼𓈖𓈖𓀉	167540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gnn
+26	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+27	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+28	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+29	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+30	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+31	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+32	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+33	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+34	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+35	𓊪𓂝𓊪𓂝𓇋𓇋𓏏𓐎𓏥	59700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pꜥpꜥ.yt
+36	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+37	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+38	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+39	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiUHRcnyYRUVDtmmzYbZOfgU
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) einer mit einer $ḥnḥn.t$-Geschwulst aus Fett infolge einer Verlagerung des $ꜥr.wt$-Stoffes an der Kehle eines Mannes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,2] - [104,3]
+1	𓌨𓂋𓏭	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+2	𓎛𓆰𓈖𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓏲𓂧𓏏𓏴	51490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wd.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓂝𓂋𓅱𓏏𓆇𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄈𓏏𓏤𓄹	111160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥty.t
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCicm9fYhARk5wsmPap9RF83c
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, dich ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,3]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCiQa0vqa9HU3ooHrRpsOfrHg
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du (folglich) dafür Mittel machen zum Veranlassen, dass (sie) verschwindet, also (?) starke Mittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,3] - [104,4]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+8	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+13	𓍱𓊃𓅓𓏲𓈒𓏥	157490	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šsm
+
+# sent_id = IBcCiQeVhXJI2EH3nKyKFUXGDYM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = $sjꜣ$-Mineral, $twn$-Pflanzen, Fliegenblut, Galle eines Rindes, unterägyptisches Salz, Mehl von Langbohnen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,4] - [104,5]
+1	𓋷𓄿𓈒𓏥	127870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjꜣ
+2	𓏏𓃹𓈖𓆰𓏥	170310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twn
+3	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=znf
+4	𓂝𓆑𓆑𓅬𓏥	37370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥff
+5	𓃀𓈖𓆑𓆇	55810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnf
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+8	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+9	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+
+# sent_id = IBcCiYdtBqFyoUYUmJUUwS3QWpQ
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,6]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcCidbEhWQVfEHYn3qpob485PI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ḥnḥn.t$-Geschwulst, die infolge einer Verlagerung von Krankheitsauslösern (?) entstanden ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,6]
+1	𓈙𓊃𓐟𓄿𓏲𓏯𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓎛𓆰𓈖𓎛𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓆣𓂋𓏏	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓏲𓂧𓏏𓏴	51490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wd.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+
+# sent_id = IBcCiaCQHbmLFEpxiqWyNqRs638
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ḥnḥn.t$-Geschwulst feststellst, die infolge einer Verlagerung von Krankheitsauslösern (?) ((in irgendwelche(n) Körperteile(n) eines Mannes)) entstanden ist,  (und) findest du sie in der Beschaffenheit einer zersetzten $ḫnd$-Geschwulst vor,   deren Haut/Oberfläche fest ist,   aber nicht zu sehr,  (und) wenn {er}〈sie〉 (d.h. die $ḥnḥn.t$-Geschwulst) sich mit (?; oder: in Form von) Eiter im Inneren seines Körpers zersetzt,  dann musst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,6] - [104,9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎛𓆰𓈖𓎛𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+5	𓆣𓏏	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+7	𓏲𓂧𓏏𓏴	51490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wd.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓐎𓏤𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+12	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+13	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+14	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+15	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+16	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+17	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+18	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+19	𓇋𓁹𓅂𓈒𓏥	30010	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrt.w
+20	𓐍𓊃𓂧𓐎	121080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫzd
+21	𓂙𓈖𓈖𓐎	123700	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ẖnn
+22	𓂋𓏲𓂧𓌗𓏛	93780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwḏ
+23	𓇋𓆛𓈖𓌰𓅓𓁸	27420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jnm
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+25	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+26	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+27	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+28	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+29	𓂙𓈖𓈖𓐎	123700	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖnn
+30	𓆑	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+31	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+32	𓂋𓇋𓇋𓏏𓈒𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+33	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+34	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ẖnw
+35	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+36	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+37	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+38	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+39	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+40	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiZHF1XzPM069lARHNLFAqxk
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) einer mit einer $ḥnḥn.t$-Geschwulst von Krankheitsauslösern (?), nachdem sie Eiter produziert hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,9] - [104,10]
+1	𓌨𓂋	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+2	𓎛𓆰𓈖𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓐎𓏤𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+5	𓈎𓌴𓄿𓅓𓌙𓅯𓏛𓈖	854564	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qmꜣ
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+
+# sent_id = IBcCiT68goxx7EQEjRQ0RkjyFh0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,10]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCiQAy8KqayUKEvWJEYmIVQVY
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du (folglich) dafür Mittel zum Zerbrechen der Erhebungen (und zum) Holen des Eiters anfertigen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,10] - [104,11]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓋴𓂧𓄑𓏴𓂝	150110	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏ
+8	𓏏𓍯𓄿𓏲𓐎𓏥	170250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=twꜣ.w
+9	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+10	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+
+# sent_id = IBcCiWdVRDVk8kNjvDQ9OahNW2Y
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,13]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcCiYh5uQpvNkZhvZ0BUaQd764
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden, so dass er gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,13]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiaJXJHwWTkkJlZrBflOtsco
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ḥnḥn.t$-Geschwulst, die infolge einer Verlagerung des $ꜥr.wt$-Stoffe (und) von Eiter entstanden ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,13] - [104,14]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓎛𓆰𓈖𓎛𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓆣𓂋𓏏	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓏲𓂧𓏏𓏴	51490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wd.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓂝𓂋𓅱𓏏𓆇𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓂋𓇋𓇋𓇋𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+
+# sent_id = IBcCiZCekZ0970Sci3oX89TN86g
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ḥnḥn.t$-Geschwulst an der $šꜣšꜣ.yt$-Halsgegend (?) eines Mannes feststellst, die infolge einer Verlagerung des $ꜥr.wt$-Stoffes (und) von Eiter in alle(n) (mögliche(n)) Körpferteile(n) eines Mannes entstanden ist,  (und) findest du ihren Kopf spitz vor und erhoben wie eine Brust,   nachdem Eiter an ihrem Ort zusammengelaufen ist (?),  dann musst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,14] - [104,17]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎛𓆰𓈖𓎛𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆷𓄿𓆷𓄿𓇋𓇋𓏏𓄹	152040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜣšꜣy.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+9	𓆣𓂋𓏏	854383	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr
+10	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+11	𓏲𓂧𓏏𓏴	51490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wd.t
+12	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+13	𓂝𓂋𓅱𓏏𓆇𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+14	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+15	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+18	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+19	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+20	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+21	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+22	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+23	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+24	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+25	𓇮𓏛	500142	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=spd
+26	𓃀𓍯𓄿𓀢𓏛	55260	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=bwꜣ
+27	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+28	𓏠𓈖𓂧𓂑𓄹	71720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḏ
+29	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+30	𓊪𓎛𓏏𓂻𓍘𓇋	61590	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=pḥrr
+31	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+32	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+33	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+34	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+35	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+36	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+37	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCicC4zQD2MEMMvKcsqzgEEcI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) einer mit einer $ḥnḥn.t$-Geschwulst an seiner $šꜣšꜣ.yt$-Halsgegend (?), indem Eiter an ihrem Ort zusammengelaufen ist (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,17] - [104,18]
+1	𓌨𓂋	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+2	𓎛𓆰𓈖𓎛𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆷𓄿𓆷𓄿𓇋𓇋𓏏𓄹	152040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šꜣšꜣy.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+7	𓊪𓎛𓏏𓂻𓍘𓇋	61590	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=pḥrr
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCia2pOE8U7ULsu2qVVkBuNFQ
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,18]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCiURgpsWBVUW8kQw04W1OP74
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du (folglich) dafür Mittel bereiten, sie zu zersetzen, also (?) ein Heilmittel:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,18]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓋴𓂙𓈖𓈖𓐎	143600	VERB	verb	VerbForm=Fin	_	_	_	Translit=sẖnn
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBcCib9xsW67gEyXpE7A9N1JksY
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Zwiebeln/Knoblauch, Dattelsaft, $tḥwꜣ$-Pflanzen, Kreuzkümmel, unterägyptisches Salz, Datteltrester, Mehl von Langbohnen, Früchte/Samen der $šꜣms$-Pflanze, Honig, Öl/Fett.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,18] - [104,20]
+1	𓌉𓏲𓆰𓏥	112710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+2	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+3	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+4	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+5	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓐟𓏤𓂋𓏤𓅐𓏌𓏥	139490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zrm.t
+7	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+10	𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+11	𓆷𓄿𓄟𓋴𓆰𓏥	151850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣms
+12	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+13	𓎯𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcCiVdrkNQxf009n5LZqfFKIWM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [104,20]
+1	𓋁𓃀𓐍𓏴	89	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣbḫ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCiRjAWXbcf08tpDCjYhYZT44
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ḥnḥn.t$-Geschwulst von Fett an seiner Vorderhalsregion:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,1]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓎛𓆰𓈖𓎛𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓐍𓅓𓄈𓄹	114880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜥm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiR4pzofJX0y8n6G88uCkfLk
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ḥnḥn.t$-Geschwulst von Fett in seiner Vorderhalsregion feststellst,  (und) findest du sie wie eine Anschwellung von Fleisch vor,    indem sie weich ist unter deinen Fingern,   (und) indem ihre Beschaffenheit weiß und ... (?) ist,  dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,1] - [105,3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎛𓆰𓈖𓎛𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓐍𓂝𓅓𓄈𓄹	114880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜥm
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+13	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+14	𓋴𓐍𓈖𓄹	142540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḫn
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+17	𓎼𓈖𓀉𓈖𓍘𓇋	167540	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=gnn
+18	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+19	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+20	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+21	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+22	𓇋𓁹𓅂𓐎𓏥	30010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jrt.w
+23	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+24	𓌉𓆓𓇋𓇋𓇳	112301	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḥḏ
+25	𓂧𓎼𓇋𓇋	876824	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=dgi̯
+26	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+27	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+28	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+29	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCibPeOY0zWUkNsWNJEv0T9XM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) einer mit einer $ḥnḥn.t$-Geschwulst von Fett in seiner Vorderhalsregion.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,4]
+1	𓌨𓂋	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+2	𓎛𓆰𓈖𓎛𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓐍𓂝𓅓𓄈𓄹	114880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜥm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCibHSbZwhWUJovUGWarBgt7s
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich durch eine Messerbehandlung behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,4]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+
+# sent_id = IBcCidGO94kMak4QuWvsXsvXPE0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Gib (dabei) auf die Gefäße acht!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,4] - [105,5]
+1	𓀸𓄿𓄿𓀜	126290	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zꜣu̯
+2	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcCieNPQK3zsEglmoRgVRrpSkU
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du (folglich) dafür Mittel bereiten, sie durch Verbinden und das Zerbrechen der Erhebungen zu behandeln.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,5]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓐎𓂝	50980	VERB	verb	VerbForm=Fin	_	_	_	Translit=wt
+11	𓋴𓂧𓏴𓀜	150110	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏ
+12	𓏏𓍯𓄿𓏲𓐎𓏥	170250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=twꜣ.w
+
+# sent_id = IBcCieqO7xZyV0kVhi9WHOplVNo
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = $twn$-Pflanzen, $tḥwꜣ$-Pflanzen, Früchte/Samen der $šꜣms$-Pflanze, Blut des $ḥwr$-Vogels/Insekts, Blut einer Fliege, $šꜣšꜣ$-Früchte, Honig, $ꜥmꜣ$-Pflanzen, „Großer-Schutz“-Droge, unterägyptisches Salz.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,6] - [105,7]
+1	𓏏𓃹𓈖𓃒𓆰𓏥	170310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twn
+2	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+3	𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+4	𓆷𓄿𓄟𓋴𓆰𓏥	151850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣms
+5	𓊃𓈖𓆑𓂐	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓎛𓅨𓂋𓅭	103130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥwr
+8	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓂝𓆑𓆑𓅬𓏥	37370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥff
+11	𓆷𓄿𓆷𓄿𓈒𓏥	151960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣšꜣ
+12	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+13	𓂝𓌴𓄿𓅓𓏲𓆰𓏥	37600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥmꜣ
+14	𓎃𓏤𓏛𓏥𓅨𓂋𓈒𓏥	125920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-wr
+15	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+
+# sent_id = IBcCiZsCf70kZEi1gYI3AMgE0VQ
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,8]
+1	𓐩𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcCiansZYj78kqltT6pglav8gc
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,8]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCiUJeYK3Q00e0uYaKlgqcWpU
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Die Vorderhalsregion) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,8]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiZkdWwl4CEeXrVFYJaRx1bc
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ḥnḥn.t$-Geschwulst von Eiter an der Kehle eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,8] - [105,9]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓎛𓆰𓈖𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄈𓏏𓏤𓄹	111160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥty.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCidddgPmB80JYtrMLls0PLg0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) einer mit einer $ḥnḥn.t$-Geschwulst von Eiter.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,12]
+1	𓌨𓂋	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+2	𓎛𓆰𓈖𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+
+# sent_id = IBcCiegW5u4ebUbQtLJiOXNMnQo
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, mit der ich kämpfen werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,12]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓂚𓄿𓂝	39920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓎛𓈖𓂝	106240	ADV	adverb	_	_	_	_	Translit=ḥnꜥ
+
+# sent_id = IBcCie8Dv1vSTEW9lpnkC4PQCrw
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du (folglich) dafür Mittel zum Herausziehen der Erhebungen in seiner Kehle machen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,12] - [105,13]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓇋𓏏𓎛𓍢𓂝	33410	VERB	verb	VerbForm=Fin	_	_	_	Translit=jtḥ
+8	𓏏𓍯𓄿𓏲𓐎𓏥	170250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=twꜣ.w
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄈𓏏𓏤𓄹	111160	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥty.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiYtWrjv7Wkb1sP7Qk2FrmrE
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,15]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcCiRZv3dfOqEWjhOKOWKi4t7g
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Die Kehle werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,15] - [105,16]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓄈𓏏𓏤	111160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥty.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiZrsjoujQkY3lPFsU6aourM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ḥnḥn.t$-Geschwulst des $ꜥr.wt$-Stoffes, nachdem sie (schon) viele Tage alt ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,16]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓎛𓆰𓈖𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂝𓂋𓅱𓏏𓆇𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+5	𓎁𓏏𓂝𓈖	33560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓇳𓏥	99060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hrw
+8	𓆈𓄿𓏲𓏪	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+
+# sent_id = IBcCicE7W0XQskbBorLCb6tV2Wo
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ḥnḥn.t$-Geschwulst des $ꜥr.wt$-Stoffes feststellst,    nachdem sie (schon) viele Tage alt ist,    indem (eitriger) Inhalt darin entsteht,    nachdem sie Fett produziert hat,    indem die Ränder ihrer Seite groß sind (und) ihm heiß ist,   dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,16] - [105,18]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎛𓆰𓈖𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓂝𓂋𓅱𓏏𓆇𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+7	𓎁𓏏𓀜𓈖	33560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+8	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓇳𓏥	99060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hrw
+10	𓆈𓄿𓏲𓏪	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+11	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+12	𓏶𓅓𓏲𓐎𓏥	25970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jm.w
+13	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+15	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+16	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+17	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+18	𓏏𓍯𓄿𓏲𓐎𓏥	170250	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=twꜣ.w
+19	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+20	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+21	𓉻𓏛	34750	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥꜣi̯
+22	𓈙𓅓𓅓𓊮	154890	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmm
+23	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+24	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+25	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+26	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+27	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCieZKxhcN4kgprg6pOJxVwx0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) einer mit einer $ḥnḥn.t$-Geschwulst des $ꜥr.wt$-Stoffes, nachdem sie Ansammlungen von Eiter produziert hat, indem (eitriger) Inhalt darin entsteht (und) ihm infolgedessen heiß ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,18] - [105,19]
+1	𓌨𓂋	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+2	𓎛𓆰𓈖𓆰𓈖𓏏𓆇	106970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnḥn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂝𓂋𓅱𓏏𓆇𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+5	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓊢𓂝𓏲𓂻𓏥	40280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥḥꜥ.w
+8	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+9	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+10	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+11	𓏶𓅓𓏲𓐎𓏥	25970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jm.w
+12	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+14	𓈙𓅓𓅓𓊮	154890	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmm
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+17	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiQWNt31M5kglg90xvndm9Kc
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, mit der ich kämpfen werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,19] - [105,20]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓂚𓄿𓂝	39920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓎛𓈖𓂝	106240	ADV	adverb	_	_	_	_	Translit=ḥnꜥ
+
+# sent_id = IBcCieHdAyEW7kXvgaWTsMToenY
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du (folglich) dafür Mittel bereiten, es durch Beseitigen des Krankheitsfalles zu behandeln:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [105,20]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+8	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+11	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBcCieEC0lodTkIYtcZOJgkeKmI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Werde zu einem Mittel zum Trocknen gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,2]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓏏𓅓𓏏𓏲𓈒𓏥	172330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tmt.w
+
+# sent_id = IBcCiSU5jxvQQU0ys4tlszaTK4E
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst von Fleisch in irgendwelchen Körperteilen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,2] - [106,3]
+1	𓈙𓊃𓐟𓄿𓏲𓏯𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCidBioAtMDU0llXZGVnenWKs
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥꜣ.t$-Geschwulst von Fleisch in irgendwelchen Körperteilen eines Mannes feststellst,   (und) findest du sie vor wie die Haut seines Fleisches,    indem sie (d.h. die Geschwulst) (wie) „gegerbt“ (???) ist,    während sie nicht geht und kommt mit deinen Fingern, sondern bleibt,    (und) während (es) dazu kommt, dass (etwas) darin entstanden ist,   dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,3] - [106,5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+10	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+12	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+15	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+16	𓇋𓆛𓈖𓌰𓅓𓁸𓏛	27420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnm
+17	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+18	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓎼𓋴𓏏𓂝	855556	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=gs
+21	𓈖	850806	PART	particle	_	_	_	_	Translit=n
+22	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+23	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+24	𓂻𓅱𓏏	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+25	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+26	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+27	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+28	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+29	𓄋𓊪𓏲𓏴𓏛𓁷𓏤	851443	ADP	preposition	_	_	_	_	Translit=wpw-ḥr
+30	𓋴𓏠𓈖𓏭𓏛	851677	VERB	verb	VerbForm=Fin	_	_	_	Translit=smn
+31	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+32	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+33	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+34	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+35	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+36	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+37	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+38	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiVXiQTIcA0VMhj3daXxpdQg
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst von Fleisch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,5] - [106,6]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcCidAawQvDTEfHnYMtm1OlMls
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde, nachdem sie mit Feuer (durch Abtasten) erforscht ist.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,6]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓆓𓂝𓂋𓌙𓂻𓍘𓇋	854589	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḏꜥr
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏴𓏏𓊮	150140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḏ.t
+
+# sent_id = IBcCiVUwWUcEm0ahkkPH0Rg3DdI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Behandle sie entsprechend dem Behandeln eines mit dem $ḥmm$-Gerät Behandelten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,6] - [106,7]
+1	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=srwḫ
+2	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+5	𓅭𓎛𓅓𓅓𓀀	126060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-ḥmm
+
+# sent_id = IBcCiRg3WMUreUAinrvruStmDe0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst von „Decken“ auf dem „Scheitel“ seines Rumpfes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,7]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋳𓏥	103750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥbs
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓄋𓏏𓏤	45530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wp.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiakccQSh8EY2rrnqnCPfc7Y
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥꜣ.t$-Geschwulst von „Decken“ auf dem „Scheitel“ seines Rumpfes, in/an der Oberseite seines Nabels, feststellst,  so sollst du (folglich) deinen Finger darauf legen,  so sollst du (folglich) seinen Rumpf (durch Abtasten) erforschen (?),  (und) so sollst du (folglich) $šꜥ$-machen mit deinen Fingern.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,7] - [106,9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓋳𓏥	103750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥbs
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓄋𓏏𓏤	45530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wp.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓁷𓂋𓏭𓇯	108990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓄡𓊪𓄿𓐎𓏤	122880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖpꜣ
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+18	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+19	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏbꜥ
+20	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+21	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+22	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+23	𓆓𓂝𓂋𓌙𓂻𓐍𓂋	854589	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜥr
+24	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+25	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+26	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+27	𓈙𓂝𓏴𓐍𓂋	152200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šꜥ
+28	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+29	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+30	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+31	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCiV7knf14Q0iTsZhFg5Gw4QM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst von ‚Decken‘ seines Rumpfes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,10]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋳𓏥	103750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥbs
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiZq8TFk4AEvEmFCFtNHWEqw
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,10]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCifRREVrdFk7lrJ5sRrGbdro
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Es ist die Hitze auf seiner Harnblase vorn in seinem Rumpf, die sie (d.h. die Krankheit) verursacht, nachdem sie zu Boden gefallen ist (und) ebenso wiederkehrt ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,10] - [106,11]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓏏𓍔𓄿𓏲𓊮𓏪	168950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ.w
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈙𓊪𓏏𓇋𓇋𓏏𓄹	154000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=špty.t
+5	𓏅𓈖𓏏	119350	ADV	adverb	_	_	_	_	Translit=ḫnt.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+10	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+11	𓐍𓂋𓀒	119610	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫr
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+14	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+15	𓎗𓃀𓄲𓂻	52620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏb
+16	𓂋𓏇𓏏𓏏𓏛	67962	ADV	adverb	_	_	_	_	Translit=r-mj.tjt
+
+# sent_id = IBcCiUGAcWjYXUIjnspWeA9zdfs
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du sie (d.h. die Geschwulst) (folglich) erhitzen zur Absperrung gegen seinen Bauch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,12]
+1	𓈙𓅓𓅓𓊮𓐍𓂋	145200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšmm
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆓𓂧𓎛𓏲𓀜	186320	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏdḥ
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCifBfXku3IUbhsLxI4rEPKmM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst sie behandeln entsprechend dem Behandeln eines mit dem $ḥmm$-Gerät Behandelten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,12] - [106,13]
+1	𓋴𓂋𓏲𓐍𓏛	139310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srwḫ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+6	𓅭𓎛𓅓𓅓𓈔𓀀	126060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-ḥmm
+
+# sent_id = IBcCiZenQk04K0L6shaohhDOWBo
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst der unteren Partie seines Bauches:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,13]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šsꜣ.w
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓌨𓂋𓏭	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiQVl5ZLlbEDYuEOlboUjeQc
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du dieses an der unteren Partie seines Bauches feststellst,   indem das Wasser seines Bauches heraufkommt und absteigt,  dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,13] - [106,14]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓌨𓂋𓏭𓈇	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+11	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+12	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+13	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+14	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+17	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+18	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiREOIXCE2UxJiJW4BwjhW0w
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) ein Leiden (?) dessen, auf dem sich die Luft befindet (???) in/an der unteren Partie seines Bauches.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,14] - [106,15]
+1	𓄿𓉔𓅪	174	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜣh.w
+2	𓁷𓂋𓏲	108300	ADJ	adjective	_	_	_	_	Translit=ḥr.j
+3	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌨𓂋𓏭𓈇	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiWp1lD8vUEHcuWArU6w6TKA
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,15]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCiYmFiBoiQETBg1FlOb7F8lA
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Es ist Hitze auf der Blase, die es verursacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,15] - [106,16]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓍔𓄿𓏲𓊮𓏪	168950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ.w
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈙𓊪𓏏𓇋𓇋𓏏𓄹	154000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=špty.t
+5	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓋴𓏏	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+
+# sent_id = IBcCiceE8ivq20Vdj9QKovkgrQM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Dann sollst du sie (d.h. die Geschwulst) mit einem $ḥmm$-Instrument entfernen (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,16]
+1	𓍿𓎛𓈖𓂝𓇋𓈖	176560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯḥn
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓅓𓅓𓈔𓏤	105530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmm
+
+# sent_id = IBcCiaZCrt9Y40TUo4Vbeu6tDzw
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Es (d.h. das Instrument) soll nicht hinabgehen bis zu seinem $mjsn.t$-Körperteil.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,16]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉔𓄿𓂻	97350	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣi̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓄟𓋴𓇋𓈖𓏏𓄹	75030	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=msjn.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiaow9vFbBEuBrhXPjg6Gq5A
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $sfṯ$-Öl-artigen $ꜥꜣ.t$-Geschwulst eines Gefäßes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,17] - [106,18]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsꜣ.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Status=Cons	_	_	_	Translit=n.j
+3	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓋴𓆑𓏏𓏌	876827	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCiSqd4makVkM0iMn0yT2L7QU
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $sfṯ$-Öl-artige $ꜥꜣ.t$-Geschwulst eines Gefäßes feststellst, nachdem es (d.h. das $sfṯ$-Öl-Artige) (also) eine $ꜥꜣ.t$-Geschwulst auf seinem Bauch produziert hat, (und) wenn dein Finger eruiert, dass sie unter deinen Fingern wie ein $ḥpꜥ$-Stein ist, wobei sie ... (?) macht/ist, dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,18] - [106,20]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓋴𓆑𓏏𓏌𓏥	876827	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+9	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+16	𓆓𓂝𓂋𓌙𓂻	854589	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜥr
+17	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏbꜥ
+18	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+19	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+20	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+21	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+22	𓎛𓊪𓂝𓐎𓊌	104100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥpꜥ
+23	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+24	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+25	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+26	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+27	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+28	𓃀𓂋𓏲𓏏𓏏𓏲𓏛	850836	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=-
+29	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+30	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+31	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+32	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiWtlbK0AvE64rb20dvFpR7E
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst eines Gefäßes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,20]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCiaDjAeWoF0zTiRBxBNDDnsk
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich durch eine Messerbehandlung behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,20]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+
+# sent_id = IBcCice62gQydE5Fo1XqCmS8FQs
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du sie (d.h. die Krankheit) (folglich) über Fett verbinden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [106,20]
+1	𓐎𓂝𓐍𓂋	50980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+
+# sent_id = IBcCifdb4EwSrEYAr7fCaoWcyWM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst von Fett:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,1] - [107,2]
+1	𓈙𓊃𓐟𓄿𓏲𓏯𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+
+# sent_id = IBcCid6XTEuXLE5YiEV1ZUYqpJk
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥꜣ.t$-Geschwulst von Fett an irgendwelchen Körperteilen eines Mannes feststellt,  (und) findest du sie vor, indem sie unter deinen Fingern geht und kommt,   (wobei es dabei) bleibt, dass sie durch deine Hand geteilte (Partien) sind,   dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,2] - [107,3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+10	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+12	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+15	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+16	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+17	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+18	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+19	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+20	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+21	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+22	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+23	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+24	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+25	𓏲𓆓𓂝𓏲𓌙𓏪	52360	VERB	verb	Number=Plur|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=wḏꜥ
+26	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+27	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+28	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+29	𓏠𓈖𓏛	69590	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
+30	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+31	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+32	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+33	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiaDv1Y8YyU7difbL2RK9E5U
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst von Fett.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,4]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+
+# sent_id = IBcCiecod5WY0kEvljSu7yoqg2U
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,4]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCiSepCNjkHEkDkmmBh5mpICs
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du für sie (d.h. die Geschwulst) (folglich) eine Messerbehandlung durchführen, indem sie behandelt wird entsprechend dem Behandeln einer Wunde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,4] - [107,5]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+6	𓋴𓂋𓏲𓐍𓐎𓏛𓍘𓇋	139310	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=srwḫ
+7	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+8	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+9	𓇶𓏌𓏲𓄹	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBcCiQWiTlQoBEuSvmIeOb1UJzw
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst eines „Sohn“-Krankheitsstoffes (???):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,5]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsꜣ.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓅭𓏤𓄹	35040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zꜣ
+
+# sent_id = IBcCifB2dg3xVUZcpcLpxg5MNRU
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥꜣ.t$-Geschwulst eines „Sohn“-Krankheitsstoffes (???) in irgendwelchen Körperteilen eines Mannes feststellst,   (und) findest du sie als Einzelnes oder (in) Vielzahl vor,    (und) dass sie von der Farbe seines Fleisches ist,    indem (sie) fest ist unter deinen Fingern,    aber nicht zu sehr,    (und) indem sie groß ist    (und) bitter ist in seinem Fleisch,  dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,5] - [107,7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓅭𓏤𓄹	35040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zꜣ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+10	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+12	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+17	𓆈𓏲𓏪	41020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+18	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+19	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+20	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+21	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+22	𓇋𓆛𓈖𓌰𓅓𓁸𓏛	27420	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jnm
+23	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+25	𓂋𓏲𓂧𓌗𓏛	93780	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rwḏ
+26	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+27	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+28	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+29	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+30	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+31	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+32	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+33	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+34	𓅨𓂋	47271	ADJ	adjective	_	_	_	_	Translit=wr
+35	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+36	𓂧𓁷𓂋𓅪	180440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dḥr
+37	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+38	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+39	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+40	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+41	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+42	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+43	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+44	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiSeiKyrSrEbZmozQVX3Kx4g
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst eines ‚Sohn‘-Krankheitsstoffes (???).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,8]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓅭𓏤𓄹	35040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zꜣ
+
+# sent_id = IBcCiRQY2j1mRkCaub525WOe5HE
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,8]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCiRNGPDEPN0TNldUWpTayW2c
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du für sie (d.h. die Geschwulst) (folglich) eine Messerbehandlung durchführen, indem sie behandelt wird entsprechend dem Behandeln einer Wunde in allen (möglichen) Körperteilen eines Mannes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,8] - [107,9]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+6	𓋴𓂋𓏲𓐍𓐎𓏛𓍘𓇋	139310	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=srwḫ
+7	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+8	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+9	𓇶𓏌𓏲𓄹	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+12	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+13	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+14	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCiWWGY3iPckTnsAaZcAYkc7w
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst von Eiter:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,9]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsꜣ.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+
+# sent_id = IBcCifH68UW5xU8WraxwUVlkJec
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥꜣ.t$-Geschwulst von Eiter in irgendwelchen Körperteilen eines Mannes feststellst, (und) findest du sie vor, indem ihr Kopf hoch (und) sie (selbst) umschlossen und kugelig ist, dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,9] - [107,11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+10	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+12	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+15	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+16	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+17	𓃀𓍯𓄿𓏲𓀢𓏛	55260	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=bwꜣ
+18	𓇋𓆛𓈖𓈎𓍢𓂝𓍘𓇋	27880	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=jnq
+19	𓎛𓆰𓈖𓃀𓅬𓄿𓅬𓄿𓄹𓍘𓇋	106630	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḥnbꜣbꜣ
+20	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+21	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+22	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+23	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiQsUW52jhEV6m2QCc5BNCAM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst von Eiter, nachdem er in seinem Fleisch zusammengelaufen ist (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,11] - [107,12]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+5	𓊪𓎛𓂋𓂻𓍘𓇋	61590	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=pḥrr
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCieFDqLrutURno79CXMVo3Vg
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich durch eine Messerbehandlung behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,12]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+
+# sent_id = IBcCicKvQjmaZUciprVAuCjFeyw
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Darin ist etwas wie Pflanzenbrei, indem etwas nach jenem wie Wachs herauskommt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,12] - [107,13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓎛𓋴𓐟𓄿𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+7	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+8	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+9	𓅓𓐟𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+10	𓈖𓆑𓄿𓈐	83340	PRON	pronoun	PronType=Dem	_	_	_	Translit=nfꜣ
+11	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+12	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+
+# sent_id = IBcCicViJ4GqnkQbiDBNYR2VovM
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Es formt eine Tasche.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓏏𓌴𓄿𓅓𓅱𓏏𓁸𓏥	172200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tmꜣ.wt
+
+# sent_id = IBcCiYby00PJsUJ6hWVmWN4GLyQ
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn etwas in ihrer Tasche übrigbleibt, pflegt sie (d.h. die Geschwulst? oder: er, d.h. der Eiter?) umherzuziehen (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,13] - [107,14]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓊃𓊪𓊗	132710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zpi̯
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏏𓌴𓄿𓅓𓅱𓏏𓁸𓏥	172200	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tmꜣ.wt
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓄲𓂋𓂻	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+10	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiTWdsWQcAUkGmkA7wVAGMHw
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist ein Leiden, dass ich durch eine Messerbehandlung behandeln werde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,15]
+1	𓍋𓅓𓏏𓅪	71790	VERB	verb	_	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+
+# sent_id = IBcCiUGauws6pU4kob4wfx1Zo4c
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wie eine $ꜥꜣ.t$-Geschwulst von Eiter (und/oder) von $ꜥr.wt$-Stoffen ist ihr Aussehen.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,16]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓌴𓁹𓄿𓄿	66280	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mꜣꜣ
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓂋𓇋𓇋𓏏𓐎𓏥	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓂝𓂋𓅱𓏏𓐎𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+
+# sent_id = IBcCicGbjQ8nB0bWtZPcWf9UQiE
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst von Krankheitsauslösern (?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,16]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsꜣ.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+
+# sent_id = IBcCibAJeWTVEUdOpQJXSqQzDdU
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥꜣ.t$-Geschwulst von Krankheitsauslösern (?) an den Spitzen der Arme feststellst, die du untersuchst (???),   (und) findest du sie (d.h. die Geschwulst) vor,    nachdem sie Wasser hervorgebracht hat,   indem sie fest unter deinen Fingern und dauerhaft ist,   (und) indem sie weich ist,    aber nicht zu sehr,  dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,16] - [107,18]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓐎𓏤𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓁶𓏤𓏪	854577	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=tp
+9	𓂞𓂞	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+10	𓂝	113410	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḫꜣi̯
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+15	𓈎𓌴𓄿𓅓𓌙𓅯𓏛𓈖	854564	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qmꜣ
+16	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+17	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+18	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+19	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+20	𓂋𓏲𓂧𓌗𓏛𓍘𓇋	93780	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rwḏ
+21	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+22	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+23	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+24	𓏠𓈖𓏛𓍘𓇋	69590	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=mn
+25	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+26	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+27	𓎼𓈖𓈖𓅪𓍘𓇋	167540	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=gnn
+28	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+29	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+30	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+31	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+32	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+33	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+34	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiUK8JnSFZESrhLwaIKX9cq4
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst der Krankheitsauslöser (?) in den Spitzen der Arme, die du untersuchst (???).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,19]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓁶𓏤𓏪	854577	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=tp
+7	𓂝𓂝	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+8	𓂡	113410	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḫꜣi̯
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCiZXzUW5lWUXrjVdrfVGoSIA
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,19]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCiSEtCoqjEEe8tLxvnwbJDvg
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du für sie (d.h. die Geschwulst) (folglich) eine Messerbehandlung durchführen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,19]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+
+# sent_id = IBcCiZaIqD2OLUSZlD4lQ8NUDkY
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst (aber) bezüglich des Gefäßes achtgeben!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,20]
+1	𓀸𓄿𓀜𓍘𓇋	126290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zꜣu̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCibl2rWUCuEHuio8pxwQ9224
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Die Sache, die aus ihr (d.h. der Geschwulst) herausgekommen ist, ist wie wässrige Gummilösung.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,20]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+3	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=pri̯
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+8	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+9	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+
+# sent_id = IBcCieE26W2hhE7ppSiSweFFZsI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Hat eine Tasche sie (d.h. die Geschwulst?) umhüllt, sollst du nicht zulassen, dass etwas darin übrigbleibt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [107,20] - [108,1]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓂝𓂋𓆑𓎤𓈖	39500	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥrf
+3	𓊃	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓏏𓌴𓄿𓏏𓁸𓏪	172200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tmꜣ.wt
+5	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+8	𓊃𓊪𓊗	132710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zpi̯
+9	𓐍𓂋𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+10	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCid6V40AbW0NMq0WQO6kMDVE
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Denn) sie soll nicht wiederkehren.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,1]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓎗𓃀𓄲𓂻	52620	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏb
+
+# sent_id = IBcCieinWv9AV0Q9o71lEZW9LV0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst sie behandeln entsprechend dem Behandeln einer Wunde an jedem (möglichen) Körperteil eines Mannes, (nämlich durch) Umhüllen und Verschaffen von Linderung an den Gefäßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,1] - [108,2]
+1	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srwḫ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+6	𓇶𓏌𓏲𓄹	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+12	𓋴𓅷𓄿𓅓𓋳	148930	VERB	verb	VerbForm=Fin	_	_	_	Translit=sṯꜣm
+13	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+14	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcCibteBbwtLk7ngsq3Zl6lQGI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Sie schwillt (gewöhnlich) an, nachdem sie beseitigt wurde (wörtl.: nach dem Sie-Beseitigen).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,2] - [108,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓈙𓆑𓐎	154160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šfu̯
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiZ8QyN3KQkZwry7mIumFg1k
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,3]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcCiftTi4JuAUiCqHp2X4OXaG8
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst des Gefäßes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,6]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCibeOEWMAzEdqqfxOB4QaPik
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Das ist) eine Krankheit, die ich behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,6]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcCifAUo9jAtUQWh6pRs1K2SJ4
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Es sind die Gefäße, die es verursachen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,7]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+3	𓁹𓂋	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBcCiQch4mGcS0aTido48dJgSEo
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Sie (d.h. die Geschwulst) entwickelt sich auch zu einer Verletzung an einem Gefäß.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+4	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄿𓏏𓏏𓂿	21080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣṯ.t
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCiZyCcNLhkkULol7WI13LMoI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du für sie (d.h. die Geschwulst) (folglich) eine Messerbehandlung durchführen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,7] - [108,8]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+
+# sent_id = IBcCifzIWULNPkhClnwhkizB6Is
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Es (d.h. das Messer) werde im Feuer erhitzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,8]
+1	𓊃𓈙𓅓𓅓𓊮	145200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšmm
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓏴𓏏𓊮	150140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḏ.t
+
+# sent_id = IBcCiYw6lvyILkGkhzOh18ibAfI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Sie (d.h. die Geschwulst) wird nicht zu sehr bluten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,8]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓅨𓂋	47270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrr
+3	𓊃𓈖𓆑𓂐𓏥	137260	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=znf
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiVNs6Xpes0F5opu0vL70Jj8
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du sie (folglich) behandeln entsprechend dem Behandeln eines mit dem $ḥmm$-Gerät Behandelten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,8] - [108,9]
+1	𓋴𓂋𓏲𓐍𓐎𓏛𓐍𓂋	139310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srwḫ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+6	𓅭𓎛𓅓𓅓𓈔𓀀	126060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-ḥmm
+
+# sent_id = IBcCifoiSnO8tENQvqvQSdsZQO8
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst der Gefäße:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,9]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcCiV78LvlMpEF1rLg8sD58CvI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥꜣ.t$-Geschwulst der Gefäße an den $ẖn.tj$-Beugen (?) irgendwelcher Körperteile feststellst,    indem ihr Aussehen fest ist,    ihre Krümmung sich nicht krümmt    (und) sie viele Knoten gebildet haben – diese, sie sind wie Dinge, indem sie mit Luft aufgeblasen sind –,   dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,9] - [108,11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓄚𓈖𓅂𓏛𓏥	123390	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖnw.tj
+9	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+10	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+11	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+12	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+13	𓂋𓏲𓂧𓌗𓏛	93780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwḏ
+14	𓌴𓁹𓄿𓄿	66280	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mꜣꜣ
+15	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+16	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+17	𓎛𓆑𓄿𓂻𓈖	104340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥfꜣ
+18	𓎛𓆑𓄿𓏏𓂾	65150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥfꜣ.t
+19	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+20	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+21	𓋭𓏏𓏥	176910	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯꜣz.t
+22	𓆈𓏏𓏥	41011	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=ꜥšꜣ
+23	𓈖𓍇𓏌𓏲	851519	PRON	pronoun	PronType=Dem	_	_	_	Translit=nw
+24	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+25	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+26	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+27	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+28	𓈙𓊪𓏏𓇋𓇋𓂻	153990	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=šptj
+29	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+30	𓊡𓏲	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+31	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+32	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+33	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+34	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiUuJZ2JeM0o2iBBvauQapkY
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst der Gefäße.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,11] - [108,12]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+
+# sent_id = IBcCiXl0QeC4vUa7grVyMWLpD60
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst nicht Hand an dergleichen legen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,12]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏲𓂧𓏭𓏴𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+4	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓏇𓏏𓏏𓏛	67930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mj.tj
+
+# sent_id = IBcCiRdUVNToX0eYuKQYQf6859E
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Dies (wäre) das Verletzen eines Körperteils an seiner (d.h. des Gefäßes) Stelle (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,12] - [108,13]
+1	𓈖𓍇𓏌𓏲	851519	PRON	pronoun	PronType=Dem	_	_	_	Translit=nw
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓇋𓄿𓏏𓂿	21080	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jꜣṯ.t
+4	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCiTRivtLdl0GFjvW3HMyAWWk
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst das Lindern der Gefäße in allen (möglichen) Körperteilen eines Mannes durchführen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,13]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+4	𓂸𓏏𓏲𓏯𓏥	77310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCiSYD6bsmTUjQhHcQKi1zdWQ
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Was als sein wahrhafter Zauber gesagt werden soll, ist: „Du sollst ausfließen, (du) Kreuzgeflecht-Gefäß, das mich umflochten hat, das zwischen diesen (meinen) Körperteilen umherspringt!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,13] - [108,15]
+1	𓆓𓂧𓏏𓏥	185810	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḏd
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓂓𓄿𓀁𓏪	110660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥkꜣ.w
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓃹𓈖𓌷𓂝𓏛	46200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wn-mꜣꜥ
+7	𓈙𓊪𓂐	153630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šp
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mt
+10	𓈙𓏏𓅂𓄹	856858	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šṯ
+11	𓈙𓏏𓅂𓍢𓂝	158380	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šṯ
+12	𓏲𓏭	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+13	𓆑𓏏𓆑𓏏𓂻	64170	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ftft
+14	𓅓𓏶𓅓𓏭𓏏𓏲𓈖𓏭	855924	ADP	preposition	_	_	_	_	Translit=m-jm.wtj-n
+15	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+16	𓇋𓊪𓏏𓈖	850009	PRON	pronoun	PronType=Dem	_	_	_	Translit=jptn
+
+# sent_id = IBcCidRFTdzDQUesgadTCZnHATs
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst dich nicht mit der Vereinigung des (Gottes) Chons vereinigen!“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,15]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓄥𓄿𓏛	134180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zmꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄥𓄿𓏲𓏛𓏥	134680	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zmꜣ.w
+6	𓐍𓈖𓇓𓏲𓅆	118720	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
+
+# sent_id = IBcCiZPMf3NQJU4ltahSUZapiA0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥꜣ.t$-Geschwulst des Chons feststellst, (sollst du sagen):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,15]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓐍𓈖𓇓𓏲𓅆	118720	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
+
+# sent_id = IBcCiSjVjCKJL0aEkSZquXPcCeY
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Reiche dar, was angenehm ist, (o) der (du) mich $nhq$-machst (?)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,15] - [108,16]
+1	𓌷𓂝𓏛	854512	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mꜣꜥ
+2	𓇛𓅓𓏛	500020	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nḏm
+3	𓈖𓈎𓀁	876830	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nhq
+4	𓏲𓏭	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+
+# sent_id = IBcCicfrsqN0RULnia7xS5BmmW4
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst veranlassen, dass ich dem Re die Maat, die/das Glänzende, darbringe am Morgen!“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,16]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓𓂝𓊄𓂻	74700	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mz
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓌷𓂝𓏏𓏯𓏛𓏥𓅆	66630	PROPN	entity-name	_	_	_	_	Translit=Mꜣꜥ.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+8	𓋣𓈖𓏏𓈒𓏥	176620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥn.t
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓈖𓉔𓊪𓏲𓇳𓏥	85570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nhp.w
+
+# sent_id = IBcCidN0YqQkjUzOr374IcFyudI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einer $ꜥꜣ.t$-Geschwulst des (Gottes) Chons:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [108,17]
+1	𓈙𓊃𓐟𓄿𓏲𓄃𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsꜣ.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓐍𓈖𓇓𓏲𓅆	118720	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
+
+# sent_id = IBcCieeEkkOKXk70sGM1NprOL8M
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist eine $ꜥꜣ.t$-Geschwulst des (Gottes) Chons.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,2]
+1	𓉻𓏏𓆇	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓐍𓈖𓇓𓏲𓅆	118720	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
+
+# sent_id = IBcCicIQOYHKyEQps2cGlWuNpUQ
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst nichts (wörtl.: nicht irgendeine Sache) dagegen tun!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,2]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCicdFM4yoW0ONozYSPGYpi5o
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu $ꜥꜣ.t$-Geschwülsten an irgendeinem Körperteil eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,2] - [109,3]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓉻𓂝𓄿𓅱𓏏𓆇𓏥	34900	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCifWSEHNknk20prWZGJUWNaU
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du die $ꜥꜣ.t$-Geschwulst der $ꜥꜣ.t$-Geschwülste in irgendeinem Körperteil eines Mannes feststellst, dann sollst du einen Verband darauf legen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,3] - [109,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓉻𓏏	34900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓉻𓂝𓄿𓅱𓏏𓆇𓏥	34900	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+12	𓂋𓂝𓇋𓈖	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓐎𓂝	50990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wt
+15	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+16	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCifnPTaWNQ0VmnW3TukBKlXg
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (Und) findest du sie vor, indem sie geht und sie kommt, indem sie an dem Fleisch, das unter ihr ist, angeheftet ist,  dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,4] - [109,5]
+1	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓂧𓈎𓏏𓂷𓀜𓍘𓇋	854588	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=dqr
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+11	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+12	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+13	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+14	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+15	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+17	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiU6u6YWxLEjWpUVB7lmfwew
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) ein Eindringen (?, oder: Ausfließen?) von $ꜥꜣ.t$-Geschwülsten.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,5]
+1	𓅧𓈎𓂐	41200	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥq
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓉻𓂝𓄿𓅱𓏏𓐎𓏥	34900	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ.t
+
+# sent_id = IBcCidtUiQQrc0qOsnXZsI0Osic
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du für sie (d.h. die Geschwulst) (folglich) eine Messerbehandlung durchführen, indem sie mit einem Feuersteinmesser zerschnitten und mit einem $hnw$-Gerät gepackt ist;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,5] - [109,6]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+6	𓊪𓎛𓂧𓏴𓀜𓍘𓇋	61660	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=pḥḏ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂧𓊃𓌪	180620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ds
+9	𓈖𓇥𓂋𓀜𓍘𓇋	91670	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nḏri̯
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓉔𓈖𓏌𓏲𓎛𓄛	854742	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+
+# sent_id = IBcCidFdgLBttUWxu0lqbWtg7mo
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = (genauer:) dieses, das in seinem Inneren ist, werde mit dem $hnw$-Gerät gepackt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,6] - [109,7]
+1	𓈖𓇥𓂋𓀜	91670	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏri̯
+2	𓈖𓍇𓏌𓏲	851519	PRON	pronoun	PronType=Dem	_	_	_	Translit=nw
+3	𓃹𓈖𓈖	46050	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖnw
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓉔𓈖𓏌𓏲𓎛𓄛	854742	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+
+# sent_id = IBcCice7Q6j4HEbLixFkjoLjkW4
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Dann sollst du sie mit dem Feuersteinmesser entfernen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,7]
+1	𓄞𓂧𓀜𓇋𓈖	854561	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂧𓊃𓌪	180620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ds
+
+# sent_id = IBcCiTWxpuYcP0WokaxEBeOCu7Q
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Es gibt eines davon, in dem (?) etwas wie der $mnḏr$-Körperteil einer Maus ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,7] - [109,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓃹𓈖	855526	PART	particle	_	_	_	_	Translit=wn
+3	𓌡𓂝𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+5	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+6	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+7	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+10	𓏠𓈖𓇥𓂋𓄹	71750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḏr
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓊪𓈖𓏌𓏲𓄛	60020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pn.w
+
+# sent_id = IBcCiXGGv7SrzUPYqgQ4nhQmPSE
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Dann sollst du sie entfernen, ohne diese Nahtlinien (?, oder dieses Verbandsmaterial?), die an ihrer (d.h. der Geschwulst) Seite sind, herauszuholen, und ohne das (gesunde?) Fleisch mit dem $šꜣs$-Messer zu berühren.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,8] - [109,9]
+1	𓄞𓂧𓀜𓇋𓈖	854561	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓏲𓇋𓄿𓏏𓂝	44030	VERB	verb	_	_	_	_	Translit=wjꜣ
+5	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+6	𓈖𓍇𓏌𓏲	851519	PRON	pronoun	PronType=Dem	_	_	_	Translit=nw
+7	𓇋𓂧𓂋𓏲𓄹𓏥	34180	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jdr
+8	𓃹𓈖𓈖	46050	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+11	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓂧𓏇𓇋𓏛	179320	VERB	verb	VerbForm=Fin	_	_	_	Translit=dmj
+13	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓈙𓄿𓋴𓌪	151880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣs
+
+# sent_id = IBcCiSoEYM3OWUUGiuVmQYkFns4
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Eine, die wie ein Kopf ist: Sie ist ebenso (zu behandeln).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,10] - [109,11]
+1	𓃹𓈖𓈖𓏏	46050	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+2	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+3	𓍑𓄿𓍑𓄿𓁶	182330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣḏꜣ
+4	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+
+# sent_id = IBcCiQBlH7Pz6U3yjlOPJyvIPP0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zu einem „$sfṯ$-Öl“-Phänomen an irgendeinem Körperteil:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,11]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsꜣ.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓋴𓆑𓏏𓏌𓏥	876827	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+6	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcCiYW85lBsnk6ckYAYWHv4yg4
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „Das ist ein ‚$sfṯ$-Öl‘-Phänomen eines Gefäßes.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,13] - [109,14]
+1	𓋴𓆑𓏏𓏌𓏥	876827	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCicBUixeLj0f0vYkTu817m4g
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Es ist der Schlag eines Gefäßes, der es verursacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,14]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓋴𓈎𓂋𓂿	146210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sqr
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+5	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBcCiUOIetBbaEkbviaGBqLZ2Wg
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = So sollst du (folglich) dafür ein Messer aus einer Binse zum (?) Durchführen einer Messerbehandlung machen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,14] - [109,15]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈋𓏤𓌪	182880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇓𓏏𓏤𓆰𓏥	129610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sw.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+10	𓈋𓂝𓏤𓌪	183040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw-ꜥ
+
+# sent_id = IBcCicmE0Y2GhEIOkbCIW0qr3rk
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn es (d.h. das $sfṯ$-Phänomen) sehr blutet (wörtl.: Wenn es viel ist, dass es Blut gibt), sollst du es (folglich) ausbrennen mit Feuer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,15]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅨𓂋	47270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrr
+3	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+6	𓆷𓄿𓏲𓊮𓐍𓂋	151570	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šꜣw
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓏴𓏏𓊮	150140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḏ.t
+
+# sent_id = IBcCiVw0ynewgkYLko8cQNelAew
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst es behandeln in der Art des Behandelns eines mit dem $ḥmm$-Gerät Behandelten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,15] - [109,16]
+1	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srwḫ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+6	𓅭𓎛𓅓𓅓𓈔𓀀	126060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-ḥmm
+
+# sent_id = IBcCiR62ZiM83E12mQAmK2jMjDQ
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Das ist) ein Feind des Gefäßes.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,17]
+1	𓐍𓆑𓏏𓏭𓏱	116800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫft.j
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂸𓏏𓏯	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCiQHBa1OqSUYjocVTRZffzPQ
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Du sollst nicht Hand an irgendetwas diesem Gleiches legen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,17] - [109,18]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏲𓂧𓏭𓏴𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+4	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓏇𓏏𓏏𓏛	67930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mj.tj
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓈖𓍇𓏌𓏲	851519	PRON	pronoun	PronType=Dem	_	_	_	Translit=nw
+
+# sent_id = IBcCiZkWUWiDJUpWsK1ZAzXf3CI
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Das ist ein hoffnungsloser Fall (wörtl.: Kopf zu Boden ist es).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,18]
+1	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcCiQMcE1cREU52lXP0iOSuQng
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zur $ꜥnw.t$-Geschwulst des Chons-Gemetzels:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,18] - [109,19]
+1	𓄃𓏲𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šsꜣ.w
+2	𓂝𓈖𓏲𓏏𓆇𓏥	876842	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥnw.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓈙𓂝𓏏𓄧𓌪	152300	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šꜥ.t
+5	𓐍𓈖𓇓𓏲𓅆	118720	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
+
+# sent_id = IBcCiUkT6UF85E0ZoPMQGv4h2Nk
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du eine $ꜥnw.t$-Geschwulst des Chons-Gemetzels an irgendwelchen Körperteilen eines Mannes feststellst,   (und) findest du ihren Kopf spitz und ihren Boden eben,    (wobei) seine (d.h. des Patienten) Augen grün/blau (?) und entzündet sind    (und) sein Fleisch heiß ist infolgedessen,   dann hüte dich (?)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [109,19] - [110,1]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂝𓈖𓅱𓏏𓆇𓏥	876842	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥnw.t
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓈙𓂝𓏏𓄧𓌪𓏥	152300	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šꜥ.t
+7	𓐍𓈖𓇓𓏲𓅆	118720	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+11	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+12	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+13	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+14	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+16	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+17	𓇮𓏛	500142	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=spd
+18	𓎢𓆑𓄖	164110	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kfꜣ
+19	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+20	𓌷𓂝𓏛	854512	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mꜣꜥ
+21	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+22	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+23	𓇅𓆓𓏛	43580	VERB	verb	Number=Dual|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜣḏ
+24	𓍱𓊃𓅓𓏛𓍘𓇋	157480	VERB	verb	Number=Dual|Gender=Fem|VerbForm=Conv	_	_	_	Translit=šsm
+25	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+26	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+27	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+28	𓈙𓌴𓄿𓅓𓊮	154890	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šmm
+29	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+30	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+31	𓂚𓄿𓀜	39920	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥḥꜣ
+32	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+
+# sent_id = IBcCieXMOdGPF0ufqGKN21M2sn0
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Das ist ein Zauberspruch (?)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [110,1]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcCiZSybWPxQ0yJkWJ7xBi5Vdk
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Wenn du sie aber wie irgendeine $šf.wt$-Schwellung einer Wunde oder einer Quetschung vorfindest, (nämlich) an seinen Brüsten, an den Brustwarzen (und/oder) an irgendwelchen (anderen) Körperteilen, indem sie am Gehen und Kommen ist und/oder am Einsinken unter deinen Fingern, (wobei) Wasser nach außen abgegeben wurde, dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [110,3] - [110,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓇓𓅱𓏏	130840	PART	particle	_	_	_	_	Translit=swt
+3	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓋴𓏏	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓈙𓆑𓏲𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+8	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓇶𓏌𓏤𓄹	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓋴𓈞𓍖	140730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḥm
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓏠𓈖𓂧𓏲𓂑𓏤𓏥	71720	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mnḏ
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓃀𓈖𓏏𓄹𓏥	55550	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bn.tj
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+19	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+20	𓃹𓈖𓈖𓍘𓇋	46050	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wnn
+21	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+22	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+23	𓂻𓅱𓏏	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+24	𓉔𓏏𓊪𓈗	99170	VERB	verb	VerbForm=Fin	_	_	_	Translit=hrp
+25	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+26	𓂭𓏤𓏥	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+27	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+28	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+29	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+30	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+31	𓂋𓏲𓏏𓏭𓇯	93440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rw.t
+32	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+33	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+34	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+35	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCiYnzKZjYfkwxin3XAt1srnY
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = „(Es) ist in (meinen) Händen.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [110,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂧𓏏𓏥	184630	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏr.t
+
+# sent_id = IBcCibw6oRkTfkpnmp9zBWikVMA
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = Werde mit $ꜥmꜣ$-Pflanzen vermischt,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [110,8]
+1	𓋴𓆑𓂝	133580	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sfi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓂝𓌴𓄿𓅓𓏲𓈒𓏥	37600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥmꜣ
+
+# sent_id = IBcCiRijPANw8USSrWGkc6FhKj8
+# corpus = sawmedizin
+# src_text_id = E2YB6NH5FFEVXC6YWL5ARKMBJU
+# src_text = sawmedizin:Papyrus Ebers//[Verso:] 103,19-110,9 ⸗ Eb 857-877: „Erfahrungswissen zu Anschwellungen“ (Das Geschwulstbuch)
+# owner = Lutz Popko
+# text_de = ohne ihr Wasser zuzusetzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [110,8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

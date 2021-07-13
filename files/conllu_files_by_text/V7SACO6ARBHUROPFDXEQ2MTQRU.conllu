@@ -1,0 +1,380 @@
+# sent_id = IBUBd8IkVPxmQEQygqTMF9AkJWc
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Sein Mund sprach:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (13)
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2c5iQ6hkEZgm0bROGoC2y0
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Ihre Grenzstelen sind vorzüglich gemacht worden wie der Himmel; ihr Wasser ist bekannt gemacht worden gemäß dessen, was in den Schriften stand, überprüft/berechnet gemäß dessen, was in alter Zeit war, weil er die Maat so sehr liebte.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (41) - (46)
+1	𓋴𓏠𓈖𓐍𓍊𓏛	135360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smnḫ
+2	𓎗𓅱𓆓𓉸𓏥	51990	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wḏ
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+6	𓂋𓐍𓏛	95620	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓏟𓏛𓏥	450097	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zẖꜣ.w
+13	𓋴𓇋𓊪𓏛	854525	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sjp
+14	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+15	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓇋𓋴𓅱𓏏𓆰	31320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jz.wt
+18	𓈖𓉻𓂝𓏏𓈖	857380	PART	particle	_	_	_	_	Translit=n-ꜥꜣ.t-n.t
+19	𓌻𓂋𓂋	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+21	𓌳𓂝𓐙𓏏𓏛	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+
+# sent_id = IBUBd2z2vM4SUUWglCLK3qL4OU4
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Sein Wasser, seine Felder, seine Tamariske und seine Sandgebiete (?) reichten bis zu den westlichen Wüsten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (52) - (53)
+1	𓈗	69000	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄿𓎛𓈇𓏥	191	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜣḥ.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓋴𓂋𓆱	31610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jzr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈙𓂝𓈄	152280	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šꜥy
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂋𓏠𓈖𓏛𓅓	92020	ADP	preposition	_	_	_	_	Translit=r-mn-m
+10	𓈉𓈉𓈉	114300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣs.t
+11	𓆄𓈉𓏏𓏏	26150	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=jmn.tj
+
+# sent_id = IBUBd68A7jT8i0vcmehgjOmL584
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Es war Atum persönlich, 𓍹Nebu-kau-Re (Amenemhet II.)𓍺 - gegeben Leben, Dauer und Macht, indem sein Herz sich (vor Freude) weitet, wie Re ewiglich -
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (75) - (77)
+1	𓏏𓍃𓅓𓀯	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓆓𓋴	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇳𓋞𓂓𓂓𓂓	400160	PROPN	entity-name	_	_	_	_	Translit=Nbw-kꜣ.w-Rꜥw
+6	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+7	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+8	𓊽	400140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏd
+9	𓌀	43300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣs
+10	𓄫	49	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣwi̯
+11	𓄣	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+14	𓇳	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+15	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd8eGcB1FrEywl8dDj8kqsL0
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Er hat mich an die Spitze seiner Edlen erhoben, mit dem Ergebnis, dass ich vor denen gestellt war, die vor mir waren.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (101) - (104)
+1	𓍿𓈖𓅮𓏛𓈖	175750	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯni̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓐍𓈖𓏏𓅱	850802	ADP	preposition	_	_	_	_	Translit=ḫnt
+5	𓃶𓀻𓏥	129120	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sꜥḥ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏙𓎡𓅱𓀀	851711	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=rḏi̯
+8	𓌨𓂋𓄂𓏏𓏤	500047	ADP	preposition	_	_	_	_	Translit=ẖr-ḥꜣ.t
+9	𓃹𓈖𓅱𓀀𓏥	46050	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+10	𓌨𓂋𓄂𓏏𓏤	500047	ADP	preposition	_	_	_	_	Translit=ẖr-ḥꜣ.t
+11	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdyxgpOAUOUF3lHekQeQvU9A
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Die Begünstigung fand statt in Gegenwart des (?) Ausspruchs des Königs persönlich.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (108) - (109)
+1	𓎛𓎿𓊃𓏏𓅱𓏛𓏥	109800	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥzw.t
+2	𓆣𓂋𓏏𓏛	858535	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓅓𓂸𓏤	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+4	𓁶𓊪𓏏𓂋𓏤	171170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tp.jt-rʾ
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+7	𓆓𓋴	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdx8GxtreI0RdoQ79VoyofGQ
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = (Denn) er hatte meine Redegewandtheit erkannt, obwohl meine Gestalt noch kindlich war.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (113) - (114)
+1	𓂋𓐍𓏛𓈖	95620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊨𓏏𓄓𓏤	860715	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t-ns
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈖𓐍𓅪	87260	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḫn
+6	𓌙𓌳𓈎𓄿𓏛	160590	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qmꜣ
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdWKc6OiDrkNbnwNHtvMWpa8
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Ich war ein Ehrwürdiger/Versorgter beim König;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (114) - (116)
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇋𓄪𓐍𓇋𓇋𓀻	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+7	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+
+# sent_id = IBUBd1oozALhY0SzuQr32hx7Li4
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = mein Lob war bei seinem Hofstaat;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (116) - (117)
+1	𓎛𓎿𓊃𓏏𓏛	109800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥzw.t
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+4	𓍲𓈖𓏏𓀀𓏥	155980	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šnw.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7wXEJbMxkyIpoH5xRF9xr0
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = meine Liebenswürdigkeit befand sich in Gegenwart seiner "Freunde":
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (117) - (119)
+1	𓇋𓄿𓅓𓏏𓆭𓏛	24900	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jꜣm.t
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓𓂸𓏤𓏛	851452	ADV	adverb	_	_	_	_	Translit=m-bꜣḥ
+4	𓋴𓍋𓅓𓂋𓀻𓏥	135420	_	epitheton-title	Number=Plur|Status=Pron	_	_	_	Translit=smr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1ht8zwcQUbNnkhIHvQrGEc
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Ihm (d.h. Nacht) ist eine Anzahl an Würden verliehen worden durch die Majestät des Horus, Leiter der beiden Länder, des Nebti, der die Maat erscheinen läßt, des Goldhorus, der die Götter zufriedenstelt, des Königs von Ober- und Unterägypten 𓍹Die Gestalt des Re ist erschienen𓍺, des Sohnes des Re 𓍹Sesostris (II.)𓍺, beschenkt mit Leben, Dauer und Macht wie Re ewiglich,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (127) - (131)
+1	𓏙𓅱	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓍿𓈖𓏌𓅱𓅮𓏛	175830	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ṯnw
+5	𓃶𓏥	129070	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ
+6	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓅃	400034	_	epitheton-title	_	_	_	_	Translit=Ḥr.w
+10	𓋴𓌬𓅱𓇿𓇿	400503	PROPN	entity-name	_	_	_	_	Translit=Sšm.w-Tꜣ.wj
+11	𓅒	400065	_	epitheton-title	_	_	_	_	Translit=nb.tj
+12	𓋴𓈍𓂝𓏛𓐙𓂝𓏏𓆄	400995	PROPN	entity-name	_	_	_	_	Translit=Sḫꜥ-mꜣꜥ.t
+13	𓅃𓋞	400069	_	epitheton-title	_	_	_	_	Translit=Ḥr.w-nbw
+14	𓊹𓊹𓊹𓊵	400996	PROPN	entity-name	_	_	_	_	Translit=Ḥtp-nṯr.w
+15	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+16	𓇳𓈍𓆣	550031	PROPN	entity-name	_	_	_	_	Translit=Ḫꜥi̯-ḫpr-Rꜥw
+17	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+18	𓄊𓋴𓂋𓏏𓊃𓈖	400051	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+19	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+20	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+21	𓊽	400140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏd
+22	𓌀	43300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣs
+23	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+24	𓇳	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+25	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd4vLKPrloUm8hk87D83kM5s
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = (Es) wurde veranlaßt, dass er (d.h. Nacht) seine Grenze gemäß des Grundbuchs (?) kannte, geprüft gemäß dessen, was in den alten Schriften steht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (134) - (136)
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏏𓍔𓄿𓈙𓏴𓈇𓏤	169650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tꜣš
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓐍𓂧𓏏𓏛	121980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫd.t
+8	𓋴𓊪𓇋𓏛	854525	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sjp
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓇋𓋴𓅱𓏏𓆰	31320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jz.wt
+
+# sent_id = IBUBd1s9UJF1DkIYmdTJ9gvuzQ0
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = reich an Produkten/Geschenken des Palastes,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (153) - (154)
+1	𓆈𓄿𓏛	41010	VERB	verb	_	_	_	_	Translit=ꜥšꜣ
+2	𓏎𓈖𓏌𓅱𓏛𓏥	27040	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jn.w
+3	𓇓𓏏𓈖𓉐	400419	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-nswt
+
+# sent_id = IBUBdQJVCz1wPkDJrsGFMOWs6Hg
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = einer, auf den die Hörenden/Richter hören,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (155) - (156)
+1	𓄔𓅓𓅱	150560	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=sḏm
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄔𓅓𓅱𓀻𓏥	150700	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sḏm.yw
+
+# sent_id = IBUBd5F8hzjWa0SZl4TCmgTXt8k
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = der eine Mund, der die Münder schließt,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (156) - (157)
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓌡𓏤𓂝	44150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ
+3	𓎛𓊨𓏏𓅭	111600	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥtm
+4	𓂋𓂋𓂋	92560	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rʾ
+
+# sent_id = IBUBdWANU3r2FETAr9lWmUkWQt4
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = der (immer wieder) das, was nützlich für seinen Herrn ist, herbeibringt,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (157) - (158)
+1	𓏎𓈖𓈖	26870	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jni̯
+2	𓅜𓐍𓏏	217	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎟𓀻	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdzYeNduUpE7SiCCyVSzm54Q
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = (Denn) ein Mann sollte dem nachahmen, was sein Vater zu tun pflegte.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (171) - (172)
+1	𓋴𓌢𓈖𓏕𓏛	854546	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zni̯
+2	𓊃𓏤𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓁹𓂋𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwO8nv14eUsauVIrNmwNUMg
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Das vom Grafen Chnumhotep erreichte:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (192)
+1	𓆣𓂋𓏏𓏛	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+3	𓎸𓎛𓊵	450112	PROPN	entity-name	_	_	_	_	Translit=H̱nm.w-ḥtp.w
+
+# sent_id = IBUBd4Z5ZrQz6EyilnBjWLZcg4w
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Der Speisenbedarf und das Invokationsopfer befinden sich auf jedem Denkmal, das ich angefertigt habe.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (204) - (206)
+1	𓄑𓂧𓏏𓏛𓊵𓏏𓊪𓏒𓏥	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+2	𓉓𓃾𓅿𓏒𓏥	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏠𓈖𓏌𓏌𓏌	70420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn.w
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+6	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdx98euMwbkDDqtfWnSmEpsM
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Ich bin einer mit edlen Denkmälern.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (213)
+1	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓃶	129120	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sꜥḥ
+3	𓏠𓈖𓏌𓏌𓏌𓏛𓏥	70420	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mn.w
+
+# sent_id = IBUBd3YqU0gAL0T0r1sHP1mq4ZM
+# corpus = sawlit
+# src_text_id = V7SACO6ARBHUROPFDXEQ2MTQRU
+# src_text = sawlit:Grab des Chnumhotep II (Beni Hasan 3)//Biographie Chnumhoteps II.
+# owner = Peter Dils
+# text_de = Der Grabverwalter und Siegelvorsteher Baqet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = (222)
+1	𓐍𓂋𓊪𓂝	120190	_	epitheton-title	Number=Sing|Status=Cons	_	_	_	Translit=ḫrp
+2	𓇋𓇩𓉐	31010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz
+3	𓄓𓋨𓏏	600425	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḫtm.t
+4	𓅡𓈎𓏏𓆭𓀀	_	X	unknown	_	_	_	_	_
+

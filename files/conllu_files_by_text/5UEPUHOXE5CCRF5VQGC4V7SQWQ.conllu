@@ -1,0 +1,585 @@
+# sent_id = IBUBd2lKdRTIkk3MhpJqBcxvo7U
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = "Eile du zu ihm (und hole ihn), damit ich ihn sehen kann!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,2]
+1	𓎛𓈖𓏌𓏲𓂾𓂻	854531	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥn
+2	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊪𓏏𓂋𓇋𓆵𓁻	62900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ptr
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd5Xl4JknoUYOiUEmgnKCvwA
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann ging sie
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+
+# sent_id = IBUBdyhyCWjxK0V0gPN8ZjrIbf8
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann machte er jegliche Kampfübungen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓁹𓂋𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓂓𓏏𓏲𓏛𓏥	163020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣ.t
+6	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓂚𓄿𓏲𓏛𓀜	40060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜣ.wtj
+
+# sent_id = IBUBd9l79Xird0vLqaJ69cncX5o
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagten seine Kameraden zu ihm: "Wessen Sohn bist du (denn)? Du hast (ja überhaupt) keinen Vater!" und sie verhöhnten und verspotteten ihn:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,3] - [5,4]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓈖𓄿𓇋𓇋𓏥	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓂋𓏭𓀹𓏛𓀀𓏫	28510	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jr.j
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓𓈖𓏏𓎢	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+10	𓈙𓂋𓇋𓏲𓅪	156650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šrj
+11	𓈖𓏭𓅓𓂝𓀁	83990	PRON	pronoun	PronType=Int	_	_	_	Translit=njm
+12	𓅓𓂝𓈖𓏥𓂜𓁹	69560	PART	particle	_	_	_	_	Translit=mn
+13	𓅓𓂞𓏲	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+14	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+16	𓅓𓏏𓏲	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+17	𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+18	𓋴𓎛𓅨𓂋𓌟𓀁𓏥	140600	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḥwr
+19	𓎢	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓅓𓏏𓏲	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+21	𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+22	𓇋𓄿𓂧𓏏𓏯𓅪	21140	VERB	verb	VerbForm=Fin	_	_	_	Translit=jꜣd
+23	𓎢	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyU6xWYfUEWHgJ374TxSWjM
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = "Wahrlich, du hast (ja überhaupt) keinen Vater!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,4]
+1	𓇋𓇋𓄿	20060	INTJ	interjection	_	_	_	_	Translit=jꜣ
+2	𓅓𓂝𓈖𓏭𓂜𓁹	69560	PART	particle	_	_	_	_	Translit=mn
+3	𓅓𓂞𓏲	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+
+# sent_id = IBUBd7LQPMkXJErRncTUIAKFBv4
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte der Jüngling zu seiner Mutter:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,4] - [5,5]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓂝𓆓𓂧𓏲𓀔𓅪𓀀	42290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏd
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+
+# sent_id = IBUBd57BdzKnoksom91KZRuQQKg
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte seine Mutter zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,7]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8mwn1L6QEfKqraBg4QkfP0
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Das ist dein Vater", sagte sie, zu ihm sprechend.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5,8] - [6,1]
+1	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+4	𓅯𓄿𓏭	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+5	𓇋𓀁𓈖	500024	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=j
+6	𓊃𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4q86YgLnEFxvTFr97LMwg0
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = "(Man) sollte deine (ach so) menschliche Sippe (?) versammeln und man sollte ein Krokodil rufen lassen (sc. um dich/sie (?) ihm vorzuwerfen)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,1] - [6,2]
+1	𓆷𓄿𓏲𓏛	151560	ADJ	adjective	_	_	_	_	Translit=šꜣ.w
+2	𓍇𓏌𓏲𓇋𓇋𓏏𓏛𓀜	854081	VERB	verb	VerbForm=Fin	_	_	_	Translit=nwi̯
+3	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+4	𓁐	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+5	𓅓𓂝𓉔𓄿𓇋𓀀𓁐𓏥	73130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mhw.t
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓂋𓎀𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+8	𓅓𓏏𓏲	600030	PART	particle	_	_	_	_	Translit=mtw⸗
+9	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+10	𓂞𓏏𓏲	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+11	𓂝𓈙𓄑𓀁	40890	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥš
+12	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+13	𓌡𓂝𓏤	600043	PRON	pronoun	_	_	_	_	Translit=wꜥ
+14	𓅓𓋴𓎛𓏲𓆊𓏥	75590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mzḥ
+
+# sent_id = IBUBdwB5rHqfc0DOotXZrG67jVg
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann holte der Jüngling seinen Vater.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,2] - [6,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓂝𓆓𓂧𓏲𓀔𓅪𓀀	42290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏd
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓏎𓈖	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+6	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+
+# sent_id = IBUBd9YdRwGBYkDltc1srV9rNoc
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann ließ er ihn sich setzen -
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓈞𓊃𓀕	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0wzCWwVd0K2lQIAFQpGkjI
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = und zwar auf einem richtigen Stuhl (wörtl.: ein Stuhl (und nicht nur der Fußboden oder eine Matte) war unter ihm).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,3]
+1	𓌡𓂝𓏤	600043	PRON	pronoun	_	_	_	_	Translit=wꜥ
+2	𓈎𓈖𓇋𓏲𓆱	161290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qnj.w
+3	𓌨𓂋𓏭𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0w2wui3WEGEt3tEy2WnRPY
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann ließ er ihn trinken.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,4] - [6,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5cIow6TUkqqnGxD4OQuvM4
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte der Jüngling zu seinem Vater:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,5]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓂝𓆓𓂧𓏲𓀔𓅪𓀀	42290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏd
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
+
+# sent_id = IBUBdQfscM3Qc0Wbm8ufBYWHiOs
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = "Wer war es, der dich geblendet hat?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,5] - [6,6]
+1	𓈖𓏭𓅓𓂝𓀁	83990	PRON	pronoun	PronType=Int	_	_	_	Translit=njm
+2	𓇋𓀁𓂋𓏭𓎢𓄿𓏠𓈖𓁻𓀀	163570	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=kꜣmn
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+
+# sent_id = IBUBdyWQwuruY06UiO1LQpqXAbE
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte er ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9VFHQ0JF0xrokeFWXLQ2k0
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann erzählte er ihm all das, was mit ihm geschehen war.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅯𓄿𓏭	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+8	𓆣𓂋𓏲	858535	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+9	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+10	𓅓𓂞	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzOzLGvsokJyk9D3BvbrXGQ
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann ergriff er 10 Brote, einen Stab, ein Paar (?) Sandalen, einen Wasserschlauch und ein Messer.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,1] - [7,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓅷𓄿𓇋𓇋𓂷𓂡	174260	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯꜣi̯
+5	𓎆	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓅧𓈎𓏲𓏒𓏥	41470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥq.w
+8	𓌡𓂝𓏤	600043	PRON	pronoun	_	_	_	_	Translit=wꜥ
+9	𓎜𓏲𓆱	102130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+10	𓌡𓂝𓏤	600043	PRON	pronoun	_	_	_	_	Translit=wꜥ
+11	𓂋𓂧𓂾𓂾𓄹𓏭	96600	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=rd
+12	𓍘𓏲𓏏𓋸𓋸𓄛𓏤	175160	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ṯbw.t
+13	𓌡𓂝𓏤	600043	PRON	pronoun	_	_	_	_	Translit=wꜥ
+14	𓄚𓈖𓏭𓄛𓏤	123140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖn.t
+15	𓌡𓂝𓏤	600043	PRON	pronoun	_	_	_	_	Translit=wꜥ
+16	𓋴𓆑𓂧𓌫𓂡𓈔	133420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zf.t
+
+# sent_id = IBUBd0AVowMF30FsrP6WeuliJro
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann sagte er zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwv8UwHCGkXbjrIYId4BU1w
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte er zu seinem Hirten:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,2]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓀦𓄿𓏲𓏛𓀜	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+
+# sent_id = IBUBd65upEjNP0GaioiBQJsx3vQ
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann sagte der Hirte zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓀦𓄿𓏲𓏛𓀜	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7eMiSeAY0ZToXAihjtOpbU
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = "Es gehört nicht mir.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,3]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓇋𓏌𓀀𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd7KINhBaFkRxvAQJaLZ9uB4
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte Lüge zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,3]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓎼𓂋𓍅𓏛𓅪𓀀	168150	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=grg.y
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxdZ7D617kEVn5CosFY4nQg
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Gib eines von denen seinem Besitzer!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,4]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓌡𓂝𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓎟𓀀	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd3AghYNonEtht3jdMxg696k
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Dann sagte er zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdw9WZG1aoknclplFlxQdJNI
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Ich kann es nicht inmitten deiner Rinder sehen."
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,6] - [8,7]
+1	𓃀𓏲	55130	PART	particle	_	_	_	_	Translit=bw
+2	𓁹𓂋𓏲	851809	VERB	verb	_	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓊪𓏏𓂋𓇋𓆵𓁻	62900	VERB	verb	VerbForm=Fin	_	_	_	Translit=ptr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓𓄚𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+7	𓈖𓄿𓇋𓇋𓏥	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓃒𓏫	30410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḥ
+
+# sent_id = IBUBd7rSSqHMPE6Nj8SJTdyFLbo
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte der Hirte zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,7]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓀦𓄿𓏲𓏛𓀜𓀀	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWvODQa1AEt8hTnyQuCC33g
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Nimm dir das, nach dem dein Sinn steht!"
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [8,7] - [9,1]
+1	𓅷𓄿𓇋𓇋𓂷𓂡	174260	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ṯꜣi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3Y64w0WvUPJscPfvlRE7YQ
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte der Jüngling zu ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,1]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓂝𓆓𓂧𓏲𓀔𓅪𓀀	42290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏd
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7Al6lyWsU5zi7ZSgAbkGfs
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da sagte der Hirte [zu] ihm:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,5]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓀦𓄿𓏲𓏛𓀜	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3yCXUvWzUizttYLSmQRgZY
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Da ergriff ihn der Jüngling
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,5] - [9,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓂝𓆓𓂧𓏲𓀔𓅪𓀀	42290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏd
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎔𓏛	854514	VERB	verb	VerbForm=Fin	_	_	_	Translit=mḥ
+6	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwD8srqb5Us3i1M246C9e8w
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = "Urteilt zwischen Wahrheit und Lüge!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,5]
+1	𓄋𓊪𓏲𓏏𓏴𓀁	45640	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wpi̯
+2	𓌷𓂝𓏏𓆄𓏛𓀀	500312	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.tj
+3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+4	𓎼𓂋𓍅𓏛𓀀	168150	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=grg.y
+
+# sent_id = IBUBdwMdyPuKmESNh89WjJJU6jQ
+# corpus = sawlit
+# src_text_id = 5UEPUHOXE5CCRF5VQGC4V7SQWQ
+# src_text = sawlit:pChester Beatty II ⸗ pBM EA 10682//Wahrheit und Lüge
+# owner = Lutz Popko
+# text_de = Ich bin sein (Wahrheits) Sohn;
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10,5]
+1	𓇋𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈙𓂋𓇋𓏲𓀔𓅪𓀀	156650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šrj
+

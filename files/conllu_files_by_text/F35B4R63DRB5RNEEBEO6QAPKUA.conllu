@@ -1,0 +1,1248 @@
+# sent_id = IBUBdWU4GTWQf0LksOrhIPiPnHI
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Die Ufer des Horus (Ägypten) sind (dann) in Jubel!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1,8]
+1	𓈅𓈇𓈅𓈇𓈅𓈇𓏫𓄑𓂋𓅆	33990	PROPN	entity-name	Number=Plur|Status=Abs	_	_	_	Translit=Jdb.wj-Ḥr.w
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓂝𓂝𓀠	102120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥꜥ.wt
+
+# sent_id = IBUBdznRQvBMrUAKim1jVyzQxAA
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Deine göttliche Flüssigkeit (Same) war in meinem Leibe!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1,10]
+1	𓈗𓈘𓈇	69000	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓊹𓏏𓂋𓆵𓏭𓏛	400281	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nṯr.j
+4	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+6	𓁗	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd9uCBn0jOUWpkZHVkyaXXaA
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt ist deine Schulter (und) deine beiden Oberarme, (und) Makrit beschützt deinen Arm, Osiris Chontamenti (und) Osiris Nesmin selig, geboren von Tschentohe selig!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [1,30] -  [2,1]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓈎𓂝𓎛𓂢𓏏𓏤	159830	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qꜥḥ
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋𓏠𓈖𓂢𓂢𓄹	854523	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rmn
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓅓𓂝𓈎𓂋𓇋𓏲𓆗	500473	PROPN	entity-name	_	_	_	_	Translit=Mqr.yt
+7	𓀸	126290	VERB	verb	VerbForm=Fin	_	_	_	Translit=zꜣu̯
+8	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+11	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+12	𓈖𓄓𓊃𓈾𓏮𓅆𓀀	702786	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Mnw
+13	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+14	𓄟𓋴𓏯	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+15	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+16	𓏏𓄿𓀔𓁐𓈖𓏏𓄿𓇋𓎛𓃒𓏏𓁐	708584	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-šrj.t-n-tꜣ-jḥ.t
+17	𓆄𓊤𓏯	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd2BlopW8SkOsnpJAJU6I8YU
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt sind deine beiden Arme, die das Nechacha (Flaggellum) (und) das Heqa-Szepter halten, (indem) sie fest in deinen Händen sind, Osiris Chontamenti!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,1]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓂝𓂝𓏤𓏭𓏲	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓆑𓄿𓀋𓏛𓀜	63460	VERB	verb	Number=Dual|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=fꜣi̯
+5	𓈖𓐍𓐍𓌅	86890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫꜣḫꜣ
+6	𓋾𓈎𓅆	110380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥqꜣ.t
+7	𓏠𓈖𓍖	69590	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂝𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+
+# sent_id = IBUBd7Q9S8BdYkLovEnQFFp2R9I
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt sind deine Hände, die fest auf dem Stabe liegen, (wenn) er in deinen Handflächen ruht, Osiris Chontamenti!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,2]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓂧𓏏𓏤𓏥	184630	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏr.t
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋴𓏠𓈖𓍖	851677	VERB	verb	Number=Plur|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=smn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓌃𓏤𓆱𓏏𓏤	78130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mdw
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓏠𓈖𓍖	69590	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
+10	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+11	𓊏𓊪𓇹𓏤𓏥	157200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šzp
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+
+# sent_id = IBUBdxKJt15VTEgGmGKYw4NvyhM
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt sind deine Seiten (des Oberkörpers) (und) deine Wirbel sind fest gefügt, Osiris Chontamenti!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,2]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓇥𓂋𓏲𓏲𓄹𓏥	185060	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏrw.w
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋭𓊃𓄹𓏥	176930	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ṯꜣz.t
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓋴𓏠𓈖𓍖	851677	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=smn
+7	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+
+# sent_id = IBUBdzzGJTiqpU88uFgljVdJ7Kk
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt ist dein Bauch (und) deine Bauchdecke, sie verbirgt das, was in ihm ist, Osiris Chontamenti!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,2] -  [2,3]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓄡𓏏𓏤𓄹	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈙𓇾𓏴𓏛𓏏𓉐	158090	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=štꜣ.t
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇉𓄿𓊪𓏲𓍱𓀜	101300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣp
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓏶𓅓𓏮	25120	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jm.j
+9	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+10	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+
+# sent_id = IBUBd5CVlrXibUDytElHwgcsfVY
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt sind deine beiden Rippenseiten, die fest an deine Wirbel gefügt sind, Osiris Chontamenti!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,3]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓆄𓆄𓏏𓏮𓄹	152840	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=šw.t
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋴𓏠𓈖𓍖	851677	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=smn
+5	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋭𓊃𓏏𓄹𓏥	176930	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ṯꜣz.t
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+
+# sent_id = IBUBd6xWSl1I90sOpFkaAyltYnw
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt ist dein Rücken und dein Hinterteil, (um) bequem auf dem Thron zu sitzen jeden Tag, Osiris Chontamenti!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,4]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓊪𓊃𓂧𓄧𓄹	62400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=psḏ
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓐍𓊪𓂧𓏏𓄹	116550	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫpd
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓋴𓇛𓅓𓀉	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓎼𓏏𓉐	87870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ns.t
+10	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+11	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+
+# sent_id = IBUBd7WT4ZQ4Q0QurOOUbAmaFUU
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt sind deine Oberschenkel, die wie eine Säulenhalle sind, Osiris Chontamenti!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,4]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓏠𓈖𓂾𓂾𓄹𓏥	69800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mn.t
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓃹𓈖𓈖𓏲𓏥	46050	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓏲𓆼𓄿𓏏𓉐	850417	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḫꜣ.yt
+7	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+
+# sent_id = IBUBdQMQOfSWvUPwiMGGdVkPbCU
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt sind deine beiden Fußsohlen auf Erden, unter denen das Wasser hervorkommt, Osiris Chontamenti!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,5]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓂧𓃀𓏏𓏮𓋸𓋸𓏥	175160	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ṯbw.t
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+6	𓉐𓂋𓂻	60920	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=pri̯
+7	𓈗𓈘𓈇	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+8	𓌨𓂋𓏏𓏛𓏤	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+9	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+10	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+
+# sent_id = IBUBd9ckfmm60UV9thAlRwJKEmc
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "He, Osiris Chontamenti (und) Osiris Nesmin selig, geboren von Tschentohe selig, du bist gesund an deinem Leibe, vertrieben ist deine Krankheit, geheilt ist dein Leiden, jener Jammer, er soll nicht (wieder)kommen ewiglich!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,7] -  [2,8]
+1	𓉔𓄿𓇋𓇋𓀁	97760	INTJ	interjection	_	_	_	_	Translit=hy
+2	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+3	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+4	𓈖𓄓𓊃𓈾𓏮𓀀	702786	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Mnw
+5	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓄟𓋴𓏯	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+7	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+8	𓏏𓄿𓀔𓁐𓈖𓏏𓄿𓇋𓎛𓃒𓏏𓁐	708584	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-šrj.t-n-tꜣ-jḥ.t
+9	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+10	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓋴𓈖𓃀𓏮𓏛	851676	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snb
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓎛𓂝𓏰𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+15	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓂧𓂋𓏛𓀜	180130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dr
+17	𓆼𓄿𓇋𓇋𓏏𓆇𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜣ.t
+18	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+19	𓋴𓈖𓃀𓏛	851676	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=snb
+20	𓏠𓈖𓅪	69770	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mn.t
+21	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+22	𓈖𓐍𓏭𓏲𓀁	87000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḫ.wt
+23	𓊪𓆑𓏮	851258	PRON	pronoun	PronType=Dem	_	_	_	Translit=pfj
+24	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+25	𓇍𓇋𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+26	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+27	𓂋𓎛𓎛𓇳	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdQf6DqNgAkBLuiUgMVyBXlQ
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Die Männer rufen nach dir, die Frauen weinen (um) dich, solange bis du zu ihnen kommst (in der Länge der Zeit (bis) zu deinem Kommen zu ihnen)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,8] -  [2,9]
+1	𓅷𓏤𓄿𓂺𓀀𓏥	174240	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯꜣ.y
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈖𓇋𓋴𓀞𓏛	80210	VERB	verb	VerbForm=Fin	_	_	_	Translit=njs
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓈟𓏏𓁐𓏥	104730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓂋𓂋𓅓𓁿𓏏𓏲	94180	VERB	verb	VerbForm=Fin	_	_	_	Translit=rmi̯
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓄫𓏲𓏛	31	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣw
+12	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓂻𓏲	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+16	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdwnodV1M3UtIvvoxwWt1CxY
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Die Schreinreihe von Oberägypten (El Kab) (und) die Schreinreihe von Unterägypten (Buto), nicht sollen sie ohne deinen Namen sein!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,9]
+1	𓇋𓏏𓏲𓂋𓏏𓉐𓏏𓉐𓇘𓏏𓏰𓊖	33350	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jtr.t-šmꜥ.t
+2	𓇋𓏏𓏲𓂋𓏏𓉐𓏏𓉐𓇇𓏏𓏰𓊖	33330	PROPN	entity-name	_	_	_	_	Translit=jtr.t-mḥ.t
+3	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+4	𓆄𓅪	152670	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šwi̯
+5	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdyXxxeC0wEcqmt1gLTmCBQE
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Du sollst dauern in den Gauen (und) Städten der Götter ewiglich!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,9]
+1	𓏠𓈖𓍖	69590	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈈𓏏𓏥	854544	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=spꜣ.t
+5	𓊖𓏥	80890	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nʾ.t
+6	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+7	𓇋𓏲𓎛𓎛𓇳	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd9BffdkL6kwykGaGmwPyWHw
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Dein Sohn Horus wirft deine Feinde nieder!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,10]
+1	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓄑𓂋𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴𓐍𓂋𓂡𓏥	142780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫr
+6	𓐍𓆑𓏏𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdxam8ahkZEWyq4nmJDQWbfM
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Steige du auf zum Himmel (und) vereinige du dich mit Re!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,10]
+1	𓎀𓊃𓍟𓂻	854581	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯzi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓄥𓄿𓅓𓏛	134180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zmꜣ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBdwRRp74f1E85ueTaS6cviRc
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Die Mannschaft der Barke des Re, sie bringen dir Lobpreis aus!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,10]
+1	𓇋𓏏𓏤𓇋𓇋𓀀𓏥𓏲𓇋𓄿𓊛𓅆𓇳𓅆	851642	PROPN	entity-name	_	_	_	_	Translit=Jz.t-wjꜣ-(n)-Rꜥw
+2	𓂞𓏏	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋𓄿𓏭𓏲𓀢𓏛𓏥	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+
+# sent_id = IBUBd5MA846nZkDesk7dnTmC6S8
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = (⸮Thot spricht?:) "Ich habe die große Neunheit erschaffen (und) ich habe (dazu) die kleine Neunheit gebildet ('ausgestattet')!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,12] -  [2,13]
+1	𓈎𓌳𓄿𓅓𓌙𓅯𓏛𓈖	854564	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qmꜣ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇷𓏛𓊹𓊹𓊹𓅆𓏫𓉻𓏏𓏛	500407	PROPN	entity-name	_	_	_	_	Translit=Psḏ.t-ꜥꜣ.t
+4	𓐢𓂋𓏛𓈖	37090	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥpr
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓇷𓏛𓊹𓊹𓊹𓅆𓏫𓈖𓆓𓊃𓏏𓏰	500408	PROPN	entity-name	_	_	_	_	Translit=Psḏ.t-nḏs.t
+
+# sent_id = IBUBdxzS341WdUdqn2aQJhpCAns
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "(Denn wenn) das Udjat-Auge sich im 15. Tage des Mondmonats (Vollmondstag) befindet, dann ist es das Füllen des Monats (⸗ des Mondes) seit langem!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏲𓍑𓄿𓏏𓏰𓅆	52140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜣ.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎆𓏤𓏤𓏤𓏤𓏤𓈖𓏏𓏰𓎱𓇳	852387	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tp-smd.t
+5	𓎡𓄿𓀁	162840	PART	particle	_	_	_	_	Translit=kꜣ
+6	𓎔𓏛	854514	VERB	verb	VerbForm=Fin	_	_	_	Translit=mḥ
+7	𓇺𓇼𓂧𓏲𓇳𓏤𓎱𓇳	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓍯𓄿𓏲𓏲𓈐𓂻	42640	ADV	adverb	_	_	_	_	Translit=wꜣ.w
+
+# sent_id = IBUBd1QjThzTOE8HheXJBg15XoA
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "I (Thot) versieht es (das Udjat-Auge) mit seinen Bestandteilen, um das Leid (den Kummer) von ihm zu vertreiben!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,14]
+1	𓇋𓅆	21980	PROPN	entity-name	_	_	_	_	Translit=Jw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓐝𓊃𓐝𓊃𓏴𓂡	168630	VERB	verb	VerbForm=Fin	_	_	_	Translit=gsgs
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂧𓃀𓎛𓄑𓀁𓏒𓏥	178830	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=dbḥ.w
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂋𓇋𓄿𓂢𓅪	93540	VERB	verb	VerbForm=Fin	_	_	_	Translit=rwi̯
+10	𓇋𓉔𓄿𓅪	174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣh.w
+11	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+12	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd66weMN0sEM4vvIbAh19ZIs
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "He, Osiris Chontamenti (und) Osiris Nesmin selig, geboren von Tschentohe selig, du verjüngst dich im Horizont des Himmels jeden Tag (und) du alterst zur rechten Zeit!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,15] -  [2,16]
+1	𓉔𓄿𓇋𓇋𓀁	97760	INTJ	interjection	_	_	_	_	Translit=hy
+2	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+3	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+4	𓈖𓄓𓊃𓈾𓏮𓅆𓀀	702786	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Mnw
+5	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓄟𓋴𓏯	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+7	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+8	𓏏𓄿𓀔𓁐𓈖𓇋𓎛𓃒𓏏𓁐	708584	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-šrj.t-n-tꜣ-jḥ.t
+9	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+10	𓎛𓃹𓈖𓏌𓏲𓀔𓅆	103040	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwn
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓈌𓏏𓉐𓅆	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+14	𓈖𓏏𓏮	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+15	𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+16	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+17	𓈖𓐍𓐍𓀗𓅆	87470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḫḫ
+18	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+19	𓁶𓏤	850801	ADP	preposition	_	_	_	_	Translit=tp
+20	𓂧𓂋𓆴𓇳𓇳𓏫	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+
+# sent_id = IBUBd2J0txEDMkdGnZJ4mk4nR44
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Dein ist Himmel (und) Erde, dein die Überschwemmungsflut, dein (auch) Alles, was zwischen ihnen ist in diesem deinem Namen des Nils!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,18] -  [2,19]
+1	𓈖𓎡𓇋𓅓𓇋𓇋𓏮𓏛	400984	ADJ	adjective	_	_	_	_	Translit=n⸗ ...-jm.y
+2	𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+3	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓈖𓎡𓇋𓅓𓇋𓇋𓏮𓏛	400984	ADJ	adjective	_	_	_	_	Translit=n⸗ ...-jm.y
+5	𓈖𓏏𓏰𓈗𓈘𓈇	79020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=n.t
+6	𓈖𓎡𓇋𓇋𓅓𓏮𓏛	400984	ADJ	adjective	_	_	_	_	Translit=n⸗ ...-jm.y
+7	𓏶𓅓𓏮𓏏𓏲	25400	ADP	preposition	_	_	_	_	Translit=jm.wtj
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓊪𓆑𓏮	851258	PRON	pronoun	PronType=Dem	_	_	_	Translit=pfj
+14	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+15	𓄹𓂐𓈗𓈘𓈇𓅆	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+
+# sent_id = IBUBd9fX3mBsxUGniuNRXRxvZRE
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Maat" - zwei Mal - "ist mit dir (und) sie wird sich von dir keinen Tag entfernen, (denn so) wird kein Unrecht an dich herankommen, wo immer du bist (an jedem Ort, an dem du bist)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,20]
+1	𓆄𓏏𓏛𓅆	66630	PROPN	entity-name	_	_	_	_	Translit=Mꜣꜥ.t
+2	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓍯𓄿𓏲𓈐𓂻	42550	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣi̯
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+12	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+13	𓃀𓋴𓆟𓂻	854509	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bzi̯
+14	𓇋𓇩𓋴𓆑𓏏𓅪𓏥	31500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jzf.t
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+19	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+20	𓃹𓈖𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=wnn
+21	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+22	𓇋𓅓𓏮𓏛	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd8suXElR2EKWuMWJh6JQgno
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Dein ist das Leben (wie) der Tod, dein sind (auch) Männer (wie) Frauen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,20] -  [2,21]
+1	𓈖𓎡𓇋𓅓𓇋𓏮𓏛	400984	ADJ	adjective	_	_	_	_	Translit=n⸗ ...-jm.y
+2	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+3	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+4	𓈖𓎡𓇋𓅓𓇋𓏮𓏛	400984	ADJ	adjective	_	_	_	_	Translit=n⸗ ...-jm.y
+5	𓅷𓄿𓂺𓀀𓏥	174240	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯꜣ.y
+6	𓈟𓏏𓁐𓏥	104730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+
+# sent_id = IBUBd8D71soBM0WJh3jsjDrIIDU
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Dein Thron ist dauerhaft jeden Tag wie der Thron des Re während der langen Königsherrschaft in seiner Residenz, (als) seine beiden Kinder, Schu (und) Tefnut, mit ihm waren in der Urzeit!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,22] -  [2,23]
+1	𓎼𓏏𓉐	87870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ns.t
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏠𓈖𓍖	851677	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=smn
+4	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓎼𓏏𓉐	87870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ns.t
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓇓𓏏𓈖𓇋𓇋𓅆	88090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nsw.yt
+11	𓉻𓏏𓏛	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓄚𓈖𓏌𓏲𓊖	854537	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖnw
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+16	𓅭𓏤𓅆𓅭𓏤𓅆	125650	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=zꜣ.tj
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓆄𓏲𓅆	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+19	𓏏𓆑𓏌𓏏𓏏𓆇𓁗	171880	PROPN	entity-name	_	_	_	_	Translit=Tfn.t
+20	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+22	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓊃𓊪𓊗𓁶𓊪𓏭	132610	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-tp.j
+
+# sent_id = IBUBdxb7sWL3r0e1uQ4QZvUKQBc
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Du bist die 'Macht verehrt (von) den Lebenden', mögest du uns erscheinen, wann immer Sehnsucht nach dir herrscht ('zum Zeitpunkt des Sich Sehnens nach dir')!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,26] -  [2,27]
+1	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+2	𓌂𓏤𓅆𓇼𓄿𓏲𓀢𓏛𓏥𓋹𓈖𓐍𓏲𓀀𓁐𓏫	852397	_	epitheton-title	_	_	_	_	Translit=sḫm-dwꜣ-ꜥnḫ.w
+3	𓏲𓃀𓈖𓇳𓅆	854500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbn
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓈖𓏥𓅆	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂧𓂋𓆴𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓏲𓆼𓄿𓐍𓂻	49120	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḫꜣ
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5DFHb9AcUHOn2zyJIluRfA
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Die Südlichen (und) die Nördlichen, sie sollen nicht deines Anblickes entbehren, die Westlichen (und) die Östlichen sind beständig in ("unter der") (Ehr)furcht vor dir!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,27]
+1	𓏏𓇔𓏏𓏤𓏫	96070	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rs.jw
+2	𓎔𓏏𓏏𓏤𓏫	73580	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mḥ.tjw
+3	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+4	𓆄𓏲𓅪	152670	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šwi̯
+5	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+6	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓋀𓏏𓈇𓏤𓏫	26220	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jmn.tjw
+10	𓋁𓃀𓏏𓏏𓏤𓏫	20670	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jꜣb.tjw
+11	𓏠𓈖𓍖	69590	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
+12	𓌨𓂋𓏮𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+13	𓋴𓈖𓂧𓏏𓏰𓀁	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdwAe6fbBR0NygWefsZ4uHkA
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "He, Osiris Chontamenti (und) Osiris Nesmin selig, geboren von Tschentohe selig, komm zu mir, (denn) ich bin deine Schwester Isis!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,28]
+1	𓉔𓄿𓇋𓇋𓀁	97760	INTJ	interjection	_	_	_	_	Translit=hy
+2	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+3	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+4	𓈖𓄓𓊃𓈾𓏮𓅆𓀀	702786	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Mnw
+5	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓄟𓋴𓏰	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+7	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+8	𓏏𓄿𓀔𓁐𓈖𓏏𓄿𓇋𓎛𓃒𓏏𓁐	708584	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-šrj.t-n-tꜣ-jḥ.t
+9	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+10	𓅓𓂝𓇋𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+14	𓌢𓇋𓁐𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+15	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓊨𓏏𓆇𓁗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+
+# sent_id = IBUBd0Jta4YEFUOXmdvWPmCYC3Y
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Erhebe dich" - zwei Mal -, "komm zu meiner Stimme, (daß) du hörst mein Künden von dem, was ich für dich getan habe!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,28] -  [2,29]
+1	𓎀𓊃𓍟	854581	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ṯzi̯
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓅓𓂝𓇋𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓈖𓇋𓋴𓀞	80210	VERB	verb	VerbForm=Fin	_	_	_	Translit=njs
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+15	𓁹𓂋𓏮𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+16	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+17	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+18	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd83d48inv0mOlWUEVdVIHjk
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Ich habe dir deinen Namen gemacht in allen Gauen (und) allen (heiligen) Stätten, die (nun) beständig in ("unter der") (Ehr)furcht sind vor dir!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,29]
+1	𓁹𓂋𓏮𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+8	𓈈𓏏𓏤𓏫	854544	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=spꜣ.t
+9	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+10	𓇋𓄿𓏏𓏰𓈏𓏏𓏤𓏥𓊖	20120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jꜣ.t
+11	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+12	𓏠𓈖𓍖	69590	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=mn
+13	𓌨𓂋𓏮𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+14	𓅾𓀁	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+15	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd9GHM6cCekQYmXj49WQOELs
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "(Und) sie rufen nach dir in ihnen (den Gauen und heiligen Stätten), wann immer Sehnsucht nach dir herrscht (zum Zeitpunkt des Sich Sehnens nach dir)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,29] -  [2,30]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈖𓇋𓋴𓀞	80210	VERB	verb	VerbForm=Fin	_	_	_	Translit=njs
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+7	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓏏𓂋𓆴𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓏲𓆼𓄿𓐍𓂻	49120	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḫꜣ
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6MnHXizGUbuncZlFGWh3Jw
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Ihr Herz soll (doch) nicht leiden aus Liebe zu dir, während der Trennung bis zu deinem Kommen zu ihnen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,30]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓏲𓐍𓂧𓁑	851445	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḫd
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+5	𓅓	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓌻𓂋𓏏𓏲𓀁	72650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mrw.t
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓃛𓏲𓂧𓂻	23220	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwd
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓇍𓇋𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBdzUfVpsPzkL0qI7AvWkMlp0
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "He, Osiris Chontamenti, deine Mutter Nut gebar dich in Theben (und) du wurdest (hier) zum 'Jüngling'!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,30] -  [2,31]
+1	𓉔𓄿𓇋𓇋𓀁	97760	INTJ	interjection	_	_	_	_	Translit=hy
+2	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+3	𓄟𓋴𓏏𓏲	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+4	𓎡	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+5	𓅐𓏏𓆇𓅆	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓏌𓏏𓇯𓏏𓆇𓁗	80940	PROPN	entity-name	_	_	_	_	Translit=Nw.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓌀𓏏𓊖	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+10	𓆣𓂋𓏛	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓎛𓃹𓈖𓏌𓏲𓀔	500417	_	epitheton-title	_	_	_	_	Translit=ḥwn.w
+
+# sent_id = IBUBd4lZnAT6OUPQmiWfWRIQJAA
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Freude, Osiris Chontamenti, herrschte ('war entstanden') in Theben, als du erschienst auf Erden als (göttliches) Kind!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,31]
+1	𓇋𓉔𓄿𓇋𓇋𓀁	30170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jhy
+2	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+3	𓆣𓂋𓏛	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓌀𓏏𓊖	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+6	𓅓𓇥𓂋	855159	PART	particle	_	_	_	_	Translit=m-ḏr
+7	𓈍𓂝𓏛𓅆	114740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜥi̯
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓐍𓏤𓀔𓅆	852398	_	epitheton-title	_	_	_	_	Translit=ḫy
+
+# sent_id = IBUBd0M8e89knEAgjLw3OLCDKkA
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "(Und als) Re davon (es) hörte in seiner Residenz in Unterägypten, frohlockte sein Ib-Herz über deine Geburt!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [2,31] -  [3,1]
+1	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓊃	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+3	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄚𓈖𓏌𓏲𓊖	854537	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖnw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇾𓏤𓈇𓇇𓏲𓊖	169120	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-mḥ.w
+9	𓄣𓏤𓄹	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓎛𓂝𓂝𓀠𓏛	102060	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥꜥi̯
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓄟𓋴𓏏𓏲	75070	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=msw.t
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQLjsv1bkkCQrpVAxlMMWas
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "(Wenn) du eintrittst in das 'Große Haus' (Re-Tempel in Heliopolis) zu deiner Krypta im 'Haus-des-Benben', frohlocken die Götter in Jat-Tjamut bei deinem Anblick (und) der 'Südlich seiner Mauer' (Ptah) trägt dich ('ist unter dir') jeden Tag, (denn) du bist Atum-Chepre, der Fürst von Heliopolis!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,2] -  [3,3]
+1	𓂝𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓉟𓏏𓉐𓅆	856280	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-ꜥꜣ.t
+5	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈙𓇾𓏴𓏛𓅆	158440	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šṯy.t
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓉗𓏏𓉐𓃀𓈖𓃀𓈖𓏏𓉐𓅆	500303	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-bnbn
+10	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓈏𓏏𓏤𓅷𓏤𓅐𓏏𓆇𓅆𓊖	852291	PROPN	entity-name	_	_	_	_	Translit=Jꜣ.t-Ṯꜣ-Mw.t
+13	𓎛𓂝𓂝𓀠𓏛	102060	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥꜥi̯
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+16	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+17	𓇔𓊅𓆑𓊖𓅆	96100	_	epitheton-title	_	_	_	_	Translit=rs.j-jnb⸗f
+18	𓌨𓂋𓏮𓏛𓅆	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+19	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+20	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+21	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+22	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+23	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+24	𓇋𓏏𓅓𓅆𓆣𓇋	852400	PROPN	entity-name	_	_	_	_	Translit=Jtm.w-Ḫpr.j
+25	𓀗𓇋𓅆𓅓𓉺𓏌𓊖𓅆	852401	_	epitheton-title	_	_	_	_	Translit=sr-m-Jwn.w
+
+# sent_id = IBUBdw2aZ4Y9NEVAo3zBKxvqcxs
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Utjes-Hor (der 2.o.ä. Gau) ist im Frohlocken bei deinem Anblick (und) Hut-Ipet ist in Herzensfreude!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,6]
+1	𓅃𓅆𓍟𓊾𓏏𓊖	800024	PROPN	entity-name	_	_	_	_	Translit=Wṯz.t-Ḥr.w
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓂝𓂝𓀠𓏛	102120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥꜥ.wt
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓉗𓏏𓉐𓇋𓊪𓏮𓊖	852406	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Jp.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓇛𓅓𓏮𓏛𓄣𓏤𓄹	91500	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḏm-jb
+
+# sent_id = IBUBd5dnTqa3B0levDLwTh5eR4I
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Ptah gibt (dir) die Atemluft an deine Nase (und) die beiden Meret (Göttinnen), die im Ptahtempel sind, beschützen dich!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,15] -  [3,16]
+1	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓊡𓏥	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂉𓏤𓄹	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓐍𓂤𓄿𓏲𓏛	115110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
+9	𓎡𓏏𓏲	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+10	𓌻𓂋𓇋𓂢𓂢𓀞𓀞	550437	PROPN	entity-name	_	_	_	_	Translit=Mr.tj
+11	𓁷𓂋𓄣𓏤	108540	ADJ	adjective	Number=Dual|Gender=Fem	_	_	_	Translit=ḥr.j-jb
+12	𓉐𓏤𓊪𓏏𓎛𓅆	852416	PROPN	entity-name	_	_	_	_	Translit=Pr-Ptḥ
+
+# sent_id = IBUBdxwKJExvDE5PlR6yT1mZmKs
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Hut-Sachmet (Sachmet-Tempel in Memphis) beschirmt deinen Ka (und) 'Die ihren Herrn verbirgt' (Nekropole von Memphis) frohlockt unter dir!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,16] -  [3,17]
+1	𓉗𓏏𓉐𓌂𓐍𓏏𓆇𓅆	852418	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Sḫm.t
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓂧𓐍𓈖𓏏𓏰𓏴𓏛𓀜	173280	VERB	verb	VerbForm=Fin	_	_	_	Translit=tḫn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓂓𓏤𓅆	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓇉𓄿𓊪𓏲𓏛𓀜𓎟𓊃𓅆	852419	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣp.t-nb⸗s
+8	𓎛𓂝𓂝𓀠𓏛	102060	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥꜥi̯
+9	𓌨𓂋𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd2ZHSSdu5UQcl3kCzGsoon0
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Sachmet 'die über den Libyern/Libyen ist' beschützt dich (und) sie sorgt für deinen Schutz, die Herrin von Marea!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,19]
+1	𓐍𓂤𓄿𓏲𓏮𓏛	115110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
+2	𓏏𓏲𓎡	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+3	𓌂𓐍𓏏𓆇𓁗	142250	PROPN	entity-name	_	_	_	_	Translit=Sḫm.t
+4	𓁷𓂋𓇯𓍘𓎛𓈖𓈒𓏥𓌙𓈉𓊖	852424	_	epitheton-title	_	_	_	_	Translit=Ḥr.jt-Ṯḥn.w
+5	𓁹𓂋𓏮	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓎛𓏌𓏏𓆇𓅆𓅯𓄿𓌻𓂋𓏏𓏏𓈉	852426	_	epitheton-title	_	_	_	_	Translit=Ḥn.wt-Pꜣ-mrj.t
+
+# sent_id = IBUBdwoQ2CUu6Ey7t9zG9v5dqbY
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Dein Name ist die Freude ("Jubel") deines Gaues (und) man (sie) bringt dir dort (in ihm) Lobpreis aus wie (für) Re, den Vater deiner Väter, (denn) der Platz deines Herzens ist hier (in ihm) jeden Tag!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,22] -  [3,23]
+1	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓈖𓈖𓀁	95040	VERB	verb	VerbForm=Fin	_	_	_	Translit=rnn
+5	𓈈𓏏𓏤	854544	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=spꜣ.t
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓂋𓂞𓏛	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+8	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓇋𓄿𓏭𓏲𓀢𓏛𓏥	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+12	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+14	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+15	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+16	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jtj
+17	𓇋𓏏𓆑𓅆𓀀𓏥	32820	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jtj
+18	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+19	𓊨𓏏𓉐𓄣𓏤𓏏𓄹	125150	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t-jb
+20	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+21	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+22	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+23	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBd1a7fFIdmUM8n5Hwq91beds
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Pe ist im Frohlocken bei deinem Anblick (und) Dep bringt Lobpreis vor dir aus!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,23] -  [3,24]
+1	𓊪𓏤𓊖	58670	PROPN	entity-name	_	_	_	_	Translit=Pj
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓂝𓂝𓀠𓏛	102120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥꜥ.wt
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌳𓂂𓂂𓅆	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓂧𓊪𓏏𓏱𓊖	178950	PROPN	entity-name	_	_	_	_	Translit=Dp
+8	𓂋𓂝𓏛	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+9	𓇋𓄿𓏭𓏲𓀢𓏛𓏥	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+10	𓅓𓁷𓏤𓅆	65170	ADP	preposition	_	_	_	_	Translit=m-ḥr
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd07Wdg7WZULqow75RKRV8U4
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Itfa-wer ist erfüllt ("überflutet") von deinem Namen (und) Cher-Acha ist im Lobpreis bei deinem Anblick!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,25] -  [3,26]
+1	𓌪𓅨𓂋𓏏𓊖	33000	PROPN	entity-name	_	_	_	_	Translit=Jtfꜣ-wr
+2	𓃀𓂝𓎛𓏰𓅤𓈗	55080	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=bꜥḥi̯
+3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓌨𓂋𓂚𓄿𓏲𓊖	124280	PROPN	entity-name	_	_	_	_	Translit=H̱r.j-ꜥḥꜣ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇋𓄿𓏭𓏲𓀢𓏛𓏥	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+9	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓌳𓂂𓂂𓅆	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdziV3lyz0EhPkuOgw998QYM
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Atum wirft deine Feinde nieder, (während) Imhet in Frohsinn (und) Schen-Qebeh in Herzenfreude ist!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [3,26]
+1	𓇋𓏏𓅓𓏛𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+2	𓋴𓐍𓂋𓀒	142780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫr
+3	𓐍𓆑𓏏𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓇋𓐝𓅓𓎛𓏲𓏏𓉐	852439	PROPN	entity-name	_	_	_	_	Translit=Jmḥ.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇛𓅓𓏮𓏛𓄣𓏤𓏏𓄹𓅆	91500	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḏm-jb
+8	𓍶𓏁𓈗𓏏𓊖	155430	PROPN	entity-name	_	_	_	_	Translit=Šn-Qbḥ.w
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄫𓏏𓏲𓄣𓏤𓏛𓏥	42	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜣw.t-jb
+
+# sent_id = IBUBd8f1opievENTie7215Lp9QU
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "He, Osiris Chontamenti (und) Osiris Nesmin selig, geboren von Tschentohe selig, dein Name dauert in den Gauen (und) er (dein Name) soll nicht fehlen (in den Gauen) für immer (und) ewig, erhebe dich also (zwei Mal)!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,3] -  [4,4]
+1	𓇋𓉔𓄿𓇋𓇋𓀁	97760	INTJ	interjection	_	_	_	_	Translit=hy
+2	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+3	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+4	𓈖𓄓𓊃𓈾𓏮𓅆𓀀	702786	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Mnw
+5	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓄟𓋴𓏰	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+7	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+8	𓏏𓄿𓀔𓁐𓈖𓏏𓄿𓇋𓎛𓃒𓏏𓁐	708584	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-šrj.t-n-tꜣ-jḥ.t
+9	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+10	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓏠𓈖𓍖	69590	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
+13	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+14	𓈈𓏏𓊖	854544	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=spꜣ.t
+15	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+16	𓄫𓏲𓅪	152670	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šwi̯
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓂋𓎛𓎛𓇳𓆓𓏏𓇾	_	X	unknown	_	_	_	_	_
+19	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥḥꜥ
+20	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+21	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd1IgUZlIJk9DqTqHCHsHip8
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Es erhebt sich Osiris Chontamenti (und auch) Osiris Nesmin selig, geboren von Tschentohe selig, auf seine Füße!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,4] -  [4,5]
+1	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+2	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+3	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+4	𓈖𓄓𓊃𓈾𓏮𓅆𓀀	702786	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Mnw
+5	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓄟𓋴𓏰	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+7	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+8	𓏏𓄿𓀔𓁐𓈖𓏏𓄿𓇋𓎛𓃒𓏏𓁐	708584	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-šrj.t-n-tꜣ-jḥ.t
+9	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓂾𓂾𓄹	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3tuh6x7hEpUlSMWD04bNLA
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Perfekt sind seine Glieder (und) er ist vollkommen an seinem Leib, (daß) er lebe für immer (und) sich verjünge ewiglich!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,5] -  [4,6]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=twt
+2	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄤𓆑𓂋𓏥	854519	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nfr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎛𓂝𓏤𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋹𓈖𓐍𓏛	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓂋𓅘𓎛𓎛𓏏𓊖	_	X	unknown	_	_	_	_	_
+12	𓂋𓈖𓊪𓆶𓀔𓏛	95000	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rnpi̯
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓂋𓆓𓏏𓇾	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd23Pcj5Y1EQ2kBIWeDGol4c
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Dein Vater Geb ist in Freude" - zwei Mal - "(und) Nut ist im Jauchzen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,10]
+1	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓆇𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂋𓈙𓇋𓂉𓏛𓏥	96220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ršw.t
+6	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+7	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓏌𓏏𓇯𓏏𓆇𓅆	80940	PROPN	entity-name	_	_	_	_	Translit=Nw.t
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓎀𓎛𓎛𓏭𓏲𓏛𓏥	176750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥḥw.t
+
+# sent_id = IBUBdQiZFxksWEmVuMeKTzIz7ew
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Ich bin Isis, mein Herz ist erfeut (und) Nephthys ist im Frohlocken!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,10] -  [4,11]
+1	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊨𓏏𓆇𓁗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓅆	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓇛𓅓𓏮𓏛	500020	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏm
+6	𓉠𓏏𓆇𓅆	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎛𓂝𓂝𓀠𓏛	102120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥꜥ.wt
+
+# sent_id = IBUBdxGygxMZZETArPiWWVo94SU
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Jubelgeschrei ist im Himmel (und) Freude im Lande!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,11] -  [4,12]
+1	𓉔𓄿𓀁𓈖𓉔𓅓𓀁	852571	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=hꜣ-nhm
+2	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+3	𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+4	𓂋𓈙𓇋𓂉𓏛𓏥	96220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ršw.t
+5	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+6	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd9v0YwrIu04blM6EBGlhvbU
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Götter (und) Göttinnen sind im Jubel bei deinem Kommen in deiner Gestalt von vordem!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,12]
+1	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+2	𓊹𓏏𓆇𓁗	90280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇋𓉔𓄿𓇋𓇋𓀁	30170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jhy
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇍𓇋𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓇋𓆇𓏲𓀾	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓇥𓂋𓂝𓏤𓈐𓇳	184790	ADV	adverb	_	_	_	_	Translit=ḏr-ꜥ
+
+# sent_id = IBUBd5uiiAeQF0tduWIdhMqETi8
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Osiris Chontamenti kommt in Frieden als Verjügter (und als) 'Der erhabener ist als jeglicher Gott!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,12] -  [4,13]
+1	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+2	𓇍𓇋𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+3	𓅓𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂋𓈖𓊪𓆶𓀔𓅆	852345	_	epitheton-title	_	_	_	_	Translit=rnp
+6	𓂧𓈖𓏌𓏲𓌙𓅭𓏛𓂋𓊹𓅆𓎟𓏏	852464	_	epitheton-title	_	_	_	_	Translit=ṯn-r-nṯr-nb
+
+# sent_id = IBUBdzQkwIdNF0MwjZQVSfWfuCs
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = "Sein Sohn Horus versorgt die Tempel für seinen Ka mit Ofergaben (und) Speisen für immer (und) ewig!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,13] -  [4,14]
+1	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓋴𓆓𓆑𓄿𓏲𓌙𓅭𓏛	150510	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏfꜣ
+5	𓂋𓏥𓏤𓉐𓏤𓏥𓊖	92870	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rʾ-pr
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓂓𓏤𓅆	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓊵𓏏𓊪𓏛𓏥	854532	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtp
+11	𓆓𓆑𓄿𓏲𓌙𓅭𓏛𓏛𓏥	183850	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏfꜣ
+12	𓈖𓆓𓏏𓇾𓎛𓎛𓇳	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7MFGYTSLkpugrUg8z88lGM
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = Ende (des Textes).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,15]
+1	𓂻𓏲𓆑𓊪𓏲	21930	VERB	verb	_	_	_	_	Translit=jwi̯
+
+# sent_id = IBUBd0tW6402F0ekpYgQnIeHT3k
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = (Ritual zur) Verklärung des Osiris in der Nekropole.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4,16]
+1	𓋴𓈌𓐍𓏛𓀁	127120	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sꜣḫ
+2	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊹𓌨𓂋𓏏𓏏𓈉𓍼𓏤	500066	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ẖr.t-nṯr
+
+# sent_id = IBUBdycIDb5yv0uGnRjKYOEDqHs
+# corpus = bbawtotenlit
+# src_text_id = F35B4R63DRB5RNEEBEO6QAPKUA
+# src_text = bbawtotenlit:pBM 10208//Ritual der Verklärung des Osiris (Buch IV)
+# owner = Frank Feder
+# text_de = Ihr sollt empfangen alle guten, reinen (und) süßen Dinge, Weihrauch (und) Wasserspende mit den Opfergaben für Osiris Chontamenti, den großen Gott (und) Herrn von Abydos, im täglichen Zyklus!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [5,8] -  [5,9]
+1	𓊏𓊪𓏰𓀜	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓐍𓏏𓏛𓏥𓎟𓏏	_	X	unknown	_	_	_	_	_
+4	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+5	𓃂𓈗	400114	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥb
+6	𓇜𓏤	400993	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=bnj
+7	𓊸𓈒𓈒𓈒𓏛𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+8	𓏁𓈗	160330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qbḥ.w
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓊵𓏏𓊪𓇋𓇋𓏒𓏥	854532	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtp
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓊨𓇳𓅆𓂉𓋀𓏏𓈇𓏤𓏫	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+13	𓊹𓅆𓉻𓂝	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+14	𓎟𓏏𓋁𓃀𓏏𓈉𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+15	𓅓𓌨𓂋𓇳𓏤	650025	ADV	adverb	_	_	_	_	Translit=m-ẖr.t-hrw
+16	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+17	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+

@@ -1,0 +1,34 @@
+# sent_id = IBUBd2iC5xHWIElsgyjnQgVZ7Wk
+# corpus = bbawgrabinschriften
+# src_text_id = Y5CGHFTQGBBRXIGHMUAOT2TDZA
+# src_text = bbawgrabinschriften:Portikus//Süd-Rahmen
+# owner = Stefan Grunert
+# text_de = Was jeden Mann anbetrifft, der in Besitz nehmen (oder) der zerstören wird Stein (oder) Ziegel in diesem Grab:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+3	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+4	𓎁𓏏	33560	VERB	verb	_	_	_	_	Translit=jṯi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓋴𓈙𓈖𓏏	145250	VERB	verb	_	_	_	_	Translit=sšn
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇋𓈖𓈙𓏤	27560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnr
+9	𓆓𓃀𓏏𓅙	183120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏb.t
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓇋𓇩𓊃𓉐𓏤	31010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz
+12	𓈖𓊪	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdyKaaflWWkzFp09vw3u2cWg
+# corpus = bbawgrabinschriften
+# src_text_id = Y5CGHFTQGBBRXIGHMUAOT2TDZA
+# src_text = bbawgrabinschriften:Portikus//Süd-Rahmen
+# owner = Stefan Grunert
+# text_de = Der Kammerdiener des Königs im Palast Tjetu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓉐𓉻𓇓𓏏𓁶𓌨	401187	_	epitheton-title	_	_	_	_	Translit=ẖr.j-tp-nswt-pr-ꜥꜣ
+2	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+

@@ -1,0 +1,89 @@
+# sent_id = IBUBd5aidCxwqU5oq74KB16DvRg
+# corpus = sawlit
+# src_text_id = 5S4334PNG5EYZMPDINW4CUIVWI
+# src_text = sawlit:Stele des Redienheqit (Kairo JE 39755)//〈Stele des Redienheqit (Kairo JE 39755)〉
+# owner = Alexander Schütze
+# text_de = Sei gegrüßt, Osiris!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.2]
+1	𓇋𓐩𓆓	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd3kvIByGHUqPh0nq38wQmI4
+# corpus = sawlit
+# src_text_id = 5S4334PNG5EYZMPDINW4CUIVWI
+# src_text = sawlit:Stele des Redienheqit (Kairo JE 39755)//〈Stele des Redienheqit (Kairo JE 39755)〉
+# owner = Alexander Schütze
+# text_de = Siehe, Re gibt dir Lobpreis.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3] - [A.4]
+1	𓅓𓂝𓎡	64440	PART	particle	_	_	_	_	Translit=m
+2	𓇳𓏤𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓇼	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5xnn0oHUEiAszrh5rJxfsM
+# corpus = sawlit
+# src_text_id = 5S4334PNG5EYZMPDINW4CUIVWI
+# src_text = sawlit:Stele des Redienheqit (Kairo JE 39755)//〈Stele des Redienheqit (Kairo JE 39755)〉
+# owner = Alexander Schütze
+# text_de = Hapi trägt dich.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4]
+1	𓎛𓂝𓊪𓈘	650066	PROPN	entity-name	_	_	_	_	Translit=Ḥꜥpj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓂋𓏠𓈖𓂢	94400	VERB	verb	VerbForm=Fin	_	_	_	Translit=rmni̯
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd93dAlVfuU1OqQ2aL1Adzak
+# corpus = sawlit
+# src_text_id = 5S4334PNG5EYZMPDINW4CUIVWI
+# src_text = sawlit:Stele des Redienheqit (Kairo JE 39755)//〈Stele des Redienheqit (Kairo JE 39755)〉
+# owner = Alexander Schütze
+# text_de = Das Sonnenvolk zeichnet dich aus.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4] - [A.5]
+1	𓇶𓂟𓂟𓏏𓏥	106750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnmm.t
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴𓈎𓄿𓇋𓇋𓏛	145960	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqꜣi̯
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdygUYNxfeUtWkcWUukEjRko
+# corpus = sawlit
+# src_text_id = 5S4334PNG5EYZMPDINW4CUIVWI
+# src_text = sawlit:Stele des Redienheqit (Kairo JE 39755)//〈Stele des Redienheqit (Kairo JE 39755)〉
+# owner = Alexander Schütze
+# text_de = Jeder Gott ist unter deiner Liebe.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5]
+1	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+3	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+4	𓌸𓂋𓏏𓅱	72650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mrw.t
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWzQlQ8P1kxfq6NIxbHR4QE
+# corpus = sawlit
+# src_text_id = 5S4334PNG5EYZMPDINW4CUIVWI
+# src_text = sawlit:Stele des Redienheqit (Kairo JE 39755)//〈Stele des Redienheqit (Kairo JE 39755)〉
+# owner = Alexander Schütze
+# text_de = Lobpreis des Osiris an diesem Tag, zweimal Anbeten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓇋𓅱	20360	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jꜣ.w
+2	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+6	𓇼	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+7	𓊗𓏭	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+

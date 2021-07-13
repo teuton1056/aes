@@ -1,0 +1,43 @@
+# sent_id = IBUBdQv3VHW5Wkc3hY9rWjQ7Oa0
+# corpus = bbawgrabinschriften
+# src_text_id = L3RLOGZNBRGYPDYJ4CBILEMCVU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Die Verwalterin des Königsvermögen, ihre Mutter (war) Meries-anch, (also) ihre Tochter Chenut.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇓𓏏𓂋𓐍	95750	_	epitheton-title	_	_	_	_	Translit=jr.jt-jḫ.t-nswt
+2	𓅑𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓌸𓋴𓋹	702208	PROPN	entity-name	_	_	_	_	Translit=Mri̯⸗s-ꜥnḫ
+5	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓐍𓈖𓏌𓏏𓅱	705644	PROPN	entity-name	_	_	_	_	Translit=Ḫn.wt
+
+# sent_id = IBUBd4luuS47xEHNo8EpCRJMDrg
+# corpus = bbawgrabinschriften
+# src_text_id = L3RLOGZNBRGYPDYJ4CBILEMCVU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Seine Schwester, die Verwalterin des Königsvermögens Chenut.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓌢𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓂋𓐍	95750	_	epitheton-title	_	_	_	_	Translit=jr.jt-jḫ.t-nswt
+4	𓐍𓈖𓏌𓅱𓏏	705644	PROPN	entity-name	_	_	_	_	Translit=Ḫn.wt
+
+# sent_id = IBUBdW3MigIsgEhuixJ3CtKWN3E
+# corpus = bbawgrabinschriften
+# src_text_id = L3RLOGZNBRGYPDYJ4CBILEMCVU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Senior-Vorsteher der Schreiber Heti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓃥𓏞𓅓𓂋	450596	_	epitheton-title	_	_	_	_	Translit=zꜣb-jm.j-rʾ-zẖꜣ.ww
+2	𓉔𓏏𓇋	704454	PROPN	entity-name	_	_	_	_	Translit=Htj
+

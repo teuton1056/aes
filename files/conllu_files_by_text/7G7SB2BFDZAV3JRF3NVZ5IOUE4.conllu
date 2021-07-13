@@ -1,0 +1,180 @@
+# sent_id = IBUBdw9DI7HzI06xv1rzbPxErUQ
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, 〈〈ein Opfer〉〉, das Anubis, der auf seinem Berge ist, der Balsamierer, Herr der Nekropole, 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oberer Sturzbalken, 1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃣	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓁶𓈋𓆑	600421	_	epitheton-title	_	_	_	_	Translit=tp.j-ḏw⸗f
+6	𓏶𓅱𓏏𓊖	25390	_	epitheton-title	_	_	_	_	Translit=jm.j-wt
+7	𓎟𓇾𓂦	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+
+# sent_id = IBUBd0mRmjP5CEaPvp1nZ0y9shQ
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Er möge begraben werden in der westlichen Begräbnisstätte, indem er sehr schön alt ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oberer Sturzbalken, 1] -  [oberer Sturzbalken, 2]
+1	𓈎𓂋𓋴𓌠𓊭𓏏	161940	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qrs
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊃𓏏𓈉	134780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmy.t
+5	𓊿𓏏𓏏𓈉	26150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jmn.tj
+6	𓀗	20480	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jꜣwi̯
+7	𓄤	400458	ADV	adverb	_	_	_	_	Translit=nfr
+8	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+
+# sent_id = IBUBd3vUDvvILUZUgCZsgIceNfY
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Geleitet von seinen Kas möge er aufsteigen zu dem Großen Gott.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker Außenpfosten, 2]
+1	𓇋𓂝𓈐	21770	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊹𓀭𓉻𓐚	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+5	𓋴𓌞𓏏	155000	VERB	verb	_	_	_	_	Translit=šms
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+8	𓂓𓂓𓂓	162870	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=kꜣ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyiuGgvqVUM0uov0RqQ3TMg
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Die Begräbnisstätte möge ihm ihren Arm reichen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker Außenpfosten, 2]
+1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓊃𓏏𓈉	134780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmy.t
+3	𓂝	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9DsQuZhqkT7ivnOhtWHqi4
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Der Diener des Königs im Palast, Tjetu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker Außenpfosten, 3]
+1	𓉐𓉻𓇓𓏏𓁶𓌨	401187	_	epitheton-title	_	_	_	_	Translit=ẖr.j-tp-nswt-pr-ꜥꜣ
+2	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+
+# sent_id = IBUBdyuBo7gGQ0D1nJg2y8eGEi8
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Der Vorsteher der Pyramidenstadt 'Horizont des Cheops', Einzige Freund (und) Vorlesepriester, der Aufseher der Wab-Priester der (Pyramidenanlage) 'Horizont des Cheops', der Versorgte Tjetu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechter Außenpfosten, 1] -  [rechter Außenpfosten, 3]
+1	𓐍𓅱𓆑𓅱𓅜𓏏𓉴𓅓𓂋𓊖𓏏	850923	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-nʾ.t-Ꜣḫ.t-Ḫwi̯⸗f-wj
+2	𓋴𓍋𓌡𓏏𓏤	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+3	𓌨𓎛𓃀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+4	𓐍𓅱𓆑𓅱𓅜𓏏𓉴𓋴𓌉𓀆	850922	_	epitheton-title	_	_	_	_	Translit=sḥḏ-wꜥb.w-Ꜣḫ.t-Ḫwi̯⸗f-wj
+5	𓇋𓌳𓄪𓐍𓅱	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+6	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+
+# sent_id = IBUBd9EXI5OlQEIbnuggWD0vhvo
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Einziger Freund (und) Vorlesepriester, Versorgter durch den Großen Gott, Tjetu, sein Kosename ist Kai-ni-nisut.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker Innenpfosten, 1] -  [linker Innenpfosten, 3]
+1	𓋴𓍋𓌡𓏏𓏤	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+2	𓌨𓎛𓃀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+3	𓇋𓌳𓄪𓐍𓅱𓐍𓂋𓊹𓀭𓉻	850380	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-nṯr-ꜥꜣ
+4	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+5	𓂋𓈖	94780	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn-nfr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓄤	_	_	_	_	_	_	_	_
+8	𓂓𓇓𓏏𓈖	702922	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-n.j-nswt
+
+# sent_id = IBUBdzODMhCwsEDmqaO1IN1m1Wo
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Einziger Freund, Vorsteher der Chentuschi (und) Versorgter bei Ptah-Sokar Tjetu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechter Innenpfosten, 1] -  [rechter Innenpfosten, 3]
+1	𓋴𓍋𓌡𓏏𓏤	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+2	𓅓𓂋𓏅𓏏𓈙𓈉	450581	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḫnt.jw-š
+3	𓇋𓌳𓄪𓐍𓅱𓐍𓂋𓊪𓏏𓎛𓊃𓎡𓂋	850519	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-Ptḥ-Zkr
+4	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+
+# sent_id = IBUBdxrL5Jk250utv0AKqnvIbWo
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Der Kammerdiener des Königs im Palast und Versorgte beim Großen Gott Tjetu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Tafel, 1]
+1	𓉐𓉻𓇓𓏏𓁶𓌨	401187	_	epitheton-title	_	_	_	_	Translit=ẖr.j-tp-nswt-pr-ꜥꜣ
+2	𓇋𓌳𓄪𓐍𓅱𓐍𓂋𓊹𓀭𓉻	850380	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-nṯr-ꜥꜣ
+3	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+
+# sent_id = IBUBdwlWs1vWi090uH6ixrgD4ys
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Tausend an Brot, tausend an Bier, tausend an Gans, tausend an Gans, tausend an Gans, tausend an Gans, tausend an Alabastergegenstand und Kleidung.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Tafel, 2]
+1	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+2	𓏐𓏏	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+4	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+5	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+6	𓅿	139140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sr.w
+7	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+8	𓅿	139140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sr.w
+9	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+10	𓅿	139140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sr.w
+11	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+12	𓅿	139140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sr.w
+13	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+14	𓍲	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+15	𓋲	71170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+
+# sent_id = IBUBdWLv3KzmJUZdir4qhE44QHI
+# corpus = bbawgrabinschriften
+# src_text_id = 7G7SB2BFDZAV3JRF3NVZ5IOUE4
+# src_text = bbawgrabinschriften:Portikus//nördliche Scheintür
+# owner = Stefan Grunert
+# text_de = Der Versorgte beim Großen Gott Tjetu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unterer Sturzbalken]
+1	𓇋𓌳𓄪𓐍𓅱𓐍𓂋𓊹𓉻	850380	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-nṯr-ꜥꜣ
+2	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+

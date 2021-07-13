@@ -1,0 +1,393 @@
+# sent_id = IBcBki0IQa9kQ0KWtVqb6imGvSU
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Heilmittel zum Beseitigen der $ḥmw.t-zꜣ$-Hautkrankheit:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,13]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓍍𓏏𓏤𓏛𓏥𓎃𓏤𓏛𓏥	105460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-zꜣ
+
+# sent_id = IBcBkjXarYZcOU9xggvWOwxFa0w
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Ein großer Mistkäfer, wobei sein Kopf und seine Flügel abgeschnitten werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,13]
+1	𓆣𓏤	116410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫprr
+2	𓉻𓏛	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+3	𓈙𓂝𓌪𓂝	152200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šꜥ
+4	𓁶𓏤	182330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏꜣḏꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂧𓈖𓎛𓆃𓆃	184370	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ḏnḥ
+7	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+
+# sent_id = IBcBkhURvfeUDkEHljLJGwjYbYA
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Werde verbrannt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,13]
+1	𓏲𓃀𓂧𓊮	45410	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbd
+
+# sent_id = IBcBkiZUfOfHhEiwm7y3ZKonTyM
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = werde in Öl/Fett gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,14]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcBkltclNAwxkaThcOBqiQL5yI
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Werde an ihn gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,14]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcBksWUpHeRfkWMvYQmz29GLhM
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Wenn du sie danach zu beseitigen wünschst (???), sollst du seinen Kopf und seine Flügel vollständig ausglühen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,14] - [88,15]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓌻𓂋𓀁	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+6	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+7	𓋴𓈖𓍇𓏌𓏲𓐍𓊮𓐍𓂋	136860	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓍑𓄿𓍑𓄿𓁶	182330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏꜣḏꜣ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓂧𓆑𓎛𓆃𓆃	184370	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ḏnḥ
+12	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+
+# sent_id = IBcBklBpJ5EhyEmrkWlSlwEMauE
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Werde in Öl/Fett eines $ꜥpnn.t$-Tieres gegeben;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,15]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+4	𓂝𓊪𓈖𓈖𓆙	37080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥpnn.t
+
+# sent_id = IBcBknW6BGqpf0FSiTSVauU0zYU
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = werde verbrannt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,15]
+1	𓏲𓃀𓂧𓊮	45410	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbd
+
+# sent_id = IBcBkjHtuDJzfU8chyQVl953AKU
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Werde veranlasst, dass es der Mann trinkt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,16]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+3	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcBkkAlt3i16E5Mr70BLpCV5S4
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel gegen das $wꜣšš$-Phänomen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓍯𓄿𓈙𓈙𓐎𓏥	43480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣšš
+
+# sent_id = IBcBkkpvBucg8koAnR2FLRLYxw8
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Muttermilch, $šꜣšꜣ$-Früchte, $mꜣd$-Mineral des Spiegels.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,16] - [88,17]
+1	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+2	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+3	𓆷𓄿𓆷𓄿𓈒𓏥	151960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣšꜣ
+4	𓌴𓄿𓂧𓊌	67690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣd
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓋹𓏤𓈔	38630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBcBktDR9dkrbUNuhrvnxnjYiKs
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = werde gänzlich vereinigt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,18]
+1	𓋬𓂧𓏛	179420	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dmḏ
+2	𓏇𓇋𓐪𓂧𓏌𓏛𓏥	867908	ADV	adverb	_	_	_	_	Translit=mj-qd
+
+# sent_id = IBcBkrMECVuDXku7rDA5eZZT2hI
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = werde dem Sonnenlicht ausgesetzt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,18]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆄𓏲𓇳	152750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šw
+
+# sent_id = IBcBki6nQNy5gkNGppSxSRGrvVs
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = darauf sollst du einen Splitter eines Feuersteins geben;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,19]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓄿𓋴𓏏𓌪	273	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣs.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓂧𓊃𓌪𓊌	180610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ds
+
+# sent_id = IBcBkjRc7j5Vt0qnpH5AI6lkbLc
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = so/bis dass das Blut abfließt (wörtl.: hinabsteigt), sollst du es (daran) geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,19]
+1	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓉔𓄿𓏲𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+6	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+
+# sent_id = IBcBkimUwblZKkhWnZNueNA2qmk
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBknQ3kep0uUcWjbjW0NWPOXw
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = $šf.w$-Teil des Datteltresters/-saftes, $ḏꜥm$-Droge, Sand, Myrrhe.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,20]
+1	𓈙𓆑𓏲𓏛𓏥	154060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šf.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓐟𓏤𓂋𓏤𓅐𓏌𓏥	139490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zrm.t
+4	𓌁𓅓𓏲𓈒𓏥	875720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜥm.w
+5	𓈙𓂝𓏭𓈒𓏥	152280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜥy
+6	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+
+# sent_id = IBcBkhdVkQFUqkN3v2oCuQbSbwM
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Werde zerstoßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,20]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+
+# sent_id = IBcBkndWwHqsRESxrYbfxqIL7Lk
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,20]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBkiuahX7CgUz7uDGzQ3tNVSA
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkld0fssQCk7HlCxvIb5dxto
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Gerste, gekocht, Wasser des $pꜣ-ꜥ$-Gewässers, Bleiglanz.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,21]
+1	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+2	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+3	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+4	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+5	𓅯𓄿𓂝𓈗	862950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pꜣwꜥ
+6	𓀔𓈋𓅐𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+
+# sent_id = IBcBkrpvujBmmkjQiQu7qHQ3Z4o
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,21]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBkuvFziqTw0TQmraWfcxBKWU
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBkqFLY8i2NE4EkpGHuEKhCno
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Blut einer Taube, Blut einer Nilgans, Blut einer Schwalbe, Blut eines Geiers.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,21] - [88,22]
+1	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓏠𓈖𓇋𓇋𓏏𓅬	70550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnw.t
+4	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓋴𓏠𓈖𓅬	135180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=smn
+7	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓏠𓈖𓇋𓇋𓏏𓅬	69780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+10	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓈖𓂋𓏏𓏯𓅬	85040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nr.t
+
+# sent_id = IBcBkgAfeE2YW0WspLDkOemhh3g
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,22]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBkj83l9qPGUhPps7nAcAVXXY
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Späne des Kupfers, Malachit, ---LEER GEFUNDEN---, Milz (des Rindes).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,1]
+1	𓆞𓄿𓏲𓂡𓏥	122410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣ.w
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt
+4	𓇅𓏲𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+5	𓅠𓁸	500679	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=gm-wš
+6	𓈖𓈖𓈝𓅓𓄹	85010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nnšm
+
+# sent_id = IBcBkvNF2afQGUs0igkW3BhkITw
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,1]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBkmvS2yVnj03vu692fXFtCqM
+# corpus = sawmedizin
+# src_text_id = RL7SXJKJGBHSBENWAX2KFQDGNA
+# src_text = sawmedizin:Papyrus Ebers//88,13-89,1 ⸗ Eb 733-738: Heilmittel gegen die $ḥmw.t-zꜣ$-Hautkrankheit und gegen das $wꜣšš$-Phänomen
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [89,1]
+1	𓐛𓊃𓏌𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+

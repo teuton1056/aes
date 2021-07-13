@@ -1,0 +1,153 @@
+# sent_id = IBUBdx6v6Qp5g06Mug4SzbjhSl8
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = Man ist in Nöten.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 6,14]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈖𓄿𓏫	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+5	𓎼𓄿𓃀𓏲𓏴𓅪	166960	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=gb.w
+
+# sent_id = IBUBdQCnO22R8EAOt50WA32iMFQ
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = Die zahlreichen Büsche machen (alles) beschwerlich,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 7,1] - [Rto. 7,2]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+3	𓈙𓆑𓈖𓏌𓏲𓆱𓏥	154200	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šfn.w
+4	𓆈𓏏𓏥	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓂧𓈖𓋴𓊮	179910	VERB	verb	VerbForm=Fin	_	_	_	Translit=dns
+
+# sent_id = IBUBd4iZ4P9ZY0LevA7lhJD9f9o
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = (selbst) die Blumen sind furchtbar.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 7,2]
+1	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+2	𓃹𓈖𓏲𓃀𓏲𓆰𓏫	46580	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wnb
+3	𓃀𓇋𓈖𓅪	54600	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=bjn
+
+# sent_id = IBUBdxsdNIHkhklQhUmrsXKm6KE
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = Er dürstet,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 7,2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋁𓃀𓏲𓈗𓀁	23640	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jbi̯
+
+# sent_id = IBUBd2cCxUFG5UgvlkdLh6NuheQ
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = (aber) das Trinken kann die Hitze und den Schweiß nicht auffangen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 7,3]
+1	𓃀𓏲	55130	PART	particle	_	_	_	_	Translit=bw
+2	𓎢𓆑𓂝𓏲𓏛𓀜	164220	VERB	verb	_	_	_	_	Translit=kfꜥ
+3	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	VerbForm=Fin	_	_	_	Translit=zwr
+4	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+5	𓈙𓅓𓏲𓊮	154910	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šmm
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+8	𓆑𓂧𓈗𓀁	64260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=fd.t
+
+# sent_id = IBUBd7gwXoMpXEE7r5PFMVrpyuU
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = Von stinkendem Wasser trinkt er.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 7,6]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+5	𓆷𓄿𓈖𓄿𓈖𓏭𓏴𓅪	156250	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šnš
+
+# sent_id = IBUBdwiw0nWP40hWrkswHlGATLI
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = (Nur) um Wache zu stehen, macht er Rast.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 7,7]
+1	𓊠𓂝𓏲𓏛𓀜	48760	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥꜥ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓌘𓁻	95940	VERB	verb	VerbForm=Fin	_	_	_	Translit=rs
+
+# sent_id = IBUBd2US081mjE0tm3788rlrD4s
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = Man führt dich,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 7,7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓐍𓂋𓊪𓏲𓌂𓏛𓀜	120150	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫrp
+5	𓆑	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWldkISzOkW4ggUOt7tbfeg
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = (als wäre) kein Herz in deinem Leib.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 7,7]
+1	𓂜𓈖𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
+2	𓄂𓏏𓏭𓄣𓏤	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄡𓏏𓏤𓄹	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQeApGHSVkyNk3Qmr1Qc1n0
+# corpus = sawlit
+# src_text_id = PRKAHXALMVE6PHIOTWQNG6LEFM
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 6,12-7,9: Soldatencharakteristik
+# owner = Lutz Popko
+# text_de = Angenehm und gewinnbringend sind deine Schreibpalette und dein Dokument.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto 7,8]
+1	𓇛𓅓𓏛	91410	ADJ	adjective	_	_	_	_	Translit=nḏm
+2	𓆈𓏏𓏥	41011	ADJ	adjective	_	_	_	_	Translit=ꜥšꜣ
+3	𓄿𓐍𓏏𓏏𓏛𓏫	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+4	𓅯𓄿𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓐛𓊃𓍘𓇋	168670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gstj
+7	𓅯𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓂋𓈖𓏲𓏞𓏲𓍼𓏤	92810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-ꜥ-zẖꜣ.w
+

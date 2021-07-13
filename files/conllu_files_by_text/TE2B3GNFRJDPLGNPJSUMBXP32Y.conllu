@@ -1,0 +1,83 @@
+# sent_id = IBUBdztFhngdYU5ZhkjsEueGxNU
+# corpus = sawlit
+# src_text_id = TE2B3GNFRJDPLGNPJSUMBXP32Y
+# src_text = sawlit:Stele des Rudjahau (Kairo CG 20514)//〈Stele des Rudjahau (Kairo CG 20514)〉
+# owner = Alexander Schütze
+# text_de = Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos an allen seinen Plätzen, geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓎟𓊽𓂧𓊖𓅱	400982	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w
+4	𓏅𓋀𓅂	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+5	𓎟𓍋𓃀𓈋𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊨𓊨𓊨𓏏	854540	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=s.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd3AumPKQJUGPhJoTkQrczE8
+# corpus = sawlit
+# src_text_id = TE2B3GNFRJDPLGNPJSUMBXP32Y
+# src_text = sawlit:Stele des Rudjahau (Kairo CG 20514)//〈Stele des Rudjahau (Kairo CG 20514)〉
+# owner = Alexander Schütze
+# text_de = Die Gerechtfertigte Nebetitef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓄪𓐍𓏏	25100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmꜣḫ.wt
+2	𓎟𓏏𓏏𓆑	703182	PROPN	entity-name	_	_	_	_	Translit=Nb.t-jtj⸗f
+
+# sent_id = IBUBdxjLYTqvWErRgUi9WAH1NQk
+# corpus = sawlit
+# src_text_id = TE2B3GNFRJDPLGNPJSUMBXP32Y
+# src_text = sawlit:Stele des Rudjahau (Kairo CG 20514)//〈Stele des Rudjahau (Kairo CG 20514)〉
+# owner = Alexander Schütze
+# text_de = Sein ältester Sohn, der von ihm geliebt wird, Rudjahau.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.4]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓌸𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌗𓌕𓏤	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBYCI9l90xtll0CJn8GNLyUuQWI
+# corpus = sawlit
+# src_text_id = TE2B3GNFRJDPLGNPJSUMBXP32Y
+# src_text = sawlit:Stele des Rudjahau (Kairo CG 20514)//〈Stele des Rudjahau (Kairo CG 20514)〉
+# owner = Alexander Schütze
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5]
+1	𓏏𓅭	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓂧𓄔𓇋	710746	PROPN	entity-name	_	_	_	_	Translit=Jdj
+
+# sent_id = IBUBdQ3wWPPq7klJhOnYX2lnik4
+# corpus = sawlit
+# src_text_id = TE2B3GNFRJDPLGNPJSUMBXP32Y
+# src_text = sawlit:Stele des Rudjahau (Kairo CG 20514)//〈Stele des Rudjahau (Kairo CG 20514)〉
+# owner = Alexander Schütze
+# text_de = Der Hirte Idi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓀸	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+2	𓇋𓂧𓄔𓇋	710746	PROPN	entity-name	_	_	_	_	Translit=Jdj
+
+# sent_id = IBUBd0FAWNnJV0XmpmVclWBEZhg
+# corpus = sawlit
+# src_text_id = TE2B3GNFRJDPLGNPJSUMBXP32Y
+# src_text = sawlit:Stele des Rudjahau (Kairo CG 20514)//〈Stele des Rudjahau (Kairo CG 20514)〉
+# owner = Alexander Schütze
+# text_de = Der Hirte Djadjay.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓀸	70310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnj.w
+2	𓍑𓍑𓇋𓇋𓁶	_	X	unknown	_	_	_	_	_
+

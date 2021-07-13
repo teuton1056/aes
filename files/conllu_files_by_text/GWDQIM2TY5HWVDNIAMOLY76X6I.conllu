@@ -1,0 +1,2420 @@
+# sent_id = IBUBd6u2UKTn6EJkpQ9Gzmh4maQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Rezept):
+# findspot = unknown
+# date = NK
+# lineRef = [1.2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBdWKLV4KhRkFLvpbHEdGYlKk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Zerstört wurde Horus durch Seth.
+# findspot = unknown
+# date = NK
+# lineRef = [1.3]
+1	𓏏𓍃𓅓𓏏	854578	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+3	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓃫𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+
+# sent_id = IBUBdWaONx2xi0TImGkJMhZADiA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = ihr sollte ihn kochen in (einer Art) Kessel-Kochen (?);
+# findspot = unknown
+# date = NK
+# lineRef = [1.7]
+1	𓊪𓆑𓋴𓇋𓇋𓊮	62180	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=psi̯
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓃹𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+6	𓂋𓉔𓂧𓏏𓏊	95500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rhd.t
+
+# sent_id = IBUBd5RDp9wv3kHqtSbjUr3qAIk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Beschwörung der $nsy.t$-Krankheit:
+# findspot = unknown
+# date = NK
+# lineRef = [2.4]
+1	𓍲𓈖𓏏𓍢𓀁	155300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šn.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓈖𓄓𓊃𓇋𓇋𓏏𓏱	861523	PROPN	entity-name	_	_	_	_	Translit=Nsy.t
+
+# sent_id = IBUBd0EQVjcB1UUxqPvzUIf4o3I
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Osiris – er hat die Botschaft gehört!
+# findspot = unknown
+# date = NK
+# lineRef = [3.4]
+1	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+2	𓄔𓅓𓈖	150560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄋𓊪𓏲𓏏𓏴𓀁𓏫	45750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wpw.t
+
+# sent_id = IBUBd6QhBQXkhEpejj2PyDQcZHo
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Das Land ist (wieder) in Freude.
+# findspot = unknown
+# date = NK
+# lineRef = [3.4]
+1	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂋𓈙𓂊𓏛𓏫	96180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rš.w
+
+# sent_id = IBcBKZs9GfkD4Ua2nbOhSj8wAE0
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Rezept):
+# findspot = unknown
+# date = NK
+# lineRef = [3.5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBKf6nak14FEIogO55kglVdVs
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Heilmittel) / Eine andere (Beschwörung):
+# findspot = unknown
+# date = NK
+# lineRef = [3.6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd71n6mrjWk9WkTUIrX7dWYY
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) werde daran gegeben.
+# findspot = unknown
+# date = NK
+# lineRef = [3.8]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd9pohLulC0uutKYCnucQYGk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Haare von seinem ...?... gegen sie (d.h. die $tmy.t$-Krankheit)!
+# findspot = unknown
+# date = NK
+# lineRef = [4.2]
+1	𓍲𓈖𓁸𓏫	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+2	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓎛𓆰𓈖	_	_	_	_	_	_	_	_
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd2NPtne7DUTPo6EwQDYY3as
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Das ist ein (magischer) Schutz (??).  (oder: das ist die Außenseite (?))
+# findspot = unknown
+# date = NK
+# lineRef = [4.2]
+1	𓐠𓏤	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd1vwU4j0Fk7gmwVkJasDMsA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Das, was versteckt wurde, und das, was gesprochen wurde, ist das, was gesagt wurde.
+# findspot = unknown
+# date = NK
+# lineRef = [4.2] - [4.3]
+1	𓇋𓏠𓈖𓏏𓀄𓏫	26030	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jmn
+2	𓆓𓂧𓏏𓏥	185810	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḏd
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓆓𓂧𓏏𓏥	185810	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḏd
+
+# sent_id = IBUBd4HciNNUCEWtkKPD1nRnfhk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Man soll die $tmy.t$-Krankheit damit verbinden!
+# findspot = unknown
+# date = NK
+# lineRef = [4.5]
+1	𓐎𓏏𓏲𓀜	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓏏𓍃𓅓𓏏𓐎	172230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tmy.t
+3	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdyGWu90g8UWXtspjQUMBCLI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Iss nicht vom Körper!
+# findspot = unknown
+# date = NK
+# lineRef = [4.6]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓈎𓈎𓀁	162310	VERB	verb	VerbForm=Fin	_	_	_	Translit=qq
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBUBd5d5hqhfZ0t2obWjBsBhR4w
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dies bedeutet Sprechen zu der $tntn$-Krankheit.
+# findspot = unknown
+# date = NK
+# lineRef = [4.6]
+1	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓏏𓈖𓏏𓈖𓂐	_	_	_	_	_	_	_	_
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdWT1ywv3IEfZuNCr7g9LcmA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Eine andere (Beschwörung) des Wassers.
+# findspot = unknown
+# date = NK
+# lineRef = [4.7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcBOV781YKtqkWKid3Fe44vrLE
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderer (Spruch):
+# findspot = unknown
+# date = NK
+# lineRef = [6.10 (= alt 10.10)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd6VMVSYfcU86sRmr4Wzyyl8
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Eine andere (Beschwörung) des $fnṯ$-Wurms.
+# findspot = unknown
+# date = NK
+# lineRef = [7.2 (= alt 11.2)]
+1	𓎢𓏏	_	X	unknown	_	_	_	_	_
+2	𓍲𓈖𓏏𓍢𓀁	155300	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šn.t
+3	𓆑𓈖𓏏𓆙	63890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=fnṯ
+
+# sent_id = IBcBOWJJMEck3k2DiCZkbh4cSwM
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Eine andere (Beschwörung):
+# findspot = unknown
+# date = NK
+# lineRef = [7.3 (= alt 11.3)]
+1	𓎢𓏏	163760	ADJ	adjective	_	_	_	_	Translit=ky
+
+# sent_id = IBUBd8aZrsmQg0pCiRW5Mu7yYxk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ich bin die Tochter der (Göttin) Seper-tu-nes.
+# findspot = unknown
+# date = NK
+# lineRef = [7.3 (= alt 11.3)]
+1	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓈙𓂋𓇋𓏏𓅪𓁐	156680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šrj.t
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓄭𓂋𓂻𓏏𓏲𓈖𓊃𓅆	863798	PROPN	entity-name	_	_	_	_	Translit=Spr⸗tw-n⸗s
+
+# sent_id = IBUBd7wbqzHB6UWqrsCyUdQHE9I
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = $bṯrby rbst$ zweimal.
+# findspot = unknown
+# date = NK
+# lineRef = [7.3 (= alt 11.3)] - [7.4 (= alt 11.4)]
+1	𓃀𓅷𓏤𓂋𓏤𓃀𓅡𓄿𓇋𓇋𓅆	_	_	_	_	_	_	_	_
+2	𓂋𓏤𓃀𓅡𓄿𓋴𓍘𓇋𓆗	_	_	_	_	_	_	_	_
+3	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓏭	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd0wQ0A37HEnWj2RQWdAKo6Q
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Beschwörung der Asiaten-Krankheit in der Sprache der Kreter:
+# findspot = unknown
+# date = NK
+# lineRef = [7.4 (= alt 11.4)]
+1	𓍲𓈖𓏏𓍢𓀁	155300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šn.t
+2	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓍘𓈖𓏏𓌙𓅓𓏲𓀀𓏥	_	_	_	_	_	_	_	_
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆓𓂧	185810	VERB	verb	_	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂓𓏤𓆑𓍘𓏲𓈉	164260	PROPN	entity-name	_	_	_	_	Translit=Kft.w
+
+# sent_id = IBUBdy7I2bLKmEfci75QokOYxqM
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = $snt kppwy jymntrkk r$
+# findspot = unknown
+# date = NK
+# lineRef = [7.4 (= alt 11.4)] - [7.5 (= alt 11.5)]
+1	𓐠𓏤𓈖𓏥𓍘	_	_	_	_	_	_	_	_
+2	𓎢𓄿𓊪𓏲𓊪𓏭𓍯𓄿𓇋𓇋𓈐	_	_	_	_	_	_	_	_
+3	𓇋𓀁𓇋𓇋𓅓𓂝𓈖𓏥𓍘𓇋𓂋𓏤𓂓𓏤𓎢𓄿𓀁𓂋𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBUBd2qsxdT6U0QtiGRHXNc390s
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dieser Spruch ist zu sprechen über Hefe(?) von Vergorenem, Urin und ...?....
+# findspot = unknown
+# date = NK
+# lineRef = [7.5 (= alt 11.5)] - [7.6 (= alt 11.6)]
+1	𓆓𓂧𓏏𓏲	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎼𓄿𓈙𓏲𓏊𓏫	858493	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gš
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓂝𓍯𓄿𓇋𓇋𓏏𓏊𓏫	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+8	𓅓𓂝𓇋𓇋𓏏𓈗𓏫	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+9	𓏴𓏏𓏊𓏫	_	_	_	_	_	_	_	_
+
+# sent_id = IBUBdx64YpZFskGMtWcmXq7Ob88
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Werde daran (d.h. an die Krankheit) geben.
+# findspot = unknown
+# date = NK
+# lineRef = [7.6 (= alt 11.6)]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd09GrZhfYkxkl4oLz1W2UMI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Beschwörung der $smn$-Krankheit:
+# findspot = unknown
+# date = NK
+# lineRef = [7.6 (= alt 11.6)]
+1	𓍲𓈖𓏏𓍢𓀁	155300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šn.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓐠𓏤𓅓𓂝𓏲𓈖𓄿𓐎	135190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=smn
+
+# sent_id = IBUBd7G2m51PmEP8oP5lTKq25HQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Spruch gegen die Nachtblindheit:
+# findspot = unknown
+# date = NK
+# lineRef = [7.8 (= alt 11.8)]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓆷𓄿𓂋𓏲𓁻𓏥	151860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣr.w
+
+# sent_id = IBUBd0N3foUwxEjXnDhtsHL9fP0
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dann soll (d.h. kann) er sofort sehen.
+# findspot = unknown
+# date = NK
+# lineRef = [8.1 (= alt 12.1)]
+1	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌳𓁹𓄿𓈖	66270	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBd01I5XU1OU3SgUIrdN4OdKI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes Rezept:
+# findspot = unknown
+# date = NK
+# lineRef = [8.2 (= alt 12.2)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄴𓂋𓏏𓏲𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUBd70WofDRXEHllvsFdFhaz1k
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Rinderleber, die über ein Feuer aus Stroh von Emmer oder Gerste gehalten (und) (dabei) in ihrem Rauch geräuchert worden ist.
+# findspot = unknown
+# date = NK
+# lineRef = [8.2 (= alt 12.2)] - [8.3 (= alt 12.3)]
+1	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mjz.t
+2	𓃒	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+3	𓂋𓂝𓍘𓇋	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rḏi̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓂋𓏲𓇋𓇋𓏲𓆰	93630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rwy.t
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓇣𓏏𓏭𓌽𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+10	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+11	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+12	𓈎𓄿𓉔𓂧𓏲𓊮𓍘𓇋	858172	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=qhd
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓎛𓏏𓏭𓊮	111130	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥtj
+15	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd4RVe4Gg4UDQihD5NeJdu8c
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ihr Saft (wörtl. Wasser) werde an die Augen ausgepresst.
+# findspot = unknown
+# date = NK
+# lineRef = [8.3 (= alt 12.3)]
+1	𓂝𓂝𓆑𓍢𓀜	37240	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥfi̯
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw
+3	𓋴𓈖𓏥	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+
+# sent_id = IBUBdzZ76agJaEXHo0kWz55Eh1M
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Eine andere Beschwörung:
+# findspot = unknown
+# date = NK
+# lineRef = [8.3 (= alt 12.3)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓍲𓈖𓏏𓍢𓀁	155300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šn.t
+
+# sent_id = IBUBd90Qk77B800DmxPFQyHjaYc
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Osiris leidet an $nfdwt$, ohne dass man (etwas) für ihn tun wird/kann,
+# findspot = unknown
+# date = NK
+# lineRef = [8.4 (= alt 12.4)]
+1	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+2	𓍟𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈖𓆑𓂧𓏲𓏏	_	_	_	_	_	_	_	_
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓁹𓏏	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8h7Ruo1ZEPzhRRN8ahXWOU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = ohne dass sein Oberarm hoch sein kann;
+# findspot = unknown
+# date = NK
+# lineRef = [8.4 (= alt 12.4)]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓈎𓄿𓀠𓏛	159110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qꜣi̯
+3	𓂋𓏠𓈖𓂢𓏤𓄹	854523	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rmn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7Vys4WMCknnqjH74SR51V8
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = "Ich veranlasse, dass geschützt wird (?) das Körperteil von ihm mit (?) Sachen, die herauskommen aus meinem Sohn", so sagte Atum.
+# findspot = unknown
+# date = NK
+# lineRef = [8.5 (= alt 12.5)] - [8.6 (= alt 12.6)]
+1	𓂞	853994	PROPN	entity-name	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=Ḏi̯⸗f tꜣ.wj-r-ḫb.t
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈞𓅓𓀜	_	_	_	_	_	_	_	_
+4	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+9	𓉐𓂋𓏏𓂻	60920	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓇋𓈖	500024	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=j
+14	𓏏𓍃𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+
+# sent_id = IBUBd5zFFpxwJkAHkmqHKGiCW0U
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = "Es werde jene Blindheit vertrieben; es werde jene Nachtblindheit von den Gliedern von ihm beseitigt.
+# findspot = unknown
+# date = NK
+# lineRef = [8.6 (= alt 12.6)]
+1	𓂧𓂋𓀜	180130	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+2	𓐍𓊪𓏲𓁻	116140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫp.w
+3	𓊪𓆑	59880	PRON	pronoun	PronType=Dem	_	_	_	Translit=pf
+4	𓐍𓊃𓂋𓎝𓀜	121030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫsr
+5	𓆷𓄿𓂋𓏲𓁻𓏥	151860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣr.w
+6	𓊪𓆑	59880	PRON	pronoun	PronType=Dem	_	_	_	Translit=pf
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+9	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQUkdJV3NkehtCm9XKDNNXE
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = ich habe (es) dir gegeben im (Ort) $Šzr.t$;
+# findspot = unknown
+# date = NK
+# lineRef = [8.9 (= alt 12.9)]
+1	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓍱𓊃𓂋𓏏𓏯𓊖	_	_	_	_	_	_	_	_
+
+# sent_id = IBUBdyOPpU2G20H6oGZ6ucVQM1M
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Spruch zum Stoppen einer Blutung:
+# findspot = unknown
+# date = NK
+# lineRef = [9.1 (= alt 13.1)]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓍚𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+4	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+
+# sent_id = IBUBd1dtKQ64Wkm8iPCl42ZFF2g
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Gestoppt ist das Blut, das aus Hermopolis kommt, und gestoppt ist (dann) das rote Blut, das in (einer) Stunde herauskommt.
+# findspot = unknown
+# date = NK
+# lineRef = [9.1 (= alt 13.1)] - [9.2 (= alt 13.2)]
+1	𓍚𓀜	854535	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫsf
+2	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+3	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓃹𓈖𓏌𓏲𓊖	46390	PROPN	entity-name	_	_	_	_	Translit=Wnw
+6	𓍚𓀜	854535	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫsf
+7	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+8	𓂧𓈙𓂋𓏯	550232	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=dšr
+9	𓉐𓂋𓏏𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnw.t
+
+# sent_id = IBUBd40OsnWsukJdokIeGJbDqB0
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dieser Spruch ist zu sprechen über einer Karneolperle, indem sie gegeben wurde an den After einer Frau.
+# findspot = unknown
+# date = NK
+# lineRef = [9.2 (= alt 13.2)] - [9.3 (= alt 13.3)]
+1	𓆓𓂧𓏏𓏲	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓇓𓏲𓍘𓏏𓆇	130470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swr.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓁷𓂋𓋴𓏏𓈒𓏫	109190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥrs.t
+8	𓂋𓂝𓍘𓇋	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rḏi̯
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓄖𓏲𓏭	61520	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pḥ.wyt
+11	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+
+# sent_id = IBUBdQEyAWQR7UObuMWGK7vhyW4
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein Spruch 〈zum〉 Stoppen einer Blutung ist das!
+# findspot = unknown
+# date = NK
+# lineRef = [9.3 (= alt 13.3)]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓍚𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+3	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcBRoKIWBmWYUQuvT1zfUMo7QQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (und) (es) werde einer (weiblichen) Katze gegeben.
+# findspot = unknown
+# date = NK
+# lineRef = [9.7 (= alt 13.7)]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓏇𓇋𓇋𓏏𓄛𓏤	854443	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjw.t
+
+# sent_id = IBUBdW24QhltqUGYjLDwoN89zNs
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Weiche zurück!
+# findspot = unknown
+# date = NK
+# lineRef = [9.8 (= alt 13.8)]
+1	𓈞𓅓𓂻	105200	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥmi̯
+
+# sent_id = IBUBd6TWDmFi0093reRQoG9IysU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Isis möge hervorkommen, damit sie mit euch (den Binden?) schieße!
+# findspot = unknown
+# date = NK
+# lineRef = [9.8 (= alt 13.8)]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓄝𓏏𓌕𓂡	854553	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sti̯
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd9p3Tw8cxEthr2fTZ0Ld9mc
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Du magst sagen "Weg, du!", hiermit sage ich dir: "Weg, du!"
+# findspot = unknown
+# date = NK
+# lineRef = [9.11 (= alt 13.11)]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3nBD4QBdEFvqoTRk47xwJs
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Das (oder: dieses) Tor (d.h. Eingang zum Mutterleib) ist in Ordnung.
+# findspot = unknown
+# date = NK
+# lineRef = [9.11 (= alt 13.11)]
+1	𓂝𓂋𓏲𓊋𓏥𓏏	39570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥrr.wt
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓂝𓈎𓄿𓏲𓇋𓇋𓏏	41420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥqꜣ.yt
+
+# sent_id = IBUBdy9MpaonW0sKhOiX8gIKzZo
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll jede Blutung und jede (feindliche, dämonisch) Einwirkung abgewehrt werden.
+# findspot = unknown
+# date = NK
+# lineRef = [9.13 (= alt 13.13)]
+1	𓍚𓀜	854535	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫsf
+2	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+3	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+4	𓊨𓏏𓂝𓏤𓅪𓏥	125160	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-ꜥ
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdQWIAwaPE0ayil7q6wepnOA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Stärken des Embryos bedeutet es (und) das Nicht-Sehen (d.h. Verhindern) von Träumen.
+# findspot = unknown
+# date = NK
+# lineRef = [9.13 (= alt 13.13)] - [9.14 (= alt 13.14)]
+1	𓋴𓂋𓏲𓂧𓌗𓏛	139340	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḏ
+2	𓋴𓏲𓎛𓏏𓆇	130630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swḥ.t
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓏏𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+5	𓌴𓁹𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+6	𓍟𓏲𓏏𓁻𓏥	96130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rs.wt
+
+# sent_id = IBUBdy8MP3nFTUG1hvjnU5us2rw
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dieser Spruch werde gesprochen bei jedem einzelnen (Amulett)knoten.
+# findspot = unknown
+# date = NK
+# lineRef = [9.14 (= alt 13.14)]
+1	𓆓𓂧𓏏𓏲	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓏏𓈖𓏌𓏲𓌙𓅯𓏛	175840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ṯnw
+5	𓋭𓏏𓏤	176910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯꜣz.t
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd5IvbL01GE2Xh6yLSaDDB9A
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderer Spruch zur Abwehr von Blut.
+# findspot = unknown
+# date = NK
+# lineRef = [9.14 (= alt 13.14)]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓍚𓀜	854535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsf
+5	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+
+# sent_id = IBcBUpTDLiCOm0ivtkQwm2sTrNQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dieser Spruch ist zu sprechen über $ꜥꜣ.t$-Leinenstoff aus $rʾ-jꜣꜣ.t$-Gewebe.
+# findspot = unknown
+# date = NK
+# lineRef = [9.15 (= alt 13.15)]
+1	𓆓𓂧𓏏𓏲	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓉻𓂝𓏏𓏯𓍱𓏥	34920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣ.t
+6	𓈖𓏏𓏲	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓂋𓏤𓇋𓄿𓄿𓏏𓏤𓍱	854715	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ-jꜣꜣ.t
+
+# sent_id = IBcBUspr2LSGE0iOjKidbD1VvgI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) werde ein (Amulett)knoten in/aus ihm gemacht;
+# findspot = unknown
+# date = NK
+# lineRef = [9.15 (= alt 13.15)]
+1	𓁹𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋭𓏏𓏤	176910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯꜣz.t
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd6aQuf2wjkfPlQ3SGLNQU7o
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Anubis (?), los! Die Nilflut (ist/kommt) bis an die Sandale der Tait.
+# findspot = unknown
+# date = NK
+# lineRef = [10.1 (= alt 14.1)]
+1	𓇋𓇋𓎛𓂻	30450	INTJ	interjection	_	_	_	_	Translit=jḥ
+2	𓎛𓂝𓊪𓏭𓈘𓈗𓅆	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏏𓃀𓏏𓋸	175160	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ṯbw.t
+5	𓇾𓏤𓈇𓏏𓍔𓄿𓇋𓇋𓏏𓏯𓍱𓅆	169440	PROPN	entity-name	_	_	_	_	Translit=Tꜣj.t
+
+# sent_id = IBUBdymtR9AkzkPKq4E9VYhLoy8
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = In Ruhe (?) gelassen wird das, was sich darin befindet.
+# findspot = unknown
+# date = NK
+# lineRef = [10.1 (= alt 14.1)] - [10.2 (= alt 14.2)]
+1	𓆼𓄿𓂝𓏏𓂻	113560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣꜥ
+2	𓏶𓅓𓏏	400138	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jm.jt
+
+# sent_id = IBUBd1LfkJvfX0QhqAOXjuse9Lk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Propolis, roter Ocker - werde daran gegeben.
+# findspot = unknown
+# date = NK
+# lineRef = [10.3 (= alt 14.3)]
+1	𓐎𓏥𓂝𓆑𓆑𓅭𓏥	863819	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs-ꜥff
+2	𓏠𓈖𓈙𓏏𓈒𓏫	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+3	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcBU5d3nJwbrEiWj3n5CwXDg1I
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Zu Sprechendes als $ḥkꜣ$-Zauber:
+# findspot = unknown
+# date = NK
+# lineRef = [10.3 (= alt 14.3)]
+1	𓆓𓂧𓏏𓏥	185810	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkꜣ.w
+
+# sent_id = IBUBd6wUKVQNjkcysxQ1MNSwPqU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Der Elende (Dämon) aber ist es, der den Starken (Dämon) schlagen wird.
+# findspot = unknown
+# date = NK
+# lineRef = [10.3 (= alt 14.3)]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓈞𓅓𓀜	104600	PART	particle	_	_	_	_	Translit=ḥm
+3	𓌳𓄿𓇋𓂋𓌗𓅪𓏥𓀀	67170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣr
+4	𓎛𓀝𓇋𓇋𓀜	854530	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=ḥwi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈖𓆱𓐍𓏏𓀜𓀀	87580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫt
+
+# sent_id = IBUBdxmvI7VumUtEoGDoMzmXkfc
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dieses gegen dieses!
+# findspot = unknown
+# date = NK
+# lineRef = [10.3 (= alt 14.3)]
+1	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+
+# sent_id = IBcBUQr9fVliNUCfszi1L9NzW4w
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Rezept):
+# findspot = unknown
+# date = NK
+# lineRef = [10.4 (= alt 14.4)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd2pvWVJ6BEv1jR6Y7fRgRdA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Der Ibis möge seine(n) Nase/Schnabel an der (oder: als) Mauer (?) davon geben.
+# findspot = unknown
+# date = NK
+# lineRef = [10.4 (= alt 14.4)]
+1	𓂋𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓉔𓄿𓃀𓏏𓅬	98120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hbj
+3	𓂊𓏤	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇥𓂋𓇋𓊅𓀜	856665	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏr
+7	𓇋𓂋𓏭	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBd7Alfx94wUMcnWklG2Awcso
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Es war gut zur Zeit Amenhoteps III.
+# findspot = unknown
+# date = NK
+# lineRef = [10.5 (= alt 14.5)]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓄤𓆑𓂋𓍘𓇋	854519	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nfr
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉔𓄿𓏲𓏛𓏥	854526	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=hꜣw
+6	𓇳𓎟𓆄𓏛𓏥	400837	PROPN	entity-name	_	_	_	_	Translit=Nb-mꜣꜥ.t-Rꜥw
+
+# sent_id = IBUBd0uW0IAi7kBUvpqbMLKTExU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dieser Bauch (?) – er hat (sich) verfinstert.
+# findspot = unknown
+# date = NK
+# lineRef = [10.5 (= alt 14.5)] - [10.6 (= alt 14.6)]
+1	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+2	𓏏𓏲𓇋𓇋	170301	PRON	pronoun	PronType=Dem	_	_	_	Translit=twy
+3	𓋴𓎢𓎢𓇰𓈖	147030	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=skki̯
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBZAiFYeh91E42hQbthi1sJ64
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (und) richte dein Gehörn auf wie Sechat-Horus als "Horn-an-Horn" und "Spitze-an-Spitze".
+# findspot = unknown
+# date = NK
+# lineRef = [10.6 (= alt 14.6)] - [10.7 (= alt 14.7)]
+1	𓋴𓈎𓄿𓀠𓏛	159110	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=qꜣi̯
+2	𓄋𓏏𓏤𓄹	45530	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wp.t
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓋴𓆼𓄿𓏏𓃒𓆗𓅃𓅆	141730	PROPN	entity-name	_	_	_	_	Translit=Sḫꜣ.t-Ḥr.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂧𓃀𓄏	178290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=db
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂧𓃀𓄏	178290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=db
+10	𓈎𓂝𓎛𓂢𓏤𓄹	159840	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜥḥ.w
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓈎𓂝𓎛𓂢𓏤𓄹	159840	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜥḥ.w
+
+# sent_id = IBUBdQcAQ0WrqkuXvXU5dbIBAqA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Horus, das Kind, war in (seinem) Nest.
+# findspot = unknown
+# date = NK
+# lineRef = [10.8 (= alt 14.8)]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓈖𓐍𓈖𓀔	87250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫn.w
+3	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+4	𓊃𓈙𓏭𓅹𓈇𓏤	144360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zš
+
+# sent_id = IBUBdwyVqPJXpUOloWGWOuF8rEg
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Feuer hat sein Leib befallen, ohne dass er es kannte und vice versa (d.h. und ohne dass das Feuer ihm kannte).
+# findspot = unknown
+# date = NK
+# lineRef = [10.9 (= alt 14.9)]
+1	𓊪𓂝𓂝𓊮	_	_	_	_	_	_	_	_
+2	𓐍𓂋𓀒	119610	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+7	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+10	𓋭𓄲	177140	X	undefined	_	_	_	_	Translit=ṯꜣz-pẖr
+
+# sent_id = IBUBdwvZq2WcWU4zoLg8G6dakss
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Der Sohn war klein, das Feuer stark.
+# findspot = unknown
+# date = NK
+# lineRef = [10.10 (= alt 14.10)]
+1	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+2	𓈖𓐍𓈖𓀔	87260	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḫn
+3	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+4	𓄊𓋴𓂋𓂡𓍘𓇋	500010	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wsr
+
+# sent_id = IBUBd32YEwVb906piTiT7eOAW2Y
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Es gab keinen, der ihn vor ihm (i.e. dem Feuer) gerettet hat;
+# findspot = unknown
+# date = NK
+# lineRef = [10.10 (= alt 14.10)]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓈖𓈞𓅓𓀜	86430	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nḥm
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdyWUIj3ZU0gPgpP2N4WOVuM
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Komme, Schwester Nephthys, mit mir!
+# findspot = unknown
+# date = NK
+# lineRef = [10.10 (= alt 14.10)] - [10.11 (= alt 14.11)]
+1	𓅓𓂝𓇋𓏏𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓌢𓏏𓁐𓅆	136260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sn.t
+3	𓎟𓏏𓉗𓏏𓉐𓅆	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd8WWJh8zgkd0mvo2uYVAp9w
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Begleite mich, (denn) ich bin taub und mein Faden umschlingt (mich)!
+# findspot = unknown
+# date = NK
+# lineRef = [10.11 (= alt 14.11)]
+1	𓐍𓊪𓏲𓂻	116050	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫpi̯
+2	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓋴𓄡𓏲𓄔	854862	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zẖi̯
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓇋𓆛𓈖𓈎𓍢𓀜	27880	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jnq
+6	𓐩𓏌𓍱	90960	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḏ
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd5Hr0FklQkeTlEOnsbmuIzs
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Gib mir meinen (?) Weg (d.h. Lass mich gehen)!
+# findspot = unknown
+# date = NK
+# lineRef = [10.11 (= alt 14.11)]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jmi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wꜣ.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd26k32MZE03vj0yOdN8gE80
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ich will/soll das machen, was ich kenne (d.h gelernt habe/verstehe) – ich lösche es (das Feuer) ihm (Horus) mit meiner Milch als gesundmachende Flüssigkeit, die in meinen Brüsten ist.
+# findspot = unknown
+# date = NK
+# lineRef = [10.11 (= alt 14.11)]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋𓐍𓏏𓏛𓈖	95620	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=rḫ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂝𓐍𓅓𓊮	40630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḫm
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓇋𓁹𓏏𓏏𓏊𓏥	854491	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jrṯ.t
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+15	𓋴𓈖𓃀𓏲𓏛𓏥	851676	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=snb
+16	𓏶𓅓𓏭𓏏𓏲	25400	ADP	preposition	_	_	_	_	Translit=jm.wtj
+17	𓏠𓈖𓂧𓏲𓂑𓂑	71720	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=mnḏ
+18	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd9pfago7YE3ChgxUEWkWy38
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll an deinen Leib gegeben werden, so dass deine Gefäße heilen.
+# findspot = unknown
+# date = NK
+# lineRef = [10.12 (= alt 14.12)]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓂸𓏏𓏲𓄹𓏥	77310	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mt
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd2RMzFD3rUtnlVS6AVoTiG0
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ich will das Feuer zurückweichen lassen, das dich angriffen hat!
+# findspot = unknown
+# date = NK
+# lineRef = [10.12 (= alt 14.12)]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈞𓅓𓂽	105200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmi̯
+4	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+5	𓏏𓎢𓎢𓂡	173740	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=tkk
+6	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+
+# sent_id = IBUBdWc8xrhPhkwTmNeCx05WSUY
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Worte zu sprechen über die $ꜥꜣgy.t$-Teile einer Akazie, Kleie von Gerste, Cyperus esculentus (Erdmandel) gekocht, Carobfrucht gekocht, Exkremente, gekocht und es werde gemacht zu 〈einer〉 Masse und es werde gemischt mit der Milch einer, die einen Jungen geboren hat.
+# findspot = unknown
+# date = NK
+# lineRef = [10.12 (= alt 14.12)] - [10.13 (= alt 14.13)]
+1	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+2	𓌃𓏤𓏫	78150	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mdw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂝𓎼𓄿𓇋𓇋𓏏𓆱	35500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣg.yt
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓍲𓈖𓂧𓏏𓆭	156510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnḏ.t
+7	𓈙𓂝𓏏𓈒𓏫	152370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥ.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+10	𓇹𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+11	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=psi̯
+12	𓍑𓄿𓂋𓏏𓈒𓏫	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+13	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=psi̯
+14	𓆷𓄿𓏲𓐎𓏫	151290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+15	𓊪𓆑𓋴𓏲𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=psi̯
+16	𓁹𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+19	𓋁𓃀𓐍𓂡	89	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣbḫ
+20	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+21	𓇋𓂂𓏏𓏏𓏊𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+22	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+23	𓄟𓋴𓏏𓏯	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=msi̯
+24	𓅷𓄿𓇋𓇋𓂺	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+
+# sent_id = IBUBdx1qTGWSQ0nluYXXDR8Kjao
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Du sollst es verbinden mit einem Blatt der Rizinuspflanze.
+# findspot = unknown
+# date = NK
+# lineRef = [10.13 (= alt 14.13)] - [10.14 (= alt 14.14)]
+1	𓐎𓏏𓀜	50980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎼𓄿𓃀𓏏𓆭	166380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=gꜣb.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓂧𓅠𓅓𓆭𓏫	181210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dgm
+
+# sent_id = IBUBdQZrBLWtoke1i5vPUfsO03c
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Eine weitere Beschwörung gegen eine Brandwunde am ersten Tag.
+# findspot = unknown
+# date = NK
+# lineRef = [10.14 (= alt 14.14)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓍲𓈖𓏏𓍢𓀁	155300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+5	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+6	𓁶𓊪𓏭	171460	ADJ	adjective	_	_	_	_	Translit=tp.j
+
+# sent_id = IBUBd3WubQabjUcrtwMdrJyWz4k
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dein Sohn Horus ist verbrannt in der Wüste inmitten eines Ortes, an dem es kein Wasser gab.
+# findspot = unknown
+# date = NK
+# lineRef = [10.14 (= alt 14.14)]
+1	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓏲𓃀𓂧𓏏𓊮	45410	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wbd
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+7	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+8	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+9	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+10	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBZGwG3uo64EuPvrLgJWiZoDQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Wasser ist in meinem Mund;
+# findspot = unknown
+# date = NK
+# lineRef = [10.14 (= alt 14.14)]
+1	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcBZBiW77M4Lk0EihZ8aBvmDxU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = die Nilflut ist zwischen meinen beiden Oberschenkeln.
+# findspot = unknown
+# date = NK
+# lineRef = [11.1 (= alt 15.1)]
+1	𓎛𓂝𓊪𓏭𓈘𓈗𓅆	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+2	𓏶𓅓𓏭𓏏𓏲	25400	ADP	preposition	_	_	_	_	Translit=jm.wtj
+3	𓏠𓈖𓏏𓏭𓂾𓂾𓄹	69800	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=mn.t
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdzflFNZz30Q7mYalfyz4GkA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Um das Feuer zu löschen, kam ich also.
+# findspot = unknown
+# date = NK
+# lineRef = [11.1 (= alt 15.1)]
+1	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂝𓐍𓅓𓊮	40630	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḫm
+5	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBd0WsJKM260e5oTbHD163wSM
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Du sollst ausfließen / zugrunde gehen, Brandwunde!
+# findspot = unknown
+# date = NK
+# lineRef = [11.1 (= alt 15.1)]
+1	𓈙𓊪𓂐	153630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šp
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBUBd2mW5clZ9EuagV9uTF3bMJw
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Werde gegeben auf die Brandwunde.
+# findspot = unknown
+# date = NK
+# lineRef = [11.2 (= alt 15.2)]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBUBdxcW3qjaUUWdq61R7vwKLfw
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Eine andere (Beschwörung):
+# findspot = unknown
+# date = NK
+# lineRef = [11.2 (= alt 15.2)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBZYs59D6NPk8hsmIkckRp4GQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Mein Mund ist mit Wasser (voll);
+# findspot = unknown
+# date = NK
+# lineRef = [11.3 (= alt 15.3)]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd7djaKPVAErHmQ3KJXxTdeU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Um das Feuer zu löschen, kam ich also.
+# findspot = unknown
+# date = NK
+# lineRef = [11.3 (= alt 15.3)]
+1	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂝𓐍𓅓𓊮	40630	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḫm
+5	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBd3bQDl0Kw0EfsQomU6Lgnzg
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ich will $jnbw$-Pflanzen bringen und dann wird (man) ja (den Erfolg) sehen.
+# findspot = unknown
+# date = NK
+# lineRef = [11.4 (= alt 15.4)]
+1	𓏎𓈖𓏏	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓏏	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓇋𓆛𓈖𓃀𓏲𓆰𓏫	27200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnb
+4	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+5	𓈞𓅓𓀜	104600	PART	particle	_	_	_	_	Translit=ḥm
+6	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+
+# sent_id = IBUBd9QKF2MRukclqaj0nLq3cgY
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Werde darauf gegeben.
+# findspot = unknown
+# date = NK
+# lineRef = [11.5 (= alt 15.5)]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd7aGhQMZAEh9jIL41abVs64
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll damit gesalbt werden.
+# findspot = unknown
+# date = NK
+# lineRef = [11.7 (= alt 15.7)]
+1	𓐞𓊃𓏲𓏊𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdyiCuxEu7E6nn6YtVX99Qmo
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Heilmittel):
+# findspot = unknown
+# date = NK
+# lineRef = [11.7 (= alt 15.7)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd8ZLPAJWgEMRvNICAaG3p6U
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Brot aus Gerste, Fett/Salböl.
+# findspot = unknown
+# date = NK
+# lineRef = [11.7 (= alt 15.7)]
+1	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓌻𓂋𓎛𓏏𓏊𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcBZXqu7BBj1E5SgJzr3AeZCzI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = [Eine an]dere [Beschwör]ung:
+# findspot = unknown
+# date = NK
+# lineRef = [11.7 (= alt 15.7)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓍲𓈖𓏏𓍢𓀁	155300	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šn.t
+
+# sent_id = IBUBdxcuwvrWik9TszwDK62lXH8
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Geschwärzt ist der Körper mit (oder wie) Kohle und durch Wasser vom roten Wasser.
+# findspot = unknown
+# date = NK
+# lineRef = [11.8 (= alt 15.8)]
+1	𓆓𓂝𓃀𓏲𓀜	182610	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜥb
+2	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆓𓂝𓃀𓏏𓈒𓏫	182660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥb.t
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+7	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+9	𓂧𓈙𓂋𓏏𓄛𓏤	550232	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=dšr
+
+# sent_id = IBUBd0JnDkNixUbelQ5BJsnNhk4
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) (d.h. die Drogen) soll fein gerieben und (die Wunde soll) damit verbunden werden.
+# findspot = unknown
+# date = NK
+# lineRef = [11.10 (= alt 15.10)]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓐎𓏏𓏲𓀜	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd4bFB0JM6U2lpiQGrOX7BmQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Zucker, Honig, Carob.
+# findspot = unknown
+# date = NK
+# lineRef = [11.11 (= alt 15.11)]
+1	𓈙𓎢𓂋𓏤𓈒𓏥	157870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=škr
+2	𓆤𓏏𓏯𓏊𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+3	𓍑𓄿𓂋𓏏𓈒𓏫	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBUBd9F1F9uSnklTl8Q13cKeeEU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll mit einem Dorn zerstoßen und damit gesalbt werden.
+# findspot = unknown
+# date = NK
+# lineRef = [11.11 (= alt 15.11)]
+1	𓏏𓈙𓏏𓈙𓏴𓂻	173540	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tštš
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓂋𓏏𓇮	139070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sr.t
+4	𓎼𓄿𓋴𓏲𓏊𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd9hBR1ihlk5Sq7j809Xk4As
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Heilmittel):
+# findspot = unknown
+# date = NK
+# lineRef = [11.11 (= alt 15.11)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd4QLXRQhxkJgg7yhuVkFGxQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll im Milch(saft) einer Sykomore zerrieben werden.
+# findspot = unknown
+# date = NK
+# lineRef = [11.12 (= alt 15.12)]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓂂𓏏𓏏𓏊𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓈖𓉔𓏏𓆭	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+
+# sent_id = IBUBd8rfvG00h0YcrTREWvwpFX8
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Heilmittel):
+# findspot = unknown
+# date = NK
+# lineRef = [11.12 (= alt 15.12)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBdQJQzIcdnkhOrIECMlrCH14
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll die helle Verfärbung (der Brandwunde) damit bezwungen werden, so dass er sofort gesund wird.
+# findspot = unknown
+# date = NK
+# lineRef = [11.13 (= alt 15.13)]
+1	𓂧𓄿𓇋𓂋𓌗𓀜	177740	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dꜣr
+2	𓋴𓌉𓆓𓏲𓇳𓏫	141340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḥḏ.w
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴𓈖𓃀𓏛𓏏𓏲	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBdzJCLOQPEUuRlsRMXr0bVIs
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Heilmittel):
+# findspot = unknown
+# date = NK
+# lineRef = [11.13 (= alt 15.13)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd59YoQlsu0kwkgEqkvIAlPo
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Weihrauch, Honig.
+# findspot = unknown
+# date = NK
+# lineRef = [11.13 (= alt 15.13)]
+1	𓊹𓌢𓏏𓂋𓇋𓆳𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓅯𓏏𓏯𓏊𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBUBdzjK3lwGSk4WkpfhLKlqf0Y
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll damit gesalbt werden.
+# findspot = unknown
+# date = NK
+# lineRef = [11.13 (= alt 15.13)]
+1	𓐞𓊃𓏲𓏊𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd1r5KqRwg0IIvSl72VDoPcw
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Heilmittel):
+# findspot = unknown
+# date = NK
+# lineRef = [11.13 (= alt 15.13)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd5XGEWOMWUYAqvkOjCwUWxU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Mehl der Carobfrucht.
+# findspot = unknown
+# date = NK
+# lineRef = [11.13 (= alt 15.13)]
+1	𓂷𓈒𓏥	180940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dq.w
+2	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBcBZvsQAKH5bkBQnebdpaQa1Yc
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) werde damit gesalbt.
+# findspot = unknown
+# date = NK
+# lineRef = [11.14 (= alt 15.14)]
+1	𓐞𓊃𓏲𓏊𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdwfCJgVV8U71v3a4q4JvoLE
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes Heilmittel, das gemacht wurde gegen eine Brandwunde, die zu faulen beginnt.
+# findspot = unknown
+# date = NK
+# lineRef = [11.14 (= alt 15.14)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+6	𓎛𓍯𓄿𓐎𓍘𓇋	102640	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḥwꜣ
+
+# sent_id = IBUBd5Fj04w7aEIOl3YyVlpQpJ4
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll zu einer einzigen Masse zerrieben werden.
+# findspot = unknown
+# date = NK
+# lineRef = [12.1 (= alt 6.1) = Vso 1.1]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓏤𓏏	44150	ADJ	adjective	_	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdwwFel5ugUm2uvw7U8Dbuvw
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll damit umwickelt werden.
+# findspot = unknown
+# date = NK
+# lineRef = [12.1 (= alt 6.1) = Vso 1.1]
+1	𓐎𓂡	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd9c2QJWnsEbfsnSI2IdwS5I
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes Heilmittel gegen eine Verbrennung:
+# findspot = unknown
+# date = NK
+# lineRef = [12.1 (= alt 6.1) = Vso 1.1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBUBdQg4RfavEkJyhs0Dmyjx9WQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Binse, gekocht in Öl/Fett.
+# findspot = unknown
+# date = NK
+# lineRef = [12.2 (= alt 6.2)]
+1	𓇋𓄿𓂋𓆰𓏫	20810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣr.w
+2	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓌻𓂋𓎛𓏏𓏊𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBUBd8Sj8KkzWk1RgQ0eoLx3DD0
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) werde damit bandagiert.
+# findspot = unknown
+# date = NK
+# lineRef = [12.2 (= alt 6.2)]
+1	𓐎𓏏𓏲𓀜	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdwFmX9UC5kBKkfdu9sZuiWU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein anderes (Heilmittel):
+# findspot = unknown
+# date = NK
+# lineRef = [12.2 (= alt 6.2)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd9ZjcXt1pkK8l173eC0b1Wg
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Sepia, $šnf.t$-Frucht/Kuchen.
+# findspot = unknown
+# date = NK
+# lineRef = [12.6 (= alt 6.6)]
+1	𓄓𓈙𓏤𓈒𓏥	863030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns-š
+2	𓈙𓈖𓆑𓏏𓈒𓏫	156130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnf.t
+
+# sent_id = IBUBdQQoz1RNRkGhiuXRCsyqGTE
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Das, was gemacht wird für/gegen eine Brandwunde, so dass sie heilt (?; oder: wenn sie nicht (?) verheilt).
+# findspot = unknown
+# date = NK
+# lineRef = [12.6 (= alt 6.6)] - [12.7 (= alt 6.7)]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓈖𓃀𓏛𓊃	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBZ4B8SdydWk3zpunBN5quWnM
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ziegel/Block aus Carob:
+# findspot = unknown
+# date = NK
+# lineRef = [12.8 (= alt 6.8)]
+1	𓅙𓃀𓏏𓊌	183120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏb.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBcBZWe30vC6k0cHpGDV7svdBiM
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = werde zerrieben und durch Stoff geseiht.
+# findspot = unknown
+# date = NK
+# lineRef = [12.8 (= alt 6.8)]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓋴𓉔𓄿𓏲𓂻	140090	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=shꜣi̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓍱𓏥	145530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sšr.w
+
+# sent_id = IBUBdyXlurz9MkHAtIGQy5lKLnQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll die Brandwunde [mit] Urin gewaschen werden.
+# findspot = unknown
+# date = NK
+# lineRef = [12.8 (= alt 6.8)]
+1	𓇋𓂝𓈗𓀜	21550	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥi̯
+2	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓅓𓂝𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBUBd7oaQN30GEvhsfRaLU8eKJE
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Man soll diese Ziegelmasse (?) über den Urin geben.
+# findspot = unknown
+# date = NK
+# lineRef = [12.8 (= alt 6.8)]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓇑𓇑𓈖𓈖	500001	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn-n
+3	𓆱𓂝𓏤𓈒𓏥	863825	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ꜥ
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓅓𓂝𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBUBdWEFLQOYQkRbpQwP11GINEs
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = (Es) soll die Brandwunde damit eingesalbt werden.
+# findspot = unknown
+# date = NK
+# lineRef = [12.9 (= alt 6.9)]
+1	𓋴𓎼𓈖𓈖𓏌𓏲𓏊𓏫	147220	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sgnn
+2	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdQ6bejYtIUwUtGIdRgLxWbw
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Effektiv, effektiv!
+# findspot = unknown
+# date = NK
+# lineRef = [12.9 (= alt 6.9)]
+1	𓄤	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+2	𓄤	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+
+# sent_id = IBUBd4CLWJ8UBUsyg7RQz5HTdRI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Spruch für das Geben eines Heilmittels an die Augen:
+# findspot = unknown
+# date = NK
+# lineRef = [13.1 (= alt 7.1)]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓄲𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂂𓂂𓏲𓏭	28300	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jr.wj
+
+# sent_id = IBcBZw6QzQQvz0heipQsLX8XvSU
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Eine andere Beschwörung des rechten Auges.
+# findspot = unknown
+# date = NK
+# lineRef = [13.8 (= alt 7.8)]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓍲𓈖𓏏𓍢𓀁	155300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šn.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂂𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+5	𓋀𓅓𓏏𓂢	46770	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wnm.j
+
+# sent_id = IBUBd4n0igTEokMEgj6Phyp6ixA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ich weiß/kannte nicht deinen Namen!
+# findspot = unknown
+# date = NK
+# lineRef = [13.10 (= alt 7.10)]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓂋𓐍𓏛	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd2wsjimM90yuiOOE1ujk570
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Kommt zu mir!
+# findspot = unknown
+# date = NK
+# lineRef = [14.4 (= alt 8.4)]
+1	𓅓𓂝𓇋𓇋𓂻𓏥	67770	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd2Oi6zNvyUfnicA2gbU99ns
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Steigt zu mir auf/Nähert euch mir!
+# findspot = unknown
+# date = NK
+# lineRef = [14.4 (= alt 8.4)]
+1	𓂝𓂋𓈐𓂻𓏫	21770	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jꜥr
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd1ZWX5JMeEUql8a5La2wIbI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Vereinigt euch mit mir!
+# findspot = unknown
+# date = NK
+# lineRef = [14.4 (= alt 8.4)]
+1	𓋬𓂧𓏛𓏥	179420	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=dmḏ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd1j1dx9NkEp8n4xFWsQQU0g
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ihr seid mein Schutz.
+# findspot = unknown
+# date = NK
+# lineRef = [14.5 (= alt 8.5)]
+1	𓇋𓏲𓏫	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎃𓏤𓏛	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd25PmQJQxUW3tNR2QrjW7dk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Horus, hüte dich vor Seth und vice versa!
+# findspot = unknown
+# date = NK
+# lineRef = [14.5 (= alt 8.5)]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓀸𓄿𓏲𓀜	126290	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=zꜣu̯
+3	𓃫𓅆	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+4	𓋭𓄲	177140	X	undefined	_	_	_	_	Translit=ṯꜣz-pẖr
+
+# sent_id = IBUBd7WwqwkeEEYxlzj1j2k8DlY
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Worte zu sprechen über einen Zweig(?) von einer Tamariske; (es) werde die $ꜥḫ.w$-Krankheit damit ..?.. .
+# findspot = unknown
+# date = NK
+# lineRef = [14.7 (= alt 8.7)]
+1	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+2	𓌃𓏤𓏫	78150	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mdw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂋𓂝𓏤	866963	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ-ꜥ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓇋𓋴𓂋𓆭	31610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jzr
+7	𓄿𓏲𓏛𓀜	850836	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=-
+8	𓂝𓐍𓏲𓐎	40610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḫ.w
+9	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdwkWtZKxU0xDvSaz0ArrV0Y
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = "Mein Sohn Horus ist es/der, der mich huldigen (oder: mir beistehen) wird."
+# findspot = unknown
+# date = NK
+# lineRef = [14.10 (= alt 8.10)]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+5	𓐩𓏌𓀁	854522	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓁷𓂋𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd0nWtcqzYk93m2JICuKPC8Y
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dieser Schutzzauber/dieses Amulett wurde gefunden in der Nacht, als er (d.h. der Zauber) herabgefallen war in die Halle des Tempels von/in Koptos als Geheimnis dieser Göttin (d.h. Isis) durch den Vorlesepriester dieses Heiligtums.
+# findspot = unknown
+# date = NK
+# lineRef = [14.11 (= alt 8.11)] - [14.12 (= alt 8.12)]
+1	𓅠𓅓𓈖𓏏𓏲	167210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓅱𓍑𓄿𓏲𓏛	52280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏꜣ.w
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇰	167920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+6	𓉔𓄿𓏲𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓏲𓋴𓐍𓏏𓏯𓉐	49870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wsḫ.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓊹𓉗𓏏𓉐	99940	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥw.t-nṯr
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓎤𓃀𓅂𓊖	166970	PROPN	entity-name	_	_	_	_	Translit=Gbtw
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓊃𓈙𓏏𓍔𓄿𓏲𓏴𓏛𓏫	145700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sštꜣ
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓊹𓏏𓂋𓏏𓏯𓅆	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+17	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+18	𓅓𓂧𓏏𓏤	600072	ADP	preposition	_	_	_	_	Translit=m-ḏr.t
+19	𓌨𓂋𓎛𓃀𓎱𓇳𓀀	855795	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-ḥꜣb.t
+20	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+21	𓂋𓏤𓉐𓏤	92870	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-pr
+22	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBd8NEWtZFUkynigDL1VoQPJk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Damals war dieses Land in Finsternis.
+# findspot = unknown
+# date = NK
+# lineRef = [14.12 (= alt 8.12)]
+1	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢𓎢𓏲𓇰	165680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kk.w
+
+# sent_id = IBUBd5YWOCpWBUyfpQeWBatn0mI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Was ihre wahre Namen angeht: Er ist eigentlich unbekannt.
+# findspot = unknown
+# date = NK
+# lineRef = [15.1 (= alt 9.1)]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂋𓈖𓀁𓏫	94700	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=rn
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓌷𓂝𓏛	66460	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=mꜣꜥ
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓂋𓐍𓏛𓏏𓏲	95620	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+9	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd80qqA4n60ecsNMfR20cD7g
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Nun; Schilf(rohr); Hehu; Finsternis/Keku; Atemluft des $ḫnd.w$(-Gottes/Dämons).
+# findspot = unknown
+# date = NK
+# lineRef = [15.1 (= alt 9.1)] - [15.2 (= alt 9.2)]
+1	𓂢𓂢𓂢	80030	PROPN	entity-name	_	_	_	_	Translit=Njw
+2	𓇋𓇋𓇋𓇩𓇩𓇩𓆰𓆰𓆰	31310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz.w
+3	𓁨𓁨𓁨	109300	PROPN	entity-name	_	_	_	_	Translit=Ḥḥ.w
+4	𓎢𓎢𓏲𓇰	165680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kk.w
+5	𓊡𓏲𓏥	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓐍𓈖𓂧𓏲𓀾𓅆	863828	PROPN	entity-name	_	_	_	_	Translit=Ḫnd.w
+
+# sent_id = IBUBd1Nnm5Dg9kqSjv6m4NgQoRQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Töte (?) die beiden $ḫꜣ$-Schlangen, (o) (unterägyptische) $bj.t$-Schlange!
+# findspot = unknown
+# date = NK
+# lineRef = [15.2 (= alt 9.2)]
+1	𓋴𓌳𓄿𓅓𓏲𓌪𓂡	134370	VERB	verb	_	_	_	_	Translit=smꜣ
+2	𓆼𓆼𓄿𓏲𓏭𓆗𓆗	863834	PROPN	entity-name	_	_	_	_	Translit=Ḫꜣ.wj
+3	𓆤𓏏𓏯𓆗	863837	PROPN	entity-name	_	_	_	_	Translit=Bj.t
+
+# sent_id = IBUBd1k6qmzaL0N6sIYj4C09Fbc
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Der $ḫnd$(-Gott/Dämon) (?; oder: der Wanderer) ist für die Todes-Schlange; und der Wanderer – er ist für den König.
+# findspot = unknown
+# date = NK
+# lineRef = [15.2 (= alt 9.2)] - [15.3 (= alt 9.3)]
+1	𓐍𓈖𓂧𓂻	863828	PROPN	entity-name	_	_	_	_	Translit=Ḫnd.w
+2	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓅓𓏏𓏱𓆗	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+4	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓐍𓊪𓏲𓂻	116070	PROPN	entity-name	_	_	_	_	Translit=Ḫp.y
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+
+# sent_id = IBUBd9BzTVmuwkAVuXfLunSdrRk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Er ist es, der mir beistehen (?; oder: mich begrüßen) wird wegen des Ausspruchs seines Vaters.
+# findspot = unknown
+# date = NK
+# lineRef = [15.3 (= alt 9.3)]
+1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓐩𓏌𓀁	854522	VERB	verb	_	_	_	_	Translit=nḏ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rʾ
+8	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQ8CpB5iKklen3TLPPsksSQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = die Uraei, die fehlten, sind (wieder) in Buto.
+# findspot = unknown
+# date = NK
+# lineRef = [15.3 (= alt 9.3)]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂝𓂋𓂝𓏏𓏯𓆗𓏫	21780	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jꜥr.t
+3	𓆄𓏲𓅪	152670	VERB	verb	Number=Plur|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=šwi̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂧𓊪𓏲𓊖	178950	PROPN	entity-name	_	_	_	_	Translit=Dp
+
+# sent_id = IBUBd3XwOenTvEkgj2ZpLxI1gvQ
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Der Ausspruch aber ist befindlich in der 〈Buchrolle?〉 selbst.
+# findspot = unknown
+# date = NK
+# lineRef = [15.4 (= alt 9.4)]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄑𓏛𓅆	500190	PROPN	entity-name	_	_	_	_	Translit=Ḥw
+3	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏶𓅓𓏭	25130	ADJ	adjective	_	_	_	_	Translit=jm.j
+6	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdzNoRS75J0NxiJk4V7KU24A
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Steige nicht herab (oder: Falle nicht) auf X, geboren von Y nachts oder tagsüber zu irgendeinem Zeitpunkt!
+# findspot = unknown
+# date = NK
+# lineRef = [15.4 (= alt 9.4)]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓉔𓄿𓂻	97350	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣi̯
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏠𓈖𓏛𓀀	69610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn
+5	𓏯𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+6	𓏠𓈖𓏛𓁐	69750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇰	167920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓈖𓍇𓏌𓏲𓇳	80840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw
+13	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd7j7R3EwN0tlsu2xO36mMIg
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Das Land ist in der Achet-Jahreszeit für dieses Antlitz Amuns.
+# findspot = unknown
+# date = NK
+# lineRef = [16.3]
+1	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆷𓏏𓇳	216	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+6	𓄂𓏲𓏏𓅆𓏫	101130	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥꜣw.t
+7	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+
+# sent_id = IBUBdybVW5VFnEEWoSzUF59L7OI
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Ein ander (Spruch):
+# findspot = unknown
+# date = NK
+# lineRef = [16.4]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	_	_	_	_	Translit=ky
+
+# sent_id = IBUBd1Rd4RtoJ0RwuQJc7sS6yIs
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Meine Liebe ist mein Herr – mehr als das Innere meiner Augen wegen dessen, was man damit/darin sieht.
+# findspot = unknown
+# date = NK
+# lineRef = [16.5]
+1	𓌻𓂋𓏲𓏏𓀁𓏨	72650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mrw.t
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+7	𓁹𓁹𓏏	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+11	𓅠𓅓𓎛𓁻𓂻	167270	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=gmḥ
+12	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcBcUxQqu8PoEF7tBKwDO4n7Yk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Er soll nicht das Knotenamulett (?) (weg)waschen, das (?) bei mir (an)gespannt (?) ist.
+# findspot = unknown
+# date = NK
+# lineRef = [17.3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇋𓂝𓈗𓀜	21550	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎀𓊃𓏏𓄑	176910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯꜣz.t
+5	𓈖𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓅘𓎛𓃀𓀁	86130	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nḥb
+7	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcBcbC2WMEpVUtVvh8ar5IRA9E
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Eine Bitte ist in mir.
+# findspot = unknown
+# date = NK
+# lineRef = [17.3]
+1	𓅘𓎛𓀁	85920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḥ.t
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd6y6T6g3UUtslYbN2ztZqYY
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Dann soll ich lachen!
+# findspot = unknown
+# date = NK
+# lineRef = [17.4]
+1	𓎢𓄿𓀁	162840	PART	particle	_	_	_	_	Translit=kꜣ
+2	𓋴𓃀𓏏𓄑𓀁	132270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zbṯ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd7sP4TmKS0j9hnwHq12WxWA
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Gib mir das Schreiten (?), Amun!
+# findspot = unknown
+# date = NK
+# lineRef = [17.4]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂻𓏏𓏤	84510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nmt.t
+5	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+
+# sent_id = IBUBdQWbpC0ufU1khIJMpED7KI8
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Sein Refrain vor ihm.
+# findspot = unknown
+# date = NK
+# lineRef = [17.5]
+1	𓌳𓄿𓄫𓏲𓏏𓌟𓀁𓏫	66860	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mꜣw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓄂𓏏𓏤	500049	ADP	preposition	_	_	_	_	Translit=m-ḥꜣ.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyoQK9GTfkcyn6X8w3paZg0
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Siehe doch das Heer/die Menge!
+# findspot = unknown
+# date = NK
+# lineRef = [17.5]
+1	𓌴𓁹𓄿𓄿	66270	VERB	verb	_	_	_	_	Translit=mꜣꜣ
+2	𓅓𓂝	400083	PART	particle	_	_	_	_	Translit=mj
+3	𓀎𓀀𓏥	76300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mšꜥ
+
+# sent_id = IBUBdyBbFSR6NkNulqQqoClbtro
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Deine Stärke ist wie dein scharfes Schwert in deiner eigenen Hand.
+# findspot = unknown
+# date = NK
+# lineRef = [17.5] - [17.7]
+1	𓈖𓆱𓐍𓏏𓀜𓏏𓏲	87620	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḫt.w
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓐍𓊪𓈙𓄗𓈔	116460	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫpš
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓂧𓅓𓏲𓌪	852332	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=dm
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd4bkKQZW4kVnhAXTegQQsWo
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Es gibt keinen, der vor ihm (d.h. dem Arm) fliehen kann.
+# findspot = unknown
+# date = NK
+# lineRef = [17.7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓏲𓇋𓂻	93540	VERB	verb	_	_	_	_	Translit=rwi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyBSQtfWtUU6lepgRAGEJKk
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Schlage zu, Amun, gegen/um zu ...?..., ohne dass es einen Misserfolg gibt.
+# findspot = unknown
+# date = NK
+# lineRef = [17.7]
+1	𓎛𓀝𓏷𓀜	854530	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥwi̯
+2	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓄿𓄡𓊪𓐎	_	_	_	_	_	_	_	_
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓏲𓉔𓈖𓏭𓅪	48340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=whj
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBUBdx8xhvHPZ04Ust2Cy8Hq2LE
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Es gibt kein Nordwärts-segeln für den, der südwärts segelt (?).
+# findspot = unknown
+# date = NK
+# lineRef = [17.8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓐍𓂧𓊛	122000	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫdi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓐍𓈖𓏏𓊛	119140	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫnti̯
+
+# sent_id = IBUBd0QHoX3O3EzrmkfHV7gaSWM
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Du bist wie Feuer, wenn es in das Gebüsch gefallen ist.
+# findspot = unknown
+# date = NK
+# lineRef = [18.3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+5	𓐍𓂋𓀒	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
+6	𓋴𓏭	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓈙𓏏𓍔𓄿𓏲𓆭𓏫	158000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=štꜣ
+
+# sent_id = IBUBd4W8xE94Q0C3g5HphxQoNkg
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Die Bögen sind in deiner Hand.
+# findspot = unknown
+# date = NK
+# lineRef = [18.4]
+1	𓌔𓏏𓏤𓆱𓏫	63270	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pḏ.t
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdWH2ReTb0kraibiviWaQmF8
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = {Sein} 〈Mein〉 Vater (und) meine Mutter sind bei ihm wie (?) jedermann.
+# findspot = unknown
+# date = NK
+# lineRef = [18.7]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+3	𓆑	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊃𓀀𓏤𓎟	125290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z-nb
+
+# sent_id = IBcBdFsdXP1upEtQoeQpLpUv3Oc
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Gegen ihn kämpfst du nicht;
+# findspot = unknown
+# date = NK
+# lineRef = [19.6]
+1	𓏏𓍃𓅓	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂚𓄿𓀜	39920	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6EKj7NysEAAqxd3hpbEmV8
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = Du zerstörst nicht alle (?) seine Zinnen der Festung;
+# findspot = unknown
+# date = NK
+# lineRef = [19.7]
+1	𓏏𓍃𓅓	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐍𓃀𓅡𓄿𓌼𓂡	115490	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫbꜣ
+4	𓎀𓊃𓅓𓏏𓊅𓈇𓏤	177340	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ṯzm.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓎟	_	_	_	_	_	_	_	_
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓏠𓈖𓈖𓏌𓏲𓉐𓏫	70790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnn.w
+
+# sent_id = IBUBd3R7tOFGYUGZivh6fZgOLUo
+# corpus = sawmedizin
+# src_text_id = GWDQIM2TY5HWVDNIAMOLY76X6I
+# src_text = sawmedizin:London Medical Papyrus (BM EA 10059)//〈London Medical Papyrus (BM EA 10059)〉
+# owner = Ines Köhler
+# text_de = du kämpfst nicht gegen ihn;
+# findspot = unknown
+# date = NK
+# lineRef = [19.7]
+1	𓏏𓍃𓅓	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂚𓄿𓀜	39920	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

@@ -1,0 +1,132 @@
+# sent_id = IBUBd3KwGnpBFkQrrDBTtSsJ8es
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = Lobpreis geben für Osiris, die Erde küssen für Upuaut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓏙𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓀢	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓋴𓌢𓈖𓏤𓂉	136240	VERB	verb	VerbForm=Fin	_	_	_	Translit=sn
+6	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓄋𓈐𓏏𓏥𓃥	45580	PROPN	entity-name	_	_	_	_	Translit=Wp-wꜣ.wt
+
+# sent_id = IBUBd1KtVRxXn0FJmOO6j8Eygic
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = zu dem das, was ist und was nicht ist, kommt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.2] - [A.3]
+1	𓂻𓅱𓅱	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jwi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖𓏏𓏏	89760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=n.tjt
+5	𓂜𓏏𓏏𓅪	550302	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jw.tjt
+
+# sent_id = IBUBd0gBklBgkk4rmUNYDBELHU8
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = Du großartig Erschienene, Herr der Menschheit,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3]
+1	𓈍𓂝	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
+2	𓅨𓂋	47270	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wrr
+3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+4	𓇾𓍃𓅓𓏥	169350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ-tm.w
+
+# sent_id = IBUBd1QcLpXaR0vOqEDn8bkBwRY
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = Vorsteher der gesamten beiden Länder,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3]
+1	𓁷𓁶	108900	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥr.j-tp
+2	𓇿𓇿𓍃𓅱	858686	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ.wj-tm
+
+# sent_id = IBUBd6ePGxYHzErIub1NFDgWwvg
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = der in Frieden kommen möge, Herr der Freude,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3]
+1	𓇍𓅱	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+4	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+5	𓄫𓏏𓄣	42	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜣw.t-jb
+
+# sent_id = IBUBdQZicAci608GolAoVqsqX3A
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = Dein Sohn Horus ist dein Schützer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐩𓏏𓏭𓏛	91080	_	epitheton-title	Number=Sing|Status=Pron	_	_	_	Translit=nḏ.tj
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdxxO7bNTo0OahOk8qNwUNz4
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = Herr des Lobpreis, der den Jubel erschafft,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5] - [A.6]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓇋𓄿𓀢	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+3	𓈎𓌳	854564	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qmꜣ
+4	𓎛𓂝𓂝𓏏𓅱𓀠	102120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥꜥ.wt
+
+# sent_id = IBUBd4vUvahzrEZUiPaTQzh8cRQ
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = Herr von Nahrung, der die Speisen entstehen lässt,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓎛𓅱𓀭	102280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥw
+3	𓋴𓆣𓂋	142050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḫpr
+4	𓆓𓆑𓄿𓅱𓏒𓏥	183850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏfꜣ
+
+# sent_id = IBUBd8TfWt1oDUqlt3Z43Ge7vyI
+# corpus = sawlit
+# src_text_id = BW24UPOISVFSZF7XXY4XYSSNCI
+# src_text = sawlit:Stele des Sensobek (BM EA 580)//〈Stele des Sensobek (BM EA 580)〉
+# owner = Alexander Schütze
+# text_de = Der Urzeitliche, dessen Leib die Ewigkeit ist,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓅮𓏏𓏭𓏖	500060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pꜣw.tj
+2	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+

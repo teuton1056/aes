@@ -1,0 +1,33 @@
+# sent_id = IBUBd3xPkaiJkUGgmT3rexmoTSM
+# corpus = bbawgrabinschriften
+# src_text_id = IZN6BDWR7BDDLKO7WSS5EHARLU
+# src_text = bbawgrabinschriften:Nordwand//2. Register v.o. (Domänenaufzug)
+# owner = Stefan Grunert
+# text_de = Die (Domäne) Gründung des Anch-ka.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓋹𓂝𓐍𓎡𓈛𓏏𓊖	851729	PROPN	entity-name	_	_	_	_	Translit=Grg.t-Ꜥnḫ-kꜣ
+
+# sent_id = IBUBdxwS8L24MU73tgSHpewlHF8
+# corpus = bbawgrabinschriften
+# src_text_id = IZN6BDWR7BDDLKO7WSS5EHARLU
+# src_text = bbawgrabinschriften:Nordwand//2. Register v.o. (Domänenaufzug)
+# owner = Stefan Grunert
+# text_de = Die (Domäne) 〈〈Gründung des Anch-ka〉〉 Denu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂧𓈖𓏌𓊖	851728	PROPN	entity-name	_	_	_	_	Translit=Dnw
+
+# sent_id = IBUBdxE1Bq1PlElJnIQnX9UjXWc
+# corpus = bbawgrabinschriften
+# src_text_id = IZN6BDWR7BDDLKO7WSS5EHARLU
+# src_text = bbawgrabinschriften:Nordwand//2. Register v.o. (Domänenaufzug)
+# owner = Stefan Grunert
+# text_de = Die (Domäne) Gründung des Seschemnefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓋴𓌮𓄤𓈛𓏏𓊖	850615	PROPN	entity-name	_	_	_	_	Translit=Grg.t-Sšm-nfr
+

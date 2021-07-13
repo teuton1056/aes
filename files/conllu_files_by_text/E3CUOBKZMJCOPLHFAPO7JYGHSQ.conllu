@@ -1,0 +1,76 @@
+# sent_id = IBUBd1ghdosid0vlsnFc00mYpRM
+# corpus = bbawgrabinschriften
+# src_text_id = E3CUOBKZMJCOPLHFAPO7JYGHSQ
+# src_text = bbawgrabinschriften:Portikus//Personenbeischriften 〈unteres Register〉
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn, sein Geliebter, der Vorlesepriester Tjetu, sein Kosename (ist) Mes-eni.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.1] -  [1.2]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.y
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌨𓎛𓃀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+7	𓍿𓏏𓅱	450018	PROPN	entity-name	_	_	_	_	Translit=Ṯtw
+8	𓂋𓈖	94780	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn-nfr
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓄤	_	_	_	_	_	_	_	_
+11	𓄟𓋴𓈖𓇋	450635	PROPN	entity-name	_	_	_	_	Translit=Ms-n⸗j
+
+# sent_id = IBUBd3Z1mKlqNUmPpgAlB5jphaI
+# corpus = bbawgrabinschriften
+# src_text_id = E3CUOBKZMJCOPLHFAPO7JYGHSQ
+# src_text = bbawgrabinschriften:Portikus//Personenbeischriften 〈unteres Register〉
+# owner = Stefan Grunert
+# text_de = Sein Bruder, der Vornehme des Königs, Ickeri.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.1] -  [2.2]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓀻	400432	_	epitheton-title	_	_	_	_	Translit=šps.w-nswt
+4	𓇋𓈎𓂋𓇋	400339	PROPN	entity-name	_	_	_	_	Translit=Jqrj
+
+# sent_id = IBUBd9sbzCOpo0VVqQSmImW3CL0
+# corpus = bbawgrabinschriften
+# src_text_id = E3CUOBKZMJCOPLHFAPO7JYGHSQ
+# src_text = bbawgrabinschriften:Portikus//Personenbeischriften 〈unteres Register〉
+# owner = Stefan Grunert
+# text_de = Sein Bruder, der Vornehme des Königs (und) Hausvorsteher, Ni-anch-chufu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3.1] -  [3.2]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓀻	400432	_	epitheton-title	_	_	_	_	Translit=šps.w-nswt
+4	𓅓𓂋𓉐	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+5	𓐍𓅱𓆑𓅱𓈖𓋹𓈖𓐍	710129	PROPN	entity-name	_	_	_	_	Translit=N.j-ꜥnḫ-Ḫwi̯⸗f-wj
+
+# sent_id = IBUBd08IMjyGHknTsFzUa9BQyVc
+# corpus = bbawgrabinschriften
+# src_text_id = E3CUOBKZMJCOPLHFAPO7JYGHSQ
+# src_text = bbawgrabinschriften:Portikus//Personenbeischriften 〈unteres Register〉
+# owner = Stefan Grunert
+# text_de = Sein Bruder Jpi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓊪𓇋	450044	PROPN	entity-name	_	_	_	_	Translit=Jpj
+
+# sent_id = IBUBdQZ8CsvZl0S7t5VPNPOYlfY
+# corpus = bbawgrabinschriften
+# src_text_id = E3CUOBKZMJCOPLHFAPO7JYGHSQ
+# src_text = bbawgrabinschriften:Portikus//Personenbeischriften 〈unteres Register〉
+# owner = Stefan Grunert
+# text_de = Sein Bruder Jri.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓁹𓇋	200004	PROPN	entity-name	_	_	_	_	Translit=Jrj
+

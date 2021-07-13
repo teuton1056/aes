@@ -1,0 +1,32 @@
+# sent_id = IBUBd9A19CVuCkERtlYN1paZyrE
+# corpus = sawlit
+# src_text_id = MT4EEAGL2FFM3PMIREEIABHOQY
+# src_text = sawlit:Stele des Senwosret alias Ketet (Louvre C 174 ⸗ E 3132)//〈Stele des Senwosret alias Ketet (Louvre C 174 ⸗ E 3132)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one wise and loyal, one who reported well to the one who sent him.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [4] - [5]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓋴𓐟𓅀𓏛	126160	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜣꜣ
+3	𓐥	78770	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mḏd
+4	𓈐	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+5	𓋴𓏇𓀁	134820	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smj
+6	𓄤𓂋	400458	ADV	adverb	_	_	_	_	Translit=nfr
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓉔𓄿𓃀𓂻	97580	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=hꜣb
+9	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdWP6mhk9R0QKht2hF0wwXQc
+# corpus = sawlit
+# src_text_id = MT4EEAGL2FFM3PMIREEIABHOQY
+# src_text = sawlit:Stele des Senwosret alias Ketet (Louvre C 174 ⸗ E 3132)//〈Stele des Senwosret alias Ketet (Louvre C 174 ⸗ E 3132)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Overseer of the double treasury, overseer of the double watch (?), Senwosret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [8]
+1	𓄓𓉒𓉒𓋞	450696	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr.wj-ḥḏ
+2	𓄓𓁺𓁺	859748	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-rs.wj
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+

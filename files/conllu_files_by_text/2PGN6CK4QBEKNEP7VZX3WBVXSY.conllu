@@ -1,0 +1,37 @@
+# sent_id = IBUBdx8CCBuoZUlstD0SNQb88t4
+# corpus = bbawgrabinschriften
+# src_text_id = 2PGN6CK4QBEKNEP7VZX3WBVXSY
+# src_text = bbawgrabinschriften:Nordwand//6. Register von oben
+# owner = Stefan Grunert
+# text_de = Eine Müllerin.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓈖𓆓𓐩	91340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḏ.wt
+
+# sent_id = IBUBdxWFuKYWFU0Pswf2rqxfKHg
+# corpus = bbawgrabinschriften
+# src_text_id = 2PGN6CK4QBEKNEP7VZX3WBVXSY
+# src_text = bbawgrabinschriften:Nordwand//6. Register von oben
+# owner = Stefan Grunert
+# text_de = Das Sieben des Mehls seitens der Müllerin.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓋴𓐟𓄿	126840	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜣr
+2	𓂧𓈋	450193	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dwḏw
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓈖𓐩𓆓𓏏	91340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḏ.wt
+
+# sent_id = IBUBd8PxTjqTAkthkbPkGuGBHcI
+# corpus = bbawgrabinschriften
+# src_text_id = 2PGN6CK4QBEKNEP7VZX3WBVXSY
+# src_text = bbawgrabinschriften:Nordwand//6. Register von oben
+# owner = Stefan Grunert
+# text_de = Das Erhitzen der Backformen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓈎𓂋	161810	VERB	verb	VerbForm=Fin	_	_	_	Translit=qrr
+2	𓃀𓇋𓄿	58570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bḏꜣ
+

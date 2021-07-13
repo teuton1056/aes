@@ -1,0 +1,73 @@
+# sent_id = IBUBdWPLQP7rQEuUqsyOIJQB5mA
+# corpus = bbawamarna
+# src_text_id = NCVEK5QJ5ZHOPPRF2YSDVIZFIQ
+# src_text = bbawamarna:West- u. Südwand//unteres Register
+# owner = Gunnar Sperveslage
+# text_de = Der Oberst der Polizeitruppe von Achetaton, Mahu, der Gerechtfertigte.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [16-18] - [19]
+1	𓇯𓐝𓂝𓍑𓄿𓅱𓌙𓈉𓈖𓈌𓇋𓏏𓈖𓇳	859912	_	epitheton-title	_	_	_	_	Translit=ḥr.j-mḏꜣ.y-n-Ꜣḫ.t-Jtn
+2	𓐝𓂝𓄑𓏛𓀽	600439	PROPN	entity-name	_	_	_	_	Translit=Mḥ
+3	𓊤𓐙	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd61FJmNWA0BciQiMWMrygIY
+# corpus = bbawamarna
+# src_text_id = NCVEK5QJ5ZHOPPRF2YSDVIZFIQ
+# src_text = bbawamarna:West- u. Südwand//unteres Register
+# owner = Gunnar Sperveslage
+# text_de = Der Oberst der Polizeitruppe von Achetaton, Mahu, sagt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [20-21] - [22]
+1	𓇯𓐝𓂝𓍑𓄿𓅱𓌙𓈉𓈖𓈌𓇋𓏏𓈖𓇳	859912	_	epitheton-title	_	_	_	_	Translit=ḥr.j-mḏꜣ.y-n-Ꜣḫ.t-Jtn
+2	𓐝𓂝𓄑𓏛𓀽	600439	PROPN	entity-name	_	_	_	_	Translit=Mḥ
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7wq2gUUsEwDrQbXvCnWWa8
+# corpus = bbawamarna
+# src_text_id = NCVEK5QJ5ZHOPPRF2YSDVIZFIQ
+# src_text = bbawamarna:West- u. Südwand//unteres Register
+# owner = Gunnar Sperveslage
+# text_de = Mögen die Beamten (diese) Menschen verhören, die die Wüstenbewohner rekrutiert haben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23]
+1	𓄔𓐝	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓈖𓄿𓏮	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+3	𓀙𓏮	138920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sr
+4	𓂋𓍿𓀀𓁐𓈓	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+5	𓍿𓊃	854581	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ṯzi̯
+6	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+7	𓈉𓏏𓏥	114320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣs.tj
+
+# sent_id = IBUBdQ5QH3HFt0SwqaPq2fZ9emo
+# corpus = bbawamarna
+# src_text_id = NCVEK5QJ5ZHOPPRF2YSDVIZFIQ
+# src_text = bbawamarna:West- u. Südwand//unteres Register
+# owner = Gunnar Sperveslage
+# text_de = Der Wesir sagt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [26]
+1	𓅷𓏤	174090	_	epitheton-title	_	_	_	_	Translit=ṯꜣ.tj
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzwRkILosEWQhvsVUqOS42o
+# corpus = bbawamarna
+# src_text_id = NCVEK5QJ5ZHOPPRF2YSDVIZFIQ
+# src_text = bbawamarna:West- u. Südwand//unteres Register
+# owner = Gunnar Sperveslage
+# text_de = Solange Aton fortdauert, dauert auch der Herrscher fort.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [27]
+1	𓎛𓎛𓏛	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+4	𓎝𓎛𓏛	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+5	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓋾𓈎	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+

@@ -1,0 +1,18 @@
+# sent_id = IBUBd4QHTdNGjUwhqaBGDhndqgk
+# corpus = bbawgrabinschriften
+# src_text_id = 3JGIIG7MR5G63FJZVQHK55UF4A
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn, sein Geliebter, der Bader des Königs, der Priester des Cheops Pehu-en-Ptah.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [9] -  [12]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀘	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.y
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇓𓏏𓈖𓀆	44590	_	epitheton-title	_	_	_	_	Translit=wꜥb-nswt
+7	𓐍𓅱𓆑𓅱𓊹𓍛	850713	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-Ḫwi̯⸗f-wj
+8	𓊪𓏏𓎛𓈖𓊪𓎛	701539	PROPN	entity-name	_	_	_	_	Translit=Pḥ.w-n-Ptḥ
+

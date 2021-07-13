@@ -1,0 +1,62 @@
+# sent_id = IBUBdzV5JIjyZE8rhVZ9n1LEUGo
+# corpus = bbawgrabinschriften
+# src_text_id = G4WATCTEBZAEFLPIBEAOFCMBMA
+# src_text = bbawgrabinschriften:Südwand//Beischriften der Ritualhandlung
+# owner = Stefan Grunert
+# text_de = Der Vorsteher der Halskragenknüpfer und Unteraufseher der Ka-Priester, Ma[m].
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓌂𓄝𓋞	851032	_	epitheton-title	_	_	_	_	Translit=ḫrp-st.w-nbw
+2	𓅓𓆱𓐍𓏏𓂖	550339	_	epitheton-title	_	_	_	_	Translit=jm.j-ḫt-ḥm.w-kꜣ
+3	𓅓𓂝	701825	PROPN	entity-name	_	_	_	_	Translit=Mꜥm
+
+# sent_id = IBUBdxE277TqykYMj2D8r6eOols
+# corpus = bbawgrabinschriften
+# src_text_id = G4WATCTEBZAEFLPIBEAOFCMBMA
+# src_text = bbawgrabinschriften:Südwand//Beischriften der Ritualhandlung
+# owner = Stefan Grunert
+# text_de = Das Räuchern des Weihrauchs.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓊷	163310	VERB	verb	VerbForm=Fin	_	_	_	Translit=kꜣp
+2	𓊹𓋴𓂋𓈓	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+
+# sent_id = IBUBd2hqVnjih09EojAt7iRIwb8
+# corpus = bbawgrabinschriften
+# src_text_id = G4WATCTEBZAEFLPIBEAOFCMBMA
+# src_text = bbawgrabinschriften:Südwand//Beischriften der Ritualhandlung
+# owner = Stefan Grunert
+# text_de = Das Opfern des Opfers.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓅱𓂧𓄶𓈖	854506	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdn
+2	𓐍𓏏𓏐𓏖𓏊	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+
+# sent_id = IBUBd8CkFAvj0UA6jlZvHQoKI18
+# corpus = bbawgrabinschriften
+# src_text_id = G4WATCTEBZAEFLPIBEAOFCMBMA
+# src_text = bbawgrabinschriften:Südwand//Beischriften der Ritualhandlung
+# owner = Stefan Grunert
+# text_de = Das Rezitieren der Schrift.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4.1]
+1	𓈙𓄞𓏏	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+2	𓏞𓏝	450097	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w
+
+# sent_id = IBUBdWYr4klKTEQCjnDCtLyYHsM
+# corpus = bbawgrabinschriften
+# src_text_id = G4WATCTEBZAEFLPIBEAOFCMBMA
+# src_text = bbawgrabinschriften:Südwand//Beischriften der Ritualhandlung
+# owner = Stefan Grunert
+# text_de = Das Verklären seitens des Vorlesepriesters.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4.2]
+1	𓋴𓅜𓐍	127110	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜣḫ
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓌨𓎛𓃀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+

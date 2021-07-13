@@ -1,0 +1,48 @@
+# sent_id = IBUBd9WgmoNEMUYbhrQiUOsCdiE
+# corpus = bbawgraeberspzt
+# src_text_id = BOUWPVCHFZHPHOP3G2LSABLKO4
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20f: 6. Tagesstunde
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [41]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd4AmkknR4U8tnM1bGIQ7XlU
+# corpus = bbawgraeberspzt
+# src_text_id = BOUWPVCHFZHPHOP3G2LSABLKO4
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20f: 6. Tagesstunde
+# owner = Doris Topmann
+# text_de = Re erscheint, vereint mit dem Auge des Atum, sehend mit seinem Auge, seiner $wrr.t$-Krone.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [41] - [42]
+1	𓈍𓂝	114740	VERB	verb	_	_	_	_	Translit=ḫꜥi̯
+2	𓇳	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓅓𓏛	123420	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ẖnm
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jr.t
+6	𓏏𓍃𓀭	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+7	𓁹𓌳	66270	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜣ
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓁹𓏏𓏤	28250	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓅨𓂋𓂋𓏏𓋒	47920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wrr.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQWwUXwLeEx1kHd0PGSj6zs
+# corpus = bbawgraeberspzt
+# src_text_id = BOUWPVCHFZHPHOP3G2LSABLKO4
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20f: 6. Tagesstunde
+# owner = Doris Topmann
+# text_de = Du bist dadurch zum Herrscher aller Länder geworden.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [42] - [43]
+1	𓋾𓈎𓈖	110340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥqꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇾	854573	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tꜣ
+4	𓎡𓏥	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+

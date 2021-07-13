@@ -1,0 +1,143 @@
+# sent_id = IBUBdx7OMQ0vYUN7jFGKzGbIJW0
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = ihre Sanktuare waren, als wären sie nie gewesen,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓃛𓅱𓈖𓈖𓉐𓏤𓏥	22910	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jwnn
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓈖𓏏𓏮	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+5	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+6	𓆣𓂋	858535	VERB	verb	_	_	_	_	Translit=ḫpr (m-sꜣ)
+
+# sent_id = IBUBd4hQM7zHUEUXhmwFgDIrJBg
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = und ihre Tempel waren Fußwege.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓉞𓏏𓉐	99790	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥw.t
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈐𓏏𓏤𓂾𓏤𓂻	42520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣ.t-rd
+
+# sent_id = IBUBdzTaJQptlU2SmbH7WZApCd4
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Ihre Herzen waren schwach in ihren Körpern.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9]
+1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓆑𓈖𓅨	63810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=fn
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+6	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdxsQKbmnwUoTtfoJAkw2LBA
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Sie zerstörten das Geschaffene.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10]
+1	𓌌𓏴𓅨	112660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥḏi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁹𓇋𓇋𓏏𓏥	28590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.yt
+
+# sent_id = IBUBd4MVM9Lx4EkMmafYvgVpnMU
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Er beherrschte die Ufer des Horus (⸗Ägypten).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10]
+1	𓋾𓂝𓈖	110340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥqꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈅𓉐𓈅𓉐𓈅𓉐	854494	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jdb
+4	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBd9xj0CxVZkXMhxWj8l2KCWQ
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Ägypten und die Wüsten unterstanden ihm.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [10]
+1	𓆎𓐝𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+2	𓂧𓈙𓂋𓅠𓏏𓌙𓈉	180850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dšr.t
+3	𓌨𓂋𓊨𓏏𓉐𓁷𓏤	124150	ADP	preposition	_	_	_	_	Translit=ẖr-s.t-ḥr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwmHoZFWQUOih3dx5ugvQWc
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Er füllte ihre Arbeitshäuser mit Sklaven und Sklavinnen sowie mit Abgaben aus der Kriegsbeute seiner Majestät.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [18]
+1	𓎔𓏛𓈖	854514	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃭𓂝𓉐𓏥	155901	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=pr-šnꜥ
+4	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓍛𓏤𓀀𓏪	104680	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm
+7	𓍛𓏏𓏤𓁐𓏥	104810	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓏎𓈖𓏌𓏲𓏋𓏥	27040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jn.w
+10	𓋔	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓇉𓄿𓈎𓏏𓂡	101530	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥꜣq
+12	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2er2QGqS0czmpB7dzyWnf0
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Die Ufer sind in Jubel und Jauchzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [24]
+1	𓈅𓈅𓈅	854494	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jdb
+2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓉔𓇋𓇋𓀁	97780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hy
+4	𓉔𓈖𓏌𓅱𓀊	98730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hn.w
+
+# sent_id = IBUBdwJlADrWa0BGgBkZaWqR1pA
+# corpus = bbawamarna
+# src_text_id = NW3QVVI5YRAD7F6HR5GGNDDBGA
+# src_text = bbawamarna:Stele Kairo CG 34183//Stelentext
+# owner = Gunnar Sperveslage
+# text_de = Alles Leben und Wohlergehen von ihnen wurde an die Nase des Horus der Erneuerung gegeben,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [25]
+1	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+2	𓌀	43300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣs
+3	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+4	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓆑𓈖𓂧𓂉𓏛	63920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=fnḏ
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓇓𓏏𓈖𓂡𓅃𓄙𓄟𓋴𓏏𓅱𓏥	859800	_	epitheton-title	_	_	_	_	Translit=Ḥr.w-wḥm-msw.t
+

@@ -1,0 +1,47 @@
+# sent_id = IBUBd268gbBlw0xZoGKR2nspYtc
+# corpus = sawlit
+# src_text_id = H3GUS3G4GRD5DOHNEB3GALTKO4
+# src_text = sawlit:Stele des Wahka (Turin Cat. 1547)//〈Stele des Wahka (Turin Cat. 1547)〉
+# owner = Alexander Schütze
+# text_de = Ein Opfer, das der König und Osiris Chontamenti, der große Gott, der Herr von Abydos, geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓊨𓁹𓏤	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓏅𓋀𓅂	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+4	𓊹𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+5	𓎟𓍋𓈋𓃀	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+
+# sent_id = IBUBd80IrcwAPEjgosOh7TfDRvg
+# corpus = sawlit
+# src_text_id = H3GUS3G4GRD5DOHNEB3GALTKO4
+# src_text = sawlit:Stele des Wahka (Turin Cat. 1547)//〈Stele des Wahka (Turin Cat. 1547)〉
+# owner = Alexander Schütze
+# text_de = Sei gegrüßt Osiris Chontamenti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓇋𓐩𓆓𓏛	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊩𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓏅𓋀𓅂𓀭	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+
+# sent_id = IBUBd7d6jB1YTUL1gzN4DVrRZb4
+# corpus = sawlit
+# src_text_id = H3GUS3G4GRD5DOHNEB3GALTKO4
+# src_text = sawlit:Stele des Wahka (Turin Cat. 1547)//〈Stele des Wahka (Turin Cat. 1547)〉
+# owner = Alexander Schütze
+# text_de = Möge ich in deinem Gefolge sein vor den Versorgten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2] - [C.3]
+1	𓃹𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌞𓋴𓂻	155040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šms.w
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓏃	850802	ADP	preposition	_	_	_	_	Translit=ḫnt
+7	𓇋𓌴𓐍𓅱𓄪𓏤𓀘𓏪	25090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jmꜣḫ.w
+

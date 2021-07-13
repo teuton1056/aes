@@ -1,0 +1,171 @@
+# sent_id = IBcAQTh6RdD7iE0vuyytjlCnx8Y
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Du sollst nicht geben/zulassen, dass zahlreich [...  oder: Du sollst nicht zu häufig (?) geben/verabreichen [...
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.2]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓆈𓏏𓏏	41010	VERB	verb	_	_	_	_	Translit=ꜥšꜣ
+
+# sent_id = IBcAQTlUQpRJQUsinTRcQzEaNK8
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = 2/64 (Oipe ⸗ 2 Dja) werden davon (ab)genommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.6]
+1	𓄞𓂧	854561	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+2	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcAQWGpsciwUU0Ynb5BLatg8Vs
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Rezept zum Vertreiben des Hustens.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.10]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓊃𓂋𓇋𓏏𓂐	139220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sry.t
+
+# sent_id = IBcAQZdBU9aLVkj6lN1QUK0kWTs
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Ein anderes (Rezept):
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.11]
+1	𓎡𓏏	163760	ADJ	adjective	_	_	_	_	Translit=ky
+
+# sent_id = IBcAQToPVUYcI0GgoP9WrwRgK9o
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Ein anderes (Rezept) zum Vertreiben des Hustens in/aus der Brust und der Lunge.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓋴𓂋𓏏𓂐	139220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sry.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓍲𓈖𓃀𓏏𓄹	156060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnb.t
+7	𓄥𓏤𓏏𓄹	134170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmꜣ
+
+# sent_id = IBcAQbgD9T2kvkd1tbF5IwWFDUw
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.13]
+1	𓎢𓏏	163760	ADJ	adjective	_	_	_	_	Translit=ky
+
+# sent_id = IBcAQR4BnyWMZEDnnWRD0m8Z0uM
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = (Es) werde getrunken am Morgen; (es) werde erbrochen zur Mittagszeit.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.16]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓅓𓆓𓏏𓏤𓆑	860253	ADV	adverb	_	_	_	_	Translit=m-ḏ.t⸗f
+3	𓈎𓂝𓂐	159200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qꜣꜥ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊢𓂝𓇳𓏤	40360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.y
+
+# sent_id = IBcAQbVLc5rMYUsztlzJQHcjpRM
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Dann muss er, (d.h.) der unter Hitze ist/leidet, daraufhin davon trinken.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.17]
+1	𓋴𓇋𓈗𓀁𓐍𓂋	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌨𓂋𓏛	124220	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ẖr.j
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓋴𓂋𓆑𓊮	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+6	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcAQXIbeQ3MN0fHiU2pQIy92QI
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Ein anderes (Rezept).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.17]
+1	𓎢𓏏	163760	ADJ	adjective	_	_	_	_	Translit=ky
+
+# sent_id = IBcAQWWVcrIWt0XkiHYN2IJC184
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Ein anderes (Rezept):
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQeoWO7MQ2kb6tv2W416O0AE
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Ein anderes (Rezept):
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.19]
+1	𓎡𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQUf2Ehb3DkLKuMqUCJkb8Vs
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = (Es) werde fein zerrieben; (es) werde damit verbunden/bandagiert.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.20]
+1	𓐩	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞	136700	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓐎𓀜	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQTiiauBScEORkFv9BaNQWyQ
+# corpus = sawmedizin
+# src_text_id = OJWNA6JUY5BVPNE2D6JHOSBPCI
+# src_text = sawmedizin:Papyrus Berlin P 10456 ⸗ pRubensohn//〈Papyrus Berlin P 10456 ⸗ pRubensohn〉
+# owner = Peter Dils
+# text_de = Ein anderes (Rezept):
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [x+1.20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+

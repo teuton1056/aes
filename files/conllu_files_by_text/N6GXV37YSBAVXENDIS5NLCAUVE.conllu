@@ -1,0 +1,20 @@
+# sent_id = IBUCEJXckpc20UlquMlWqXEmeGc
+# corpus = bbawhistbiospzt
+# src_text_id = N6GXV37YSBAVXENDIS5NLCAUVE
+# src_text = bbawhistbiospzt:Bannstele des Aspelta(?) (JE 48865)//Beischrift zum König (stehend vor Amun)
+# owner = Gunnar Sperveslage
+# text_de = Darreichen der Maat für Amun, damit ihm (dem König) wie Re Leben gegeben werde.
+# findspot = Nubia
+# date = TIP - Roman times
+# lineRef = [C4]
+1	𓂠𓎡	107110	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥnk
+2	𓌶𓂝𓁦	500390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓇋𓏠𓈖	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+5	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏙	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+8	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+9	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+10	𓇳𓏤	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+

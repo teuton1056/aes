@@ -1,0 +1,159 @@
+# sent_id = IBUBd9ZnRByZLEWGiK92Xb4YTeI
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Tausend an Brot, tausend an Bier, tausend an pzn-Gebäck, alle Alabastergegenstände
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Tafel, 2]
+1	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+3	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+5	𓏖	62200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pzn
+6	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+7	𓍱	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+8	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBdQLiXzpQBEDfmLGOskKqgPc
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn Nefer-chenet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Tafel, 3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓄤𓂙𓈖𓏏	450418	PROPN	entity-name	_	_	_	_	Translit=Nfr-ẖn.t
+
+# sent_id = IBUBd0JOxWGMe0fRglQQpsC0KAw
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Seine Ehefrau, seine  Geliebte, die Priesterin der Hathor Ka-mertisi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker Innenpfosten, 3]
+1	𓍛𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓏏	550321	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.yt
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓉡𓊹𓍛	400979	_	epitheton-title	_	_	_	_	Translit=ḥm.t-nṯr-Ḥw.t-Ḥr.w
+6	𓂓𓌸𓂋𓏏𓋴	450778	PROPN	entity-name	_	_	_	_	Translit=Kꜣ-mr.tj⸗s
+
+# sent_id = IBUBd9WIpfNOWUl9sOEtWWjFFEU
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn, der Vorsteher des Leinenzeugs Nefer-chenet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker Innenpfosten, Beischrift]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓅓𓂋𓎧	550378	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-sšr.w
+5	𓄤𓂙𓈖𓏏	450418	PROPN	entity-name	_	_	_	_	Translit=Nfr-ẖn.t
+
+# sent_id = IBUBdxrvOXq46UWDherWkW5aN98
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Seine Ehefrau, seine  Geliebte, die Priesterin der Hathor Ka-merties.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechter Innenpfosten, 3]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓏏	550321	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.yt
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓉡𓊹𓍛	400979	_	epitheton-title	_	_	_	_	Translit=ḥm.t-nṯr-Ḥw.t-Ḥr.w
+6	𓂓𓌸𓂋𓏏𓋴	450778	PROPN	entity-name	_	_	_	_	Translit=Kꜣ-mr.tj⸗s
+
+# sent_id = IBUBd4p18HifOUehh4GspxsRWIA
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn, der Zab-Schreiber Iren-achti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechter Innenpfosten, Beischrift]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓃥𓏞	450131	_	epitheton-title	_	_	_	_	Translit=zꜣb-zẖꜣ.w
+5	𓅬𓏏𓁹𓈖	200022	PROPN	entity-name	_	_	_	_	Translit=Jr.n-ꜣḫ.tj
+
+# sent_id = IBUBdwaWIwt1a0p0tTc6AVY9R5s
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer das Anubis, der vor der Götterhalle ist, der Balsamierer 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Wandpanel, 1]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓏅𓏏𓊹𓉱	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+6	𓏶𓅱𓏏𓊖	25390	_	epitheton-title	_	_	_	_	Translit=jm.j-wt
+
+# sent_id = IBUBd1GoRJQS0EWcoXDHFEeK4CI
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das Osiris, der an der Spitze von Busiris ist, gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Wandpanel, 2]
+1	𓊵𓏏𓊪𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓏅𓏏𓊽𓅱𓂧𓊖	450594	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-Ḏd.w
+
+# sent_id = IBUBd1FAymj3S06ooSCX22OLilo
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Totenopfer für ihn zu jedem täglichen Fest ewiglich
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Wandpanel, 2]
+1	𓉓𓏖	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎛𓃀𓉲𓎱	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+7	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+8	𓆓𓏏𓐚	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBdQXH8Hj49EgXhDthuNjIReI
+# corpus = bbawgrabinschriften
+# src_text_id = 2UAZM63RYJHB3JKDCUQOXUXYRQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Seine Ehefrau, seine Geliebte, die Versorgte bei ihrem Ehemann, die Priesterin der Hathor (und) Priesterin der Neith Ka-merties.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Wandpanel, 4]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓏏	550321	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.yt
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓌳𓄪𓐍𓏏𓐍𓂋𓉔𓂸𓋴	850729	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.wt-ḫr-hj⸗s
+6	𓉡𓊹𓍛	400979	_	epitheton-title	_	_	_	_	Translit=ḥm.t-nṯr-Ḥw.t-Ḥr.w
+7	𓈖𓏏𓋋𓊹𓍛	850137	_	epitheton-title	_	_	_	_	Translit=ḥm.t-nṯr-Nj.t
+8	𓂓𓌸𓂋𓏏𓋴	450778	PROPN	entity-name	_	_	_	_	Translit=Kꜣ-mr.tj⸗s
+

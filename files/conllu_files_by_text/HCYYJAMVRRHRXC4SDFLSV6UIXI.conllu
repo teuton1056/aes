@@ -1,0 +1,26 @@
+# sent_id = IBUBdwBYleAZKkQukmtmtAduwBA
+# corpus = bbawgrabinschriften
+# src_text_id = HCYYJAMVRRHRXC4SDFLSV6UIXI
+# src_text = bbawgrabinschriften:Pfeiler//Nordseite
+# owner = Stefan Grunert
+# text_de = Ihre Tochter Tjazet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓍿𓐚𓈙𓏏	400349	PROPN	entity-name	_	_	_	_	Translit=Ṯꜣz.t
+
+# sent_id = IBUBd6xU4MB6Hk9yk9xlcbpfnrc
+# corpus = bbawgrabinschriften
+# src_text_id = HCYYJAMVRRHRXC4SDFLSV6UIXI
+# src_text = bbawgrabinschriften:Pfeiler//Nordseite
+# owner = Stefan Grunert
+# text_de = Seine Tochter Meret-ities.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓏏𓋴𓆑	702196	PROPN	entity-name	_	_	_	_	Translit=Mr.t-jtj⸗s
+

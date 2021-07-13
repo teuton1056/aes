@@ -1,0 +1,164 @@
+# sent_id = IBUBdQRRvchOrkZgriPUoJJ6VvU
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Behedeti, Herr des Himmels.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1] - [A.2]
+1	𓄑𓂧𓏏𓊖	400311	_	epitheton-title	_	_	_	_	Translit=bḥd.tj
+2	𓎟𓇯	400833	_	epitheton-title	_	_	_	_	Translit=nb-p.t
+3	𓄑𓂧𓏏𓊖	400311	_	epitheton-title	_	_	_	_	Translit=bḥd.tj
+4	𓎟𓇯	400833	_	epitheton-title	_	_	_	_	Translit=nb-p.t
+
+# sent_id = IBUBdwtZIevd9UtthIpe0lQUUvU
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Horus, Heken-em-Maat, King of Upper and Lower Egypt, 𓍹Nebukaure𓍺, beloved of Osiris Khentamenti, given life.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1]
+1	𓅃	400034	_	epitheton-title	_	_	_	_	Translit=Ḥr.w
+2	𓎛𓎡𓈖𓅓𓌶𓏏	400425	PROPN	entity-name	_	_	_	_	Translit=Ḥkn-m-Mꜣꜥ.t
+3	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+4	𓇳𓋞𓂓𓂓𓂓	400160	PROPN	entity-name	_	_	_	_	Translit=Nbw-kꜣ.w-Rꜥw
+5	𓌸𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+6	𓊨𓁹𓏅𓏏𓋀𓅂𓀭	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+7	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+8	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBdyfJknJyv0jesRXMH3Hsipg
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His Majesty placed me to his feet in (my) childhood,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2] - [3]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏙𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓈖𓐍𓈖𓏏𓀔	87300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḫn.t
+
+# sent_id = IBUBd6hOpw7r2UJZiL3ubwnw1qk
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = and my name was pronounced before (those of) my equals.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [3]
+1	𓂧𓅓𓌪	179190	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dm
+2	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓏅𓏏	850802	ADP	preposition	_	_	_	_	Translit=ḫnt
+5	𓏇𓏏𓅱𓏥	67930	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mj.tj
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd3BQxOnWzUzdlEwNaWQ9ai8
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was indeed one who grows;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [4]
+1	𓃹𓈖𓎡	46050	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=wnn
+2	𓂋𓆑	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂻𓅱	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓉻𓂝	34750	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥꜣi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9z0WdYTSUn8oyX5egkYfGk
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was praised today more than yesterday.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [4] - [5]
+1	𓎿	109620	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥzi̯
+2	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉔𓂋𓅱𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓋴𓆑𓇳	133440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sf
+
+# sent_id = IBUBd3iwvIzfGU89uM86VxODWiY
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I returned after having done that because of which I had left, I landed (lit. beat in the landing-peg) at Abydos.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [13] - [14]
+1	𓇍𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓏴𓏏𓈖	129740	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=swꜣi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓎛𓀜𓈖	854530	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓏠𓈖𓇋𓏏𓊧	70140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjn.t
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBd919Xw6ppkFDkQ7N8NvsUj0
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The chamberlain Semti the younger, justified, possessor of distinction.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22]
+1	𓏃𓅓	25730	_	epitheton-title	_	_	_	_	Translit=jm.j-ḫnt
+2	𓊃𓏏𓏭𓈉𓀔	706361	PROPN	entity-name	_	_	_	_	Translit=Zmy.tj-Srj
+3	𓌶𓂝𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+4	𓎟𓄪𓏤	81950	_	epitheton-title	_	_	_	_	Translit=nb-jmꜣḫ
+
+# sent_id = IBUBd1Ushxe4tUDogHZgQflVWD4
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The chamberlain Semti the younger.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓏃𓅓	25730	_	epitheton-title	_	_	_	_	Translit=jm.j-ḫnt
+2	𓊃𓏏𓏭𓈉𓀔	706361	PROPN	entity-name	_	_	_	_	Translit=Zmy.tj-Srj
+
+# sent_id = IBUBdwIoisKkmkl2gcWKS8GA9WM
+# corpus = sawlit
+# src_text_id = 2GXUSFOY5VCF7ELOBFKJUN3US4
+# src_text = sawlit:Stele des Semti (BM EA 574)//〈Stele des Semti (BM EA 574)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His mother Aset-iti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓏏𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊨𓏏𓇋𓀁𓍘𓇋𓇋	_	X	unknown	_	_	_	_	_
+

@@ -1,0 +1,151 @@
+# sent_id = IBUBdxsWNLajX0cJpHRrMNKpZvI
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Sein ältester Sohn, sein Geliebter, Djati.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg2; [1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=sms.w
+4	𓌸𓂋𓈙	400005	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.y
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓍒𓄿𓏏𓇋	450020	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣ.tj
+
+# sent_id = IBUBd4rJ0qiwXkZCqXroWDgbuQ0
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Sein Sohn Anchu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg2; [2]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋹𓈖𓐍	400209	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ.w
+
+# sent_id = IBUBd2gSMlDrkk6InhmPTRYagCI
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Seine Tochter Sesch-seschet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [1]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊃𓈙𓊃𓈙𓏏	706416	PROPN	entity-name	_	_	_	_	Translit=Zš-zš.t
+
+# sent_id = IBUBd2QMPpWtukOkoYJF66doHcE
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Seine Tochter Cheniet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [2]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐍𓈖𓇋𓏏	705627	PROPN	entity-name	_	_	_	_	Translit=Ḫnj.t
+
+# sent_id = IBUBd4b3GgNSJUIUjWrtyLsOp50
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Seine Schwester Hedjeret.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg3; [3]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓂋𓏏	400751	PROPN	entity-name	_	_	_	_	Translit=Ḥḏr.t
+
+# sent_id = IBUBd47BH9BMC0qYgCzDOnZcVXc
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Sein Sohn (-?-)-pechet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg4; [1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓎛𓏏𓄁	850830	PROPN	entity-name	_	_	_	_	Translit=-
+
+# sent_id = IBUBd1mrD7bHRUfgpJWL8zL8WTw
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Sein Bruder Ka-i-wehemu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg4; [2]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎡𓄙𓅓	707660	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-wḥm.w
+
+# sent_id = IBUBd0CPntxqu0kgqgvxCYf0fpo
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Sein leiblicher Sohn Teti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg4; [3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓄡𓏏	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓏏𓏏𓇋	550233	PROPN	entity-name	_	_	_	_	Translit=Ttj
+
+# sent_id = IBUBd8ZbGmG7xUMYmQ7gc3Wz5KA
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Aufseher der Schreiber der zꜣb-Verwaltung Djati.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg5; [1]
+1	𓃥𓋴𓌉𓏞	450125	_	epitheton-title	_	_	_	_	Translit=zꜣb-sḥḏ-zẖꜣ.ww
+2	𓍒𓄿𓇋𓏏	450020	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣ.tj
+
+# sent_id = IBUBd0zQUVrzqU3xopF7F2cXVQs
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Seine Frau.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg5; [2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWkB9OfnWEKWmUDJEbTSNW0
+# corpus = bbawgrabinschriften
+# src_text_id = DDN5MNHWMRFBLCHRFX5B6ZKQY4
+# src_text = bbawgrabinschriften:MFA 25-7-2//Panel
+# owner = Stefan Grunert
+# text_de = Sein ältester, leiblicher Sohn Renpet-nefret.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = Reg5; [3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀗	135720	ADJ	adjective	_	_	_	_	Translit=sms.w
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓆳𓄤𓏏	450012	PROPN	entity-name	_	_	_	_	Translit=Rnp.t-nfr.t
+

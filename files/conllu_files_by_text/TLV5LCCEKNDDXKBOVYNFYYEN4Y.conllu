@@ -1,0 +1,65 @@
+# sent_id = IBUBd1DYbdif10sIp8yemdVTJdw
+# corpus = bbawgrabinschriften
+# src_text_id = TLV5LCCEKNDDXKBOVYNFYYEN4Y
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Schreiber Hetep-kai.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏞	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+2	𓊵𓏏𓊪𓎡	705286	PROPN	entity-name	_	_	_	_	Translit=Ḥtp-kꜣ⸗j
+
+# sent_id = IBUBdwjAmG3VDUikhuPALE3ruVA
+# corpus = bbawgrabinschriften
+# src_text_id = TLV5LCCEKNDDXKBOVYNFYYEN4Y
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Zählen des Geschenkes seiner Dörfer der Totenstiftung.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.1] -  [2.2]
+1	𓇋𓊪𓏝	24070	VERB	verb	VerbForm=Fin	_	_	_	Translit=jp
+2	𓈖𓐩𓏏𓁷𓆓	91200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḏ.t-ḥr
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓊖𓊖𓊖𓏏	80890	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nʾ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓉐𓏤𓆓𓏏𓇿	550341	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ḏ.t
+
+# sent_id = IBUBd7r1nREehEWYutAVs6VlKXA
+# corpus = bbawgrabinschriften
+# src_text_id = TLV5LCCEKNDDXKBOVYNFYYEN4Y
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Jungtier der weiße Säbelantilope.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓌉	66260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ-ḥḏ
+
+# sent_id = IBUBdQ25WD3ACEOPgdzdyb2VFL8
+# corpus = bbawgrabinschriften
+# src_text_id = TLV5LCCEKNDDXKBOVYNFYYEN4Y
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Gefolgsmann En-mutef.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓌞𓋴	155030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+2	𓂜𓏏𓅓𓆑	702528	PROPN	entity-name	_	_	_	_	Translit=N-mwt⸗f
+
+# sent_id = IBUBdz6TRidps02Mv6a4182bpfU
+# corpus = bbawgrabinschriften
+# src_text_id = TLV5LCCEKNDDXKBOVYNFYYEN4Y
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Bringen des Geschenkes - ein Steinbock.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+2	𓐩𓏏𓁷	91200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḏ.t-ḥr
+3	𓈖𓄿𓇋	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+

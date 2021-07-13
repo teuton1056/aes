@@ -1,0 +1,57 @@
+# sent_id = IBUBd61ckEDB7EB2qz33ZZwBL4Q
+# corpus = bbawgrabinschriften
+# src_text_id = 6SA7LHAO4VDN5C2DAVMGFA7LAY
+# src_text = bbawgrabinschriften:Tafel (Mü 4)//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der Älteste des Hauses Meni.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓀗𓉐	450532	_	epitheton-title	_	_	_	_	Translit=sms.w-pr
+2	𓏠𓈖𓇋	450089	PROPN	entity-name	_	_	_	_	Translit=Mnj
+
+# sent_id = IBUBd9On1vIGj0j6nJlEvUcM8tg
+# corpus = bbawgrabinschriften
+# src_text_id = 6SA7LHAO4VDN5C2DAVMGFA7LAY
+# src_text = bbawgrabinschriften:Tafel (Mü 4)//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Meret-ities.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓌸𓂋𓏏𓏏𓆑𓋴	702196	PROPN	entity-name	_	_	_	_	Translit=Mr.t-jtj⸗s
+
+# sent_id = IBUBdyqmrpY5hEWBuJGiAMVQlDc
+# corpus = bbawgrabinschriften
+# src_text_id = 6SA7LHAO4VDN5C2DAVMGFA7LAY
+# src_text = bbawgrabinschriften:Tafel (Mü 4)//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Tjenteti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓍿𓈖𓏏𓏏𓍘	709250	PROPN	entity-name	_	_	_	_	Translit=Ṯnt.tj
+
+# sent_id = IBUBdWDK5uBYc0GsgafmTKUBpUI
+# corpus = bbawgrabinschriften
+# src_text_id = 6SA7LHAO4VDN5C2DAVMGFA7LAY
+# src_text = bbawgrabinschriften:Tafel (Mü 4)//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Nefer-tjaz-Hathor.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓉡𓄤𓋭𓊃	703590	PROPN	entity-name	_	_	_	_	Translit=Nfr-ṯꜣz-Ḥw.t-Ḥr.w
+
+# sent_id = IBUBd9Wn3gtYxklVq0n8z16KQL0
+# corpus = bbawgrabinschriften
+# src_text_id = 6SA7LHAO4VDN5C2DAVMGFA7LAY
+# src_text = bbawgrabinschriften:Tafel (Mü 4)//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der Schreiber Aa-Hathor.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓏞	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+2	𓉡𓉻	710879	PROPN	entity-name	_	_	_	_	Translit=ꜥꜣ-Ḥw.t-Ḥr.w
+

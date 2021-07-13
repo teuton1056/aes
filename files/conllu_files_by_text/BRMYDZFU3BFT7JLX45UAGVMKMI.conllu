@@ -1,0 +1,30 @@
+# sent_id = IBUBd5wLLFaLn06ZvzVW4ePuFIg
+# corpus = sawlit
+# src_text_id = BRMYDZFU3BFT7JLX45UAGVMKMI
+# src_text = sawlit:pMoskau 4657 (Golenischeff) (G)//Sinuhe
+# owner = Frank Feder
+# text_de = Der Gefolgsmann Sinuhe, er sagt (erzählt):
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1.2]
+1	𓌞𓋴𓏲𓂻𓀀	856136	_	epitheton-title	_	_	_	_	Translit=šms.w
+2	𓅭𓈖𓉔𓏏𓆮𓀀	705989	PROPN	entity-name	_	_	_	_	Translit=Zꜣ-nh.t
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8jmcs1WmkR9jAgHMQC3YA0
+# corpus = sawlit
+# src_text_id = BRMYDZFU3BFT7JLX45UAGVMKMI
+# src_text = sawlit:pMoskau 4657 (Golenischeff) (G)//Sinuhe
+# owner = Frank Feder
+# text_de = Zittern war in alle meine Glieder gefallen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1.14]
+1	𓊃𓂧𓄿𓏲𓅯𓂻𓅪𓏥	149670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sdꜣ.w
+2	𓐍𓂋𓏲𓀒	119610	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+

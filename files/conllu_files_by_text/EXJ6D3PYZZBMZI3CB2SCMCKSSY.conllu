@@ -1,0 +1,303 @@
+# sent_id = IBUBdwD7TOi7zUJQtGfX68fC5W8
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One truly beloved of his lord, his trusted, who knows his rank in the royal palace,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mr.y
+2	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓌶𓂝	66460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣꜥ
+5	𓈖𓊨𓏏𓄣	79900	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n.j-s.t-jb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋𓐍𓏝	95620	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫ
+8	𓊨𓏏𓂾	125360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t-rd
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓇓𓏏𓉐	400419	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-nswt
+
+# sent_id = IBUBdQdNHrvnbESztWUqAdEQCs8
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = who lifts Maat up to his lord, who reports to him the state of the two lands,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1] - [A.2]
+1	𓊃𓂝𓂋𓊎	128000	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sjꜥr
+2	𓌶𓂝𓏏𓆄	66630	PROPN	entity-name	_	_	_	_	Translit=Mꜣꜥ.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓋴𓏇𓇋𓀁	134820	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smj
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓐍𓂋𓏏	854534	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḫr.t
+10	𓇿𓇿	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+
+# sent_id = IBUBd8sbfWFMOU7bmcSO8u0DhiU
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Bread: 1000 (pieces); beer: 1000 (jars); bulls: 1000 (pieces); fowl: 1000 (birds); alabaster: 1000 (jars); linen cloth: 1000 (pieces); $mrḥ,t$-oil: 1000 (jars).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+3	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+5	𓃾	162930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+6	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+7	𓅿	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+8	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+9	𓍱	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+10	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+11	𓋲	71170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+12	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+13	𓎯	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+14	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBdQONjBEYoUWQmIAaHmSKxg4
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Funerary meal and all offerings.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓂧𓄑𓏏𓊵	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+2	𓂟𓏏𓎺𓎺𓎺	107190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnk.t
+3	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdz828l7FukcYrOgW8FHyfRE
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The butler Hepu-the-Asiatic.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓏊𓅱	51600	_	epitheton-title	_	_	_	_	Translit=wdp.w
+2	𓎛𓊪𓐑𓅱𓌙𓅓	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzNUoZwW20QsmWFQkAxjfTU
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The butler Kemesseneb.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓏊𓅱	51600	_	epitheton-title	_	_	_	_	Translit=wdp.w
+2	𓎡𓅓𓋴𓋴𓈖𓃀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdwA08jPMAEtCgmWz2XL87Ww
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Jy, conceived of Shepsit-the-new.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓇋𓀁𓇋𓇋	400064	PROPN	entity-name	_	_	_	_	Translit=Jy
+2	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀻𓋴𓏏𓌳𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd20UlSp55UQJnY5igxgcMdo
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Overseer of fields Seneb, conceived of Hetepet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓅓𓂋𓎛𓄿𓏏𓈅𓏥	600553	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜣḥ.wt
+2	𓋴𓈖𓃀	450043	PROPN	entity-name	_	_	_	_	Translit=Snb
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓊵𓏏𓊪𓏏	550115	PROPN	entity-name	_	_	_	_	Translit=Ḥtp.t
+
+# sent_id = IBUBd2sTaBrzqETLubS7gaesmA0
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother It, conceived of Shepsit-the-younger.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏏𓆑	710650	PROPN	entity-name	_	_	_	_	Translit=Jtj
+4	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓀻𓋴𓏏𓈖𓐍𓈖𓏏𓅪	707305	PROPN	entity-name	_	_	_	_	Translit=Šps.t-nḫn.t
+
+# sent_id = IBUBdWmbrxKFJ07Fswnri2P4EPc
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His sister Titi, conceived of Bibi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.6]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍘𓇋𓍘𓇋	708797	PROPN	entity-name	_	_	_	_	Translit=Tjtj
+4	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓃀𓇋𓃀𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6IiUEt9c0VFv3lnn9qlCBE
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His sister Nebemmaut, conceived of Shepsit-the-new.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.7]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋞𓈓𓅓𓌳𓏏𓅱	_	X	unknown	_	_	_	_	_
+4	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓀻𓋴𓏏𓌳𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd78eFK7L7ktNrid4mAnSjh4
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His sister Shepsit-the-elder, conceived of Iti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀻𓋴𓏏𓅨𓂋𓏏	_	X	unknown	_	_	_	_	_
+4	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓇋𓀁𓍘𓇋	400356	PROPN	entity-name	_	_	_	_	Translit=Jtj
+
+# sent_id = IBUBdQgrjfsiKU8Epb1U2ZxAFBQ
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His sister Shepsit-the-young(er), conceived of Iti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀻𓋴𓏏𓈖𓐍𓈖𓏏𓅪	707305	PROPN	entity-name	_	_	_	_	Translit=Šps.t-nḫn.t
+4	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓇋𓀁𓍘𓇋	400356	PROPN	entity-name	_	_	_	_	Translit=Jtj
+
+# sent_id = IBUBd1xCYAIYA0DdtMvEZZ42JQ8
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Heta-bread, 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.1]
+1	𓎛𓅷𓏐	112070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥṯꜣ
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdxxIuNkYzkQTgDOibWU9M8o
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Depet-bread, 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.1]
+1	𓂧𓊪𓏏𓏐	179050	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dp.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd18dtNXSuEDmkL00Dbj897g
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Meat-offering, 1 portion.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.1]
+1	𓃛𓂋𓄯𓎺	22960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd7OMynEbyUQch9TkJlJZuDA
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Veneration, to be recited.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.1]
+1	𓉔𓄿𓅾𓀊	97320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hꜣ-snḏ
+2	𓌃𓆓	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd8tPtU9gDkovnCInyWLQ9Ag
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = A large piece of meat, 1 portion.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.2]
+1	𓅨𓂋	47320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓇋𓆑𓄹𓎺	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd1C22HK4S0SPj47Rc8V6Nlc
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = A piece of meat, 1 portion.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.2]
+1	𓎛𓇬𓈖𓄹𓎺	103070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥwn
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdxoBWMSMG0xCo1FmV8YWEt4
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Shaut-cake, 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.2]
+1	𓈙𓂝𓏏𓏐	152490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥw.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdxrfdJB9e0fmpQB9kWe8sr4
+# corpus = sawlit
+# src_text_id = EXJ6D3PYZZBMZI3CB2SCMCKSSY
+# src_text = sawlit:Stele des Remenyankh (Kairo CG 20571)//〈Stele des Remenyankh (Kairo CG 20571)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Water, 1 menza-jar.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.2]
+1	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+2	𓏠𓎂𓎿	71300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnzꜣ
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+

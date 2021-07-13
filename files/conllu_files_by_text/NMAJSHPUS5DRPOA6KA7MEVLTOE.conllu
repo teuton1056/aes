@@ -1,0 +1,185 @@
+# sent_id = IBUBd8xkI4YB8U4igmFNOq0z4Ck
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = Anbeten des Osiris.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1]
+1	𓇼	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓊨𓁹𓊹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd8b6d5U6TETxsZWF3KNr95E
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = Herr der beiden Hörner, mit hoher Atef-Krone, Herr der Ehrfurcht, groß an Würde,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [4] - [5]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓄏𓄏	500827	PROPN	entity-name	Number=Dual|Status=Abs	_	_	_	Translit=ꜥb.wj
+3	𓀠	158990	ADJ	adjective	_	_	_	_	Translit=qꜣ
+4	𓋚	326	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣtf
+5	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+6	𓅾	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+7	𓉻𓂝𓏝	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+8	𓄆𓏏𓏥	154080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.yt
+
+# sent_id = IBUBd6ouoVkwI0fKoL0gMZJpAU4
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = dem Re seine Furchtbarkeit gegeben hat, dessen Würde Atum geschaffen hat in den Herzen der Menschen, Götter, Ach-Geister und Toten,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6] - [8]
+1	𓂋𓂞𓈖	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓇳𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓅾	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌳𓈎𓌙𓏛𓈖	854564	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=qmꜣ
+6	𓏏𓍃	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+7	𓈙𓆑𓈙𓆑𓏏𓄅𓈓	154240	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šfšf.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+13	𓊹𓏤𓏥	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+14	𓅜𓏥	203	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣḫ
+15	𓅓𓏏𓀐𓈓	69320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mwt
+
+# sent_id = IBUBdyXW9sTOd0a6mctEzZRC4wg
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = dessen Achom-Bild in Heliopolis gegeben ist, groß an Gestalten in Busiris,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [9] - [10]
+1	𓏙𓇋𓇋	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+2	𓂝𓈙𓅓𓅆	40780	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥẖm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉺𓏌	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+6	𓉻𓂝𓏝	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+7	𓐍𓊪𓂋𓅱𓏥	116300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫpr.w
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊽𓅱𓊖𓏤	185980	PROPN	entity-name	_	_	_	_	Translit=Ḏd.w
+
+# sent_id = IBUBdQfbpn9Q6k0Wq6Yu5baLa8Q
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = Herr der Ehrfurcht in den beiden Horizonten (oder: Hügel), groß an Schrecken in Rosetau,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [10] - [11]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓅾𓏛	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈌𓈌	227	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜣḫ.t
+5	𓉻𓂝	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+6	𓈖𓂋𓅱𓀜	85160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nr.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓍬𓍬𓍬𓈉	93110	PROPN	entity-name	_	_	_	_	Translit=Rʾ-sṯꜣ.w
+
+# sent_id = IBUBd9dsmre2nEwBsem5VEgSc8U
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = Herr der Macht, der Große im Tjenenet-Heiligtum,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11]
+1	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓌂𓏤𓏛	142140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫm
+3	𓅨𓂋	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓍿𓇑𓇑𓈖𓈖𓏏𓉐	176030	PROPN	entity-name	_	_	_	_	Translit=Ṯnn.t
+
+# sent_id = IBUBdzKivWxnUELct90X3wlJcm8
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = groß an Beliebtheit auf Erden,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11]
+1	𓉻𓂝𓏝	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+2	𓌻𓂋𓅱𓏏𓏯𓏥	72650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrw.t
+3	𓁶𓏤	850801	ADP	preposition	_	_	_	_	Translit=tp
+4	𓇿𓈅𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd2J87moW8UYcjXFP7GWIvNE
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = groß an Erscheinungen in Abydos,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12]
+1	𓉻𓂝	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+2	𓈍𓂝𓏩𓅱	114840	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜥ.w
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓍋𓃀𓈋	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBd9y4znsfwkkHvmffXVfFyqA
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = vor dem die großen Mächte erschaudern,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [14]
+1	𓈖𓂋𓂋𓅱𓂡	85070	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=nri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓌂𓀭𓈓	142140	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫm
+5	𓉻𓂝𓅱𓈓	450158	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBd3GWq12fyU48nheWsGnlXwA
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = für den sich die Großen von ihren Matten erhoben haben,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [14] - [15]
+1	𓊢𓂝𓂻𓈖	851887	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ꜥḥꜥ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓀗𓅱𓈓	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+5	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏏𓌳𓅱𓊸𓈓	172150	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=tmꜣ
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdQfDdSVvR0xChmBQIOo6sQQ
+# corpus = sawlit
+# src_text_id = NMAJSHPUS5DRPOA6KA7MEVLTOE
+# src_text = sawlit:Stele des Chentichetiemhat (Oxford QC 1109)//〈Stele des Chentichetiemhat (Oxford QC 1109)〉
+# owner = Peter Dils
+# text_de = dessen Furchtbarkeit Schu gegeben hat, dessen Würde Tefnut geschaffen hat,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [15] - [16]
+1	𓏙𓋔	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓆄𓅱𓀭	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+3	𓅾	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌳𓈎𓌙𓏛𓈖	854564	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=qmꜣ
+6	𓏏𓆑𓈖𓏏𓁐	171880	PROPN	entity-name	_	_	_	_	Translit=Tfn.t
+7	𓄅𓏏𓏥	154080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šf.yt
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

@@ -1,0 +1,36 @@
+# sent_id = IBUBd5Tf5vApC0FSuWGaust5Ubg
+# corpus = sawlit
+# src_text_id = 4MY4ZX7HERCYPKVN56KXL5U2BU
+# src_text = sawlit:Stele des Djemi (MMA 65.107)//〈Stele des Djemi (MMA 65.107)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = when no man was powerful (enough) to fall upon him.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [5] - [6]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+3	𓂋𓍿𓀀	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+4	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+5	𓉔𓄿𓂻𓏏	97350	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣi̯
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8UcwCsjDEsrv8kX0dtBWMU
+# corpus = sawlit
+# src_text_id = 4MY4ZX7HERCYPKVN56KXL5U2BU
+# src_text = sawlit:Stele des Djemi (MMA 65.107)//〈Stele des Djemi (MMA 65.107)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = (This stela is) That which his beloved eldest son, Hetep, did for him.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [10]
+1	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓀗	135720	ADJ	adjective	_	_	_	_	Translit=sms.w
+7	𓌻𓂋𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎛𓊵𓏏𓊪	400024	PROPN	entity-name	_	_	_	_	Translit=Ḥtp
+

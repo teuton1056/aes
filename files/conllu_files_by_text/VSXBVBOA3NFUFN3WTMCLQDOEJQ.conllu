@@ -1,0 +1,15 @@
+# sent_id = IBUBd3G3UomgG0IRkIPyozLclEM
+# corpus = bbawgrabinschriften
+# src_text_id = VSXBVBOA3NFUFN3WTMCLQDOEJQ
+# src_text = bbawgrabinschriften:Scheintürtafel//Beischriften
+# owner = Stefan Grunert
+# text_de = Seine Kinder Wer-ka-Ptah, Kai-em-merut und Djefa-ib-kai.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.1]
+1	𓋴𓄟	74750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ms
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅨𓂋𓊪𓏏𓎛𓎡	_	X	unknown	_	_	_	_	_
+4	𓎡𓅓𓌸𓅱𓏏	853557	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-m-mrw.t
+5	𓆓𓆑𓄣𓎡	853558	PROPN	entity-name	_	_	_	_	Translit=Ḏfꜣ-jb-kꜣ⸗j
+

@@ -1,0 +1,157 @@
+# sent_id = IBUBd0NoJyHhT0tRh2biLO2wEks
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = to the ka of the hereditary noble and local prince, the great courtier, the beloved one,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4] - [A.5]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓂓	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+5	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+6	𓋴𓍋𓊃𓂝𓄿	550353	_	epitheton-title	_	_	_	_	Translit=smr-ꜥꜣ
+7	𓈖𓌻𓂋𓅱𓏏	79890	ADJ	adjective	_	_	_	_	Translit=n.j-mrw.t
+
+# sent_id = IBUBdxZrwyA7g0EigMXwdspSU3s
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = who has placed fear of him(self) amongst the multitudes, teacher of his tenants,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5] - [A.6]
+1	𓅱𓂧𓏯	854503	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wdi̯
+2	𓅾	138740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓𓁷𓄣	65190	ADP	preposition	_	_	_	_	Translit=m-ḥr.j-jb
+5	𓆈𓄿𓏏𓀀𓏥	41050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥšꜣ.wt
+6	𓋴𓃀𓇼𓅱	131320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbꜣ.w
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓐍𓂋𓊪𓏏𓀀𓁐𓏥	120220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrp.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5lZ5BAVnEfrlrSauyqmkHk
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the administrator of the city Khusobek, whose good name is Djaa, whom Ita conceived, possessor of reverence; he says:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8] - [A.9]
+1	𓂾𓏏𓅱𓏝𓈖𓊖𓏏𓏤	401065	_	epitheton-title	_	_	_	_	Translit=ꜣṯ.w-n-nʾ.t
+2	𓆍𓂞𓅱𓀻	400378	PROPN	entity-name	_	_	_	_	Translit=Ḫwi̯-wj-Sbk
+3	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓄤	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+6	𓍑𓄿𓄿𓁸	709630	PROPN	entity-name	_	_	_	_	Translit=Ḏꜣꜣ
+7	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+8	𓇋𓀁𓏏𓏐𓏒𓏥	_	X	unknown	_	_	_	_	_
+9	𓎟𓄪𓏤	81950	_	epitheton-title	_	_	_	_	Translit=nb-jmꜣḫ
+10	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyAUGWmiyUNagDy0PylaGlM
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = O you living ones, who are on earth, (consisting of) all lector-priests, all wab-priests, all scribes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9] - [A.10]
+1	𓇋𓀀	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋹𓅱𓏥	400614	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥnḫ
+3	𓁶𓏤𓅱	171450	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=tp.j
+4	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎛𓌨𓃀	855795	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-ḥꜣb.t
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+8	𓃂	44460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥb
+9	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+10	𓏞	855553	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w
+11	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBdwwVJQzOW03GnwuQCABCHp0
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Gebu, den Tati geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓅬𓃀𓅱	400484	PROPN	entity-name	_	_	_	_	Translit=Gb.w
+2	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓏏𓏐𓍘𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdwO4Lrh6W0BumjTQqzFhEGc
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Ita, die Ibu geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1] - [D.2]
+1	𓇋𓀁𓏏𓏐	_	X	unknown	_	_	_	_	_
+2	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓇋𓃀𓅱	400621	PROPN	entity-name	_	_	_	_	Translit=Jbw
+
+# sent_id = IBUBd8zLr1wOl0ntjxhBzhDSdEY
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Senebtisi, die Ita geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2] - [D.3]
+1	𓋴𓈖𓃀𓏏𓋴	400569	PROPN	entity-name	_	_	_	_	Translit=Snb.tj⸗sj
+2	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓇋𓀁𓏏𓏐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6ITD0QSCU9Oq7Jo4GTJPhM
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Ita, die Ita geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.5]
+1	𓇋𓀁𓏏𓏐	_	X	unknown	_	_	_	_	_
+2	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓇋𓀁𓏏𓏐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd1WwJWw2SE84kDQWpaW2EQ0
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Herrin des Hauses Zenet, die Sathathor geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.1]
+1	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓊃𓈖𓏏𓏒	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓉡𓅭𓏏	400439	PROPN	entity-name	_	_	_	_	Translit=Zꜣ.t-Ḥw.t-Ḥr.w
+
+# sent_id = IBUBdxNo97GeuE9qgl0qLJCfo0U
+# corpus = sawlit
+# src_text_id = CVWBD5AHYNHBFNUEYQSCQAPNP4
+# src_text = sawlit:Stele des Chusobek (BM EA 1213)//〈Stele des Chusobek (BM EA 1213)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Senebtisi, die Ita geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.1]
+1	𓋴𓈖𓃀𓏏𓋴	400569	PROPN	entity-name	_	_	_	_	Translit=Snb.tj⸗sj
+2	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓇋𓀁𓏏𓏐	_	X	unknown	_	_	_	_	_
+

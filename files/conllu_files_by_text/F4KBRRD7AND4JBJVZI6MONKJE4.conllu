@@ -1,0 +1,13 @@
+# sent_id = MGL2UOKYANDCFKDNIZUA3AO6NY
+# corpus = sawlit
+# src_text_id = F4KBRRD7AND4JBJVZI6MONKJE4
+# src_text = sawlit:〈Topf 1: 〉oTurin Suppl. 6619 + oGardiner 306 + oDeM 1251 I+II + oTurin Suppl. 6806//Chonsemhab und der Geist, Kolumne 2
+# owner = Lutz Popko
+# text_de = "Nut-bu-semech ist mein Name,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [x+9]
+1	𓊖𓏏𓏤𓃀𓏲𓋴𓅓𓐍𓂜𓀼𓀀	713118	PROPN	entity-name	_	_	_	_	Translit=Nʾ.t-bw-smḫ
+2	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+

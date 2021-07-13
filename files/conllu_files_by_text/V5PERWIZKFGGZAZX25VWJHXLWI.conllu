@@ -1,0 +1,35 @@
+# sent_id = IBUBd3YDjebpw0K7hBSIWlfQyfg
+# corpus = sawlit
+# src_text_id = V5PERWIZKFGGZAZX25VWJHXLWI
+# src_text = sawlit:Stele des Idu (BM EA 1059)//〈Stele des Idu (BM EA 1059)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = An offering which the king gives (and) Anubis, who is upon his mountain, who is in the embalming place, lord of the sacred land:
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓃣	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+3	𓁶𓈋𓏤𓆑	600421	_	epitheton-title	_	_	_	_	Translit=tp.j-ḏw⸗f
+4	𓏶𓅱𓏏𓐎	25390	_	epitheton-title	_	_	_	_	Translit=jm.j-wt
+5	𓎟𓇾𓂦	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+
+# sent_id = IBUBdWk71BkLpUKwrlLyQdzaPlM
+# corpus = sawlit
+# src_text_id = V5PERWIZKFGGZAZX25VWJHXLWI
+# src_text = sawlit:Stele des Idu (BM EA 1059)//〈Stele des Idu (BM EA 1059)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one who loves to eat and hates dispute, a companion on the beautiful day (holiday).
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [3] - [4]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌸	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏶𓀁	46710	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnm
+5	𓄟𓋴𓆓𓀁	76210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msḏi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓍑𓄿𓇋𓋴	181990	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏꜣjs
+8	𓊃𓄥𓇋𓇋	134580	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zmꜣ.y
+9	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+10	𓄤	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+

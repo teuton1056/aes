@@ -1,0 +1,19 @@
+# sent_id = IBUBdwg4gl43O0WnjukdetBZc5g
+# corpus = sawlit
+# src_text_id = 3D3TZ7OFSRH55H3T5KGZDCRWJ4
+# src_text = sawlit:Stele des Mentuhotep (Florenz 2540)//〈Stele des Mentuhotep (Florenz 2540)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = So wahr der Sohn des Re 𓍹Sesostris𓍺 lebt,  ich sage, dass dies wirklich geschah.
+# findspot = Nubia
+# date = MK & SIP
+# lineRef = [C.21] - [C.23]
+1	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+2	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+3	𓄊𓋴𓂋𓏏𓊃𓈖	400051	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+4	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓇑𓇑	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+7	𓆣	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓃹𓈖𓌳𓐙𓂝	46200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wn-mꜣꜥ
+

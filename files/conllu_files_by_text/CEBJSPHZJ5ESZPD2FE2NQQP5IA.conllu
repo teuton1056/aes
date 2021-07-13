@@ -1,0 +1,212 @@
+# sent_id = IBcAYDbV94OEOEvbhNFYWt2QOfU
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Seine Gemahlin, Einziger Schmuck des Königs, Senebet-si, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 5
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓈖𓐬𓅱𓌡𓏏𓏏	850039	_	epitheton-title	_	_	_	_	Translit=ẖkr.t-nswt-wꜥ.tjt
+4	𓊃𓈖𓏏𓃀𓋴𓏭	400569	PROPN	entity-name	_	_	_	_	Translit=Snb.tj⸗sj
+5	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBcAYDrG5b8F1EPWreAAaQGDwUg
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Seine Gemahlin, die Herrin des Hauses, Seruchib.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 8
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎟𓏏𓉐𓏤	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+4	𓊃𓂋𓅱𓐍𓏛𓄣𓏤𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAYIpITfcQ5UZniESWDCG1HmU
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Großer der Zehn von Oberägypten, Nefer-hetep, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 5 - 6
+1	𓅨𓂋𓇗𓎆𓏥	400070	_	epitheton-title	_	_	_	_	Translit=wr-mḏ-Šmꜥ.w
+2	𓄤𓊵𓏏𓊪	450077	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḥtp.w
+3	𓐙𓂝𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBcAYJdO85CmLkZhrmQKVzR9XZg
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Vorlesepriester, Senweseret, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 7 - 8
+1	𓎴	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+2	𓄊𓂋𓏏𓊃𓈖𓀀	400058	PROPN	entity-name	_	_	_	_	Translit=Z-n-wsr.t
+3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBcAYGbYdnXwn0VPkLQeKQXzuIk
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Bogenträger, Dedusebek.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 1
+1	𓀸𓌔𓏏𓏤	28820	_	epitheton-title	_	_	_	_	Translit=jr.j-pḏ.t
+2	𓆊𓂞𓂞𓅱	400376	PROPN	entity-name	_	_	_	_	Translit=Dd.w-Sbk
+
+# sent_id = IBcAYIrYScdWokNptCAKWH9Vesw
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Gutsvorsteher, Nehi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 2
+1	𓄓𓉐	855668	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ-pr
+2	𓅘𓎛𓇋𓀁	703740	PROPN	entity-name	_	_	_	_	Translit=Nḥj
+
+# sent_id = IBcAYMchW2A1LUaKlOExQEFWlMQ
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Großer der Zehn von Oberägypten, Redschi, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 3
+1	𓅨𓇙𓏪	400070	_	epitheton-title	_	_	_	_	Translit=wr-mḏ-Šmꜥ.w
+2	𓂋𓂞𓇋	704333	PROPN	entity-name	_	_	_	_	Translit=Rḏi̯-j
+3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBcAYOIcZcSHm0DOhKkWQsBoAQs
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Priester, Menetschemsaef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 4 - 5
+1	𓃂𓈗	855694	_	epitheton-title	_	_	_	_	Translit=wꜥb
+2	𓏠𓈖𓍿𓅱𓅓𓎂𓆑𓏥	702078	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w-m-zꜣ⸗f
+3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBcAYLxwpT4rCkbHlBUsmQwWQpg
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Aufseher der Gefolgsleute, Dschedtuseneb, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 7 - 8
+1	𓋴𓌋𓌞𓅱𓏥	400182	_	epitheton-title	_	_	_	_	Translit=sḥḏ-šms.w
+2	𓂞𓂞𓅱𓏏𓋴𓈖𓃀	709647	PROPN	entity-name	_	_	_	_	Translit=Ḏḏ.tw-snb
+3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBcAYLNZ8ZuurU3NtMYYwwXDftA
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Seruchib, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 1 - 2
+1	𓎟𓏏𓉐𓏤	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓊃𓂋𓅱𓐍𓏛𓄣𓏤	_	X	unknown	_	_	_	_	_
+3	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBcAYDzfW7YmTUwrqD1GekbPQKw
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Kabinetsvorsteher, Kii, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 3 - 4
+1	𓄓𓂝𓄚𓈖𓏏𓏌𓏭	400016	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜥ-ẖn.wtj
+2	𓎡𓇋𓇋	400526	PROPN	entity-name	_	_	_	_	Translit=Ky
+3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBcAYDgpoPwHo0GIjVsnUQ5FVw4
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Iau, die Jüngere, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 5 - 6
+1	𓎟𓏏𓉐𓏤	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓇋𓂝𓈗𓅱𓀔𓏏	_	X	unknown	_	_	_	_	_
+3	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBcAYIetAjWPakRXvD4n63gFmcU
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Dschiesmeri, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 7 - 8
+1	𓎟𓏏𓉐𓏤	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓂞𓋴𓅓𓂋𓇋𓆵	709404	PROPN	entity-name	_	_	_	_	Translit=Ḏi̯-sj-mrj
+3	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBcAYNXUOWn79EQMp8DrPOcQr38
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Ihr Bruder, Phylenmitglied, Monthsu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 11
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓏶𓎃	25810	_	epitheton-title	_	_	_	_	Translit=jm.j-zꜣ
+4	𓏠𓈖𓍿𓅱𓏤𓇓𓅱	550110	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w-sw
+
+# sent_id = IBcAYIATlf99AkqZmGKI83XVDac
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Der Brauer, Seneb, Ii-ib.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 12
+1	𓀪𓏏𓏭	37440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥf.tj
+2	𓋴𓈖𓃀	450043	PROPN	entity-name	_	_	_	_	Translit=Snb
+3	𓇍𓂻𓄣𓏤	400593	PROPN	entity-name	_	_	_	_	Translit=Jy-jb
+
+# sent_id = IBcAYH24d82DbkCCl1MDz6IH8s8
+# corpus = tuebingerstelen
+# src_text_id = CEBJSPHZJ5ESZPD2FE2NQQP5IA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 462)
+# owner = Susanne Beck
+# text_de = Iuianch, Ii-ib, Wadschet (?), Aschem, Mut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 13 - 14
+1	𓈀𓇋𓇋𓊮𓋹𓈖𓐍	867581	PROPN	entity-name	_	_	_	_	Translit=Jwy-ꜥnḫ
+2	𓇍𓂻𓄣𓏤	400593	PROPN	entity-name	_	_	_	_	Translit=Jy-jb
+3	𓇅𓇯𓏏	850830	PROPN	entity-name	_	_	_	_	Translit=-
+4	𓂝𓈙𓅓	_	X	unknown	_	_	_	_	_
+5	𓅐𓏏	450305	PROPN	entity-name	_	_	_	_	Translit=Mw.t
+

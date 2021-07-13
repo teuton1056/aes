@@ -1,0 +1,43 @@
+# sent_id = IBcAWca7pHEhRk3jvorJw0V1eU8
+# corpus = tuebingerstelen
+# src_text_id = J2Q7ZZ6K6FH6VOZD5K5JPRPCNI
+# src_text = tuebingerstelen:Stele des Sebekhotep (Äg. Slg. Tübingen Inv. Nr. 458)//Stele des Sebekhotep (Äg. Slg. Tübingen Inv. Nr. 458)
+# owner = Susanne Beck
+# text_de = Es ist kein Herausgegangenes aus eurem (eigenen) Begräbnis!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 15 - 16
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓉐𓂋𓂻	61150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr.w
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊭𓏏𓉐	161960	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qrs.t
+6	𓍿𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBcAWW4AlTz5IURdqjeoWwBQkmo
+# corpus = tuebingerstelen
+# src_text_id = J2Q7ZZ6K6FH6VOZD5K5JPRPCNI
+# src_text = tuebingerstelen:Stele des Sebekhotep (Äg. Slg. Tübingen Inv. Nr. 458)//Stele des Sebekhotep (Äg. Slg. Tübingen Inv. Nr. 458)
+# owner = Susanne Beck
+# text_de = Was den anbelangt, der dies machen wird, was ich sage, dem werde ich ein Schutz seiner Gesundheit sein (und) ein doppelter Schutz für seine Kinder.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 16 - 18
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓁹𓂋𓏏	851809	VERB	verb	_	_	_	_	Translit=jri̯
+3	𓆑𓏮	851172	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+4	𓇑𓇑	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+5	𓆓𓂧𓅱𓇋𓇋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓎃𓏤	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+11	𓋴𓈖𓃀	136950	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snb
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓅓𓂞𓎡𓏏𓏮𓀜	76880	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=mkw.t
+15	𓋔	78870	ADP	preposition	_	_	_	_	Translit=n
+16	𓄡𓂋𓂧𓀔𓀀𓁐𓏥	854539	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ẖrd
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

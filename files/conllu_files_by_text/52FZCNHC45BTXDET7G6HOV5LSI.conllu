@@ -1,0 +1,36 @@
+# sent_id = IBUBd3alyEvHA0n2ogkvfSXNkr4
+# corpus = bbawgrabinschriften
+# src_text_id = 52FZCNHC45BTXDET7G6HOV5LSI
+# src_text = bbawgrabinschriften:Fragment A (Opfergaben-Bringer)//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der  Gutsvorsteher Seschem-nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [x+2]
+1	𓅓𓂋𓉐𓏤	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+2	𓋴𓌮𓄤	707086	PROPN	entity-name	_	_	_	_	Translit=Sšm-nfr
+
+# sent_id = IBUBd5QGlybrGkQQuS8RptMqELQ
+# corpus = bbawgrabinschriften
+# src_text_id = 52FZCNHC45BTXDET7G6HOV5LSI
+# src_text = bbawgrabinschriften:Fragment A (Opfergaben-Bringer)//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der Vorsteher und Unteraufseher des Haushaltes Schepsi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [x+3]
+1	𓅓𓂋𓅓𓆱𓐍𓏏𓉐𓏤	854034	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-jm.j-ḫt-pr
+2	𓀻𓋴𓇋	707267	PROPN	entity-name	_	_	_	_	Translit=Špsj
+
+# sent_id = IBUBd70jTheSWELwu4QLMWAWSBo
+# corpus = bbawgrabinschriften
+# src_text_id = 52FZCNHC45BTXDET7G6HOV5LSI
+# src_text = bbawgrabinschriften:Fragment A (Opfergaben-Bringer)//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der Vorsteher des Leinenzeugs Imi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [x+4]
+1	𓅓𓂋𓎧	550378	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-sšr.w
+2	𓇋𓅓𓐜𓇋	704999	PROPN	entity-name	_	_	_	_	Translit=Jmj
+

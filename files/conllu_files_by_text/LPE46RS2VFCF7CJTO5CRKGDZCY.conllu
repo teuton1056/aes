@@ -1,0 +1,769 @@
+# sent_id = IBcAUSW3GTTSd0hYjg3wNepDk34
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Geschmeidigmachen des Knies:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,19] - [76,20]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓎼𓈖𓈖𓀕	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+5	𓌴𓄿𓊨𓏏𓂾	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+
+# sent_id = IBcAUVEjWztxl0DVvR7xcpP0XXw
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,21]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAUYgwRDniO0XLpSczl4uoTGM
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Das Knie werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,21]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓂾𓏤	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAUYQzh98kNUORrTNIhjzDFnw
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für das Knie, wenn es zurückweicht:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂾𓏤	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+4	𓈞𓅓𓂾	105200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmi̯
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAUa7rd7GClkVfjtMfmfyqtdo
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Häcksel/Spreu, gesiebt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [76,21]
+1	𓂧𓇉𓄿𓄧𓆰𓏥	180380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dḥꜣ
+2	𓈖𓈎𓂋𓏲𓎅	89120	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nqr
+
+# sent_id = IBcAUZC5Sak8dkrIunLwoAyuCvU
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde mit Wasser vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,1]
+1	𓋴𓆑𓂝	133580	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sfi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcAUQVDyWL9oUmagW1ku1Ebt4I
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden, so dass es ihm (d.h. dem Patienten) sofort gut geht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,1]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBcAUXQcu6rNmk3it4g8hdJZr3o
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Das) kann bei jedem Körperteil, (bei dem) du (es) möchtest, getan werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓏏𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+6	𓌻𓂋𓂋𓀁	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcAUQLoxhynmUfWhEu5cUmzwPc
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Schmerzen im Knie:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓍋𓅓𓂋𓏏𓅪𓏥	72000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂾𓏤	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+
+# sent_id = IBcAUdLpXKwLB0fJhQyAIhjGPiM
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Mehl der $qꜣꜣ.t$-Früchte: 1, $ḏꜣjs$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,2]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈎𓄿𓏏𓈒𓏪	181010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣꜣ.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAUQdPs6pG0U3ft1C23xLvk1k
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde in süßem Bier zerkleinert;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,2] - [77,3]
+1	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+
+# sent_id = IBcAUSBjSs1C2EbYhmmuse80TQs
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,3]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAUQCLBXlWZkrQpn5Gderl2jQ
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,3]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAURLfY4zAKEATuE6l8Ov9bl8
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAUa6Lx8rnGEOHhEoMoYFERCc
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = $sḥyḥ.t$-Flugtier, in einem Mörser zerstampft, (indem) jede ihm zugehörige Sache dabei ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,3] - [77,4]
+1	𓋴𓎛𓇋𓇋𓎛𓏏𓅬𓏤	140450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḥyḥ.t
+2	𓋴𓈞𓅓𓍖𓀜𓍘𓇋	140710	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=sḥm
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄞𓂧𓊌	158520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šd
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+6	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+7	𓈖	400984	ADJ	adjective	Number=Sing|Status=Pron|Gender=Fem	_	_	_	Translit=n⸗ ...-jm.y
+8	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓇋𓅓𓇋𓇋	25160	ADJ	adjective	_	_	_	_	Translit=jm.y
+10	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAUTTcJ0n48EQRu0CkJSuppT8
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,4]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAUflTwnzvuUTolkIYid6OuQE
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = $qn.t$-Pflanzen: 1, Früchte/Samen der $tḥwꜣ$-Pflanze: 1, $sk.j$-Mehl von der Tenne: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,4] - [77,5]
+1	𓄃𓏏𓆰𓏥	856566	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qn.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+4	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓋴𓎝𓎢𓈒𓏥	146730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sk.j
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓈀𓈖𓉐𓈒𓏥	62550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏn
+9	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAUT1MYHY1EEEbkDO0Dy7pGh4
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde mit „Selbstentstandenem“ vom Dattelsaft vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,5]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆣𓂋𓆓𓊃𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+
+# sent_id = IBcAUWjVxbk9ZUx2gI5N8QmcGWs
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Die Knie werden darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,5]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓂾𓂾	67370	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=mꜣs.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAUVRflxkl0k80ke6Bar46EuY
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Geschmeidigmachen des Knies:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,5] - [77,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓌴𓄿𓊨𓏏𓂾	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+
+# sent_id = IBcAUba6V2aR20vFlxMZdeDDRRU
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = $sskꜣ$-Pflanzen: 1, „Selbstentstandenes“ vom Dattelsaft: 1, Früchte/Samen der $tḥwꜣ$-Pflanze: 1, unterägyptisches Salz: 1, Rinderfett: 1, Knochenmark vom Rind: 1, Fleisch vom Rind: 1, Milz vom Rind: 1, Bodensatz von süßem Bier: 1, Honig: 1, $ꜥfꜣ$-Lattich: 1, „Stechholz“: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,6] - [77,9]
+1	𓋴𓋴𓂓𓄿𓈒𓏥	144190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sskꜣ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓆣𓂋𓆓𓊃𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+8	𓍘𓎛𓍯𓄿𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+13	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+14	𓏤	_	_	_	_	_	_	_	_
+15	𓏏𓃀𓈖𓐏	170690	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tbn
+16	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+17	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+18	𓏤	_	_	_	_	_	_	_	_
+19	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+20	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+21	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+22	𓏤	_	_	_	_	_	_	_	_
+23	𓈖𓈖𓈝𓅓𓄹	85010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nnšm
+24	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+25	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+26	𓏤	_	_	_	_	_	_	_	_
+27	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+28	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+29	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+30	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+31	𓏤	_	_	_	_	_	_	_	_
+32	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+33	𓏤	_	_	_	_	_	_	_	_
+34	𓂝𓆑𓄿𓆰𓏥	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+35	𓏤	_	_	_	_	_	_	_	_
+36	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+37	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAURdlwj3QTkT2jALwcRhJecc
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde in einer Masse zusammengeschlossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,9]
+1	𓐍𓏏𓅓𓋩𓀜	121710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫtm
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAUasWQTOGfE3tpn4rNu66NYw
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAUdgD9yTu1kWHuMAVSSZcx4E
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln von Schmerzen im Knie:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓍋𓅓𓂋𓏏𓅪𓏥	72000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓌴𓄿𓊨𓏏𓂾	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+
+# sent_id = IBcAUR7zFHQM2U5QmVWIojboqWk
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Fettige $ḏꜥ.t$-Droge: 1, $sk.j$-Mehl von der Tenne: 1, unterägyptisches Salz: 1, rotes Natron: 1, $ḏꜣjs$-Pflanzen: 1, $jꜣg.wt$-Droge: 1, Bodensatz von süßem Bier: 1, $ꜥfꜣ$-Lattich: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,10] - [77,11]
+1	𓆓𓂝𓏏𓏌𓏥	182550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥ.t
+2	𓈎𓈖𓏏𓄃	160890	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=qni̯
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓋴𓎝𓎢𓈒𓏥	146730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sk.j
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓈀𓈖𓉐	62550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏn
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓎛𓋴𓏠𓈖𓍖𓈒𓏥𓂧𓈙𓂋𓏯𓈒𓏥	110120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥzmn-dšr
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+13	𓏤	_	_	_	_	_	_	_	_
+14	𓇋𓄿𓎼𓅱𓏏𓈒𓏥	21060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣg.t
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+17	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+18	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+19	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+20	𓏤	_	_	_	_	_	_	_	_
+21	𓂝𓆑𓄿𓆰𓏥	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+22	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAUaJvN9lGOkWJg7xd5AfFs8E
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse verkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,11]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAUVGvQs5EQU6slHU4fky2UGg
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,12]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAUQ7VdER2BUQUiywwT1Z80QI
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Geschmeidigmachen des Knies:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓈖𓈖𓀕	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+4	𓌴𓄿𓊨𓏏𓂾	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+
+# sent_id = IBcAUc5Z2ZnlBUgHqMlJcwRQ1PY
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Öl/Fett: 1, Honig: 1, $prš$-Droge: 1, Früchte/Samen der $ḫꜣs.yt$-Pflanze: 1, Früchte/Samen der $tḥwꜣ$-Pflanze: 1, Samen des Sellerie: 1, Früchte/Samen der $šꜣms$-Pflanze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,12] - [77,13]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓊪𓈖𓈙𓏏𓏥	61260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=prš
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+8	𓆼𓄿𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+11	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+12	𓏤	_	_	_	_	_	_	_	_
+13	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+14	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+17	𓆷𓄿𓄟𓋴𓆰𓏥	151850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣms
+18	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAUTQMzJXDWErRqmvJGEKivNs
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,14]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcAUTWpeh95nkU7ujZkWjQXGqw
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAUdc7ZfCd30hVnokIM7Ct9yc
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen einer $tḫb$-Schwellung eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓏏𓐍𓃀𓐎	173220	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tḫb
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcAUapmUQBY10lQqk5r6KoSojI
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = $wꜣd.w$-Pflanzen vom Feld, Kaulquappen vom $šd.yt$-Gewässer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,14] - [77,15]
+1	𓍯𓄿𓂧𓅱𓆰𓏥	868097	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣd.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓇏𓏏𓈇𓏤	141480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t
+4	𓎛𓆑𓂋𓈖𓏌𓏲𓆟𓏥	104430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥfn
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓄞𓂧𓇋𓇋𓏏𓈇𓏤	158820	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šd.yt
+
+# sent_id = IBcAUfTRuXYyYEUygtClQ7BMacE
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett vollständig ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,15]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓏏𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcAUUqmjyyjGU3TtlANDciUtqk
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Die Beine werden damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,15]
+1	𓐛𓊃𓏌𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓂋𓂧𓏲𓏭𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcAUbS0BRb5MEaJhEUzE0tUZEY
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Etwas, was zu tun ist bei einer Kniescheibe, wenn sie schmerzt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,15] - [77,16]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓅯𓄿𓂧𓂾𓄹	59460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pꜣḏ
+4	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAUY2TzCjxL0XAlXkCgqUCNpA
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = $šꜣšꜣ$-Früchte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,16]
+1	𓆷𓄿𓆷𓄿𓄿𓈒𓏥	151960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣšꜣ
+
+# sent_id = IBcAUSSU1baUYEXdqrWLYJHOExw
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,16]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcAUSYdaZdRqUyOjkbdvyzwgCc
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = werde mit Wasser der $mstꜣ$-Flüssigkeit vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,16] - [77,17]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓄟𓋴𓏏𓍔𓄿𓈗	75980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mstꜣ
+
+# sent_id = IBcAUVRWVJdPr02qm75JSJpEYD4
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden, so dass er (d.h. der Patient) gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,17]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAUTRCiP3lh0HcthOJaYGy25k
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Gesund-Machen der Fersen-/Fußknöchelbereiche, die schmerzen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓋴𓈖𓃀𓏛	144100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssnb
+4	𓋴𓋴𓏏𓂾𓏪	144200	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sst
+5	𓍋𓅓𓂋𓅪	71790	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mr
+
+# sent_id = IBcAUalmuUj8GUehoQjrzeE8lz4
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Fett 1, Honig: 1, Weihrauch: 1, $ḥsb.w$-Paste (?) aus Malachit: 1, getrocknete Myrrhe: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,17] - [77,18]
+1	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓐎𓅱	109950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥsb.w
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓇅𓏤𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓂝𓈖𓅂𓈒𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+12	𓇶	152730	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šwi̯
+13	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAURiKRidRWEP9tHS7fU5mcSU
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,18]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAUScThLz7LEBOvd5h0pQgEPY
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = (Die schmerzende Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,18]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAURBpJdsbL0uBlXGyQnjfFDU
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [77,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAUVDaMKvdbkxRjmrTqQBPUf0
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,1]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcAUdyOUbvJQ0ETsPEeKshWSsE
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen des „Fressens“ in den Beinen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓄑𓏲𓏪	50300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšꜥ.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
+
+# sent_id = IBcAUVLlwW6dDErbnQ8cGLZ7j10
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = „Haarfrüchte“: 1, Früchte/Samen der $tḥwꜣ$-Pflanze: 1, Früchte/Samen der $šꜣms$-Pflanze: 1, Rinderfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,2] - [78,3]
+1	𓍁𓏏𓏥𓁸𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+4	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+7	𓆷𓄿𓄟𓋴𓆰𓏥	151850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣms
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎙𓂧𓏊𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+10	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+11	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcAUThveqAaYEp0lAQMtPzsnGg
+# corpus = sawmedizin
+# src_text_id = LPE46RS2VFCF7CJTO5CRKGDZCY
+# src_text = sawmedizin:Papyrus Ebers//76,19-78,3 ⸗ Eb 603-615: "Heilmittel zum Geschmeidigmachen der Knie"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [78,3]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+

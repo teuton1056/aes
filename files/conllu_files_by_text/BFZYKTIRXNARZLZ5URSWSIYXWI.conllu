@@ -1,0 +1,32 @@
+# sent_id = IBUBd0iaY1VBakDZp3fVwyV8UaY
+# corpus = bbawgrabinschriften
+# src_text_id = BFZYKTIRXNARZLZ5URSWSIYXWI
+# src_text = bbawgrabinschriften:MFA 27.446//Architrav
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer das Anubis, der vor der Götterhalle ist, der auf seinem Berge ist, der Herr der Nekropole, 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓏅𓏏𓊹𓉱	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+6	𓁶𓈋𓆑	600421	_	epitheton-title	_	_	_	_	Translit=tp.j-ḏw⸗f
+7	𓎟𓇿𓂦	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+
+# sent_id = IBUBd6XQCEKLXEnbi2WUIGHWWRw
+# corpus = bbawgrabinschriften
+# src_text_id = BFZYKTIRXNARZLZ5URSWSIYXWI
+# src_text = bbawgrabinschriften:MFA 27.446//Architrav
+# owner = Stefan Grunert
+# text_de = Er möge begraben werden in der Nekropole, (nämlich) der Versorgte durch den Großen Gott
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓈎𓂋𓌠𓋴𓊭𓏏	161940	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qrs
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊻	500066	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ẖr.t-nṯr
+5	𓇋𓌳𓄪𓐍𓅱𓐍𓂋𓊹𓉻	850380	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-nṯr-ꜥꜣ
+

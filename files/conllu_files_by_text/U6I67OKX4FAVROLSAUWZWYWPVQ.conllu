@@ -1,0 +1,74 @@
+# sent_id = IBUBdwYpxGQQ5E70nSDyF8hs2oQ
+# corpus = bbawgraeberspzt
+# src_text_id = U6I67OKX4FAVROLSAUWZWYWPVQ
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 10: CT 625
+# owner = Doris Topmann
+# text_de = O du großes Kollegium des Himmels!
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [8] -  [9]
+1	𓇋𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓍑𓍑𓏌𓏏𓇿𓊹𓏤𓏤𓏤	182390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣḏꜣ.t
+3	𓏏𓅱	851518	PRON	pronoun	PronType=Dem	_	_	_	Translit=tw
+4	𓅨𓂋𓏏	47270	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=wrr
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd72KBP96akHVqqVluO8kWi8
+# corpus = bbawgraeberspzt
+# src_text_id = U6I67OKX4FAVROLSAUWZWYWPVQ
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 10: CT 625
+# owner = Doris Topmann
+# text_de = Ihr habt mich zu euch geholt als einen von euch.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓏎𓈖𓈖	26870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+3	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓅱𓇋𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+5	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+6	𓍿𓈖	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓌡𓏤𓂝	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+9	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdQlDfyRgzEFWrrlzL95rWno
+# corpus = bbawgraeberspzt
+# src_text_id = U6I67OKX4FAVROLSAUWZWYWPVQ
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 10: CT 625
+# owner = Doris Topmann
+# text_de = Das $ḥzꜣ$(-Gewässer ?) des Großen öffnet sich/ist geöffnet für mich, wenn er den Flügel des Opfergottes trägt, der den in seinem Leib zufriedenstellt. (?)
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [11] -  [12]
+1	𓈖𓉿	46060	VERB	verb	_	_	_	_	Translit=wn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓎛𓅭	109590	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥzꜣ.w
+5	𓅨𓂋𓊹	851429	_	epitheton-title	_	_	_	_	Translit=wr
+6	𓂋𓈖𓂢	94400	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rmni̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓆓𓈖𓎛𓆃	184370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏnḥ
+9	𓊵𓏏𓊪𓊹	856944	PROPN	entity-name	_	_	_	_	Translit=Ḥtp
+10	𓊵	111230	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥtp
+11	𓇋𓏶	25130	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jm.j
+12	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdy2oTHiZYUo6ux77iKPRGWw
+# corpus = bbawgraeberspzt
+# src_text_id = U6I67OKX4FAVROLSAUWZWYWPVQ
+# src_text = bbawgraeberspzt:〈untere Wandfläche〉//T 10: CT 625
+# owner = Doris Topmann
+# text_de = Ich will hinausgehen, damit ich Weißbrot empfange.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [14]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓊏𓊪	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓏏𓏑𓌉𓏙	168830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-ḥḏ
+

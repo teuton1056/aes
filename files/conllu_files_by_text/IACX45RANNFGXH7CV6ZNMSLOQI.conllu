@@ -1,0 +1,35 @@
+# sent_id = IBUBdWHIiMHLTEBqrqUsAHQBh6I
+# corpus = bbawgrabinschriften
+# src_text_id = IACX45RANNFGXH7CV6ZNMSLOQI
+# src_text = bbawgrabinschriften:Südwand//unterstes Register
+# owner = Stefan Grunert
+# text_de = Ein Langhornrind der Weide.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.77]
+1	𓈖𓎼	89590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ngꜣ.w
+2	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓈘	71850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+
+# sent_id = IBUBd36vNsTiPUK9uoQHLlWEwXY
+# corpus = bbawgrabinschriften
+# src_text_id = IACX45RANNFGXH7CV6ZNMSLOQI
+# src_text = bbawgrabinschriften:Südwand//unterstes Register
+# owner = Stefan Grunert
+# text_de = Das Gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.76]
+1	𓄟𓋴𓏏	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+
+# sent_id = IBUBdQviJQSQ00UNl1Ncb3LAGYs
+# corpus = bbawgrabinschriften
+# src_text_id = IACX45RANNFGXH7CV6ZNMSLOQI
+# src_text = bbawgrabinschriften:Südwand//unterstes Register
+# owner = Stefan Grunert
+# text_de = Entbinde!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.75]
+1	𓋴𓆑𓐍	133780	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sfḫ
+

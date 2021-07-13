@@ -1,0 +1,1051 @@
+# sent_id = IBUBd7or4laPu0y5kcuNSIzVmt4
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Anfang der (Heilmittel, die für Re hergestellt wurden:) Heilmittel, das Re für sich selbst hergestellt hat:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,10]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9Z3W4uE8keXrH25mDBEq1Q
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,14]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd1taBgfhY0psoZflhfqNm88
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Die schmerzende Stelle werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓏠𓈖𓏏𓅪𓏪	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd2OWVDWKQ0vrlR3ev4SQ5CI
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,19]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	_	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd3s83P9DWEwAtO97RQARqCo
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Die schmerzende Stelle werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓏠𓈖𓏏𓅪𓏪	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd8PmfQFme0vwuItvZg2wjK0
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Mehl von $ꜥmꜥꜥ$-Körnern (der Gerste / des Emmers): 1, $šnf.t$-Früchte: 1, Gänsefett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,20]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂝𓅓𓂝𓂝𓈒𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈙𓈖𓆑𓏏𓈒𓏥	156130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnf.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+8	𓅬	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd5AixWSlgUvHiMu5OlirX9c
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zu irgendeiner Masse zusammengeschlossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,21]
+1	𓐍𓏏𓅓𓋩𓀜	121710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫtm
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd48DJMWKYU0Dq8q3HkMB1Lg
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Mehl vom Johannisbrot: 1, Mehl von $tḥwꜣ$-Pflanzen: 1, Mehl vom "Stechholz": 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,22] - [46,23]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓍘𓎛𓍯𓄿𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd3i1I13Cj08lovXW1Xdf1lo
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen mit "Selbstentstandenem" vom Dattelsaft.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [46,23]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆣𓂋𓆓𓊃𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+
+# sent_id = IBUBd31ce6CS1keVqbur2nluOcQ
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,4]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBdwa1YALfVEjLldlXQpBMGOk
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,4]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd9QS2rWPxkWwlUuhJ6RfR9c
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Jede schmerzende Stelle werde darüber verbunden, (verursacht) durch einen Krankheitsauslöser (?) (oder) durch eine Krankheitsauslöserin (?), durch die Einwirkung (eines Gottes/Toten) (oder) durch irgendeine Sache.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,4] - [47,5]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓏠𓈖𓏏𓅪𓏥	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓏲𓐍𓂧𓏏𓐎𓏫	49390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḫd.t
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓊨𓏏𓂝𓏤	125160	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-ꜥ
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+14	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBdxhmdEU7JUBdqWkwxHpC6KY
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Samen vom Koriander: 1, Samen/Früchte der $ḫꜣs.yt$-Pflanzen: 1, $sꜥꜣm$-Pflanzen: 1, Samen/Früchte der $šꜣms$-Pflanze: 1, "Haarfrüchte": 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,6] - [47,7]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓆷𓄿𓏲𓆰𓏥	151280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+5	𓆼𓄿𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓋴𓉻𓂝𓄿𓅓𓆰𓏥	128700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥꜣm
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+10	𓆷𓄿𓄟𓋴𓆰𓏥	151850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣms
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓍁𓏏𓏥𓁸𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+13	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+14	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdxGq2u667EzbiwKbPuOnOcI
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,7] - [47,8]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd53nvQWYEUfTuNU1Tb3tkeQ
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = werde mit diesem Honig vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,8]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇑𓇑𓈖𓈖	500001	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn-n
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bj.t
+
+# sent_id = IBUBd9Fg6zRFhESMjnFvQWuGonI
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = (Die schmerzende Stelle) werde darüber verbunden, so dass er sich sofort wohlfühlt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,8]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBd6keinBjDUZhvwGrKnLp63U
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Was jeden anbetrifft, für den dieses Heilmittel hergestellt wurde bei irgendwelchen Schmerzen im Kopf, bei irgendeiner schlimmen, üblen Sache: Er wird sich sofort wohlfühlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,8] - [47,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓁹𓂋𓏲	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+6	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+7	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓍋𓅓𓂋𓏏𓅪𓏥	72000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+15	𓎟𓏏𓏛𓏥	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+16	𓃀𓇋𓈖𓏏𓅪	54605	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=bjn
+17	𓈋𓅱𓏏𓅪	182840	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḏw
+18	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+22	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBdwCWS0tdIE3bocX25BOQ0fo
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Heilmittel zum Beseitigen einer Einwirkung im Kopf:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,10]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓊨𓏏𓂝𓏤𓅪𓏥	125160	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-ꜥ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBUBdzIeyYOTO09zjOrBaOH1g3A
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd5bGQkgsH0S9uQdmQf3jmZ8
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Samen vom Dill: 1, Früchte/Samen der $ḫꜣs.yt$-Pflanze: 1, Samen vom Koriander: 1, Konyza (?): 1, "Stechholz": 1, Eselsfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,13] - [47,14]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓇋𓐛𓅓𓋴𓏏𓆰𓏥	26440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jms.t
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+5	𓆼𓄿𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+8	𓆷𓄿𓏲𓆰𓏥	151280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓇋𓆛𓈖𓈖𓎢𓆰𓏥	27520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnnk
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+13	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+14	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+15	𓉻𓂸𓃩𓄛	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+16	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd14ZOFJVo0JIsFd3QKu03QY
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für den Schmerz in der "Hälfte des Kopfes":
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍋𓅓𓂋𓏏𓅪𓏥	72000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐛𓏤𓁶𓏤	858550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs-tp
+
+# sent_id = IBcAIwnwPWiQN0JdvBa8RAhKAQI
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Schädel des Welses.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,14] - [47,15]
+1	𓆓𓈖𓈖𓏏𓁶	184340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏnn.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓈖𓂝𓂋𓆟	80570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nꜥr
+
+# sent_id = IBcAI64pnmuXFkzYlgHQbhSDY2M
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,15]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBUBdQxwYKUQbkchtiCJF7z3E84
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Kenntnis dessen, was aus/mit der Rizinuspflanze gemacht werden (kann), als etwas, das in Schriften der alten Zeiten gefunden wurde, (und) das etwas für die Menschen Nützliches/Wirksames (ist):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,15] - [47,16]
+1	𓂋𓐍𓏛	95640	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rḫ
+2	𓁹𓂋𓏏𓏪	28590	NOUN	substantive	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jr.yt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂧𓅠𓅓𓆮	181210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dgm
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓅠𓅓𓇋𓇋𓏏𓏥	167210	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=gmi̯
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓏞𓏛𓏥	450097	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=zẖꜣ.w
+9	𓇋𓇩𓋴𓅱𓏏𓆰𓏛𓏥	31320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jz.wt
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓅜𓐍𓏏𓏛𓏥	217	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBd7HyfN8EZEGrmR08WhM2HlY
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Seine (d.h. des Rizinus) Wurzeln werden im Wasser zerstoßen
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,16] - [47,17]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆞𓄿𓀜𓏏𓏲	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+3	𓏠𓈖𓏌𓅱𓏏𓆱𓏥	70220	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mny.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBdQdXDHTjQkO8k7qGv06BVwo
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = so wird er sofort gesund, als ob er (wörtl.: wie einer, der) nicht krank war.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,17] - [47,18]
+1	𓋴𓈖𓃀𓏛𓐍𓂋	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+7	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2FMK1wbU0yym47BTrT2PcU
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Das (dient dem) Beseitigen des Leidens im Bauch des Mannes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,19]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓆼𓄿𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣ.t
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcAJAdwY8sfd0CPp5WmY6RDh04
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,20]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcAJGbR4iOJOUQngWKpYqFiYoA
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,20]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAJJ3SeG4ULU5PgaUzLcEZ3sI
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = werde in Öl/Fett gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,20]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcAJBUaUd1TC0HOmHnxkCgRS9I
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = So soll die Frau ihren Kopf damit salben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [47,21]
+1	𓐍𓂋	400037	PART	particle	_	_	_	_	Translit=ḫr
+2	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+3	𓐛𓊃𓀜	168280	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd7VdrVm9vEZEpPijNW6DFg8
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = (Dieser Spruch ist) wirklich vortrefflich, Millionen Mal (erprobt)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,2] - [48,3]
+1	𓍱𓏤𓏛𓏥𓌷𓂝𓏛	851592	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šs-mꜣꜥ
+2	𓁨𓏤	109250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḥ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBUBdWcstrTdtkKxkS1W6gldQdg
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Zittern im Kopf.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓂧𓄿𓅱𓏏𓐎𓏥	177700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dꜣw.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBUBd3BFwHnOQkCjsChfUKQsIj4
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Wenn der Kopf eines Mannes zittert, dann sollst du deine Hand an seinen Kopf legen,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,3] - [48,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂧𓄿𓅯𓐎	177620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dꜣ
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓐍𓂋	400037	PART	particle	_	_	_	_	Translit=ḫr
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓎝𓎛𓏛	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQjwQYk29UjorcVQ1KrccGU
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm (ein Heilmittel) bereiten (aus) Natron, mit Öl/Fett zermahlen, Honig (und) Wachs.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,4] - [48,5]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓍖𓈖𓈒𓏪	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+6	𓐩𓏌𓂝	90880	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏ
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+9	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+10	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+
+# sent_id = IBUBd7nMW0y3aUm2jLMB6Q3g7cU
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,5]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd1nqS0ykukEMsHWpbNIFqQQ
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,5]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd4cMXQQJxEpljUbbfSNeLcM
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel für einen Kopf, (wenn) er schmerzt, (und um) die Krankheitsauslöser (?) schwinden (zu) lassen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,5] - [48,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+5	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓋴𓋴𓅬𓄿𓄿	143770	VERB	verb	VerbForm=Fin	_	_	_	Translit=szꜣi̯
+8	𓐎𓅪𓏪	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+
+# sent_id = IBUBd7CFlARsdklqhJCMluqNJDI
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, Fettes von $jbw$-Pflanzen: 1, $jbr$-Öl: 1, Schilfrohr: 1, Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,6] - [48,7]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓆓𓂧𓄿𓏯𓏛	186100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏdꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇋𓃀𓏲𓆰𓏥	23690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbw
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓇋𓃀𓂋𓇋𓈒𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓇋𓋴𓋴𓋴𓆰𓏥	31310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz.w
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd8wRja4iPkdQgAa6EhsvtuQ
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,7]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBd7jYVmDYQE3Kupz4KerFUNg
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,7]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBd4vI3Kv1PksYtAzWn4PH6EE
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,7]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBdQfsIWBJukQypR4NJRjbQGQ
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel für einen Kopf, (wenn) er schmerzt, (und um) die Krankheitsauslöser (?) schwinden (zu) lassen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,7] - [48,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+4	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓋴𓋴𓅬𓏏𓂻	143770	VERB	verb	VerbForm=Fin	_	_	_	Translit=szꜣi̯
+7	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+
+# sent_id = IBUBd3ySISR750WFncsEBNdijWs
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, Kreuzkümmel: 1, Wacholderbeeren: 1, Gänsefett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,8]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+6	𓏲𓂝𓈖𓐎𓆮	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+9	𓅬	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdyIt9xbGZ0r0oP3jnF4xZlo
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,9]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBd5qTMZjOzEVulVHtgQW8CI8
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,9]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd1Y700x01E8js3Sikh3NBE8
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln des Kopfes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBUBd56e3TB9LEDXgUgrxw9WQ74
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Kampferöl (?): 1, $jbsꜣ$-Pflanzen: 1, $gnn$-Teil vom $ẖsꜣ.yt$-Balsam: 1, Weihrauch: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,9] - [48,10]
+1	𓍘𓀻𓋴𓏌𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓃙𓏤𓐟𓏤𓆰𓏥	23930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbzꜣ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎼𓈖𓈖𓈒	167560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gnn
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓄡𓋴𓇋𓇋𓏏𓁸𓈒𓏥	124590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖsꜣ.yt
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd6N0EKFlxkAUnIpLQ4gFPRw
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit täglich eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,10]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+3	𓇳𓏤𓎟𓏏	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBdyVnprdkoEdBlSC5U7GEkFU
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Das (dient der) Behandlung des Kopfes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,10]
+1	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd7WXoG6txkBRtFhG87rzHYI
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBdQXZKSAI3EOTriS11PNifqM
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Bestes (?) vom Weihrauch: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,11]
+1	𓏃𓈖𓏏𓏏	118890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫnt.jt
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdQgT8ChUh0zQsvY2MkKeiJk
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Gesundmachen des Kopfes, (wenn) er schmerzt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓋴𓈖𓃀𓏛	144100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssnb
+4	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+5	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd32z5HAlsk1bv17PwC7Uqwg
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Schilfrohr: 1, Wacholder: 1, Koniferenharz: 1, $pꜣꜥr.t$-Holz (?): 1, Weihrauch: 1, Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,12] - [48,13]
+1	𓇋𓇩𓋴𓏲𓆰𓏥	31310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz.w
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓏲𓂝𓈖𓐎𓆮	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎙𓂧𓏌𓏥𓂝𓈙𓐎𓆮	42070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḏ-ꜥš
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓊪𓅯𓄿𓂝𓂋𓏏𓆱𓈒𓏥	59100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣꜥr.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd8u9TsUBF0BQtzkOH18Vn58
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,13]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBd1R6qeMei0DIvyT0NhUkqlc
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde an den Kopf gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,13]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBUBd4vLyySJ3kXFqCAaWpG4gDE
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBdyuPOse7x0tuvvpQMUOF0NA
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,14]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBdwMaLjec90dWjGL7dotjNOA
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde an den Kopf gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,14]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBUBd8k7xzPISUQ7hZnqdiesQtU
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Kühlen des Kopfes, (wenn) er schmerzt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,14] - [48,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓈎𓃀𓃀𓏁𓈗	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+4	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+5	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1xkykYVz0naujXmWYcTSaw
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ocker: 1, Weihrauch: 1, „Fauliges-Holz“-Droge: 1, $wꜣnb$-Pflanzen: 1, Kampferöl/-holz (?): 1, Geweih des Damhirschs: 1, Gummiharz: 1, („weibliches“) Natron: 1, Lehm des Töpfers: 1, Johannisbrot: 1, Wasser: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,15] - [48,17]
+1	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓆱𓂝𓍯𓄿𓈒𓏥	860327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ꜥwꜣ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓍯𓄿𓈖𓃀𓆰𓏥	42890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣnb
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓍘𓀻𓋴𓈒𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓂧𓃀𓄏	178290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=db
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓉔𓈖𓈖𓄛	98830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnn
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+15	𓅯𓇋𓇋𓏏𓈒𓏪	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+16	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+17	𓊹𓂋𓇋𓇋𓏏𓈒𓏥	90540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.yt
+18	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+19	𓄲𓈖𓏌𓏥	178620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbn
+20	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+21	𓀨𓏲𓂝𓀀	162500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qd.w
+22	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+23	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+24	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+25	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+26	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdzbodz2n70GLk8lcXXk9Qk4
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,17]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBdWKfNqLFXUDot9uSQE1QcVw
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde an den Kopf gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,17]
+1	𓂝𓅱	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+
+# sent_id = IBUBd4LWIhFthURuppyRTuA7U94
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für den Kopf und für die Schläfe:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,17] - [48,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓄥𓄿𓁸	134360	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=smꜣ
+
+# sent_id = IBUBd98U0PQhA0eQh0lMS8FDvf0
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,20]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBdxklPn7bdUUQl1MQHFUWtGw
+# corpus = sawmedizin
+# src_text_id = VHKSDEIJSJEF7GWX7UIF6FBAZY
+# src_text = sawmedizin:Papyrus Ebers//46,10-48,20 ⸗ Eb 242-260: Die "Göttermittel", Rezepte gegen Kopfschmerzen, das "Rizinus-Buch"
+# owner = Lutz Popko
+# text_de = Werde an die Schläfe gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,20]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄥𓄿𓁸	134360	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=smꜣ
+

@@ -1,0 +1,337 @@
+# sent_id = IBUBd9EdKQUmDEyhhksc3Iw5mtY
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Its walls pierced the sky,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊅𓏪	27180	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jnb
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂧𓌪𓈖	179180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dm
+5	𓇯𓏏𓏤	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBdyLx7fPkcETVhq8OVrfqPKo
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the dug-out lake has reached the river,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓈙𓈇	854557	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=š
+2	𓆷𓄿𓂧𓂡	152150	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=šꜣd
+3	𓄖𓂻𓈖	61370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓏏𓂋𓅱𓈙𓈗	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
+
+# sent_id = IBUBd1TiIxJDOkfYkfQGQq1kXdg
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the portals have broken through the firmament with white Turah limestone.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6] - [A.7]
+1	𓋴𓃀𓇼𓉐𓏥	131200	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbꜣ
+2	𓏏𓐍𓈖𓈖𓁺	173320	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tḫn
+3	𓃀𓄑𓈟𓇯	856573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.wt
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇋𓈖𓂋𓊌𓌉𓆓𓇶	27640	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jnr-ḥḏ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓂋𓏤𓄫𓇋𓇋𓊖𓏏𓏤	92700	PROPN	entity-name	_	_	_	_	Translit=Rʾ-ꜣw
+
+# sent_id = IBUBdWMJlUo1LEdtviMK74n5JOU
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May "Welcome" be said to him by the great ones of Abydos.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.12]
+1	𓆓𓂧𓏏	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂻𓅱	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+5	𓅓𓊵𓏏𓊪	500371	ADV	adverb	_	_	_	_	Translit=m-ḥtp
+6	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓅨𓂋𓀭𓏪	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+8	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+9	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBd8RoMZNefEpTrRfWcXWKtLM
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May they give him pure offerings from/together with (?) the following of Osiris.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.16] - [A.17]
+1	𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊵𓏏𓊪𓏒𓈓	111360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥtp.t
+6	𓃂𓏏	400114	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥb
+7	𓅓𓂣𓏤	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+8	𓌞𓋴𓀭𓏪	155040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd0sJc3QZ209kpb3PYGZKXBE
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = may Osiris advance his place more than (that) of the great ones who are in the sacred land.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.17]
+1	𓋴𓏃𓈖𓏏𓂊	142720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫnti̯
+2	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅨𓂋𓀭𓏪	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+7	𓏶𓅱𓏪	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+8	𓇾𓈘𓂦𓈉	169370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tꜣ-ḏsr
+
+# sent_id = IBUBdW4IHifxH0ojnLQkeKI6WvM
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May he reach the council of the god, may he follow him on all his pure ways in the sacred land.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.20]
+1	𓋴𓊪𓄭𓂋𓂻	132830	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍑𓍑𓏏𓆓𓈀𓀭𓏪	182390	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏꜣḏꜣ.t
+4	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+5	𓌞𓂻	155000	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šms
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓈐𓈐𓈐	42490	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wꜣ.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+12	𓃂	400114	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=wꜥb
+13	𓏶𓏏	25130	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=jm.j
+14	𓇾𓈘𓂦𓈉	169370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tꜣ-ḏsr
+
+# sent_id = IBUBdyZ2Pof5sExEta32QTrFbIU
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified assistant seal-bearer Mer{er}y, born of Menkhut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.21]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓋨𓏤𓅱𓌨𓂋𓂝𓏤	400130	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-ẖr.j-ꜥ
+3	𓌻𓂋𓂋𓇋𓇋	702346	PROPN	entity-name	_	_	_	_	Translit=Mrry
+4	𓄟	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+5	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+6	𓏠𓈖𓐍𓏏𓍊𓏥𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBYBRY6HaaUCAEUCvOJJlHNF0Qs
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His sister Tut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏏𓏐𓏏𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBYBRWsYIbL8RUPUiZM3xBLm7VM
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Heru-user.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓅃𓄊𓋴𓂋	_	X	unknown	_	_	_	_	_
+
+# sent_id = EMAENDM2ARGNBM7O4M2FVGXNCI
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Nechenem-oil, Antiu, Tuat-oil.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.4]
+1	𓈖𓐍𓈖𓌰𓅓	87760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nẖnm
+2	𓂝𓈖𓅂	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+3	𓏏𓍯𓏏	170270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=twꜣ.wt
+
+# sent_id = IBUBd5vGbkXRvkUJiBQcOX16snA
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = For your noble ka!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.6]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓀻	550395	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=špss
+
+# sent_id = IBUBd9cQtwoM0kgQvJZXsc4f8qw
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved wife, the dignified one, Menkhut, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.7]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓄪𓐍𓏏	25100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmꜣḫ.wt
+6	𓏠𓈖𓐍𓏏𓍊𓏥	_	X	unknown	_	_	_	_	_
+7	𓌳𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBdQi0vuWMskswmyldDxWCL0E
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Heru-user.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.8]
+1	𓅃𓄊𓋴𓂋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd690CUJT6kz7gROLBcFIiNw
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Set-antef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.9]
+1	𓊃𓏏𓏎𓈖𓏏𓆑	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5vMeoqZmEvOjG7CCJKWOjk
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Festive aromatic oil. Resinous oil. Hekenu-oil. Finest oil of the cedar (or pine) tree. Finest Libyan oil.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓋴𓍿𓐎𓎱	149100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯj-ḥꜣb
+2	𓊃𓆑𓏏𓐎	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+3	𓎛𓎡𓏌	110870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkn.w
+4	𓄂𓏏𓏏𓂝𓈙𓐎	851494	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tjt-n.t-ꜥš
+5	𓄂𓏏𓏏𓈖𓏏𓄟	851495	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tjt-n.t-ṯḥn.w
+
+# sent_id = IBUBd67VGZGDtEzmgGdzc922yuc
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The servant Tetji.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓍛𓏏𓏤	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓏏𓍿𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7HzD2NRg0qQlaZCfwxxpno
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The servant Satsobek.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓍛𓏏𓏤	104810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓆊𓅭𓏏	400186	PROPN	entity-name	_	_	_	_	Translit=Zꜣ.t-Sbk
+
+# sent_id = IBUBd6OXbYgAfEralr9FsJWLzb0
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His wife Sensenet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓌢𓈖𓋴𓌢𓈖𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxZz65xDkka8hYE3GX7EYKc
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Bread, beer (and) all things.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.7]
+1	𓈘𓐍𓐎	_	_	_	_	_	_	_	_
+2	𓏏𓏐𓏒	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+3	𓏊𓏪	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBYBRQ0asIMcTklfmojFf8E4o7s
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The diginifed Antef.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.8]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓏎𓈖𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+
+# sent_id = IBUBdz2kGWQLOUdZnd0tg6QQ6Ws
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Bread and beer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.9]
+1	𓏏𓏐𓏒	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+
+# sent_id = IBUBdxux5C5680CQgFL9AVD9Hi0
+# corpus = sawlit
+# src_text_id = EM23AMK4FNDGPLTEWHFVNTLWR4
+# src_text = sawlit:Stele des Mery (Louvre C 3 ⸗ AE 3)//〈Stele des Mery (Louvre C 3)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Bread and beer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.11]
+1	𓏏𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓏊𓏒	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+

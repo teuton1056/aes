@@ -1,0 +1,49 @@
+# sent_id = IBUBdW9ErBBs2kOwpfma6E3QtQk
+# corpus = sawlit
+# src_text_id = OI7PPQYVXRFULHD4GRJKLKU6VA
+# src_text = sawlit:Stele des Maati (New York MMA 14.2.7)//〈Stele des Maati (New York MMA 14.2.7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was one beloved of his lord, his praised.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌸𓇋𓇋𓎟𓆑	850897	_	epitheton-title	_	_	_	_	Translit=mr.y-nb⸗f
+3	𓎿𓇋𓇋	109750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥz.y
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdz1vmSHUAUXcj7OhjGIgoJM
+# corpus = sawlit
+# src_text_id = OI7PPQYVXRFULHD4GRJKLKU6VA
+# src_text = sawlit:Stele des Maati (New York MMA 14.2.7)//〈Stele des Maati (New York MMA 14.2.7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was one beloved of his overseer, (i.e.) the royal chamberlain and overseer of the treasury Bebi.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [3] - [4]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mr.y
+3	𓅓𓂋𓏤𓀀	855661	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jm.j-rʾ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇓𓏏𓌨𓁶𓏤	450367	_	epitheton-title	_	_	_	_	Translit=ẖr.j-tp-nswt
+6	𓅓𓂋𓏤𓋨𓏏	600425	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḫtm.t
+7	𓃀𓃀𓇋𓀀	400181	PROPN	entity-name	_	_	_	_	Translit=Bbj
+
+# sent_id = IBUBd4pjGTJndUCLuNEtchLRvAk
+# corpus = sawlit
+# src_text_id = OI7PPQYVXRFULHD4GRJKLKU6VA
+# src_text = sawlit:Stele des Maati (New York MMA 14.2.7)//〈Stele des Maati (New York MMA 14.2.7)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = He, however, is one who causes air to be breathed in every house.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [4] - [5]
+1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓂋𓂞	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋴𓋴𓌢𓈖𓂊𓀀	144080	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssn
+5	𓊡𓅱𓈓	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+8	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+

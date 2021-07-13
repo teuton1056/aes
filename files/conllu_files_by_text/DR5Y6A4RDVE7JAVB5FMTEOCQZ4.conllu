@@ -1,0 +1,227 @@
+# sent_id = IBcAQNc69FRJyUinsKKTGQLSl8c
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Beseitigen von Geschwülsten am Leib eines Mannes, in allen (möglichen) Körperteilen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,22] - [72,11]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓃀𓈖𓏌𓅱𓏏𓐎𓏥	55640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bn.wt
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+12	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcAQHSacEiHdUbGo3Q7LMeEjKo
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = $sk.j$-Mehl von der Tenne: 1, unterägyptisches Salz: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,11] - [72,12]
+1	𓋴𓎝𓎢𓏭𓈒𓏥	146730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sk.j
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈀𓈖𓉐𓈒𓏥	62550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏn
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQNHoNbSTSUsyifS9EYlDVK8
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQNEASbfrX00oiMeLL6aWWpI
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,13]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcAQEhLurx39EsVkz0XnfBkRFQ
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = Werde getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,13]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+
+# sent_id = IBcAQE9wWWBr6EmuoXDrgemjhAw
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Quetschungen der Geschwülste an den Zähnen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓋴𓈞𓅓𓏲𓍖𓏪	140730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḥm
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓃀𓈖𓏌𓅱𓏏𓐎𓏥	55640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bn.wt
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓄑𓏥	23830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jbḥ
+
+# sent_id = IBcAQL0QEajuMEiVhQ5avPeBssk
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = Kampferholz: 1, Gummiharz: 1, Honig: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,14]
+1	𓀻𓏤𓈒𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQD5ZN41ds0Dpr7D2BGvsVa0
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQLF0mDuGkEeHoZWzJzPtKQ0
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = (Mittel zum) Beseitigen von Geschwülsten an den Zähnen (und) zum Wachsen-Lassen von Fleisch:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,14] - [72,15]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓃀𓈖𓏌𓅱𓏏𓐎𓏥	55640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bn.wt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄑𓏥	23830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jbḥ
+5	𓋴𓂋𓂧𓏏𓌗𓏛	139920	VERB	verb	VerbForm=Fin	_	_	_	Translit=srd
+6	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcAQIfqynawzksPuQ7QOzbdkxQ
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = $bsbs$-Pflanzen: 1, Geritzte Sykomorenfrüchte: 1, $jns.t$-Pflanzen: 1, Honig: 1, Weihrauch: 1, Wasser: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,15] - [72,16]
+1	𓃀𓋴𓃀𓋴𓈒𓏥	57440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bsbs
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓈖𓈎𓂝𓅱𓏏𓂷𓈒𓏥	89040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nqꜥ.wt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓇋𓆛𓈖𓋴𓏏𓆰𓏥	27830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jns.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQHB2vQ6DWUFKoyj1mir8K9c
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = Werde gekaut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,16]
+1	𓄡𓊪𓂝𓀁	122930	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖpꜥ
+
+# sent_id = IBcAQPrYNfs3hETLrBTYOl2NHSg
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQEcIHCSQbUGKtaYQDPdNW88
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = $tjꜥm$-Pflanzen: 1, $jns.t$-Pflanzen: 1, Weihrauch: 1, $ꜥmꜥꜥ$-Körner (der Gerste / des Emmers): 1, $nwꜣn$-Pflanzen: 1, Sellerie: 1, Wurzel des Kampferbaumes: 1, Konyza (?): 1, $gw$-Gras: 1, Johannisbrot: 1, Wasser.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,16] - [72,18]
+1	𓍘𓂝𓅓𓆰𓏥	169940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tjꜥm
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇋𓆛𓈖𓋴𓏏𓆰𓏥	27830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jns.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓂝𓅓𓂝𓂝𓆰𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓈖𓍯𓄿𓈖𓆰𓏪	81190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nwꜣ
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓍯𓄿𓃀𓆱	42770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣb
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓍘𓀻𓋴𓈒𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+16	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+17	𓇋𓆛𓈖𓈖𓎢𓆰𓏥	27520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnnk
+18	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+19	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+20	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+21	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+22	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+23	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcAQIRwVmL33UwBpdhF1WXtME4
+# corpus = sawmedizin
+# src_text_id = DR5Y6A4RDVE7JAVB5FMTEOCQZ4
+# src_text = sawmedizin:Papyrus Ebers//72,10-72,18 ⸗ Eb 551-555: "Heilmittel gegen Geschwülste am Leib"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,18]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+

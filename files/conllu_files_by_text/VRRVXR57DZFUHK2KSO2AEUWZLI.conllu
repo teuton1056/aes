@@ -1,0 +1,37 @@
+# sent_id = IBUBd93GNcz69U9brfnKCnWefI4
+# corpus = bbawgrabinschriften
+# src_text_id = VRRVXR57DZFUHK2KSO2AEUWZLI
+# src_text = bbawgrabinschriften:Südwand//Bildbeischriften
+# owner = Stefan Grunert
+# text_de = Sein Sohn Chenu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐍𓈖𓏌𓅱	450106	PROPN	entity-name	_	_	_	_	Translit=Ḫn.w
+
+# sent_id = IBUBd60VT2aZbU7JnjnevI30bbo
+# corpus = bbawgrabinschriften
+# src_text_id = VRRVXR57DZFUHK2KSO2AEUWZLI
+# src_text = bbawgrabinschriften:Südwand//Bildbeischriften
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+2	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+
+# sent_id = IBUBdwqL8ao2okQrkpMMeK5F4gU
+# corpus = bbawgrabinschriften
+# src_text_id = VRRVXR57DZFUHK2KSO2AEUWZLI
+# src_text = bbawgrabinschriften:Südwand//Bildbeischriften
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+2	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+

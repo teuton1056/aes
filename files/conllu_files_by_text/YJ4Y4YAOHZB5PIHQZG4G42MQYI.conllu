@@ -1,0 +1,27 @@
+# sent_id = IBUBdxmZneC540gTnfQEvQbC7Wg
+# corpus = bbawgrabinschriften
+# src_text_id = YJ4Y4YAOHZB5PIHQZG4G42MQYI
+# src_text = bbawgrabinschriften:Durchgang zum 3. Raum//Südwange
+# owner = Stefan Grunert
+# text_de = Die Verwalterin des Königsvermögens, seine Frau Chenut.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 1.29⁝1] -  [Text 1.29⁝2]
+1	𓇓𓏏𓂋𓐍	95750	_	epitheton-title	_	_	_	_	Translit=jr.jt-jḫ.t-nswt
+2	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓐍𓈖𓅱𓏏	705644	PROPN	entity-name	_	_	_	_	Translit=Ḫn.wt
+
+# sent_id = IBUBd2CWFHeSNUWyp9Dw1NSC7xs
+# corpus = bbawgrabinschriften
+# src_text_id = YJ4Y4YAOHZB5PIHQZG4G42MQYI
+# src_text = bbawgrabinschriften:Durchgang zum 3. Raum//Südwange
+# owner = Stefan Grunert
+# text_de = Der Schreiber und Aufseher der Totenpriester Ipi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 1.30]
+1	𓏞	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+2	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+3	𓇋𓊪𓇋	450044	PROPN	entity-name	_	_	_	_	Translit=Jpj
+

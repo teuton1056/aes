@@ -1,0 +1,199 @@
+# sent_id = IBUBd22sAQz5GkVkkTFD68OZbT8
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Die Standfläche (?) deines Streitwagens: Sie mögen dir (stets) wohlgesinnt sein, die Fürsten.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto. 2] - [Rto. 4]
+1	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓃛𓏲𓅓𓂝𓄛𓏫	24710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓅓𓂝𓏭𓂋𓏤𓎢𓄿𓃀𓏲𓍘𓇋𓏏𓆱	73010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mrkbt
+7	𓆮𓅓	550093	ADJ	adjective	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜣm
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+12	𓀗𓀀𓏥	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+
+# sent_id = IBUBdwgsqZNY00LTqMxP0eI34T4
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Was die Stützstreben (?) deines Streitwagens betrifft: Geißeln eines jeden Fremdlandes (sind sie).
+# findspot = unknown
+# date = NK
+# lineRef = [Rto. 4] - [Rto. 5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+3	𓂝𓏲𓍑𓄿𓏭𓂋𓏤𓀜𓆱𓏥	42250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥḏr
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓂝𓏭𓂋𓏤𓎢𓄿𓃀𓏲𓍘𓇋𓏏𓆱	73010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mrkbt
+8	𓂝𓏲𓏭𓂋𓏤𓍑𓄿𓏲𓏏𓀜𓀀𓏥	39800	VERB	verb	Number=Plur|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥrḏ
+9	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+10	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd5ac7wLvO0zksEQhnWypDnU
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Der Speer deines Streitwagens: Der Schrecken vor dir ist in sie eingedrungen.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto. 11] - [Rto. 12]
+1	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓈖𓂢𓊛	80060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=njw.y
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓅓𓂝𓏭𓂋𓏤𓎢𓄿𓃀𓏲𓍘𓇋𓏏𓆱	73010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mrkbt
+7	𓈖𓂋𓏲𓅿𓀜	85160	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nr.w
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓅧𓈎𓂻	41180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥq
+10	𓅓𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdzAtu0gbWk9EoUjJYAwBBk4
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Das $Ḥrp$-Schwert deines Streitwagens: Es möge (stets) diejenigen in deiner Faust erschrecken, seinen Rachen mit dem Land Syrien füllen (und) das Land Kusch herbeibringen.
+# findspot = unknown
+# date = NK
+# lineRef = [Rto. 12] - [Vso. 1]
+1	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓄑𓏛𓏭𓂋𓏤𓅯𓄿𓏭𓈔𓏥	109060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥrp
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓅓𓂝𓏭𓂋𓎢𓄿𓃀𓏲𓍘𓇋𓏏𓆱	73010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mrkbt
+7	𓁷𓂋𓏲𓐡𓀜	108360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥri̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓈖𓄿𓈖	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+10	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓂧𓏏𓏤𓄹𓅆	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓎔𓏛	854514	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+20	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+21	𓆼𓄿𓃭𓏤𓌙𓈉	119580	PROPN	entity-name	_	_	_	_	Translit=ḫr
+22	𓏎𓈖	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+23	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+25	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+26	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+27	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+28	𓎢𓈙𓌙𓈉	163680	PROPN	entity-name	_	_	_	_	Translit=Kꜣš
+
+# sent_id = IBUBd1r3tfO3dkgjg6f60zGZSxk
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Was das $sd(-qs?)$-Objekt deines Streitwagens angeht: Du mögest (stets) ihre Gebirgspässe durchbrechen.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso. 4] - [Vso. 5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓋴𓂧𓄢𓌟𓏤𓈔	859204	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sd
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓂝𓏭𓂋𓏤𓎢𓄿𓃀𓏲𓍘𓇋𓏏𓆱	73010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mrkbt
+8	𓋴𓂧𓄢𓀜	150110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏ
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓈖𓄿𓇋𓇋	550008	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣy⸗
+11	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+12	𓎼𓄿𓍯𓄿𓏲𓏲𓈐𓂻𓏫	166310	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=gꜣ.t-wꜣ.t
+
+# sent_id = IBUBdxBmabasDUM5gjkv45iI8QU
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Was den $ꜥwn.t$-Schlagstock deines Streitwagens angeht: Er möge (stets jedes) ferne Fremdland plündern.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso. 9] - [Vso. 11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+3	𓂝𓃹𓈖𓏏𓆱	36140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwn.t
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓂝𓏭𓂋𓏤𓎢𓄿𓃀𓏲𓍘𓇋𓏏𓆱	73010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mrkbt
+8	𓂝𓃹𓈖𓏌𓏲𓏛𓀜	36110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥwn
+9	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+10	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+11	𓍯𓄿𓏲𓏲𓈐𓂻	42641	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣ
+
+# sent_id = IBUBdWh2LX8d1kQvrOJCPmrOklY
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Er lässt keine Erben zurück.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso. 12]
+1	𓃀𓏲	55130	PART	particle	_	_	_	_	Translit=bw
+2	𓎝𓎛𓏛	43010	VERB	verb	_	_	_	_	Translit=wꜣḥ
+3	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+4	𓃛𓂝𓂝𓏲𓄯𓏥	22460	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jwꜥ.w
+
+# sent_id = IBUBdQEoh87gdUIjr0vy7wJUxRk
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Was die $Ḏr.t$-Objekte deines Streitwagens angeht: Anath und Astarte (sind sie).
+# findspot = unknown
+# date = NK
+# lineRef = [Vso. 12] - [Vso. 14]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+3	𓂧𓏏𓏤𓆱𓏥	184640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏr.t
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓂝𓏭𓂋𓏤𓎢𓄿𓃀𓏲𓍘𓇋𓏏𓆱	73010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mrkbt
+8	𓂝𓈖𓍘𓇋𓏏𓆇𓆗	38980	PROPN	entity-name	_	_	_	_	Translit=ꜥnt
+9	𓂝𓊃𓍘𓏭𓂋𓏤𓍘𓇋𓏏𓆇𓆗	40880	PROPN	entity-name	_	_	_	_	Translit=Ꜥztr.t
+
+# sent_id = IBUBd0WuWycaUkOerWtDZIWL5mg
+# corpus = sawlit
+# src_text_id = L6F3B5Z5ONA4DIZ5MKZ2WU35WE
+# src_text = sawlit:oEdinburgh 916//Streitwagenhymnus
+# owner = Lutz Popko
+# text_de = Was das $Mḫꜣ$-Lederband deines Streitwagens angeht: Es möge (stets) diejenigen binden, die schlecht sind.
+# findspot = unknown
+# date = NK
+# lineRef = [Vso. 14] - [Vso. 16]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓅓𓂝𓆼𓄿𓍱𓏥	74240	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mḫꜣ
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓏏𓄿𓇋𓇋	550046	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣy⸗
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓂝𓏭𓂋𓏤𓎢𓄿𓃀𓏲𓍘𓇋𓏏𓆱	73010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mrkbt
+8	𓅓𓂝𓆼𓄿𓇋𓏲𓍱𓀜	74230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḫꜣ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+11	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+12	𓃀𓇋𓈖𓅪𓏫	54600	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=bjn
+

@@ -1,0 +1,33 @@
+# sent_id = IBUBd8fWjGRliU01u3yrpy3ZKU8
+# corpus = bbawgrabinschriften
+# src_text_id = PH7LTDSH3ZCLBGGJWV4HB4C22Y
+# src_text = bbawgrabinschriften:Scheintür (Westwand)//Scheintür-Tafel
+# owner = Stefan Grunert
+# text_de = Die Verwalterin des Königsvermögens, die Ehrwürdige Hetep-heres.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇓𓏏𓂋𓐍	95750	_	epitheton-title	_	_	_	_	Translit=jr.jt-jḫ.t-nswt
+2	𓇋𓌳𓄪𓐍	25100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmꜣḫ.wt
+3	𓊵𓏏𓊪𓁷𓂋𓋴	705292	PROPN	entity-name	_	_	_	_	Translit=Ḥtp-ḥr⸗s
+
+# sent_id = IBUBd2qzQzAPs0TjhypgrN8fCgs
+# corpus = bbawgrabinschriften
+# src_text_id = PH7LTDSH3ZCLBGGJWV4HB4C22Y
+# src_text = bbawgrabinschriften:Scheintür (Westwand)//Scheintür-Tafel
+# owner = Stefan Grunert
+# text_de = Tausend an Brot, tausend an, tausend an, tausend an, tausend an, tausend an, tausend an Kleidung, tausend an.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+2	𓏏	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+5	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+6	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+7	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+8	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+9	𓋲	71170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+10	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+

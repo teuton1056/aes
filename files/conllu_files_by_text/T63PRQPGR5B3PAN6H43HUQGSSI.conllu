@@ -1,0 +1,113 @@
+# sent_id = IBUBd3deBWIxPUBarWmkNAtzjuY
+# corpus = sawlit
+# src_text_id = T63PRQPGR5B3PAN6H43HUQGSSI
+# src_text = sawlit:〈03. 〉oGenève 12551//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Nachdem/weil (?) ich Mißhandlungen/Quälereien gesehen (oder: erfahren) habe, sollst du deine Sinne (wörtl.: dein Herz) (gerade) auf das Schreiben setzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rto, 4]
+1	𓌳𓄿𓄿𓈖	66270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈎𓈖𓈎𓈖𓏌𓏲𓏴𓏛𓏫	161450	VERB	verb	_	_	_	_	Translit=qnqn
+4	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+9	𓏞𓏛𓏥	450097	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w
+
+# sent_id = IBUBd6QKzzhJZk9XuUjeyU5GlnU
+# corpus = sawlit
+# src_text_id = T63PRQPGR5B3PAN6H43HUQGSSI
+# src_text = sawlit:〈03. 〉oGenève 12551//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Beobachte du und rette dich vor (Hand)arbeit!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rto, 4]
+1	𓂧𓎼𓄿𓁻	181140	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=dgi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖𓈞𓅓𓀜	86430	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḥm
+5	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓅡𓎢𓏲𓀜𓏛𓏥	53820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣk.w
+
+# sent_id = IBUBd2ZMeVtqD0dngQyBmrCv28A
+# corpus = sawlit
+# src_text_id = T63PRQPGR5B3PAN6H43HUQGSSI
+# src_text = sawlit:〈03. 〉oGenève 12551//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Es ist etwas Ähnliches, wie einer, der loyal ist (wörtl.: es ist das Gleiche von einem, der auf dem Wasser ist). (?)
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rto, 5]
+1	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mj.tjt
+2	𓁷𓏤	108300	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḥr.j
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd3R8rsCWnUgUtv3NTK5FkTQ
+# corpus = sawlit
+# src_text_id = T63PRQPGR5B3PAN6H43HUQGSSI
+# src_text = sawlit:〈03. 〉oGenève 12551//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Lies/Rezitier doch am Ende des (Buches) Kemit;
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rto, 5]
+1	𓄞𓂧𓏛𓀁	854561	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šdi̯
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄖𓏲𓏭	61490	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pḥ.wj
+6	𓆎𓅓𓇋𓇋𓏏𓍼𓏤	164580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kmy.t
+
+# sent_id = IBUBd0bahRsKnEE0hnxRCUwjRuc
+# corpus = sawlit
+# src_text_id = T63PRQPGR5B3PAN6H43HUQGSSI
+# src_text = sawlit:〈03. 〉oGenève 12551//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Er pflegt den Wunsch für einen anderen (schon) zu erfüllen (oder: Er pflegt seine Klugheit (schon) für einen anderen einzusetzen), noch bevor dieser zufrieden hinausgeht. (?)
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso, 2]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁹𓂋𓈖	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓐠𓄿𓂋𓏏𓌗𓀁𓏫	126860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sꜣr.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓎢𓇋𓇋𓀀	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+8	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+9	𓊪𓂋𓏲𓂻𓏥	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓊵𓏏𓊪𓏲𓏛𓏥	111230	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥtp
+
+# sent_id = IBUBd33wWUUyzkoZi46pPZV6ljk
+# corpus = sawlit
+# src_text_id = T63PRQPGR5B3PAN6H43HUQGSSI
+# src_text = sawlit:〈03. 〉oGenève 12551//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Man wird ihn grüßen;
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso, 5]
+1	𓏏𓏲	851185	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓐩𓏌𓀁	90910	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḏ
+4	𓐍𓂋𓏏𓏛𓏫	854534	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫr.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdymccWAioEKpvvkwVLD3Rco
+# corpus = sawlit
+# src_text_id = T63PRQPGR5B3PAN6H43HUQGSSI
+# src_text = sawlit:〈03. 〉oGenève 12551//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Strophenende.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso, 6]
+1	𓂢	167900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+

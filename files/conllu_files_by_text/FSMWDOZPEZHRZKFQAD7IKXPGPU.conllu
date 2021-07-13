@@ -1,0 +1,193 @@
+# sent_id = IBUBd6GCwEkCvEDviB5H2JyzvoE
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Möge er die Wege, die er wünscht, mit Opfer und Speise öffnen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6] - [A.7]
+1	𓄋𓊪𓏴	45640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍯𓄿𓏏𓈐𓏥	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+4	𓌻𓂋𓂋𓏏	72470	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊵𓏏𓊪𓏏	111360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥtp.t
+8	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+9	𓆓𓆑𓏐𓏊	183850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏfꜣ
+
+# sent_id = IBUBd0FoezcGYUQOnk8acjfxKcs
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Mögen ihm die Arme in der Neschmet-Barke auf den Wegen des Westens gegeben werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓂋𓏙𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂝𓂝	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈖𓈙𓏏𓊞𓏤	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+7	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓍯𓏏𓄿𓏏𓈐𓏥	42490	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=wꜣ.t
+9	𓋀𓏏𓈉	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+
+# sent_id = IBUBd0JprRBlt0I0tQ8QHDfGAaE
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Möge er in der Tagebarke segeln.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8]
+1	𓋴𓐪𓂧𓊛	857676	PROPN	entity-name	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=Sqd
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎚𓅱𓏏𓊞	68850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜥnḏ.t
+
+# sent_id = IBUBd3h8pmvr8ESPm2A1BgdxfEU
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Möge er den Jubel aus dem Munde von Tawer hören (beim) Haker-Fest (in) der Nacht der Nachtwache bei der Nachtwache des Horus, des Starken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.10] - [A.11]
+1	𓋴𓂧𓄔𓅓	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉔𓏌𓀊	98730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hn.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓋅	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+8	𓉔𓄿𓎡𓂋𓆱	97720	PROPN	entity-name	_	_	_	_	Translit=Hꜣkr
+9	𓎼𓂋𓎛𓄛	167920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓊃𓇥𓂋𓏏𓁀	150850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḏr.t
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓋴𓇥𓂋𓇋𓇋𓏏𓈖𓏏𓅃𓍲𓈖𓎳	859711	PROPN	entity-name	_	_	_	_	Translit=Sḏr.yt-n.t-Ḥr.w-šn
+
+# sent_id = IBUBd42lKsrUrkgsgRcp5Pjy3lc
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Möge er die schönen Wege an den Öffnungen(?) des westlichen Horizontes durchziehen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.11]
+1	𓂧𓈖𓂧𓈖	180020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dndn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍯𓄿𓏏𓈐𓏥	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+4	𓄤𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+5	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓊪𓎼𓄿𓅱	854511	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=pgꜣ
+7	𓈌𓏏𓏤	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+8	𓋀𓏏𓏏	26150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jmn.tj
+
+# sent_id = IBUBd8H3XLMREEUaukknzUDYmKE
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Mögen ihn Chnum und Heqet, die Altvorderen, die zuvor im Geburtsort von Abydos entstanden waren, verklären, die aus dem Mund des Re selbst gekommen sind beim Weihen von Abydos.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.11] - [A.12]
+1	𓋴𓐍𓅜	127110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣḫ
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓎸𓅱𓁠	123590	PROPN	entity-name	_	_	_	_	Translit=H̱nm.w
+4	𓎛𓈎𓏏𓆏	110310	PROPN	entity-name	_	_	_	_	Translit=Ḥq.t
+5	𓁶𓊪𓂝𓏤	171600	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tp.j-ꜥ.wj
+6	𓆣	858535	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+7	𓌨𓂋𓄂𓏏𓏤	500034	ADV	adverb	_	_	_	_	Translit=ẖr-ḥꜣ.t
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓄟𓐍𓈖𓏏𓁐	75720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msḫn.t
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+12	𓉐𓂋𓂻	60920	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓇳𓏤𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+17	𓆓𓋴	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+20	𓋴𓆓𓂋𓂝	854592	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏsr
+21	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBdyYsdUbeVkobgV3zAGhOoc8
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Mögen sie ihm zusammen mit dem Gefolge des Osiris ein reines Opfer geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.13]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊵𓏏𓏐𓊪𓏏𓏓	111360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥtp.t
+6	𓀆𓈗𓍘𓇋	44430	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜥb
+7	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+8	𓈙𓌞𓋴𓂻𓏨	155040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓊨𓁹𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd7IlPQ7WvEZQpaqEt4mzEgw
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Mögen ihn die in Tawer Befindlichen erheben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.13]
+1	𓋴𓀠	145960	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sqꜣi̯
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓇋𓏶	25120	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jm.j
+4	𓋅	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+
+# sent_id = IBUBdws0WPdO0kpWnkG5OHPajFY
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Möge Osiris seinen Platz hervorheben gegenüber den Großen, die in Tadjeser sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.13] - [A.14]
+1	𓋴𓏃𓈖𓏏	142720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫnti̯
+2	𓊨𓁹𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅨𓀭𓏪	855586	PROPN	entity-name	_	_	_	_	Translit=Wr.w
+7	𓇋𓏶𓅱	25130	ADJ	adjective	Status=Cons	_	_	_	Translit=jm.j
+8	𓇾𓂦𓈉	169370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tꜣ-ḏsr
+
+# sent_id = IBUBdyi9ddPvFEy0jtSsWsiigQU
+# corpus = sawlit
+# src_text_id = FSMWDOZPEZHRZKFQAD7IKXPGPU
+# src_text = sawlit:Stele des Amenemhet (BM EA 567)//〈Stele des Amenemhet (BM EA 567)〉
+# owner = Alexander Schütze
+# text_de = Oh, Lebende, die auf der Erde sind, die wünschen, dass ih〈re〉 Kinder leben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.24]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋹𓅱𓀀𓏪	400614	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥnḫ
+3	𓌑𓇿𓈇𓏤	171650	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tp.j-tꜣ
+4	𓌻𓂋𓂋𓅱	72470	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mri̯
+5	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+6	𓄟𓅱𓀀𓏪	74750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ms
+7	𓋴	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+

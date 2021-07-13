@@ -1,0 +1,2169 @@
+# sent_id = IBUBd3IfMYBMYU5tkGXlGfx8RvE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Ritual(handlungen) des 'Großen Sitzes' (Tempelsanktuar), die vollzogen werden, während der Feste der Erde (und) des Wachens des Herrn (des Königs) in seinem Palast des Lebens (und) Heils.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,1]
+1	𓈖𓏏𓂝𓏤𓏛𓏥	89770	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=n.t-ꜥ
+2	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓊨𓏏𓉐𓅨𓏏𓂋𓉐	125180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-wr.t
+4	𓁹𓂋𓏛𓏫	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓐍𓆑𓏏	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+6	𓎛𓃀𓎳𓏫	103300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥꜣb
+7	𓏌𓏤	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓇾𓈇𓏤𓅆	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+9	𓌘𓁻	95940	VERB	verb	VerbForm=Fin	_	_	_	Translit=rs
+10	𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓎛𓂝𓉥	39850	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥḥ
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+15	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+16	𓌀	43300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣs
+
+# sent_id = IBUBd1W9VHVh802ClUfkjBR3kbo
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Spruchrezitation durch den Obersten Vorlesepriester während des Reinigens des Königs an allen Festtagen ("an den Tagen aller Feste").
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,2]
+1	𓂋𓏤𓆓𓂧𓏛𓏫	853632	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-ḏd
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓌨𓎱𓁷𓂋𓁶𓀀	850117	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t-ḥr.j-tp
+4	𓐍𓆑𓏏	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+5	𓃂𓈗	44430	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜥb
+6	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇳𓏤𓏥	99060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hrw
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓎛𓃀𓎱𓇳𓏫	103300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥꜣb
+11	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBd98zcEGyikWLm52Te9NxGEw
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Spruch des Wassers.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,3]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBdxncUIzeiUwUr8LbidBNyQA
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Oh Wasser, mögest du jede unheilige Unreinheit von Pharao l.h.g. vertreiben!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,3]
+1	𓀞	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓂧𓂋𓀜	180130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓄏𓏤𓏱	36300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥb.w
+6	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+7	𓈋𓅪	182840	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḏw
+8	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+10	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd8RA9AciAkXOicFQ0B4dlbY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Der König gebe ein Opfer (Opferformel); Pharao l.h.g. ist rein!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,5]
+1	𓏙𓊵𓏏𓊪𓏒𓏥	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+5	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+6	𓃂𓈗	44430	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜥb
+
+# sent_id = IBUBd6PucMfRQEdDp86PWHDJv5o
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Mögest du (auch) Pharao l.h.g. reinigen (und) mögest du ihn schmücken, (so) wie du jeden Gott reinigst (und so) wie du jede Göttin schmückst!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,6]
+1	𓋴𓃂𓈗	130010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swꜥb
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+4	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓋴𓐬𓏛	143700	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sẖkr
+6	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+9	𓋴𓃂𓈗	130010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swꜥb
+10	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+11	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+12	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+13	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+14	𓋴𓐬𓏰𓏛𓏥	143700	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sẖkr
+15	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+16	𓏤𓊹𓏏𓆇𓅆	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+17	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBd78vEZJKak7ZjSoNHRi5NMU
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Der König gebe ein Opfer (Opferformel); Pharao l.h.g. ist rein!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,7]
+1	𓏙𓊵𓏏𓊪𓏒𓏥	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+5	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+6	𓃂𓈗	44430	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜥb
+
+# sent_id = IBUBdz2kNAsqrU6kkqZWj8dvjx4
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Hinausgehen des Obersten Vorlesepriesters, (um die Ritualhandlungen) des Morgenhauses des Königs zu vollziehen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,7]
+1	𓍬𓂻	854555	VERB	verb	VerbForm=Fin	_	_	_	Translit=sṯꜣ
+2	𓌨𓎱𓁷𓂋𓁶𓀀	850117	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t-ḥr.j-tp
+3	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓉐𓏤𓇼𓄿𓇋𓇋𓏏𓉐	60890	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-dwꜣ.t
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+
+# sent_id = IBUBdwEGgzSlV0xzj2dRpO3kOho
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Vollziehen aller Ritual(handlungen), die an diesem Orte vollzogen werden.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,8]
+1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓈖𓏏𓂝𓏤𓏛𓏥	89770	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=n.t-ꜥ
+3	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+4	𓁹𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+7	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBd28MZfuw5E1qrRXnnjSyWe0
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Sich Begeben des Königs zu der Kapelle des 'Großen Sitzes'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,8]
+1	𓏲𓍑𓄿𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
+2	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+5	𓉲𓏤𓉐	140250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḥ
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓊨𓏏𓉐𓅨𓏏𓂋𓉐	125180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-wr.t
+
+# sent_id = IBUBdzWkMNdehU7QoWwyRmUJ8uI
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Herbeibringen des Anch-Was aus Fayence für den König.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,9] -  [1,10]
+1	𓅓𓂝𓊄𓂻	74700	VERB	verb	VerbForm=Fin	_	_	_	Translit=mz
+2	𓋹𓌀	853633	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wꜣs
+3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓍘𓎛𓈖𓈒𓏥	176620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥn.t
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+
+# sent_id = IBUBd3WrnSaoHkvLk3YAdOcuOQ4
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Die 'Herren der Kapellen, die an den Grenzen (der Welt) sind' werden seinetwegen triumphieren!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,11]
+1	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎟𓏲𓏥𓎡𓂋𓇋𓏲𓏰𓉐𓏫𓏶𓅓𓏭𓏲𓏫𓇥𓂋𓏲𓏲𓈐𓏥	853634	PROPN	entity-name	_	_	_	_	Translit=Nb.w-kꜣr.w-jm.jw-ḏr.w
+5	𓐙𓌳𓂝𓆄𓊤𓏲𓀁	66730	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd8sZHaWehEVyu4jv161GQi8
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "'Die im Gefolge des Atum sind' (die Götterneunheit) wendeten den Kampf ab (und) machten dem Streit der beiden Rivalen (Horus und Seth) ein Ende!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,12]
+1	𓏶𓅓𓏭𓏲𓏫𓆱𓐍𓏏𓂻𓏏𓍃𓅓𓅆	853635	PROPN	entity-name	_	_	_	_	Translit=Jm.jw-ḫt-Jtm.w
+2	𓆱𓐍𓏏𓂽	854832	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫti̯
+3	𓂚𓄿𓏲𓏛𓀜	39930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜣ
+4	𓉲𓏤𓏛	39630	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥrq
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓂙𓈖𓈖𓏰𓂡𓏥	123760	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ẖnn.w
+7	𓂋𓎛𓎛𓏲𓏭𓅆𓅆	95550	_	epitheton-title	Number=Dual|Status=Abs	_	_	_	Translit=rḥ.wj
+
+# sent_id = IBUBd1lDJvFNwUNpo94BI4klBXk
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Gepriesen ist der König im Leben (und) verjüngt ist der König im Leben!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,14] -  [1,15]
+1	𓇋𓐍𓀢	30850	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jḫ
+2	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓎛𓃹𓈖𓏌𓏲𓀔	103040	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥwn
+6	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBd5HUfKRC4UjiiMZiaUYZZyg
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Pharao l.(h.g.) ist Thot, 'der mit den (Gottes)worten', er lebt wie dieser ('er') lebt!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,15]
+1	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+2	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+3	𓏏𓅝𓏭𓅆	185290	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj
+4	𓌨𓂋𓌃𓏤𓏫	853638	_	epitheton-title	_	_	_	_	Translit=ẖr.j-mdw.w
+5	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+8	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwiUtc5y8U09j54PNQ5YWXI
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "(Denn) Pharao l.(h.g.), er hat das Auge des Horus zu ihm gebracht!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,15]
+1	𓅓𓂝𓎡	64440	PART	particle	_	_	_	_	Translit=m
+2	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+3	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+4	𓏎𓈖𓈖	26870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁹𓈐𓅆	28410	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jr.t-Ḥr.w
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzOq1OxjVkVZoZuSGjQD22E
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Heranbringen lassen des Manchet-Gehänges (und) rezitieren: "Pharao l.h.g. ist lebendig, der Jüngling von Gold!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,17]
+1	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓄚𓈖𓂻	123110	VERB	verb	VerbForm=Fin	_	_	_	Translit=ẖn
+3	𓐙𓌳𓂝𓈖𓐍𓏏𓐢	68820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜥnḫ.t
+4	𓆓𓂧𓌃𓏤𓏫	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+5	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+6	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+7	𓋹𓈖𓐍𓏛𓍘𓏰	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+8	𓐍𓏭𓈖𓋞	851337	_	epitheton-title	_	_	_	_	Translit=ḫy-n-nbw
+
+# sent_id = IBUBdWl04gUTQEbItdYVXwB4mWU
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "(Hier) kommt die Abwehrkraft, (daß) sie die Toten vertreibe, (so daß) die Toten nicht über ihren Bereich (hinaus) gehen können!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,18]
+1	𓇍𓇋𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓈖𓉔𓏏𓏛	85240	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nh.t
+3	𓂋𓏲𓇋𓄿𓂢	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓅓𓏏𓏏𓏭𓅡𓏱𓏥	69320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mwt
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+8	𓅓𓏏𓏏𓏭𓏱𓏥	69320	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mwt
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓇥𓂋	184990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.w
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd6OWVsfZ80omrqa2kZeTlOs
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Jubelt nun Götter!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,18]
+1	𓇋𓉔𓇋𓇋𓀁	853667	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=hj
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdwtGJ6X0dUppqsVsWegW7Jc
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Jubelt nun Göttinnen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,19]
+1	𓇋𓉔𓇋𓇋𓀁	853667	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=hj
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏤𓊹𓏏𓆇𓅆𓏫	90280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr.t
+
+# sent_id = IBUBdzrHJhlODEmCocDnbHzYrxI
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Jubelt nun Himmlische ("im Himmel befindliche")!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,19]
+1	𓇋𓉔𓇋𓇋𓀁	853667	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=hj
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏶𓅓𓏭𓏲𓏫𓏏𓇯	853639	PROPN	entity-name	_	_	_	_	Translit=Jm.jw-p.t
+
+# sent_id = IBUBd6RXNPamYkxAg5Zw30cOz6k
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Jubelt nun Irdische ("auf/in der Erde befindliche")!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [1,19]
+1	𓇋𓉔𓇋𓇋𓀁	853667	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=hj
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏶𓅓𓏭𓏲𓏫𓇾𓏤𓈇	853640	PROPN	entity-name	_	_	_	_	Translit=Jm.jw-tꜣ
+
+# sent_id = IBUBd3qHoxGHTEaWqHmu4fmost4
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "(Denn) Isis' Schutzmacht ist um den Leib von Pharao l.h.g.!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+3	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+4	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+5	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+8	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBdyQdHv0Qt0cwovF7xGtak4k
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Ihr Schutzzauber ist über deinem ganzen Körper, Pharao l.h.g.!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,1]
+1	𓅓𓂝𓎡𓏏𓈇𓏫	76880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mkw.t
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓏏𓍃𓅓𓏛	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+7	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+8	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd8byrbKWEUMAkQcQocq7q3A
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Du sollst ewiglich das Sedfest-Jubiläum begehen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,1]
+1	𓎁𓏏𓏭𓀜	33560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓎛𓃀𓋴𓋴𓂧𓈅𓎱𓇳	103500	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-sd
+4	𓆓𓏏𓇾	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBdwjC1HCSzEOrpjtLOyQvB60
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Das 'Auge des Re' (Sachmet) schützt Pharao l.h.g. (und) der Gott rüstet ihn aus!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,3]
+1	𓁹𓇳𓅆	28380	_	epitheton-title	_	_	_	_	Translit=jr.t-Rꜥw
+2	𓐍𓂤𓏲𓏛	115110	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫwi̯
+3	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+4	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+6	𓋴𓊪𓂧𓇮	133370	VERB	verb	VerbForm=Fin	_	_	_	Translit=spdd
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd08YWpu8WkDUmhPPWWTy1gA
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Horus, Horus 'Sprössling der Sachmet' ist (als Schutz) um den Leib des Pharao l.h.g. herum, der vollständig am Leben ist, (und) ist dem Pharao l.h.g. an seinen Leib gegeben, (wenn) er als Nefertem erscheint!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,3] -  [2,4]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓊕	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓏭	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓇅𓏤𓊌𓈖𓌂𓐍𓏏𓆇𓅆𓏰	853645	_	epitheton-title	_	_	_	_	Translit=wꜣḏ-n-Sḫm.t
+5	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+6	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+9	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+10	𓏏𓍃𓅓𓏛	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+13	𓂋𓂝𓏛	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+14	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+15	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+16	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+17	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+18	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓈍𓂝𓏛	114740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜥi̯
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+22	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓄤𓏏𓍃𓅓𓅆	83860	PROPN	entity-name	_	_	_	_	Translit=Nfr-tm
+
+# sent_id = IBUBd17W0k4OxUsKl1WgcdYdYuU
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Denn er ist die 'Hitze (?) des Re' über ihr (Sachmet), dem 'Bilde des Großen Gottes'!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,4]
+1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+3	𓈙𓅓𓅓𓄹𓈖𓇳𓅆	853646	_	epitheton-title	_	_	_	_	Translit=šmm-n-Rꜥw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓂋𓊪𓏏𓅆𓈖𓏏𓏤𓊹𓅆𓉻𓂝𓏛	853647	_	epitheton-title	_	_	_	_	Translit=rpw.t-n.t-nṯr-ꜥꜣ
+
+# sent_id = IBUBd85UZ8bIkEkcrrdLb1jVdLw
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Die (Löwen)kralle ist auf ihm vom 'Herrn des Schreckens', Nefertem 'der auf seiner Flamme ist'!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,4] -  [2,5]
+1	𓇋𓏲𓂝𓎼𓄿𓇋𓇋𓏏𓄜	41690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥgꜣ.t
+2	𓁷𓏤𓏰	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓎟𓏏𓈖𓂋𓃭𓅆	500911	_	epitheton-title	_	_	_	_	Translit=nb-nr.w
+6	𓄤𓏏𓍃𓅓𓅆	83860	PROPN	entity-name	_	_	_	_	Translit=Nfr-tm
+7	𓁷𓂋𓏲𓈖𓄓𓊃𓏲𓏭𓊮𓆑	853648	_	epitheton-title	_	_	_	_	Translit=ḥr.j-nsr.wy⸗f
+
+# sent_id = IBUBd6ykGgArbEr7oXuxQDicbuk
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Nefertem hat ihn (schon immer) beschützt, 'der auf seiner Flamme ist' hat ihn (schon immer) behütet!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅓𓂝𓎡𓏛𓈖	77020	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mki̯
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓄤𓏏𓍃𓅓𓅆	83860	PROPN	entity-name	_	_	_	_	Translit=Nfr-tm
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓐍𓂤𓄿𓏲𓀜𓈖	115110	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓁷𓂋𓏲𓈖𓄓𓊃𓏲𓏭𓊮𓏥𓆑𓅆	853648	_	epitheton-title	_	_	_	_	Translit=ḥr.j-nsr.wy⸗f
+
+# sent_id = IBUBd7WYHy6iuE1cg8cmzWwUt8k
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Dessen Abwehrkräfte sind seine Abwehrkräfte (und) seine Schutzmacht ist an seinem eigenen Leibe!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,5] -  [2,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓉔𓏏𓏛𓏥	85240	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nh.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈖𓉔𓏏𓏛𓏥	85240	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nh.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓𓂝𓎡𓏏𓏛𓏥	76880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mkw.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzwkWY4OU0WwkAVaWgyYuWk
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Kein Übel kann ihn treffen, (denn) der 'große Gott' ist überall in seinen Gliedern!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,6]
+1	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓐍𓅓𓊊𓂡	117020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫmi̯
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓈋𓅪𓏥	182860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+5	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+6	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+7	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+8	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8ZJPaAO8EFukWZl4WP3pSE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Oh Sachmet (und) Bastet, möget ihr Pharao l.h.g. bewahren vor den Übeln, vor den Mühseligkeiten (und) vor allen unheilvollen Unbilden dieses Jahres!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,6] -  [2,7]
+1	𓇋𓉔𓇋𓇋𓏛	30160	INTJ	interjection	_	_	_	_	Translit=jhj
+2	𓌂𓐍𓏏𓆇𓅆	142250	PROPN	entity-name	_	_	_	_	Translit=Sḫm.t
+3	𓎰𓏏𓆇𓅆	53640	PROPN	entity-name	_	_	_	_	Translit=Bꜣs.tjt
+4	𓈖𓈟𓅓𓏛𓀜	86430	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+5	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+6	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+7	𓋹	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓄏𓏤𓅪𓏥	36300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥb.w
+10	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+11	𓂧𓁷𓂋𓅪𓏥	180450	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=dḥr.t
+12	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+13	𓈖𓈙𓈖𓏰𓂡𓏥	88790	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nšn.j
+14	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+15	𓈋𓅪𓏥	182840	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ḏw
+16	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+17	𓆳𓏏𓏤	94920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.t
+18	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBd9h8AB1KMU18tycXPSmqVP8
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Nefertem schützt Pharao l.h.g., der 'große Gott' hält seinen Körper gesund!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,7]
+1	𓄤𓏏𓍃𓅓𓅆	83860	PROPN	entity-name	_	_	_	_	Translit=Nfr-tm
+2	𓐍𓂤𓏲𓏛	115110	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫwi̯
+3	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+4	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+6	𓋴𓏲𓍑𓄿𓏛	130960	VERB	verb	VerbForm=Fin	_	_	_	Translit=swḏꜣ
+7	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1jeaKRplEQ1reo516jFZxM
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Horus, Horus 'Sprössling der Sachmet' ist (als Schutz) um den Leib des Pharao l.h.g. herum, der vollständig am Leben ist!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,7]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓊕	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓏭	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓇅𓏤𓊌𓈖𓌂𓐍𓏏𓆇𓅆	853645	_	epitheton-title	_	_	_	_	Translit=wꜣḏ-n-Sḫm.t
+5	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+6	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+9	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+10	𓏏𓍃𓅓𓏛	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBd0Wv6I2WFUh4ia4wWcv5BNE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Ihre Kensu-Farbe (Ocker?) ist an ihrem Kopf, ihre rote Farbe an ihren beiden Füßen, (wenn) sie daherkommt als 'Licht des Himmels'!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,8] -  [2,9]
+1	𓎡𓈖𓋴𓈒𓈉	164970	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=knz.w
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓂧𓈙𓂋𓈒𓏥	180740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dšr
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂋𓂧𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+11	𓐍𓈖𓂧𓂻	119430	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnd
+12	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓆄𓏲𓇳𓈖𓏏𓇯	853649	_	epitheton-title	_	_	_	_	Translit=šw-n-p.t
+
+# sent_id = IBUBdxc4czjZ00euoSAXqaEzCBk
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Du mögest deinen Schutz Horus gewähren, deinem geliebten Sohn, Pharao l.h.g. ist er, dein Sohn (und) dein Liebling!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,9] -  [2,10]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+4	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+7	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+8	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+9	𓌸	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+10	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+11	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+12	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+13	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+14	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+15	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+16	𓌸𓂋𓏲𓏏𓀁	72660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mrw.tj
+17	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+
+# sent_id = IBUBd7mV8o0tmE5alK1KUj6r7Ds
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Herbeibringen des Bas-Salbgefäßes für das Erscheinen (auf) der Thronestrade.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,10]
+1	𓅓𓂝𓊄𓂻	74700	VERB	verb	VerbForm=Fin	_	_	_	Translit=mz
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓎰𓏌	53600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣs
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈍𓂝𓏛	114740	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜥi̯
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓏏𓈖𓅷𓄿𓊩	176160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯnṯꜣ.t
+
+# sent_id = IBUBd88WiZGn0kKFmctGX3Vfxo8
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Spruch: "(Wenn) es Tag wird, geht Re über seinem Land auf (und) er gewinnt Macht über seine Feinde!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,10]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓌉𓆓𓇳	_	X	unknown	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	_
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓊪𓊃𓂧𓇳	62420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psḏ
+5	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓁷𓏤𓁶𓏤	108280	ADP	preposition	_	_	_	_	Translit=ḥr-tp
+7	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓌂𓅓𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓐍𓆑𓏏𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5V9B46f10WNk9YQMc76X4M
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Groß ist deine Zauberkraft gegen alles Unheilvolle, (sobald) es gegen Pharao l.h.g. kommt!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,11]
+1	𓅨𓂋	47271	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wr
+2	𓎛𓂓𓄿𓏲𓀁	110660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥkꜣ.w
+3	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓐍𓏏𓏛𓏥𓎟𓏏	_	X	unknown	_	_	_	_	_
+6	𓈋𓅪	182840	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḏw
+7	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+11	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd5ocvSiILk7upDO9n5rvpI0
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er empfängt dich (und) er versieht sich mit diesem deinem volkommenen reinen Ausfluß, der aus dir hervorgegangen ist, mit diesem vollkommenen reinen Ausfluß, der (zuvor) aus Osiris hervorgegangen ist!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,11] -  [2,12]
+1	𓊏𓊪𓀜	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏏𓈖	175640	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
+4	𓎛𓊨𓅓𓅭𓅪	111590	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓈋𓏲𓏲𓐏𓏥	97200	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rḏw
+9	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+10	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+11	𓄤𓆑𓂋𓏛	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+12	𓃂𓈗	400114	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥb
+13	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+14	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓂋𓈋𓏲𓏲𓐏𓏥	97200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḏw
+18	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+19	𓄤𓆑𓂋𓏛	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+20	𓃂𓈗	400114	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥb
+21	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+22	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBdwgl9yeibEa9u9mW422QMrs
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "(Oh) dieses Auge hier, ba-mächtig (und) angesehen mehr als die Götter, reinige Pharao l.h.g. nun von allem Unheilvollen dieses Jahres!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,13]
+1	𓁹𓏏𓏤	28290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t
+2	𓏲𓏏𓇋𓇋𓏛	170301	PRON	pronoun	PronType=Dem	_	_	_	Translit=twy
+3	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+4	𓅡𓏤𓏛𓏏	854507	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=bꜣ
+5	𓍯𓄿𓈙𓀢𓏛𓏏	43420	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜣš
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+8	𓏏𓅨𓂋𓌟	854576	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=twr
+9	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+10	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+11	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+12	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+13	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+14	𓐍𓏏𓏛𓏥𓎟𓏏	_	X	unknown	_	_	_	_	_
+15	𓈋𓅪𓏥	182840	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḏw
+16	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+17	𓆳𓏏𓏤	94920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.t
+18	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBd1cCWuYscUs4pBL2z0Amu50
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Schütze Pharao l.h.g. vor deiner Zornesröte (und) lasse Pharao l.h.g. im Leben gedeihen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,13] -  [2,14]
+1	𓐍𓂤𓏲𓏛	115110	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫwi̯
+2	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+3	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓂧𓈙𓂋𓏏𓏰𓅟𓏥	180750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dšr
+6	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+7	𓇆𓏛	43580	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḏ
+8	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+9	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+10	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+11	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBd0gy2PXtCk6cuxyBHYJQjQg
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Horus, Horus 'Sprössling der Sachmet' ist (als Schutz) um den Leib des Pharao l.h.g. herum, der vollständig am Leben ist!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,14]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓊕	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+3	𓏭	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓇅𓏤𓊌𓈖𓌂𓐍𓏏𓆇𓅆	853645	_	epitheton-title	_	_	_	_	Translit=wꜣḏ-n-Sḫm.t
+5	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+6	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+9	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+10	𓏏𓅓𓏛	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓋹𓈖𓐍𓏛	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBdQRbxem1WE8an81cfzACbTc
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Spruch: "Atum erhebt sich vor dem Horizont (und) Re leuchtet im Osten des Himmels!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,14] -  [2,15]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+3	𓇋𓏏𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+4	𓅓𓏅𓈖𓏏𓏭𓂉	500089	ADP	preposition	_	_	_	_	Translit=m-ḫnt
+5	𓈌𓏏𓉐	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+6	𓊪𓊃𓂧𓇳	62420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psḏ
+7	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓋁𓃀𓏏𓏏𓏤	20590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣb.tjt
+10	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd1iA6PrNkElIlWDn4peQNZM
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Die Abendbarke fährt dahin mit (gutem) Wind" - zwei Mal (rezitieren) -, "die Morgenbarke ist im Thriumph (und) die Götter in Freude, sich mit Re zu vereinen jeden Tag (und) sich mit Pharao l.h.g. zu vereinen jeden Tag!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,15] -  [2,16]
+1	𓈖𓂝𓇋𓇋𓂻	854518	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nꜥi̯
+2	𓋴𓎝𓎡𓏏𓏏𓊛	75920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msk.tjt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓐙𓌳𓂝𓊡	66790	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.w
+5	𓊕	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+6	𓏭	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓂝𓂧𓏏𓊛	68850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜥnḏ.t
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓆄𓊤	66740	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+11	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+12	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓇋𓉔𓇋𓇋𓀁	30170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jhy
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓎸𓅓𓏛	123420	VERB	verb	VerbForm=Fin	_	_	_	Translit=ẖnm
+17	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+18	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓎸𓅓𓏛	123420	VERB	verb	VerbForm=Fin	_	_	_	Translit=ẖnm
+21	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+22	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+23	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBd7yVuiP3BEDanNvsXnA8Ojs
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = (Ein) Bas-Salbgefäß, das für den König gemacht worden ist (zum) Tag des Sed-Festes.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,16]
+1	𓎰𓏋	53600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣs
+2	𓁹𓂋𓏭𓏥	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+5	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=hrw
+6	𓎛𓃀𓋴𓂧𓈅𓎱𓇳	103500	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-sd
+
+# sent_id = IBUBdW6Z1NLp2kDFhENUU3GlGWU
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Spruch: "Horus erscheint, zufrieden mit seinem Auge!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,17]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈍𓂝𓏛	114740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜥi̯
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓊵𓏏𓊪	111230	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥtp
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓁹𓏏𓏤	28290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwxDWZ44UkrtuW8Q39nxg5M
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Mächtig ist das Udjat-Auge, das aus Osiris hervorgegangen ist!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,17]
+1	𓌂𓅓𓏛𓀜	851679	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḫm
+2	𓏲𓍑𓄿𓏏𓁹	52140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜣ.t
+3	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊨𓂂𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBdQAQeBCoWk0zuL1JYkQn5iE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Erhaben ist der Kopf, den die Augen erhellen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,17]
+1	𓏏𓈖𓈖	175750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ṯni̯
+2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+3	𓋴𓌉𓆓𓇳	141250	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=sḥḏ
+4	𓌳𓂂𓂂𓏏𓏭𓁹𓁹	66220	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=mꜣ.tj
+
+# sent_id = IBUBdwf8HuvbTkyCnJO0ZCbDraM
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "So sprachen sie, die Götter, in Bezug auf Horus!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,17]
+1	𓇋𓈖	500024	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=j
+2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBdWzNuO1kTk0zvxhhE9wlWLA
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Erhaben ist (auch) dein Kopf wie (der) des Isissohnes, Pharao l.h.g.!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,17]
+1	𓏏𓈖𓈖𓏛	175750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ṯni̯
+2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓅭𓏤𓅆𓊨𓏏𓆇𓅆	853644	_	epitheton-title	_	_	_	_	Translit=zꜣ-Ꜣs.t
+6	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+7	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd4nu6VtkUUXqvbd6Hub89jA
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Deine Augen sind die Augen der Götter!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,17] -  [2,18]
+1	𓌳𓂂𓂂𓏏𓏭𓁹𓁹	66220	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=mꜣ.tj
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓌳𓂂𓂂𓏏𓏭𓁹𓁹	66220	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=mꜣ.tj
+4	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdycJ6spKXUXsjErNFH9SArs
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Du bist erschienen, ausgestattet mit Zauberkraft, Pharao l.h.g.!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,18]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈍𓂝𓏛𓍘𓏰	114740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜥi̯
+4	𓌥𓃀𓏛𓏏𓏲	854590	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏbꜣ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎛𓂓𓄿𓏲𓀁𓏫	110660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkꜣ.w
+7	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+8	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd7JgUrgTN09JszPmcATu8zo
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Herbeibringen eines Bas-Salbgefäßes mit reiner Erde von Heliopolis.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,18] -  [2,19]
+1	𓅓𓂝𓊄𓂻	74700	VERB	verb	VerbForm=Fin	_	_	_	Translit=mz
+2	𓎰	53600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣs
+3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓃂𓈗	400114	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥb
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+
+# sent_id = IBUBd5aJQExbdkO3kukF8okuO1w
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er ist entstanden in seiner (des Landes) Urzeit, (als) es (selbst) entstanden war!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [2,19]
+1	𓆣𓂋𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓅯𓄿𓏏𓏖	58830	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pꜣw.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8Ds8CBaf0K9gzuh684mS0U
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er hat seine Arme ausgestreckt, (daß) er die Sykomoren stütze (und) Atum (und) Chepri verehre!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,1]
+1	𓏲𓂧𓏴𓀜𓈖	854503	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂝𓂝𓏤𓏲	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏏𓍯𓄿𓀢𓏛	854575	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=twꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈖𓉔𓏏𓆭𓏫	85290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nh.t
+8	𓇼𓄿𓏲𓀢𓏛	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓏏𓍃𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+11	𓆣𓇋𓅆	116350	PROPN	entity-name	_	_	_	_	Translit=Ḫpr.j
+
+# sent_id = IBUBd93eTTWwJU6QlxzLjpgaosc
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er versorgt Millionen (und) er steht Schu bei!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,1]
+1	𓋴𓋹𓈖𓐍	128910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥnḫ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁨𓏤𓏫	109250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḥ
+4	𓐩𓏌𓏛	854522	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓆄𓏲𓅆	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+
+# sent_id = IBUBdy52pWlodk7WpDeMXhjxSjU
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er gewährt ihnen (der Götterneunheit) seine Vereinigung mit ihnen um Atums willen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,2]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓋬𓂧𓏛	179420	VERB	verb	VerbForm=Fin	_	_	_	Translit=dmḏ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓇋𓏏𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+
+# sent_id = IBUBd5XR4WfPlUQUtWiBDIhQfcw
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Atum wünschte ihn sich in seinem Gefolge, Atum wünschte ihn sich bei sich!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,2]
+1	𓌸𓂋𓏲𓏏𓀁𓈖	72470	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+2	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓇋𓏏𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+4	𓁷𓏤𓆱𓐍𓏏𓏥	108120	ADP	preposition	_	_	_	_	Translit=ḥr-ḫt
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌸𓂋𓏲𓏏𓀁𓈖	72470	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓇋𓏏𓍃𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+9	𓂋𓆱𓐍𓏏𓏥	79420	ADP	preposition	_	_	_	_	Translit=r-ḫt
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0SOiy6XIkfBgOl1GilBoCQ
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Pharao l.h.g. ist heute aus Heliopolis gekommen, er ist der 'Heliopolit'!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,3]
+1	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+3	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+6	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+7	𓉺𓏤𓇋𓇋𓅆	22900	_	epitheton-title	_	_	_	_	Translit=jwn.wj
+
+# sent_id = IBUBd0we5Qm7wk19vgxTqG4eQiY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Pharao l.h.g. ist gekommen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,3]
+1	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+3	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBdyESvb1JeEAEmWCmQS2yd4g
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er hat das Leid von den Göttern vertrieben (und) hat dauerhaft die Götterbilder im Tempel errichtet!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,3] -  [3,4]
+1	𓂧𓂋𓀜𓈖	180130	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖𓎡𓈖𓂿	89340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nkn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+6	𓋴𓏠𓈖𓍖	851677	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smn
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓌂𓏤𓅆𓏫	142400	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫm.w
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓉟𓏏𓉐𓅆	99840	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥw.t-ꜥꜣ.t
+
+# sent_id = IBUBd6W64YWljkTwkV5JYRQSHE0
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Pharao l.h.g. erschafft (auch) die Menschen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,4]
+1	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+2	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+3	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓂋𓍿𓀀𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBdwoJuRQtuU2xrpIeqaGrQwM
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Sie sind (in die Welt) gekommen um seinetwillen, (daß) sie ihn über alle seine Feinde triumphieren lassen!" - usw. (weitere Sprüche) -
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,4] -  [3,5]
+1	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓐙𓌳𓂝𓏛	134670	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smꜣꜥ-ḫrw
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓐍𓆑𓏏𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+13	𓈟𓂋𓏤𓏛𓏥	105450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-rʾ
+
+# sent_id = IBUBdwbh8dkXfUwNougsMi2fy0s
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Spruch: "Pharao l.h.g. ist heute aus Heliopolis gekommen, (nachdem) er das Gesicht von Chepri enthüllt (und) Re-Atum verherrlicht hatte!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,5] -  [3,6]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+4	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+5	𓏇𓈖𓇳	68330	ADV	adverb	_	_	_	_	Translit=mjn
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+8	𓎡𓆑𓄿𓏲𓄖𓈖	164200	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kfi̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓆣𓇋𓅆	116350	PROPN	entity-name	_	_	_	_	Translit=Ḫpr.j
+13	𓋴𓅜𓐍𓏛𓈖	127110	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣḫ
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓇳𓅆𓏏𓍃𓅓𓅆	853653	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Jtm.w
+
+# sent_id = IBUBd9pQEwG9xUXegifUZ2uQRMk
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er hat das Land durchzogen (und) die Rebellen der Überfahrtmöglichkeit beraubt!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,6]
+1	𓍑𓄿𓊛𓈖	181780	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓃛𓏲𓊛	856211	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbj
+
+# sent_id = IBUBdwaQH9sMkERDmx5EO3g6PXE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er läßt sie um ihretwillen (wieder) aufsteigen, (daß) sie in ihren Kapellen leuchten (und daß) sie zufrieden sind mit ihrem Anteil (an der Welt)!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,6] -  [3,7]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓂝𓂋𓊍	21770	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥr
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓋴𓌉𓆓𓇳	141250	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥḏ
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓌉𓏤𓉐𓏥	112340	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥḏ
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+12	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+13	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓊪𓊃𓈙𓏴𓏛𓏫	62290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=psš.t
+16	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd8GDlNDRPUMGihGcCRPhA44
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Sie verjüngen sich, (wenn) sie ihn sehen (und) sie werden um seinetwillen zu Jünglingen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,8]
+1	𓌳𓄿𓏲𓏲𓀔	66940	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣwi̯
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+6	𓆣𓂋𓏛	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓎛𓉻𓂝𓄿𓀔𓁐𓏥	102050	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥꜥꜣ
+
+# sent_id = IBUBd2V0z2fDd05Xpwzeg2GQZbY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er ist mächtig, (wenn) er sie sieht, (denn) seine Machtbilder, sagen sie, sind Machtbilder, die mehr Macht bilden (Ehrfurcht ausstrahlen) als die Götter!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,8] -  [3,9]
+1	𓌂𓅓𓀜𓏛	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+6	𓂝𓈙𓅓𓅌𓏥	40780	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥẖm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+9	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂝𓈙𓅓𓅎𓏫	40780	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥẖm
+12	𓂝𓈙𓅓𓅎	40790	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥẖm
+13	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+14	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdz3OwOWpu0hUktzG6WG3QFY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er ist (immer) ba-mächtig (und) Atum ist sein Ba in den 'beiden Büschen' (Ägypten), in denen er ba-mächtig wurde in Heliopolis!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅡𓏤𓏛	854507	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏏𓍃𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓅡𓏤𓅆	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓃀𓇋𓄿𓅡𓄿𓏏𓆰𓏫	859756	PROPN	entity-name	_	_	_	_	Translit=Bꜣ.tj
+11	𓅡𓏤𓏛𓈖	854507	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=bꜣ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓋴	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+
+# sent_id = IBUBd6YiA7ZZgUY0vvqLyhErZYI
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Pharao l.h.g. hat Nut (und) Chepri zu sich genommen ("gegeben") (und) sie werden sich nicht (mehr) von ihm trennen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,9]
+1	𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+3	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+4	𓏌𓏏𓇯𓅆	80940	PROPN	entity-name	_	_	_	_	Translit=Nw.t
+5	𓆣𓇋𓅆	116350	PROPN	entity-name	_	_	_	_	Translit=Ḫpr.j
+6	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+9	𓃛𓏲𓂧𓂻	23220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwd
+10	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdW1eC32Zd0fcgkgyWWzrjFE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Der Name von Pharao l.h.g. ist im 'Fürstenhaus' (Haupttempel in Heliopolis) (und) nichts Unheilvolles kann ihm (mehr) geschehen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,9] -  [3,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+5	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉗𓏏𓉐𓀙𓅆	501136	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-sr
+8	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+9	𓆣𓂋𓏛	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+10	𓐍𓏏𓏛𓏥𓎟𓏏	_	X	unknown	_	_	_	_	_
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓈋𓅪	182840	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḏw
+
+# sent_id = IBUBd3QAEgDNbkpFtiY66Kl82Io
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er gibt das Wasser den Göttern um ihretwillen als 'Bote des Atum'!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓊹𓊹𓊹𓅆𓏥	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓄋𓊪𓏏𓏴𓀁𓏏𓍃𓅓𓅆	853652	_	epitheton-title	_	_	_	_	Translit=wpw.tj-Jtm.w
+
+# sent_id = IBUBd13YtEr0PkKTnQWKCS0mGIU
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Pharao l.h.g. hat Re über Apophis triumphieren lassen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,10]
+1	𓋴𓐙𓌳𓂝𓆄𓏛𓈖	134670	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smꜣꜥ-ḫrw
+2	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+3	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+4	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḫrw
+5	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓂝𓊪𓏱𓊪	35360	PROPN	entity-name	_	_	_	_	Translit=Ꜥꜣpp
+
+# sent_id = IBUBdWz9z3Qa60D2kU795VwJYxc
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er hat sich (aber) selbst aufgezogen, (denn) er ist weiser als die Götter, ist er (doch) Horus, der 'Weiseste' unter ihnen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,11] -  [3,12]
+1	𓂝𓂋𓈐𓂻𓈖	21770	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓋴𓐠𓄿𓏲𓀁	126160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+13	𓋴𓐠𓄿𓀁	853654	_	epitheton-title	_	_	_	_	Translit=sꜣꜣ
+14	𓏶𓅓𓏭	25130	ADJ	adjective	_	_	_	_	Translit=jm.j
+15	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd3EAwGlPMUtBsZ0YlLiiSHQ
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Die Menschen sehen durch seine beiden Augen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,12]
+1	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓂋𓏏𓀀𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyC8HEAHiEDpqYCJc2wTgL8
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Öffnet er um ihretwillen seine beiden Göttlichen (Augen), versieht er sie mit seiner (göttlichen) Schutzkraft (⸗Udjat-Auge)!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,12]
+1	𓃹𓈖𓉿𓂡	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓏤𓊹𓏏𓂋𓏏𓏭𓁹𓁹	90310	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=nṯr.t
+6	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+7	𓐢𓂋𓏛	37090	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥpr
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋴𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓏲𓍑𓄿𓏏𓏰𓅆	52140	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wḏꜣ.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdylfoD4IZEwWlWJZJX2teJw
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "(Und) er erleuchtet sie mit seinen beiden Glänzenden (Augen)!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,12]
+1	𓋴𓌉𓆓𓇳	141250	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥḏ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅜𓐍𓏛𓏏𓏭𓁹𓁹	853669	_	epitheton-title	Number=Dual|Status=Pron	_	_	_	Translit=ꜣḫ.tj
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyFEs6svmES5lFy4gCFUBdA
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Vollkommen ist das, was er tut!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,13]
+1	𓏏𓏏𓏲𓀾	170480	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=twt
+2	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQIDJDBqAU57qh7UuoZE3dQ
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er kommt als euer Herr, Menschen, als der, der euch erschaffen hat, Götter!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,13]
+1	𓇍𓇋𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+5	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+6	𓂋𓏏𓀀𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+9	𓏏𓈖𓏥	175650	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
+10	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd4uQDEhMCERgrG3LHNWajWw
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Die Sonnenscheibe leuchtet auf (und) Re zieht dahin (am Himmel), (sobald) die in seinem Gefolge sind ihn (den Schendit-Schurz) gesehen haben!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,14]
+1	𓊏𓊪𓇳	144850	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšp
+2	𓇋𓏏𓈖𓇳𓅆	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+3	𓈖𓂝𓂝𓂻	854518	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nꜥi̯
+4	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓌳𓂂𓂂𓈖	66270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+6	𓋴	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+7	𓏶𓅓𓏭𓏲𓏫𓆱𓏏𓐍𓂻𓏥	25760	ADJ	adjective	Number=Plur|Status=Pron	_	_	_	Translit=jm.j-ḫt
+8	𓆑𓅆	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxi8DQTmdEfClXL05V0ymFM
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Geweiht sind die Jahre der 'Beiden' (Horus und Seth), (wenn) er vor ihre Heiligtümer gekommen ist in die (heilige) geheime Abgeschiedenheit!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,15]
+1	𓂦𓂋𓏛	550229	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏsr
+2	𓆳𓏏𓅆𓏫	94920	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=rnp.t
+3	𓌢𓌢𓏲𓏭𓅆𓅆	853665	PROPN	entity-name	_	_	_	_	Translit=Sn.wj
+4	𓂻𓏲𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓏅𓈖𓏏𓏭𓂉𓉐	850802	ADP	preposition	_	_	_	_	Translit=ḫnt
+7	𓉗𓏲𓏏𓉐𓏥	99790	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥw.t
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂦𓂋𓏛𓏛𓏥	185650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏsr.w
+11	𓇋𓏠𓈖𓀅𓏛𓏥	500080	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jmn
+
+# sent_id = IBUBd0M9nWRYgkKIlYo5ysoe9Q0
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "(Wenn) sie ihn sehen, (wie) er auf seiner Standarte erscheint, jubeln sie ihm zu als Atum!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,15]
+1	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓈍𓂝𓏛	114740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜥi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓇋𓄿𓏏𓊾	20100	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jꜣ.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎛𓎡𓈖𓏌𓏲𓀁	110740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥkn
+10	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓇋𓏏𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+
+# sent_id = IBUBd5wVvVh9hE8JrxSE4SSIYGY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er lebt von dem, wovon Re lebt!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,15] -  [3,16]
+1	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋹𓈖𓐍	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ꜥnḫ
+5	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd9LGHEI4I09soorF5iWnabA
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er sieht von den (Dingen), die (nur) Re sieht!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,16]
+1	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌳𓂂𓂂𓏏𓏥	66270	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+5	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd6o4QfshNkm1lH7kaKMc0rI
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er hört von dem, wovon (nur) Re hört!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,16]
+1	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄔𓅓𓈖	150560	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=sḏm
+5	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd8m7wQXoYE62neYfj7RsQAs
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er befiehlt über das, worüber Re befiehlt!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,16]
+1	𓎘𓏲𓏏𓏛	51970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎘𓏲𓏏𓏛𓈖	51970	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=wḏ
+5	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd4y4R1gGqUBHh26W5QSXbMY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er zieht dahin (am Himmel) als Re (und) er landet (am westlichen Horizont) als Atum!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,16]
+1	𓈖𓂝𓂝𓊛𓂻	854518	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nꜥi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓏠𓈖𓇋𓈖𓇋𓏲𓊛	854513	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mjni̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓏏𓍃𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+
+# sent_id = IBUBd9K8Wv59GUrZgTEDvk95HRs
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Pharao l.h.g. ist ein Gott unter Göttern!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,16]
+1	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+2	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+3	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdxDzhie7kUlhuLW0rjVDWA0
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er ist vor der Götterneunheit entstanden!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,16]
+1	𓆣𓂋𓏛𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓏅𓈖𓏏𓏭𓂉	500089	ADP	preposition	_	_	_	_	Translit=m-ḫnt
+4	𓇸𓏏𓊹𓊹𓊹𓅆𓏫	62500	PROPN	entity-name	_	_	_	_	Translit=Psḏ.t
+
+# sent_id = IBUBdQoSeMM5cEPStS1uK7Wxyz4
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er ist groß geworden im Himmel (und) er ist alt geworden im Horizont!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,17]
+1	𓉻𓂝𓏛𓈖	34750	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥꜣi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓅨𓂋𓈖	47270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓈌𓏏𓉐	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+
+# sent_id = IBUBd4SZwLLHLEQ5gFBnMnQskK8
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Seine Erscheinungsform hat in Heliopolis Form angenommen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,17]
+1	𓆣𓂋𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓆣𓂋𓏲𓀾𓏥	116300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫpr.w
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉺𓏌𓊖𓅆	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+
+# sent_id = IBUBdz8D4J7lQ00liTJRnWIKUbE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Pharao l.h.g. ist einer von den 'Thriumphierenden', die Re über Apophis triumphieren ließen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,17]
+1	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+2	𓋹𓏰	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+3	𓌡𓂝𓏤	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐙𓌳𓂝𓆄𓊤𓏲𓀁𓀀𓏥	853658	PROPN	entity-name	_	_	_	_	Translit=Mꜣꜥ-ḫrw.w
+6	𓋴𓆄	134670	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smꜣꜥ-ḫrw
+7	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫrw
+8	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓂝𓊪𓏱𓊪	35360	PROPN	entity-name	_	_	_	_	Translit=Ꜥꜣpp
+
+# sent_id = IBUBdWSV2J5MEk8rrVSOHs1INJA
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Es gibt keine Sünde an ihm (und) beseitigt sind die Schwierigkeiten ("Fesseln") für ihn!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,17]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓃛𓏲𓅪𓏥	21990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jw
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓐍𓊃𓂋𓎝𓏛𓀜	121030	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḫsr
+5	𓈖𓏏𓏏𓅪𓏥	90680	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nṯṯ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6oTDJmbdUGxpkqj3gvpvDA
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Er 〈hat〉 die 'Feinde des Re' niedergeworfen (und) er hat ihn gerettet vor denen, die gegen ihn agierten!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,18]
+1	𓋴𓐍𓂋𓍼𓂻𓀜	142780	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐍𓆑𓏏𓏱𓏥𓏌𓏤𓇳𓅆	853660	PROPN	entity-name	_	_	_	_	Translit=Ḫft.jw-(n.w)-Rꜥw
+4	𓈖𓈟𓅓𓏛𓀜𓈖	86430	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+7	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+8	𓁹𓏲𓏥	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7pI5vXyR0nzqMaPQpBwRQM
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Heranbringen lassen: Erde vom 'Haus des Benben'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,18]
+1	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓄚𓈖𓂻	123110	VERB	verb	VerbForm=Fin	_	_	_	Translit=ẖn
+3	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓉗𓏏𓉐𓃀𓈖𓃀𓈖𓏰𓉐𓅆	500303	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-bnbn
+
+# sent_id = IBUBdz8kMnjVQUkns3TckCUiWxk
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = "Dein Fleisch soll nicht erschaudern (und) deine Glieder sollen nicht brechen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3,19]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓈖𓂋𓇋𓏲𓏛𓀜	85070	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nri̯
+3	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓋴𓂧𓄑𓀜	150110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏ
+7	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd56T8NDTGEoAlkHJa2jmUDE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Für: den Schöpfer des Himmels; den Erzeuger des Ei's, das aus dem Nun hervorkam; Re, den Mächtigsten der Götter; Re, den Vielstrahlenden; Re, den von selbst Entstandenen; Re, den am Horizont Leuchtenden; Re, den Erzeuger der Götterneunheit; Re, den Geliebten.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [7,1] -  [7,8]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓋟𓏲𓏛𓀜𓏏𓇯	853713	PROPN	entity-name	_	_	_	_	Translit=Nb-p.t
+3	𓈎𓌳𓄿𓅓𓌙𓅯𓏛𓋴𓏲𓎛𓏏𓆇𓉐𓂋𓂻𓅓𓏌𓏌𓏌𓇯𓈗𓅆	853714	_	epitheton-title	_	_	_	_	Translit=qmꜣ-swḥ.t-pr-m-nw.w
+4	𓇳𓂋𓂝𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+5	𓌂𓏤𓅆𓊹𓊹𓊹𓅆𓏫	853715	_	epitheton-title	_	_	_	_	Translit=sḫm-nṯr.w
+6	𓇳𓂋𓂝𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+7	𓆈𓏏𓏥𓌳𓄿𓄫𓏲𓏏𓇶𓏥	853716	_	epitheton-title	_	_	_	_	Translit=ꜥšꜣ-mꜣw.t
+8	𓇳𓂋𓂝𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+9	𓆣𓂋𓏛𓆓𓊃𓆑	500388	_	epitheton-title	_	_	_	_	Translit=ḫpr-ḏs⸗f
+10	𓇳𓂋𓂝𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+11	𓊪𓊃𓂧𓇳𓅓𓅜𓐍𓏛𓈌	853717	_	epitheton-title	_	_	_	_	Translit=psḏ-m-ꜣḫ.t
+12	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+13	𓄟𓋴𓇸𓏏𓊹𓊹𓊹𓅆𓏫	853718	_	epitheton-title	_	_	_	_	Translit=ms-Psḏ.t
+14	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+15	𓌸𓂋𓇋𓇋𓏏𓏭𓅆	851631	_	epitheton-title	_	_	_	_	Translit=mry.tj
+
+# sent_id = IBUBdQ4lrtIzlkU1ux7UddQtCM8
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Opfer für: Atum, den Herrn von Heliopolis.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [7,9]
+1	𓆻	51700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓏏𓍃𓅓𓅆	33040	PROPN	entity-name	_	_	_	_	Translit=Jtm.w
+4	𓎟𓏏𓉺𓏌𓊖	400929	_	epitheton-title	_	_	_	_	Translit=nb-Jwn.w
+
+# sent_id = IBUBd7kVVtImPkRFlNSBvfiuPkU
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Opfer für: Osiris-Onnophris.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [7,15]
+1	𓆻	51700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓊨𓁹𓅆𓃹𓈖𓄤𓏤𓅆	500722	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Wnn-nfr
+
+# sent_id = IBUBdzM4rt0WmEimq6DNA5dQ3Z8
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Opfer für: Geb, den Vater der Götter.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [8,9]
+1	𓆻	51700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+4	𓇋𓏏𓆑𓅆𓊹𓊹𓊹𓅆𓏫	851350	_	epitheton-title	_	_	_	_	Translit=jtj-nṯr.w
+
+# sent_id = IBUBdyr6LWss2Uxjsf0N8fLf8qM
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Opfer für: Amun-Re, den Herrn des Thrones der beiden Länder, den Vordersten von Ipet-Sut (Karnak).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [8,14]
+1	𓆻	51700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓇋𓏠𓈖𓅆𓇳	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
+4	𓎟𓎼𓇾𓇾	850973	_	epitheton-title	_	_	_	_	Translit=nb-ns.t-Tꜣ.wj
+5	𓂉𓊒𓊨𓏥𓊖	550406	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-Jp.t-s.wt
+
+# sent_id = IBUBd2lQ74x1LUxTiY7aR1R5GvY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Für: Amun-Re, den König der Götter; Amun-Re, den Stier seiner Mutter; Amun-Re, den Herrn von Theben; Amun, das Oberhaupt der beiden Schreinreihen (Heiligtümer Ober- und Unterägyptens).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [8,15] -  [8,18]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓇋𓏠𓈖𓅆𓇳𓅆	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
+3	𓇓𓏏𓈖𓅆𓊹𓊹𓊹𓅆𓏫	550228	_	epitheton-title	_	_	_	_	Translit=nswt-nṯr.w
+4	𓇋𓏠𓈖𓅆𓇳𓅆	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
+5	𓃒𓂸𓃒𓅐𓏏𓆑𓅆	851374	_	epitheton-title	_	_	_	_	Translit=kꜣ-mw.t⸗f
+6	𓇋𓏠𓈖𓅆𓇳𓅆	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
+7	𓎟𓏏𓋆𓏏𓊖	850777	_	epitheton-title	_	_	_	_	Translit=nb-Wꜣs.t
+8	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+9	𓁷𓂋𓁶𓇋𓏏𓏲𓂋𓉐𓉐	853759	_	epitheton-title	_	_	_	_	Translit=ḥr.j-tp-jtr.ty
+
+# sent_id = IBUBdWWf7QBQ5kPIsYmzQ4hPx9s
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Opfer für: Horus, den Sohn des Osiris.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [8,19]
+1	𓆻	51700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓅭𓏤𓅆𓊨𓁹𓅆	853760	_	epitheton-title	_	_	_	_	Translit=zꜣ-Wsjr
+
+# sent_id = IBUBd6AU9WL79EUxv6xatGJaF7I
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Für: den Ba, den Herrn von Djedu (Mendes), den begattenden Stier; den Ba, den Herrn von Djedu (Mendes), der über den Schönen (Kühen) ist; den Ba, den Herrn von Anpe (Mendes).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [9,1] -  [9,3]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓅡𓏤𓅆𓎟𓏏𓊽𓂧𓏲𓊖	850187	PROPN	entity-name	_	_	_	_	Translit=Bꜣ-nb-Ḏd.t
+3	𓂓𓂸𓃒𓄝𓏏𓏭𓏤𓂸	852448	_	epitheton-title	_	_	_	_	Translit=kꜣ-sṯ
+4	𓅡𓏤𓅆𓎟𓏏𓊽𓂧𓏲𓊖	850187	PROPN	entity-name	_	_	_	_	Translit=Bꜣ-nb-Ḏd.t
+5	𓁷𓂋𓄤𓆑𓂋𓃒𓏥	852449	_	epitheton-title	_	_	_	_	Translit=ḥr.j-nfr.wt
+6	𓅡𓏤𓅆𓎟𓂝𓈖𓊪𓍉𓊖	853764	PROPN	entity-name	_	_	_	_	Translit=Bꜣ-nb-ꜥnp.t
+
+# sent_id = IBUBd24XnAL8d0svi6WpirRnzHY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Opfer für: alle Götter des 'Großen Sitzes' - zugunsten von Leben, Heil (und) Gesundheit des Pharao l.h.g -, die in der östlichen Kapelle sind.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [9,15] -  [9,17]
+1	𓆻	51700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+4	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+5	𓎟𓏲𓏥	81660	ADJ	adjective	_	_	_	_	Translit=nb
+6	𓊨𓅨𓏏𓂋𓉐	125180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-wr.t
+7	𓁷𓏤𓁶𓏤	108280	ADP	preposition	_	_	_	_	Translit=ḥr-tp
+8	𓋹𓍑𓋴	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+11	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+12	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+15	𓉲𓏤𓉐	140250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḥ
+16	𓋁𓃀𓏏𓈇𓏤	20570	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.tj
+
+# sent_id = IBUBdzLPNKFThEAHlIvgWuseu40
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Darbringen lassen der Opfer für die Götter, die im Innersten (Allerheiligsten) des 'Großen Sitzes' sind.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [11,19] -  [11,20]
+1	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓐙𓌳𓂝𓂻	854512	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜥ
+3	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+4	𓆻𓈖𓏛𓏥	51700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wdn
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+7	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+8	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓏌𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓊨𓏏𓉐𓅨𓏏𓂋𓉐	125180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-wr.t
+
+# sent_id = IBUBdWTghSo0FEFRpnnDFLrgd04
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Opfer für: die Götter auf ihren Standarten, welche zur Linken des (Allerheiligsten des) 'Großen Sitzes' sind.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [12,21] -  [12,22]
+1	𓆻	51700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+4	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+5	𓁶𓏥	171450	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=tp.j
+6	𓊾𓏥	20100	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣ.t
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓋴𓅓𓂣	135580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=smḥ.j
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓊨𓅨𓏏𓂋𓉐	125180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-wr.t
+
+# sent_id = IBUBdyiYq3bwkUzXn3vQ0fWmLFI
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Haltmachen an der Kapelle des Per-Anch, welche im (Innern des) 'Großen Sitzes' ist, durch den König.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [13,11] -  [13,12]
+1	𓊵𓏏𓊪𓏛	111230	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥtp
+2	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓉲𓏤𓉐	140250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḥ
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓉐𓋹𓉐	550421	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥnḫ
+7	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊨𓅨𓏏𓂋𓉐	125180	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=s.t-wr.t
+10	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+11	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+
+# sent_id = IBUBd1ScGndrhU5XufYWMOjVYHU
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Darbringen lassen der Opfer für alle Götter des Per-Anch, die auf der Tafel (aufgezeichnet) sind.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [13,13] -  [13,14]
+1	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓐙𓌳𓂝𓂻	854512	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜥ
+3	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+4	𓆻𓈖𓏥	51700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wdn
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+7	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nṯr
+8	𓎟𓏲𓏥	81660	ADJ	adjective	_	_	_	_	Translit=nb
+9	𓉐𓋹𓉐	550421	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥnḫ
+10	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+11	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+12	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+13	𓂝𓈖𓁻𓆱	38020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥn
+
+# sent_id = IBUBdyOHcW4ecUPavOQzz2R1nYM
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Opfer für: die Götter, die im Hofe des Per-Anch sind.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [13,24]
+1	𓆻	51700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+4	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+5	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎺𓏏	49870	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wsḫ.t
+8	𓉐𓋹𓉐	550421	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥnḫ
+
+# sent_id = IBUBdxllznSPYEqMlivsiAiWQhY
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Vorangehen des Königs (und) Verweilen in der Kapelle der 'Bestätigung des Erbes'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [15,20] -  [15,21]
+1	𓏲𓍑𓄿𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
+2	𓇓𓏏𓈖𓅆	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏏𓊪	111230	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥtp
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓉲𓏤𓉐𓈖𓋴𓏠𓈖𓍖𓃛𓏲𓂝𓂝𓏰𓏛𓏫	854099	PROPN	entity-name	_	_	_	_	Translit=Zḥ-n-smn-jwꜥ.wt
+
+# sent_id = IBUBdWKhJllRq0xDiIqEWZHD5RE
+# corpus = bbawtempelbib
+# src_text_id = QQUPR5AIGZCXTA4YSXKA6ILTAM
+# src_text = bbawtempelbib:pBrooklyn 47.218.50 ("Confirmation du pouvoir royal au nouvel an")//1. Ritual(handlungen) des 'Großen Sitzes', die während der Feste der Erde vollzogen werden
+# owner = Frank Feder
+# text_de = Andauernd (ohne Unterbrechung) 4 Mal rezitieren: "Verwandle dich zweifach, (in) Pharao l.h.g. (und) Löwe!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [15,22] -  [15,23]
+1	𓆓𓂧𓌃𓏤𓏫	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓊽𓊃𓊪	853876	ADV	adverb	_	_	_	_	Translit=ḏdi̯
+3	𓊕	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓆣𓂋𓏛	858535	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓏲𓏏	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+7	𓊕𓏮	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+8	𓉐𓉻𓅆	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+9	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+10	𓃭𓏤𓅆	500396	PROPN	entity-name	_	_	_	_	Translit=Rw
+

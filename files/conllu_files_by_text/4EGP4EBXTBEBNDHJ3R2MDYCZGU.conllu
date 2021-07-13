@@ -1,0 +1,60 @@
+# sent_id = IBUBdyC3WlNB8kGBuhWCqifjmXs
+# corpus = bbawgrabinschriften
+# src_text_id = 4EGP4EBXTBEBNDHJ3R2MDYCZGU
+# src_text = bbawgrabinschriften:Opferkammer//linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Der Vorsteher Dedu-Chekenu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.1]
+1	𓅓𓂋	25550	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ
+2	𓎛𓂖𓏌𓎡𓏙𓏙	714278	PROPN	entity-name	_	_	_	_	Translit=Dd.w-Ḥkn.w
+
+# sent_id = IBUBdQS83TUyc0A5nGiDifZHMDM
+# corpus = bbawgrabinschriften
+# src_text_id = 4EGP4EBXTBEBNDHJ3R2MDYCZGU
+# src_text = bbawgrabinschriften:Opferkammer//linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Der Schreiber Tjenti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.1]
+1	𓏞	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+2	𓍿𓈖𓍘𓇋	450056	PROPN	entity-name	_	_	_	_	Translit=Ṯntj
+
+# sent_id = IBUBd00fQubV2UfmkFv8ZrwRJs4
+# corpus = bbawgrabinschriften
+# src_text_id = 4EGP4EBXTBEBNDHJ3R2MDYCZGU
+# src_text = bbawgrabinschriften:Opferkammer//linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Das Räuchern des Weihrauchs.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.2]
+1	𓂖𓊷	163310	VERB	verb	VerbForm=Fin	_	_	_	Translit=kꜣp
+2	𓊹𓋴𓍿𓇳	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+
+# sent_id = IBUBd5S4F0lU6UfAtmeYFbP1QUA
+# corpus = bbawgrabinschriften
+# src_text_id = 4EGP4EBXTBEBNDHJ3R2MDYCZGU
+# src_text = bbawgrabinschriften:Opferkammer//linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Nefer-hy.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓄤𓉔𓄿𓇋	450204	PROPN	entity-name	_	_	_	_	Translit=Nfr-hꜣy
+
+# sent_id = IBUBd5SfWrBRqkAuvsyJ0Y2fW0A
+# corpus = bbawgrabinschriften
+# src_text_id = 4EGP4EBXTBEBNDHJ3R2MDYCZGU
+# src_text = bbawgrabinschriften:Opferkammer//linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Pechetes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓊪𓎛𓏏𓋴	712933	PROPN	entity-name	_	_	_	_	Translit=Pḥts
+

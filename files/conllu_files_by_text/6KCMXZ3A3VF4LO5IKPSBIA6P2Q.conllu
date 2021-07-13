@@ -1,0 +1,100 @@
+# sent_id = IBUBd0n6wBabl0gwl4WmfYTXACY
+# corpus = sawlit
+# src_text_id = 6KCMXZ3A3VF4LO5IKPSBIA6P2Q
+# src_text = sawlit:Great hall, Ostwand, Südhälfte//Text 223-249
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Hereditary noble and local prince, seal-bearer of the king and sole friend (of the king), true overseer of priests of Wepwawet, Lord of Siut, Djefaihapi, says:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [223]
+1	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+2	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+3	𓆤𓏏𓋨	851316	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-bj.tj
+4	𓋴𓍋𓌡𓏏𓏤	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+5	𓅓𓂋𓊹𓍛𓐙𓂝𓈖𓄋𓈐𓏏𓏥𓃧	859405	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḥm.w-nṯr-mꜣꜥ-n.j-Wp-wꜣ.wt
+6	𓎟𓊃𓅭𓅱𓏏𓊖	858518	_	epitheton-title	_	_	_	_	Translit=nb-Zꜣ.wtj
+7	𓎛𓊪𓈘𓆓𓆑𓇋	400362	PROPN	entity-name	_	_	_	_	Translit=Ḏfꜣ⸗j-ḥꜥpj
+8	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxQhAC7IZEPthlXlkmByZT8
+# corpus = sawlit
+# src_text_id = 6KCMXZ3A3VF4LO5IKPSBIA6P2Q
+# src_text = sawlit:Great hall, Ostwand, Südhälfte//Text 223-249
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one great of meals and great of catch, who sustains the hungry one of his nome.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [228]
+1	𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅨𓂋	47270	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wrr
+3	𓆓𓆑𓄿𓅱𓏒𓏥	183850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏfꜣ
+4	𓉻	34750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥꜣi̯
+5	𓎛𓃀𓉲𓎱𓅭𓆜𓏥	103350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+6	𓋴𓋹𓈖𓐍	128910	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜥnḫ
+7	𓎛𓈎𓂋𓀁	110550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqr
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓈈𓏏𓏤	854544	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=spꜣ.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2jSBjEFnkVHuq2v5jkpzSw
+# corpus = sawlit
+# src_text_id = 6KCMXZ3A3VF4LO5IKPSBIA6P2Q
+# src_text = sawlit:Great hall, Ostwand, Südhälfte//Text 223-249
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am possessor of love, great of charm, one beloved of the clan members of his city.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [228] - [229]
+1	𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+3	𓌸𓂋𓏏𓏛	72650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrw.t
+4	𓉻𓂝	34750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥꜣi̯
+5	𓇋𓌳𓅓𓏏𓆭𓏛	24900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣm.t
+6	𓌸𓂋𓂋𓅱	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+7	𓎸𓈖𓌰𓅓𓀀𓏥	123430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnm
+8	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+9	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5UtgmjIdkWYk7LkN6xcwlY
+# corpus = sawlit
+# src_text_id = 6KCMXZ3A3VF4LO5IKPSBIA6P2Q
+# src_text = sawlit:Great hall, Ostwand, Südhälfte//Text 223-249
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one who drove away arrogance from the proud one, one who makes silent the loud one, so that he ceases to speak.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [229]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓂧𓂋	180130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dr
+3	𓂝𓃀𓄡𓃀𓄡𓀜	57140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥbẖbẖ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈎𓄿𓀠	159110	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qꜣi̯
+6	𓐟𓏤	125670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣ
+7	𓋴𓎼𓂋𓀁	147260	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sgr
+8	𓈎𓄿𓀠	_	X	unknown	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	_
+9	𓊤𓅱	120010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫrw
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓏏𓍃𓅓	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓌃𓂧𓅱	78140	VERB	verb	VerbForm=Fin	_	_	_	Translit=mdwi̯
+
+# sent_id = IBUBdWWkfn1uU0fZq0bTB3QOKdc
+# corpus = sawlit
+# src_text_id = 6KCMXZ3A3VF4LO5IKPSBIA6P2Q
+# src_text = sawlit:Great hall, Ostwand, Südhälfte//Text 223-249
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am an active heir, enduring of monuments, an avenger who renews old times.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = MK & SIP
+# lineRef = [235]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓂝𓃛𓄯𓅱	22460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜥ.w
+3	𓈎𓈖𓄃	550122	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=qn
+4	𓂋𓂧𓌗	400633	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rwḏ
+5	𓏠𓈖𓏌𓏌𓏌𓏛𓏥	70420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn.w
+6	𓈖𓆓𓐩𓍘	91080	_	epitheton-title	_	_	_	_	Translit=nḏ.tj
+7	𓋴𓌳𓁹𓄿𓅱	134750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smꜣwi̯
+8	𓇋𓋴𓅱𓏏𓆰𓏥	31320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jz.wt
+

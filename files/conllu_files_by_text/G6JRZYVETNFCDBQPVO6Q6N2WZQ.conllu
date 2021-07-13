@@ -1,0 +1,60 @@
+# sent_id = IBcDOBoQW0ONtUzHmL4LxX6tXaE
+# corpus = sawmedizin
+# src_text_id = G6JRZYVETNFCDBQPVO6Q6N2WZQ
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 1,1-2,4: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Er ist der Kater (⸗ Re).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 1,1]
+1	𓅓𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓏇𓇋𓇋𓏲𓄜	867911	PROPN	entity-name	_	_	_	_	Translit=Mjw
+
+# sent_id = IBcDOCEezyFXH0sznt0rTLtVKBI
+# corpus = sawmedizin
+# src_text_id = G6JRZYVETNFCDBQPVO6Q6N2WZQ
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 1,1-2,4: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Er ist das Falkenweibchen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 1,2]
+1	𓅓𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓃀𓇋𓅱𓎢𓅃𓏏𓆇𓆗	54710	_	epitheton-title	_	_	_	_	Translit=bjk.t
+
+# sent_id = IBcDOM3ZZeeqBUSVkGa6OhGrKlY
+# corpus = sawmedizin
+# src_text_id = G6JRZYVETNFCDBQPVO6Q6N2WZQ
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 1,1-2,4: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Er ist Ptah.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 1,3]
+1	𓅓𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+
+# sent_id = IBcDOICdrrejF04egf6Jz0NJ3eM
+# corpus = sawmedizin
+# src_text_id = G6JRZYVETNFCDBQPVO6Q6N2WZQ
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 1,1-2,4: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Er ist Nehebkau.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 1,4]
+1	𓅓𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓅘𓎛𓃀𓂓𓏤𓆙𓅆	86270	PROPN	entity-name	_	_	_	_	Translit=Nḥb.w-kꜣ.w
+
+# sent_id = IBcDOPtdlbikqUAijjim0aIgW7I
+# corpus = sawmedizin
+# src_text_id = G6JRZYVETNFCDBQPVO6Q6N2WZQ
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈vso. 1,1-2,4: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Er ist der „Verborgen-ist-sein-Name“ (⸗ Amun).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 1,5]
+1	𓅓𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓇋𓏠𓈖𓀃𓅆𓂋𓈖𓀁𓆑	26270	_	epitheton-title	_	_	_	_	Translit=jmn-rn⸗f
+

@@ -1,0 +1,48 @@
+# sent_id = IBUBd1oLxmxJC0CVkgMrxlI66Wo
+# corpus = bbawgrabinschriften
+# src_text_id = 5AUGVHQFXZBSJL4XZNOHBLGUOM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sen-merer, der Ältere.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓌢𓌸𓂋𓂋	706718	PROPN	entity-name	_	_	_	_	Translit=Sn-mrr
+2	𓀗	400263	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sms.w
+
+# sent_id = IBUBdWAOYiaw8kUirYb9GxpWH9g
+# corpus = bbawgrabinschriften
+# src_text_id = 5AUGVHQFXZBSJL4XZNOHBLGUOM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Viehtreiber Iuef-eni.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓋾	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+2	𓇋𓅱𓂻𓆑𓈖	550208	PROPN	entity-name	_	_	_	_	Translit=Jw⸗f-n⸗j
+
+# sent_id = IBUBd8JIzdV6kEawvtoKZBICh2I
+# corpus = bbawgrabinschriften
+# src_text_id = 5AUGVHQFXZBSJL4XZNOHBLGUOM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Langhornrind, Jungtier.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+2	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+
+# sent_id = IBUBdw7bxlF9B0DWkbPBQRrarz8
+# corpus = bbawgrabinschriften
+# src_text_id = 5AUGVHQFXZBSJL4XZNOHBLGUOM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Jungtier der Mendes-Antilope.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓏌𓈋	81640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nwḏ.w
+

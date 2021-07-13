@@ -1,0 +1,101 @@
+# sent_id = IBUBdwykaU1io0Z4uLrEu3Jm2yo
+# corpus = sawlit
+# src_text_id = ENW4HOGRDVHFFB4UNYYQZQ4ZKY
+# src_text = sawlit:KV 9: Grab Ramses' VI.〈, Korridor C, Nische am Ende der linken Wand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Magie ist meine Ba-Seele,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓎛𓂓𓏥𓀁𓏥	110660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkꜣ.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓅡𓏤𓀭	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd2VxrcDF3UllrwFDHHdiOJc
+# corpus = sawlit
+# src_text_id = ENW4HOGRDVHFFB4UNYYQZQ4ZKY
+# src_text = sawlit:KV 9: Grab Ramses' VI.〈, Korridor C, Nische am Ende der linken Wand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = älter ist sie (die Ba-Seele) als sie (die Jahre?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓅨𓂋	47271	ADJ	adjective	_	_	_	_	Translit=wr
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd1nNUR7hX01urxWsFAtUISk
+# corpus = sawlit
+# src_text_id = ENW4HOGRDVHFFB4UNYYQZQ4ZKY
+# src_text = sawlit:KV 9: Grab Ramses' VI.〈, Korridor C, Nische am Ende der linken Wand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Der Ba des Schu ist der Wind.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5] - [6]
+1	𓅡𓏤𓀭	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓆄𓅱𓏛𓀭	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+5	𓏲𓊡𓏥	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+
+# sent_id = IBUBd0GjIQSyxUbfv1HZQh6Vta4
+# corpus = sawlit
+# src_text_id = ENW4HOGRDVHFFB4UNYYQZQ4ZKY
+# src_text = sawlit:KV 9: Grab Ramses' VI.〈, Korridor C, Nische am Ende der linken Wand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Der Ba von Huh ist das Fließen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6]
+1	𓅡𓏤𓀭	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓎛𓎛𓏲𓀭	109300	PROPN	entity-name	_	_	_	_	Translit=Ḥḥ.w
+5	𓀜𓂡𓏏𓈗	102400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥw.t
+
+# sent_id = IBUBd7Kra1jeSEdcuqafsHARvW8
+# corpus = sawlit
+# src_text_id = ENW4HOGRDVHFFB4UNYYQZQ4ZKY
+# src_text = sawlit:KV 9: Grab Ramses' VI.〈, Korridor C, Nische am Ende der linken Wand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Der Ba des Nun ist das Wasser.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓅡𓏤𓀭	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓏌𓏌𓏌𓇯𓈗𓀭𓋔	500006	PROPN	entity-name	_	_	_	_	Translit=Nw.w
+5	𓈖𓈖	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd05LQvWsLkovjzrQpGPEMGM
+# corpus = sawlit
+# src_text_id = ENW4HOGRDVHFFB4UNYYQZQ4ZKY
+# src_text = sawlit:KV 9: Grab Ramses' VI.〈, Korridor C, Nische am Ende der linken Wand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Der Ba des Osiris ist der Widder von Mendes.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓅡𓏤𓀭	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓅡𓏤	52850	PROPN	entity-name	Number=Sing|Status=Cons	_	_	_	Translit=Bꜣ
+6	𓊽𓊽𓏏𓊖	185930	PROPN	entity-name	_	_	_	_	Translit=Ḏd.t
+
+# sent_id = IBUBd663xXxz2EuDs0gMD5d52GE
+# corpus = sawlit
+# src_text_id = ENW4HOGRDVHFFB4UNYYQZQ4ZKY
+# src_text = sawlit:KV 9: Grab Ramses' VI.〈, Korridor C, Nische am Ende der linken Wand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Dann sollen sie sagen,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [22]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+

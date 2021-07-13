@@ -1,0 +1,46 @@
+# sent_id = IBUBd3dypzKry0wOrY2BTGOHGWA
+# corpus = bbawamarna
+# src_text_id = 5HMLJWJ45BFEVE5N5B3HPHBY34
+# src_text = bbawamarna:〈Stele A〉//Bildfeld: Königsfamilie vor Aton
+# owner = Gunnar Sperveslage
+# text_de = "Re-Harachte, der im Horizont jubelt in seinem Namen Sonnenlicht, das in der Sonne ist" (⸗Aton), der Leben für immer und ewig gibt, der große lebende Aton, der im Fest ist, der inmitten des Atontempels in Achetaton ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [K.1] - [K.4]
+1	𓇳𓅃𓈌𓈌𓎛𓂝𓏮𓏛𓐝𓈌	859387	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj-ḥꜥ-m-ꜣḫ.t
+2	𓐝𓂋𓈖𓆑𓐝𓆄𓅱𓇳𓈖𓏏𓏮𓐝𓇋𓏏𓈖𓇳	856317	PROPN	entity-name	_	_	_	_	Translit=M-rn⸗f-m-Šw-n.tj-m-Jtn
+3	𓏙	851711	VERB	verb	_	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+6	𓎛𓇳𓎛	86580	ADV	adverb	_	_	_	_	Translit=nḥḥ
+7	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+8	𓋹	38530	VERB	verb	_	_	_	_	Translit=ꜥnḫ
+9	𓅨𓂋	47270	VERB	verb	_	_	_	_	Translit=wrr
+10	𓏶𓎳	25700	_	epitheton-title	_	_	_	_	Translit=jm.j-ḥꜣb-sd
+11	𓁷𓄣𓉐𓇋𓏏𓈖𓇳	856321	_	epitheton-title	_	_	_	_	Translit=ḥr.j-jb-Pr-Jtn
+12	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓈌𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+
+# sent_id = IBUBdz8I4mMSbkOntR06tmSW6Ps
+# corpus = bbawamarna
+# src_text_id = 5HMLJWJ45BFEVE5N5B3HPHBY34
+# src_text = bbawamarna:〈Stele A〉//Bildfeld: Königsfamilie vor Aton
+# owner = Gunnar Sperveslage
+# text_de = "Re-Harachte, der im Horizont jubelt in seinem Namen Sonnenlicht, das in der Sonne ist" (⸗Aton), der Leben für immer und ewig gibt, der große lebende Aton, der im Fest ist, der inmitten des Atontempels in Achetaton ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [K.1] - [K.4]
+1	𓇳𓅃𓈌𓈌𓎛𓂝𓏮𓏛𓐝𓈌	859387	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj-ḥꜥ-m-ꜣḫ.t
+2	𓐝𓂋𓈖𓆑𓐝𓆄𓅱𓇳𓈖𓏏𓏮𓐝𓇋𓏏𓈖𓇳	856317	PROPN	entity-name	_	_	_	_	Translit=M-rn⸗f-m-Šw-n.tj-m-Jtn
+3	𓏙	851711	VERB	verb	_	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+6	𓎛𓇳𓎛	86580	ADV	adverb	_	_	_	_	Translit=nḥḥ
+7	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+8	𓋹	38530	VERB	verb	_	_	_	_	Translit=ꜥnḫ
+9	𓅨𓂋	47270	VERB	verb	_	_	_	_	Translit=wrr
+10	𓏶𓎳	25700	_	epitheton-title	_	_	_	_	Translit=jm.j-ḥꜣb-sd
+11	𓁷𓄣𓉐𓏤𓇋𓏏𓈖𓇳	856321	_	epitheton-title	_	_	_	_	Translit=ḥr.j-jb-Pr-Jtn
+12	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓈌𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+

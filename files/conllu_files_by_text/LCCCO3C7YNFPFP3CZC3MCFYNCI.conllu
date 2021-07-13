@@ -1,0 +1,1123 @@
+# sent_id = IBcBiNkq2KODN04Ehm2VqOT1440
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Beseitigen des $špn$-Phänomens, das den Leib eines Mannes oder einer Frau zusammenschnürt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,4]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓈙𓊪𓈖𓐎	153700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=špn
+6	𓌻𓂋𓍢𓂝	71880	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mr
+7	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+10	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+11	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBcBiHfAMQJPbU5irlTW0cPwx5U
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: ein Viertel (Dja), Weihrauch: ein Viertel (Dja), Pflanzenbrei: 1/32 (Oipe ⸗ 2 Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,4] - [86,5]
+1	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓏴	_	_	_	_	_	_	_	_
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏴	_	_	_	_	_	_	_	_
+5	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+6	𓂅	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcBiMsQFBElkUZUgbSc3gO8WN0
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde in den After eingegossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,5]
+1	𓎗𓎛𓏌𓂝	854504	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄖𓏲𓏭	61490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.wj
+
+# sent_id = IBcBiNzQiWwUXkdvlgfXse7YBp4
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Es kann (auch) hergestellt werden, ohne Weihrauch (dazu) zu geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓏏𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+5	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+6	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+
+# sent_id = IBcBiNQy2l4kZ0HChBDGRKgguhY
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBiK8WhzpFYUtzvQ2bvF5vqAw
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Harn: 1/64 (Oipe ⸗ 1 Dja), Johannisbrot: ein halbes Dja (?), Öl/Fett: 1/64 (Oipe ⸗ 1 Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,6]
+1	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+2	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓐛	863636	SYM	numeral	Number=Sing|Status=Cons	_	_	_	Translit=gs
+5	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓌻𓏏𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+7	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcBiCUjYxCw1Usgt1lArp9w50E
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,6]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcBiMn4mV5PN0BJhgZFaabKVBc
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBiDnYCx4keU9jp0sR14yXcSo
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,7]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcBiE32bakmB0kKmZ5gLBAHkFA
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = (Es) ist nützlich zum Beseitigen von Krankheitsauslösern (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,8]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅜𓐍𓏛	200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣḫ
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+
+# sent_id = IBcBiH8zQyrWR0YNr7mk5YoIlfU
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen des $ḫnš$-Gestanks im Sommer:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,8]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓐍𓈖𓈙𓐎	853385	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫnš
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈙𓈗𓇳	154850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šm.w
+
+# sent_id = IBcBiCs0cZFKIU6IqJU1RcwRdTU
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, $jbw$-Pflanzen: 1, „Haarfrüchte”: 1, Myrrhe: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,8] - [86,9]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓇋𓃀𓏲𓆰𓏥	23690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbw
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍁𓈒𓏥𓁸𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+8	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBiGe0ArFySEQBlXhlVxeWBuk
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse vereint.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,9]
+1	𓋬𓂧𓏛	179420	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dmḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBiD1y0GwWbExakMzvXJWczCU
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,9]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBiL3WWorymE5KrQ246FUhDfE
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen des $ḫnš$-Gestanks im Leib eines Mannes oder einer Frau:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓐍𓈖𓈙𓐎	853385	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫnš
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+9	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+10	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBcBiFzfyFMxKUyAkwNO9KXTjWc
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Der Leib werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBiK4xNVUQKkdQrjPymlkWnuk
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde vollständig ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,12]
+1	𓋴𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+
+# sent_id = IBcBiF3VCUFdekmnqavt59E2Umk
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = (Der Leib) werde damit gesalbt –
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,12]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBiEXzd4KHV0hxnoeFkBEUDwA
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = du sollst nicht träge sein dabei!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,13]
+1	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓃀𓅡𓄿𓎼𓇋𓇋𓏲𓀕𓅪	53990	VERB	verb	VerbForm=Fin	_	_	_	Translit=bꜣgi̯
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBiJBC5RHH8Egvk2FdcRqW9hk
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBiF2I9m735U03svDa6nFUDho
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Weihrauch, $ꜣḥ$-Brei.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,13]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓄿𓎛𓏌𓏥	186	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḥ
+
+# sent_id = IBcBiBlRbrYy1U01qpjc53vLxRk
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,13] - [86,14]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBiGkuATPkI0hGnALl7jnCgIo
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde zu einem Kügelchen gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,14]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊪𓂧𓋴𓏏𓈒	63130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pds.t
+
+# sent_id = IBcBiICrlRT9F0LNsMVsdhQJ9Dk
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde an die Stelle gegeben, an der Körperteil an Körperteil stößt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,14]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓃀𓏲	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+4	𓂧𓏇𓇋𓏲𓀜	179320	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=dmj
+5	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+8	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBiOZeCe1GKEJyoXQTGEe4HMw
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Heilmittel zum Beseitigen des $tpꜣ.w$-Phänomens am/im Kopf:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,15]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓏏𓊪𓅯𓄿𓏲𓈒𓏥	171390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpꜣ.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓍑𓄿𓍑𓄿𓁶	182330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣḏꜣ
+
+# sent_id = IBcBiFkWlf6udUn1rl8XyMKXdJY
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Mehl von Gerste, zermahlen (und) vollständig ausgeglüht: 1/64 (Oipe ⸗ 1 Dja), Mehl von $mjmj$-Getreide, vollständig ausgeglüht: 1/64 (Oipe ⸗ 1 Dja), Fett, aufgeweicht (?): 1/64 (Oipe ⸗ 1 Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,15] - [86,16]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓐩𓏌𓂝	90880	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏ
+5	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snwḫ
+6	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+10	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snwḫ
+11	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+13	𓎼𓈖𓈖𓀕	600572	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=gnn
+14	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcBiIrxTk8eYkvOnG5cYLABnQg
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,16] - [86,17]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBiKeRtvwWNUrJjCJFr8uCaMc
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,17]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBiFzFqSxhrkvHmm9lVSwz5Gs
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Sein Kopf werde bestreut (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,17]
+1	𓏏𓍃𓏏𓏲𓀜	172320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tmt
+2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcBiIWzP2WGi0XEk3vCQeO2eY0
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Sein $whnn$-Scheitel(punkt) werde auf den / in Richtung auf den Boden gegeben,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,17]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏲𓉔𓈖𓈖𓁶	48590	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=whnn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBcBiC3xlhc41U8bl31tBB5etRU
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = ohne irgendein Heilmittel darauf zu geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,18]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcBiKtipT7LGk1Jrl4O4ezG3bY
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde mit Nilpferdfett eingerieben am dritten Tag.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [86,20]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+4	𓂧𓃀𓄜	178280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbj
+5	𓏫𓏌	600235	SYM	numeral	_	_	_	_	Translit=2...10000.nw
+6	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+
+# sent_id = IBcBiFKpByHHBEd4gFLB6Qixa2k
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Heilmittel zum Öffnen des Leibes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,1]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓊪𓐍𓆼𓄿𓍸𓏛	133010	VERB	verb	VerbForm=Fin	_	_	_	Translit=spḫꜣ
+4	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcBiLSPvEOnp0o2oiMJ4jWsKzA
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde gekocht,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,3]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcBiEibojIGyUG9iQYGhqfcYQo
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Umkehren der Haut:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓊪𓈖𓂝𓊜	132800	VERB	verb	VerbForm=Fin	_	_	_	Translit=spnꜥ
+4	𓇋𓆛𓈖𓌰𓅓𓁸𓏛	27420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnm
+
+# sent_id = IBcBiBToCzh6wk2cmWmttYhDr2M
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Honig: 1, rotes Natron: 1, unterägyptisches Salz: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,3] - [87,4]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓎛𓋴𓏠𓈖𓂧𓈙𓂋𓏯𓈒𓏥	110120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥzmn-dšr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBiBILjiQmOEvCm93t7WkcYxM
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,4]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBiOs82o9A30BrvHlkqGsE7MQ
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Der Leib werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,4]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBiJDsIVIutEcCvWDnQQsmQCw
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Verschönern des Leibes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓄤𓂋𓏏	137350	VERB	verb	VerbForm=Fin	_	_	_	Translit=snfr
+4	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcBiNsbiznguE80icZgSEXe4is
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Pulver vom Alabaster: 1, Pulver vom Natron: 1, unterägyptisches Salz: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,5]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓍱𓊃𓊌𓏥	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓍖𓈖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+12	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBiLMQ59O31E2Bp1hqWr1Kcf4
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde mit diesem Honig zu einer Masse vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,5] - [87,6]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓇑𓇑𓈖𓈖	500001	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn-n
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bj.t
+
+# sent_id = IBcBiABVW6ZmhkhgokNpOdRrKYU
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Der Leib werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,6]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBiCuEjBTu7EaWiCfPaGNdnxk
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Zusammenziehungen (d.h. Runzeln?) des Gesichts:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈎𓂋𓆑𓏲𓏌𓏥	161730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qrf.w
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+
+# sent_id = IBcBiMoQyuOHgk37lP2sZrq0hjc
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Weihrauch(halt)iges Gummiharz (?): 1, Wachs: 1, frisches Olivenöl: 1, $gw$-Gras: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,7]
+1	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+8	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+11	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBiBl9WolhvE2lhFy6NLOtifA
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,7]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏟𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcBiAFkbkvWZUScvxxaaWh1WTo
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = werde in Pflanzenbrei gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,7]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcBiPhCziNWfErFkhizpfYqU2k
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde täglich ans Gesicht gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,8]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+4	𓇳𓏤𓎟𓏏	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBcBiKXQUuSkXUeduF2hGW7cTeA
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Tue (es) und du wirst (den Erfolg) sehen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,8]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcBiHleKpg85UcMhqtON82zyVM
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Veranlassen, dass sich das Gesicht strafft:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓊪𓂧𓌒𓂻	63170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḏ
+5	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+
+# sent_id = IBcBiFinJvW5skm3gvmiQk4Wx5o
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Pulver vom Gummiharz mit Wasser vom $pꜣd.w$-Gewässer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,8] - [87,9]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+7	𓅯𓄿𓂧𓅱𓈗	875714	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pꜣd.w
+
+# sent_id = IBcBiIwNd6f7HEs1hYHf8iz1mXo
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Nachdem sie (d.h. die Patientin) sich ihr Gesicht wäscht (wie) jeden Tag, soll sie ihr Gesicht damit salben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,9] - [87,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓇋𓂝𓈗	21550	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥi̯
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+8	𓐍𓂋	400037	PART	particle	_	_	_	_	Translit=ḫr
+9	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+10	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+11	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+13	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+14	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBiLP9ay1JKUWykQjL8qeW1Zc
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBiGuT7ir7u0mJvuHWnZJYdZ0
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde vermischt
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,11]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+
+# sent_id = IBcBiAjjqGGxvEWNqpXQA5EIWPg
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = werde in Pflanzenbrei geschlagen/untergerührt (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,11] - [87,12]
+1	𓆼𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcBiIhScgABkUGtoPXRROuYgRI
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Das Gesicht werde damit täglich gewaschen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,12]
+1	𓇋𓂝𓈗	21550	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥi̯
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBcBiLi2tZEAz0NbpuuMlRovaA8
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBiMTojI4AqEuDlJUX6rkdcWc
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = werde in Pflanzenbrei geschlagen/untergerührt (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,13]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcBiMEle7DGwky3jrSDfebBbSI
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBiKgsM1aFR0ITgNyQk5rMe7w
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Saft der $qb.w$-Pflanze, Pulver vom Alabaster, Gummiharz, grüner Glasfluss.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,13] - [87,14]
+1	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓈎𓃀𓏁𓏲𓆰𓏥	160120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qb.w
+4	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓍱𓊃𓊌𓏥	156950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šs
+7	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+8	𓍍𓏏𓏤	104800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+9	𓇅𓏏𓏛	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBcBiKAZC3JIZUoIkyEN20kxdZA
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde mit Honig vermischt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,14]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBcBiBvd2G4bykmzkwta82o03T0
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = werde in Muttermilch geschlagen/untergerührt (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,15]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓁹𓂋𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+4	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+
+# sent_id = IBcBiMHFAopaA0cgtM5mxw4Q0QM
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = ((Das Gesicht)) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,15]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcBiHlIPCvuO0fLrcg8anIewpg
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen der $ḥtꜣ.w$-Erscheinungen des Gesichts:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,15] - [87,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓎛𓏏𓍔𓄿𓏲𓅪𓏥	111060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtꜣ.w
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+
+# sent_id = IBcBiOLsc12qUUKcpVJDALtrxHA
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde mit Rotem Ocker vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,16]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓏠𓈖𓈙𓏏𓈒𓏥	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+
+# sent_id = IBcBiEFQNbP8aUTArZqxVTu2Ojc
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Blut, das im Inneren des Leibes frisst:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓊃𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+5	𓏶𓅓𓏲𓀁	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
+6	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+7	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBcBiMKivBYY6kq1jgQycVhwmQc
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,19]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBiF4cwPDoy0Wstp2BUjWQwH0
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBiGEnZYUae0dfv343kCeMjaM
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) gegen Blutfraß:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏶𓅓𓀁𓊃𓈖𓆑𓂐𓏥	872147	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnm-znf
+
+# sent_id = IBcBiGqP8ihQHEUbgDCKdasejl8
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Dattelsaft: 1, Johannisbrot: 1, Früchte/Samen der $tḥwꜣ$-Pflanze: 1, (Gefäß-)Scherbe: 1, Granit: 1, das Innere einer Süßwassermuschel: 1, gegorener Pflanzenbrei: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,20] - [87,21]
+1	𓇜𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+6	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+7	𓏤	_	_	_	_	_	_	_	_
+8	𓅯𓄿𓈎𓇋𓇋𓏏𓊌	59350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+9	𓏤	_	_	_	_	_	_	_	_
+10	𓌴𓄿𓏏𓊌	67580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣṯ
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓏶𓅓𓏭	25120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j
+13	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+14	𓐣𓇋𓇋𓏏𓆇	850426	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜥ.yt
+15	𓏤	_	_	_	_	_	_	_	_
+16	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+17	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+18	𓂝𓍯𓄿𓇋𓇋𓏏𓏊𓏪	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+19	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcBiPFW7ZCesEfBq6ccuKhpJGA
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [87,21]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcBiFAD8gPJ5UhgrF9OqQrDbX4
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) gegen Blutfraß in allen (möglichen) Körperteilen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,1]
+1	𓎢	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏶𓅓𓀁𓊃𓈖𓆑𓂐𓏥	872147	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnm-znf
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+6	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcBiJgAw53WwEZxv09ZwT0pZo4
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Zwiebeln/Knoblauch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,1]
+1	𓌉𓏲𓆰𓏥	112710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+
+# sent_id = IBcBiFlPCXPTWEWRqOMgAlgUHV8
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde in Fett zerkleinert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,1]
+1	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+
+# sent_id = IBcBiA8SQvvM8EQztbzVQmYS8zE
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an den betroffenen Körperteil) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,2]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBiH8e6vYjRES3i2h29XkXRBo
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcBiKhDegGedUKflrQOj8CdvSU
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = $ꜣḥ$-Brei.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,2]
+1	𓄿𓎛𓏌𓏥	186	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḥ
+
+# sent_id = IBcBiM621opldkQkoJC7WtZThGw
+# corpus = sawmedizin
+# src_text_id = LCCCO3C7YNFPFP3CZC3MCFYNCI
+# src_text = sawmedizin:Papyrus Ebers//86,4-88,3 ⸗ Eb 705-725: Heilmittel gegen verschiedene Leiden im Zusammenhang mit Körperflüssigkeiten und der Körperoberfläche
+# owner = Lutz Popko
+# text_de = Werde an alle Körperteile gegeben, an denen Blut auftritt (wörtl.: entsteht).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [88,2] - [88,3]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+5	𓆣𓂋𓏏	858535	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

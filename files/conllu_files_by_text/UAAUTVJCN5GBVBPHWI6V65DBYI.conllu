@@ -1,0 +1,102 @@
+# sent_id = IBUBd62wWZyeZUeNqoKd9hqsSVg
+# corpus = sawlit
+# src_text_id = UAAUTVJCN5GBVBPHWI6V65DBYI
+# src_text = sawlit:Stele des Montuemhat (Boston MFA 29.1130)//〈Stele des Montuemhat (Boston MFA 29.1130)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one sharp-witted in the council of many in making plans of the soldiers,
+# findspot = Nubia
+# date = MK & SIP
+# lineRef = [1] -  [2]
+1	𓊪𓎼𓄿	62730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pgꜣ
+2	𓁷𓂋	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉲	140260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḥ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓆈𓏏𓏥	41050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥšꜣ.wt
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+9	𓊃𓐍𓂋𓏛	142800	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sḫr
+10	𓏠𓈖𓆑𓂝𓏏𓏪	70670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnfꜣ.t
+
+# sent_id = IBUBd9sGY9uwZkiNgXHCuj1S2rk
+# corpus = sawlit
+# src_text_id = UAAUTVJCN5GBVBPHWI6V65DBYI
+# src_text = sawlit:Stele des Montuemhat (Boston MFA 29.1130)//〈Stele des Montuemhat (Boston MFA 29.1130)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one precise to the king at the head of his nobles in order to crush the insurgents of Asia and the rebels of the northern countries,
+# findspot = Nubia
+# date = MK & SIP
+# lineRef = [2] -  [3]
+1	𓂸𓏏𓂋𓂭𓂭	400854	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mtj
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+4	𓏃𓈖𓏏	119050	ADJ	adjective	_	_	_	_	Translit=ḫnt.j
+5	𓀻𓏥	153870	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šps.w
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓂧𓄿𓇋𓂋𓌗𓀜	177740	VERB	verb	VerbForm=Fin	_	_	_	Translit=dꜣr
+9	𓐍𓈖𓇋𓇋𓅱𓀺𓏪	117500	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḫn
+10	𓋫𓏏𓏏𓈉	148620	PROPN	entity-name	_	_	_	_	Translit=Sṯ.t
+11	𓋴𓃀𓇋𓅱𓌙𓏪	131530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbj
+12	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+13	𓇿𓇿𓇿	854573	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=tꜣ
+14	𓎔𓅂	73560	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=mḥ.tj
+
+# sent_id = IBUBd1CQJ4IOF00zlt9p1cwAY4M
+# corpus = sawlit
+# src_text_id = UAAUTVJCN5GBVBPHWI6V65DBYI
+# src_text = sawlit:Stele des Montuemhat (Boston MFA 29.1130)//〈Stele des Montuemhat (Boston MFA 29.1130)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = whose products have inundated the two lands,
+# findspot = Nubia
+# date = MK & SIP
+# lineRef = [3] -  [4]
+1	𓃀𓂝𓎛𓏛𓈖	55080	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=bꜥḥi̯
+2	𓌶𓂝𓅱𓈓	66780	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mꜣꜥ.w
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇾𓇾	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+
+# sent_id = IBUBd4uW59I4ekJXkXn5W299dr0
+# corpus = sawlit
+# src_text_id = UAAUTVJCN5GBVBPHWI6V65DBYI
+# src_text = sawlit:Stele des Montuemhat (Boston MFA 29.1130)//〈Stele des Montuemhat (Boston MFA 29.1130)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = whose gifts have made festive the palace,
+# findspot = Nubia
+# date = MK & SIP
+# lineRef = [4]
+1	𓊃𓎛𓃀𓎳𓈖	140620	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=sḥꜣbi̯
+2	𓏎𓈖𓅱𓏪	27040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jn.w
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓉥	39850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥ
+
+# sent_id = IBUBdWCGBnJbaEDjolJpmBFEr7A
+# corpus = sawlit
+# src_text_id = UAAUTVJCN5GBVBPHWI6V65DBYI
+# src_text = sawlit:Stele des Montuemhat (Boston MFA 29.1130)//〈Stele des Montuemhat (Boston MFA 29.1130)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = who equips the estates of the one who had advanced him,
+# findspot = Nubia
+# date = MK & SIP
+# lineRef = [4]
+1	𓂝𓊪𓂋𓄃	37090	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥpr
+2	𓉗𓏏𓏥	99790	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥw.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+4	𓊃𓏠𓈖𓐍𓍊	135360	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=smnḫ
+5	𓆄𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd8mbEH8QIULmpH1ZQUCW8V4
+# corpus = sawlit
+# src_text_id = UAAUTVJCN5GBVBPHWI6V65DBYI
+# src_text = sawlit:Stele des Montuemhat (Boston MFA 29.1130)//〈Stele des Montuemhat (Boston MFA 29.1130)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = who distinguished himself more than those who had existed before,
+# findspot = Nubia
+# date = MK & SIP
+# lineRef = [5]
+1	𓊃𓍿𓈖𓌙	854556	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sṯni̯
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆣𓂋𓅱	858535	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓅓𓄂𓏏𓏤	500048	ADV	adverb	_	_	_	_	Translit=m-ḥꜣ.t
+

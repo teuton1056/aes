@@ -1,0 +1,39 @@
+# sent_id = IBUBd8FUxeCqvUzavBuW9nQsbGg
+# corpus = bbawamarna
+# src_text_id = CK5AWCHXI5EYVL6764PHZKCOXQ
+# src_text = n/a
+# owner = Gunnar Sperveslage
+# text_de = Ein Opfer, das der König und der lebende Aton, geben, Herr der Ewigkeit, der das Schicksal bestimmt, der den Reichtum entstehen lässt, der alles, was er erschaffen hat, am Leben erhält.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [27]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+5	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥnḫ
+6	𓎟𓎛𓇳𓎛	400869	_	epitheton-title	_	_	_	_	Translit=nb-nḥḥ
+7	𓁹𓄿𓆷𓇋𓇋𓀭	859526	_	epitheton-title	_	_	_	_	Translit=jr-šꜣ.w
+8	𓋴𓆣𓂋𓂋𓈖𓈖𓏏𓆗	859528	_	epitheton-title	_	_	_	_	Translit=sḫpr-rnn.t
+9	𓋴𓋹𓈖𓐍𓈎𓌳𓌙𓏛𓈖𓆑𓎟	859527	_	epitheton-title	_	_	_	_	Translit=sꜥnḫ-qmꜣ.n⸗f-nb
+
+# sent_id = IBUBd1h4FKjUPE2YqEoaqytjt28
+# corpus = bbawamarna
+# src_text_id = CK5AWCHXI5EYVL6764PHZKCOXQ
+# src_text = n/a
+# owner = Gunnar Sperveslage
+# text_de = Für den Ka des einzigen Vortrefflichen, des Gelobten des vollkommenen Gottes, Ersten in der Gunst des Hofstaates, Schüler, den seine Majestät unterrichtet hat, Vorsteher der Maurer, Maa-nachtef, der wieder lebt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [28]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓌡𓇋𓈎𓂋𓏛	859545	_	epitheton-title	_	_	_	_	Translit=wꜥ-jqr
+5	𓎿𓇋𓇋𓈖𓊹𓄤	859489	_	epitheton-title	_	_	_	_	Translit=ḥz.y-n-nṯr-nfr
+6	𓄂𓏲𓏏𓏭𓂻𓐝𓎿𓍲𓈖𓇋𓏏𓇋𓀙	859531	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.wtj-m-ḥzw.t-šnw.t
+7	𓌨𓂝𓏤𓋴𓇼𓃀𓈖𓍛𓏤𓆑	859547	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ꜥ-sbꜣ.n-ḥm⸗f
+8	𓄓𓀨𓂡	401207	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-qd.w
+9	𓌵𓄿𓄿𓈖𓆱𓐍𓏏𓂡𓏏𓏭𓆑𓀰	701738	PROPN	entity-name	_	_	_	_	Translit=Mꜣꜣ.n⸗j-nḫt.w⸗f
+10	𓄙𓋹	400175	_	epitheton-title	_	_	_	_	Translit=wḥm-ꜥnḫ
+

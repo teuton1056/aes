@@ -1,0 +1,90 @@
+# sent_id = IBUBd3cCXLnnQE0dvGlAuB25Hac
+# corpus = sawlit
+# src_text_id = 62AD3D3IY5EMTHDDJZ5UV42RWM
+# src_text = sawlit:〈hintere Innenwand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = So entstand die Feurige (Uräusschlange) am Himmel.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [32]
+1	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓈖𓄓𓊃𓏴𓏏𓊮	88240	PROPN	entity-name	_	_	_	_	Translit=Nzr.t
+3	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd7GdsqEzj0j3kMH5EC0Sl8s
+# corpus = sawlit
+# src_text_id = 62AD3D3IY5EMTHDDJZ5UV42RWM
+# src_text = sawlit:〈hintere Innenwand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Was jeden vorzüglichen Schreiber angeht, der die Hieroglyphen und seine Aussprüche kennt, der (wird) hervorkommen (aus) und hinabsteigen (können) in den Himmel.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [33] - [34]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏞	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+3	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+4	𓇋𓈎𓂋𓏛	400076	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jqr
+5	𓂋𓐍𓏛	95620	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫ
+6	𓊹𓌃𓂧𓅱𓀁𓏥	78190	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mdw-nṯr
+7	𓁶𓊪𓇋𓇋𓅱𓏥𓂋𓏤	171130	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=tp-rʾ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓅓𓄚𓈖𓏌𓅱𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+16	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd3wWUEhWjk9bhXoLKtU4z4k
+# corpus = sawlit
+# src_text_id = 62AD3D3IY5EMTHDDJZ5UV42RWM
+# src_text = sawlit:〈hintere Innenwand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Man kann (ihm) keine Untat, die er auf Erden beging, anrechnen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [37]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓐎𓏛𓈖	109870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsb
+3	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓂝𓍯𓄿𓏏𓂡	35960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.t
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+6	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁶𓏤	850801	ADP	preposition	_	_	_	_	Translit=tp
+9	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBdzbeWn9bU0jlnow25DfWlvs
+# corpus = sawlit
+# src_text_id = 62AD3D3IY5EMTHDDJZ5UV42RWM
+# src_text = sawlit:〈hintere Innenwand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = Der Osiris, König 𓍹Tutanchamun, Herrscher des oberägyptischen Heliopolis𓍺, lebt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓊨𓀭	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+3	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+4	𓇋𓏠𓈖𓏏𓅱𓏏𓋹𓋾𓉺𓇓	855570	PROPN	entity-name	_	_	_	_	Translit=Twt-ꜥnḫ-Jmn-ḥqꜣ-Jwn.w-Šmꜥ.w
+5	𓋹𓈖𓐍	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBd0dIR29hwUHFva5FHT9krso
+# corpus = sawlit
+# src_text_id = 62AD3D3IY5EMTHDDJZ5UV42RWM
+# src_text = sawlit:〈hintere Innenwand〉//〈Das Buch von der 〉Himmelskuh〈 (oder: Die Vernichtung des Menschengeschlechts)〉
+# owner = Lutz Popko
+# text_de = sie mögen (ihn) zum Weg des Lebens leiten
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓋴𓌬𓐝	144980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšmi̯
+2	𓊃𓊃𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wꜣ.t
+5	𓋹𓈖𓐍	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+

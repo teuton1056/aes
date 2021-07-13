@@ -1,0 +1,35 @@
+# sent_id = IBUBd0SnQGpuuUyMpePAx1rrIOM
+# corpus = bbawgrabinschriften
+# src_text_id = IYXYBDECIJCSVC2YJAVQFQH7BI
+# src_text = bbawgrabinschriften:Westwand//Beischriften (1. Register v.u.)
+# owner = Stefan Grunert
+# text_de = Ein Jungtier der weißen Säbelantilope.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1. Beischrift]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓌉	66260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ-ḥḏ
+
+# sent_id = IBUBdW4McfPYu0hpvgxcKMaaocE
+# corpus = bbawgrabinschriften
+# src_text_id = IYXYBDECIJCSVC2YJAVQFQH7BI
+# src_text = bbawgrabinschriften:Westwand//Beischriften (1. Register v.u.)
+# owner = Stefan Grunert
+# text_de = Eine Hyäne.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2. Beischrift]
+1	𓎛𓍿𓏏	112040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥṯ.t
+
+# sent_id = IBUBdQ9Zk4XxcUsngL9w7OKH4PI
+# corpus = bbawgrabinschriften
+# src_text_id = IYXYBDECIJCSVC2YJAVQFQH7BI
+# src_text = bbawgrabinschriften:Westwand//Beischriften (1. Register v.u.)
+# owner = Stefan Grunert
+# text_de = Ein Jungtier der Mendes-Antilope .
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3. Beischrift]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓏌𓈋	81640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nwḏ.w
+

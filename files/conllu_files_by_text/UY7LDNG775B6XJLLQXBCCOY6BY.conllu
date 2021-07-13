@@ -1,0 +1,34 @@
+# sent_id = IBUBdzAnxuipj0dDgn8UVNGZ29g
+# corpus = bbawgrabinschriften
+# src_text_id = UY7LDNG775B6XJLLQXBCCOY6BY
+# src_text = bbawgrabinschriften:Südscheintür//linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis, der vor der Gotteshalle ist, gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏙𓊵𓏏𓊪	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏏𓊪𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓏅𓊹𓉱	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+
+# sent_id = IBUBdyUfW43000BMswdn4O8Ck50
+# corpus = bbawgrabinschriften
+# src_text_id = UY7LDNG775B6XJLLQXBCCOY6BY
+# src_text = bbawgrabinschriften:Südscheintür//linker Außenpfosten
+# owner = Stefan Grunert
+# text_de = Er möge sehr friedlich auf den schönen Wegen wandeln, der Versorgte beim großen Gott Kai-huief.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓐍𓊪	116050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+4	𓅓𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+5	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈐𓈐𓈐𓏏	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+7	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+8	𓇋𓌳𓄪𓐍𓅱𓂋𓊹𓉻	850380	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-nṯr-ꜥꜣ
+9	𓂓𓎛𓇋𓆑	707693	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-ḥwi̯⸗f
+

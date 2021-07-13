@@ -1,0 +1,59 @@
+# sent_id = IBUBd5EYrobaCUKfskqaLRi1M6M
+# corpus = bbawgrabinschriften
+# src_text_id = RL7Y2BAFRJCQZCR4MAR43XWB5U
+# src_text = bbawgrabinschriften:rechte Laibung, unteres Register//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Totenpriester Beb-ib.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓃀𓃀𓄣	450301	PROPN	entity-name	_	_	_	_	Translit=Bb-jb
+
+# sent_id = IBUBd6pFWHWCWUnopaZIuYis4vc
+# corpus = bbawgrabinschriften
+# src_text_id = RL7Y2BAFRJCQZCR4MAR43XWB5U
+# src_text = bbawgrabinschriften:rechte Laibung, unteres Register//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Ihy.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓇋𓇋𓇋𓇋	450136	PROPN	entity-name	_	_	_	_	Translit=Jḥy
+
+# sent_id = IBUBdQOr8jfcOUa1gXucKO1iPGA
+# corpus = bbawgrabinschriften
+# src_text_id = RL7Y2BAFRJCQZCR4MAR43XWB5U
+# src_text = bbawgrabinschriften:rechte Laibung, unteres Register//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Intj.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓆛𓏌𓇋	708854	PROPN	entity-name	_	_	_	_	Translit=Jntj
+
+# sent_id = IBUBdzLB7K9WhEWfo2hnmwru7AE
+# corpus = bbawgrabinschriften
+# src_text_id = RL7Y2BAFRJCQZCR4MAR43XWB5U
+# src_text = bbawgrabinschriften:rechte Laibung, unteres Register//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Chemet-nu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓐍𓂸𓈗𓏌𓅱	705587	PROPN	entity-name	_	_	_	_	Translit=Ḫmt-nw
+
+# sent_id = IBUBdzLiWsGAW0IhirdomxUnLCE
+# corpus = bbawgrabinschriften
+# src_text_id = RL7Y2BAFRJCQZCR4MAR43XWB5U
+# src_text = bbawgrabinschriften:rechte Laibung, unteres Register//Personenbeischriften
+# owner = Stefan Grunert
+# text_de = Die Hausangestellte(?) Neferet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓊪𓂋𓏏𓅂	853874	_	epitheton-title	_	_	_	_	Translit=pr.tjw
+2	𓄤𓂋𓏏	550116	PROPN	entity-name	_	_	_	_	Translit=Nfr.t
+

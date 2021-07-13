@@ -1,0 +1,35 @@
+# sent_id = IBUBdwLKJ8y8q01NiTQOchWWZhY
+# corpus = bbawgrabinschriften
+# src_text_id = UAB23RZBE5ECXGISIRNE5R55QE
+# src_text = bbawgrabinschriften:Südwand//Opferdarbringung
+# owner = Stefan Grunert
+# text_de = Hetep.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Personenbeischrift⁝ 1]
+1	𓊵𓎛𓊪	400024	PROPN	entity-name	_	_	_	_	Translit=Ḥtp
+
+# sent_id = IBUBd4l807JA7UusseDWPbX1Q18
+# corpus = bbawgrabinschriften
+# src_text_id = UAB23RZBE5ECXGISIRNE5R55QE
+# src_text = bbawgrabinschriften:Südwand//Opferdarbringung
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Anch-haf.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Personenbeischrift⁝ 2]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓋹𓇉𓆑	450414	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ-ḥꜣ⸗f
+
+# sent_id = IBUBd8HebeeZLkYBlOMZuZrdGT0
+# corpus = bbawgrabinschriften
+# src_text_id = UAB23RZBE5ECXGISIRNE5R55QE
+# src_text = bbawgrabinschriften:Südwand//Opferdarbringung
+# owner = Stefan Grunert
+# text_de = Der Leiter des Speisezeltes Nit-anch-Hathor.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Personenbeischrift⁝ 3]
+1	𓌂𓉲	450533	_	epitheton-title	_	_	_	_	Translit=ḫrp-zḥ
+2	𓉡𓈖𓋹	702666	PROPN	entity-name	_	_	_	_	Translit=N.jt-ꜥnḫ-Ḥw.t-Ḥr.w
+

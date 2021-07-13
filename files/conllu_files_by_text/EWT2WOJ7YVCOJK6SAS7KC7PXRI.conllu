@@ -1,0 +1,177 @@
+# sent_id = IBUBdxbGgdW9yUBJiQvDG3OxNFU
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am the only "Bull of Montu", one praised by his lord every day.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6] - [A.7]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌡𓂝	44150	ADJ	adjective	_	_	_	_	Translit=wꜥ
+3	𓂓𓏤𓂸𓏤𓃒	162930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓏠𓈖𓍿𓅱𓀭	71660	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w
+6	𓎛𓎿𓊃𓊃𓅱	109620	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḥzi̯
+7	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBd6LV3aKPFE7GlKVUtnSnlZw
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The troops of Thebes loved me.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓍑𓄿𓅓𓀀𓏪	182160	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏꜣm
+2	𓌀𓈈𓊖𓏏𓏤	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓌻𓂋𓏏	72470	VERB	verb	VerbForm=Fin	_	_	_	Translit=mri̯
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdQNwlDMvY0GKve0QXKJOGxE
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I have never committed rebellion (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓂜𓊃𓊪𓊗	79450	PART	particle	_	_	_	_	Translit=n-zp
+2	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀭	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓁶𓏤𓐍𓈖𓆊𓏏𓏤	859178	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp-ḫn.t
+
+# sent_id = IBUBd0JqSvQ3nkeIh8SSQiWNCXo
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The great ones praised me,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓅨𓂋𓀭𓏪	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓎿𓊃𓏏	109620	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥzi̯
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdWW7818dZEUUhuWckHKfLN8
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Alle guten Sachen für deinen Ka.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+3	𓄤	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓂓	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd88pV8ELbEn1hm6k59watRo
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine geliebte Ehefrau, die Hathorpriesterin Menechet, gerechtfertigt von Stimme.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊹𓍛𓉡𓏏𓉐	400979	_	epitheton-title	_	_	_	_	Translit=ḥm.t-nṯr-Ḥw.t-Ḥr.w
+6	𓏠𓈖𓐍𓏏𓍊𓏪	_	X	unknown	_	_	_	_	_
+7	𓌳𓐙𓏏𓊤𓅱	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBd1SiXPcK30IZhvV4luQwpQg
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Erlesene Fleischstücke; Speisenbedarf für das Totenmahl.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓍉𓏏	550337	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=stp.t
+2	𓂧𓄑𓏏𓊵	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+
+# sent_id = IBUBdQBWiiWwTUdhjipuigqbjDA
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Festduft; $sfṯ$-Öl; "Lobpreis"-Öl; bestes Zedernöl; bestes Libyeröl.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.4]
+1	𓋴𓍿𓐎𓎳	149100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯj-ḥꜣb
+2	𓋴𓆑𓏏𓐎	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+3	𓎛𓎡𓏌𓅱	110870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkn.w
+4	𓄂𓏏𓏏𓂝𓈙𓐎	851494	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tjt-n.t-ꜥš
+5	𓄂𓏏𓏏𓋤𓅱𓏥	851495	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tjt-n.t-ṯḥn.w
+
+# sent_id = IBUBd1KioD8YVE2CpPBcVWaWk10
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Das Darreichen der Öle durch den Herold Ipuy.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5]
+1	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓌻𓂋𓎛𓏏𓏥	72840	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mrḥ.t
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓄙	855699	_	epitheton-title	_	_	_	_	Translit=wḥm.w
+5	𓇋𓊪𓅱𓇋𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdycHBNW5tk4imWu57sfrEQk
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Majordomus und Siegler, Nachti.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.6]
+1	𓅓𓂋𓉐𓏤	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+2	𓋨𓏏	850589	_	epitheton-title	_	_	_	_	Translit=ḫtm.tj
+3	𓈖𓆱𓐍𓏏𓇋	200001	PROPN	entity-name	_	_	_	_	Translit=Nḫtj
+
+# sent_id = IBUBd8DN3KWjD0NygyinR7JRP2I
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Lagerhausvorsteher Ipi-anch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.7]
+1	𓅓𓂋𓍁𓉐	600556	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-šnꜥ.w
+2	𓇋𓊪𓇋𓋹𓈖𓐍	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdwWOs3M11E8wgIneajYexuA
+# corpus = sawlit
+# src_text_id = EWT2WOJ7YVCOJK6SAS7KC7PXRI
+# src_text = sawlit:Stele des Nesmontu (Louvre C 1 ⸗ N 155)//〈Stele des Nesmontu (Louvre C 1 ⸗ N 155)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein geliebter Sohn Mennu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.8]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏠𓈖𓏌𓏤𓉐𓅱	_	X	unknown	_	_	_	_	_
+

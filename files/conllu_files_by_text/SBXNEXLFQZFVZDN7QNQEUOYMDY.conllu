@@ -1,0 +1,258 @@
+# sent_id = IBUBdzO5f49jpk69u2axub2aMSs
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Anfang der (wörtl.: aus/mit der) Lehre, die verfaßt hat die Majestät des Königs von Ober- und Unterägypten 𓍹Sehetep-ib-Re𓍺, der Sohn des Re 𓍹Amenemhat𓍺, der Gerechtfertigte, der (wörtl.: indem er) in einem Offenlegen der Wahrheit (d.h. in einer Vision?) zu seinem Sohn, dem Allherrn, spricht.
+# findspot = unknown
+# date = NK
+# lineRef = [1, 1] - [1, 2]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓋴𓃀𓇼𓄿𓇋𓇋𓏏𓏛	131390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sbꜣ.yt
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓇓𓆤	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+7	𓇳𓋴𓊵𓏏𓊪𓄣𓏤	400449	PROPN	entity-name	_	_	_	_	Translit=Sḥtp-jb-Rꜥw
+8	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+9	𓇋𓏠𓈖𓅓𓄂𓏏𓏤	400161	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+10	𓌷𓂝𓊤𓏲𓀁	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+11	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓄋𓊪𓏏𓏴𓀁	45640	VERB	verb	VerbForm=Fin	_	_	_	Translit=wpi̯
+15	𓌷𓂝𓏏𓆅𓏏𓏥	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+16	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+17	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓎟𓂋𓇥𓂋𓅆	82220	_	epitheton-title	_	_	_	_	Translit=nb-r-ḏr
+
+# sent_id = IBUBd9iUVRpyREFgsXibkFz8rTo
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Erschienen als Gott, sagt er:
+# findspot = unknown
+# date = NK
+# lineRef = [1, 2]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈍𓂝𓏛	114740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜥi̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd8ctTotauE9bgfEVnr3aHk8
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Nimm dich in acht (wörtl.: nimm dich zusammen), gerade vor dem $smd.t$-Personal, das es zu nichts gebracht hat (?), und um dessen Hinterlist man sich keine Gedanken gemacht hat.
+# findspot = unknown
+# date = NK
+# lineRef = [1, 3] - [1, 4]
+1	𓋴𓐠𓄿𓈎𓆌𓏛	127330	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sꜣq
+2	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴𓅓𓂧𓏏𓏯𓀀𓁐𓏥	136030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=smd.t
+5	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏏𓍃𓅓𓏏𓏛	854578	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+8	𓆣𓏤	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+9	𓏏𓍃𓅓𓅓𓏏	854578	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=tm
+10	𓂋𓂝	_	X	unknown	VerbForm=Fin	_	_	_	_
+11	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+12	𓅓𓐠𓏤	851454	ADP	preposition	_	_	_	_	Translit=m-sꜣ
+13	𓁷𓂋𓐡𓀜𓏫	109010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr.w
+14	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd2gK5AWQCkQVhzDCgYlLjXE
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Nähere (dich) ihnen nicht, falls du allein bist (oder: in deiner Einsamkeit/Einzigartigkeit)!
+# findspot = unknown
+# date = NK
+# lineRef = [1, 4]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓏏𓎢𓈖𓂻	173680	VERB	verb	VerbForm=Fin	_	_	_	Translit=tkn
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓌡𓂝𓏲𓅪	44360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wꜥꜥ.w
+7	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd95HPzbFj0rMq8zsaXalPzU
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Kenne keinen Freund (d.h. erkenne niemanden als Freund an)!
+# findspot = unknown
+# date = NK
+# lineRef = [1, 4]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓂋𓐍𓏛	95620	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḫ
+3	𓐍𓈖𓌰𓅓𓋴𓀙𓏛𓀀	118260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫnms
+
+# sent_id = IBUBd2Qu7QlJ6kb8lz0XJQDeCwM
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Erschaffe dir keine Vertrauensleute!
+# findspot = unknown
+# date = NK
+# lineRef = [1, 4] - [1, 5]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓋴𓆣𓂋𓏲	142050	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫpr
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅧𓈎𓂻𓀀𓁐𓏥	41190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥq.w
+
+# sent_id = IBUBdywXWK9kmkUBmWD8pQ6pPys
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Der, dem ich meine Arme (als Unterstützung) gegeben habe, erschuf damit Hinterlist.
+# findspot = unknown
+# date = NK
+# lineRef = [1, 7]
+1	𓂋𓂝𓈖	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂝𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴𓆣𓂋	142050	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫpr
+9	𓁷𓂋𓐡𓀜𓏫	109010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w
+10	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd9gAU2BfH0FXvzBl1wvULXU
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Die mein feines Leinen angezogen hatten, betrachteten mich wie $šw$-Gras (?; oder: einen Grasgekleideten?).
+# findspot = unknown
+# date = NK
+# lineRef = [1, 7] - [1, 8]
+1	𓃹𓈖𓐍𓅱𓍼𓋳𓏫	46920	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnḫ
+2	𓊪𓈎𓏏𓆀𓋳𓏥	59330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pꜣq.t
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌴𓁹𓄿𓈖	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+8	𓆅𓏲𓇋𓇋𓆰𓏥	152940	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šw.w
+
+# sent_id = IBUBd57GIHg97EGFtyE1rBkfGZE
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Es war (die Zeit) nach dem Abendessen, (als) die Nacht eingesetzt hatte, (und nachdem) ich eine Stunde der Herzensfreude verbracht (wörtl.: empfangen) hatte.
+# findspot = unknown
+# date = NK
+# lineRef = [1, 11] - [1, 12]
+1	𓂋𓐠𓏤	851453	ADP	preposition	_	_	_	_	Translit=r-sꜣ
+2	𓄟𓋴𓇋𓇋𓏏𓈀𓏥	75090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ms.wt
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓆼𓄿𓏲𓏭𓇰	113750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣwj
+5	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓊏𓊪𓂡𓈖	157160	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnw.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓄤𓆑𓂋𓄣𓏤	650060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nfr-jb
+
+# sent_id = IBUBd57p2ukO8EMAudyiEQUFvs4
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Siehe, die zu meinem Schutz bestimmten Waffen wurden überall verteilt (?; d.h. die Wachposten wurden aufgestellt), während ich mich verhielt wie die $sꜣ-tꜣ$-Schlange der Wüste (d.h. zusammengerollt oder still daliegend).
+# findspot = unknown
+# date = NK
+# lineRef = [2, 1] - [2, 2]
+1	𓇋𓋴𓏲𓀁	851437	PART	particle	_	_	_	_	Translit=jsw
+2	𓋴𓄲𓂋𓏲𓂻	133030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spẖr
+3	𓈍𓂝𓏲𓆱𓏥	114680	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḫꜥ.w
+4	𓐩𓏌𓏲𓀁	90910	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḏ
+5	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓁹𓎢𓏲𓀀	851809	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=jri̯
+9	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+10	𓅭𓇾𓆙	126130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-tꜣ
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓐖𓏏𓈉	134780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmy.t
+
+# sent_id = IBUBd7KfDcmzgkq5mIQXnyOLeLc
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Wird der Wasserlauf, der den Erdboden aushöhlt, aufgebohrt (d.h. wird der Deich durchstochen, wenn das Wasser eine Furche in den Boden gräbt), (so daß) die kleinen Leute um ihre Arbeit (d.h. Ernte) betrogen werden?
+# findspot = unknown
+# date = NK
+# lineRef = [2, 8]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓍏𓃀𓅡𓄿𓌸𓂡𓏏𓏲	44890	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbꜣ
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+5	𓎙𓂧𓂧𓌸𓂡	41940	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥḏ
+6	𓎤𓃀𓃀𓈇𓏥	854570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gbb
+7	𓋴𓏲𓆼𓄿𓅪𓏏𓏲	130690	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swḫꜣ
+8	𓈖𓆓𓊃𓏲𓅪𓏥	91770	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nḏs
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓁹𓇋𓇋𓏏𓏥	28590	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.yt
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdWFUxFmd3EUsqfIKigDJAkc
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Ich stand an der Grenze des Landes, (indem/nachdem) ich sein Inneres gesehen hatte.
+# findspot = unknown
+# date = NK
+# lineRef = [2, 10] - [2, 11]
+1	𓊢𓂝𓂻𓎢𓏲𓀀	851887	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ꜥḥꜥ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇥𓂋𓏲𓈐𓏥	184990	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏr.w
+4	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓌴𓁹𓄿𓈖	66270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓈎𓄿𓃀𓄲𓈇𓏤	650065	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qꜣb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3RcNF8MLkdwi3tV14VpBIY
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = die Türen sind aus Kupfer;
+# findspot = unknown
+# date = NK
+# lineRef = [3, 5]
+1	𓉻𓉿𓆱𓏥	34810	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt
+
+# sent_id = IBUBd9R13XQyskAjrGJ92xWzPCQ
+# corpus = sawlit
+# src_text_id = SBXNEXLFQZFVZDN7QNQEUOYMDY
+# src_text = sawlit:pMillingen//Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Mache deine Grabkammer (?) hervorragend!
+# findspot = unknown
+# date = NK
+# lineRef = [3, 12]
+1	𓋴𓏠𓈖𓐍𓍊𓏛	135360	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=smnḫ
+2	𓂋𓂧𓏲𓌗𓉐	93800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rwḏ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

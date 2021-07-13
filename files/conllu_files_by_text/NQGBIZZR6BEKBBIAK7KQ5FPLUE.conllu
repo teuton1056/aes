@@ -1,0 +1,152 @@
+# sent_id = IBUBdzV2L0jTuEDUhM3WO6cnxao
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Regnal year 10, first month of the inundation season, last day, under the Majesty of the King of Upper and Lower Egypt Kheperkare, given life like Re forever.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1] - [A.2]
+1	𓆳𓏏𓊗	850581	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rnp.t-zp
+2	𓎆	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓌐	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓆷𓐍𓏏	216	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+5	𓇳	854542	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sw
+6	𓂝𓍼𓇋𓇋	39740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥrq.y
+7	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+8	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+11	𓇳𓆣𓂓	400021	PROPN	entity-name	_	_	_	_	Translit=Ḫpr-kꜣ-Rꜥw
+12	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+13	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+14	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+15	𓇳	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+16	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBYBIbS3htSGYkgst7R6CB8aT5A
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓂧𓄑𓏏𓊵	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+
+# sent_id = IBUBdw0Bh5C6O0VFiTGPSnF8GuM
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The lector priest Hezem.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓎛𓌨𓃀	124340	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ḥꜣb.t
+2	𓎛𓊃𓅓	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzIqBh8iFEZzv17vKZk6SGQ
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved brother, the dignified Henu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+6	𓎛𓆰𓈖𓏌𓅱	550045	PROPN	entity-name	_	_	_	_	Translit=Ḥnw
+
+# sent_id = IBUBdQ7JqKDE7ENlpRj23IJx4QY
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His friend Inekni.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓐍𓈖𓌰𓅓𓋴	118260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫnms
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏌𓎡𓈖𓀀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdQ0ffMYiP0QCiUAW0kt74DE
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His attendant Dedetnebu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓊢𓇋𓇋𓏏	40370	_	epitheton-title	Number=Sing|Status=Pron	_	_	_	Translit=ꜥḥꜥ.yt
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂞𓂞𓏏𓋞𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd7tV4yAVGEWAl4ZvErEK1yQ
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The assistant Aau.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.3]
+1	𓌨𓂝	124270	_	epitheton-title	_	_	_	_	Translit=ẖr.j-ꜥ
+2	𓂝𓉻𓋮𓅱𓀀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd1DjxYbzPEYcm6zgEiaWf4g
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The butler Sebekhetep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.4]
+1	𓍏𓃀	855697	_	epitheton-title	_	_	_	_	Translit=wbꜣ
+2	𓆍𓊵𓏏𓊪𓀀	400122	PROPN	entity-name	_	_	_	_	Translit=Sbk-ḥtp.w
+
+# sent_id = IBUBd4ehy5R4nkv9l2nwTAiSQZ0
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The servant Meretites.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.5]
+1	𓅧𓏏	41450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥq.yt
+2	𓌻𓏏𓇋𓏏𓋴𓁐	702196	PROPN	entity-name	_	_	_	_	Translit=Mr.t-jtj⸗s
+
+# sent_id = IBUBdz32iRQqF0QrrzTRUUspvWM
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Her son Nachtsebek.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.6]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓈖𓆱𓐍𓏏𓆍𓀀	703873	PROPN	entity-name	_	_	_	_	Translit=Nḫt-Sbk
+
+# sent_id = IBUBd9WiK8qqg0upp0h6QiI92Lk
+# corpus = sawlit
+# src_text_id = NQGBIZZR6BEKBBIAK7KQ5FPLUE
+# src_text = sawlit:Stele des Dedusobek (Kairo CG 20026)//〈Stele des Dedusobek (Kairo CG 20026)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Her son Ameny.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.7]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓇋𓏠𓈖𓇋𓇋𓀀	400002	PROPN	entity-name	_	_	_	_	Translit=Jmny
+

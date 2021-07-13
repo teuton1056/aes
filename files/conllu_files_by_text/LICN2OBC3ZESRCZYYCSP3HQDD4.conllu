@@ -1,0 +1,310 @@
+# sent_id = IBUBd6l2l7BClEDmgYOjwQOn3OM
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓎟𓊽𓂧𓊖𓅱	400982	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w
+4	𓏅𓋀𓅂𓀭	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+5	𓎟𓍋𓃀𓈋𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊨𓏏𓏥	854540	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=s.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBUBd5Wp2cQQLE5apuLyEWf30fY
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge er das Firmament überqueren.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4]
+1	𓍑𓄿𓊛	181780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓈟𓊌	54320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjꜣ
+
+# sent_id = IBUBd7X34FR2bUsRijP8VHIw3O0
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge er den Himmel durchziehen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.4]
+1	𓈖𓌰𓅓𓇋𓂻	84130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nmj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓁷𓂋𓏏𓈐	107670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥr.t
+
+# sent_id = IBUBd94d3HFBHk14lgjBgm5wJt0
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge er zum westlichen Horizont gehen zu dem Ort, an dem Osiris ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5]
+1	𓋴𓍑	150210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓈌𓏏𓏤	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+5	𓋀𓏏𓏏	26150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jmn.tj
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓃀𓅱	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+8	𓈖𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+9	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+10	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd86x7wi9iEtWiu2mWjjzeqw
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge ihm das Totenreich seinen Arm öffnen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5]
+1	𓃹𓈖𓉿	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊃𓏏𓈉	134780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmy.t
+5	𓂋𓈖𓂢	854523	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rmn
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdQQ2AVeuxU1Wqgg0o5LefjE
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge ihm der Westen seine beiden Arme geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5]
+1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋀𓏏𓈉	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+3	𓂝𓂝	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdydaMSaNiUrWooKNQRAQEdY
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge er die Wege der Nekropole durchziehen zusammen mit dem Gefolge des Osiris.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓂧𓈖𓂧𓈖	180020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dndn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓍯𓏏𓈐𓏥	42490	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=wꜣ.t
+4	𓊹𓌨𓈉	500066	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ẖr.t-nṯr
+5	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+6	𓌞𓋴𓀭𓏨	155040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd31KJFxHpEM6jmbN2rRpSWo
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge ihm der Westen sein Tor öffnen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓃹𓈖𓉿	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋀𓏏𓈉	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+5	𓇼𓉐	131200	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sbꜣ
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdzlpLPsIZ00NteWJfjlJAnc
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge ihm die Flut sein Opfer geben, damit er mit seinem Mund essen kann.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓏎𓈖𓏏	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎛𓊪𓈘	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+5	𓊵𓏏𓊪𓏏𓏒	111360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥtp.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇬𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdw9zyLsD2EWykTWEw9jF9aM
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Mögen ihm die beiden Arme in der Neschmet-Barke auf den Wegen des Westens gegeben werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓏙𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂝𓂝	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈖𓈙𓅓𓊞	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓈐𓍯𓏏𓏥	42490	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=wꜣ.t
+9	𓋀𓏏𓈉	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+
+# sent_id = IBUBd9fnApYhS0ZBtZmKAnTQv9g
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge ihm "Willkommen" durch die Großen von Abydos gesagt werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8]
+1	𓆓𓂧𓏏	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇍𓅱	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+5	𓅓𓊵𓏏𓊪	500371	ADV	adverb	_	_	_	_	Translit=m-ḥtp
+6	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓅨𓂋𓀭𓏥𓏌𓏤𓍋𓃀𓈋𓊖	861091	PROPN	entity-name	_	_	_	_	Translit=Wr.w-n.w-Ꜣbḏ.w
+
+# sent_id = IBUBd7LWMlBBckXKr2TfOvWoxwU
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Möge er in der Morgenbarke landen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8] - [A.9]
+1	𓊃𓌳𓄥	134180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zmꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇾	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎙𓏏𓅱𓊞	68850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜥnḏ.t
+
+# sent_id = IBUBd4nj0mdi1EKYtOKGBy4725c
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Mögen ihm die Großen sagen: "Wandle in Frieden bei Re, der im Himmel ist!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅨𓂋𓀭𓏥	855586	PROPN	entity-name	_	_	_	_	Translit=Wr.w
+5	𓋴𓍑𓄿𓂻	150210	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḏꜣ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+8	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+9	𓂋𓂝𓇳𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+10	𓇋𓏶	25130	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jm.j
+11	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd3g5MQ5Goko1jYS64Qq8Zhs
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Der Versorgte, dessen Reputation gut ist, der von seinen Bruder geliebt wird, der von seinem Vater gelobt wird in seinem täglichen Bedarf, Henenu, den Senet geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.9] - [A.10]
+1	𓇋𓌳𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄤	854519	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nfr
+5	𓌸𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+6	𓌢𓈖𓀀	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓎛𓎿𓇋𓇋	109620	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥzi̯
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓌨𓂋𓏏𓇳𓏤	400048	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖr.t-hrw
+14	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+15	𓇳𓎟	854704	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rꜥw-nb
+16	𓎛𓆰𓈖𓈖𓏌𓏤	400073	PROPN	entity-name	_	_	_	_	Translit=Ḥnnw
+17	𓄟𓋴𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+18	𓊃𓈖𓏏𓏕	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+
+# sent_id = IBUBd2YNeB8zeUgGgneOTNWLViY
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Das Opfer, das in jedem Monatsfest, jedem Halbmonatsfest und in jedem Fest bereitet wird für den Ka des Versorgten Henenu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.11]
+1	𓂧𓄑𓃀𓐍𓏏𓊵𓏏𓊪𓏒𓏊	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+2	𓂝𓊪𓂋𓏏	37090	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ꜥpr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇹𓇼	94	PROPN	entity-name	_	_	_	_	Translit=Ꜣbd.w
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇻	450536	PROPN	entity-name	_	_	_	_	Translit=Smd.t
+8	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓎛𓃀𓎱𓏥	103300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥꜣb
+11	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+16	𓎛𓆰𓈖𓈖𓏌𓏤	400073	PROPN	entity-name	_	_	_	_	Translit=Ḥnnw
+
+# sent_id = IBUBd2PQWokyDk3HryhtWeuyEQc
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Sein Frau, die er liebt, die einzige Hofdame, Senet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.11]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇓𓏏𓐬𓌡𓂝𓏏𓏏	850039	_	epitheton-title	_	_	_	_	Translit=ẖkr.t-nswt-wꜥ.tjt
+6	𓊃𓈖𓏏	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+
+# sent_id = IBUBdy53xmlViUyMjizNp8sS3MI
+# corpus = sawlit
+# src_text_id = LICN2OBC3ZESRCZYYCSP3HQDD4
+# src_text = sawlit:Stele des Henenu (Moskau I.1.a.5603 (4071))//〈Stele des Henenu (Moskau I.1.a.5603 (4071))〉
+# owner = Alexander Schütze
+# text_de = Die beiden Arme, sie mögen die Flut geben, damit sie reinige.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5] - [B.6]
+1	𓂝𓂝	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+2	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓋴𓈖𓏭	136620	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗snj
+4	𓃀𓂝𓎛𓅣	54990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜥḥ.w
+5	𓋴𓃂𓈗	130010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swꜥb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

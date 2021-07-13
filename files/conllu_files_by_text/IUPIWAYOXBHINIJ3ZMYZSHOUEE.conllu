@@ -1,0 +1,195 @@
+# sent_id = IBYBFG773KM47UJKnfO0nHWeAY4
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Verwalter ...?..., Herr{in}(?) von Ehrwürdigkeit.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓂾𓏏𓅱	338	_	epitheton-title	_	_	_	_	Translit=ꜣṯ.w
+2	𓏏𓆑𓊪𓏏	850830	PROPN	entity-name	_	_	_	_	Translit=-
+3	𓎟𓏏	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+4	𓄪𓏤	25060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jmꜣḫ
+
+# sent_id = IBUBd9cQ1oSFoELQhD7NlPgbrJo
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Bruder Dedu, geboren von Meritites.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.4]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂞𓂞𓅱	400041	PROPN	entity-name	_	_	_	_	Translit=Ddw
+4	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓌻𓂋𓏏𓇋𓏏𓆑𓋴	702311	PROPN	entity-name	_	_	_	_	Translit=Mr.yt-jtj⸗s
+
+# sent_id = IBUBdW5JWk5abkvWjZBlRNBhANc
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Protokollmeister [...], geboren von Zemit(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5]
+1	𓄓𓏤𓂝𓄚𓏌𓏏𓍘𓇋	400016	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜥ-ẖn.wtj
+2	𓇋𓆛𓈖	_	_	_	_	_	_	_	_
+3	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓆷𓇋𓇋𓏏	_	_	_	_	_	_	_	_
+
+# sent_id = IBUBd7QLGM4ksUeEoN5WRS8LYSY
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Amme seines Herzens (d.h. seine bevorzugte Amme) Renef-anch, geboren von [...].
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.6]
+1	𓏠𓈖𓂝𓏏𓂑	70360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnꜥ.t
+2	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓄣	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋𓈖𓆑𓋹	400528	PROPN	entity-name	_	_	_	_	Translit=Rn⸗f-ꜥnḫ.w
+6	𓁹𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓇿𓇿𓇋	850830	PROPN	entity-name	_	_	_	_	Translit=-
+
+# sent_id = IBUBd3wnOH083kEdhbZWeNbahsA
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Jubu, geboren von Meritites.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.7]
+1	𓇋𓅱𓃀𓅱	_	X	unknown	_	_	_	_	_
+2	𓁹𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓌻𓂋𓏏𓇋𓏏𓆑𓋴	702311	PROPN	entity-name	_	_	_	_	Translit=Mr.yt-jtj⸗s
+
+# sent_id = IBUBd5WbmtbWEE9puQGWGWZPU1A
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Nebet-iunet, geboren von Jubu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.8]
+1	𓎟𓏏𓉺𓈖𓏏	703139	PROPN	entity-name	_	_	_	_	Translit=Nb.t-Jwn.t
+2	𓁹𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓇋𓅱𓃀𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6yAvfQMWEPzhFkdPZRgLTM
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His majesty reached (lit. the reaching by His Majesty of) the land called Sekemem.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓄭𓂻	132830	VERB	verb	VerbForm=Fin	_	_	_	Translit=spr
+2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈉𓏏	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+6	𓋴𓎝𓎡𓅓𓅓𓈉	859173	PROPN	entity-name	_	_	_	_	Translit=Skmm
+7	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd4IX5GgX1koYoTIuA4mva84
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His Majesty made (lit. the making by His Majesty of) a good start in setting out for the Residence in LPH,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓂋𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁶𓄤	171120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tp-nfr
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓅱𓍑𓄿𓂻	52300	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏi̯
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓄚𓏌𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓋹𓍑𓋴	550035	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd9FAKKIZhklnmv9pcrePBjw
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = and I struck the Asiatic;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3] - [C.4]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓊃𓐍𓈖	141400	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zḫi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓌙𓅓𓀀	35400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣm
+
+# sent_id = IBUBd7OkQ1FmUkUskp4w56s26EM
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = my face turned against (the enemy), without me turning my back to the Asiatic
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓁷	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎛𓎿𓊃	109640	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥzi̯
+4	𓈖	850806	PART	particle	_	_	_	_	Translit=n
+5	𓂋𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓐟	125670	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜣ
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓌙𓅓	35400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣm
+
+# sent_id = IBUBd2bUDefxJ01hohd2UHNuVv0
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = and I was efficient at his side.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.9]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓋴𓇮𓊪𓂧𓈖	500142	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spd
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋𓐛𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8HAikTou0cEu9FtoR1PiWM
+# corpus = sawlit
+# src_text_id = IUPIWAYOXBHINIJ3ZMYZSHOUEE
+# src_text = sawlit:Stele des Chusobek (Manchester 3306)//〈Stele des Chusobek (Manchester 3306)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was given 100 men in reward.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.12]
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓁶𓀀	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+5	𓍢	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆑𓈎𓄿𓏒	64020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=fqꜣ
+

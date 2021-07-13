@@ -1,0 +1,200 @@
+# sent_id = IBUBd7KUzFWMMUVWpaLNKJDKFhA
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Re Anbeten im Osten des Himmels, wenn das Firmament verborgen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.3] - [A.4]
+1	𓇼	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓇳	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋁𓃀𓏏𓈉	20550	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jꜣb.t
+5	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+6	𓇉𓄿𓊪𓋳	101300	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣp
+7	𓃀𓇋𓈟𓄑𓏛𓏥	54320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjꜣ
+
+# sent_id = IBUBdx7RWXUjWUvyjqvpieIiaYk
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Der Tempelschreiber Sobek-hotep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓏟𓊹𓉞	550014	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ḥw.t-nṯr
+2	𓆍𓊵𓏏𓊪𓀀	400122	PROPN	entity-name	_	_	_	_	Translit=Sbk-ḥtp.w
+
+# sent_id = IBUBdyQ6fqFGr0a8nC9JoYLnWeI
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Seine Ehefrau, die Hofdame, Iuhet-ib.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓐬	124780	_	epitheton-title	_	_	_	_	Translit=ẖkr.t-nswt
+4	𓃛𓎛𓏏𓈗𓄣𓏤𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdzlEJy9iIUNdr7lGY0xDVaI
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Re-Haracht(e) Anbeten im Westen des Himmels.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1] - [C.2]
+1	𓇼𓄿𓀢	854584	VERB	verb	VerbForm=Fin	_	_	_	Translit=dwꜣ
+2	𓇳𓏤𓅃𓈌𓏏𓉐	70002	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋀𓏏𓏏𓈉	26180	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jmn.tjt
+5	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd7QOKbWmt0JZtycfCohKhN0
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Der Schreiber des Tempels, Sobek-hotep, der das Leben wiederholt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓏞𓊹𓉞	550014	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ḥw.t-nṯr
+2	𓆍𓊵𓏏𓊪	400122	PROPN	entity-name	_	_	_	_	Translit=Sbk-ḥtp.w
+3	𓄙𓋹	400175	_	epitheton-title	_	_	_	_	Translit=wḥm-ꜥnḫ
+
+# sent_id = IBUBd0JfF4B2JEFblM0yIxdxnC4
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Sein Sohn, der Schreiber des Tempels, Inepu-nacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏞𓊹𓉞	550014	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ḥw.t-nṯr
+4	𓃢𓀜𓀀	400465	PROPN	entity-name	_	_	_	_	Translit=Jnp.w-nḫt.w
+
+# sent_id = IBUBd1Beeq9Nb0pprwEsDYo7W7U
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Der vollkommene Gott, 𓍹Sechemra Schedtaui𓍺, dem ewiglich Leben gegeben ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.1]
+1	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
+2	𓇳𓌂𓄞𓂧𓇿𓇿	860754	PROPN	entity-name	_	_	_	_	Translit=Sḫm-Rꜥw-šd-Tꜣ.wj
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBdQ4i0tWeQEhvvu16Wy3EMqY
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Der Sohn des Re, 𓍹Sobekemsaf𓍺, dem ewiglich Leben gegeben ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.2]
+1	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+2	𓆋𓅓𓎂𓏤𓆑	401114	PROPN	entity-name	_	_	_	_	Translit=Sbk-m-zꜣ⸗f
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd2QXW89tqExqoXzs9qkdx9U
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Ein Opfer, das der König und Anubis, der auf seinem Hügel ist, Imiut, Herr von Tadjeser, geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [F.1]
+1	𓇓𓏙𓏏𓊵	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓃣	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+3	𓁶𓈋𓆑	600421	_	epitheton-title	_	_	_	_	Translit=tp.j-ḏw⸗f
+4	𓏶𓅱𓏏𓐎	25390	_	epitheton-title	_	_	_	_	Translit=jm.j-wt
+5	𓎟𓇿𓂦𓈉	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+
+# sent_id = IBUBd6LTK2mQzUPUipx0mKSeyi4
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Seine Ehefrau, die Hofdame, Iuhet-ib.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [G.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓐬	124780	_	epitheton-title	_	_	_	_	Translit=ẖkr.t-nswt
+4	𓃛𓎛𓏏𓈗𓄣𓏤𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd3P2R3eNzEJbsHDEijRK8pI
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Der vollkommene Gott, 𓍹Sechemre Schedtaui𓍺, dem ewiglich Leben gegeben ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [H.1]
+1	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
+2	𓇳𓌂𓄞𓂧𓇿𓇿	860754	PROPN	entity-name	_	_	_	_	Translit=Sḫm-Rꜥw-šd-Tꜣ.wj
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd8NF6KaypEZhtMSYl79z1EQ
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Der Sohn des Re, 𓍹Sobekemsaf𓍺, dem ewiglich Leben gegeben ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [H.2]
+1	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+2	𓆋𓅓𓎂𓏤𓆑	401114	PROPN	entity-name	_	_	_	_	Translit=Sbk-m-zꜣ⸗f
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd2hifNuZuklfmpHQZNwZXyk
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Ein Opfer, das der König und Ptah-Sokar geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [I.1]
+1	𓇓𓏙𓏏𓊵	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓊪𓏏𓎛𓊃𓎡𓂋𓂋	400612	PROPN	entity-name	_	_	_	_	Translit=Ptḥ-Zkr
+
+# sent_id = IBUBdyuRvS6Hh0NZuQgfwWdNUts
+# corpus = sawlit
+# src_text_id = BUDTUGL2VZHY3KBF2OVXL5J7JY
+# src_text = sawlit:Stele des Sobekhotep (BM EA 1163)//〈Stele des Sobekhotep (BM EA 1163)〉
+# owner = Alexander Schütze
+# text_de = Seine Ehefrau, die Hofdame, Iuhet-ib.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [J.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓐬	124780	_	epitheton-title	_	_	_	_	Translit=ẖkr.t-nswt
+4	𓃛𓎛𓏏𓈗𓄣𓏤𓁐	_	X	unknown	_	_	_	_	_
+

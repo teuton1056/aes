@@ -1,0 +1,57 @@
+# sent_id = IBUBdwlE5WQFoEGYmBwRWPtczDU
+# corpus = bbawgrabinschriften
+# src_text_id = DINSWC5INFA5XMZ7IOZPR5IT7Q
+# src_text = bbawgrabinschriften:Westwand//Landwirtschaftsszene
+# owner = Stefan Grunert
+# text_de = Eine Kuh.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓄰𓈟	500032	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBUBdQqeNrqbkkxojieokAqq98I
+# corpus = bbawgrabinschriften
+# src_text_id = DINSWC5INFA5XMZ7IOZPR5IT7Q
+# src_text = bbawgrabinschriften:Westwand//Landwirtschaftsszene
+# owner = Stefan Grunert
+# text_de = Eine Kuh gebärt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓄟	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+2	𓄰𓏏𓈟	500032	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBUBd5B2SAQxK03jtWkbkvv27P0
+# corpus = bbawgrabinschriften
+# src_text_id = DINSWC5INFA5XMZ7IOZPR5IT7Q
+# src_text = bbawgrabinschriften:Westwand//Landwirtschaftsszene
+# owner = Stefan Grunert
+# text_de = Entbinde!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓋴	133780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sfḫ
+
+# sent_id = IBUBd4ft4L9BHU4ziWzAQxgQb7o
+# corpus = bbawgrabinschriften
+# src_text_id = DINSWC5INFA5XMZ7IOZPR5IT7Q
+# src_text = bbawgrabinschriften:Westwand//Landwirtschaftsszene
+# owner = Stefan Grunert
+# text_de = Das Melken der Kuh.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓋴	854550	VERB	verb	VerbForm=Fin	_	_	_	Translit=sšr
+2	𓄰	500032	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+
+# sent_id = IBUBd1iqeKmI3UWWpQPvHpINPko
+# corpus = bbawgrabinschriften
+# src_text_id = DINSWC5INFA5XMZ7IOZPR5IT7Q
+# src_text = bbawgrabinschriften:Westwand//Landwirtschaftsszene
+# owner = Stefan Grunert
+# text_de = Ein Langhornrind.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓈖𓎼𓈘	89590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ngꜣ.w
+

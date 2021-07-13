@@ -1,0 +1,35 @@
+# sent_id = IBUBd0sv3vNM0UQ9tQrkUgxyo3Q
+# corpus = bbawgrabinschriften
+# src_text_id = KTJYN5YTNVDJ3DC57P7MCMURZI
+# src_text = bbawgrabinschriften:Südwand//Beischriften 4. Register
+# owner = Stefan Grunert
+# text_de = Das Erweichen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.38]
+1	𓋴𓈖𓏏	147220	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgnn
+
+# sent_id = IBUBd9o7E3Jr3k3PhrVcuRvwPHA
+# corpus = bbawgrabinschriften
+# src_text_id = KTJYN5YTNVDJ3DC57P7MCMURZI
+# src_text = bbawgrabinschriften:Südwand//Beischriften 4. Register
+# owner = Stefan Grunert
+# text_de = Das Strecken des Tierfells.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.37]
+1	𓍿𓎛𓋴	176760	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯḥs
+2	𓄚	123140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖn.t
+
+# sent_id = IBUBdw2IAMwICEr9pN9U0WeLltE
+# corpus = bbawgrabinschriften
+# src_text_id = KTJYN5YTNVDJ3DC57P7MCMURZI
+# src_text = bbawgrabinschriften:Südwand//Beischriften 4. Register
+# owner = Stefan Grunert
+# text_de = Das (Zu)schneiden der (Leder)sohle.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.39]
+1	𓐣𓅱𓂝	52360	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜥ
+2	𓍿𓃀𓏏	175160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯbw.t
+

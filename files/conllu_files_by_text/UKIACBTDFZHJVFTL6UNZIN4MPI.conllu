@@ -1,0 +1,48 @@
+# sent_id = IBUBd04cCF7Q3k9spzQsdmrwa3M
+# corpus = bbawgrabinschriften
+# src_text_id = UKIACBTDFZHJVFTL6UNZIN4MPI
+# src_text = bbawgrabinschriften:mittleres Register//Beischriften
+# owner = Stefan Grunert
+# text_de = Zur Abwehr des Wassers (?-Domäne).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓁶𓏏𓉔𓈖𓈖𓈖𓇳	853754	PROPN	entity-name	_	_	_	_	Translit=Tp-th-mw
+
+# sent_id = IBUBd4kbLObKHkHam6iFIO2jBbo
+# corpus = bbawgrabinschriften
+# src_text_id = UKIACBTDFZHJVFTL6UNZIN4MPI
+# src_text = bbawgrabinschriften:mittleres Register//Beischriften
+# owner = Stefan Grunert
+# text_de = Tausend an Langhorn-Jungrindern.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+2	𓍯𓇋	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBdzA2sWJ4VkZpsTllT0yKCFo
+# corpus = bbawgrabinschriften
+# src_text_id = UKIACBTDFZHJVFTL6UNZIN4MPI
+# src_text = bbawgrabinschriften:mittleres Register//Beischriften
+# owner = Stefan Grunert
+# text_de = Das Bringen des Getreides (Domäne).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓂋𓏏𓇠𓇳	853753	PROPN	entity-name	_	_	_	_	Translit=Jr.t-jt
+
+# sent_id = IBUBdWfmpmN8aEdirBokjeDHf3s
+# corpus = bbawgrabinschriften
+# src_text_id = UKIACBTDFZHJVFTL6UNZIN4MPI
+# src_text = bbawgrabinschriften:mittleres Register//Beischriften
+# owner = Stefan Grunert
+# text_de = Tausend an Langhorn-Jungrindern.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+2	𓍯𓇋	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+

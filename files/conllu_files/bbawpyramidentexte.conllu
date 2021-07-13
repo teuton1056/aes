@@ -6,6 +6,7 @@
 # text_de = Der Himmel bewölkt sich, die Sterne verdunkeln sich (?), die Ausgespannte (scil. Weite des Himmels) schwankt, die Knochen der Erdgötter zittern und die Bewegungen(?) werden still, (denn) sie haben Unas gesehen, erschienen und ba-mächtig als Gott, der von seinen Vätern lebt und sich von seinen Müttern nährt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [496] - [500]
 1	𓎼𓊪	167130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=gp
 2	𓇲𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
 3	𓇋𓎛𓇋𓇋	30540	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jḥy
@@ -43,6 +44,7 @@
 # text_de = Unas ist der Herr der Weisheit(?), dessen Namen (sogar) seine Mutter nicht kennt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [500] - [501]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪𓇋	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
@@ -61,6 +63,7 @@
 # text_de = Unas' Herrlichkeit ist am Himmel, seine Macht ist im Horizont, wie (bei) Atum, seinem Vater, der ihn geschaffen hat.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [501] - [502]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓈙𓊪𓇓𓅱	153880	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šps.w
 3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
@@ -86,6 +89,7 @@
 # text_de = Er hat ihn geschaffen;
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [502]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓄟𓈖	74950	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -99,6 +103,7 @@
 # text_de = (aber) er ist mächtiger als er.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [502]
 1	𓄊𓋴𓂋	500010	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wsr
 2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -112,6 +117,7 @@
 # text_de = Unas' Kas sind hinter ihm.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [502] - [503]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂓𓂓𓂓	162870	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=kꜣ
 3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
@@ -126,6 +132,7 @@
 # text_de = Seine Hemsut sind unter seinen Füßen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [503]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓈞𓅱𓋴𓏏	852032	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥms.t
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -141,6 +148,7 @@
 # text_de = Seine Götter sind über ihm.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [503]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=nṯr
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -155,6 +163,7 @@
 # text_de = Unas' Mächte sind dabei ihn zu schützen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [505]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓄊𓄊𓄊	49600	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wsr.w
 3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
@@ -170,6 +179,7 @@
 # text_de = Unas ist der Stier des Himmels, grimmig in seinem Charakter, der von der Gestalt eines jeden Gottes lebt, der ihre Eingeweide(?) ißt, (derer) die gekommen sind, nachdem ihr Bauch mit Zauberkräften gefüllt wurde auf der Flammeninsel.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [505] - [506]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓂓𓂸𓃒	162930	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=kꜣ
@@ -204,6 +214,7 @@
 # text_de = Mit seinem Rücken zu Geb sitzt er da.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [507]
 1	𓈞𓋴	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓐟𓏤	125670	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜣ
@@ -219,6 +230,7 @@
 # text_de = Unas ist einer, der seine Angelegenheit zusammen mit "Dessen-Name-verborgen-ist" entscheidet, an diesem Tag, da der Älteste geschlachtet wird.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [508]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓐣	52360	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏꜥ
@@ -242,6 +254,7 @@
 # text_de = Unas ist Herr der Opfergaben, der das Tau knotet, der sein Opfermahl selbst bereitet.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [508]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
@@ -262,6 +275,7 @@
 # text_de = Unas ist einer, der Menschen ißt und von Göttern lebt, ein Herr von Boten, der Aufträge erteilt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [509]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
@@ -282,6 +296,7 @@
 # text_de = "Der-auf-dem-Roten(?)" ist es, der sie für ihn fesselt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [510]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓁷𓂋𓍿𓂋𓏏𓅱	852033	PROPN	entity-name	_	_	_	_	Translit=Ḥr.j-ṯr.wt
 3	𓈎𓄿𓋴𓍢	159470	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qꜣs
@@ -297,6 +312,7 @@
 # text_de = Das ist der Bote, den er um Vergeltung zu üben ausgesandt hat.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [511]
 1	𓄋𓊪𓏏	45760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wpw.tj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓉔𓄿𓃀𓅱	97580	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=hꜣb
@@ -312,6 +328,7 @@
 # text_de = Unas ist der, der ihre Zauberkraft ißt und ihre Ach-Kraft verschlingt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [512]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
@@ -329,6 +346,7 @@
 # text_de = Die Großen unter ihnen sind für sein Morgenmahl.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [512]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓅨𓂋𓈓	47280	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wr
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -345,6 +363,7 @@
 # text_de = Die Mittleren unter ihnen sind für sein Abendessen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [512]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓁷𓄣𓅱	401116	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥr.j-jb
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -360,6 +379,7 @@
 # text_de = Die Kleinen unter ihnen sind für sein Nachtmahl.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [512]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓈙𓂋𓂋𓈓	156650	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šrj
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -376,6 +396,7 @@
 # text_de = Die Greise und Greisinnen unter ihnen sind für seine Feuerung.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [513]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓇋𓄿𓈓	20380	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣw
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -393,6 +414,7 @@
 # text_de = Die Großen im Norden des Himmels sind es, die für ihn Feuer an die Kessel legen, in denen sie sind, mit den Schenkeln der Ältesten unter ihnen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [513]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓂝𓉻𓄿	34760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ
 3	𓎔𓅂	73560	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=mḥ.tj
@@ -419,6 +441,7 @@
 # text_de = Er hat die beiden Himmel insgesamt umrundet.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [514]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂧𓃀𓈖𓄲𓈖	854585	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbn
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -433,6 +456,7 @@
 # text_de = Er hat die beiden Ufer durchzogen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [514]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓊪𓄲𓂋𓈖	61900	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -446,6 +470,7 @@
 # text_de = Unas ist die Große Macht, die Macht hat über die Mächte/die Mächtigen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [514] - [515]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓌂𓏤𓅨	500490	_	epitheton-title	_	_	_	_	Translit=sḫm-wr
@@ -461,6 +486,7 @@
 # text_de = Unas ist die schauder-erweckende Gestalt, der schauder-erweckendste der Schauder-erweckenden, der Große.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [515]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓂝𓈙𓅓	40780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥẖm
@@ -476,6 +502,7 @@
 # text_de = Wen er auf seinem Weg findet, den ißt er für sich roh(?)/häppchenweise(?).
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [515]
 1	𓅠𓇋𓇋	167210	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=gmi̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -496,6 +523,7 @@
 # text_de = Unas' Platz (oder: der Respekt vor Unas?) ist an der Spitze aller Ehrwürdigen (oder: Würden?), die im Horizont sind.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [515] - [516]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓅓𓎡𓏏	76890	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mk.t
 3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
@@ -513,6 +541,7 @@
 # text_de = Unas ist ein Gott, älter als die Ältesten.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [516]
 1	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
@@ -528,6 +557,7 @@
 # text_de = Tausende gehen für ihn umher/dienen ihm.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [516]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓊪𓄲𓂋	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -542,6 +572,7 @@
 # text_de = Es wurde ihm Legitimation als Große Macht von Orion, dem Vater der Götter, verliehen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [516] - [517]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂋𓏙	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -562,6 +593,7 @@
 # text_de = Unas ist wieder am Himmel erschienen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [517]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓄙𓅓𓈖	48440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
 3	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
@@ -577,6 +609,7 @@
 # text_de = Er hat die Rückenwirbel zerbrochen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [517]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓎛𓋴𓃀𓐎𓏝𓈖	109820	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsb
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -591,6 +624,7 @@
 # text_de = Er hat die Herzen der Götter weggenommen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [517]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓎁𓈖	33560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -605,6 +639,7 @@
 # text_de = Von den Lungen der Weisen nährt sich Unas.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [518]
 1	𓅱𓈙𓃀	50320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wšb
 2	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -619,6 +654,7 @@
 # text_de = Er ist zufrieden damit, von Herzen und ihren Zauberkräften zu leben.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [518] - [519]
 1	𓊵𓏏	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -637,6 +673,7 @@
 # text_de = Unas ekelt sich/speit aus (?), wenn er die erbrechenerregenden(?) Dinge im Roten verschlingt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [519]
 1	𓆑𓇋𓅱	63730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=fjw
 2	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 3	𓈖𓄓𓃀	88100	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nsbi̯
@@ -653,6 +690,7 @@
 # text_de = Ihre Zauberkraft ist in seinem Bauch.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [519]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓎛𓂓𓏝	110660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥkꜣ.w
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -668,6 +706,7 @@
 # text_de = Unas' Würden werden ihm nicht fortgenommen werden.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [520]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓈖𓈞𓅓𓅓	86430	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
 3	𓋴𓂝𓎛𓅱	129070	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=sꜥḥ
@@ -683,6 +722,7 @@
 # text_de = Er hat die Erkenntnis eines jeden Gottes verschlungen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [520]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂝𓅓𓈖	37500	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -699,6 +739,7 @@
 # text_de = Die Lebenszeit des Unas ist die Ewigkeit, seine Grenze ist die Unendlichkeit in dieser seiner Würde eines "Will-er-so-tut-er, will-er-nicht-so-tut-er-nicht", (er) der auf immer und ewig im Bereich des Horizontes ist.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [520] - [521]
 1	𓊢𓅱𓇳	40480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.w
 2	𓊪𓇋	851520	PRON	pronoun	PronType=Dem	_	_	_	Translit=pj
 3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
@@ -730,6 +771,7 @@
 # text_de = Ihr Ba ist ja in Unas' Bauch, ihre Wirkungsmächtigkeit ist bei Unas als ein Mehr an seiner Speise über die (der) Götter hinaus, erhitzt für Unas mit ihren Knochen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [521] - [523]
 1	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
 2	𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -761,6 +803,7 @@
 # text_de = Ihr Ba ist ja bei Unas, ihre Schatten sind von ihren Besitzern (entfernt).
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [523]
 1	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
 2	𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -780,6 +823,7 @@
 # text_de = Unas ist dieses(?), was erscheint und erscheint, was dauert und dauert (oder: verborgen und verborgen ist).
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [524]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓃹𓈖𓇋𓋴	800001	PROPN	entity-name	_	_	_	_	Translit=Wnjs
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -797,6 +841,7 @@
 # text_de = Diejenigen, die (schlimme) Taten tun, werden nie und nimmer die Macht haben, Unas' Lieblingsplatz unter den Lebenden in diesem Land zu zerstören.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [524] - [525]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓋴𓌂𓐍𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 3	𓁹𓅱	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
@@ -822,6 +867,7 @@
 # text_de = Teti ist der Herr der Weisheit(?)/des Umherstreifens (wie ein Schakal)(?)/Schakalhaftigkeit(?), dessen Namen (sogar) seine Mutter nicht kennt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 28 = 319]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
@@ -840,6 +886,7 @@
 # text_de = Er hat Teti geschaffen;
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓄟𓈖	74950	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -853,6 +900,7 @@
 # text_de = (aber) Teti ist mächtiger als er.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
 1	𓅱𓄊𓋴𓂋	500010	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wsr
 2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -866,6 +914,7 @@
 # text_de = Tetis Kas sind hinter ihm.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂔𓂔𓂔	162870	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=kꜣ
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -880,6 +929,7 @@
 # text_de = Tetis Hemsut sind unter seinen Füßen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓎛𓈞𓅱𓋴𓏏𓄝𓄝𓄝	852032	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḥms.t
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -895,6 +945,7 @@
 # text_de = Tetis Götter sind über ihm.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓊹𓊹𓊹	90260	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nṯr
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -909,6 +960,7 @@
 # text_de = Tetis Uräen sind an seinem Scheitel.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 29 = 320]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓇋𓂝𓂋𓅱𓏏𓆘𓆘𓆘	21780	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jꜥr.t
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -924,6 +976,7 @@
 # text_de = Tetis Mächte sind dabei ihn zu schützen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 30 = 321]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓄊𓄊𓄊𓏏	49760	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=wsr.wt
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -939,6 +992,7 @@
 # text_de = Teti ist der Stier des Himmels, grimmig in seinem Charakter, der von der Gestalt eines jeden Gottes lebt, der ihre Eingeweide(?) ißt, (derer) die gekommen sind, nachdem ihr Bauch mit Zauberkräften gefüllt wurde auf der Flammeninsel.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 30 = 321]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓂓𓂸𓃒	162930	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=kꜣ
@@ -973,6 +1027,7 @@
 # text_de = Teti ist einer, der ausgestattet ist, der seine Ach-Kräfte vereint.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 30 = 321]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓐢𓂝𓂋	37090	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥpr
@@ -988,6 +1043,7 @@
 # text_de = Mit seinem Rücken zu Geb sitzt Teti da.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 322]
 1	𓈞𓋴	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
 2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 3	𓐟𓏤	125670	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜣ
@@ -1003,6 +1059,7 @@
 # text_de = Teti ist Herr der Opfergaben, der das Tau knotet.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 322]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
@@ -1018,6 +1075,7 @@
 # text_de = Teti ist einer, der sein Opfermahl selbst bereitet.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 322]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
@@ -1034,6 +1092,7 @@
 # text_de = Teti ist einer, der Menschen ißt und von Göttern lebt. ein Herr von Boten, der Aufträge erteilt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 322]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
@@ -1050,6 +1109,7 @@
 # text_de = Teti ist ein Herr von Boten, der Aufträge erteilt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 32 = 323]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
@@ -1065,6 +1125,7 @@
 # text_de = Der Scheitelpacker, der im Kessel(?) ist, ist es, der sie für Teti mit dem Lasso fängt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 32 = 323]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓇋𓐍𓅓𓂝𓂬𓄋𓏏𓏤𓄋𓏏𓏤𓄋𓏏𓏤𓇋𓏶𓎡𓎛𓄿𓅱𓅆	860207	PROPN	entity-name	_	_	_	_	Translit=Jḫmꜥ-wp.wt-jm.j-kḥꜣ.w
 3	𓋴𓊪𓎛𓍢	132950	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=spḥ
@@ -1080,6 +1141,7 @@
 # text_de = 'Der-auf-dem-Roten(?)' ist es, der sie für Teti fesselt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 32 = 323]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓁷𓂋𓍿𓂋𓏟𓏏𓅱𓅆	852033	PROPN	entity-name	_	_	_	_	Translit=Ḥr.j-ṯr.wt
 3	𓈎𓄿𓋴𓍢	159470	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qꜣs
@@ -1095,6 +1157,7 @@
 # text_de = Der 'Wanderer', der die Herren niedermetzelt, ist es, der sie für Teti absticht und er holt das, was in ihrem Leib ist, für ihn heraus.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 32 = 323] - [T/A/E 33 = 324]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓐍𓈖𓊃𓅱𓅆	118700	PROPN	entity-name	_	_	_	_	Translit=Ḫnz.w
 3	𓅓𓂧𓋴	78280	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mds
@@ -1119,6 +1182,7 @@
 # text_de = - Das ist der Bote, den Teti um Vergeltung zu üben ausgesandt hat. -
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
 1	𓄋𓊪𓏏𓅆	45760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wpw.tj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓉔𓄿𓃀𓅱𓂻	97580	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=hꜣb
@@ -1134,6 +1198,7 @@
 # text_de = Schesemu ist es, der sie für Teti schlachtet und ihm aus ihnen eine Mahlzeit auf seinen Feuerstellen kocht, (und zwar) das Abendbrot.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓈙𓊃𓅓𓅱𓅆	157510	PROPN	entity-name	_	_	_	_	Translit=Šzm.w
 3	𓂋𓐍𓋴	95870	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫs
@@ -1159,6 +1224,7 @@
 # text_de = Worte sprechen:
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 
 # sent_id = IBUBd8JEfQb9Xk2buL8ffL2R6L8
@@ -1169,6 +1235,7 @@
 # text_de = Teti ist es, der ihre Zauberkraft ißt. ihre Ach-Kraft verschlingt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 3	𓇬𓏘𓏘	46710	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnm
@@ -1183,6 +1250,7 @@
 # text_de = Teti ist es, der ihre Ach-Kraft verschlingt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 33 = 324]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 3	𓇋𓂝𓅓	37500	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥm
@@ -1197,6 +1265,7 @@
 # text_de = Die Großen unter ihnen sind für das Morgenmahl des Teti.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 33 = 324] - [T/A/E 34 = 325]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓅨𓂋	47280	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wr
 3	𓋴𓈖𓈓	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1213,6 +1282,7 @@
 # text_de = Die Mittleren unter ihnen sind für sein Abendessen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 34 = 325]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓁷𓄣𓅱	401116	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥr.j-jb
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1228,6 +1298,7 @@
 # text_de = Die Kleinen unter ihnen sind für das Nachtmahl des Teti.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 34 = 325]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓈙𓂋𓂋𓅆𓅆𓅆	156650	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=šrj
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1244,6 +1315,7 @@
 # text_de = Die Greise und Greisinnen unter ihnen sind für seine Feuerung.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 34 = 325]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓇋𓄿𓈓	20380	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jꜣw
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1261,6 +1333,7 @@
 # text_de = Die Großen im Norden des Himmels sind es, die für ihn Feuer an die Kessel legen, in denen sie sind, mit den Schenkeln der Ältesten unter ihnen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 34 = 325] - [T/A/E 35 = 326]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓉻𓂝𓈒𓄿𓅂𓅆𓅆𓅆	34760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥꜣ
 3	𓎔𓅂	73560	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=mḥ.tj
@@ -1287,6 +1360,7 @@
 # text_de = Die im Himmel gehen für Teti umher/dienen Teti, wenn die Feuerstellen für ihn aus/mit den Beinen ihrer Frauen zugerichtet(?)/aufgestellt(?)/angefacht(?) werden.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 35 = 326]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓊪𓄴𓂋	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
 3	𓇋𓏶𓅱	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
@@ -1311,6 +1385,7 @@
 # text_de = Teti hat die beiden Himmel insgesamt umrundet.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 35 = 326]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂧𓃀𓈖𓄴𓈖	854585	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dbn
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -1325,6 +1400,7 @@
 # text_de = Teti ist die Große Macht, die Macht hat über die Mächte/die Mächtigen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 35 = 326] - [T/A/E 36 = 327]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓋴𓌂𓐍𓅓𓅨𓅆	500490	_	epitheton-title	_	_	_	_	Translit=sḫm-wr
@@ -1340,6 +1416,7 @@
 # text_de = Teti ist die schauder-erweckende Gestalt, der schauder-erweckendste der Schauder-erweckenden, der Große.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 36 = 327]
 1	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓂝𓈙𓅓𓅆	40780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥẖm
@@ -1355,6 +1432,7 @@
 # text_de = Tetis Platz (oder: der Respekt vor Teti?) ist an der Spitze aller Ehrwürdigen (oder: Würden?), die im Horizont sind.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 36 = 327]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓅓𓎡𓏏	76890	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mk.t
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -1372,6 +1450,7 @@
 # text_de = Tausende gehen für Teti umher/dienen Teti.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 36 = 327]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓊪𓄲𓂋	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
 3	𓆼𓆼𓆼	113110	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣ
@@ -1386,6 +1465,7 @@
 # text_de = Es wurde ihm Legitimation als Große Macht von Orion, dem Vater der Götter, verliehen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 36 = 327] - [T/A/E 37 = 328]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂋𓏙	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -1406,6 +1486,7 @@
 # text_de = Teti ist wieder am Himmel erschienen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 37 = 328]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓄙𓅓𓈖	48440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -1421,6 +1502,7 @@
 # text_de = Teti ist gekrönt als Herr des Horizontes.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 37 = 328]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 3	𓋴𓃀𓈖𓋒	131780	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sbn
@@ -1436,6 +1518,7 @@
 # text_de = Teti hat die Herzen der Götter weggenommen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 37 = 328]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓇋𓎁𓈖	33560	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -1450,6 +1533,7 @@
 # text_de = Teti ist zufrieden damit, von Herzen und ihren Zauberkräften zu leben.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
 1	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
 2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -1468,6 +1552,7 @@
 # text_de = Teti ekelt sich/speit aus (?), wenn er von den erbrechenerregenden(?) Dingen im Roten leckt.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
 1	𓆑𓇋𓅱	63730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=fjw
 2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 3	𓈖𓄓𓋴𓃀	88100	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nsbi̯
@@ -1485,6 +1570,7 @@
 # text_de = Es geht Teti gut/Teti ist gesättigt/Teti erholt sich:
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
 3	𓍯𓐍𓇇	43260	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḫi̯
@@ -1498,6 +1584,7 @@
 # text_de = Ihre Zauberkraft ist im Bauch des Teti.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓎛𓂓𓏝	110660	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥkꜣ.w
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1514,6 +1601,7 @@
 # text_de = Die Würden des Teti werden ihm nicht fortgenommen werden.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
 1	𓈖𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓈞𓅓𓅓	86430	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
 3	𓋴𓎛𓂝𓋩𓋩𓋩𓅱	129070	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ
@@ -1530,6 +1618,7 @@
 # text_de = Teti hat die Erkenntnis eines jeden Gottes verschlungen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 329]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓂝𓅓𓈖	37500	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
 3	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
@@ -1546,6 +1635,7 @@
 # text_de = Die Lebenszeit des Teti ist die Ewigkeit, die Grenze des Teti ist die Unendlichkeit in dieser seiner Würde eines 'Will-er-so-tut-er, will-er-nicht-so-tut-er-nicht', der auf immer und ewig im Bereich des Horizontes ist.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 31 = 329] - [T/A/E 32 = 330]
 1	𓂝𓊢𓅱𓇳	40480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.w
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
@@ -1578,6 +1668,7 @@
 # text_de = Ihr Ba ist ja in Tetis Bauch, ihre Wirkungsmächtigkeit ist bei Teti als sein Mehr an Speise über die (der) Götter hinaus, erhitzt für Teti mit ihren Knochen.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 32 = 330]
 1	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
 2	𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1609,6 +1700,7 @@
 # text_de = Ihr Ba ist ja bei Teti, ihre Schatten sind von ihren Besitzern (entfernt) (?).
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 32 = 330]
 1	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
 2	𓅡𓅆	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1628,6 +1720,7 @@
 # text_de = Diejenigen, die (schlimme) Taten tun, werden nie und nimmer die Macht haben, den Lieblingsplatz des Teti unter den Lebenden in diesem Land zu zerstören.
 # findspot = Middle Egypt (from Kairo to Assiut)
 # date = OK & FIP
+# lineRef = [T/A/E 33 = 331]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓋴𓌂𓐍𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
 3	𓁹𓅱𓅆𓈓	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯

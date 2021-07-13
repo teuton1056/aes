@@ -1,0 +1,62 @@
+# sent_id = IBUBd0WPBCXShkU5jQNbAWS5Bss
+# corpus = sawlit
+# src_text_id = 6SHGPVKIOJHWRN3KFYDLLIO2EY
+# src_text = sawlit:Stele des Amenemhat (BM EA 893)//〈Zl. 1-9: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Worte sprechen durch den Siegler des Königs und Vorsteher der Tempelverwaltung, Amenemhat:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1]
+1	𓌃𓆓	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓋔𓇋𓏏𓋩	851316	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-bj.tj
+4	𓄓𓐛𓉐	450633	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-gs-pr
+5	𓇋𓈖𓏠𓅓𓄂𓏏𓏤	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+
+# sent_id = IBUBd5WfZWyjzkW3pY8WnBJO8ik
+# corpus = sawlit
+# src_text_id = 6SHGPVKIOJHWRN3KFYDLLIO2EY
+# src_text = sawlit:Stele des Amenemhat (BM EA 893)//〈Zl. 1-9: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Ich werde dich anbeten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1]
+1	𓇼𓀢	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓏏𓅱	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+
+# sent_id = IBUBd2xCAkqemkzyt9klr2SHHag
+# corpus = sawlit
+# src_text_id = 6SHGPVKIOJHWRN3KFYDLLIO2EY
+# src_text = sawlit:Stele des Amenemhat (BM EA 893)//〈Zl. 1-9: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Herr der Mächte in Tawer, Herr der Gräber, mit großem Ba in Mendes,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [3] - [4]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓌂𓏤𓏥	142140	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫm
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋅	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+5	𓎟𓀭	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+6	𓅓𓊢𓂝𓏏𓉐𓏥	68920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mꜥḥꜥ.t
+7	𓉻𓏛	450158	ADJ	adjective	_	_	_	_	Translit=ꜥꜣ
+8	𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓊽𓂧𓏏𓊖	185930	PROPN	entity-name	_	_	_	_	Translit=Ḏd.t
+
+# sent_id = IBUBd2m8WhLzlkLZkQIntXJSUDE
+# corpus = sawlit
+# src_text_id = 6SHGPVKIOJHWRN3KFYDLLIO2EY
+# src_text = sawlit:Stele des Amenemhat (BM EA 893)//〈Zl. 1-9: 〉Osiris-Hymnus
+# owner = Peter Dils
+# text_de = Ich bin dein Sohn Horus.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [7]
+1	𓏌𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+

@@ -1,0 +1,85 @@
+# sent_id = 4JLNXIJGRNB5DPU6KPAT63XQLI
+# corpus = sawmedizin
+# src_text_id = LXSQGXCUZ5GD3OGC4PQGPZUE44
+# src_text = sawmedizin:Test Köhler mit Gruppierung//Test Köhler mit Gruppierung
+# owner = Ines Köhler
+# text_de = Oberägypten/oberägyptisch.
+# findspot = unknown
+# date = unknown
+# lineRef = [A.1]
+1	𓇘	154760	PROPN	entity-name	_	_	_	_	Translit=Šmꜥ.w
+
+# sent_id = SEU5PIDGYZDV7NZPCL27UY7SPM
+# corpus = sawmedizin
+# src_text_id = LXSQGXCUZ5GD3OGC4PQGPZUE44
+# src_text = sawmedizin:Test Köhler mit Gruppierung//Test Köhler mit Gruppierung
+# owner = Ines Köhler
+# text_de = Unterägypten/unterägyptisch.
+# findspot = unknown
+# date = unknown
+# lineRef = [A.2]
+1	𓇉	73940	PROPN	entity-name	_	_	_	_	Translit=Mḥ.w
+
+# sent_id = RMTX6FFVNJGCREV6HENYLJHS7I
+# corpus = sawmedizin
+# src_text_id = LXSQGXCUZ5GD3OGC4PQGPZUE44
+# src_text = sawmedizin:Test Köhler mit Gruppierung//Test Köhler mit Gruppierung
+# owner = Ines Köhler
+# text_de = Herr der Kraft, der aus Chemmis herauskommt, der mit der Doppelfederkrone triumphiert,
+# findspot = unknown
+# date = unknown
+# lineRef = [B.2]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓄖𓏏𓏭𓂡	61640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.tj
+3	𓉐𓂋	60920	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇉𓊲𓏏𓊖	211	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-bj.t
+6	𓐙𓂝𓊤	66730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜥ-ḫrw
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓆄𓆄	860191	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.tj
+
+# sent_id = VSOHLEJ5WZHSXKEJXWNEKGZGKU
+# corpus = sawmedizin
+# src_text_id = LXSQGXCUZ5GD3OGC4PQGPZUE44
+# src_text = sawmedizin:Test Köhler mit Gruppierung//Test Köhler mit Gruppierung
+# owner = Ines Köhler
+# text_de = Herr der Stärke, wenn er die Wereret-Krone empfängt,
+# findspot = unknown
+# date = unknown
+# lineRef = [B.4]
+1	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+2	𓈖𓆱𓐍𓏏	87620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫt.w
+3	𓊏𓊪𓂝	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅨𓂋𓏏	47920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrr.t
+
+# sent_id = LK2YMI6DSVBWHNX3DAIHBEOLP4
+# corpus = sawmedizin
+# src_text_id = LXSQGXCUZ5GD3OGC4PQGPZUE44
+# src_text = sawmedizin:Test Köhler mit Gruppierung//Test Köhler mit Gruppierung
+# owner = Ines Köhler
+# text_de = Eines jeden Gottes Herz ist erfreut.
+# findspot = unknown
+# date = unknown
+# lineRef = [B.5]
+1	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓄪𓅱	49	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣwi̯
+
+# sent_id = KVDNB2D735GAFACYMU7BPKDR7A
+# corpus = sawmedizin
+# src_text_id = LXSQGXCUZ5GD3OGC4PQGPZUE44
+# src_text = sawmedizin:Test Köhler mit Gruppierung//Test Köhler mit Gruppierung
+# owner = Ines Köhler
+# text_de = Oh, Herr der Furchtbarkeit, der den Aker bändigt,
+# findspot = unknown
+# date = unknown
+# lineRef = [B.8]
+1	𓇋𓀀	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+3	𓅾	138740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snḏ
+4	𓅱𓂝𓆑	44640	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wꜥf
+5	𓄿𓎡𓂋𓃭	307	PROPN	entity-name	_	_	_	_	Translit=Ꜣkr
+

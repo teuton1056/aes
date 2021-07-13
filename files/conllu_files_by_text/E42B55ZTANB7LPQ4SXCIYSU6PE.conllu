@@ -1,0 +1,134 @@
+# sent_id = IBUBdy6wDYsq5UGNnn8o2pVfpNU
+# corpus = sawlit
+# src_text_id = E42B55ZTANB7LPQ4SXCIYSU6PE
+# src_text = sawlit:Statue des Dedusobek (Kairo CG 887)//〈Statue des Dedusobek (Kairo CG 887)〉
+# owner = Peter Dils
+# text_de = Aufgestellt (wörtl.: gegeben) als Gunsterweis von Seiten des Königs in den Tempel des Königs von Ober- und Unterägypten 𓍹Neb-hepet-Re𓍺, des Gerechtfertigten, für Hathor, Herrin von Atfih.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1] - [A.2]
+1	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎿𓏏𓏛𓏥	109800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥzw.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓂋𓐍	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+6	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓊹𓉞	99940	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥw.t-nṯr
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+11	𓇳𓎟𓊤	400654	PROPN	entity-name	_	_	_	_	Translit=Nb-ḥꜣp.t-Rꜥw
+12	𓐙𓂝	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+13	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓉡	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+15	𓎟𓏏	81740	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb.t
+16	𓁶𓏤𓃒𓏥	171000	PROPN	entity-name	_	_	_	_	Translit=Tp-jḥ.w
+
+# sent_id = IBUBd34pbNic90DQtH9ciJ9q0xY
+# corpus = sawlit
+# src_text_id = E42B55ZTANB7LPQ4SXCIYSU6PE
+# src_text = sawlit:Statue des Dedusobek (Kairo CG 887)//〈Statue des Dedusobek (Kairo CG 887)〉
+# owner = Peter Dils
+# text_de = Seine (d.h. des Hapi oder des Landes) Pflanzen werden wachsen, die Felder sind ergrünt mit seinem Holz/Baum der Trunkenheit (???).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.14] - [A.16]
+1	𓋴𓄧𓅓𓆰𓏪	134140	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sm.w
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂋𓂧𓇝𓏛	96610	VERB	verb	VerbForm=Fin	_	_	_	Translit=rd
+5	𓇏𓇋𓇋𓏏𓈇𓏥	141480	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫ.t
+6	𓋴𓇆𓏛	129930	VERB	verb	_	_	_	_	Translit=swꜣḏ
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆱𓏏𓏤	121200	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫt
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓏏𓐍𓏊𓏪	173110	VERB	verb	_	_	_	_	Translit=tḫi̯
+
+# sent_id = IBUBdQEgIGnSd0n7sRMyrDc7vBY
+# corpus = sawlit
+# src_text_id = E42B55ZTANB7LPQ4SXCIYSU6PE
+# src_text = sawlit:Statue des Dedusobek (Kairo CG 887)//〈Statue des Dedusobek (Kairo CG 887)〉
+# owner = Peter Dils
+# text_de = Schön ist das Gesicht des Goldes (⸗ Hathor) im Tal, mehr als der Himmel bei Sonnenaufgang, wenn der (Sonnen)gott sich wäscht (?), ohne Gewölk (?) ... am Berg/Horizont (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.16] - [A.17]
+1	𓄤	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓋞𓏥	81690	_	epitheton-title	_	_	_	_	Translit=nbw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓆛𓈖𓏏𓈉	26780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jn.t
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓏌𓏏𓇯	80950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nw.t
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓈖𓉔𓊪𓇳	85570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nhp.w
+11	𓇋𓂝𓈗	21550	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥi̯
+12	𓊹𓇋	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+13	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+14	𓍁𓂝𓈒𓏥	155760	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šnꜥ
+15	𓏤𓅪𓂸𓂻	_	_	_	_	_	_	_	_
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓈋	182830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+
+# sent_id = IBUBdziK7YaIW0ZcsAiuPY4nUz4
+# corpus = sawlit
+# src_text_id = E42B55ZTANB7LPQ4SXCIYSU6PE
+# src_text = sawlit:Statue des Dedusobek (Kairo CG 887)//〈Statue des Dedusobek (Kairo CG 887)〉
+# owner = Peter Dils
+# text_de = Sein Onkel mütterlicherseit ...?...
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓌢𓈖𓏤	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓋾𓏏𓅱𓇯	_	_	_	_	_	_	_	_
+7	𓋾𓄫𓂞𓂞𓅱	_	_	_	_	_	_	_	_
+
+# sent_id = IBUBd9SoDoA9uUgVhRlR5uG8Fac
+# corpus = sawlit
+# src_text_id = E42B55ZTANB7LPQ4SXCIYSU6PE
+# src_text = sawlit:Statue des Dedusobek (Kairo CG 887)//〈Statue des Dedusobek (Kairo CG 887)〉
+# owner = Peter Dils
+# text_de = Ihr (sic?) Sohn, Zi-en-Hor(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.9]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓊃𓀀𓏤𓈖𓏭𓁷𓂋	705860	PROPN	entity-name	_	_	_	_	Translit=Z-n-Ḥr.w
+
+# sent_id = IBUBdw3o1642yEGXok4VLYkDlzg
+# corpus = sawlit
+# src_text_id = E42B55ZTANB7LPQ4SXCIYSU6PE
+# src_text = sawlit:Statue des Dedusobek (Kairo CG 887)//〈Statue des Dedusobek (Kairo CG 887)〉
+# owner = Peter Dils
+# text_de = Die Tochter des Wab-Priesters des Amun, Nen-die-Jüngere(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.10]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ.t
+2	𓃂𓈗	44460	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wꜥb
+3	𓇋𓏠𓈖	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+4	𓂜𓈖𓈖𓐍𓈖	860758	PROPN	entity-name	_	_	_	_	Translit=Nn-nḫn
+
+# sent_id = IBUBd8SKwi1fP0HEsT489ybbAqg
+# corpus = sawlit
+# src_text_id = E42B55ZTANB7LPQ4SXCIYSU6PE
+# src_text = sawlit:Statue des Dedusobek (Kairo CG 887)//〈Statue des Dedusobek (Kairo CG 887)〉
+# owner = Peter Dils
+# text_de = Die Tochter der Schwester seiner Mutter (⸗ seine Kusine), Iai-ib.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.11]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ.t
+2	𓌢𓈖𓏏	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇋𓂜𓈗𓄣𓏤	550193	PROPN	entity-name	_	_	_	_	Translit=Jꜥ-jb
+

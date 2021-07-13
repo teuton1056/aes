@@ -1,0 +1,16 @@
+# sent_id = IBUBd1PywT3uAkHzn6ob7qzW4Cg
+# corpus = bbawgrabinschriften
+# src_text_id = OG2VP4XS6FEH5CVWJ2ZWJBYOG4
+# src_text = bbawgrabinschriften:Fragment 25-12-203//〈Text〉
+# owner = Stefan Grunert
+# text_de = Sein leiblicher Sohn Chenti-ka.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 5.19⁝ x+1] -  [Text 5.19⁝ x+2]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓄡𓏏	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓏃𓈖𓏏𓂓	705714	PROPN	entity-name	_	_	_	_	Translit=Ḫnt.j-kꜣ
+

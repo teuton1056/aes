@@ -1,0 +1,83 @@
+# sent_id = IBUBdxIliL8D2U1Yps6T3SckObc
+# corpus = bbawgrabinschriften
+# src_text_id = VMF6YE4VVZGR7PYNWQIHVOFXZ4
+# src_text = bbawgrabinschriften:2. Register v.u. (Getreideernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Das Ausreiben der Korn(ähre).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.1]
+1	𓅱𓈙𓏏	50250	VERB	verb	VerbForm=Fin	_	_	_	Translit=wši̯
+2	𓇠	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBUBd9MT6lhyYkHirbPe1YVrKnM
+# corpus = bbawgrabinschriften
+# src_text_id = VMF6YE4VVZGR7PYNWQIHVOFXZ4
+# src_text = bbawgrabinschriften:2. Register v.u. (Getreideernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Wo bist du, eifriger Mann?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.1]
+1	𓇋	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓍿𓈖	175740	PRON	pronoun	PronType=Int	_	_	_	Translit=ṯnj
+4	𓅷𓀀	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+5	𓋴𓂋𓆑	550417	ADJ	adjective	_	_	_	_	Translit=srf
+6	𓄣	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBd9sVsOrnxUjbviWLWmFcOy4
+# corpus = bbawgrabinschriften
+# src_text_id = VMF6YE4VVZGR7PYNWQIHVOFXZ4
+# src_text = bbawgrabinschriften:2. Register v.u. (Getreideernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Kommt zu mir!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.2]
+1	𓅓𓂻𓅱	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇋	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdQfOfsbLy04wpgcNWfKCDQ0
+# corpus = bbawgrabinschriften
+# src_text_id = VMF6YE4VVZGR7PYNWQIHVOFXZ4
+# src_text = bbawgrabinschriften:2. Register v.u. (Getreideernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Wo bist du, der bei seinem Ablegen aufpasst
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3.1] -  [3.2]
+1	𓇋	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓍿𓈖	175740	PRON	pronoun	PronType=Int	_	_	_	Translit=ṯnj
+4	𓍐𓅡	44890	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wbꜣ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉔𓅱𓏏	97350	VERB	verb	Number=Sing|Status=Pron	_	_	_	Translit=hꜣi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdW68JRHnXU3KvSIoeWQKwys
+# corpus = bbawgrabinschriften
+# src_text_id = VMF6YE4VVZGR7PYNWQIHVOFXZ4
+# src_text = bbawgrabinschriften:2. Register v.u. (Getreideernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Ich bin es!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdWCWDsdHTU2PmUesakU0Elg
+# corpus = bbawgrabinschriften
+# src_text_id = VMF6YE4VVZGR7PYNWQIHVOFXZ4
+# src_text = bbawgrabinschriften:2. Register v.u. (Getreideernte)//Register-Beischriften
+# owner = Stefan Grunert
+# text_de = Beeil dich doch!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓃹𓈖	46280	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wni̯
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

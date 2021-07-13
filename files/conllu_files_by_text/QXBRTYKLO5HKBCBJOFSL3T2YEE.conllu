@@ -1,0 +1,47 @@
+# sent_id = IBUBd70oJ7UGh0iSukq5NQcoBB8
+# corpus = bbawgrabinschriften
+# src_text_id = QXBRTYKLO5HKBCBJOFSL3T2YEE
+# src_text = bbawgrabinschriften:Südwand//Beischriften (3. Register v.u.)
+# owner = Stefan Grunert
+# text_de = Das Singen (und Harfe) Schlagen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓎛𓋴𓂝𓏏	109680	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥsi̯
+2	𓋴𓌈𓐓	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
+
+# sent_id = IBUBdwRr1XRjSUqXkcBf5ddlVmU
+# corpus = bbawgrabinschriften
+# src_text_id = QXBRTYKLO5HKBCBJOFSL3T2YEE
+# src_text = bbawgrabinschriften:Südwand//Beischriften (3. Register v.u.)
+# owner = Stefan Grunert
+# text_de = Das Blasen auf der Langflöte.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓊃𓃀𓄿	131160	VERB	verb	VerbForm=Fin	_	_	_	Translit=zbꜣ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓅓𓏏	66170	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ.t
+
+# sent_id = IBUBd46OwaOU6E7pntDvTpDszHA
+# corpus = bbawgrabinschriften
+# src_text_id = QXBRTYKLO5HKBCBJOFSL3T2YEE
+# src_text = bbawgrabinschriften:Südwand//Beischriften (3. Register v.u.)
+# owner = Stefan Grunert
+# text_de = Schlagen (der Harfe).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓋴𓌈𓐓	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
+
+# sent_id = IBUBdWKwT2b9bkZwrylxqPiYFhE
+# corpus = bbawgrabinschriften
+# src_text_id = QXBRTYKLO5HKBCBJOFSL3T2YEE
+# src_text = bbawgrabinschriften:Südwand//Beischriften (3. Register v.u.)
+# owner = Stefan Grunert
+# text_de = Das Singen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓎛𓋴𓂝𓏏	109680	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥsi̯
+

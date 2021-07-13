@@ -1,0 +1,43 @@
+# sent_id = IBUBd2GQyRxVAky3r5wsc8qWCzI
+# corpus = sawlit
+# src_text_id = 72KTAFVJCZDH5JEW4YSH3WTZYY
+# src_text = sawlit:Stele des Megegi (New York MMA 14.2.6)//〈Stele des Megegi (New York MMA 14.2.6)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was one who loved good and hated evil, who spent the day according to its course.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌻	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄤𓏏	83680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nfr.t
+5	𓄟𓆓	76210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msḏi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈋𓏏	182900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏw.t
+8	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+9	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓌨𓂋𓏏	123940	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖr.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4Xqx5kAa0FyjOWfJfiCO6U
+# corpus = sawlit
+# src_text_id = 72KTAFVJCZDH5JEW4YSH3WTZYY
+# src_text = sawlit:Stele des Megegi (New York MMA 14.2.6)//〈Stele des Megegi (New York MMA 14.2.6)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one who spends his day and follows his hour in the course of every day.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [7]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊃𓂻𓃀	131460	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=zbi̯
+3	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=hrw
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌞𓋴	155000	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šms
+6	𓃹𓏌𓏏	46420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wnw.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓌨𓂋𓇳𓏤	400048	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖr.t-hrw
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+

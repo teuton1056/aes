@@ -1,0 +1,107 @@
+# sent_id = IBUBdyWf22ZHIUDknT1RmkWDCPw
+# corpus = sawlit
+# src_text_id = TLCWFICDIBGNLBZNWJHZWKKJCE
+# src_text = sawlit:Stele des Rediuikhnum (Kairo CG 20543)//〈Stele des Rediuikhnum (Kairo CG 20543)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one beloved of his mistress, her praised one in the course of every day.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A6] - [A7]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌸𓇋𓇋	72480	ADJ	adjective	_	_	_	_	Translit=mr.y
+3	𓎟𓏏𓁐	81740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎿𓇋𓇋	109750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥz.y
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓅓𓌨𓂋𓏏𓇳𓏤	650025	ADV	adverb	_	_	_	_	Translit=m-ẖr.t-hrw
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBdQyFtNpFqE1oisyZhEVmhPc
+# corpus = sawlit
+# src_text_id = TLCWFICDIBGNLBZNWJHZWKKJCE
+# src_text = sawlit:Stele des Rediuikhnum (Kairo CG 20543)//〈Stele des Rediuikhnum (Kairo CG 20543)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am indeed an official great in his heart, a beloved sweet plant.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A16]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓃹𓈖𓈖𓏏	550416	PART	particle	_	_	_	_	Translit=wnn.t
+3	𓋴𓂋𓀙	138920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sr
+4	𓉻	34750	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥꜣi̯
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓎛𓆰𓈖	105850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥnj
+9	𓃀𓈖𓇋𓇜	55940	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=bnj
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓌸𓂋𓅱𓏏	72650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrw.t
+
+# sent_id = IBUBdy8h6fK5iU1VkeDkT6XoDV8
+# corpus = sawlit
+# src_text_id = TLCWFICDIBGNLBZNWJHZWKKJCE
+# src_text = sawlit:Stele des Rediuikhnum (Kairo CG 20543)//〈Stele des Rediuikhnum (Kairo CG 20543)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May her ka endure on the great throne,
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A20] - [A21]
+1	𓎝	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+2	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓊨𓏏	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+6	𓅨𓂋𓏏	47271	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wr
+
+# sent_id = IBUBd1tiQgIQ5ETxnpnjkdKxqRA
+# corpus = sawlit
+# src_text_id = TLCWFICDIBGNLBZNWJHZWKKJCE
+# src_text = sawlit:Stele des Rediuikhnum (Kairo CG 20543)//〈Stele des Rediuikhnum (Kairo CG 20543)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May a hand be extended to him with offerings that come forth in the presence of Hathor.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A22]
+1	𓌳𓐙𓂝𓏏	854512	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜥ
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓊵𓏏𓊪𓏏𓏒𓏥	111360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥtp.t
+7	𓉐𓂋𓏏𓂻	60920	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+8	𓅓𓂸𓏝	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+9	𓉗𓏏𓁷𓁐	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+
+# sent_id = IBUBdQqRowHq5EU8mZ3iWIOBJL8
+# corpus = sawlit
+# src_text_id = TLCWFICDIBGNLBZNWJHZWKKJCE
+# src_text = sawlit:Stele des Rediuikhnum (Kairo CG 20543)//〈Stele des Rediuikhnum (Kairo CG 20543)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The praised one, Rediukhnum, says:
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A23]
+1	𓄪𓐍𓅱	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓎸𓂋𓂩𓅱𓀀	_	X	unknown	_	_	_	_	_
+3	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+
+# sent_id = IBUBdwiEQpidXE6nvxWnKXUUJtA
+# corpus = sawlit
+# src_text_id = TLCWFICDIBGNLBZNWJHZWKKJCE
+# src_text = sawlit:Stele des Rediuikhnum (Kairo CG 20543)//〈Stele des Rediuikhnum (Kairo CG 20543)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one who made his own character, one beloved by the people in the course of every day.
+# findspot = Upper Egypt (South of Assiut)
+# date = OK & FIP
+# lineRef = [A23]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓐪𓂧𓈒𓏝	162430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qd
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌻𓂋𓂋𓅱	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+6	𓂋𓍿𓀀𓏨	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+7	𓅓𓌨𓂋𓏏𓇳𓏤	650025	ADV	adverb	_	_	_	_	Translit=m-ẖr.t-hrw
+8	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓇳𓎟	854704	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rꜥw-nb
+

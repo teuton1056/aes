@@ -1,0 +1,170 @@
+# sent_id = IBUBd271fanEAETUrB7Kgy759UI
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May the great ones of Djedu and the entourage who are in Abydos glorify him.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [11]
+1	𓋴𓅜	127110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣḫ
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓅨𓂋𓀭𓏪	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+4	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+5	𓊽𓅱𓊖𓏏𓏤	185980	PROPN	entity-name	_	_	_	_	Translit=Ḏd.w
+6	𓍲𓈖𓇋𓇋𓀀𓏪	155980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnw.t
+7	𓇋𓏶𓏏	25130	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jm.j
+8	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBd0HNAwAVmU1lrKH8SMCn0YM
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May hands be given to him in the neshmet barque on the ways of the west.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [12]
+1	𓂋𓏙𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂣𓂣	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈖𓈙𓅓𓏏	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+7	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓍯𓄿𓏏𓈐𓏥	42490	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=wꜣ.t
+9	𓋀𓏏𓈉	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+
+# sent_id = IBUBdyFprLwOs0aXjmiWaiSF7Tc
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May he hear jubilation from the mouth of Thinis on the haker-festival in the night of vigil, namely the vigil of the fighting Horus.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [14]
+1	𓋴𓄔𓅓	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉔𓏌𓀊	98730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hn.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓋅	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+8	𓉔𓄿𓎡𓂋𓎱	97720	PROPN	entity-name	_	_	_	_	Translit=Hꜣkr
+9	𓎼𓂋𓎛𓄛	167920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓊃𓇧𓂋𓏏𓁀	150850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḏr.t
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓊃𓇧𓂋𓇋𓇋𓏏𓁀𓈖𓏏𓅃𓍲𓈖𓎱	859711	PROPN	entity-name	_	_	_	_	Translit=Sḏr.yt-n.t-Ḥr.w-šn
+
+# sent_id = IBUBd0zMrlrLHkXbseyn8QVELlc
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May he traverse the beautiful roads at the entrance to the western horizon.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [14] - [15]
+1	𓂧𓈖𓂧𓈖	180020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dndn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈐𓏥	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+4	𓄤𓆑𓂋𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓊪𓎼𓄿𓈇𓏤	854511	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pgꜣ
+7	𓈌𓏏𓏤	227	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜣḫ.t
+8	𓋀𓏏𓏏	26150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jmn.tj
+
+# sent_id = IBUBd4IBDUqTD0PAiHgeVQfgMMo
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Oxen were slaughtered for my offering meals, legs moved for me.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [16] - [17]
+1	𓇋𓍯𓅱𓃒𓏤	22160	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jwꜣ
+2	𓊃𓆑𓏏𓌪	133940	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zfṯ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆷𓄿𓃀𓏑𓏊𓏒	151690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šꜣb.w
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓋴𓏏𓍯𓄿	147930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=stwꜣ
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓅱𓂣𓂋𓏏𓂾𓏪	44740	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜥr.t
+
+# sent_id = IBUBdx8aqHD1Qk6pkqqMkMIVfAk
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = As a praised one I came forth from the palace, (for) I was beloved in the palace.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [17]
+1	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎛𓎿𓊃𓎡𓅱𓀀	109620	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḥzi̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉦𓉐	39850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥ
+6	𓌻𓂋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+7	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓋴𓍿𓊪𓍉𓉐𓎂	148220	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=stp-zꜣ
+
+# sent_id = IBUBdxt9Mn2aVE63iIqdAxXN8Xo
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Offices were conferred to me in the palace, namely: overseer of priests and great chamberlain in Abydos.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [18]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖𓆓𓐩𓏌𓏛𓏏	90920	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓊑𓏏𓏩	20430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jꜣw.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉦𓉐	39850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥ
+8	𓅓𓆓𓂧	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+9	𓅓𓂋𓊹𓍛𓏪	400197	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḥm.w-nṯr
+10	𓇋𓏶𓏃𓀀𓉻𓅓𓍋𓃀𓈋𓊖𓏏𓏤	859707	_	epitheton-title	_	_	_	_	Translit=jm.j-ḫnt-ꜥꜣ-m-Ꜣbḏ.w
+
+# sent_id = IBUBdxNTN9sUmkuMnBHTW2PtTy4
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = My every rank was advanced more than (that of) my forefathers who came to life before.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [18] - [19]
+1	𓋴𓏃𓏏	142720	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫnti̯
+2	𓈟𓋴𓏏𓀂	105730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥms.t
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓇋𓏏𓆑𓀭𓏥	32820	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jtj
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓆣𓂋	858535	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+9	𓌨𓂋𓄂𓏏𓏤	500034	ADV	adverb	_	_	_	_	Translit=ẖr-ḥꜣ.t
+
+# sent_id = IBUBd1x8RfAXE08BsY1KSckziUI
+# corpus = sawlit
+# src_text_id = CTKS4E72GVCIPBY2X3PL2JHWHM
+# src_text = sawlit:Stele des Wepwawetaa (München Gl. WAF 35)//〈Stele des Wepwawetaa (München Gl. WAF 35)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = and their offering cakes were set down in writing.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [25]
+1	𓋴𓏠𓈖𓐍𓍊	135360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smnḫ
+2	𓊪𓅮𓏏𓏖𓏥	58820	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=pꜣw.t
+3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏟𓏝	450097	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w
+

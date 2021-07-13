@@ -1,0 +1,48 @@
+# sent_id = IBUBd4VtfSIrQU43sPrFTAzYl1s
+# corpus = bbawgrabinschriften
+# src_text_id = CF5MLYL2YFBEZGPGKED3VHEQGI
+# src_text = bbawgrabinschriften:unteres Register//Beischriften
+# owner = Stefan Grunert
+# text_de = Haus (?) der Lotusblüten (Domäne).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓏏𓎟𓎟𓇳	853752	PROPN	entity-name	_	_	_	_	Translit=Jp.t-nḥb.wt
+
+# sent_id = IBUBdyhcHSsge04JpAvh1L4KKQU
+# corpus = bbawgrabinschriften
+# src_text_id = CF5MLYL2YFBEZGPGKED3VHEQGI
+# src_text = bbawgrabinschriften:unteres Register//Beischriften
+# owner = Stefan Grunert
+# text_de = Tausend an Jungtieren des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓍯𓇋	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBd26APf2ruk2jnREWZtTV41Q
+# corpus = bbawgrabinschriften
+# src_text_id = CF5MLYL2YFBEZGPGKED3VHEQGI
+# src_text = bbawgrabinschriften:unteres Register//Beischriften
+# owner = Stefan Grunert
+# text_de = Der oberägyptische Hügel (Domäne).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓈏𓏏𓇗𓇳	853751	PROPN	entity-name	_	_	_	_	Translit=Jꜣ.t-šmꜥ.yt
+
+# sent_id = IBUBd6A6VnysKkTXmEnb8QoQg24
+# corpus = bbawgrabinschriften
+# src_text_id = CF5MLYL2YFBEZGPGKED3VHEQGI
+# src_text = bbawgrabinschriften:unteres Register//Beischriften
+# owner = Stefan Grunert
+# text_de = Tausend an Jungtieren der Hyäne.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓎛𓍿𓏏	112040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥṯ.t
+3	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+

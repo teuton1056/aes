@@ -1,0 +1,116 @@
+# sent_id = IBUBd01qLmbc5UJWpJwRrKseWWw
+# corpus = sawlit
+# src_text_id = IQTYOQXOPVCALF3EWJIZIXLNZU
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,14-6,7: Berufecharakteristik
+# owner = Lutz Popko
+# text_de = Werde Schreiber!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 5,14]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓏞𓀀	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+
+# sent_id = IBUBd0Q2vCw8Ak1sqwbTQ71hJOQ
+# corpus = sawlit
+# src_text_id = IQTYOQXOPVCALF3EWJIZIXLNZU
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,14-6,7: Berufecharakteristik
+# owner = Lutz Popko
+# text_de = Jedes Amt ist einer Abgabe verpflichtet, und alles Personal ebenso.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 6,1] - [Rto. 6,2]
+1	𓇋𓄿𓏲𓏏𓊑𓏛𓏥	20430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣw.t
+2	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+3	𓎛𓏏𓂋𓇋𓇋𓈒𓏥	111830	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḥtr
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆷𓄿𓇋𓇋𓏏𓏯𓏛𓏥	151400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜣ.yt
+6	𓋴𓅓𓂧𓏏𓏯𓀀𓁐𓏥	136030	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=smd.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+8	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+
+# sent_id = IBUBd4f8aLT9Q0wtooTEPS7t3x0
+# corpus = sawlit
+# src_text_id = IQTYOQXOPVCALF3EWJIZIXLNZU
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,14-6,7: Berufecharakteristik
+# owner = Lutz Popko
+# text_de = Die Hörigen kochen Feigen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 6,3]
+1	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+2	𓄔𓅓𓏛𓂝𓈙𓀁𓏫	150620	_	epitheton-title	Number=Plur|Status=Abs	_	_	_	Translit=sḏm-ꜥš
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊪𓊃𓏴𓏛𓋴𓏏𓊮	62180	VERB	verb	VerbForm=Fin	_	_	_	Translit=psi̯
+5	𓂧𓃀𓇋𓇋𓏏𓈒𓏫	177710	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=dꜣb
+
+# sent_id = IBUBd3Spw2YTeUthiwokhjwQRDU
+# corpus = sawlit
+# src_text_id = IQTYOQXOPVCALF3EWJIZIXLNZU
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,14-6,7: Berufecharakteristik
+# owner = Lutz Popko
+# text_de = Die Wäscher sind auf dem Uferdamm.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 6,3]
+1	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+2	𓅺𓏏𓏭𓅂𓀜𓀀𓏥	95930	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rḫt.j
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓌻𓂋𓇋𓇋𓏏𓈇𓏤	72540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.yt
+
+# sent_id = IBUBd2y4WkjlHE0kn2w1qJt4y4w
+# corpus = sawlit
+# src_text_id = IQTYOQXOPVCALF3EWJIZIXLNZU
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,14-6,7: Berufecharakteristik
+# owner = Lutz Popko
+# text_de = Man ist zum Wasser hinabgestiegen (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 6,3] - [Rto. 6,4]
+1	𓏏𓏲𓏏𓏲	851206	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗tw
+2	𓉔𓄿𓇋𓇋𓏭𓂻𓏏𓏲	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd7mrs7MxLkDvgGFWwatZnjw
+# corpus = sawlit
+# src_text_id = IQTYOQXOPVCALF3EWJIZIXLNZU
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,14-6,7: Berufecharakteristik
+# owner = Lutz Popko
+# text_de = Die Peitschenschnur ist auf seinem Rücken.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 6,5]
+1	𓐍𓂝𓂋𓏲𓄛	600161	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜥr
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓊪𓊃𓋴𓄹	62400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=psḏ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9KQZl8tgk0ol8WyjQworRg
+# corpus = sawlit
+# src_text_id = IQTYOQXOPVCALF3EWJIZIXLNZU
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,14-6,7: Berufecharakteristik
+# owner = Lutz Popko
+# text_de = Sein Bauch ist ohne (wörtl.: ist leer von) Nahrung.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 6,5]
+1	𓄡𓏏𓏤𓄹	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓆅𓏲𓏴𓅪	152670	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=šwi̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅧𓈎𓏲𓏯𓏒𓏥	41470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥq.w
+
+# sent_id = IBUBd2oicQF9MkcziCOkdVv2xAs
+# corpus = sawlit
+# src_text_id = IQTYOQXOPVCALF3EWJIZIXLNZU
+# src_text = sawlit:pChester Beatty V ⸗ pBM EA 10685//Rto. 5,14-6,7: Berufecharakteristik
+# owner = Lutz Popko
+# text_de = Er hat keine Vorgaben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto. 6,7]
+1	𓂜𓈖𓃹𓈖𓏲	79090	PART	particle	_	_	_	_	Translit=nn-wn
+2	𓅓𓂡	600056	ADP	preposition	_	_	_	_	Translit=m-dj
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓆷𓄿𓇋𓇋𓏏𓏯𓏛𓏥	151300	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šꜣ.w
+

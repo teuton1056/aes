@@ -1,0 +1,825 @@
+# sent_id = IBcCWBcvYO3tfU5Hpw861bgRHbk
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel; etwas, was angefertigt werden kann, um Flöhe im Haus zu beseitigen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,15]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+6	𓊪𓇋𓇋𓏲𓄛𓏥	59500	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=py
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+
+# sent_id = IBcCWBBQFRv6i095lUUl36EWbQ8
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = So sollst du es (d.h. das Haus) mit einer Natronlösung (wörtl.: Wasser von/aus Natron) besprengen, bis/so dass (sie) sich entfernen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,16]
+1	𓈖𓏏𓈙𓈗𓀜𓐍𓂋	90100	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ntš
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓅔	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓍖𓈖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂋𓏲𓇋𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+
+# sent_id = IBcCWPxJKAy7OknNsW863A8HB6Q
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,16]
+1	𓎢𓏏	400645	NOUN	substantive	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCWKnJrMzO4UM9vOnZlToDUGk
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = $bb.t$-Pflanzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,16]
+1	𓃀𓃀𓏏𓆰𓏥	55390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bb.t
+
+# sent_id = IBcCWFFWLQ40tEKIl9yiSgq6URM
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde mit Holzkohle zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,16]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆓𓂝𓃀𓏏𓈒𓏥	182660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥb.t
+
+# sent_id = IBcCWEoYWSLSYUZhrSxYlUCWhUo
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Das Haus werde damit ordentlich bestrichen, bis/so dass (sie) sich entfernen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,17]
+1	𓋴𓄡𓂋𓌕𓂝	854550	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšr
+2	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏠𓈖𓐍𓍊𓏛	400111	ADV	adverb	_	_	_	_	Translit=mnḫ
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓂋𓏲𓇋𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+
+# sent_id = IBcCWALtkLbi80z2hruhEOczlWI
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Verhindern, dass eine Schlange aus einem Loch herauskommt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,17] - [97,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+4	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+6	𓎛𓆑𓄫𓆙	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓃀𓅡𓄿𓅡𓄿𓏲𓉐	53420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣbꜣ
+
+# sent_id = IBcCWB9mmN84K0WcvCjYFQMaTJQ
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Buntbarsch, getrocknet (und) an die Öffnung ihres Loches gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,18]
+1	𓇋𓆛𓈖𓏏𓆟𓏤	26760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jn.t
+2	𓆅𓅱𓏏𓇳	152720	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=šwi̯
+3	𓂋𓂝𓍘𓇋	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rḏi̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓃀𓅬𓄿𓅬𓄿𓏲𓉐	53420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣbꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCWLTTFT0UfUEhtAv6DU1pKfk
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Sie kann nicht daraus herauskommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,19]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcCWBnIXQpTYkdRvbe598BgKY8
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCWDwrpP4sTU7godzLsFFGsJM
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Natron, an die Öffnung des Loches gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,19]
+1	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+2	𓂋𓂝	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓃀𓅡𓄿𓅬𓄿𓏲𓉐	53420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣbꜣ
+
+# sent_id = IBcCWD1gWvWQxEWcjWAnHEbqeuE
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Sie kann nicht herauskommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,19]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCWP7BwmdWSkpOrtr5H2Gbtzo
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCWFOsut9lCkZuld5uouQ4ZOc
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Kügelchen einer Zwiebel / vom Knoblauch, an die Öffnung des Loches gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,20]
+1	𓅷𓏤	173960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌉𓏲𓆰𓏥	112710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+4	𓂋𓂝	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓃀𓅡𓄿𓅬𓄿𓏲𓉐	53420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣbꜣ
+
+# sent_id = IBcCWFwtbj95UkapudAWRC6xpQk
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Sie kann nicht herauskommen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,20]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCWD1zwplQ3UDZt5rWrBQ4Yjc
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Verhindern, dass eine Fliege beißt/sticht:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,20] - [97,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+4	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓊪𓊃𓎛𓄑𓀁	62220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pzḥ
+6	𓂝𓆑𓆑𓅬	37370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥff
+
+# sent_id = IBcCWDUP1PiKe0n2ryWSbfX5jFA
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Fett des $gn.w$-Vogels.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,21]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+2	𓎼𓈖𓏌𓏲𓅬𓏥	167460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gn.w
+
+# sent_id = IBcCWBO2vIp99kovu2dQp23LKBI
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,21]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcCWFl0vWwVt0BBpqwSRmHandY
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Verhindern, dass Mücken stechen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [97,21] - [98,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+4	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓊪𓊃𓎛𓄑	62220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pzḥ
+6	𓐍𓈖𓏌𓏲𓋴𓅬𓏥	117830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫnws
+
+# sent_id = IBcCWFnr2bMWb0PDoZF7V6lQxus
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Frisches Olivenöl.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,1]
+1	𓆮𓏌𓏥	53900	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣq-n-qmy.t
+2	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBcCWB2vcfWx3EQWlXIGsAQ2sEE
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,1]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcCWPx6ramFzEGAiifcEdGZHLw
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Mittel) zum Verhindern, dass Mäuse an Dinge herankommen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,1] - [98,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+4	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓏏𓎢𓈖𓂻	173680	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tkn
+6	𓊪𓈖𓏌𓏲𓄛𓏪	60020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pn.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+
+# sent_id = IBcCWN9OxWTcI0WjsQtsWCR0q9o
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Katerfett.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,2]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+2	𓏇𓇋𓏲𓄛	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+
+# sent_id = IBcCWFnudSDEjkvkv3GJX5zGZNs
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde an alle Dinge gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,2]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+4	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcCWHKtnTC3s0CyuuH2epg7n0w
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Verhindern, dass ein Milan (etwas) raubt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,2] - [98,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+4	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓐍𓈖𓊪𓂝	117850	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnp
+6	𓇥𓂋𓏲𓇋𓇋𓏏𓅬	184660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+
+# sent_id = IBcCWHr4vQVk60C8hZsW001q67w
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde aufgerichtet (wörtl.: werde veranlasst, dass er steht).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,3]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCWNBpPmWnUE21lPYWVD2DVm4
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = So soll der Mann sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,3]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCWKRGGvW1BEzUk0FFAGW4t80
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = „(O) Horus, (d)er in der Stadt und in der Flur jagt (wörtl.: raubt).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,3] - [98,4]
+1	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+2	𓅷𓄿𓀜𓈖	174260	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nʾ.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆷𓈇𓏤	151110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ
+
+# sent_id = IBcCWNsQkQz8Q0tioFUiQOXTCY8
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Sein Durst ist auf die Flur der Flieger (d.h. der Vögel) gerichtet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,4]
+1	𓇋𓃀𓏏𓃙𓈗𓀁	23430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆷𓈇𓏤	151110	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šꜣ
+5	𓅯𓄿𓇋𓇋𓏏𓆃	59040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣy.t
+
+# sent_id = IBcCWAwDkwtVgkh8khXrheYXIK8
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Er möge kochen (d.h. sich die Nahrung zubereiten)!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,5]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCWG0pPObQVkRGgx33FdlnbhM
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Er möge fressen!“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,5]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCWEU5UfQ1R0h9mAdQRVjBCi4
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = $fqꜣ$-Kuchen werden darauf gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,5]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑𓈎𓄿𓏒𓏥	64000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=fqꜣ
+3	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCWAZr0T9QoE2Cmo3wjddKXDs
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Das (dient) dem Verhindern, dass ein Milan (etwas) raubt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,5] - [98,6]
+1	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+2	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓐍𓈖𓊪𓂝	117850	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnp
+4	𓇥𓂋𓏲𓇋𓇋𓏏𓅬	184660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcCWH3KJvaojE5ptWpgV99C6aw
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Mittel) zum Verhindern, dass $kk.t$-Tiere Gerste (oder allgemeiner: Getreide) im Speicher fressen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,6] - [98,7]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+4	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓏶𓅓𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+6	𓎢𓎢𓏏𓄛𓏪	165640	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kk.t
+7	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓅓𓂝𓌨𓂋𓉐	74650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mẖr
+
+# sent_id = IBcCWJk2oYQDrEbvtGMDtxnoYRc
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Gazellenkot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,7]
+1	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+2	𓎼𓎛𓋴𓂾𓄛	168210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gḥs
+
+# sent_id = IBcCWARWIblxgUKXnz8rLGSMzHM
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde im Speicher aufs Feuer gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,7]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅓𓂝𓌨𓂋𓉐	74650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mẖr
+
+# sent_id = IBcCWCUQKxGTYE27lUldlfcyzww
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Seine Wände und seine Böden werden mit ihrem $jtn.w$ und mit Wasser bestrichen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,7] - [98,8]
+1	𓋴𓄡𓂋𓌕𓂝	854550	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšr
+2	𓊅𓏤𓈇𓏥	27180	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jnb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅭𓏏𓏲𓈇𓏥	127650	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=zꜣṯ.w
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓇋𓏏𓈖𓏌𓏲𓂉𓈒𓏥	33120	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jtn
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcCWHrSz00BE0xciuVhCCEdQbQ
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Das (dient) dem Verhindern, dass Gerste (oder allgemeiner: Getreide) gefressen wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,8] - [98,9]
+1	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+2	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓏶𓅓𓀁𓏏𓏲	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+5	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBcCWCxmYGD0TUQnoxJXPNeCDIg
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), etwas, das anzufertigen ist, um $smr$-Tiere zu töten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴𓌴𓄿𓅓𓌪𓂝	134370	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣ
+5	𓋴𓅓𓂋𓄛𓏥	135450	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=smr
+
+# sent_id = IBcCWBBTyWkd2EponsOvOBlQz9s
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Eidechse.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,9]
+1	𓎛𓆰𓈖𓏏𓍔𓄿𓇓𓏲𓆈	107380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥntꜣsw
+
+# sent_id = IBcCWKdQUd3SQkFHuoS7D7qeWiI
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde aufs Feuer gelegt, bis/so dass sie sterben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,9] - [98,10]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓅓𓏏𓏱	69300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mwt
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcCWMBXFUsNhU3vm7Jdo5B0BXg
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Etwas, das anzufertigen ist, um eine Eidechse zu töten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,10]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴𓌴𓄿𓅓𓌪𓂝	134370	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣ
+4	𓎛𓆰𓈖𓏏𓍔𓄿𓇓𓏲𓆈	107380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥntꜣsw
+
+# sent_id = IBcCWDwPOXrnM0mZpGlIWpdoWYk
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = $smr$-Tiere.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,10]
+1	𓋴𓅓𓂋𓄛𓏪	135450	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=smr
+
+# sent_id = IBcCWMmWDiBlb0edvOexjaPaGFM
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde aufs Feuer gelegt, bis/so dass sie stirbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,11]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓅓𓏏𓏱	69300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mwt
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCWJeWUFjlEkYdpcfcAHXcI7g
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Kyphi (Räuchermittel), etwas, das anzufertigen ist, um den Geruch eines Hauses oder von Kleidung angenehm zu machen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,12]
+1	𓊶𓊪𓏏𓊮	163400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣp.t
+2	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+5	𓋴𓏏𓏭𓐎	148990	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sṯj
+6	𓉐	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+7	𓋳𓏥	103750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs
+8	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBcCWJZtgtzasUhTrrnygKEYg24
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Getrocknete Myrrhe, „Haarfrüchte“, Weihrauch, $gw$-Gras, Holz vom Kampferbaum, Mastix (?, oder: Maische?), Schilfrohr aus Syrien-Palästina, $ynktwn$-Droge, $ḏmtn$-Droge, Storaxbaum-Harz (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,13a] - [98,13b]
+1	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+2	𓇶𓈒𓏥	152730	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šwi̯
+3	𓍁𓈒𓏥𓁸𓏥𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+4	𓊹𓌢𓏏𓂋𓈒𓏥𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+5	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+6	𓆱𓏏𓏤	121200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫt
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓍘𓀻𓋴𓆮	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+9	𓈙𓃀𓏏𓈒𓏥	153220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šb
+10	𓈖𓃀𓇋𓏏𓌟	82640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nbj.t
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓍑𓄿𓉔𓏭𓈉	854864	PROPN	entity-name	_	_	_	_	Translit=Ḏhj
+13	𓇋𓇋𓈖𓎢𓏏𓏲𓈖𓏥𓈒𓏥	27960	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ynktwn
+14	𓆓𓅓𓏏𓈖𓈒𓏥	184080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏmtn
+15	𓎼𓈖𓈖𓀉	167560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gnn
+16	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+17	𓈖𓏭𓇋𓇋𓏲𓃀𓈖𓆮	84920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nnjb
+
+# sent_id = IBcCWAWSOlZXWEDFkf5kkaLHhg8
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,13b]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcCWJ2kZYTMTkVWoQNGDZsQgBI
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,13b] - [98,14b]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCWCf4D9pMK0CsqvgE4EgEISk
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde (etwas) davon aufs Feuer gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,14b]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBcCWH0F6ELV10KKsOW2uBKYjKM
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Ein anderes (Mittel), das Frauen dazu machen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,14b]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓁹𓂋	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓈞𓏏𓁐𓏥	104730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCWPhelQHVZ0m2vg1u1gZwGqI
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Dieses (eben genannte) Heilmittel entsprechend dieser (eben genannten) Anweisung in Honig geben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,15b]
+1	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓇑𓇑𓈖𓈖	500001	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn-n
+3	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pẖr.t
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓋴𓌫𓅓𓏛𓏥	144990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sšm
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓆤𓏏𓏌𓏥	860123	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bj.t
+
+# sent_id = IBcCWPwUbwdFCkR9kZ4FasQM5CA
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,16b]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcCWGv9W6rXWUkiutQeJABbpsg
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = werde vermischt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,16b]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+
+# sent_id = IBcCWFqTlPtGlEQZrcJQwm5oMHU
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = werde zu Kügelchen gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,16b]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇋𓊪𓊪𓏲𓏏𓈒𓏥	24410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jpp.t
+
+# sent_id = IBcCWC0yLk6UhEbWtR8NotSf8Lg
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = So sollen sie mit ihnen räuchern.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,16b] - [98,17b]
+1	𓊶𓊪𓊮𓐍𓂋	163310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣp
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcCWPXuMX28XkeZrNGQt9ddBNg
+# corpus = sawmedizin
+# src_text_id = HL47O6LNQFETPLONXUSPWGNWZU
+# src_text = sawmedizin:Papyrus Ebers//97,15-98,18 ⸗ Eb 840-853: Mittel gegen Schädlingsbefall
+# owner = Lutz Popko
+# text_de = Sie machen ferner „Mundgeschmack“ (d.h. Pillen?) aus ihnen, um den Duft ihrer Münder angenehm zu machen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [98,17b] - [98,18b]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓂧𓊪𓏏𓄧𓀁	179020	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=dp.t
+6	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+7	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+11	𓋴𓏏𓐎	148990	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sṯj
+12	𓂋𓏤𓏥	92560	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=rʾ
+13	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+

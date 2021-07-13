@@ -1,0 +1,277 @@
+# sent_id = IBYCkeRdUBQgrEsVhj06NLlwadg
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) gegen Menschenbisse:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,5] - [64,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓊪𓊃𓎛𓄑𓀁	62230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pzḥ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂋𓏏𓀀𓁐𓏥	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+
+# sent_id = IBYCkWJgw03dh09NtVXeUWnThWg
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = $ẖꜥꜥ$-Teile des $ꜥnḏ.w$-Topfes, Porree, gehackt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,6]
+1	𓄡𓂝𓂝𓏲𓏌𓏥	122760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜥꜥ
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓂝𓈖𓈋𓏲𓏊𓏤	39120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḏ.w
+4	𓇋𓄿𓈎𓏏𓆰𓏥	20990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣq.t
+5	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=qnqn
+
+# sent_id = IBYCkQUtewCsIUfOjJEuI9PUQX4
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,6] - [64,7]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCkdUvJIkbTUMxiVXqUkWNI9Q
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = (Die verletzte Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,7]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYCkf6cZ27LO0eAilhwnBv7neE
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, Ocker: 1, Galle der Ziege: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,7] - [64,8]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓏲𓂧𓂧𓆇	51940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdd
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓌡𓂝𓏏𓏭𓃙	44240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ.tj
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCkVdTH9y9YEIllR7cjNI7qI8
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,8]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCkdGCcQT8C0hMusJ2EVa3G6g
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = (Die verletzte Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,8]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYCkVntvd9SAEQBu2PQvk4iyG4
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = $nṯr$-Pflanze: 1, Weihrauch: 1, $ḥḏw$-Harz: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,8] - [64,9]
+1	𓊹𓏏𓂋𓆰𓏥	90270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓌉𓌉𓌉𓈒𓏥𓈒𓏥	112720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCkQ7f7BQFMky6mLhA4Q0W1Uw
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,9]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCkXZ5IMrmikfTiA3W5Q6aJtk
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = werde zu einer Wundsalbe gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,9]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓈖𓍇𓏌𓂧𓏏𓈒𓏥	81590	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nwd.t
+
+# sent_id = IBYCkTbQaUj5xkC0g0GOWfWN8bU
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = (Die verletzte Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYCkT3Tvh2o6ktXhY3c7GJt0Ug
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCkbsCpEQ2xUqUgfRuvEYXAUs
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Dann sollst du ihn am ersten Tag mit/über frischem Fleisch verbinden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,9]
+1	𓐎𓂝𓇋𓈖	50980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+6	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+7	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+8	𓁶𓊪𓏭	171460	ADJ	adjective	_	_	_	_	Translit=tp.j
+
+# sent_id = IBYCkeWLfJFR3EH4iygzWDLQKY8
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Danach sollst du ihn mit Öl/Fett und Honig behandeln, so dass er sich wohlfühlt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,10]
+1	𓇋𓂋𓅓𓆱𓐍𓏏𓂻	28350	ADV	adverb	_	_	_	_	Translit=jr-m-ḫt
+2	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srwḫ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYCkRMAD2DDpktsj4gCEyejJuU
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Danach sollst du Öl/Fett und Wachs applizieren (wörtl.: geben), so dass er sich sofort wohlfühlt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,10] - [64,11]
+1	𓇋𓂋𓅓𓆱𓐍𓏏𓂻	28350	ADV	adverb	_	_	_	_	Translit=jr-m-ḫt
+2	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBYCkeJCGjfCWUaFh1g00LHXyp0
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Was zu tun ist gegen einen Krokodilbiss.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,11]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤𓂋𓏤	171160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp.j-rʾ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓆊𓏤	75590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mzḥ
+
+# sent_id = IBYCkcY3QwzA10blvAsa0m53IU8
+# corpus = sawmedizin
+# src_text_id = 5VTRLPNGTVB4NFASALVWWRA524
+# src_text = sawmedizin:Papyrus Ebers//64,5-64,12 ⸗ Eb 432-436: Rezepte gegen Bisswunden
+# owner = Lutz Popko
+# text_de = Wenn du einen Krokodilbiss untersuchst und du findest ihn, indem sein Fleisch aufgeworfen (?) ist und seine Seiten (d.h. Ränder?) geteilt sind, so sollst du ihn am ersten Tag mit frischem Fleisch verbinden, so wie (es getan wird mit) irgendeiner Wunde eines Mannes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [64,12] - [64,13]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓁶𓏤𓂋𓏤	171160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp.j-rʾ
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓆊𓏤	75590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mzḥ
+7	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+8	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+10	𓆼𓄿𓂝𓂝	113560	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣꜥ
+11	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓐣𓂝𓏛	52360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜥ
+14	𓆄𓆄	152840	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=šw.t
+15	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+16	𓐎𓂝𓐍𓂋	50980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+17	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+18	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+19	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+20	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+21	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+22	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+23	𓁶𓊪𓏭	171460	ADJ	adjective	_	_	_	_	Translit=tp.j
+24	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+25	𓇶𓄹	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+26	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+27	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+28	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+

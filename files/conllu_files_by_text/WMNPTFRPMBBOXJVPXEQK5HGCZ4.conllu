@@ -1,0 +1,31 @@
+# sent_id = IBUBd0P9ZGn4QkDLhRGHRCrjHZ8
+# corpus = bbawhistbiospzt
+# src_text_id = WMNPTFRPMBBOXJVPXEQK5HGCZ4
+# src_text = bbawhistbiospzt:〈Stele Kairo JE 36861 des Taharqa〉//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Er stiftete ihm (⸗ Amun-Re) 6 Weißbrotrationen für den täglichen Bedarf für die Statuen Seiner Majestät des südlichen A〈a〉-Gebäude(teil)s des Ptah-Tempels.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [13] - [14]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂝𓈎	41470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥq.w
+6	𓏏𓏙𓏝𓏥	168830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-ḥḏ
+7	𓏥𓏥	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓌨𓂋𓉔𓂋𓇳𓏤	400048	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖr.t-hrw
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+12	𓏏𓅱𓏏𓏲𓀾	170470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twt
+13	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+14	𓍛𓀭	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+15	𓆑𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+17	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+18	𓂝𓂸𓏏𓏏𓉐	34810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣ
+19	𓇔	96010	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=rs.j
+20	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+21	𓉐𓏤𓊪𓏏𓎛	852416	PROPN	entity-name	_	_	_	_	Translit=Pr-Ptḥ
+

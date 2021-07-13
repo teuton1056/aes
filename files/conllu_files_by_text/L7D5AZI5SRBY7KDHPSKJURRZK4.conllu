@@ -1,0 +1,2908 @@
+# sent_id = IBUBd1pyCcv5ekxPsWZCt44VM9M
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man sorgt für seinen Schutz in Jit (Heiligtum im 2.u.ä. Gau), (denn) er wurde (dort) betrauert von den (göttlichen) Frauen, Isis, Nephthys (und) Horet.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+2,7]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓅓𓂝𓎡𓏏𓏛𓏥	76880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mkw.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓀁𓇋𓇋𓏏𓉐𓊖	21330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=Jy.t
+7	𓎛𓃀𓎳𓏏𓏲𓈖	103320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣbi̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+10	𓈟𓏏𓁐𓏥	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+11	𓊨𓏏𓏏𓁐	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+12	𓉠𓏏𓏏𓁐	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+13	𓅃𓏏𓁐	107610	PROPN	entity-name	_	_	_	_	Translit=Ḥr.wt
+
+# sent_id = IBUBdxoMDAW2W0wQp7Hfsy0J890
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sie legten den Gottesleib ('Reliquie') des Osiris, (als) er in Letopolis gefunden worden war, auf den Rücken einer Sau(?).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+2,7] - [x+2,8]
+1	𓃹𓈖𓇋𓇋	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓊹𓎛𓂝𓄹𓏥	102030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w-nṯr
+6	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+8	𓅠𓅓𓈖𓏏𓏲	167210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓊃𓐍𓅓𓂜𓉐𓊖	116940	PROPN	entity-name	_	_	_	_	Translit=Ḫm
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓊪𓊃𓂧𓄧	62400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏ
+14	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+15	𓂋𓐍𓇋𓇋𓄛	95300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rr.t
+
+# sent_id = IBUBdWqXTG3HXEaLpWPllrsiWa0
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Was den Mnevis-(Stier) anbetrifft, der 'Große (mit dem) Bündel' sagt man zu ihm.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+2,8]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓉕𓅨𓂋𓃒	72230	PROPN	entity-name	_	_	_	_	Translit=Mr-wr
+3	𓅨𓂋𓉕𓃒	856229	_	epitheton-title	_	_	_	_	Translit=wr-mr
+4	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+5	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd93IxukjZEDuk5lmedd3oFs
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Der 'Herzensmüde' (Osiris), seine Glieder sind in seinem (Mnevis) Innern, sie wurden in Athribis eingesammelt, (um sie) nach Heliopolis (zu bringen).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+2,8] - [x+2,9]
+1	𓅨𓂋𓆓𓀉𓄣𓏤𓅆	48310	_	epitheton-title	_	_	_	_	Translit=wrḏ.w-jb
+2	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓𓄚𓈖𓏏𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓏲𓏏𓏏𓀾𓏛𓏥	170500	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=twti̯
+7	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓆎𓊾𓃒𓊖	164510	PROPN	entity-name	_	_	_	_	Translit=Km-wr
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+
+# sent_id = IBUBd0k08peRY0UartNbgbHWyJM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Darufhin sandte man ihn aus mit ihnen (den inneren Organen) als 'Stier, der (die inneren Organe) vereinigt hat' (und) er gelangte nach Heliopolis mit ihm (dem Eingeweidebündel), das an ihn gebunden war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+2,10] - [x+2,11]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓂋𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓈝𓅓𓂻𓈖	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂓𓏤𓂸𓃒𓋬𓂧𓏛𓅆	856231	_	epitheton-title	_	_	_	_	Translit=kꜣ-dmḏ
+10	𓄭𓂋𓏲𓂻𓈖	132830	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓉺𓏌𓊖𓅆	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+14	𓌨𓂋𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓌻𓂋𓂷𓂡𓏲𓏏	71880	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mr
+17	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3jEw3aG6UOmpmXTSVRQvN0
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Daher) sagt man zu ihm: der 'Große (mit dem) Bündel'!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+2,11]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅨𓂋𓉕𓃒	856229	_	epitheton-title	_	_	_	_	Translit=wr-mr
+
+# sent_id = IBUBd5M4QLHtREO6iRtd2eVROEs
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sie holte die beiden 'Es wurde geholt' (Augen) aus Imhedjet, wegen der Möglichkeit, (daß) Be (Seth) sich ihrer bemächtigen könnte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+3,5] - [x+3,6]
+1	𓏎𓈖	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓏎𓈖𓋴𓌽𓌽𓈒𓈒	856236	PROPN	entity-name	_	_	_	_	Translit=Jni̯⸗s.wj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇋𓐝𓅓𓌉𓏏𓇳𓊖	856237	PROPN	entity-name	_	_	_	_	Translit=Jmḥḏ.t
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+8	𓌂𓅓𓏛𓀜	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+9	𓃀𓅆	52800	PROPN	entity-name	_	_	_	_	Translit=B
+10	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd6s45UNTskJtnYQdLL8KKLM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Was (nun) die Arbeiten anbetrifft, die ihretwegen ausgeführt werden: Formen der Gottesleiber ('Reliquien') aus reinem Ton, (nämlich) die Hand, das Udjat-Auge, das Ohr (und) seinen (Atums) Daumen, (wobei) er (der Ton) mit Kot von einem Jungstier(?) vermischt ist; Formen des Udjat-Auges in seiner (ursprünglichen) Gestalt, (als) es (noch) im Nun ruhte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+3,6] - [x+3,7]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂓𓏏𓏯𓏛𓏥	163010	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣ.t
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓈎𓌴𓄿𓌙𓅬𓏛	854564	VERB	verb	VerbForm=Fin	_	_	_	Translit=qmꜣ
+7	𓊹𓎛𓂝𓄹𓏥	102030	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥꜥ.w-nṯr
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓋴𓇋𓆛𓐎𓈇𓏤	128340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjn
+10	𓃂𓈗	400114	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥb
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓂀	52140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜣ.t
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓂈	76230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=msḏr
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓂝𓈖𓏏𓂷	38130	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥn.t
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓋴𓆑𓇋𓇋𓈗𓀜	133580	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sfi̯
+21	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+22	𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+23	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+24	𓈖𓐍𓃀𓏲𓄛	856238	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫb
+25	𓈎𓌴𓄿𓅓𓌙𓅬𓏛	854564	VERB	verb	VerbForm=Fin	_	_	_	Translit=qmꜣ
+26	𓏲𓍑𓄿𓏏𓂀𓅆	52140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜣ.t
+27	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+28	𓇋𓁹𓀾𓏛𓏥	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+29	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+30	𓊵𓏏𓊪𓏛	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+31	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+32	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+33	𓏌𓏌𓏌𓇯𓈗𓈘𓈇	500005	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw.w
+
+# sent_id = IBUBdzfZ5wzmf0ISuQtJUogqElQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Dieser (Gottes)leib (die Reliquie des Udjat-Auges) hat seinen Platz ("liegt") am Eingang des Benben-Sanktuars.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+3,7]
+1	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+2	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+3	𓂋𓂝𓏏	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓃀𓈖𓃀𓈖𓅬𓉐	856233	PROPN	entity-name	_	_	_	_	Translit=Bnbn
+
+# sent_id = IBUBdw4mg1gWnkSGo6ZdSflO8Ug
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Hotpet ist die 'Terasse der Goldenen' (Hathor) in ihrer Gestalt, die mit ihrem Namen Horit bezeichnet wird, als Hathor, 'Herrin von Hotpet', das ist die 'Gotteshand des Re' in ihrer Gestalt des 'Gottesgliedes' als Sykomore in Set-chen ("Ort des Verweilens"?).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+3,8] - [x+3,9]
+1	𓊵𓏏𓊪𓈟𓊖	111390	PROPN	entity-name	_	_	_	_	Translit=Ḥtp.t
+2	𓆱𓐍𓏏𓊍𓋞𓏏𓏏𓁐	856239	PROPN	entity-name	_	_	_	_	Translit=Ḫt.w-nbw.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇋𓁹𓂋𓏲𓀾	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓄋𓊪𓏴𓏲𓏏	45640	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wpi̯
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂓𓏤	162900	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+9	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+10	𓅃𓏏𓁐	107610	PROPN	entity-name	_	_	_	_	Translit=Ḥr.wt
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓉗𓏏𓁷𓂋𓁐	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+13	𓎟𓏏𓊵𓊪𓈟𓏏𓁐	852403	PROPN	entity-name	_	_	_	_	Translit=Nb.t-Ḥtp.t
+14	𓊹𓂧𓏏𓏤𓁐	855179	_	epitheton-title	_	_	_	_	Translit=ḏr.t-nṯr
+15	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+16	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+17	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓇋𓆇𓀾	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+20	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+21	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+22	𓊹𓆓𓏏𓏤	856242	_	epitheton-title	_	_	_	_	Translit=ḏ.t-nṯr
+23	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+24	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+25	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+26	𓊨𓏏𓉐𓐍𓈖𓈖𓅬𓂻	856241	PROPN	entity-name	_	_	_	_	Translit=S.t-ḫn.t
+
+# sent_id = IBUBd0nTKQMbR0Yynp4W3BcGoCA
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Osiris war es aber, der sich nach Uha-to begeben hatte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,3]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓏲𓍑𓄿𓂻	52130	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏꜣ
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓊠𓇾𓊖	856251	PROPN	entity-name	_	_	_	_	Translit=Wḥꜥ-tꜣ
+
+# sent_id = IBUBdwiv9p0BzUQwi2VRkQtxvoA
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Unversehrt ist (nun) sein (Uha-to's) Herrscher, der in ihm ist, (obwohl) er (zunächst) außerhalb von ihm war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,4]
+1	𓏲𓍑𓄿𓂻	52090	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏꜣ
+2	𓋾𓈎𓅆	110360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥqꜣ
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓏶𓅓	25130	ADJ	adjective	Number=Sing|Status=Pron|Gender=Masc	_	_	_	Translit=jm.j
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅓𓂋𓂋𓏏𓏲𓏭𓉪	64990	ADP	preposition	_	_	_	_	Translit=m-rw.t
+10	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd3fKpKHcDkhNpfkay8gRWDw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Die 'Großen' ("die Alten") wurden wegen dieser ihrer Untaten bei ihrem Herrn angeklagt zum 'Fest der Hand', während des (Monats des) Chonsfestes.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,6] - [x+4,7]
+1	𓋴𓇍𓇋𓂻𓏲𓏏	128050	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sjwi̯
+2	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+3	𓀗𓏲𓏲𓀀𓏥	855586	PROPN	entity-name	_	_	_	_	Translit=Wr.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+6	𓈎𓈖𓅪𓏥	160970	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qnj.w
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+10	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓎛𓃀𓎳𓂧𓏏𓏤	856253	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-ḏr.t
+13	𓐍𓏏𓆑	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+14	𓎛𓃀𓎱𓇳𓐍𓈖𓇓𓅆	856254	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-Ḫns.w
+
+# sent_id = IBUBdx4WxRTlSEHkoRtJpIx8dLk
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Und) man feiert die 'Goldene' (Hathor) mit Klanghölzern (und) sagt: "Das ist gleichfalls die Hand!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,7]
+1	𓋴𓎛𓃀𓎱𓇳	140620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥꜣbi̯
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓋞𓏏𓏏𓁐	81770	_	epitheton-title	_	_	_	_	Translit=nbw.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂝𓅓𓂝𓆱𓏥	37760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥmꜥꜣ.t
+6	𓅓𓆓𓂧	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+7	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏr.t
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBd9KOz43ScUKpkY7lTMhiWLE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Dann) fügt man diese Reliquie zusammen und legt (sie) ins Wasser.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,7] - [x+4,8]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊃𓅭𓄿𓈎𓏛𓀜	127330	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜣq
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+7	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+8	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBdyUqW4Cz3E02klNEHJfdb08
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man begeht für sie das 'Fest der Hand', (wobei) sie während der Abschlußzeremonien umsorgt werden.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,10]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓎱𓇳𓂧𓏏𓏤𓅆	856253	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-ḏr.t
+7	𓏲𓐍𓂋𓏴𓂡𓏲𓏏𓏫	49320	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wḫr
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓎛𓏏𓋴𓋩	111940	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥts
+10	𓎛𓃀𓎱𓇳	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+
+# sent_id = IBUBd4DJeCNW4EsdjQ9XonWLmdY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man bringt die Weiden heran, wenn sie ihre Verletzung von der Untat gegen sie überwunden haben.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,10] - [x+4,11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊄𓃀𓂻	131460	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zbi̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓍘𓂋𓏏𓆮𓏫	176250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯr.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓂋𓈎𓍼𓏛	39630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥrq
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓂧𓅓𓏏𓌫	179220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dm.wt
+9	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+10	𓇥𓂋	850803	ADP	preposition	_	_	_	_	Translit=ḏr
+11	𓈎𓈖𓅪𓏴𓏫	160970	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qnj.w
+12	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdwattZ98TknEvFmOyJXNeKg
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man singt für die 'Goldene' mit (rhytmischer Begleitung von) Klanghölzern (und) Händen, (denn) das sind die Gotteshände der 'Goldenen'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎛𓎿𓋴𓀁	109680	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsi̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓋞𓏏𓏏𓁐	81770	_	epitheton-title	_	_	_	_	Translit=nbw.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓅓𓂝𓆱𓏥	37760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥmꜥꜣ.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂧𓂧𓏫	184630	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏr.t
+10	𓂧𓏏𓏤𓏫	184630	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḏr.t
+11	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+12	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+13	𓋞𓏏𓏏𓁐	81770	_	epitheton-title	_	_	_	_	Translit=nbw.t
+
+# sent_id = IBUBdydFq6NHj0wUsNDccpKjN8o
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man sagt (auch) 'Männliche' als Name dieser 'Goldenen', der 'Gotteshand' des Harachte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+4,11] - [x+5,1]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓅷𓄿𓂺𓅆	856255	_	epitheton-title	_	_	_	_	Translit=ṯꜣ.y
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓋞𓏏𓏏𓁐	81770	_	epitheton-title	_	_	_	_	Translit=nbw.t
+8	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+9	𓊹𓂧𓏏𓏤𓅆	855179	_	epitheton-title	_	_	_	_	Translit=ḏr.t-nṯr
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓅃𓈃𓅆𓅆	107800	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-ꜣḫ.tj
+
+# sent_id = IBUBd1mA224nkERwmY2WyFprCig
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Und) er (der Daumen) ist dort (bei Hotpet) bis heute!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓂋𓏠𓈖𓏛	92020	ADP	preposition	_	_	_	_	Translit=r-mn-m
+5	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdQ4L2YWNOkuviyTCQvfViMw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Was die Arbeiten anbetrifft, die für Osiris-Sepa ausgeführt werden im ersten Monat der Schemu-Jahreszeit, (am Tag) 16 und (im) zweiten Monat der Peret-Jahreszeit, (am) Neumondstag, (namens) "Sie (Hathor als Mondauge) wurde geholt".
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,4] - [x+5,5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂓𓏏𓏯𓏛𓏥	163010	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣ.t
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓊨𓁹𓅆𓋴𓊪𓄧𓀭	853723	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Spꜣ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇺	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓈙𓈗𓇳	154850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šm.w
+10	𓎭𓏫𓏫	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+12	𓇺	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+13	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+14	𓉐𓂋𓏏𓇳	60300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
+15	𓇷𓈖𓏏𓏯	850569	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏn.tjw
+16	𓎱𓇳𓏎𓈖𓇓𓏲	856272	PROPN	entity-name	_	_	_	_	Translit=Jni̯⸗s
+
+# sent_id = IBUBdw4kQ8U0UkL1ndJoBV6pNFo
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Was (den) Sepa (Tausendfuß) anbetrifft, das ist Osiris (und) "das Übriggebliebene" (des Osiris) sagt man zu ihm!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓋴𓊪𓄧𓀭	132640	PROPN	entity-name	_	_	_	_	Translit=Zpꜣ
+3	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓊃𓊪𓇋𓇋𓏏𓏛𓅆	132720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zpy
+6	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+7	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdytwkt6bZkPuidgk4XrIrbw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er (Osiris-Sepa) war auf den Rücken eines Esels gesetzt worden, (weil) er (der Esel) (aber) schwach wurde unter ihm, schlief er auf dem Erdboden ein.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,5] - [x+5,6]
+1	𓂋𓂝𓇋𓈖𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊪𓊃𓂧𓄧	62400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏ
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓉻𓂸𓏯𓄛	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+7	𓄡𓊃𓅪	124600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖzi̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓌨𓂋𓏲𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓋴𓇥𓂋𓁀𓂡	150740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏr
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd1NjxQFbV0Xzm8jHVhlJMW0
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Da) gaben Isis (und) Nephthys göttlichen Samen in seine (des Esels) Nase.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,6]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓊨𓏏𓏏𓁐	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓉠𓏏𓏏𓁐	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+6	𓂸𓏏𓏲𓏏𓂐	854515	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mtw.t
+7	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓂉𓏤	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyK4PhGQOEwQpVdASe8heJE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Darufhin erhob er sich mit ihm (und) lief sofort (weiter).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,6]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓂧𓃹𓈖𓏌𓏲𓂻	178160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓌨𓂋𓏛𓏲	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓁷𓂋𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBd4BOB0TybExvrEfMHlB3sUs
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Isis, Nephthys (und) Tefnut hatten sie in Letopolis gefunden, verborgen in einem Jat-Baum, ungesehen ungehört.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,7]
+1	𓊨𓏏𓏏𓁐	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+2	𓉠𓏏𓏏𓁐	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+3	𓏏𓆑𓏌𓏏𓂉𓁐	171880	PROPN	entity-name	_	_	_	_	Translit=Tfn.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌙𓅓𓏛	167210	VERB	verb	VerbForm=Fin	_	_	_	Translit=gmi̯
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓊃𓐍𓅓𓂜𓉐𓊖	116940	PROPN	entity-name	_	_	_	_	Translit=Ḫm
+9	𓇋𓏠𓈖𓏌𓏲𓀄	26030	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jmn
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓇋𓄿𓇋𓇋𓏏𓆮𓏫	20160	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jꜣ.t
+12	𓂜	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+13	𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+14	𓂜	22030	PRON	pronoun	PronType=Rel	_	_	_	Translit=jw.tj
+15	𓄔	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+
+# sent_id = IBUBdQ8YN2omJ085oS4zzVniQPE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er (Osiris-Sepa) wurde zur Grabhöhle im Wüstenplateau in Pi-Hapi gebracht.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,7] - [x+5,8]
+1	𓏎𓈖𓏏𓏲	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇋𓐝𓅓𓎛𓉐	26410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmḥ.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏲𓂝𓂋𓏏𓂾𓉐𓊖	44750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜥr.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓊪𓏤𓎛𓂝𓊪𓈘𓈗𓊖	856273	PROPN	entity-name	_	_	_	_	Translit=Pr-Ḥꜥpj
+
+# sent_id = IBUBd8PktVpbkUWuifUmSqdtB1Y
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Da) gaben Isis (und) Nephthys ihren Samen in seine (des Esels) Nasenlöcher.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+5,10]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓊨𓏏𓏏𓁐	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+3	𓉠𓏏𓏏𓁐	82260	PROPN	entity-name	_	_	_	_	Translit=Nb.t-ḥw.t
+4	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓂸𓏏𓏲𓏏𓂐𓏥	854515	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mtw.t
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓄡𓅓𓅓𓏏𓏭𓂉𓂉	123570	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ẖnm.tj
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWZfMEktgE7QhtHow5I1R7Y
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sie hielt ihre Arme schützend über ihn (und) der 'Sem' (Horus) saß in seinem Haus, (denn) er wollte deswegen nicht nach draußen herauskommen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,4]
+1	𓊶𓊪𓏛𓀜	854567	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣp
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓂝𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓁷𓂋𓏤𓏯	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈟𓅓𓋴𓀉	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+8	𓋴𓅓𓀀	856277	_	epitheton-title	_	_	_	_	Translit=sm
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+13	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓂋𓇉𓄿𓁶𓏤𓉐	500040	ADV	adverb	_	_	_	_	Translit=r-ḥꜣ
+16	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+17	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd6D54qJQG01Br9oCKHv1mKw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin nahm Nut ihn mit zu Geb.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,4]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓎁𓏏𓀜	33560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jṯi̯
+3	𓋴	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+4	𓏌𓏏𓇯𓏏𓆇𓁐	80940	PROPN	entity-name	_	_	_	_	Translit=Nw.t
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+
+# sent_id = IBUBdQ3k0xuBzEcFgeaJnWGhQCk
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin nahm Geb sein (des Horus) Augenpaar dem Seth (wieder) weg (und) gab es an Horus (zurück).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,4] - [x+6,5]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓈖𓈟𓅓𓏛𓀜	86430	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+3	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+4	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+5	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+6	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+7	𓃫	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+8	𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBUBd1sjLQUKE0WvlgQlVfpWZ2I
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Horus öffnete seine beiden Augen (und) er konnte mit ihnen (wieder) sehen!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,5]
+1	𓃹𓈖𓉿𓂡	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+3	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌳𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdwMzLeaH70h9rqLdyabovc8
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Horus erlangte (wieder) Macht in Freude (und) seine Kraft vergrößerte sich!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,5]
+1	𓎸𓅓𓏏𓏛	123420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖnm
+2	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+3	𓌂𓅓𓏛𓀜	142180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫm
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄫𓏲𓏏𓄣𓏛𓏥	42	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜣw.t-jb
+6	𓉻𓂝𓏛	34750	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥꜣi̯
+7	𓄖𓏏𓏭𓀜	61400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.tj
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdylU9a5Rb0IhmZ4BSIpeeOQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Da kam er (wieder) heraus am Morgen (und) "Herauskommen des Sem" sagt man dazu am vierten Tag von jedem Neumondstag an!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,5] - [x+6,6]
+1	𓉐𓂋𓂻𓐍𓂋	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌉𓆓𓇳𓇾𓏤𓈇	112630	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥḏ-tꜣ
+5	𓉐𓂋𓂻𓋴𓅓𓀀	60850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t-sm
+6	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+7	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+12	𓏤𓏤𓏤𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+13	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓇸𓈖𓏏𓏯𓎱𓇳	850569	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏn.tjw
+15	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBdW9Kc5pEB0cGgAv4UCzCSLU
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Andere (Version): Da (war) das Schwein, es hatte das 'Auge des Re' (den Mond) verletzt (und) es hatte Etwas von seinen (des Auges) Ausflüssen gefressen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,6] - [x+6,7]
+1	𓎡𓇋𓇋	400645	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ky
+2	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+3	𓆷𓄿𓇋𓏲𓄛𓄑𓏯	151350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣj
+4	𓈖𓎡𓈖𓂿𓅪𓈖	89330	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nkn
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓁹𓇳𓅆	856279	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jr.t-Rꜥw
+8	𓊃𓈖𓈖𓌱𓅓𓅭𓄑𓀁𓈖	137400	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snm
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓂋𓈋𓏲𓏲𓐏𓏥	97200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=rḏw
+13	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdQQO3zmB5kXrhLStxM2Z06g
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin befragte man es danach (und) es sagte: "〈Ich〉 habe es nicht verschluckt!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,7]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓐩𓏌𓏏𓏭𓀁𓈖	90910	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓋴	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+10	𓂝𓌳𓄿𓄈𓀁	37500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+11	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+12	𓋴𓏏	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+
+# sent_id = IBUBd468xrsB2EociIGJzAlh2RY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin kam es (das Auge) (aber) hervor aus seinem Fleisch als 'Behexung' (der Haut).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,7] - [x+6,8]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓍎𓏏𓏤𓎃𓏤𓐎	105460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-zꜣ
+
+# sent_id = IBUBd6B1LicbqEqhplWp3irQ340
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Wenn (auch) der Tag kommt, (daß) man es nicht (mehr) sieht, weil der entsprechende Zeitpunkt seiner Verletzung erreicht ist, (so) leuchet es (jedoch wieder) zur (rechten) Zeit seiner Heilung.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,8] - [x+6,9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+5	𓌳𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+6	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+8	𓐍𓆑𓏏	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+9	𓄖𓂻	61370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pḥ
+10	𓋴𓋴𓋴𓏲𓇳𓏤	854542	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sw
+11	𓇋𓂋𓏥	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+12	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓈎𓈖𓅪𓏏𓏲	161030	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qn.t
+14	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+15	𓌉𓆓𓇳	112301	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥḏ
+16	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓏏𓂋𓆳𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+19	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+20	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+21	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdWg7LqOOv07ciGFPt7ySgQ4
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Was Hut-aat anbetrifft, die 'Suhle des Ebers' (Geb) sagt man (auch) dazu.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓉟𓏏𓉐	856280	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-ꜥꜣ.t
+3	𓇋𓎡𓈖𓏌𓏲𓐎𓉐	32580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jkn.t
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇋𓊪𓎛𓏲𓄛	24440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jpḥ
+6	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+7	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdzxUanEblE3JihfQ1MWiA8A
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man tat ihm so etwas an wegen des Verbrechens, das er seinem Vater Schu angetan hatte!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+6,10] - [x+6,11]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓈎𓈖𓏴𓅪	160970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qnj.w
+9	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓆅𓏲𓅆	152710	PROPN	entity-name	_	_	_	_	Translit=Šw
+
+# sent_id = IBUBd9DkPMTPQU7Zs7wdVLh16dY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er zerstückelte sie im oberen Asien(?) bei der Abrechnung ihrer Anzahl!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+7,4]
+1	𓎛𓋴𓈎𓌫𓂡	110200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄝𓏏𓏭𓈉	148620	PROPN	entity-name	_	_	_	_	Translit=Sṯ.t
+6	𓁷𓂋𓏏𓈉	108300	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḥr.j
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇋𓊪𓏏𓏛	24110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jp.t
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓂋𓐍𓏏𓏛	95680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḫt
+11	𓇋𓂋𓏥	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBdWFqpzQwMUz1g0Jc00REzAE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man sagt (auch) 'Wüstenplateau der Grabhöhle' zu Pi-Hapi.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+7,4] - [x+7,5]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓏲𓂝𓂋𓏏𓂾𓈗	44750	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wꜥr.t
+4	𓇋𓅓𓎛𓏏𓉐	26410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmḥ.t
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓉐𓏤𓎛𓂝𓊪𓈘𓈗𓊖	856273	PROPN	entity-name	_	_	_	_	Translit=Pr-Ḥꜥpj
+
+# sent_id = IBUBdwy5AqGQvUOGmFiW2WA9JWM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Denn er schleuderte seinen (zweispitzigen) Speer, als er auf (dem Berg? von) Habhab war (und) sein Körper der eines Affen war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+7,6] - [x+7,7]
+1	𓏲𓂧𓏴𓀜𓈖	854503	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓌳𓄿𓄫𓏲𓏏𓌟𓌠	66850	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=mꜣw.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓍘𓏲𓏏𓏛	169720	PART	particle	_	_	_	_	Translit=tj
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓅓𓁶𓏤	65950	ADP	preposition	_	_	_	_	Translit=m-tp
+9	𓉔𓄿𓃀𓉔𓄿𓃀𓈉	856414	PROPN	entity-name	_	_	_	_	Translit=Hꜣbhꜣb
+10	𓎛𓄹𓄹𓄹	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓇋𓏲𓆑𓄛	22510	PROPN	entity-name	_	_	_	_	Translit=Jwf
+
+# sent_id = IBUBd4xIYtsOP054t4irGAQe9Zc
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er hatte sich zu einem Alten entwickelt, (denn) er war ein Ehrwürdiger (Gott) geworden, der lange gelebt hatte ("die Jahre durchzogen hatte").
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+7,7]
+1	𓌢𓌢𓏛𓈖	138150	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snsn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓄿𓎡𓄛	21000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣk
+4	𓆣𓏤𓈖	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓌳𓐍𓄪𓏛𓀗𓅆	25070	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ
+7	𓊄𓃀𓂻	131460	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=zbi̯
+8	𓆳𓆳𓆳𓏏𓏥	94920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rnp.t
+
+# sent_id = IBUBd2sv6DkFSUBlmWYInjkWWlQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Huh (und) Hauhet, sagt man zu ihnen!
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+7,9]
+1	𓎛𓎛𓏲𓅆	109300	PROPN	entity-name	_	_	_	_	Translit=Ḥḥ.w
+2	𓎛𓎛𓏏𓁐	109310	PROPN	entity-name	_	_	_	_	Translit=Ḥḥ.wt
+3	𓎡𓄿𓀁	162850	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣ
+4	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+5	𓂋𓂋𓏤	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd8kj1go3BEiXlEVTb5ibzgY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sie empfangen es zu 'Sie-hat-zufriedengestellt' (9.  Stunde der Nacht).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+7,9]
+1	𓊏𓊪𓀜	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓊵𓏏𓊪𓈖𓊃𓏏𓆇	500256	PROPN	entity-name	_	_	_	_	Translit=Sḥtp.n⸗s
+
+# sent_id = IBUBd37NjN0etUuOjtVQamNV81A
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Ro-setau: (Hier?) entstand der Grünstein aus dem göttlichen Ausfluss aus der Iris des Udjat-Auges.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+7,10]
+1	𓂋𓏤𓍬𓏏𓏏𓊖	93110	PROPN	entity-name	_	_	_	_	Translit=Rʾ-sṯꜣ.w
+2	𓐍𓉐𓏛𓇋𓈖	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓇅𓏤𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂋𓈋𓏲𓏲𓐏𓏥	97200	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rḏw
+6	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓆓𓆑𓆓𓂂	183970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏfḏ
+9	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓏲𓍑𓄿𓏏𓂀	52140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜣ.t
+
+# sent_id = IBUBdwtpzkeWZU3GqZWLtIOzns8
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Nefertem setzte es auf seinen Kopf als 'Großer Gott' (und) 'Lebender'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+7,10]
+1	𓎸𓅓𓏏𓏛	123420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖnm
+2	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓄤𓏏𓍃𓅓𓅆	83860	PROPN	entity-name	_	_	_	_	Translit=Nfr-tm
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+10	𓋹𓈖𓐍𓇋𓇋𓅆	38900	_	epitheton-title	_	_	_	_	Translit=Ꜥnḫ.y
+
+# sent_id = IBUBd9K3jClHeEvTsGqGxbKQkU8
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sie nahmen jedoch die Arbeit gemeinsam wieder auf, mit der (Vogel-)Falle zu fangen, beim Nahen der Bas seiner (des Horus?) Feinde.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+8,3] - [x+8,4]
+1	𓄙𓅓𓏛	48440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓂓𓏏𓏯𓏛𓏥	163010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣ.t
+6	𓅓𓈖𓊃𓊪𓊗	65480	ADV	adverb	_	_	_	_	Translit=m-zp
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓇋𓃀𓅓𓂋𓏏𓏭𓌦𓀜	851571	VERB	verb	VerbForm=Fin	_	_	_	Translit=jbṯ
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂝𓂋𓈐𓂻	21770	VERB	verb	VerbForm=Fin	_	_	_	Translit=jꜥr
+11	𓅡𓏤𓅆𓏫	52840	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=bꜣ
+12	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sbj
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQpg5S4eDEuUpnNvAPW600s
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Auch) der Ba des 'Herzensmüden' (Osiris) wurde (so) zu ihm gebracht.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+8,4]
+1	𓏎𓈖	26870	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅡𓏤𓅆	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓅨𓂋𓂧𓀉𓄣𓏤𓅆	48310	_	epitheton-title	_	_	_	_	Translit=wrḏ.w-jb
+
+# sent_id = IBUBd96TvNTecUj8iiIbjpl36aU
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Denn (als) sie, die wirkungsvollen Bas, herangekommen waren, (und) zusammen mit seinem Vater gerade zu ihm niedergeflogen waren, schlug er auch ihn heftig, (wobei) er seinen Vater verletzte, ohne (daß) er ihn erkannte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+8,4] - [x+8,5]
+1	𓂝𓂋𓈐𓂻	21770	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥr
+2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+5	𓅡𓏤𓅆𓏫	52840	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bꜣ
+6	𓇋𓈎𓂋𓏲𓏛𓏥	400076	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jqr
+7	𓋴𓐍𓈖𓏌𓏲𓅯𓂻	851680	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḫni̯
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓋴𓐍𓏴𓈖	141400	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zḫi̯
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+17	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+18	𓂋𓃀𓏤𓅨𓂋	_	X	unknown	_	_	_	_	_
+19	𓈎𓈖𓅪	161220	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qnj
+20	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+22	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+23	𓂋𓐍𓏛𓈖	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+25	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd89OFh3XXEM9hr631F8KD1E
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Und auch) der Ba des 'Herzensmüden' kam mit ihnen herab(geflogen).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+8,6] - [x+8,7]
+1	𓉔𓄿𓂻	97350	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓅡𓏤𓅆	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓅨𓂋𓂧𓀉𓄣𓏤𓅆	48310	_	epitheton-title	_	_	_	_	Translit=wrḏ.w-jb
+7	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+8	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd6Dz8B3GYkUzuPlMOOt8oT4
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Darufhin legte Horus seinen Fallenstrick (Zugband der Vogelfalle) auf der Erde aus, um die Bas zu fangen (und) seine (anderen) Feinde fernzuhalten.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+8,7]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓎝𓎛𓏛𓈖	43010	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓊃𓈖𓎛𓏏𓍱	500330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḥ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓌦𓐍𓏏𓀜	854548	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫt
+10	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+11	𓅡𓏤𓅆𓏫	52840	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bꜣ
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓋴𓈟𓅓𓂻	140700	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḥmi̯
+14	𓎡𓄿𓇋𓇋𓏱𓏥	163840	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=kj.wj
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5lyboOp80HTsg5Ot4CWHmc
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Als er aber herauskam (aus dem Goldhaus), brachte er (Thot) ihn zu dem 'Sarkophag im Acker'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+8,10]
+1	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+2	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇓𓏲	130840	PART	particle	_	_	_	_	Translit=swt
+5	𓂋𓂝𓇋𓈖	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓎟𓋹𓈖𓐍𓆱	82010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb-ꜥnḫ
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓄿𓎛𓏏𓈇𓏫	191	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḥ.t
+
+# sent_id = IBUBdwfIMxHt6UY8krTKzumnUPI
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er ist dort bis heute im 'Serech' (Reliqienkasten) des 'Herrn von Letopolis'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+8,10]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓂋𓏠𓈖𓏛	92020	ADP	preposition	_	_	_	_	Translit=r-mn-m
+5	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓋴𓂋𓐍𓊁	856423	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=srḫ
+9	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓎟𓊃𓐍𓅓𓂜𓊖	400932	_	epitheton-title	_	_	_	_	Translit=nb-Ḫm
+
+# sent_id = IBUBdxxd38Q7M0JeoPl4Dgw5U5c
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Bubastis: Was Bastet anbetrifft, die in Bubastis ist, das sind die Ausflüsse, die aus Horet herausgekommen sind über dem Ostgebirge von Heliopolis.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,2]
+1	𓃀𓅡𓋴𓎰𓊖	53630	PROPN	entity-name	_	_	_	_	Translit=Bꜣs.t
+2	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+3	𓃀𓅡𓋴𓎰𓁐	53640	PROPN	entity-name	_	_	_	_	Translit=Bꜣs.tjt
+4	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓃀𓅡𓋴𓊨𓊖	53630	PROPN	entity-name	_	_	_	_	Translit=Bꜣs.t
+7	𓂋𓈋𓏲𓏲𓐏𓏥	97200	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rḏw
+8	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓉐𓂋𓂻𓈖	60920	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=pri̯
+10	𓊃	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓅃𓏏𓁐	107610	PROPN	entity-name	_	_	_	_	Translit=Ḥr.wt
+13	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓈋𓏤𓊌	182830	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏw
+15	𓋁𓃀𓏏𓏏𓈉	20590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣb.tjt
+16	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+17	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+
+# sent_id = IBUBdyIYJ4rYNk7HglBKWZ4xIDA
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Und) das Blut, das aus ihr herausgekommen ist, wurde zu Türkis.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,2] - [x+9,3]
+1	𓏏𓏲𓂋𓏞𓂐𓏥	176230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯr.w
+2	𓉐𓂋𓂻𓈖	60920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=pri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓆣𓂋𓏛𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓎛𓃀𓎱𓇳𓈒𓏥	103340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+
+# sent_id = IBUBdyCvyMAEL0n8mBeBDM5Ww3c
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sie ist eine Frauenfigur mit dem Gesicht einer Löwin.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓊪𓏏𓁐	94110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rpw.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓁷𓂋𓏤𓏯	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓊪𓐍𓆼𓄿𓏏𓁐	856425	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣḫ.t
+
+# sent_id = IBUBdxpliMeFF0LZtTEymAgWlNE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sie kniet (und) ihre Beine sind unter ihr (zusammengelegt).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,3]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅨𓂋𓂧𓀉𓏲𓏏	48260	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wrḏ
+4	𓋴𓃀𓈎𓏏𓏭𓂾𓂾	132110	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=sbq
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+6	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd24vPADqjEaBvcAvmrrEl9g
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Es gibt (noch) eine andere Damenstatue (hier) mit einem Salbgefäß (und) das 'Udjat-Auge des Re' ist das, was in seinem (des Salbgefäßes) Innern ist.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓃹𓈖𓏲	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓎡𓏏	163760	ADJ	adjective	_	_	_	_	Translit=ky
+4	𓀼𓋴𓏏𓁐	856427	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šps.t
+5	𓈖𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓃀𓋴𓎰𓊖	53600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣs
+7	𓂀𓈖𓇳𓅆	856428	_	epitheton-title	_	_	_	_	Translit=wḏꜣ.t-n.t-Rꜥw
+8	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+9	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxvqQfees09ijqmJnwxGduQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Denn) Seth hatte sich in die weiße Säbelantilope verwandelt, um das Udjat-Auge in Mech (16. oberägyptischer Gau) zu rauben.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,7]
+1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓃫	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓇋𓁹𓂋𓀾	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓌳𓄿𓇋𓏲𓄛𓌉𓏯	66260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ-ḥḏ
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓐍𓈖𓊪𓀜	117850	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫnp
+9	𓂀	52140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜣ.t
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓎔𓂝𓎛𓏏𓈉𓊖	800037	PROPN	entity-name	_	_	_	_	Translit=Mꜣ-ḥḏ
+
+# sent_id = IBUBd9xQsp87z0BqkjayYifDkAU
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Als) er mit der Reliquie, die er verschluckt hatte, nach Bubastis kam, rettete Horet das Udjat-Auge ihres Vaters.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,7] - [x+9,8]
+1	𓇍𓇋𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓃀𓋴𓎰𓊖	53630	PROPN	entity-name	_	_	_	_	Translit=Bꜣs.t
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+7	𓂝𓌳𓄿𓅓𓄈𓀁𓈖	37500	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ꜥm
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓈖𓈟𓅓𓏛𓀜	86430	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḥm
+10	𓅃𓏏𓁐	107610	PROPN	entity-name	_	_	_	_	Translit=Ḥr.wt
+11	𓂀	52140	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wḏꜣ.t
+12	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+13	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd0fDO1dC1EcxsmQKfEqvw8U
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Was den 'Horus 〈im〉 Gottesfeld', das in Bubstis ist, anbetrifft, 'Horus-hekenu' sagt man zu ihm.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,8]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅃𓅆𓊹𓇏𓏏𓈇𓏤𓏫	856430	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-m-sḫ.t-nṯr
+3	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓃀𓅡𓋴𓎰𓊖	53630	PROPN	entity-name	_	_	_	_	Translit=Bꜣs.t
+6	𓅃𓅆𓎛𓎡𓈖𓏌𓏲𓅆	500638	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-ḥkn.w
+7	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+8	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8tfNU5aF0aVsuX8B1dPMcQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Das ist ein 'Gottesleib' (Emanation) des Horus (und) das ist der Sohn, der von seiner Mutter Horet ihrem Vater Osiris geboren wurde.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,8] - [x+9,9]
+1	𓊹𓎛𓂝𓄹𓏥	102030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w-nṯr
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+5	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+6	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+7	𓄟𓋴𓁑𓏲𓏏	74950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+10	𓅐𓏏𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓅃𓏏𓁐	107610	PROPN	entity-name	_	_	_	_	Translit=Ḥr.wt
+13	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+15	𓆑𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+16	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBdzQbka2L6U0UlVwxM5zaWzU
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er ist es, der seinen Vater Osiris vor seinen Feinden beschützte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,11]
+1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+2	𓐩𓏌𓏏𓏭𓀜	854522	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nḏ
+3	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+6	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+7	𓐍𓆑𓏏𓅂𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7QfbHHT2UHArxfj4jZ9GLE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Der Morgen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+9,11a]
+1	𓇼𓇳	178000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dwꜣ.w
+
+# sent_id = IBUBdzy60bdUek4vgc9h6r5MNPM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Was Hu-mehen anbetrifft: Nun hatte Osiris mit seiner Tochter Horet bei ihrem ersten Mal geschlafen (und) sie wurde schwanger.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓎛𓏲𓎔𓈖𓅆	109070	PROPN	entity-name	_	_	_	_	Translit=Ḥrn
+3	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+4	𓋴𓐍𓈖𓅯𓂻𓂺	851680	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫni̯
+5	𓊨𓁹𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓅭𓏏𓏏𓁐	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅃𓏏𓁐	107610	PROPN	entity-name	_	_	_	_	Translit=Ḥr.wt
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓊃𓊪𓊗𓁶𓊪	132610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zp-tp.j
+12	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+13	𓊢𓂝𓂻𓈖	851887	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+14	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓃛𓏲𓅨𓂋𓁑	22930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwr
+
+# sent_id = IBUBd8HNCmnAkkvxvOxPpAMeZlk
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin saß sie da (und) war traurig.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,2]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓈟𓈖𓋴𓀉	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌳𓄿𓄫𓏲𓄣𓀁	67590	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣwṯ
+
+# sent_id = IBUBdQUbmfeQKUI3mbDJtfF8m0I
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Da gelangte sie zu dem Entschluß, ihre Schwangerschaft (Fruchtblase) aufzugeben, wie es vordem von Tefnut getan worden war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,3]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄭𓂋𓏲𓂻	132830	VERB	verb	VerbForm=Fin	_	_	_	Translit=spr
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+7	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+10	𓋴𓉻𓂝𓅪	856445	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥꜣ
+11	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+13	𓁹𓂋𓏏𓏫	851809	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+14	𓌨𓂋𓄂𓏏𓏤	500034	ADV	adverb	_	_	_	_	Translit=ẖr-ḥꜣ.t
+15	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+16	𓏏𓆑𓏌𓏏𓏃𓁐	171880	PROPN	entity-name	_	_	_	_	Translit=Tfn.t
+
+# sent_id = IBUBd1k8HWgsEkuupmuqLBeuifU
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin begab sich ihre Fruchtblase (d.h. die Frühgeburt als Fruchtblase) auf den Weg zum 'See des Westens' (Gewässer im Westdelta).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,3]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓋴𓉻𓂝𓅪	856445	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥꜣ
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓇆𓅨𓂋𓈗𓈘𓈇𓋀𓏏𓏏𓈉	856438	PROPN	entity-name	_	_	_	_	Translit=Wꜣḏ-wr-jmn.tj
+
+# sent_id = IBUBd8a0WXWOFkycgWSf7sbA6Ls
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er schlief erneut mit ihr (und) sie wurde ein weiteres Mal schwanger.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,3] - [x+10,4]
+1	𓋴𓐍𓈖𓏌𓏲𓅯𓂻𓂺𓈖	851680	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫni̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓅓𓄙𓅓𓏛𓊃𓊪𓊗	64710	ADV	adverb	_	_	_	_	Translit=m-wḥm-zp
+6	𓋴𓊢𓂝𓂻𓈖	851887	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓃛𓏲𓅨𓂋𓁑	22930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwr
+10	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓎡𓇋𓇋	163760	ADJ	adjective	_	_	_	_	Translit=ky
+12	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBUBd6pzQY9sOEjLlG8ObeLhfWA
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Und) sie gebar ihren Sohn in Imet-chentit (18. unterägyptischer Gau).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,4]
+1	𓄟𓋴𓏯𓈖	74950	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓐝𓅓𓀖𓂉𓊖	800052	PROPN	entity-name	_	_	_	_	Translit=Jm.t-ḫnt.jt
+
+# sent_id = IBUBd2hqY7o3O0bfhzVrgwWMONs
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Da kam eine Löwin (und) sie nahm dieses Kind mit sich unter einen Busch, der in diesem Marschland (im 18. unterägyptischen Gau) ist.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,4] - [x+10,5]
+1	𓇍𓇋𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓌳𓄿𓇋𓏲𓏏𓄛	66420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣj.t
+5	𓐍𓈖𓊪𓇋𓂉𓀜𓈖	117850	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫnp
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓈖𓐍𓈖𓀔	87250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḫn.w
+8	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+9	𓂋𓌨𓂋𓏛	92320	ADP	preposition	_	_	_	_	Translit=r-ẖr.w
+10	𓃀𓅡𓄿𓏏𓆰𓏫	52960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bꜣ.t
+11	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓇏𓏏𓈇𓏫	141480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t
+14	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBdwh4izVk7k3FoHqM3DJe9hY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin fraß sie von ihm.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,5]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓎡𓈖𓎡𓈖𓄓𓄑𓀁𓈖	46710	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwP5oyqzekdKicitKdhUKgA
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Doch) seine Mutter suchte ihn bei Tag und Nacht in diesem Marschland.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,5]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎛𓎛𓂻	101930	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥjḥj
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅓𓆓𓏏𓏤𓆑𓄡𓏏𓏤𓆑	856351	ADV	adverb	_	_	_	_	Translit=m-ḏ.t⸗f-ẖ.t⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓇏𓏏𓈇𓏫	141480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t
+10	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBdzyvIP3DvULXtoqWLKwHDQs
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = 'Horus-hekenu' sagt man zu ihm (und) man sorgt für seinen Schutz als 'Glückseliger' (Toter).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,7]
+1	𓅃𓅆𓎛𓎡𓈖𓏌𓏲𓏛𓅆	500638	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-ḥkn.w
+2	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+3	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+7	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+8	𓅓𓂝𓎡𓏏𓏛𓏥	76880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mkw.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓎛𓎿𓋴𓀉𓅆	856479	_	epitheton-title	_	_	_	_	Translit=ḥz.y
+
+# sent_id = IBUBdzH49YacQ0jIkyzNeX2YG0U
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin schlief ihr Vater nochmals mit ihr nach drei Monaten (und) sie wurde (nun) richtig ("groß") schwanger.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,7] - [x+10,8]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓋴𓐍𓈖𓏌𓏲𓅯𓂺	851680	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫni̯
+3	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+7	𓅓𓄙𓅓𓏛𓂝𓏤	852213	ADV	adverb	_	_	_	_	Translit=m-wḥm-ꜥ
+8	𓁷𓏤𓐠𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+9	𓐍𓂸𓏏	117280	SYM	numeral	_	_	_	_	Translit=ḫmt.w
+10	𓇺𓏥𓏏	93	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣbd
+11	𓊢𓂝𓈖	851887	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+12	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓃛𓏲𓅨𓂋𓁑	22930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwr
+15	𓉻𓂝𓏛	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+
+# sent_id = IBUBdzZAEeNwf0HFoRoXSIVH88Q
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin war sie schwanger geworden von ihm, nämlich seine Mutter Horet, im vierten Monat der Schemu-Jahreszeit (und) er wurde geboren im vierten Monat der Peret-Jahreszeit (am Tag) 28.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+10,9]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓃛𓏲𓅨𓂋𓁑𓏲𓏏	22930	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=jwr
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+6	𓅐𓏏𓅆	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅃𓏏𓁐	107610	PROPN	entity-name	_	_	_	_	Translit=Ḥr.wt
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓇺	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+11	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓈙𓈗𓇳	154850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šm.w
+13	𓄟𓋴𓏯𓈖𓏏𓏲	74950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓇺	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+17	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+18	𓉐𓂋𓏏𓇳	60300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
+19	𓎆𓎆𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd8pInWEcHEZAgs5V8qf54kU
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sein Sperma ergoß sich (und) floß (dabei) in ihre Gebärmutter.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,2]
+1	𓏲𓂧𓏴𓀜𓈖	854503	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdi̯
+2	𓂸𓏏𓏲𓏏𓂐𓏥	854515	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mtw.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓍉𓂐	854554	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=stp
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆤𓂧𓏏𓄹	856565	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bt.t
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd4vkWgzAGU1loHux1FSpFtE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sie gebar (diesen) Horus (nun) in Mendes, (doch) seine Lebenszeit ("Lebtag") auf Erden waren (nur) die 14 (Tage) der entsprechenden Behandlung durch die Arbeit des Balsamierers, (und) er ist an diesem Ort bestattet.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,2] - [x+11,3]
+1	𓄟𓋴𓏯	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓊽𓊽𓏏𓊖	185930	PROPN	entity-name	_	_	_	_	Translit=Ḏd.t
+6	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=hrw
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓁶𓏤𓇾	171330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp-tꜣ
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓎆𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓋴𓏲𓂋𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+14	𓇋𓂋𓏥	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓂓𓏏𓏯𓏛𓏥	163010	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=kꜣ.t
+17	𓏲𓏏𓏭𓐎𓀀	51020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wt.j
+18	𓀫	161940	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qrs
+19	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+20	𓊨	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+21	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBdQ5xxBIpj0q0oPy01RDOk6M
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Seth verging sich (aber) gegen diese Göttin in Imet-pechuit (19. unterägyptischer Gau).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,3]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓋴𓏏𓈙	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏲𓂧𓏴𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+5	𓈎𓈖𓅪	160970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qnj.w
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊹𓏏𓆇𓁐	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+8	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓇋𓐝𓅓𓀖𓄖𓏏𓊖	800055	PROPN	entity-name	_	_	_	_	Translit=Jm.t-pḥ.wjt
+
+# sent_id = IBUBdQFyxrlSsEQmjDLpnhMXWvI
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er vergewaltigte sie (und) sie wurde schwanger von seinem Samen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,3] - [x+11,4]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂧𓄿𓇋𓂺	177620	VERB	verb	VerbForm=Fin	_	_	_	Translit=dꜣ
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎛𓏲𓏏𓆑𓏴𓀜	103270	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwtf
+8	𓋴𓊢𓂝𓂻𓈖	851887	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+9	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓃀𓅡𓂓𓁑	57820	VERB	verb	VerbForm=Fin	_	_	_	Translit=bkꜣ
+12	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓂸𓏏𓏲𓏏𓂐𓏥	854515	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mtw.t
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9QDLGj8Q0UBhC51WnraWsM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er war zu 'Thot der aus dem Scheitel hervorgekommen ist' geworden.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,4]
+1	𓆣𓂋𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓏏𓅝𓏭𓅆𓉐𓂋𓂻𓅓𓄋𓏏𓏤	856560	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj-pr-m-wp.t
+
+# sent_id = IBUBd7mpk3sdOkx7hHK6VkruQVM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Daraufhin gelangte sie zu dem Entschluß, (daß) sie diese ihre Tragezeit (der Schwangerschaft) nicht vollenden würde, (und) ihre Fruchtblase wurde ins Wasser entlassen (gegeben).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,4]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓄭𓂋𓏲𓂻𓈖	132830	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+6	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+7	𓆎𓅓𓏛𓈖	164370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=km
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓋬𓂧𓇋𓇋𓏏𓇳	179590	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dmḏ.yt
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+11	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+12	𓊃𓂝𓅪	856445	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥꜣ
+13	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+14	𓂋𓂝𓏏	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓈗𓈘𓈇	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBdyNlsJixHUGrkvAAlsbqYaY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er war (noch) nicht (voll) ausgebildet worden inmitten des Fruchtwassers 〈zu〉 seinem Schutz.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓀨𓇋𓏲𓏛𓀜𓈖𓏏𓏲	162420	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏶𓅓𓏭𓏲𓏏	25400	ADP	preposition	_	_	_	_	Translit=jm.wtj
+5	𓂋𓈋𓏲𓏲𓐏𓏥	97200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rḏw
+6	𓆟	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓅓𓂝𓎡𓏏𓏛𓏥	76880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mkw.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7tTxBqSwEPLqKrpdkNWZBs
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Denn) er war (ja noch) im Leibe ihrer Fruchtblase in ihr (seiner Mutter) gewesen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,5]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+5	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓊃𓂝𓅪	856445	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥꜣ
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd6ncYB5jOE5ZrwKQqyXsALY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er wurde (aber) durch diese Göttin freigelassen ("ihm der Weg gegeben").
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,7] - [x+11,8]
+1	𓂋𓂝𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+5	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+6	𓊹𓏏𓆇𓆗	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+7	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBdwWr3AoyxUpQqW59slxpXTs
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Da beging er (Harmotes) ein Verbrechen an ihr, (nämlich) jenes Mißgeschick, das ihrem Kopf zugestoßen war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,8]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏲𓂧𓏴𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+4	𓈎𓈖𓅪	160970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qnj.w
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zp
+8	𓈋𓏲𓅪	182860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+9	𓊪𓆑𓏭	851258	PRON	pronoun	PronType=Dem	_	_	_	Translit=pfj
+10	𓈐	42550	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓆣𓂋𓏏	858535	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫpr (m-sꜣ)
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+15	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBdzJSGTLBJkGAqEFYNm4gqRw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Da veranlasste Dedwen, (daß) er in den Himmel eintrat (und) man tat ihm das Gleiche an.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,8]
+1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
+2	𓂞𓂞𓃹𓈖𓅆	181320	PROPN	entity-name	_	_	_	_	Translit=Ddwn
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓂝𓊪𓏲𓂻	36990	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥpi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+8	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+9	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+
+# sent_id = IBUBd5xgdzG8wUjFoDKpk8pulQw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = 'Anpi' sagt man (auch) zu Mendes, (hier ist eine) heilige Stätte des 'Herzensmüden' (Osiris).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,9]
+1	𓂝𓈖𓊪𓍉𓊖	38410	PROPN	entity-name	_	_	_	_	Translit=Ꜥnp.t
+2	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊽𓊽𓊖	185930	PROPN	entity-name	_	_	_	_	Translit=Ḏd.t
+6	𓊨𓏏𓉐𓅜𓐍𓏲𓏛𓏥	856562	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t-ꜣḫ.t
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓅨𓂋𓂧𓀉𓄣𓏤𓅆	48310	_	epitheton-title	_	_	_	_	Translit=wrḏ.w-jb
+
+# sent_id = IBUBdydAVKU5bE5ItOBupUKTfSI
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = 'Das, was existiert' befindet sich auf dem Djed-Pfeiler (und) eine Vulva aus Metall ist neben ihm, während die 'beiden weiblichen Geschwister' (Isis und Nephthys) zur  Konsekration des Phallus (zugegen) sind.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+11,11] - [x+12,1]
+1	𓏲𓂧𓏴𓀜	854503	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wdi̯
+2	𓃹𓈖𓈖𓏏𓏛𓏫𓅆	46830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnn.t
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓊽𓏤	185830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏd
+5	𓂓𓏏𓄹	162990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣ.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓃀𓇋𓄿𓎺𓄑𓈒𓏥	54290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjꜣ
+8	𓂋𓐝𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇥𓂋𓈖𓏏𓏏	184810	PART	particle	_	_	_	_	Translit=ḏr-n.tjt
+11	𓌢𓌢𓏏𓏏𓁐𓁐	851924	_	epitheton-title	Number=Dual|Status=Cons	_	_	_	Translit=sn.tj
+12	𓈟𓏏𓁐𓏥	104730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓂦𓂋𓏛	856422	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏsr.w
+15	𓏠𓈖𓅷𓏤𓂺𓅆	77840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mṯꜣ
+
+# sent_id = IBUBd5q7Mx8SAERmtujHFvFdYBw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Seine Lebenszeit ist bis zur Ewigkeit (und) er verweilt bis zur Unendlichkeit.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+12,1] - [x+12,2]
+1	𓊢𓂝𓏲𓇳𓏤	40480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥḥꜥ.w
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈖𓅘𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+6	𓐍𓈖𓈖𓅯𓂻	117680	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫni̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓆓𓏏𓇾	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBdyH7zhQhZ087jdQQ8T0PV50
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Horus war mit der Roten (Krone) (und) Seth mit der Weißen (Krone) belehnt worden, (und) Thoth agierte dabei als 'Richter' in seiner Gestalt des 'ehrwürdigen Wesirs'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+12,3] - [x+12,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂋𓂝𓈖𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋔	180830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dšr.t
+6	𓃫	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓌉𓏏𓋑	112440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥḏ.t
+9	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+10	𓏏𓅝𓏭𓅆	185290	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj
+11	𓄋𓊪𓏏𓅂𓅆	45700	_	epitheton-title	_	_	_	_	Translit=wp.w
+12	𓇋𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓇑𓇑𓈖𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓇋𓁹𓂋𓏲𓀾	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+18	𓉪𓃥𓀀𓇋𓌳𓐍𓄪𓏛𓀽	856958	_	epitheton-title	_	_	_	_	Translit=tꜣ.tj-zꜣb-jmꜣḫ
+
+# sent_id = IBUBdwTG63zEukWYqL1XkzwNuyM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = 'Tebnoute' sagt man in Bezug auf den Wohnsitz der Feinde in diesem Ort (und) ihr (gegeseitiges) Vergewaltigen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+12,5] - [x+12,6]
+1	𓊹𓍿𓃀𓏲𓊖	800046	PROPN	entity-name	_	_	_	_	Translit=Ṯb-nṯr
+2	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+3	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+6	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓋴𓃀𓇋𓏲𓌙𓏱𓏫	131530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sbj
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊨	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+10	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓂧𓄿𓂧𓄿𓇋𓏲𓂺	177620	VERB	verb	VerbForm=Fin	_	_	_	Translit=dꜣ
+13	𓇋𓂋𓏥	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓎛𓏲𓏏𓆑𓏴𓀜	103270	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwtf
+
+# sent_id = IBUBd5tyCNwTHUqui79HWdV60W0
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man sagt 'Herr des Speeres' zu Onuris an diesem Ort.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+12,6]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓎟𓎆𓎆𓎆𓏤𓈔	856960	_	epitheton-title	_	_	_	_	Translit=nb-mꜥbꜣ
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏎𓈖𓈐𓅆	26850	PROPN	entity-name	_	_	_	_	Translit=Jn-ḥr.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊨	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+8	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBdyhaelfA00pqt2IVxUhOFcI
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Geb (aber), er hatte seinen Vater durch das Begatten seiner Mutter gekränkt (und) ihm wurde (dafür) der Speer zwischen die Oberschenkel (in die Genitalien) gestoßen, (während) Tefnut in (dem Ort) 'Ohnmacht des Seth' war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+12,7] - [x+12,8]
+1	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+2	𓋴𓍋𓅓𓂋𓅪𓈖	135440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓐍𓆑𓏏	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+7	𓃀𓈖𓃀𓈖𓂺	55770	VERB	verb	VerbForm=Fin	_	_	_	Translit=bnbn
+8	𓅐𓏏𓏏𓁐𓅆	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓂋𓂝𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓎆𓎆𓎆𓏤𓇋𓇋𓈔	68700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜥbꜣ
+14	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓇋𓎛𓏏𓏭𓂾𓂾	30490	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jḥ.tj
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓏏𓆑𓏌𓏏𓂉𓁐	171880	PROPN	entity-name	_	_	_	_	Translit=Tfn.t
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓃀𓅡𓄿𓎼𓄿𓐠𓏤𓏏𓏭𓃫𓊖	856962	PROPN	entity-name	_	_	_	_	Translit=Bꜣg-Stẖ
+
+# sent_id = IBUBd4FQ9u8HXUeiqm4gDVohOJQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Sein (Gebs) Gesicht ist aus zwei Kanidenkopfszeptern gebildet wie die (der) Windhunde, die in seinem Gefolge sind, seine Kartusche aber ist auf seinen Armen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+12,9] - [x+12,10]
+1	𓁷𓂋𓏤𓏯	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄊𓄊𓄹𓄹𓄹𓏥	49660	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wsr.t
+7	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+8	𓎀𓊃𓅓𓏏𓄛𓏫	177290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯzm
+9	𓏶𓅓𓏭𓏲𓏥𓆱𓐍𓏏𓂻𓏥𓅆	25760	ADJ	adjective	Number=Plur|Status=Pron|Gender=Masc	_	_	_	Translit=jm.j-ḫt
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓏠𓈖𓈙𓍷	71330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mnš
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+14	𓃹𓈖	46050	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wnn
+15	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+16	𓂝𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd26ULF41tUo9vLUFmY4hPtI
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Holzsäulen(?) sind in seinem Haus aufgestellt ('gesetzt').
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+12,10]
+1	𓅷𓄿𓅭𓆱𓏥	856963	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯꜣ
+2	𓂋𓂝𓏏	851711	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxGCcLMkIEWksXUj3Mi14n0
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Die 'Geliebte des Ptah, die in Memphis ist' ist die 'Horit-weret des Osiris'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+12,11]
+1	𓊪𓏏𓎛𓅆𓌸𓏏𓁐𓈖𓏏𓏏𓅓𓊅𓌉𓏏𓊖	856965	_	epitheton-title	_	_	_	_	Translit=mr.yt-Ptḥ-n.tjt-m-Jnb.w-ḥḏ
+2	𓅃𓏏𓁐𓏏𓅨𓂋𓈖𓈖𓊨𓁹𓅆	856966	_	epitheton-title	_	_	_	_	Translit=ḥr.wt-wr.t-n-Wsjr
+
+# sent_id = IBUBdwHyl5W5tkqAnRiG3Jyzhf0
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Ihr Sohn (Geb) wurde verletzt, (weil) er gegen seinen Vater (Schu) gehandelt hatte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+13,1]
+1	𓈎𓈖𓅪	161220	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnj
+2	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇋𓏏𓆑𓅆𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3Q043u5WEOrrRSez7mWGGk
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Der 'größte der Leiter der Handwerker' (Hoherpriester von Memphis), der ist der 'Stellvertreter des Geb' (und) der Sem-(Priester) ist an Stelle des Jun-mutef (Horus).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+13,2]
+1	𓅨𓂋𓌂𓍍𓀀	47660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr-ḫrp-ḥmw.t
+2	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊨𓏏𓏭𓉐𓉐𓅬𓃀𓅆	856971	_	epitheton-title	_	_	_	_	Translit=s.tj-Gbb
+5	𓋴𓅓𓀀	856043	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sm
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t
+8	𓉺𓅐𓏏𓆑𓅆	851542	_	epitheton-title	_	_	_	_	Translit=jwn-mw.t⸗f
+
+# sent_id = IBUBdWWT40OGZEtzquqMaaoOkZM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man fertigte das 'Abgeschnittene(?)' (Reliquie?) aus dem Glied des Geb, der Sem-(Priester) blieb (war) (aber) wohlbehalten (und) unversehrt.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+13,2] - [x+13,3]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓍅𓏏𓏤𓌫	856972	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=grg.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+8	𓋴𓅓𓀀	856043	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sm
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓎙𓂧𓏛	41890	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥḏ
+11	𓏲𓍑𓄿𓏛	52090	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏꜣ
+
+# sent_id = IBUBd3ptvQveQUsLrxBoIHYfNgE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Es wurden ihm (aber) seine Zehen durch Geb ausgerissen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+13,3] - [x+13,4]
+1	𓄡𓏏𓍘𓇋𓇋𓌪	124930	VERB	verb	Voice=Pass|VerbForm=Fin	_	_	_	Translit=ẖti̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓃅𓏲𓄹𓏥	126950	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sꜣḥ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓅬𓃀𓅆	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+
+# sent_id = IBUBd460QDEtJ0AstiNcHmwWWlQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man sagt 'Epep' (Epiphi) zum dritten Monat der Schemu-Jahreszeit aus folgendem Grund (deswegen): Diese Göttin war in ihrer (eigentlichen) Gestalt im Gefängnis alt geworden.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+13,6] - [x+13,7]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓇋𓊪𓏛𓊪𓏛𓁐𓎱𓇳	24310	PROPN	entity-name	_	_	_	_	Translit=Jpjp
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇺	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+6	𓏥	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓈙𓈗𓇳	154850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šm.w
+8	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+10	𓉻𓂝𓏛𓈖	34750	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥꜣi̯
+11	𓊹𓏏𓆇𓁐	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+12	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓇋𓁹𓂋𓏲𓀾	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+15	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+16	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+17	𓇋𓏏𓎛𓂉𓉐	33420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtḥ
+
+# sent_id = IBUBd0A3lzpTX02Eu4Xn1orXKMI
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man sagt (auch) 'Fest ihrer Majestät' zum dritten Monat der Schemu-Jahreszeit.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+13,8]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓎛𓃀𓎳𓍛𓏏𓋴𓁐	856978	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-ḥm.t⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇺	93	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣbd
+6	𓏥	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓈙𓈗𓇳	154850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šm.w
+
+# sent_id = IBUBd3ivh2WRkUYrhRcVyomDew4
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Die Frauen entblößen sich, (wobei) sie sich mit kühlem Wasser besprengen, (um) ihre Reinigung zu vollziehen, diese Göttin zu reinigen (und) alles Übel zu beseitigen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+13,8] - [x+13,9]
+1	𓇉𓄿𓏲𓏲𓋳𓏛𓀜	100710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥꜣi̯
+2	𓈟𓏏𓁐𓏥	104730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+3	𓃛𓏲𓎛𓂝𓈗𓏛𓀜	23000	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=jwḥ
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈎𓃀𓃀𓏁𓈗𓏏𓈇𓏤	160200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qbb.t
+6	𓁹𓂋	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓄐𓈗	36740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥb.w
+8	𓋴	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+9	𓃂𓈗	44430	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜥb
+10	𓊹𓏏𓆇𓁐	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+11	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+12	𓐍𓂋𓋴𓎝𓏛𓀜	121030	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫsr
+13	𓈋𓏲𓏭𓅪𓏥	182860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏw
+14	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBd5RCtEcEwUSTtz87n8g7dQo
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Darufhin formte Isden eine Mumie, am Tage des 'Festes der Ewigkeit', die aus Ackererde (und) aus reinem Ton gefertigt war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+13,9] - [x+13,10]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓃛𓏲𓋴𓏏𓈖𓏌𓏲𓄛𓅆	31880	PROPN	entity-name	_	_	_	_	Translit=Jsdn
+3	𓐍𓂤𓏲𓋴𓀧𓈖	115270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwzi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓂝𓎛𓏲𓋩𓀰	129130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥḥ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓎱𓇳𓆓𓏏𓇾𓁐	856979	PROPN	entity-name	_	_	_	_	Translit=Ḥꜣb-ḏ.t
+10	𓁹𓏏𓏲	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jri̯
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓄿𓎛𓏏𓈇𓏤𓏫	191	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḥ.t
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓋴𓇋𓆛𓈖𓐎𓏏𓈇	128340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjn
+15	𓃂𓈗	400114	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥb
+
+# sent_id = IBUBd9H8Rc0HmE35vcn7TghAcHg
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er fesselte ihre Hände ganz fest (bis) an ihre Schenkel, (doch schließlich) hatte sie ihn im Griff.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,1] - [x+14,2]
+1	𓈖𓏏𓏏𓍢	90670	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nṯṯ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂝𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓂋𓏠𓈖𓏛	92020	ADP	preposition	_	_	_	_	Translit=r-mn-m
+6	𓇋𓎛𓏏𓏭𓂾𓂾	30490	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jḥ.tj
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+8	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+9	𓊗	70011	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=zp-2
+10	𓐍𓆑𓂝𓂬	116630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫfꜥ
+11	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+12	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd5lWoF9Wjk9dvksPQCWzieM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man richtete einen Götter-Festpavillon unter einem eingefriedeten Hain ein (und) das Niederlegen der Opfer an diesem Ort (erfolgte) durch Hathor, die 'Sängerin des hohen Hauses'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,2]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓎛𓃀𓎱𓇳𓉐	103570	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥꜣb.yt
+4	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+5	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓇋𓃀𓃚𓈖𓐍𓈖𓉐𓆮𓏫	856982	PROPN	entity-name	_	_	_	_	Translit=Jb.w-nḫn
+7	𓎝𓎛𓏛	43010	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜣḥ
+8	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓊨	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+11	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+12	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+13	𓉗𓁷𓂋𓏏𓁐	99960	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w
+14	𓇘𓂝𓏏𓏯𓁐𓈖𓉐𓏤𓈎𓄿𓀠𓉐	856983	_	epitheton-title	_	_	_	_	Translit=šmꜥ.yt-n.t-Pr-qꜣ
+
+# sent_id = IBUBd9cHqmQGaknWtuUmUnHKvK4
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man feiert seine Feste unter den Westlichen zu den Festen der 'Bas von Heliopolis'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,3]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓎱𓇳𓏥	103300	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥꜣb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓆱𓐍𓏏𓂻	121230	ADP	preposition	_	_	_	_	Translit=ḫt
+6	𓋀𓏏𓏭𓅂𓅆𓏫	26220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmn.tjw
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎱𓇳𓏥	103300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥꜣb
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓅢𓏤𓅆𓏫𓉺𓏌𓊖	500167	PROPN	entity-name	_	_	_	_	Translit=Bꜣ.w-Jwn.w
+
+# sent_id = IBUBd4SxHgKXV0yxiUKyzUZz4ig
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Das Herz seines Sohnes (Horus) war betrübt, (weil) er seinen Vater nicht (mehr) sah.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,3] - [x+14,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓈐	42550	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓈋𓏲𓅪	600472	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏwi̯
+9	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+10	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓂧𓎼𓄿𓁻	181140	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dgi̯
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓇋𓏏𓆑𓅆𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd97TiWgnSkjXsG0dK7BpUzg
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Der Techu-Baum, der an diesem Orte ist, unter ihm nimmt man das Opfermahl ein.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,5]
+1	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nh.t
+2	𓏏𓐍𓏲𓆰𓏫	173170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḫ.w
+3	𓃹𓈖𓏲	46050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊨	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+6	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+7	𓊃𓈖𓈖𓌱𓅓𓅭𓄑𓀁	137400	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snm
+8	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+9	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+10	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+11	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd42VxVLly0JVpfvl5W5kM4Y
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man richtet Onnophris in seiner (eigentlichen) Gestalt auf am Tage des (Festes) 'Aufstellen der (Himmels)leiter'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓊢𓂝𓂻	129190	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥḥꜥ
+3	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓃹𓈖𓄤𓏤𓅆	850648	PROPN	entity-name	_	_	_	_	Translit=Wnn-nfr
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓁹𓂋𓏲𓀾𓏛	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓎀𓊃𓍞𓅓𓂝𓈎𓄿𓊢𓏏𓆱𓎱𓇳	856987	PROPN	entity-name	_	_	_	_	Translit=Ṯz-mꜣq.t
+
+# sent_id = IBUBd6iFCUwBykgtmezwhvIUEaM
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man stellt sein Abbild aus Ackererde her am Tage des (Festrituals) 'Anknüpfen der Schutz-Amulette auf dem Festplatz'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,5] - [x+14,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋟𓇋𓏲𓀢	82520	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nbi̯
+3	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓈎𓄿𓀾	159670	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qj
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄿𓎛𓏏𓈇𓏤𓏫	191	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḥ.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓋭𓊃𓏛𓀜𓎃𓏤𓏛𓏥𓅓𓊨𓏏𓉐𓎱	856988	PROPN	entity-name	_	_	_	_	Translit=Ṯꜣz-zꜣ.w-m-s.t-ḥꜣb
+
+# sent_id = IBUBdzgmmY0MXk0ljGXEy4CaWTw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Und) man verbirgt die Faust des 'Herzensmüden' (Osiris) am Tage des (Festrituals) 'Unzugänglich Machen des Geheimen'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓂧𓎼𓄿𓀅	150010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sdgi̯
+3	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓐍𓆑𓂝𓂬	116640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫfꜥ
+5	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓅨𓂋𓂧𓀉𓄣𓏤𓅆	48310	_	epitheton-title	_	_	_	_	Translit=wrḏ.w-jb
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓉔𓂋𓏲𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓂧𓊃𓂋𓏏𓂦𓈙𓇾𓍔𓄿𓏴𓏛𓏫	856989	PROPN	entity-name	_	_	_	_	Translit=Ḏsr-štꜣ
+
+# sent_id = IBUBd4t9Cl4Y50E3iJSBACxO6dw
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er gehört zu den Begleitmannschaften des 'zweimal Erhabenen' (Re) im Leibe seiner Mutter Nanet.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,9] - [x+14,10]
+1	𓈖𓄓𓊃𓏛𓇓𓏲	850787	ADJ	adjective	Number=Sing|Status=Pron|Gender=Fem	_	_	_	Translit=n.j
+2	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+3	𓇩𓏏𓏤𓅆𓏫	31080	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jz.t
+4	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓈎𓄿𓀠𓏛𓊗𓏭	856992	_	epitheton-title	_	_	_	_	Translit=qꜣ-zp-2
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓅓𓏏𓏏𓅆	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈖𓊖𓈖𓇯𓏏𓆇𓁐	84660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nn.t
+
+# sent_id = IBUBd6e7Qa0B5kPykItZ4YQq8QY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Ein Falke sitzt auf seinem Berg, (das ist) Horus 'Herr des Westens'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,10]
+1	𓍘𓇓𓏲𓀉	177080	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯs
+2	𓐠𓄿𓏲𓅭𓅆	127920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjꜣ.w
+3	𓁷𓏤𓁶𓏤	108280	ADP	preposition	_	_	_	_	Translit=ḥr-tp
+4	𓈋𓏤𓊌	182830	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+7	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+8	𓎟𓋀𓏏𓏏𓈉	401146	_	epitheton-title	_	_	_	_	Translit=nb-jmn.tjt
+
+# sent_id = IBUBdQbK5BVF7UFtgEzhk3HyCog
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Er hat die Feder ergriffen, sein Schwanz ist in der 'Geheimen' (Unterwelt) (und) sein Gefäß enthält die Ausflüsse.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,10]
+1	𓊏𓊪𓀜𓈖	157160	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎔𓎛𓏏𓆃	73500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḥ.t
+4	𓋴𓂧𓄢	149520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sd
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈙𓇾𓏏𓉐	158160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=štꜣy.t
+8	𓏌𓏲𓏌	80710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nw
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+11	𓂋𓈋𓏲𓏲𓐏𓏥	97200	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rḏw
+
+# sent_id = IBUBd4p0BRhhe0wqiYn5M2l6VJE
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Das zu Tuende wurde getan durch den 'Ältesten der Alten des Westens'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,11]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓁹	29600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jr.w
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓏏𓈖𓌙𓀗𓆃𓈖𓈖𓄿𓀗𓏲𓏲𓀀𓏥𓋀𓏏𓏏𓈉	857685	_	epitheton-title	_	_	_	_	Translit=tnj-n-nꜣ-wr.w-jmn.tjt
+
+# sent_id = IBUBdw9W3kJRGUr7tEGdS2oHg3c
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Das Horusauge ist dort (im Westen?) in ihrem (Isis?) Schatten.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,11]
+1	𓁹𓈐𓅆	28410	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jr.t-Ḥr.w
+2	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋼𓏏𓏤	152880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šw.t
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd4b0j4OKSUS4uAf2QNQyAbk
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man schuf 'Das in der Doppelfeder Befindliche' (das Horusauge als Sonne und Mond) als Ersatz für die Augen des Min 'der im Tempel des Sandes residiert'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,11]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓏶𓅓𓆅𓏲𓏭𓆃𓏥	857688	_	epitheton-title	_	_	_	_	Translit=jm.j-šw.tj
+4	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓌥𓃀𓏲𓏭𓏏𓏲	183350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜣ.w
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓁹𓁹𓏲𓏭	28290	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓈾𓀭	70530	PROPN	entity-name	_	_	_	_	Translit=Mnw
+10	𓁷𓂋𓄣𓏤𓉗𓏏𓉐𓈖𓏏𓈙𓂝𓇋𓇋𓈒𓏥	857686	_	epitheton-title	_	_	_	_	Translit=ḥr.j-jb-Ḥw.t-n.t-šꜥy
+
+# sent_id = IBUBdzeFdcBRpUZCnBfsCQTIhNo
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Es ist aber) Seth, dessen Gestalt (die) eines Straußen ist, (und) seine Feder, das ist das Horusauge.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+14,11] - [x+14,12]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓃫	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓇋𓁹𓂋𓏲𓀾	29610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.w
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈖𓂢𓄫𓏲𓅭	80010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njw
+7	𓆄𓏏𓏤𓆃	152830	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šw.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓁹𓈐𓅆	28410	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jr.t-Ḥr.w
+10	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdx4HgQ18DEQ0isn67GONbDs
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Dann) erhob sich sein Leib als 'Himmelspfeiler'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,1]
+1	𓂧𓃹𓈖𓂻	178160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwn
+2	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉺𓏤𓈖𓇯𓅆	857689	_	epitheton-title	_	_	_	_	Translit=jwn-n-p.t
+
+# sent_id = IBUBdx7NqxuDaE2Ypt5IT9u1iM4
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Auch) die Remrem-Erde gibt es ("ist") dort, um den Gottesleib (die Reliquie) zu beginnen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,1]
+1	𓂋𓅓𓂋𓅓𓀉𓈗	94490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rmrm.t
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆷𓄿𓂝𓏛	851685	VERB	verb	VerbForm=Fin	_	_	_	Translit=šꜣꜥ
+5	𓊹𓄹𓄹𓄹𓏥	102030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w-nṯr
+
+# sent_id = IBUBd7YewdjvJEz6kMe6ClUCix0
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man bereitete deswegen dort dem Maga ein Ende, (weil) er 'das Abgetrennte' (die Schulter des Osiris als Reliquie) des Gottesleibes des 'Herzensmüden' abgerissen hatte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,1] - [x+15,2]
+1	𓏎𓈖	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓎼𓂋𓎛𓂢𓏛	167900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+6	𓅓𓂝𓎼𓄿𓆊	77180	PROPN	entity-name	_	_	_	_	Translit=Mgꜣ
+7	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+8	𓎛𓋴𓈎𓌪𓈖	110200	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓂦𓂋𓏏𓄹	857691	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḏsr.t
+11	𓊹𓄹𓄹𓄹𓏫	102030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w-nṯr
+12	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+13	𓅨𓂋𓂧𓀉𓄣𓏤𓅆	48310	_	epitheton-title	_	_	_	_	Translit=wrḏ.w-jb
+
+# sent_id = IBUBd2YWzM0ELUQ8pyIgoiaagdk
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = '(Kanal) der beiden Götter' sagt man zu dem Ort, wo er (dies) tat.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,2]
+1	𓅃𓏲𓏭𓈗𓈘𓈇	857692	PROPN	entity-name	_	_	_	_	Translit=Nṯr.wj
+2	𓐍𓂋	600211	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫru̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓃀𓏤	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+6	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd8Qncz7G2Ev0qHaDW1NkfQA
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man verabscheute diese Stadt seinetwegen (und) man rechnete mit ihm wegen des Verbrechens ab. - etc.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,2] - [x+15,3]
+1	𓃀𓏲𓏏𓆟	55320	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bwi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nʾ.t
+4	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+5	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓎛𓋴𓃀𓐎𓏛	109870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsb
+8	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈎𓈖𓐎𓅪	160970	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qnj.w
+12	𓈟𓂋𓐎	105450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmw.t-rʾ
+
+# sent_id = IBUBdzvIs930ekJGjjVCJMFOqoY
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man machte ihr einen (anderen) Namen in dieser Stadt (selbst): 'Sohn des Osiris', (weil) er (Horus) seinem Vater (dort) beigestanden hatte (und) das gesucht hatte, was entführt worden war (die Schulter des Osiris).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,3]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂋𓈖𓏤	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nʾ.t
+7	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+8	𓅭𓏤𓅆𓊨𓁹𓅆	853760	_	epitheton-title	_	_	_	_	Translit=zꜣ-Wsjr
+9	𓐩𓏌𓏏𓏭𓀜𓈖	854522	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓇋𓏏𓆑𓅆𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓎛𓎛𓂻𓈖	101930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥjḥj
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓃹𓈖𓏲	550129	PART	particle	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wn
+16	𓊄𓃀𓅪	131460	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zbi̯
+
+# sent_id = IBUBd4E3rjf1mkonlEbzkfwi9lk
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Die 'Kehle der Neith' (Maga) hatte den Arm (des Osiris) gefressen, er sagte (aber): "Ich habe ihn nicht verschlungen!"
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,3] - [x+15,4]
+1	𓐍𓐍𓄈𓈖𓏏𓆇𓆊	857695	_	epitheton-title	_	_	_	_	Translit=ḫḫ-n-Nj.t
+2	𓊃𓈖𓈖𓌱𓅓𓅭𓄑𓀁𓈖	137400	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂝𓏤𓄹	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+5	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+8	𓂝𓌳𓄿𓅓𓄈𓀁	37500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+10	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd23vOMlDXUQil9wyiFvYZpc
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = (Das ist) das Sanktuar des Gottes aus Heliopolis, das sich sein Herz gewünscht hatte, (denn) er ließ sich (auch hier) nieder, um sichtbar zu sein ("zu seinem Sehen") in jeder Stadt.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,4] - [x+15,5]
+1	𓃛𓏲𓈖𓈖𓏏𓉐	22910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwnn
+2	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉺𓏌𓊖	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+6	𓋁𓃀𓃀𓀁𓈖	73	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ꜣbi̯
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈎𓂝𓎛𓏲𓂢𓏛	159810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qꜥḥ
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓌳𓁹𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nʾ.t
+17	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+
+# sent_id = IBUBd9CKsD20X0Wvj86WK0YdvWA
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = So kam er (auch) zum 'Vordersten des Ostens', er ist der Geflügelte (Sonnenkäfer) der leibhaftig göttlich ist, der Skarabäus, 'der aus dem Haupt des Gottes hervorgekommen ist', der 'Chontamenti des Osiris'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,5]
+1	𓄭𓂋𓏲𓂻𓈖	132830	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏅𓈖𓏏𓏏𓂉𓋁𓃀𓏏𓏏𓈉𓊖	851054	PROPN	entity-name	_	_	_	_	Translit=Ḫnt.j-jꜣb.tj
+6	𓂝𓃀𓃀𓅭	36870	_	epitheton-title	_	_	_	_	Translit=ꜥbb
+7	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+8	𓊹𓏏𓂋𓆳𓏛	90400	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nṯri̯
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓆣𓂋𓂋𓅭𓅆	500094	PROPN	entity-name	_	_	_	_	Translit=Ḫprr
+13	𓉐𓂋𓂻𓅓𓁶𓏤𓊹𓅆	857697	_	epitheton-title	_	_	_	_	Translit=pr-m-tp-nṯr
+14	𓂉𓋀𓏏𓅂𓅆𓈖𓊨𓁹𓅆	857696	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjt-n-Wsjr
+
+# sent_id = IBUBdWwhojySBUhqlBZ02NalbhQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man sagt 'Ime(t)' zu (dem Heiligtum namens) "Sie zog (hier) ihren Sprößling auf" der Hathor der Großen, 'Herrin vom Imet', 'die auf ihrer Papyrussäule ist', 'die ihren Sohn beschützt', 'die den Gott im Papyrusdickicht aufzog'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,6]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓇋𓐝𓅓𓀖𓊖	24750	PROPN	entity-name	_	_	_	_	Translit=Jm.t
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓄞𓂧𓀜𓋴𓇅𓏤𓋴𓊖	857698	PROPN	entity-name	_	_	_	_	Translit=Šdi̯⸗s-wꜣḏ⸗s
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓉗𓁷𓂋𓁐𓅨𓏏𓂋	857700	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-Ḥr.w-wr.t
+8	𓎟𓏏𓂃𓂃𓊖	401140	_	epitheton-title	_	_	_	_	Translit=nb.t-Jm.t
+9	𓇯𓇅𓏤𓋴	857699	_	epitheton-title	_	_	_	_	Translit=ḥr.jt-wꜣḏ⸗s
+10	𓐍𓂡𓏲𓋴𓏛𓅭𓏤𓅆𓋴𓏏	857701	_	epitheton-title	_	_	_	_	Translit=ḥw.t-zꜣ⸗s
+11	𓄞𓂧𓂧𓏛𓀜𓊹𓅆𓅓𓇇𓇋𓇋𓏏𓆰𓏫	857702	_	epitheton-title	_	_	_	_	Translit=šd.t-nṯr-m-mḥy.t
+
+# sent_id = IBUBdwiUniRx80TbuupR2OkF94I
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Es (das Sperma) war aber (wie) Kügelchen von Staub(?), der Fluß nahm es mit sich (und) die Flutbewohner (die Fische) nahmen es auf, (denn) sie meinten es sei der Inhalt einer Muschel.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,8] - [x+15,9]
+1	𓍘	169720	PART	particle	_	_	_	_	Translit=tj
+2	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈎𓂋𓈎𓂋𓏏𓈒𓏥	857704	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qrqr.t
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓂙𓈖𓈖𓈒𓏥	123740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnn
+7	𓀸𓄿𓏲𓏛𓀜	126290	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zꜣu̯
+8	𓇓𓏲	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+9	𓈖𓍇𓏌𓏲𓇋𓇋𓏏𓈗	81260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nw.yt
+10	𓊏𓊪𓀜	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+11	𓋴	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+12	𓎔𓎛𓇋𓇋𓆟𓏥	73880	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mḥ.yt
+13	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+14	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+15	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓏶𓅓𓈒	25120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j
+18	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+19	𓐣𓏤𓈒𓏥	850426	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜥ.yt
+
+# sent_id = IBUBd0tjPNItXkqrpoHidy8UzQQ
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = So begattete ("erkannte") er wie ein Männchen der Wasserbewohner durch das, was in den Ausflüssen (die "Fischmilch") ist.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,9]
+1	𓋴𓂋𓐍𓂺𓈖	95620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓅷𓄿𓂺	174250	ADJ	adjective	Number=Sing|Status=Cons	_	_	_	Translit=ṯꜣ.y
+6	𓏶𓏲𓏥𓈗𓆟𓏥	25480	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jm.j-mw
+7	𓐍𓆑𓏏	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+8	𓏶𓅓𓏲𓏏	25400	ADP	preposition	_	_	_	_	Translit=jm.wtj
+9	𓂋𓈋𓏲𓏲𓐏𓏥𓆟	97200	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rḏw
+
+# sent_id = IBUBdWfZglG80EUelr0dpO4OAF4
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man fertigt (hier) einen Kranz für Wadjet, 'Herrin von Imet' (und) eine Priesterin ist bei seiner Konsekration (zugegen).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,9] - [x+15,10]
+1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓎝𓎛𓏲𓏏𓁸𓏥	43020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḥ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓇅𓏏𓆗	43760	PROPN	entity-name	_	_	_	_	Translit=Wꜣḏ.t
+6	𓎟𓏏𓂃𓂃𓊖	401140	_	epitheton-title	_	_	_	_	Translit=nb.t-Jm.t
+7	𓃂𓈗𓏏𓂐𓁐	44520	_	epitheton-title	_	_	_	_	Translit=wꜥb.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓂦𓂋𓏛	856422	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏsr.w
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd1qlIClxgUvtsITUgt0CjQ4
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Imet ist der Name dieses Gaues, (und das sind) die Augenbrauen des 'Herzensmüden' (Osiris).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+15,12] - [x+16,1]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓂃𓂃𓊖	24750	PROPN	entity-name	_	_	_	_	Translit=Jm.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓈈𓏏𓏤	854544	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=spꜣ.t
+7	𓏏𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+8	𓋴𓅓𓂧𓏏𓏯𓂃𓂃𓏥	135970	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=smd
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓅨𓂋𓂧𓀉𓄣𓏤𓅆	48310	_	epitheton-title	_	_	_	_	Translit=wrḏ.w-jb
+
+# sent_id = IBUBd5KBGELZgUWolh7ftpZV0hg
+# corpus = bbawtempelbib
+# src_text_id = L7D5AZI5SRBY7KDHPSKJURRZK4
+# src_text = bbawtempelbib:pBrooklyn 47.218.84 ("Mythes et Légendes du Delta")//Mythologisches Handbuch für Unterägyptische Gaue
+# owner = Frank Feder
+# text_de = Man sagt 'heiliges Land' (Nekropole) zu Chaset-haa, dem Bestattungsort des 'Ersten Urzeitlichen', des 'zurückgetriebenen Feindes' (und) der 'Mumien von Ment'.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [x+16,1]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓇾𓂦𓏏𓈉	169370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tꜣ-ḏsr
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈉𓏏𓏤𓎛𓂝𓏏𓏏𓈉	852444	PROPN	entity-name	_	_	_	_	Translit=Ḫꜣs.t-ḥꜥꜥ
+6	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t
+7	𓎛𓏏𓋴𓋩	111940	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥts
+8	𓅯𓄿𓏲𓏏𓅂𓏖𓏒𓁶𓊪	857905	_	epitheton-title	_	_	_	_	Translit=pꜣw.tj-tp.j
+9	𓋴𓃀𓇋𓏲𓌙𓏱𓈟𓅓𓂽	857906	_	epitheton-title	_	_	_	_	Translit=sbj-ḥm
+10	𓊃𓂝𓎛𓋩𓀽𓏫𓏌𓏤𓏠𓈖𓂧𓂑𓏥𓈉	857907	_	epitheton-title	Number=Plur|Status=Abs	_	_	_	Translit=sꜥḥ.w-n-mn.tj
+

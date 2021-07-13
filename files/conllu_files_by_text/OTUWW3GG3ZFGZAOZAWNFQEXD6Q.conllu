@@ -1,0 +1,64 @@
+# sent_id = IBUBd3gDdlDJ3kPyk1HEZPZU9yo
+# corpus = bbawgrabinschriften
+# src_text_id = OTUWW3GG3ZFGZAOZAWNFQEXD6Q
+# src_text = bbawgrabinschriften:Ostwand//3. Register v.o.
+# owner = Stefan Grunert
+# text_de = Das Ausreißen des Flachses seitens der Mannschaften seines Gutes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓎛𓀜𓅱	854530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwi̯
+2	𓎛𓅓𓂝𓇧	450266	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥꜥ.w
+3	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+4	𓇩𓇩𓇩	31080	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jz.t
+5	𓆓𓏏𓇿	181420	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyS4ZZisgEEYviNHpYaLc5w
+# corpus = bbawgrabinschriften
+# src_text_id = OTUWW3GG3ZFGZAOZAWNFQEXD6Q
+# src_text = bbawgrabinschriften:Ostwand//3. Register v.o.
+# owner = Stefan Grunert
+# text_de = Das (Samen) Ausschlagen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓅷𓏏	174070	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯꜣ
+
+# sent_id = IBUBd37Y4Awcr0zEmFJKiOjpTZI
+# corpus = bbawgrabinschriften
+# src_text_id = OTUWW3GG3ZFGZAOZAWNFQEXD6Q
+# src_text = bbawgrabinschriften:Ostwand//3. Register v.o.
+# owner = Stefan Grunert
+# text_de = Das Zusammenbinden des Flachses.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓂧𓌳	179230	VERB	verb	VerbForm=Fin	_	_	_	Translit=dmꜣ
+2	𓎛𓅓𓂝𓇧	450266	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥꜥ.w
+
+# sent_id = IBUBdypimvZjrEjQqJY4dNK8w4g
+# corpus = bbawgrabinschriften
+# src_text_id = OTUWW3GG3ZFGZAOZAWNFQEXD6Q
+# src_text = bbawgrabinschriften:Ostwand//3. Register v.o.
+# owner = Stefan Grunert
+# text_de = Was ist denn das, Aufseher?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓇋𓍱𓏏	32050	PRON	pronoun	PronType=Int	_	_	_	Translit=jšst
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓂋𓆑	28170	PART	particle	_	_	_	_	Translit=jr
+4	𓁹𓐍𓏏	28700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jr.j-jḫ.t
+
+# sent_id = IBUBd2NQLvcbLU2QsWKFoeHXQc0
+# corpus = bbawgrabinschriften
+# src_text_id = OTUWW3GG3ZFGZAOZAWNFQEXD6Q
+# src_text = bbawgrabinschriften:Ostwand//3. Register v.o.
+# owner = Stefan Grunert
+# text_de = Eine Eselherde.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓋴𓎛𓄿𓏏	140370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḥꜣ.t
+

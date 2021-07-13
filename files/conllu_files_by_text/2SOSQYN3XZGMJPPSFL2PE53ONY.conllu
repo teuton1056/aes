@@ -1,0 +1,669 @@
+# sent_id = IBUBd8CO0yNWf0qTkyjS1HiBAgs
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Anfang der (wörtl.: aus der) Lehre, die verfaßt hat die Majestät des Königs von Ober- und Unterägypten 𓍹Sehetep-ib-Re𓍺 - L.H.G. -, der Sohn des Re 𓍹Amenemhat𓍺 - L.H.G. -, der Gerechtfertigte, der (wörtl.: indem er) in einem Offenlegen der Wahrheit (d.h. in einer Vision?) zu seinem Sohn, dem Allherrn, spricht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 1]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓋴𓃀𓇼𓄿𓇋𓇋𓏏𓏛	131390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sbꜣ.yt
+3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓇓𓆤	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+7	𓇳𓋴𓊵𓏏𓊪𓄣𓏤𓅆	400449	PROPN	entity-name	_	_	_	_	Translit=Sḥtp-jb-Rꜥw
+8	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+9	𓅭𓇳𓏤𓅆	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
+10	𓇋𓏠𓈖𓅓𓄂𓏏𓏤𓅆	400161	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+11	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+12	𓌷𓂝𓊤𓏲𓀁	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+13	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+16	𓄋𓊪𓏲𓏏𓏴𓀁	45640	VERB	verb	VerbForm=Fin	_	_	_	Translit=wpi̯
+17	𓌷𓂝𓏏𓆄𓏛𓏥	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+18	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+19	𓅭𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+21	𓎟𓂋𓇥𓂋𓅆	82220	_	epitheton-title	_	_	_	_	Translit=nb-r-ḏr
+
+# sent_id = IBUBd4CdgGQQDUjunKBqygfjfVg
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Erschienen als Gott, sagt er:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 2]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈍𓂝𓏛	114740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜥi̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBd0RUFaY4JU5QkwC4iOJo8xw
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Sei nicht für dich allein!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 3]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓌡𓂝𓏤𓏲𓅪	44350	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜥi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdW8WuOspPULwhWa8YifgsaY
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Erschaffe dir keine Vertrauensleute!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 3] - [1, 4]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓋴𓆣𓂋𓏲	142050	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫpr
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅧𓈎𓂻𓀀𓁐𓏥	41190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥq.w
+
+# sent_id = IBUBdxzCZSYFWU8LjcWodBscWpI
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = (Denn) ein Gefährte wird keinen Erfolg bringen (wörtl.: nicht vollenden können).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 4]
+1	𓂻𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆎𓅓𓏛𓈖	164370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=km
+3	𓇋𓂋𓏭𓀸𓏛𓀀	28510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jr.j
+
+# sent_id = IBUBd1f8XFJJSEE6hkjW7q1FOt0
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Ich habe dem Armen gegeben als einer, der den Waisen aufgezogen (oder: zum Erfolg gebracht) hat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 5]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈙𓍯𓄿𓏲𓏲𓀢𓅪𓈖𓀀	153020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šwꜣ.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋴𓆣𓂋𓏲	142050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḫpr
+8	𓈖𓌰𓅓𓎛𓏲𓀔𓅪𓈖𓀀	84370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nmḥ.w
+
+# sent_id = IBUBdzDHEnL2TkzLhW28IYRqHw8
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Der, dem ich seine Arme gegeben habe, erschuf deshalb (oder: damit) Hinterlist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 5] - [1, 6]
+1	𓂋𓂝𓈖	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂝𓂝𓏤𓏲𓏭	34360	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ꜥ
+6	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋴𓆣𓂋𓏲	142050	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫpr
+9	𓁷𓂋𓐡𓀜𓀀𓏥	109010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w
+10	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBdy51lqEyA0NBlF3l1nQOFoo
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Die in mein feines Leinen gekleidet waren, blickten auf mich wie (auf) $šw$-Gras (?; oder: einen Grasgekleideten?; oder einen Mittellosen).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 6]
+1	𓃹𓈖𓐍𓏲𓍼𓍱𓏥𓉐𓀀	46920	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wnḫ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊪𓈎𓏏𓆀𓍱𓏥𓉐	59330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pꜣq.t
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓌴𓁹𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+10	𓆅𓏲𓇋𓇋𓆰𓏥𓀀	152940	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šw.w
+
+# sent_id = IBUBd9qFQ2GvH0rkgOkDF1uQrwk
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = (Denn) die Größe des Kampfes, man kann sie sich nicht vorstellen (wörtl.: sie kann nicht gesehen werden).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 8]
+1	𓃀𓏲𓉻𓂝𓄿𓏛	650059	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bw-ꜥꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂚𓄿𓀜	39930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜣ
+4	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+5	𓌴𓁹𓄿𓄿𓈖𓏏𓏲	66270	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7urcTZ3OUTdvNtWLk7CFaw
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Außerdem kämpft man auf dem Kampfplatz, (indem/wenn) das Gestern (d.h. die gute Sitte, der Maat-gerechte Zustand oder das, was einem seitens des Königs widerfahren ist) vergessen worden ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 8]
+1	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+2	𓂚𓄿𓀜	39920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜣ
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓂸𓏏𓃹𓈖𓃒𓈇𓏤	77920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mṯwn
+6	𓋴𓅓𓐍𓂜	135600	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smḫ
+7	𓋴𓆑𓇳	133440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sf
+
+# sent_id = IBUBd51ll7JnqUqfg09qZpBIajI
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = (Und) das Gute/Glück ist nicht vollendet (oder: führt zu nichts) für den, der sein Wissen (d.h. seine Erfahrungen von gestern) nicht (aner)kennt (oder: der den nicht (mehr aner)kennt, den er kennen sollte (d.h. seinen Gönner)).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 8] - [1, 9]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆎𓐝𓏛𓈖	164370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=km
+3	𓃀𓏲𓄤𓆑𓂋	55220	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bw-nfr
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓐍𓅓𓂜𓀀	116910	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫm
+6	𓂋𓐍𓏛	95620	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḫ
+7	𓆑𓀀	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxWXvnHNtEFnuE4jPOrn5bo
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Es war (die Zeit) nach dem Abendessen, (als) die Nacht eingesetzt hatte, (und nachdem) ich eine Stunde der Herzensfreude verbracht (wörtl.: empfangen) hatte.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1, 9]
+1	𓂋𓐠𓏤	851453	ADP	preposition	_	_	_	_	Translit=r-sꜣ
+2	𓄟𓋴𓇋𓇋𓇰𓈀𓏥	75090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ms.wt
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓆼𓄿𓏲𓏭𓇰𓇳𓏤	113750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣwj
+5	𓆣𓏲	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓊏𓊪𓀜𓈖	157160	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnw.t
+10	𓈖𓏏𓏭	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓄤𓆑𓂋𓄣𓏤	650060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nfr-jb
+
+# sent_id = IBUBd50ypmxpXUsNs8QMEIKhOog
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Was betrifft, daß ich den empfangen habe, der mit den Waffen in seiner Hand herbeieilte: ich ließ den Feigling, den man ...?..., (tatsächlich zuerst) zurückweichen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 1] - [2, 2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓊏𓊪𓀜𓈖	157160	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓄿𓋴𓍬𓂻𓐎𓏥𓀀	266	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜣs
+5	𓈍𓂝𓏲𓆱𓏥	114680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜥ.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+11	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+12	𓈖𓆱𓐍𓏏𓂽	854832	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫti̯
+13	𓈖𓈞𓅓𓏲𓂺	104630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+14	𓅓𓂝𓃀𓅯𓄿𓃀𓅯𓄿𓐎𓂡	82490	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=nbꜣbꜣ
+15	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+
+# sent_id = IBUBd23RQUKsbkr3k74Qen9LQQ8
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Aber nachts gibt es keine Tapferen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 2]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇓𓏲𓏏	130840	PART	particle	_	_	_	_	Translit=swt
+3	𓈎𓈖𓈖𓏛𓀜𓀀𓏥	160940	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎼𓂋𓎛𓏏𓇰𓇳𓏤	167920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+
+# sent_id = IBUBd35j371xqEiEmTuLqdDbZao
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = (Und) man wird nicht kämpfen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 2]
+1	𓂻𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂚𓄿𓀜	39920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜣ
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+
+# sent_id = IBUBdwTQDQ8NA0FYs1SZGm4Yg4k
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Erfolg wird sich nicht einstellen ohne dich, den Beschützer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 2] - [2, 3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓊃𓊪𓊗𓅓𓂝𓏏𓂧𓇟𓏛	_	X	unknown	_	_	_	_	_
+4	𓅓𓐍𓂸𓏏𓏫𓂜	600316	ADP	preposition	_	_	_	_	Translit=m-ḫm.t
+5	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓅓𓂝𓎢𓏭𓏛	77030	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mkw
+
+# sent_id = IBUBd9XZHHRQRUidiycvk8BqSlw
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Siehe, das Attentat (?) auf mich ist geschehen, als ich ohne dich war.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 3]
+1	𓅓	64440	PART	particle	_	_	_	_	Translit=m
+2	𓂝𓎢𓏭𓏛	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏𓍔𓄿𓏲𓍬𓂻𓐎𓏥	148870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sṯꜣ.w
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓆣𓂋𓏲	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓅓𓐍𓂸𓏏𓏫𓂜	600316	ADP	preposition	_	_	_	_	Translit=m-ḫm.t
+9	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0XpNQM17kwtldgWsXosfDc
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Werden Unruhestifter (normalerweise) im Innern des Hauses (d.h. in den Privatgemächern) aufgezogen?
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 5]
+1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓄞𓂧𓏛𓀜𓀀𓏏𓏲	854561	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
+4	𓂙𓈖𓈖𓏌𓏲𓃫𓏛𓀜𓀀𓏥	123730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖnn.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+
+# sent_id = IBUBd2LCkqTVuU8YsKvl4SEmDN4
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = (Und) eine ähnliche Heldentat ist nicht geschehen (wörtl.: Nicht ist geschehen ähnliches wie der Fall, als das, was die, die den Tapferen spielen, machen).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 6]
+1	𓂜𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓆣𓂋𓏲	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mj.tjt
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+8	𓁹	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+9	𓈎𓈖𓈖𓏛𓀜𓀀𓏥	160940	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qn
+
+# sent_id = IBUBd0i3HclYxknvs5qMrKQks2U
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Ich bin einer, der das Getreide erschaffen hat und der von Nepri (d.h. dem Getreidegott) geliebt wird, (nachdem) die Überschwemmung mir auf jedem (Bewässerungs)bassin (?) Respekt erwiesen hat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 8] - [2, 9]
+1	𓇋𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓌻𓂋𓇋𓇋𓀁	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+5	𓈖𓊪𓏏𓂋𓇋𓆵𓏬𓅆	83150	PROPN	entity-name	_	_	_	_	Translit=Npr
+6	𓏏𓂋𓇋𓆵𓀓𓏛𓈖	854576	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=twr
+7	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+8	𓅯	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓎛𓂝𓊪𓏭𓊅𓈗𓈘𓏭	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓊪𓎼𓄿𓂘𓈇𓏤	854511	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pgꜣ
+12	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd8GMkShXT06BmecvmHHs28w
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Man hat bei mir nicht gehungert;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 9]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓎛𓈎𓂋𓅪	110540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥqr
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd809BQjqK0qPl0aBWWA2hzk
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = (und) man hat bei mir nicht gedürstet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2, 9]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓇋𓃀𓃙𓀁	23640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jbi̯
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdWQgwGTkhEyzi5cnLzGgLq0
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Ich ließ die Asiaten als Hunde gehen (d.h. unterwürfig kriechen oder gehorsam folgen).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓄝𓏏𓏏𓅂𓌙𓀀𓁐𓏥	149130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯ.tjw
+7	𓈝𓅓𓏏𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓍿𓊃𓅓𓏲𓄛𓏫	177290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ṯzm
+
+# sent_id = IBUBdxQwYHo2OknIqxtW4wpQcyU
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = seine Decken sind aus Lapislazuli;
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 1]
+1	𓉔𓄿𓏲𓏏𓅂𓇯𓏥	97420	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=hꜣy.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓐍𓊃𓃀𓂧𓏏𓈒𓏫	120700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫsbḏ
+
+# sent_id = IBUBd27emvpSN0CZjRXuhPWNWKA
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = angefertigt für die Ewigkeit, vor der die Unendlichkeit sich fürchtet (oder: vorbereitet 〈für〉 die Unendlichkeit dadurch).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 2]
+1	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆓𓏏𓇿	181400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏ.t
+4	𓁷𓂋𓐡𓀜𓀀𓏥	108360	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḥri̯
+5	𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+6	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBUBd6sQPn4m70fEloq5n32bExk
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Nun gibt es aber viel anklägerisches Gerede (?) auf den Straßen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 2] - [3, 3]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄟𓋴	74800	PART	particle	_	_	_	_	Translit=ms
+3	𓄟𓋴𓇋𓇋𓅱𓏏𓀁	650070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msyw.t
+4	𓆈𓏏𓏥	41011	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓌸𓂋𓏲𓏏𓉕𓏏𓉐𓏥	72740	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mrr.t
+
+# sent_id = IBUBdysEI5Y9oU9lgcegeP3Uvq8
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Dir gehört dein eigenes Herz.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 4]
+1	𓅓𓈖𓏏𓎢	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQAWCfJFKUetvUWGsVIlK4o
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Deine Augen betrachten mich.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 4]
+1	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+2	𓎢𓏭	851169	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗kj
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓅠𓅓𓎛𓏲𓁻	167270	VERB	verb	VerbForm=Fin	_	_	_	Translit=gmḥ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd5U7xPUfykaQj25T30WyeHc
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Die Kinder sind in einer Stunde der Herzensfreude an der Seite des Sonnenvolkes, wenn sie dir Lobpreis bringen (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 4] - [3, 5]
+1	𓄟𓋴𓇋𓇋𓁒𓀀𓁐𓏥	74750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ms
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓃹𓈖𓏌𓏏𓇼𓇳𓏤	46420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnw.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓄤𓆑𓂋𓄣𓏤	650060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nfr-jb
+6	𓂋𓐛𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+7	𓇶𓏥𓅓𓅓𓀀𓁐𓏥	106750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnmm.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓈖𓂝𓊃	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+10	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓇋𓄿𓅱𓏏𓀢𓏛	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+14	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdw7tzbdk40pOplv35HCaYxk
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Ich bin der, der {die Seienden, die in deinem Herzen sind} das, was in deinem Herzen ist, an Land bringt (d.h. zum Erfolg bringt).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 5]
+1	𓇋𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓏠𓈖𓇋𓏲𓌙𓊛𓀜	854513	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mjni̯
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQNjRVh44UQLqPkZzXgczQM
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Die Statuen tragen die weiße Krone, o Gottessamen. (?)
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 5] - [3, 6]
+1	𓏏𓏲𓅂𓏌𓏲𓀾𓏛𓏥	170470	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=twt
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎝𓎛𓏛	43010	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜣḥ
+4	𓌉𓏏𓋖𓆗𓏥	112440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥḏ.t
+5	𓉐𓂋𓏏𓏯𓈒𓏥𓊹𓅆	650072	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t-nṯr
+
+# sent_id = IBUBd3O0gIBfqkgduklwJKMWRDM
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Da ist dein Königtum erschaffen worden vor mir. (??)
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 6]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓇓𓏏𓈖𓇋𓇋𓏛	88090	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nsw.yt
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋴𓆣𓂋𓏲	142050	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=sḫpr
+5	𓌨𓂋𓏭𓏛𓄂𓏏𓏤	500047	ADP	preposition	_	_	_	_	Translit=ẖr-ḥꜣ.t
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdWWDAM500UXepWL0jzbshQM
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = (Es) ist nicht etwas, was die, die tapfer handeln, für mich machen. (??)
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 6] - [3, 7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓁹𓂋𓏏	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓁹	851809	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓈎𓈖𓈖𓏛𓀜𓀀𓏥	160940	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=qn
+
+# sent_id = IBUBd2Myx0I64kyYqQv8lvWwq78
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Errichte Statuen!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 7]
+1	𓋴𓊢𓂝𓂻	129190	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sꜥḥꜥ
+2	𓏠𓈖𓏌𓏲𓀻𓅆𓏫	_	X	unknown	Number=Plur|Status=Abs	_	_	_	_
+
+# sent_id = IBUBd47pMWLjxEU0uhpDSM9uvno
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Mache deine Grabkammer (?) hervorragend!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 7]
+1	𓋴𓏠𓈖𓐍𓏏𓍊𓏛	135360	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=smnḫ
+2	𓂋𓂧𓌗𓏛	93800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rwḏ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQf1ZPnCH091n1HND2swtZc
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Du mögest kämpfen für (oder: acht geben auf) den, der dich kennt, und den, den du kennst (??; oder: und weil du mich kennst??), denn er kann sich/ihn nicht wünschen/lieben an der Seite seiner Majestät L.H.G. (??)
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 7]
+1	𓂚𓂝𓂻	39920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜣ
+2	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂋𓐍𓏛	95620	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḫ
+5	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓂋𓐍𓏛	95620	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḫ
+8	𓎢𓅱𓏛	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓁷𓏤𓈖𓏏𓏭	108040	PART	particle	_	_	_	_	Translit=ḥr-n.tjt
+10	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+11	𓌸𓀁𓈖	72470	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+14	𓂋𓐛𓏤	851526	ADP	preposition	_	_	_	_	Translit=r-gs
+15	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓋹𓍑𓋴	400004	ADJ	adjective	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+
+# sent_id = IBUBd6Qy1uhXL0Nzo29ETGhE9e8
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = Dies(er Satz) bedeutet, daß es gut und zufriedenstellend (zu Ende) kommt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 7] - [3, 8]
+1	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓄤𓆑𓂋	400458	ADV	adverb	_	_	_	_	Translit=nfr
+5	𓅓𓊵𓏏𓊪𓏲𓏛	_	X	unknown	_	_	_	_	_
+6	𓀀	_	_	_	_	_	_	_	_
+
+# sent_id = IBUBd74OqSFm5Uxgnm0udVQ6Nv4
+# corpus = sawlit
+# src_text_id = 2SOSQYN3XZGMJPPSFL2PE53ONY
+# src_text = sawlit:pSallier II ⸗ pBM EA 10182//〈Kol. 1-3: 〉Die Lehre des Amenemhet
+# owner = Peter Dils
+# text_de = (Widmung:) für den Ka des fähigen Gelobten, dessen mit vollkommenem Verhalten, des Schreibers des Schatzhauses Qa-gabt, (sowie für den Ka) des Schreibers des Schatzhauses Hori.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3, 8]
+1	𓇋𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+3	𓎛𓎿𓋴𓏛𓀁𓏫	109750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥz.y
+4	𓇋𓈎𓂋𓏛	400076	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jqr
+5	𓄤𓆑𓂋	854519	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nfr
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓃀𓇋𓄿𓏏𓎺𓄑𓀁	54410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.t
+8	𓏞𓉐𓌉𓉐	850600	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-pr-ḥḏ
+9	𓈎𓄿𓀠𓏛𓎼𓄿𓃀𓏲𓂢𓏏𓏤𓀜	_	X	unknown	_	_	_	_	_
+10	𓏞𓉐𓌉𓉐	850600	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-pr-ḥḏ
+11	𓅃𓇋𓀀	_	X	unknown	_	_	_	_	_
+

@@ -1,0 +1,39 @@
+# sent_id = IBcAZou56W9pG0FPiaPD3i2uWck
+# corpus = tuebingerstelen
+# src_text_id = 6SWE3BJIKJG3VBPGERNWJGFLKE
+# src_text = tuebingerstelen:Stele des Chaemipet (Äg. Slg. Tübingen Inv. Nr. 471)//Stele des Chaemipet (Äg. Slg. Tübingen Inv. Nr. 471)
+# owner = Susanne Beck
+# text_de = König von Ober- und Unterägypten Wesermaatre-Setepenre
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 1
+1	𓇓𓏏𓆤𓏏	857990	_	epitheton-title	_	_	_	_	Translit=nswt-bj.tj
+2	𓇳𓄊𓁦𓇳𓍉𓈖	600505	PROPN	entity-name	_	_	_	_	Translit=Wsr-mꜣꜥ.t-Rꜥw-stp-n-Rꜥw
+
+# sent_id = IBcAZpnLq8ZtpEe5h7N57tDOcCc
+# corpus = tuebingerstelen
+# src_text_id = 6SWE3BJIKJG3VBPGERNWJGFLKE
+# src_text = tuebingerstelen:Stele des Chaemipet (Äg. Slg. Tübingen Inv. Nr. 471)//Stele des Chaemipet (Äg. Slg. Tübingen Inv. Nr. 471)
+# owner = Susanne Beck
+# text_de = Isis, die Große
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 6
+1	𓊨𓏏𓆇	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+2	𓅨𓏏𓂋	47420	_	epitheton-title	_	_	_	_	Translit=wr.t
+
+# sent_id = IBcAZs8uEZuIA05ymtMWlsThcvU
+# corpus = tuebingerstelen
+# src_text_id = 6SWE3BJIKJG3VBPGERNWJGFLKE
+# src_text = tuebingerstelen:Stele des Chaemipet (Äg. Slg. Tübingen Inv. Nr. 471)//Stele des Chaemipet (Äg. Slg. Tübingen Inv. Nr. 471)
+# owner = Susanne Beck
+# text_de = Seine Mutter, Nebtaicharu aus Theben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = 15 - 16
+1	𓏏𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎟𓏏𓄿𓏭𓆼𓄿𓏤𓃭𓌙𓁐	867614	PROPN	entity-name	_	_	_	_	Translit=Nb-tꜣ-ḫr.t
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓋆	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+

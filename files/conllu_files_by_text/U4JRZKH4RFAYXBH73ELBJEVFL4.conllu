@@ -1,0 +1,36 @@
+# sent_id = IBUBd5qJxicQZ02WiTCW90SKkto
+# corpus = bbawgrabinschriften
+# src_text_id = U4JRZKH4RFAYXBH73ELBJEVFL4
+# src_text = bbawgrabinschriften:Westwand//Listeneinträge
+# owner = Stefan Grunert
+# text_de = 2000 Untermatten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [9.1] -  [9.2]
+1	𓌨𓂋𓊪	850637	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ẖr.j-pj
+2	𓆼𓆼	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdwaw5EPtN0ellOjpajpgQHI
+# corpus = bbawgrabinschriften
+# src_text_id = U4JRZKH4RFAYXBH73ELBJEVFL4
+# src_text = bbawgrabinschriften:Westwand//Listeneinträge
+# owner = Stefan Grunert
+# text_de = 2000000 Schöpfkellen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [10.1] -  [10.2]
+1	𓅓𓍑𓃀𓏏	78590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏꜣb.t
+2	𓁨𓁨	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdzEWYT7SW0p5rtDHkDZQtfM
+# corpus = bbawgrabinschriften
+# src_text_id = U4JRZKH4RFAYXBH73ELBJEVFL4
+# src_text = bbawgrabinschriften:Westwand//Listeneinträge
+# owner = Stefan Grunert
+# text_de = 1000400 Seile.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [11.1] -  [11.2]
+1	𓅱𓎼𓋴𓍢	50920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wgs
+2	𓁨𓍢𓍢𓍢𓍢	850814	SYM	numeral	_	_	_	_	Translit=1...n
+

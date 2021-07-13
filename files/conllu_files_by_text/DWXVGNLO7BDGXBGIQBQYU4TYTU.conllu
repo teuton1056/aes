@@ -1,0 +1,15 @@
+# sent_id = IBUBd8YrmIbkVU00hkwu6jyVtKo
+# corpus = sawlit
+# src_text_id = DWXVGNLO7BDGXBGIQBQYU4TYTU
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 2: Gebet an thebanische Gottheiten
+# owner = Lutz Popko
+# text_de = Ich vertraue deinem Ruhm.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓏏𓏲𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
+2	𓉔𓄿𓈖𓂢𓀜𓎢	98810	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=hnn
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+

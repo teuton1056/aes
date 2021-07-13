@@ -1,0 +1,64 @@
+# sent_id = IBUBdwiMWnJ3NEPQuaHsy8u5WUY
+# corpus = bbawgrabinschriften
+# src_text_id = LH5O43CVT5GYBGVA2DUHW7YVNI
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Aktenschreiber des Königs Seschem-nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.Reg.v.u.⁝1]
+1	𓅓𓂋𓇓𓏏𓏞𓂝𓏝	550047	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜥ-n-nswt
+2	𓋴𓌮𓄤	707086	PROPN	entity-name	_	_	_	_	Translit=Sšm-nfr
+
+# sent_id = IBUBd8BbkbmkVk9GhB9fTcDgCc4
+# corpus = bbawgrabinschriften
+# src_text_id = LH5O43CVT5GYBGVA2DUHW7YVNI
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Palastschreiber Seschem-nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.Reg.v.u.⁝2]
+1	𓏞𓉐𓉻	450350	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-pr-ꜥꜣ
+2	𓋴𓌮𓄤	707086	PROPN	entity-name	_	_	_	_	Translit=Sšm-nfr
+
+# sent_id = IBUBd7Hqp02Tt0f8u9g3xX19TSE
+# corpus = bbawgrabinschriften
+# src_text_id = LH5O43CVT5GYBGVA2DUHW7YVNI
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Sein Bruder, der Aktenschreiber des Königs Ra-wer und Senior-Aufseher der Schreiber Ra-wer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.Reg.v.u.⁝1] -  [2.Reg.v.u.⁝3]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓏞𓂝𓏝	550047	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-ꜥ-n-nswt
+4	𓂋𓂝𓅨	450178	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-wr
+5	𓃥𓋴𓌉𓏞	450125	_	epitheton-title	_	_	_	_	Translit=zꜣb-sḥḏ-zẖꜣ.ww
+6	𓂋𓂝𓅨	450178	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-wr
+
+# sent_id = IBUBdzyNEcwKw0mbhqbI1ASZ8ME
+# corpus = bbawgrabinschriften
+# src_text_id = LH5O43CVT5GYBGVA2DUHW7YVNI
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Totenpriester Neby.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3.Reg.v.u.⁝1]
+1	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓎟𓇋𓇋	400446	PROPN	entity-name	_	_	_	_	Translit=Nby
+
+# sent_id = IBUBd0wGiF4DEUQZrSmHJQYXgaU
+# corpus = bbawgrabinschriften
+# src_text_id = LH5O43CVT5GYBGVA2DUHW7YVNI
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Totenpriester Hetep-kai.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3.Reg.v.u.⁝2]
+1	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓊵𓏏𓎡	705286	PROPN	entity-name	_	_	_	_	Translit=Ḥtp-kꜣ⸗j
+

@@ -1,0 +1,114 @@
+# sent_id = IBUBdzYHUKDMU0QIhWlXxb7G0xw
+# corpus = bbawgraeberspzt
+# src_text_id = Z3ZQCCZRGRGAZHCO4DUB5GNJ7A
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21e: 5. Nachtstunde, Tb 68 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [33]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd737eF2SMklEldsDicWmSww
+# corpus = bbawgraeberspzt
+# src_text_id = Z3ZQCCZRGRGAZHCO4DUB5GNJ7A
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21e: 5. Nachtstunde, Tb 68 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Der Horusdiener Patjenfi, der Gerechtfertigte, verfügt über sein $jb$-Herz.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [33]
+1	𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓍛𓅃	858869	_	epitheton-title	_	_	_	_	Translit=ḥm-Ḥr.w
+3	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyXRscsBO0cnrKFm4g3LgYM
+# corpus = bbawgraeberspzt
+# src_text_id = Z3ZQCCZRGRGAZHCO4DUB5GNJ7A
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21e: 5. Nachtstunde, Tb 68 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Er verfügt über sein $ḥꜣ.tj$-Herz
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [34]
+1	𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄂𓏏𓄣	100400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.tj
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0Rz6JW22UYssNNyfkkH1hc
+# corpus = bbawgraeberspzt
+# src_text_id = Z3ZQCCZRGRGAZHCO4DUB5GNJ7A
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21e: 5. Nachtstunde, Tb 68 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Er verfügt über seine Beine.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [35]
+1	𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWwjad91y0J0h24LNzqn7Ro
+# corpus = bbawgraeberspzt
+# src_text_id = Z3ZQCCZRGRGAZHCO4DUB5GNJ7A
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21e: 5. Nachtstunde, Tb 68 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Er verfügt über das Totenopfer.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [36] - [37]
+1	𓌂𓐝	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓉓𓏒	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+
+# sent_id = IBUBdwkGe617OkUGvR8e9H4rswE
+# corpus = bbawgraeberspzt
+# src_text_id = Z3ZQCCZRGRGAZHCO4DUB5GNJ7A
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21e: 5. Nachtstunde, Tb 68 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Er verfügt über Atemluft.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [37]
+1	𓌂𓐝	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊡	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+
+# sent_id = IBUBdyFVIWWsCEhHuVg4csiyCuI
+# corpus = bbawgraeberspzt
+# src_text_id = Z3ZQCCZRGRGAZHCO4DUB5GNJ7A
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21e: 5. Nachtstunde, Tb 68 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Er verfügt über Wasser.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [37]
+1	𓌂𓐝	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd5AU8jmbsEl5tyBwaQuKD8c
+# corpus = bbawgraeberspzt
+# src_text_id = Z3ZQCCZRGRGAZHCO4DUB5GNJ7A
+# src_text = bbawgraeberspzt:Stundenritual: Nachtstunden//T 21e: 5. Nachtstunde, Tb 68 (Fortsetzung)
+# owner = Doris Topmann
+# text_de = Er verfügt über den Fluss.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [38]
+1	𓌂𓅓	851679	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇋𓏏𓂋𓃭𓈘	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
+

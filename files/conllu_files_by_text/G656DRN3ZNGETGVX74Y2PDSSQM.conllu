@@ -1,0 +1,25 @@
+# sent_id = IBUBd7wGJQsoukTfhCEGfWq6PkE
+# corpus = bbawgrabinschriften
+# src_text_id = G656DRN3ZNGETGVX74Y2PDSSQM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Das Bringen eines Jungtieres des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.Reg.v.u.]
+1	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+2	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+3	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+
+# sent_id = IBUBd5LpMPzhfU0zpqhh3VJMWHo
+# corpus = bbawgrabinschriften
+# src_text_id = G656DRN3ZNGETGVX74Y2PDSSQM
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Jungtier der weißen (Gazelle) ...?...
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.Reg.v.u.]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓌉	66260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ-ḥḏ
+

@@ -1,0 +1,149 @@
+# sent_id = B2H46S2UXFABXALSGRATEGDQWU
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = Es werde von der Frau geschluckt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C2]
+1	𓂝𓅓𓀁	37500	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+
+# sent_id = 2EASS3LO7VBXRBVUMZ6SA2ULSQ
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = Ende.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C2]
+1	𓂢	167900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grḥ
+
+# sent_id = YNBCUTSFYZHGNA76HGUGSM3ZYY
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = Verhindern, dass eine Frau schwanger wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C2]
+1	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+2	𓂋𓂞	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓃛𓅱𓂋𓏯	22930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwr
+4	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+
+# sent_id = RWJOXRBDPRC2JNLLLX6FI7IYSU
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = Dann sollst (?) du sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C2]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = USGQ2VMBOFBF3PB6WGUTHYPEP4
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde an die Öffnung ihrer Gebärmutter/Scheide gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C3]
+1	𓂋𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓈞𓏏𓄰𓄹	850291	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jd.t
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = 6RXZIZXSNZFZNLBQZ6OG772VGA
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = Jedes Leiden werde damit verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C4]
+1	𓐎𓏏𓂡	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓏠𓈖𓏏𓅪	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+3	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = AIZOQ5XV3NGBJDQXG4QH5OOKEU
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde damit verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C6]
+1	𓐎𓏏𓂡	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = M2DVJEBBTVFUTNQUCQ77MWIASY
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = (Es) werde vom Kind getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C7]
+1	𓊃𓅨𓂋𓇋𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓄡𓂋𓂧𓅪𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+
+# sent_id = VJMCPJKRBJEYNPDNUFY2XKIHDI
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = Entfernen eines Dornes/Stachels:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C7]
+1	𓄞𓂧𓏏𓂡	854561	VERB	verb	VerbForm=Fin	_	_	_	Translit=šdi̯
+2	𓊃𓂋𓏏𓆱	139070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sr.t
+
+# sent_id = Z2ZHF3BHKBGHHJ2PDZGCJYPQIA
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = Beseitigen einer Schwellung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C8]
+1	𓂧𓂋𓀜	180130	VERB	verb	_	_	_	_	Translit=dr
+2	𓏏𓍯𓄿𓅱𓐎𓏥	170250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twꜣ.w
+
+# sent_id = KZXT5RIEVNG45LCW6VHFIUBYQM
+# corpus = sawmedizin
+# src_text_id = V2N4JSILIBE7BMJ2TINEJTTXZ4
+# src_text = sawmedizin:pRam IV (recto)//pRam IV, Fragment C, C1-C12
+# owner = Gunnar Sperveslage
+# text_de = $tj-šps$-Harz/Holz, Schilfrohr, Öl, Honig, Wachs, Fett eines Rinds.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C10]
+1	𓍘𓀼𓆱𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+2	𓇋𓋴𓋴𓏲𓆰𓏫	31310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz.w
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓆤𓏏𓈒𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+5	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+6	𓎙𓈒𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓃒𓈒𓏥	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+

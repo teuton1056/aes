@@ -1,0 +1,47 @@
+# sent_id = IBUBdwiTWzwfzEn6jNIsjupZ2oY
+# corpus = sawlit
+# src_text_id = F4IJCF7XPNDQTHNERA6BTV7NGQ
+# src_text = sawlit:Stele des Minnacht (Zagreb 7)//〈Stele des Minnacht (Zagreb 7)〉
+# owner = Alexander Schütze
+# text_de = Sei gegrüßt, Min, in Frieden!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓇋𓐩𓆓	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈾𓀭	70530	PROPN	entity-name	_	_	_	_	Translit=Mnw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊵	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+
+# sent_id = IBUBd0a29LsVgUixhA3QSCkH1Kc
+# corpus = sawlit
+# src_text_id = F4IJCF7XPNDQTHNERA6BTV7NGQ
+# src_text = sawlit:Stele des Minnacht (Zagreb 7)//〈Stele des Minnacht (Zagreb 7)〉
+# owner = Alexander Schütze
+# text_de = Sei gegrüßt, Horus, der Älteste, der seinen Vater schützt, in Frieden!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3] - [B.4]
+1	𓇋𓐩𓆓	854522	VERB	verb	_	_	_	_	Translit=nḏ
+2	𓁷	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅃𓀗𓅱	550351	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w-wr
+5	𓐩𓏏𓆑	91140	_	epitheton-title	_	_	_	_	Translit=nḏ-jtj⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊵𓏏𓊪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+
+# sent_id = IBUBdWlXOMwRQkTDl0a1xE9vtEU
+# corpus = sawlit
+# src_text_id = F4IJCF7XPNDQTHNERA6BTV7NGQ
+# src_text = sawlit:Stele des Minnacht (Zagreb 7)//〈Stele des Minnacht (Zagreb 7)〉
+# owner = Alexander Schütze
+# text_de = Der, welcher die Kraft des Unruhestifters ergreift.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5] - [B.6]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓎁𓏏	33560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jṯi̯
+3	𓄖𓏏𓏭	61400	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pḥ.tj
+4	𓄞𓂧𓊤𓅱	158700	_	epitheton-title	_	_	_	_	Translit=šd-ḫrw
+

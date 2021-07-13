@@ -1,0 +1,15 @@
+# sent_id = IBUBdQkUQBPBw0ZAoycGWWdenMI
+# corpus = sawlit
+# src_text_id = 5653KXHOOBB5JD23MF5SGWUWOQ
+# src_text = sawlit:Stele des Khety (Kairo JE 45058)//〈Stele des Khety (Kairo JE 45058)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am a seal-bearer of the god in making powerless the foreign countries.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [2]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊹𓋨𓀀	855792	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫtm.w-nṯr
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓇋𓂧𓏏𓀜	128640	VERB	verb	VerbForm=Fin	_	_	_	Translit=sjdi̯
+5	𓈉𓏏𓏥	114300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣs.t
+

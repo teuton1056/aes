@@ -1,0 +1,122 @@
+# sent_id = IBUBd7kiYQFUUUTWqtleoMdcSbE
+# corpus = sawlit
+# src_text_id = 5K4ASIU63FEERBBQSVR3RZY45M
+# src_text = sawlit:Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)//〈Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One truly beloved of his lord, his trusted one, who spoke well and repeated that which is beloved, who did what the Lord of the Two lands praised,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓎟𓏤𓆑𓌸𓇋𓇋	850897	_	epitheton-title	_	_	_	_	Translit=mr.y-nb⸗f
+2	𓌳𓐚𓂝	66460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣꜥ
+3	𓈖𓄣𓊨	79900	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n.j-s.t-jb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+6	𓄤𓆑𓂋𓏏	83680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nfr.t
+7	𓄙𓅓𓀁	48440	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḥm
+8	𓌻𓂋𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+9	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+10	𓎛𓎿𓊃𓊃𓏏	109620	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḥzi̯
+11	𓎟𓇿𓇿	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+
+# sent_id = IBUBdQ1TPysoT0k9uC9JsXEgsW4
+# corpus = sawlit
+# src_text_id = 5K4ASIU63FEERBBQSVR3RZY45M
+# src_text = sawlit:Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)//〈Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The assistant seal-bearer, Sahathor, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓋨𓌨𓂝	400130	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-ẖr.j-ꜥ
+2	𓉗𓏏𓁷𓅭𓀻	400068	PROPN	entity-name	_	_	_	_	Translit=Zꜣ-Ḥw.t-Ḥr.w
+3	𓐚𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd9aYBvsvg0cPmxjGRAbKWI0
+# corpus = sawlit
+# src_text_id = 5K4ASIU63FEERBBQSVR3RZY45M
+# src_text = sawlit:Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)//〈Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One dignified before Upuaut.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓇋𓄪	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+3	𓃧𓄋𓈐𓈐𓈐	45580	PROPN	entity-name	_	_	_	_	Translit=Wp-wꜣ.wt
+
+# sent_id = IBUBdWwSeEgUGEMXspeewYtIR4w
+# corpus = sawlit
+# src_text_id = 5K4ASIU63FEERBBQSVR3RZY45M
+# src_text = sawlit:Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)//〈Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One dignified before Anubis.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.5]
+1	𓇋𓄪	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+3	𓃣	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+
+# sent_id = IBUBdWpSWU2PnEV5p3iiAJaYBu4
+# corpus = sawlit
+# src_text_id = 5K4ASIU63FEERBBQSVR3RZY45M
+# src_text = sawlit:Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)//〈Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was one truly beloved of his lord, the King of Upper and Lower Egypt, Nebukaure, who lives forever.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.2]
+1	𓏌𓎢𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓎟𓏤𓆑𓌸𓇋𓇋	850897	_	epitheton-title	_	_	_	_	Translit=mr.y-nb⸗f
+3	𓌶𓂝	66460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣꜥ
+4	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+5	𓇳𓋞𓂓𓂓𓂓	400160	PROPN	entity-name	_	_	_	_	Translit=Nbw-kꜣ.w-Rꜥw
+6	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+7	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+
+# sent_id = IBUBd2gHgfQW8UfYk8YmF0MmRnI
+# corpus = sawlit
+# src_text_id = 5K4ASIU63FEERBBQSVR3RZY45M
+# src_text = sawlit:Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)//〈Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His majesty sent me numerous times on every beneficient mission which His Majesty desired.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.3] - [E.5]
+1	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉔𓄿𓃀𓂻	97580	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅱	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+6	𓊃𓊪𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+7	𓆈𓄿𓅱	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓄋𓊪𓏏𓅱𓂻	45750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wpw.t
+10	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓏠𓈖𓐍𓏏𓍊𓏛	71140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnḫ.t
+13	𓌸𓂋𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+14	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7G1QyQTHUPpuRmxSjxc3TI
+# corpus = sawlit
+# src_text_id = 5K4ASIU63FEERBBQSVR3RZY45M
+# src_text = sawlit:Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)//〈Stele und Würfelhocker des Sa-Hathor (BM EA 569 und EA 570)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One dignified before Anubis, who is upon his mountain, the foremost of the temple, lord of the sacred land, the assistant seal-bearer, 〈Sa〉hathor, whom Meryeset bore.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [G.1] - [G.2]
+1	𓇋𓄪	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+3	𓃣	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+4	𓁶𓈋𓆑	600421	_	epitheton-title	_	_	_	_	Translit=tp.j-ḏw⸗f
+5	𓏃𓏏𓊹𓉥	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+6	𓎟𓇿𓂝𓈉	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+7	𓋨𓌨𓂝	400130	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-ẖr.j-ꜥ
+8	𓉗𓁷𓏏𓂋	400068	PROPN	entity-name	_	_	_	_	Translit=Zꜣ-Ḥw.t-Ḥr.w
+9	𓄟	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+10	𓊨𓏏𓌸𓂋𓂋	_	X	unknown	_	_	_	_	_
+

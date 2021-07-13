@@ -1,0 +1,21 @@
+# sent_id = IBcDEBGJsE1nKEDeuKdMH3hF5ss
+# corpus = smaek
+# src_text_id = QCFOMSWO7NEMLERJYVNNAD743Q
+# src_text = smaek:Rückenplatte//Rückenplatte
+# owner = Roberto A. Díaz Hernández
+# text_de = Großer seines ganzen Landes, Schützer, Geliebter seines Herrn, sein wahrhaft Gelobter in dessen innersten Herzen, der tut das, was er jeden Tag will, Nes-Month, wahrhafter Versorgter.
+# findspot = unknown
+# date = unknown
+# lineRef = [4] - [8]
+1	𓉻𓈖𓇾𓂋𓇥𓂋𓆑	878255	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-n-tꜣ-r-ḏr⸗f
+2	𓐍𓐍𓐍𓂝	800073	_	epitheton-title	_	_	_	_	Translit=ḫw-ꜥ
+3	𓌸𓇋𓇋𓎟𓆑	850897	_	epitheton-title	_	_	_	_	Translit=mr.y-nb⸗f
+4	𓎛𓎿𓆑𓌳𓐙𓂝𓈖𓊨𓏏𓉐𓄣𓏤𓆑	876767	_	epitheton-title	_	_	_	_	Translit=ḥz.y⸗f-mꜣꜥ-n-s.t-jb⸗f
+5	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓌸𓂋𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+9	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+10	𓏠𓈖𓍿𓅱𓈖𓄓𓇓	400053	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Mnṯ.w
+11	𓇋𓌳𓄪𓐍𓅱𓌳𓅱	851158	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-mꜣꜥ
+

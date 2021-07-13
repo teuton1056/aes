@@ -1,0 +1,160 @@
+# sent_id = IBUBd3n09ttWEkdxg3qF6jFZEVg
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified accompanying seal-bearer Ameny says:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A3]
+1	𓄪𓐍𓇋𓇋	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓋨𓅱𓈖𓌞𓋴	860317	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-n.j-šms
+3	𓇋𓏠𓈖𓇋𓇋	400002	PROPN	entity-name	_	_	_	_	Translit=Jmny
+4	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdw1E8nV1HE5QvxQuXvW1tqk
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = "I was a leader of works, one watchful of that which was ordered to him, master of counsel, one strong of leadership (?), one sharp-witted among his equals.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A3] - [A4]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓐍𓂋𓊪𓂡	120150	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫrp
+3	𓂓𓏏𓀋	163010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣ.t
+4	𓂋𓋴𓌘	95940	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rs
+5	𓁶	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓎗𓆓𓏏𓏛	51970	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=wḏ
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+11	𓊃𓐍𓂋	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+12	𓈎𓈖𓂡	854565	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qni̯
+13	𓐍𓊪𓏏𓂋𓂡	_	X	unknown	_	_	_	_	_
+14	𓊪𓎼𓄿𓂘	62730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pgꜣ
+15	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+16	𓅓𓁷𓄣𓂋	65190	ADP	preposition	_	_	_	_	Translit=m-ḥr.j-jb
+17	𓏇𓏏𓅱𓏥	67930	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mj.tj
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd76NxryxOkN1qT8gMs7fXhE
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The overseer of works appointed me as a leader of that which is and that which is not, because I was more beneficient and more excellent in his heart than any hall-keeper who was with him.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A5] - [A6]
+1	𓂋𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓅓𓂋𓂓𓏏𓀋	850375	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-kꜣ.t
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓐍𓂋𓊪𓂡	855078	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḫrp
+6	𓈖𓏏𓏏	89760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=n.tjt
+7	𓂜𓏏𓏏𓏛	550302	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jw.tjt
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓏠𓐍𓍊	71080	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mnḫ
+10	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓇋𓈎𓂋	32240	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jqr
+13	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+14	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+15	𓄣	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+18	𓇋𓂋𓂝𓏏𓉐𓀀	28720	_	epitheton-title	_	_	_	_	Translit=jr.j-ꜥ.t
+19	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+20	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+21	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+22	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8dGEsUt70QEl454aQmXwLs
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was a possessor of charm, one sweet of love.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A7]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+3	𓆭𓏏𓏛	24900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣm.t
+4	𓃀𓈖𓂋𓇜	55940	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=bnj
+5	𓌸𓅱𓏏	72650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrw.t
+
+# sent_id = IBUBdWGkL1tDXUMqgWRG0V9LOOo
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified one, leader of works, accompanying seal-bearer, Ameny says:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A7] - [A8]
+1	𓇋𓄪𓐍𓇋𓇋	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓐍𓂋𓊪𓂡𓂓𓏏𓀋	401031	_	epitheton-title	_	_	_	_	Translit=ḫrp-kꜣ.wt
+3	𓋨𓅱𓈖𓌞𓋴	860317	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-n.j-šms
+4	𓇋𓏠𓈖𓇋𓇋	400002	PROPN	entity-name	_	_	_	_	Translit=Jmny
+5	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3qcQd2YtEibr0ZgSsHFQmI
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Bread: a thousand, beer: a thousand; incense; required offerings.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓏐	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+3	𓏊	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓆼	113110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ
+5	𓊺𓈒	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+6	𓂧𓄑𓏏𓊵	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+
+# sent_id = IBUBdWp7tldHG0knkmIveQ9XN3U
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His brother, Sahedjhetep.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓌢𓈖	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅭𓌉𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBYAcMLJngX7iUSrmeosVLck098
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓏏𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅭𓏏𓅓𓂞𓇑𓇑	860319	PROPN	entity-name	_	_	_	_	Translit=Zꜣ.t-m-ḏ-nn
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBd4W3ioTJEUJVvkMexY8cwQI
+# corpus = sawlit
+# src_text_id = VWQBP4RC2RBTXA3D4CVKAUA7WQ
+# src_text = sawlit:Stele des Ameny (Louvre C 172)//〈Stele des Ameny (Louvre C 172)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Incense; required offerings.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓊺𓈒	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓂧𓄑𓏏𓊵	178850	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=dbḥ.t-ḥtp
+

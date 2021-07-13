@@ -1,0 +1,38 @@
+# sent_id = IBUBdx7vtFOVJUNmtsEv9Ge34ew
+# corpus = bbawgrabinschriften
+# src_text_id = D4PH4ML2ZZG7LNE6J4MAZSHUIQ
+# src_text = bbawgrabinschriften:Südwand//Mittelteil
+# owner = Stefan Grunert
+# text_de = Das Schärfen des Messers.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.79]
+1	𓂧𓅓	852332	VERB	verb	VerbForm=Fin	_	_	_	Translit=dm
+2	𓂧𓋴𓌪	180620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ds
+
+# sent_id = IBUBd5ZwnYaIa0YIiWvl2F8u00Q
+# corpus = bbawgrabinschriften
+# src_text_id = D4PH4ML2ZZG7LNE6J4MAZSHUIQ
+# src_text = bbawgrabinschriften:Südwand//Mittelteil
+# owner = Stefan Grunert
+# text_de = Siehe, der Paartanz 'Ucha (Säulenhalle)'.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.82]
+1	𓅓𓎡	64440	PART	particle	_	_	_	_	Translit=m
+2	𓍿𓂋𓆑	176370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯrf
+3	𓅱𓐍𓆼𓄿	49210	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wḫꜣ
+
+# sent_id = IBUBdWTcgpb6U0PtrsU54Xdy0N8
+# corpus = bbawgrabinschriften
+# src_text_id = D4PH4ML2ZZG7LNE6J4MAZSHUIQ
+# src_text = bbawgrabinschriften:Südwand//Mittelteil
+# owner = Stefan Grunert
+# text_de = Siehe, der Paartanz 'Nebu-itjet (Gold zum Anfassen)'.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.83]
+1	𓅓𓎡	64440	PART	particle	_	_	_	_	Translit=m
+2	𓍿𓂋𓆑	176370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯrf
+3	𓋞𓎁𓏏	450531	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nbw-jṯ.t
+

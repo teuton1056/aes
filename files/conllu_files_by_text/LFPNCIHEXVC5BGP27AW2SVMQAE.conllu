@@ -1,0 +1,105 @@
+# sent_id = IBUBd764LOpFrE4Wg6Q6MladaOs
+# corpus = bbawgrabinschriften
+# src_text_id = LFPNCIHEXVC5BGP27AW2SVMQAE
+# src_text = bbawgrabinschriften:Ost-Gewände//Personen- und Handlungsbeischriften
+# owner = Stefan Grunert
+# text_de = Seine Ehefrau, die Verwalterin des Königsvermögens Sabet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓂋𓐍	95750	_	epitheton-title	_	_	_	_	Translit=jr.jt-jḫ.t-nswt
+4	𓋴𓄛𓃀𓏏	706450	PROPN	entity-name	_	_	_	_	Translit=Sꜣb.t
+
+# sent_id = IBUBd9QBrJAZMUaGhVvmWIcYBCw
+# corpus = bbawgrabinschriften
+# src_text_id = LFPNCIHEXVC5BGP27AW2SVMQAE
+# src_text = bbawgrabinschriften:Ost-Gewände//Personen- und Handlungsbeischriften
+# owner = Stefan Grunert
+# text_de = Sein Sohn Itjer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓍿𓂋	710752	PROPN	entity-name	_	_	_	_	Translit=Jṯr
+
+# sent_id = IBUBd9j6pwxhlUhNjVVUF1iwQ5U
+# corpus = bbawgrabinschriften
+# src_text_id = LFPNCIHEXVC5BGP27AW2SVMQAE
+# src_text = bbawgrabinschriften:Ost-Gewände//Personen- und Handlungsbeischriften
+# owner = Stefan Grunert
+# text_de = Sein Sohn Ibeb.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [4]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓃀𓃀	703841	PROPN	entity-name	_	_	_	_	Translit=Jbb
+
+# sent_id = IBUBd3gti0O0o0ypthRQFlKQHqg
+# corpus = bbawgrabinschriften
+# src_text_id = LFPNCIHEXVC5BGP27AW2SVMQAE
+# src_text = bbawgrabinschriften:Ost-Gewände//Personen- und Handlungsbeischriften
+# owner = Stefan Grunert
+# text_de = Sein Sohn Mai-sechemu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌳𓁹𓋴𓌂	853869	PROPN	entity-name	_	_	_	_	Translit=Mꜣj-sḫm.w
+
+# sent_id = IBUBd8j8fD4ZTEWwmmyeYwEfPCo
+# corpus = bbawgrabinschriften
+# src_text_id = LFPNCIHEXVC5BGP27AW2SVMQAE
+# src_text = bbawgrabinschriften:Ost-Gewände//Personen- und Handlungsbeischriften
+# owner = Stefan Grunert
+# text_de = Seine Tochter Iri-ichet-Re.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓂝𓁹𓐍𓏏	853870	PROPN	entity-name	_	_	_	_	Translit=Jr-jḫ.t-Rꜥw
+
+# sent_id = IBUBd552ZrEQpUvRhEwBKT53MD8
+# corpus = bbawgrabinschriften
+# src_text_id = LFPNCIHEXVC5BGP27AW2SVMQAE
+# src_text = bbawgrabinschriften:Ost-Gewände//Personen- und Handlungsbeischriften
+# owner = Stefan Grunert
+# text_de = Seine Tochter Meret-ities.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [7]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓂋𓏏𓆑𓋴	702196	PROPN	entity-name	_	_	_	_	Translit=Mr.t-jtj⸗s
+
+# sent_id = IBUBd5OVXtWSZkLlqD6Gnh8ytnQ
+# corpus = bbawgrabinschriften
+# src_text_id = LFPNCIHEXVC5BGP27AW2SVMQAE
+# src_text = bbawgrabinschriften:Ost-Gewände//Personen- und Handlungsbeischriften
+# owner = Stefan Grunert
+# text_de = Seine Tochter Hetep-heres.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [8]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊵𓏏𓁷𓂋𓋴	705292	PROPN	entity-name	_	_	_	_	Translit=Ḥtp-ḥr⸗s
+
+# sent_id = IBUBd1S8RhHg1EMfh8bw46EQqw8
+# corpus = bbawgrabinschriften
+# src_text_id = LFPNCIHEXVC5BGP27AW2SVMQAE
+# src_text = bbawgrabinschriften:Ost-Gewände//Personen- und Handlungsbeischriften
+# owner = Stefan Grunert
+# text_de = Seine Tochter Chenuti.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [9]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐍𓏌𓏏𓈖𓇋𓇋	705645	PROPN	entity-name	_	_	_	_	Translit=Ḫnwt.y
+

@@ -1,0 +1,28 @@
+# sent_id = IBUBdwc4ul9ZV05qqcgulwBSWxY
+# corpus = bbawgraeberspzt
+# src_text_id = ROZVSSQSJJHXJLCBRQVIRTBGPI
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20g: 7. Tagesstunde
+# owner = Doris Topmann
+# text_de = Mögest du (?) den Horusdiener Patjenfi, den Gerechtfertigten, vor Tadel(?) schützen(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [55] - [56]
+1	𓋴𓐍	141880	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫwi̯
+2	𓎟	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓍛𓅃	858869	_	epitheton-title	_	_	_	_	Translit=ḥm-Ḥr.w
+4	𓊪𓎀𓈖𓆑𓏭	701116	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ṯnf
+5	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓐝𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+7	𓋴𓐍𓂧𓀁𓏪	856669	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫd
+
+# sent_id = IBUBdxTOkoRnLUqhmPhmgx3dRHA
+# corpus = bbawgraeberspzt
+# src_text_id = ROZVSSQSJJHXJLCBRQVIRTBGPI
+# src_text = bbawgraeberspzt:Stundenritual: Tagesstunden//T 20g: 7. Tagesstunde
+# owner = Doris Topmann
+# text_de = 'Allherrin'.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [56]
+1	𓎟𓏏𓂋𓇥𓂋	861275	PROPN	entity-name	_	_	_	_	Translit=Nb.t-r-ḏr
+

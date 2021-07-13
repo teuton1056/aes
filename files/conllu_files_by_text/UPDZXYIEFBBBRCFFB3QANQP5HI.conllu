@@ -1,0 +1,62 @@
+# sent_id = IBUBdQXRIezBJU06okV54PaSaN4
+# corpus = bbawgraeberspzt
+# src_text_id = UPDZXYIEFBBBRCFFB3QANQP5HI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 28: PT 232
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [23]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBdQm6IlII6ElZnyUCghVPMYk
+# corpus = bbawgraeberspzt
+# src_text_id = UPDZXYIEFBBBRCFFB3QANQP5HI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 28: PT 232
+# owner = Doris Topmann
+# text_de = Gefäß, Gefäß! (?)
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [23]
+1	𓅓𓂺𓇋𓇋	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+2	𓅓𓂝𓂺𓍘𓇋	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBUBdwqZZKT1Pk6GmtrhQ4AJv1w
+# corpus = bbawgraeberspzt
+# src_text_id = UPDZXYIEFBBBRCFFB3QANQP5HI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 28: PT 232
+# owner = Doris Topmann
+# text_de = Du Langer (?) seiner Mutter! - zweimal -
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [23]
+1	𓄿𓄿𓄿	49	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜣwi̯
+2	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+5	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdxiez9YQgE6ikYiw40WmVsc
+# corpus = bbawgraeberspzt
+# src_text_id = UPDZXYIEFBBBRCFFB3QANQP5HI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 28: PT 232
+# owner = Doris Topmann
+# text_de = Der mit Flüssigkeit(?), Gefäß(?)!
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [24]
+1	𓅓𓇋𓂺𓍘𓇋	_	_	_	_	_	_	_	_
+2	𓅓𓂺𓍘𓇋	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBUBdQ0d7c5QzkkUn0X2cp42ytc
+# corpus = bbawgraeberspzt
+# src_text_id = UPDZXYIEFBBBRCFFB3QANQP5HI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 28: PT 232
+# owner = Doris Topmann
+# text_de = Ignoriere nicht!
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [24]
+1	𓐝	64410	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=m
+2	𓂜𓅓𓐍	116910	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫm
+

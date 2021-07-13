@@ -1,0 +1,37 @@
+# sent_id = IBUBd1HWlgWjUEF1kBwody4RQwI
+# corpus = bbawgrabinschriften
+# src_text_id = ZKUETBSOZRGZHJU3GTLWJLXJNE
+# src_text = bbawgrabinschriften:Westwand//Personen-Beischriften
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Totenpriester En-cheft-kai.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.150]
+1	𓌉𓋴𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓈖𓐍𓏏𓆑𓂓	450280	PROPN	entity-name	_	_	_	_	Translit=N-ḫft-kꜣ⸗j
+
+# sent_id = IBUBdQ5LkPmdTkdVjL0shqpUsWs
+# corpus = bbawgrabinschriften
+# src_text_id = ZKUETBSOZRGZHJU3GTLWJLXJNE
+# src_text = bbawgrabinschriften:Westwand//Personen-Beischriften
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Rawer(?), der Mittlere
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.151]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓂋𓂝	450178	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-wr
+3	𓁷𓁶	401116	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥr.j-jb
+
+# sent_id = IBUBd3XXIyGy2UAMkBZrgQQX7gA
+# corpus = bbawgrabinschriften
+# src_text_id = ZKUETBSOZRGZHJU3GTLWJLXJNE
+# src_text = bbawgrabinschriften:Westwand//Personen-Beischriften
+# owner = Stefan Grunert
+# text_de = Der Totenpriester Chnum-hetepu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.147]
+1	𓂖	104990	_	epitheton-title	_	_	_	_	Translit=ḥm-kꜣ
+2	𓎸𓊵𓏏𓊪	450112	PROPN	entity-name	_	_	_	_	Translit=H̱nm.w-ḥtp.w
+

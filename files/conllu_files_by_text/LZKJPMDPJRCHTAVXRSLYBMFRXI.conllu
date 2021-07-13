@@ -1,0 +1,337 @@
+# sent_id = IBcAOT6VQOJ4REe4h7O9Z1QsMwg
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Beseitigen von $ꜣk.wt$-Blasen (?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,21]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓄿𓎢𓏲𓏏𓐎𓏪	306	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣk.wt
+
+# sent_id = IBcAOXC6c3n7LU63hWhL9Jqvu98
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Dattelsaft: 1, „$ḥꜣwr.t$-Natron“: 1, Gummiharz: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,1]
+1	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓃀𓂧𓏏𓆇𓇉𓄿𓏲𓂋𓏏𓆇	854747	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t-ḥꜣwr.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAOcnZO4sEYEQTtHIMYfmvtuA
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die betroffene Stelle) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,1]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAOYoAp3ERJ0Splgxt1WhyIes
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAOSCPqvhwk00ukRLPUnqBuDw
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die betroffene Stelle) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,3]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAOZBsnO0IoUQBtlLHCTJ43a8
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,3]
+1	𓎢𓏏	400645	NOUN	substantive	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAOUf7WlY4mEgOoRzK0QCDnWs
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = $mꜣd$-Mineral.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,3]
+1	𓌴𓄿𓂧𓈒𓏥	67690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣd
+
+# sent_id = IBcAOSWC62G6mUS3q4VkW3KDbzo
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Werde fein mit Myrrhe zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,3]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂝𓈖𓅂𓏊𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+
+# sent_id = IBcAOdczHnNX9UBjuN8Ep4T57ds
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die betroffene Stelle) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,3]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAOXbMKqNvf0jmlF1KkCik1U8
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von $kꜣkꜣ.wt$-Blasen an jedem (möglichen) Körperteil eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,3] - [72,4]
+1	𓎢𓏏	400645	NOUN	substantive	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓂓𓄿𓂓𓄿𓅱𓏏𓐎𓏥	163720	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣkꜣ.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+7	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcAOd8az1RMBkWcmT2BFIETX8c
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Koniferenöl: 1, $sfṯ$-Öl: 1, $ẖsꜣ.yt$-Balsam: 1, „Teich-Zungen“-Droge: 1, Ocker: 1, Ruß (?): 1, ((Wasser)).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,4] - [72,5]
+1	𓎙𓂧𓏌𓏥𓂝𓈙𓐎𓆮	42070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḏ-ꜥš
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓋴𓆑𓏏𓏌𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓄡𓊃𓐟𓄿𓇋𓇋𓏏𓁸𓈒𓏥	124590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖsꜣ.yt
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓄓𓏤𓄹𓈙𓈇𓏤𓈒𓏥	863030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns-š
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓏲𓃀𓂧𓊮	45420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbd
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcAOf2BZXVDzEh6jQ5TJMxvzFM
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,5]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBcAOVAfK9pU8EWWm6IuILSPdKc
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = werde zu einer Masse vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,5] - [72,6]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAOTgYevl25Un2h89dMRriL9k
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,6]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcAOdzaMubhhkOKtuuvW5onT5Y
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAOYJrGHlZAkFbk2aBM9NtTmg
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: 1, Pflanzenbrei: 1, rotes Natron: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,6] - [72,7]
+1	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓍖𓈖𓈒𓏪𓂧𓈙𓂋𓏯𓈒𓏥	110120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥzmn-dšr
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAOWXOSWL4uUgHoeJCKJnhRi8
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = (Heilmittel zum) Beseitigen von $kꜣkꜣ.wt$-Blasen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,7]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓂓𓄿𓂓𓄿𓅱𓏏𓐎𓏥	163720	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣkꜣ.t
+
+# sent_id = IBcAOSnn17UyH0Cwh0qMzHW6mCc
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = $ḏꜣꜥ$-Pflanzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,7]
+1	𓍑𓄿𓂝𓈒𓏥	182020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣꜥ
+
+# sent_id = IBcAObU3YFHa5kyXtg4Zi4syqPg
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Werde mit dem $ḥrw.t$-Teil des Bieres gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,7] - [72,8]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓁷𓂋𓅱𓏏𓏊𓏥	874334	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥrw.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+
+# sent_id = IBcAOcceFYWXpUbmiuV0eq8krto
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAOft9PCdXh0DWglQ77el3ehw
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Ruß (?): 1, Leinsamen (?): 1, „Teich-Zungen“-Droge: 1, $šfšf.t$-Droge: 1, Wasser.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,8] - [72,9]
+1	𓏲𓃀𓂧𓊮	45420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbd
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓂧𓈙𓂋𓏯𓈒𓏥	180740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dšr
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓄓𓏤𓄹𓈙𓈇𓏥𓈒𓏥	863030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns-š
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓈙𓆑𓈙𓆑𓏏𓏯𓈒𓏥	154250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šfšf.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBcAOaGnGUOcuEetknfL8jmeQHY
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,9]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcAOVBQ9ixLnUHRgvrB1nDQtbI
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAOdnCJ1QBe0trqHdnLQyIK2Y
+# corpus = sawmedizin
+# src_text_id = LZKJPMDPJRCHTAVXRSLYBMFRXI
+# src_text = sawmedizin:Papyrus Ebers//71,21-72,10 ⸗ Eb 543-550: Heilmittel zum Beseitigen von $ꜣk.wt$- und $kꜣkꜣ.wt$-Blasen
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: 1, Pflanzenbrei: 1, rotes Natron: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,9] - [72,10]
+1	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓍖𓈖𓈒𓏪𓂧𓈙𓂋𓏯	110120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥzmn-dšr
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+

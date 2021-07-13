@@ -1,0 +1,40 @@
+# sent_id = IBUBd3uvxPIU7UAfqJW65sHDjNs
+# corpus = sawlit
+# src_text_id = XSTL3ISVNBET7IOFXHYNBALKDE
+# src_text = sawlit:Obelisk des Amenemhet (Durham N. 1984)//〈Obelisk des Amenemhet (Durham N. 1984)〉
+# owner = Alexander Schütze
+# text_de = Der Vorsteher der Stätte, Amenemhet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.1]
+1	𓄓𓊨	400520	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-s.t
+2	𓇋𓏠𓈖𓅓𓄂𓏏𓏤𓀀	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+
+# sent_id = IBUBdyXFyOWUZkN0pzQ2JacXY70
+# corpus = sawlit
+# src_text_id = XSTL3ISVNBET7IOFXHYNBALKDE
+# src_text = sawlit:Obelisk des Amenemhet (Durham N. 1984)//〈Obelisk des Amenemhet (Durham N. 1984)〉
+# owner = Alexander Schütze
+# text_de = Mögest du erscheinen, mögest du erscheinen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.18]
+1	𓈍𓂝𓏛𓍘	114740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜥi̯
+2	𓊗𓏭	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBUBdzLkXKJeC0RfuDQtaGVUPDM
+# corpus = sawlit
+# src_text_id = XSTL3ISVNBET7IOFXHYNBALKDE
+# src_text = sawlit:Obelisk des Amenemhet (Durham N. 1984)//〈Obelisk des Amenemhet (Durham N. 1984)〉
+# owner = Alexander Schütze
+# text_de = Mögest du leben, erneuert und verjüngt sein wie Re ewiglich.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.22] - [A.23]
+1	𓋹𓍘	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+2	𓌳𓍘	66940	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mꜣwi̯
+3	𓆳𓍘	95000	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rnpi̯
+4	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓇳	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+

@@ -1,0 +1,74 @@
+# sent_id = IBUBd2JDw7LFWUvAjMQJHxksMg4
+# corpus = bbawgrabinschriften
+# src_text_id = PG7VJJHRVJEQZHF5PJBHQ4DPUQ
+# src_text = bbawgrabinschriften:oberes Register//Beischriften Schiffsszene
+# owner = Stefan Grunert
+# text_de = Das Kommen aus Buto und die Fahrt zu den sehr schönen Opfergefilden (im Jenseits).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] -  [6]
+1	𓂻𓅱𓏏	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂧𓊪𓊖	178950	PROPN	entity-name	_	_	_	_	Translit=Dp
+4	𓋴𓐪𓇳𓂧𓏏𓅱	146340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sqd.wt
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴𓐍𓏏𓇏𓊵𓊪𓏏	141600	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sḫ.t-ḥtp
+7	𓄤𓂋𓆑	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+8	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+
+# sent_id = IBUBdWKNQOhnb0t4pgO15Vhu96I
+# corpus = bbawgrabinschriften
+# src_text_id = PG7VJJHRVJEQZHF5PJBHQ4DPUQ
+# src_text = bbawgrabinschriften:oberes Register//Beischriften Schiffsszene
+# owner = Stefan Grunert
+# text_de = (Personenbeischrift:) Hetep-sepet.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1. Person]
+1	𓊵𓊃𓊪𓇳𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5iNRw8Zf0Epqzk9MfQJPBw
+# corpus = bbawgrabinschriften
+# src_text_id = PG7VJJHRVJEQZHF5PJBHQ4DPUQ
+# src_text = bbawgrabinschriften:oberes Register//Beischriften Schiffsszene
+# owner = Stefan Grunert
+# text_de = (Personenbeischrift:) Wach-ib.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2. Person]
+1	𓍯𓎝𓄣	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd0GWGuiVtUuStK6Le7g1vx4
+# corpus = bbawgrabinschriften
+# src_text_id = PG7VJJHRVJEQZHF5PJBHQ4DPUQ
+# src_text = bbawgrabinschriften:oberes Register//Beischriften Schiffsszene
+# owner = Stefan Grunert
+# text_de = (Personenbeischrift:) Der Sem-Priester Kai-ni-nisut.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3. Person]
+1	𓋴𓅓	134020	_	epitheton-title	_	_	_	_	Translit=sm
+2	𓇓𓏏𓈖𓂓𓈖	702922	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-n.j-nswt
+
+# sent_id = IBUBdxeA2u98Qk16mol6Js4wmeY
+# corpus = bbawgrabinschriften
+# src_text_id = PG7VJJHRVJEQZHF5PJBHQ4DPUQ
+# src_text = bbawgrabinschriften:oberes Register//Beischriften Schiffsszene
+# owner = Stefan Grunert
+# text_de = (Personenbeischrift:) Per-nedju.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5. Person]
+1	𓉐𓂋𓐩𓅱	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd3EkTLGUwk4ygCD6ndmDsmk
+# corpus = bbawgrabinschriften
+# src_text_id = PG7VJJHRVJEQZHF5PJBHQ4DPUQ
+# src_text = bbawgrabinschriften:oberes Register//Beischriften Schiffsszene
+# owner = Stefan Grunert
+# text_de = (Personenbeischrift:) Her-meru.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [6. Person]
+1	𓁷𓂋𓈘𓈘𓈘	705094	PROPN	entity-name	_	_	_	_	Translit=Ḥr.j-mr.w
+

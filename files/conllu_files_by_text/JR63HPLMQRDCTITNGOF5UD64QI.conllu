@@ -1,0 +1,1281 @@
+# sent_id = IBcCCPtZdaw1fkjUkzXLjJomFaY
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel, die für Frauen gemacht werden:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,6]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓈞𓏏𓁐𓏥	104730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+
+# sent_id = IBcCCF5pjLgWLEwls8Tnc4uOoz0
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen in einem Hin-Maß Honig.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,7]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓉔𓈖𓏌𓏲𓏊𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBcCCD5U1bYwXEpcuv5W1ffKOI8
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein Faserbausch werde damit getränkt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,8]
+1	𓃛𓏲𓎛𓈗	23000	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwḥ
+2	𓆑𓏏𓏏𓄧	64200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ftt
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcCCFDs6QvJaUVuuFQr5DRndR8
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in ihr „Fleisch“ (d.h. ihre Vagina) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,8]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄹	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCBz0TJLARkhjjmZYipixOcE
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Heilmittel zum Verhindern, dass eine Frau an ihrem Harn leidet:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,9]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+4	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+5	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+6	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+7	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.yt
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCD6R0c85lU3Grx1beBX4gg8
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in den Hintern gegossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,10]
+1	𓎗𓎛𓏌𓂝	854504	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄖𓏲𓏭𓄹	61490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.wj
+
+# sent_id = IBcCCKIGNg0OFE8FhEcJpBQ8uxg
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Kühlen des Rektums:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓈎𓃀𓃀𓏁𓈗	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+4	𓄖𓏲𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+
+# sent_id = IBcCCKU4qCJQU0j7vrfiRbXDsXQ
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in den Hintern gegossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,11]
+1	𓎗𓎛𓏌𓂝	854504	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄖𓏲𓏭𓄹	61490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.wj
+
+# sent_id = IBcCCH3WmFxedEZGnWgO1WujLhA
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), etwas, was zu tun ist für eine (Frau), die (ständig) Geronnenes ausscheidet:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,11] - [93,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓃹𓈖𓈖𓏏	46050	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏲𓈙𓈙𓂺	49950	VERB	verb	VerbForm=Fin	_	_	_	Translit=wzš
+7	𓃀𓅡𓄿𓎼𓈗	53970	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=bꜣg
+
+# sent_id = IBcCCDcLQxRh9UYOtYU78lWGAwM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Stücke von Nilerde,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,12]
+1	𓊃𓊪𓇋𓇋𓏏𓊌𓏥	132740	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zpy.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+3	𓈎𓄿𓎛𓊌𓏥	159410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣḥ
+
+# sent_id = IBcCCN4z3zF7k0s6qYTJUJsFvhM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = ohne zuzulassen, dass sie das Sonnenlicht sehen (d.h. die nicht der Sonne ausgesetzt waren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,12] - [93,13]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓌴𓁹𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+4	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓆅𓏲𓇳	152750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šw
+
+# sent_id = IBcCCEuSXeTBAUsWpyYQQQ6keQU
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in einen Raum mit Estrich gelegt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,13]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇾𓈇𓏤𓌉𓆓𓇳𓉐	169230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ-ḥḏ
+
+# sent_id = IBcCCI3fVVatJEOMsQu61flqTzc
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = werde am Abend mit sehr viel Wasser besprengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,13]
+1	𓈖𓏏𓈙𓈗𓀜	90100	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ntš
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓉻𓏛	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+5	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆼𓄿𓏲𓏭𓇰	113750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣwj
+
+# sent_id = IBcCCMeKiWNlV0Pnu5sU2FOelxE
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = So sollst diese Stücke erneut besprengen beim Aufgang des Morgensterns, und veranlassen, dass sich die Frau über viele Tage hinweg darauf setzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,14] - [93,16]
+1	𓈖𓏏𓈙𓈗𓀜𓐍𓂋	90100	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ntš
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖𓄿𓈖	852471	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ-n
+4	𓊃𓊪𓇋𓇋𓏏𓊌𓏥	132740	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zpy.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄙𓅓𓀁	_	X	unknown	_	_	_	_	_
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓉐𓂋𓏏𓂻𓏥	60280	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+9	𓊹𓇼𓄿𓇋𓇋𓇼𓅆	851596	PROPN	entity-name	_	_	_	_	Translit=nṯr-dwꜣ.j
+10	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+11	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+12	𓈞𓊃𓀉	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+13	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+14	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+15	𓋴	852606	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+16	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+17	𓇳𓏥	99060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hrw
+18	𓆈𓄿𓏲𓏪	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+
+# sent_id = IBcCCO3fOEVjHE5WvHHhrrsa7WE
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = So sollst du veranlassen, dass dir ein neues $mḥ.t$-Gefäß gebracht wird, indem es mit Öl/Fett gefüllt ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,16]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏎𓈖𓏏𓏲	26870	VERB	verb	Voice=Pass|VerbForm=Fin	_	_	_	Translit=jni̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓎔𓏏𓏌	73530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḥ.t
+7	𓌴𓏏𓏛	66150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mꜣw
+8	𓎔𓏛	854514	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mḥ
+9	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcCCPwBhB7cjEQYuTIcywy56N4
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Erkennen schlechter Milch:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,19]
+1	𓌴𓁹𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+2	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+3	𓃀𓇋𓈖𓏏𓅪	54605	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=bjn
+
+# sent_id = IBcCCDRM6z7CnEUpkYFS1rOW1g8
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Heilmittel zum Veranlassen, dass die Gebärmutter/Plazenta einer Frau an ihren Platz hinabsteigt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,18] - [93,19]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+5	𓅐𓏏𓁐𓂋𓍿𓀀𓁐𓏥𓄹	69180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t-rmṯ
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCPlp4dlZQEZAmDRe24m81rQ
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Sägemehl der $ꜥš$-Konifere.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,19]
+1	𓌫	49450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ws.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂝𓈙𓐎𓆮𓈒𓏥	40940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥš
+
+# sent_id = IBcCCCKIDWT8i0BxluCxaEzBKqo
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in Bodensatz (von Bier) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,19]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+
+# sent_id = IBcCCOKBKnWHmklssGZjUKQSnRg
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde (damit) gesalbt(.) (?)
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,19]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+
+# sent_id = IBcCCC9c4SWt702qpXwryDZC9DY
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = E/ein „Ziegel“ aus Stoff (d.h. ein ziegelförmiger Stoffballen).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,19] - [93,20]
+1	𓅙𓃀𓏏𓊌	183120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏb.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓄲𓏤𓋳	177680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dꜣj.w
+
+# sent_id = IBcCCK9zKa2ldUoIlhyErnWXNfM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = So sollst du veranlassen, dass sie sich darauf setzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,20]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈞𓊃𓀉	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCMlGVktgC02wn0tWSti1l5I
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCOtBO6w4HUJKgwKmELCk9S8
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Erde (und?) Die-unter-$pdd.w$-Droge.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,20]
+1	𓇾𓈇𓏤𓏌𓏥	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓌨𓂋𓏭𓊪𓂧𓂧𓏲𓐎𓏥	875738	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-pdd.w
+
+# sent_id = IBcCCDDfA4SAAUZmocDyd2QMDco
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde mit Honig angesetzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,20]
+1	𓋴𓏠𓈖𓏛	851677	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smn
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBcCCLQVTfwGLEj2ihUFKA8cWLI
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Die Unterleibsregion der Frau werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,21]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓎢𓈖𓋴𓄹	164950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kns
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcCCN8W9OCDp0WXgc6NDq3JTig
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCBdZwIBAW0KDnYVZUYBQP50
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = $ḥꜥ.t$-Teil der $jnj$-Droge, das im Holz eines Schiffes ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [93,21]
+1	𓎛𓂝𓏏𓍢	101980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥ.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓇋𓆛𓈖𓏭𓏌𓏥	111030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnj
+4	𓃹𓈖𓈖𓏏	46050	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆱𓏏𓏤	121200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫt
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓊛𓏏𓏤	179040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dp.t
+
+# sent_id = IBcCCOP33E1Jk0WntWzCb0ZOYXw
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde ihr zu trinken gegeben (wörtl.: werde veranlasst, dass sie es trinkt).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,1]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBcCCEPEzSmgVEbzrh4HzlMg3dw
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCAvQvPM1mEtnrlUHaIv7LlM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ocker: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,2]
+1	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+2	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCOrTT5soVkeqqoebJdThNSY
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde mit frischer Myrrhe angesetzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,2]
+1	𓋴𓏠𓈖𓍖𓏛	851677	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smn
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+4	𓇆𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBcCCEDxJaezvULcv3aRdTGBFEY
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in ihren Bauchnabel gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,2]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄡𓊪𓐎	122880	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖpꜣ
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCIMRU3RBPE0lsav3mQrORFw
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein $gw$-Verband (?) aus Stoff, durchtränkt mit Myrrhe, werde an die obere Seite davon gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,2] - [94,3]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎼𓏲𓅪	875741	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓋳𓏥	103750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs
+5	𓃛𓏲𓎛𓈗	23000	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwḥ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+10	𓁷𓂋𓏭𓇯	108300	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḥr.j
+11	𓇋𓂋𓏭	851428	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jr.j
+
+# sent_id = IBcCCAemxXrIQEnYg4JV7zGHM5s
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCLMX18qTeUKypr8ZF3VPUL4
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Menschliche $šꜣ.w$-Exkremente, getrocknet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,3] - [94,4]
+1	𓆷𓄿𓏲𓐎𓏥	151290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+2	𓆅𓏲𓇳	152730	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šwi̯
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+
+# sent_id = IBcCCJxpWeVRKEKaj6u70tBW8eI
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in Weihrauch gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,4]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+
+# sent_id = IBcCCL2hK1AaHUkNnq95kJtgnk8
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Die Frau werde damit beräuchert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,4]
+1	𓊶𓊪𓀜	163310	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣp
+2	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCBge2wZUHEm4ijc5WFrSl64
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde veranlasst, dass der Rauch davon in das Innere ihres „Fleisches“ (d.h. ihrer Vagina) eindringt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,4] - [94,5]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓎛𓏏𓏭𓊮	111130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtj
+4	𓇋𓂋𓏭	851428	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jr.j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ẖnw
+7	𓄹	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+8	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCJ0VvQCzs0ohrd1RQGuuQLs
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCNrtBlRCFEtorkA7oWPhV5A
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = $šꜣ.w$-Exkremente, getrocknet, $ḥrw.t$-Teil des Bieres.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,5] - [94,6]
+1	𓆷𓄿𓏲𓐎𓏥	151290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+2	𓆅𓏲𓇳	152730	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šwi̯
+3	𓁷𓂋𓅱𓏏𓏌𓏥	874334	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥrw.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+
+# sent_id = IBcCCOKF8wWTWUL3hGEU7ha8vKE
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Die Finger der Frau werden damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,6]
+1	𓋴𓇋𓆛𓈖𓏌𓂝	128320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zjn
+2	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏbꜥ
+3	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+4	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+5	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcCCOiq7KfEpk4NqSalJjrQ3GU
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = So sollst du es auf all ihre Körperteile geben, an das, woran sie leidet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,6] - [94,7]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓏠𓈖𓏏𓅪	69660	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mn
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCKhMN0QS80Q7n35uiwDrRi4
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Veranlassen, dass der Uterus an seinen Platz hinabsteigt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+5	𓄰𓄹	850291	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jd.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+8	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCMnrfFbMk0r8mS7ZHzqCKSA
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein Ibis aus Wachs.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,7] - [94,8]
+1	𓉔𓃀𓏭𓅬	98120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hbj
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+
+# sent_id = IBcCCFQ2Eo46VkfZiHXOpQXDgbs
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde auf Holzkohle gelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,8]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆓𓂝𓃀𓏏𓈒𓏥	182660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥb.t
+
+# sent_id = IBcCCCsyPJSNvUMFpVAcVIiK6WI
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde veranlasst, dass der Rauch davon in ihr „Fleisch“ (d.h. ihre Vagina) eindringt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,8]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓎛𓏏𓏭𓊮	111130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtj
+4	𓇋𓂋𓏭	851428	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jr.j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄹	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCCMtPGDaIk8qsx9YDWiWxYk
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = (Anleitung zum) Erkennen guter Milch:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,8] - [94,9]
+1	𓌴𓁹𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+2	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+3	𓄤𓂋𓏏𓏏𓏛	400458	ADV	adverb	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+
+# sent_id = IBcCCNUNOKu6gEWyggKUTxmPioE
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ihr Geruch ist wie Zerkleinertes von Erdmandeln.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,9]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓏏𓏭𓐎	148990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sṯj
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓈖𓂝𓎼𓏲𓂷𓈒𓏥	80700	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nꜥg.w
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓇺𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+
+# sent_id = IBcCCJ4KHtIQKkd4n6dOmt52y1I
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Das ist das Unterscheidungsmerkmal bei ihrer Prüfung (wörtl.: des Sie-Prüfens).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,9] - [94,10]
+1	𓋴𓍿𓈖𓏌𓏲𓏛𓏥	855649	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯn.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓅠𓅓𓏏	167210	VERB	verb	VerbForm=Fin	_	_	_	Translit=gmi̯
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCM9HmE3w6kvHqeluF653whc
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Veranlassen, dass eine Frau niederkommt (wörtl.: auf den Boden gibt):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+5	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBcCCORkr0X1ykA6ue35XqL0w5c
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Polei-Minze (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,10]
+1	𓈖𓇋𓄿𓇋𓄿𓏲𓆰𓏥	79950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣjꜣ
+
+# sent_id = IBcCCAJa0thmnkevtRdEl8OadmI
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde veranlasst, dass sich die Frau darauf setzt, indem sie entblößt ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,10] - [94,11]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈞𓊃𓀉	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+3	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+4	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+6	𓎢𓆑𓄿𓄖𓋳𓀜𓍘𓇋	164200	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=kfi̯
+
+# sent_id = IBcCCGm9NYnnPEwcqR0AeCOO2tk
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Veranlassen, dass all das, was im Bauch einer Frau ist, hinabsteigt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,11] - [94,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+5	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+6	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+7	𓅓𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+
+# sent_id = IBcCCLAZLWdShEVpkQM7NiDduYw
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Scherbe eines neuen Hin-Maß-Topfes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,12]
+1	𓊪𓈎𓇋𓇋𓏏𓊌	59350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓉔𓈖𓏌𓏲𓏊	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+4	𓌴𓏛	66150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣw
+
+# sent_id = IBcCCERqOwB4M0rWsRrqJ8raVeM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett zerrieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,12]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcCCLwJ0J6hcELnhmCZIq44M4A
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde erhitzt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,12]
+1	𓋴𓄡𓅓𓅓𓊮	145200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sšmm
+
+# sent_id = IBcCCIZ9vKWj0krmlbGKwFyBe4w
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in ihr „Fleisch“ (d.h. ihre Vagina) gegossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,13]
+1	𓇅𓎛𓏌𓂝	854504	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄹	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCAZCiH6t3EMeoJtp2eDeDI0
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCED9oZp8MUn4vTVQNkDHj3g
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Dattelsaft, $msš$-gemacht, unterägyptisches Salz, Öl/Fett
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,13]
+1	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+2	𓅓𓈙𓈙𓏴𓂝	854863	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mzš
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcCCM7unZo3u0SeuzvIP987eYE
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,13]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcCCEiQSdWzCUp7vjKuQ3Ef6Rw
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde handwarm (wörtl.: in der Wärme eines Fingers) getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,13] - [94,14]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓂋𓆑𓊮𓏛	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+
+# sent_id = IBcCCAs69Zb8LkeAq98mhWM4dCE
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Lösen eines Kindes im Bauch der Frau:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓆑𓐍𓏏𓍼𓏛	133780	VERB	verb	VerbForm=Fin	_	_	_	Translit=sfḫ
+4	𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+
+# sent_id = IBcCCMfQwce5gks8p29l8vIRtL0
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: 1, weißer Emmer: 1, „weibliche“ $sw.t$-Binse: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,14] - [94,15]
+1	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓇣𓏏𓏤𓌽𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+4	𓌉𓆓𓏏𓇳	112300	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḥḏ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓇓𓏏𓏤𓆰𓏥	129610	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sw.t
+7	𓈞𓏏𓁐𓆰𓏥	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+8	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCIozEqtp20com6VWSC8JAig
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Der Unterleib werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,15]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓌨𓂋𓏭𓄡𓏏𓏤	124370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-ẖ.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCNFohvolT0qniyyt2ULlr3Q
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCMHYIIPTCUL9jEfqCJc1UE4
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Frische $ḥmꜣ.jt$-Früchte: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,15] - [94,16]
+1	𓎛𓌴𓄿𓏏𓍖𓈒𓏥	105100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.yt
+2	𓇅𓆓𓏏𓏛	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+5	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCEBsTRob80D8sNXmQODZ5fM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde getrunken über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,16]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcCCNVBJ4Kon02NkttD74QdYJg
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCKieWMEBSEZnnnQawoXsALM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = $bsbs$-Pflanzen: 1, Weihrauch: 1, $ḥḏ.w$-Harz: 1, Starkbier: 1, frische $ḥmꜣ.jt$-Früchte: 1, Propolis (?; wörtl.: Kot der Fliege): 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,16] - [94,17]
+1	𓃀𓋴𓃀𓋴𓈒𓏥	57440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bsbs
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓌉𓌉𓌉𓈒𓏥	112720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥḏ.w
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓂦𓂋𓏏𓏌𓏥	185590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏsr.t
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓎛𓌴𓏏𓍖𓈒𓏥	105100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.yt
+10	𓇅𓏏𓏛	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+11	𓏤	_	_	_	_	_	_	_	_
+12	𓉔𓋴𓐎𓏥𓈖𓂝𓆑𓆑𓅬	863819	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs-ꜥff
+13	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCPK9osg7H0rii8NpKJLUpkA
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde zu einem Zäpfchen gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,17]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂺𓆇	77320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCCEZK1iOd8UY5pWddchK1DSA
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in ihre Vulva gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,17]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂓𓏏𓄹	162990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ.t
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCAyGsIbK4EdQvfNpo0cYrxM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCGHNKzZMMkosq0GsEkfnYPM
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,18]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCIRkBP9iOkRYn05roetutQo
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Der Bauch werde damit (?) eingerieben (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,18]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCLagVrkW2U88krnpsUQQNSY
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCB9o0idLdEYYvzfGJeL9XGQ
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Polei-Minze (?): 1, $qsn.tj$-Mineral: 1, Wein: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,18] - [94,19]
+1	𓈖𓇋𓄿𓇋𓄿𓆰𓏥	79950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣjꜣ
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓌟𓈖𓏏𓏭𓈒𓏥	162260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qsn.tj
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓇋𓂋𓊪𓏌𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+6	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCOj35o6gsUaqlG8PdXmeo6k
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCIcOniWuyU4Ai2HqWoDoy3w
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Wüstendatteln (?): 1, Starkbier: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,19]
+1	𓇋𓄞𓂧𓇭𓈒𓏭	32150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jšd
+2	𓏤	_	_	_	_	_	_	_	_
+3	𓂦𓂋𓏏𓏌𓏥	185590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏsr.t
+4	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCEKGEWEfGEaWpX3B5oz6G5o
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in ihr „Fleisch“ (d.h. ihre Vagina) gegossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,19]
+1	𓎘𓎛𓏌𓂝	854504	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄹	22520	NOUN	substantive	_	_	_	_	Translit=jwf
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCA7WafUHxUyAsYSQHlZT3ys
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCHkgpQQHGUIwhfBHdS16bNQ
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Wacholderbeeren: 1, Polei-Minze (?): 1, Koniferenöl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,20]
+1	𓍁𓈒𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓏲𓂝𓈖𓐎𓆮𓈒𓏥	44660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥn
+3	𓏤	_	_	_	_	_	_	_	_
+4	𓈖𓇋𓄿𓇋𓄿𓆰𓏥	79950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣjꜣ
+5	𓏤	_	_	_	_	_	_	_	_
+6	𓎙𓂧𓏌𓏥𓂝𓈙𓐎𓆮	42070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḏ-ꜥš
+7	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCEHqrugZPUxqoKsj0Np6kM8
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde zu einem Zäpfchen gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,20] - [94,21]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂺𓆇	77320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+
+# sent_id = IBcCCEPJCLCP10BZjiECcZUjg1k
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde in ihr „Fleisch“ (d.h. ihre Vagina) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,21]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄹	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcCCO1bO5V5vkBOuAJ0Nrp2pEo
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,21]
+1	𓎡𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcCCOvjvtTSX0PevZJAbfGkBGk
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = $njs$-Teil einer Schildkröte: 1, $ḥkwn$-Käfer: 1, $sfṯ$-Öl: 1, Starkbier: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,21] - [94,22]
+1	𓈖𓇋𓋴𓆟	13	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣjs
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈙𓏏𓏲𓄛	158430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šṯ.w
+4	𓏤	_	_	_	_	_	_	_	_
+5	𓎛𓎢𓏲𓈖𓆣	110730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥkwn
+6	𓏤	_	_	_	_	_	_	_	_
+7	𓋴𓆑𓏏𓏌𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+8	𓏤	_	_	_	_	_	_	_	_
+9	𓂦𓂋𓏏𓏌𓏥	185590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏsr.t
+10	𓏤	_	_	_	_	_	_	_	_
+11	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+12	𓏤	_	_	_	_	_	_	_	_
+
+# sent_id = IBcCCP13x0QNjkjRl67kbmmDfxw
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,22]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCCFW5QQmHmkm0qVWoERnPOI4
+# corpus = sawmedizin
+# src_text_id = JR63HPLMQRDCTITNGOF5UD64QI
+# src_text = sawmedizin:Papyrus Ebers//93,6-94,22 ⸗ Eb 783-807: Erster gynäkologischer Abschnitt
+# owner = Lutz Popko
+# text_de = Werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [94,22]
+1	𓐎𓏏𓀜	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

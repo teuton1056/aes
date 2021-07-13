@@ -1,0 +1,30 @@
+# sent_id = IBUBdzXx2OMQKU1QqSIVBaEeRrM
+# corpus = bbawgrabinschriften
+# src_text_id = KGEZIGR4IFG6LDF6IDVJZKL6G4
+# src_text = bbawgrabinschriften:Westwand//Personenbeischriften oben
+# owner = Stefan Grunert
+# text_de = Seine Frau, die Verwalterin des Königsvermögens Jmendjefas.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] -  [2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+4	𓇋𓏠𓈖𓆓𓆑𓋴	701986	PROPN	entity-name	_	_	_	_	Translit=Jmn-ḏfꜣ⸗s
+
+# sent_id = IBUBd3t5ZUIdLU6YptJVHBbXhkg
+# corpus = bbawgrabinschriften
+# src_text_id = KGEZIGR4IFG6LDF6IDVJZKL6G4
+# src_text = bbawgrabinschriften:Westwand//Personenbeischriften oben
+# owner = Stefan Grunert
+# text_de = Seine Kinder Nefert-ha-chufu, Weret-ka, Sebek-remetsches (und) Nefer-Hathor.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3] -  [7]
+1	𓄟	74750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ms
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐍𓅱𓆑𓅱𓄤𓂋𓏏𓇉	703607	PROPN	entity-name	_	_	_	_	Translit=Nfr.t-ḥꜣ-Ḫwi̯⸗f-wj
+4	𓅨𓂋𓏏𓎡	711650	PROPN	entity-name	_	_	_	_	Translit=Wr.t-kꜣ
+5	𓆊𓂋𓅓𓏏𓋴	706623	PROPN	entity-name	_	_	_	_	Translit=Sbk-rmt⸗s
+6	𓉡𓄤	550173	PROPN	entity-name	_	_	_	_	Translit=Nfr-Ḥw.t-Ḥr.w
+

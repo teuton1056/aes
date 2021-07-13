@@ -1,0 +1,39 @@
+# sent_id = IBUBd3MPiIUJhk8yumLqVkFgy8Q
+# corpus = bbawgrabinschriften
+# src_text_id = Z7DLETFZQJGQHC5QVLKC56XLV4
+# src_text = bbawgrabinschriften:Opferbecken//Inschrift
+# owner = Stefan Grunert
+# text_de = (Dem) Gutsvorsteher und Vorsteher der Totenpriester Habi, dem Versorgten bei seinem Herrn Habi.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oben rechts -〉 links unten]
+1	𓅓𓂋𓉐	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+2	𓅓𓂋𓂖	800075	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḥm.w-kꜣ
+3	𓎛𓃀𓉲𓇋	_	X	unknown	_	_	_	_	_
+4	𓌳𓐍𓄪𓐍𓂋𓎟𓆑	850522	_	epitheton-title	_	_	_	_	Translit=jmꜣḫ.w-ḫr-nb⸗f
+5	𓎛𓃀𓉲𓇋	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdwsOWPcnCkMKms1JH3oW5Bw
+# corpus = bbawgrabinschriften
+# src_text_id = Z7DLETFZQJGQHC5QVLKC56XLV4
+# src_text = bbawgrabinschriften:Opferbecken//Inschrift
+# owner = Stefan Grunert
+# text_de = Seitens seines Sohnes, Schreiber Rau-nefer ist sein Name, für ihn gemacht, als er im Totenreich war.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechts oben -〉 unten links]
+1	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+2	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁹𓂋	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓏞	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+8	𓂋𓂝𓄤	_	X	unknown	_	_	_	_	_
+9	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
+12	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓊿𓇋𓏏	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
+

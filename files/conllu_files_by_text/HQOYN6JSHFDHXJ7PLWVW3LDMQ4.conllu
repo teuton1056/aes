@@ -1,0 +1,176 @@
+# sent_id = IBUBd06IqoQ3BEZFjqUGF0mTaM0
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am second to the strong one in the royal palace, a messenger of an energetic character.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5]
+1	𓏌𓎡𓀀	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌢𓏌𓏭𓀀	550359	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sn.nw
+3	𓈎𓈖𓀜𓀀	160940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇓𓏏𓈖𓉐	400419	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-nswt
+6	𓉔𓄿𓃀𓂻𓇋𓇋	97580	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=hꜣb
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓅓𓂞𓂧𓊃𓏛	78280	VERB	verb	VerbForm=Fin	_	_	_	Translit=mds
+9	𓃀𓇋𓏏𓏛	54410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.t
+
+# sent_id = IBUBd6cbLDn40kWrhlfBXR6y2hk
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was an overseer of the Double granary at the count of northern barley.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5] - [A.6]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓𓂋𓊚𓏏𓏭𓉐	400143	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-šnw.tj
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇋𓊪𓏛	_	_	_	_	_	_	_	_
+7	𓇠𓎔𓌽𓏥	550096	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jt-mḥ.j
+
+# sent_id = IBUBd1a4dzlo90AirQoNq55FczQ
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was an overseer of over a thousand people.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓𓂋𓂋𓍿𓀀𓁐𓏥	859182	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-rmṯ
+5	𓅓𓎛𓇉𓄿𓅱𓏛𓏥	65090	ADP	preposition	_	_	_	_	Translit=m-ḥꜣ.w
+6	𓆼𓆼𓆼	113110	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣ
+
+# sent_id = IBUBd3GdETeXPUxHlJ6dsZCT9jU
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I delivered clothing to the treasury,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓐍𓂋𓊪𓂡𓈖	120150	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫrp
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎛𓃀𓋴𓅱𓋳𓏥	851898	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥbs.w
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓉒𓉐	60780	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ḥḏ
+
+# sent_id = IBUBd1RWMknjCk0Tt0xGFdteKIQ
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = the accounting being in my charge in the royal palace, and I was acclaimed and thanked (lit: there was acclaim for me and there was thanking for me).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7] - [A.8]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓊪𓏛	859124	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jp
+3	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇓𓏏𓉐	400419	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-nswt
+7	𓈖𓉔𓅓𓀜𓂻	85580	VERB	verb	_	_	_	_	Translit=nhm
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+10	𓇼𓀢	854584	VERB	verb	_	_	_	_	Translit=dwꜣ
+11	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdQAWLg6OGksQj2iWfF8Foj8
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am a generous one of food and nourishment,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8] - [A.9]
+1	𓏌𓏤𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓌉𓆓𓇶	112301	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥḏ
+3	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+4	𓇉𓄿𓏏𓏒𓏥	100290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
+5	𓇬𓀁𓏏𓏒𓏥	46740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wnm.t
+
+# sent_id = IBUBd84pGXq6zUwPshPa2v4LMAg
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one who listened to righteousness, who was not partial to the briber.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.13] - [A.14]
+1	𓏌𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓋴𓄔𓅓𓅱	150560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḏm
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓃹𓈖𓌳𓐙𓂝𓏛	46200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wn-mꜣꜥ
+5	𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+6	𓈖𓌰𓅓𓂝𓀁	84240	VERB	verb	VerbForm=Fin	_	_	_	Translit=nmꜥ
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓎟𓀀	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
+9	𓌥𓃀𓏛𓏥	183350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜣ.w
+
+# sent_id = IBYBgNpsCW3vSkHtqQDhokCMuLo
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The praised overseer of the house, Montu-weser.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓇋𓄪𓐍𓇋𓇋	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓅓𓂋𓉐	400013	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr
+3	𓏠𓈖𓍿𓅱𓄊𓋴𓂋	400206	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w-wsr.w
+
+# sent_id = IBUBd7VHNqF9z0Xev3pamGrv0Mo
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine geliebte Tochter, Dedet, geboren von Nefersechet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.4]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌸𓇋𓇋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂞𓂞𓏏	709621	PROPN	entity-name	_	_	_	_	Translit=Dd.t
+6	𓄟𓏏	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓄤𓇏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd6d9nqqEmkhpvBI9NoFXe6A
+# corpus = sawlit
+# src_text_id = HQOYN6JSHFDHXJ7PLWVW3LDMQ4
+# src_text = sawlit:Stele des Montu-user (MMA 12.184)//〈Stele des Montu-user (MMA 12.184)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Sein Vater, der für ihn seinen Namen wiederbelebt, Antef, geboren von Senet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5] - [B.6]
+1	𓇋𓏏𓆑𓀀	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋴𓋹𓈖𓐍	128910	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜥnḫ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓏎𓈖𓏏𓆑	400012	PROPN	entity-name	_	_	_	_	Translit=Jni̯-jtj⸗f
+9	𓄟	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓊃𓈖𓏏𓏕	550007	PROPN	entity-name	_	_	_	_	Translit=Zn.t
+

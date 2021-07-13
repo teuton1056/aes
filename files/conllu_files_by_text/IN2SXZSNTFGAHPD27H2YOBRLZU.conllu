@@ -1,0 +1,47 @@
+# sent_id = IBUBdw27VP4NgkFRi7oGk3jsRZM
+# corpus = bbawgrabinschriften
+# src_text_id = IN2SXZSNTFGAHPD27H2YOBRLZU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, 〈〈ein Opfer〉〉, das Anubis, der an der Spitze der Götterhalle ist, 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏙𓇓	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓏃𓏏𓊹𓉱	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+
+# sent_id = IBUBdySmFkBYrUX9vpL2agLHBkk
+# corpus = bbawgrabinschriften
+# src_text_id = IN2SXZSNTFGAHPD27H2YOBRLZU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das Osiris, der an der Spitze von Busiris ist, gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓊵𓊪𓏏𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓏃𓏏𓊽𓅱𓏏𓊖	450594	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-Ḏd.w
+
+# sent_id = IBUBd7CSzVrhmkM8hrrv2jStmOs
+# corpus = bbawgrabinschriften
+# src_text_id = IN2SXZSNTFGAHPD27H2YOBRLZU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Er möge gehen auf den schönen Wegen, auf denen die Versorgten gehen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓐍𓊪𓂻	116050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈐𓈐𓈐𓏏	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+5	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+6	𓐍𓊪𓂻𓐍𓊪𓂻	116050	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḫpi̯
+7	𓇋𓌳𓄪𓐍𓅱	25090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jmꜣḫ.w
+8	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓋴	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+

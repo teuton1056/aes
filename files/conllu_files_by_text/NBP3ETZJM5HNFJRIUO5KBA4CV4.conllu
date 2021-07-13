@@ -1,0 +1,240 @@
+# sent_id = IBcCVi7hu7oeiE4xo8fsh6DjhqA
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Beräuchere du ihn mit Weihrauch.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 1,8]
+1	𓊶𓊪𓏲𓊮	163310	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=kꜣp
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊹𓌢𓏏𓂋𓇋𓆵𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+
+# sent_id = IBcCViWVjyLiNEOaom9axnszEyQ
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Beräuchere du ihn mit trockenen Myrrhen und $mnj$.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 2,8]
+1	𓊶𓊪𓊮	163310	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=kꜣp
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂝𓈖𓏏𓅂𓈒𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+7	𓇶	152730	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šwi̯
+8	𓏠𓈖𓏏𓏴𓈒𓏥	70100	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mnj
+
+# sent_id = IBcCVr2v5n9lsUCIpe8N2O8o72M
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Werde gesalbt mit Fischfett, Honig, $sfṯ$-Öl.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 2,8] - [vs. 3,1]
+1	𓎼𓄿𓋴𓍱	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓌻𓂋𓎛𓏏𓏊𓏫	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+4	𓂋𓅓𓏲𓆜𓏥	94160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rm
+5	𓆤𓏏𓏯𓏊𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+6	𓋴𓆑𓏏𓏊𓏫	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+
+# sent_id = IBcCVtWxjfjRZUWgi6ErrE67GbU
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Nicht ich bin es, der es aussprechen wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 4,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇋𓏌𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+3	𓇋𓀁𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBcCVouA94hXJU9zpv16ertVSiI
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Nicht ich bin es, der es wiederholen wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 4,1]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓇋𓏌𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+3	𓂋𓄙𓅓𓏛	48440	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḥm
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBcCVlFY92T930AHuWGTqFqutaI
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Ebenso wie der Zwerg, der nach der Schrift aus Wachs (zu fertigen) ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,2]
+1	𓅓𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+2	𓈖𓌰𓅓𓇋𓏱	84270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nmw
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏞𓏲𓍼𓏤	450097	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓏠𓈖𓎛𓏏𓈒𓏫	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+
+# sent_id = IBcCVhEtTVmg609WnKdzWfsTZEg
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Werde gegeben an seinen Hals.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,2]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓐍𓐍𓏲𓏭𓄈𓄹	120510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫḫ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcCVpj9iOQLiEsriaM0KHEAXwI
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Er ist alt geworden, er schläft.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,3] - [vs. 5,4]
+1	𓇓𓏲	851203	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+2	𓇋𓄿𓏲𓀗	20480	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jꜣwi̯
+3	𓋴𓇥𓂋𓁀𓀜	150740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḏr
+
+# sent_id = IBcCVgfVt4nDMEJLoatMQb6eNFY
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Du wirst stark sein.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,4]
+1	𓄊𓋴𓂋𓂡	500010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wsr
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcCViOEMHydlEATusYioAMppD4
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Deine Kehle wird nicht schwach werden, Sohn des Horus.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓎼𓄿𓃀𓏲𓏴𓅪	166950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gbi̯
+3	𓎛𓏏𓇋𓇋𓄈𓄹	111160	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥty.t
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+6	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+
+# sent_id = IBcCVvhqARf6o0U5rju0jxqGZWA
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Ich bin deine Mutter Isis.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,4]
+1	𓇋𓏌𓎢	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊨𓏏𓆇𓆗	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+
+# sent_id = IBcCVmIzXu0W3UFdv7pTnHY7abg
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Zu rezitieren ⸢am⸣ Ohr eines Mannes, der todgeweiht ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,5]
+1	𓆓𓂧𓇋𓇋𓏫	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄟𓋴𓇥𓂋𓄔𓏏𓏤𓄹	76230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=msḏr
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+7	𓌨𓂋𓏭𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+8	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+
+# sent_id = IBcCViWT0nIQe0h1j6OH7NO6cuc
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Werde zu einer einheitlichen Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,7]
+1	𓁹𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓏤𓏏	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcCVq1v0nirlEQokWiNp2RKRBM
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Werde getrunken vom Mann, der todgeweiht ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 5,7]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+5	𓌨𓂋𓏭𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+6	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+
+# sent_id = IBcCVgzWzlt5GEgmk0IE2UAtFTU
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Werde getrunken vom Mann.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 6,6]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcCVkRa2fbRX00LtjDfDQiGFuw
+# corpus = sawmedizin
+# src_text_id = NBP3ETZJM5HNFJRIUO5KBA4CV4
+# src_text = sawmedizin:Papyrus Deir el-Medineh 1//〈Verso: 〉 Magisch-Medizinische Texte
+# owner = Marc Brose
+# text_de = Werde an den Hals des Mannes gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vs. 8,8]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓐍𓐍𓏲𓏭𓄈𓄹	120510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫḫ
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+

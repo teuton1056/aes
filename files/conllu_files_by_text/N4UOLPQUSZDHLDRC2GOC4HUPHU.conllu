@@ -1,0 +1,75 @@
+# sent_id = IBUBdw9p7VQSCkdqm6EZwrLGEJs
+# corpus = sawlit
+# src_text_id = N4UOLPQUSZDHLDRC2GOC4HUPHU
+# src_text = sawlit:Stele des Wepwawetaa (Leiden V4 ⸗ AP 63)//〈Stele des Wepwawetaa (Leiden V4 ⸗ AP 63)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I united with the praised ones.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5]
+1	𓊃𓌳𓄥𓈖	134180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zmꜣ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓎿𓊃𓀀𓏨	109750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥz.y
+
+# sent_id = IBUBdzsvetoSCE4dppQmSLJcDi4
+# corpus = sawlit
+# src_text_id = N4UOLPQUSZDHLDRC2GOC4HUPHU
+# src_text = sawlit:Stele des Wepwawetaa (Leiden V4 ⸗ AP 63)//〈Stele des Wepwawetaa (Leiden V4 ⸗ AP 63)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = It was my own heart that advanced my position:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.6]
+1	𓇋𓈖	_	X	unknown	_	_	_	_	_
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓋴𓏃𓈖𓏏𓂉	142720	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḫnti̯
+5	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd7w1hxeZokzjsh5LnFSIepc
+# corpus = sawlit
+# src_text_id = N4UOLPQUSZDHLDRC2GOC4HUPHU
+# src_text = sawlit:Stele des Wepwawetaa (Leiden V4 ⸗ AP 63)//〈Stele des Wepwawetaa (Leiden V4 ⸗ AP 63)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I did not do evil against people, (for) it is what god hates.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.8]
+1	𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓃛𓏏𓅪𓏥	22310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jw.yt
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓂋𓍿𓀀𓁐𓏪	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+7	𓄟𓋴𓆓𓆓𓏏	76210	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=msḏi̯
+8	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+9	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdQrbPtayQEKjlEwO6c0Qylw
+# corpus = sawlit
+# src_text_id = N4UOLPQUSZDHLDRC2GOC4HUPHU
+# src_text = sawlit:Stele des Wepwawetaa (Leiden V4 ⸗ AP 63)//〈Stele des Wepwawetaa (Leiden V4 ⸗ AP 63)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May Osiris advance my place more than that of the great ones who are in the sacred land, for I am indeed a man for whom the hand is extended.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.12]
+1	𓋴𓏃𓈖𓏏𓂉	142720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫnti̯
+2	𓊨𓁹𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅨𓂋𓏥	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+7	𓇋𓏶𓏥	25130	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=jm.j
+8	𓇾𓂦	169370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tꜣ-ḏsr
+9	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+10	𓃹𓈖𓏏	851212	PART	particle	_	_	_	_	Translit=wn.t
+11	𓊃𓀀	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓄫𓏏	49	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣwi̯
+14	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓂣𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
+

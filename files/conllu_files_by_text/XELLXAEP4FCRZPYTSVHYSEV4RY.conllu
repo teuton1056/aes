@@ -1,0 +1,34 @@
+# sent_id = IBUBdQhLSA5eOEXOm9ldNSKJNg4
+# corpus = bbawgrabinschriften
+# src_text_id = XELLXAEP4FCRZPYTSVHYSEV4RY
+# src_text = bbawgrabinschriften:Opferbecken//Opferformel
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis, der vor der Gotteshalle ist, 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechts oben -〉 unten links]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓏃𓏏𓊹𓉱	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+
+# sent_id = IBUBdWTUm0OUbknVgKd0A07jeoI
+# corpus = bbawgrabinschriften
+# src_text_id = XELLXAEP4FCRZPYTSVHYSEV4RY
+# src_text = bbawgrabinschriften:Opferbecken//Opferformel
+# owner = Stefan Grunert
+# text_de = Ein Totenopfer für ihn am Abedu (Fest am 2. Tag nach Neumond), Semdet (Halbmonatsfest am 15. Tag des Monats) und jedem Fest, täglich.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oben rechts -〉 links unten]
+1	𓉓𓏖	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇹𓇼	94	PROPN	entity-name	_	_	_	_	Translit=Ꜣbd.w
+6	𓇻	450536	PROPN	entity-name	_	_	_	_	Translit=Smd.t
+7	𓎛𓃀𓉲	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+8	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+9	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+

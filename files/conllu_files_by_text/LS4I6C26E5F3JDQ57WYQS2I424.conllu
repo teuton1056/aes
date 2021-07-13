@@ -1,0 +1,64 @@
+# sent_id = IBUBdymQREMLGEtQtLFegQQOsoI
+# corpus = bbawgraeberspzt
+# src_text_id = LS4I6C26E5F3JDQ57WYQS2I424
+# src_text = bbawgraeberspzt:〈Horizontalband〉//CT 222/CT 223; Tb 56
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd60wLF8j1Eg5jH8cez0Qp2U
+# corpus = bbawgraeberspzt
+# src_text_id = LS4I6C26E5F3JDQ57WYQS2I424
+# src_text = bbawgraeberspzt:〈Horizontalband〉//CT 222/CT 223; Tb 56
+# owner = Doris Topmann
+# text_de = Osiris, er hat seine wohlriechende Atemluft an die Nase des Königlichen Sieglers Panehsi gegeben.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+2	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏏𓅱𓊡𓏤𓏤𓏤	174480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ṯꜣw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇛	500020	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nḏm
+8	𓋴𓏏𓊸	148990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯj
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓂉𓏤	63920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=fnḏ
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓆤𓏏𓋨	400193	_	epitheton-title	_	_	_	_	Translit=ḫtm.tj-bj.tj
+13	𓊪𓈖𓎛𓋴	400840	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-nḥsj
+
+# sent_id = IBUBdzwIWi2VC05Fn5CBosPYMwc
+# corpus = bbawgraeberspzt
+# src_text_id = LS4I6C26E5F3JDQ57WYQS2I424
+# src_text = bbawgraeberspzt:〈Horizontalband〉//CT 222/CT 223; Tb 56
+# owner = Doris Topmann
+# text_de = Lebt er, lebt es.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdymG3YUG5EwZn519mdvBO1U
+# corpus = bbawgraeberspzt
+# src_text_id = LS4I6C26E5F3JDQ57WYQS2I424
+# src_text = bbawgraeberspzt:〈Horizontalband〉//CT 222/CT 223; Tb 56
+# owner = Doris Topmann
+# text_de = Atmet es Luft, atmet er Luft.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓌢𓌢𓏌𓂉	138130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snsn
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓊡	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+4	𓋴𓋴𓏌𓂉	138130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snsn
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓊡	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+

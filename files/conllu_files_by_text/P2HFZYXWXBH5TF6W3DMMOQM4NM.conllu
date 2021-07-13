@@ -1,0 +1,33 @@
+# sent_id = IBUBdzpSBDVdt0DKvwhMbx77xcg
+# corpus = bbawamarna
+# src_text_id = P2HFZYXWXBH5TF6W3DMMOQM4NM
+# src_text = bbawamarna:〈Kalzitgefäß New York〉//Kalzitgefäß New York
+# owner = Gunnar Sperveslage
+# text_de = "Re-Harachte, der im Horizont jubelt in seinem Namen Sonnenlicht, das in der Sonne ist" (⸗Aton), der Leben für immer und ewig gibt.
+# findspot = unknown
+# date = NK
+# lineRef = [1-2]
+1	𓋹𓇳𓁷𓈌𓈌𓎛𓂝𓏮𓏛𓐝𓈌	859387	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj-ḥꜥ-m-ꜣḫ.t
+2	𓐝𓂋𓈖𓆑𓐝𓆄𓅱𓇳𓈖𓏏𓏭𓐝𓇋𓏏𓈖𓇳	856317	PROPN	entity-name	_	_	_	_	Translit=M-rn⸗f-m-Šw-n.tj-m-Jtn
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+6	𓎛𓇳𓎛	86580	ADV	adverb	_	_	_	_	Translit=nḥḥ
+
+# sent_id = IBUBdxFdheDiBkuPlGdgM2WNRfY
+# corpus = bbawamarna
+# src_text_id = P2HFZYXWXBH5TF6W3DMMOQM4NM
+# src_text = bbawamarna:〈Kalzitgefäß New York〉//Kalzitgefäß New York
+# owner = Gunnar Sperveslage
+# text_de = Der Herr der Beiden Länder, Nefer-cheperu-Re-Wa-en-Re,  dem Leben gegeben ist, der Herr der Kronen, Echnaton, der groß in seiner Zeit ist.
+# findspot = unknown
+# date = NK
+# lineRef = [3] -  [4]
+1	𓎟𓇿𓇿	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
+2	𓇳𓄤𓆣𓇳𓏥𓌡𓈖	856314	PROPN	entity-name	_	_	_	_	Translit=Nfr-ḫpr.w-Rꜥw-wꜥ-n-Rꜥw
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓎟𓈍𓏥	600260	_	epitheton-title	_	_	_	_	Translit=nb-ḫꜥ.w
+6	𓇋𓏏𓈖𓇳𓅜𓐍𓈖	856863	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-n-Jtn
+7	𓉻𓐝𓊢𓂝𓇳𓏤𓆑	852060	_	epitheton-title	_	_	_	_	Translit=ꜥꜣ-m-ꜥḥꜥ.w⸗f
+

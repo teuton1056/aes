@@ -1,0 +1,13 @@
+# sent_id = IBUBd9muUqQ92ErXjUoKSTj9VwE
+# corpus = bbawgrabinschriften
+# src_text_id = 6CRPOC6MRRG45B75JES3ABTHZE
+# src_text = bbawgrabinschriften:Scheintür-Rekonstruktion//linker Mittelpfosten
+# owner = Stefan Grunert
+# text_de = Nefer ist sein Hauptname.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓄤𓆑𓂋	450295	PROPN	entity-name	_	_	_	_	Translit=Nfr
+2	𓂋𓈖𓉻	850237	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn-ꜥꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

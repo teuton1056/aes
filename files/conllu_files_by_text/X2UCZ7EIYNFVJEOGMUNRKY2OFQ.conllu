@@ -1,0 +1,830 @@
+# sent_id = IBYBYCAee54zP0bzpRZi8ENSsHk
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Anfang des Heilmittels für das Beseitigen einer Festsetzung von Harn, (wenn) der Unterleib schmerzt:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,21]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓋭𓏏𓈇𓈖𓏏𓈗𓇋𓇋𓏏𓂺	177170	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ṯꜣz.t-n.t-mw.yt
+6	𓍋𓅓𓂋𓅪	71790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mr
+7	𓎢𓈖𓋴𓄹	164950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kns
+
+# sent_id = IBcAJeaHlj5KiUicu1EQzYaL1rc
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,22]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYBYNo3qjaokExugYtu07T4Cac
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), um zu veranlassen, dass ein Kind eine Anhäufung von Harn ausscheidet, die in seinem Bauch ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [48,22] - [49,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓏲𓈙𓂺	49950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wzš
+5	𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+6	𓎀𓊃𓏲𓍞𓐎𓏥𓈖𓈗𓇋𓇋𓏏𓂺	177170	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ṯꜣz.t-n.t-mw.yt
+7	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBYJvMEx7UYUT9j3njm44l9lg
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein altes Schriftstück, mit Öl/Fett ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,1] - [49,2]
+1	𓈙𓂝𓏏𓍼	152350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥ.t
+2	𓇋𓇩𓋴𓏏𓆰𓏛	31040	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jz
+3	𓋴𓈖𓍇𓏌𓅱𓐍𓊮𓍘𓇋	136860	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=snwḫ
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYBYGghdmP1Sk5WqCWYK5lldbQ
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Sein Bauch werde (damit) eingerieben, um seinen Harn(fluss) zu regeln.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,2]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌷𓂝𓏛	854512	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜥ
+6	𓅱𓊃𓈙𓏏𓂺	49970	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wzš.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBYFWvlXdCrE9vkZEm1L4Vdnk
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Ordnen des Harns:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓌷𓂝𓏛	134630	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣꜥ
+4	𓈗𓇋𓇋𓏏𓂺	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBYBYCvrQTxNg0QzgaZbOn85MLM
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Richten von Harn im Überfluss (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂝𓈎𓄿𓂭𓂭𓏛	41310	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥqꜣ
+4	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓇉𓏲𓀀	101060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣ.w
+
+# sent_id = IBYBYKysQ0CQOUKIuQWDW66RgaM
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = $gw$-Gras: 1, „Haarfrüchte“: 1, Wurzel der $bḥḥ$-Pflanze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,4] - [49,5]
+1	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓍁𓏏𓏥𓁸𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓏠𓈖𓇋𓇋𓏏𓆱	70220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mny.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓃀𓎛𓎛𓆰	56880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bḥḥ
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBYCFnv36rdkKDm7U9Ai9Qzx4
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zerstoßen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,5]
+1	𓉔𓃀𓈎𓂝	98220	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hbq
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYBYCbHamcBQU5svax6dpy5U8c
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde getrunken, wobei der Satz (?) daran ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,6]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓅓𓂝𓌨𓂋𓏲𓈇	74670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mẖr.w
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBYM0XZFoHw06MvrKVdHTY6b8
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde in das Rektum gegossen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,8]
+1	𓎗𓎛𓏌𓂝	854504	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄖𓏲𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+
+# sent_id = IBYBYDAg2giXe0igikIjc8VXs0k
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel, etwas, das hergestellt werden soll für den, der an einer $ḥnꜥ.w$-Zusammenziehung seines Harnes leidet:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,10] - [49,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓏠𓈖𓅪	69660	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mn
+6	𓎛𓈖𓂝𓏲𓐎𓏥	106260	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥnꜥ.w
+7	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.yt
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBYOTHNIbFl00yo970LnbfVqs
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Leber vom $jwꜣ$-Mastrind: 1, $jns.t$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,11]
+1	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjz.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓃒𓏤	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓇋𓆛𓈖𓋴𓏏𓆰𓏥	27830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jns.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBYFk2QLYxTUoipKV4HQkGMWs
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde zu einem $pꜥ.t$-Gebäck gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,11]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊪𓂝𓏏𓏒	59620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜥ.t
+
+# sent_id = IBYBYKMSPOszP00gpmAZcT2x12M
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde vom Mann gegessen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,11]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBYBYJApSZBAVUcKn5bFlExAT3A
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAJVtNthLfAUMyq8qD1bZcois
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde kocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,13]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYBYJzta5VgCk11iFfbtAVaJxE
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Ordnen des Harns:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓌷𓂝𓏛	134630	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣꜥ
+4	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBYBYGWLpLRWUUrNgHW99lOETX4
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = "Stechholz": 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,13]
+1	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBYGW95IUWR04Zlg4qvysLgV4
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde in Brei zerschlagen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,13] - [49,14]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBYBYM6irF2WlEvppdosU5tG0QQ
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde an die Eichel / den Penis gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,14]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓃀𓅡𓄿𓎛𓂺	53510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣḥ
+
+# sent_id = IBYBYJDTn0sWlkoasbWKBds7Qqo
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYBYHkHrX6WfEcAvolEoXWYoPI
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Halm der $sw.t$-Binse: 1, Langbohnen, ausgeglüht: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,14] - [49,15]
+1	𓌴𓄿𓏏𓆰	66850	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mꜣw.t
+2	𓇓𓏏𓏤𓆰𓏥	129610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sw.t
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏪	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+5	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=snwḫ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBYPYMTWLuikDQi4BTYX8onAQ
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde in Öl/Fett gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,15]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYBYDYI1KQYvUxbqloTtqvFcHg
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Die Eichel / der Penis werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,15]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓂺𓏤𓄹	53510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣḥ
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYBYEXARa34GU5xnyweNF4QihI
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYBYF9v6kxYgkIPtW3b2cGjAL4
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,17]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYBYA6QS2kcHEJqoHaRf1HqMcM
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYBYJssCAk4AUyGhueLzQF2AQ4
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Holz des Christdorns: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,17] - [49,18]
+1	𓆱𓏏𓏤	121200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫt
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈖𓃀𓋴𓆮	82810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbs
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBYMgnQj8g5UlGnHZHYxTJpnE
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Die Eichel / der Penis werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,18]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓂺𓄹𓏤	53510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣḥ
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYBYGNkIKv730MMqHxR3UTc4gk
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Ordnen des Harns eines Kindes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,18] - [49,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓌷𓂝𓏛	134630	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣꜥ
+4	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+
+# sent_id = IBYBYLCS8rwZpkZ1lqnbvlReS7k
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = $ꜣgg.t$-Faser (?), die im Schilf ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,19]
+1	𓄿𓎼𓎼𓏏𓆰	319	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣgg.t
+2	𓃹𓈖𓈖𓏏	46050	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈖𓃀𓇋𓏏𓌟	82640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nbj.t
+
+# sent_id = IBYBYIu1SYXmukWlnbfucU1CMWA
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde gänzlich in süßem Bier zerrieben, einem Napf (voll), im (Zustand des) Gerinnen(s) (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,19] - [49,20]
+1	𓋴𓆛𓈖𓏌𓂝	128320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zjn
+2	𓁷𓏤𓐪𓂧𓏌𓏛𓏥	108220	ADV	adverb	_	_	_	_	Translit=ḥr-qd
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+5	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+6	𓆼𓄿𓏲𓏌𓏤	113690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫꜣ.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓃀𓅡𓄿𓎼𓈗	53970	VERB	verb	VerbForm=Fin	_	_	_	Translit=bꜣg
+
+# sent_id = IBYBYI4GTgPrME91oG16bRBn81E
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde getrunken von einer Frau.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,20]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+
+# sent_id = IBYBYCJpms8Xn07ZuJswSmqpiBE
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = In einem Hin-Topf werde es dem Kind gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,20] - [49,21]
+1	𓂝𓂝𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓉔𓈖𓏌𓏲𓏌𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+
+# sent_id = IBYBYKQ2KWzCLkHtv67Qbm0bE7A
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Was für ein Kind angefertigt werden soll, (wenn) es am $ḏꜣd.yt$-Leiden leidet:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,21]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+4	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓍑𓄿𓂧𓇋𓇋𓏏𓈗	861517	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣḏ.yt
+
+# sent_id = IBYBYDSwbaiJb081hXfxZTY5mkY
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Wenn es ein älteres Kind ist, soll es sie durch Schlucken verschlucken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,22]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓀔𓀀	854539	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖrd
+6	𓀘	135730	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sms
+7	𓂝𓅓𓄈𓀁	37500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂝𓅓𓄈𓀁	37500	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥm
+
+# sent_id = IBYBYAGZgG2lz0jqv4I1H8fhjAc
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Wenn es in Windel(n) ist (d.h. noch ein Kleinkind), soll für es (die Pille) von seiner Amme in Milch zerrieben werden;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [49,22] - [50,1]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈖𓍇𓏌𓏲𓂧𓏏𓋳	81570	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nwd.t
+6	𓋴𓆛𓈖𓏌𓂝𓏏𓏲	128320	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zjn
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+11	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+12	𓏠𓈖𓂝𓏏𓂑𓁐	70360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mnꜥ.t
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYBYKGCQEpcXk85t4W96gORHo0
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Beseitigen von Harn, (wenn) er übermäßig ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+6	𓆈𓏥	41010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥšꜣ
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBYDkWYXV7qkJfsYfvRYQizsA
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYBYBHKDr6BFEZvjuirbUFgGqI
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Harnfluss (wörtl.: Fließen/Eilen des Harns):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓄿𓋴𓍬𓂻	266	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣs
+5	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBYBYPVBlUzhYEnWp4PdOWjhFJU
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = „Haarfrüchte“: 1, $gw$-Gras: 1, Bier: ein Hin-Krug.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,5]
+1	𓍁𓏏𓏥𓁸𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+4	𓂝	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+6	𓂺𓏌𓏤𓏊	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+
+# sent_id = IBcAJQWjS1cQOk8DpSyhdwCmbf4
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,6]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYBYN4QIvFKF0pHn0n37gKVJc8
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Harn, (wenn) er übermäßig ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+5	𓆈𓏥	41010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥšꜣ
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYBYLzFzmMmFk8fmHLbyNcUpmg
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAJbyEyB5FOEDksUOcMqWfpgI
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,9]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYBYPyhJyQq20g4jQoFYDUyeqs
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYBYM0B2QG5K0hTned6KCd0ApM
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,11]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBYBYHvZd6itB0QxiXMgCbFeh4g
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYBYB0mZfSCQkCQmXms4sHHgEs
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde getrunken über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,11]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBYEdHAgMdxEFml5WVobCOkbs
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Harnfluss (wörtl.: Fließen/Eilen des Harns):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,11] - [50,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓄿𓋴𓍬𓂻	266	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣs
+5	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBYBYBDqYDyG1kiTjQbf0nxj3Pk
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = „Haarfrüchte“: 1, $gw$-Gras: 1, Bier: ein Hin-Maß.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,12]
+1	𓍁𓏏𓏥𓁸𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+6	𓂺𓏌𓏊𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+
+# sent_id = IBcAJbaOjKR1wEpVnNZmpS1uBSo
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,13]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYBYF80NLKYZ015hyBz1LN0IKU
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde getrunken über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,13]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYBYFnLrBY9X0G9pTP2RgUv5dI
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Heilmittel zum Halten des Harns:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,13]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓐟𓄿𓈎𓆌𓏛	127330	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜣq
+4	𓈗𓇋𓇋𓏏𓂺	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBcAJZyrYwcZtkuFv06PtOLiMG4
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = Werde erhitzt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,19]
+1	𓋴𓂋𓆑𓊮𓏛	139380	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srf
+
+# sent_id = IBYBYNoDlsxKyEiatTx8KOGDHMY
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = werde in ein $ṯꜣb$-Gefäß gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,19]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓅷𓄿𓃀𓏊	174560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣb
+
+# sent_id = IBYBYBcUG37TQ0MRgtS58uC7Tbk
+# corpus = sawmedizin
+# src_text_id = X2UCZ7EIYNFVJEOGMUNRKY2OFQ
+# src_text = sawmedizin:Papyrus Ebers//48,21-50,21 ⸗ Eb 261-283: "Heilmittel gegen Festsetzungen von Harn und Schmerzen im Unterleib"
+# owner = Lutz Popko
+# text_de = (Es) werde am frühen Morgen hergestellt, bevor die Zeit des Frühstücks anbricht, und es werde getrunken, so dass er sofort gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [50,20] - [50,21]
+1	𓁹𓏏𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓈖𓉔𓊪𓇳	85570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nhp.w
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆣𓂋𓏏	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓈖𓍇𓏌𓏲𓇳	80840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓋴𓏏𓏭𓐎𓂋𓏤𓀁	149080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯj-rʾ
+9	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+10	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	VerbForm=Fin	_	_	_	Translit=zwr
+11	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+

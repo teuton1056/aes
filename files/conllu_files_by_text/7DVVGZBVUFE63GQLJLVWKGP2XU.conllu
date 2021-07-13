@@ -1,0 +1,24 @@
+# sent_id = IBUBd0JqkFVyDUYurWz80TGJdfM
+# corpus = bbawgrabinschriften
+# src_text_id = 7DVVGZBVUFE63GQLJLVWKGP2XU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Langhornrindes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [oberes Register]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓈖𓎼	89590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ngꜣ.w
+
+# sent_id = IBUBd0S281kJgkllj3PY6l3P7q8
+# corpus = bbawgrabinschriften
+# src_text_id = 7DVVGZBVUFE63GQLJLVWKGP2XU
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Jungtier der weißen Säbelantilope.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [unteres Register]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rn
+2	𓌉	66260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ-ḥḏ
+

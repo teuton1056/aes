@@ -1,0 +1,151 @@
+# sent_id = IBUBd5Xz3UY5w0SZrP3mhrCtWFs
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = Die Verklärung des Bürgermeisters von Theben (wörtl.: des Bürgermeisters der Stadt), Amenemhet, des Gerechtfertigten:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1]
+1	𓊃𓅜𓐍𓅱𓀁𓈓	127220	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sꜣḫ.w
+2	𓊩𓁹	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+3	𓄂𓂝	853128	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ-n-nʾ.t
+4	𓇋𓏠𓈖𓐝𓄂𓏏𓏤	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+5	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓊖𓏏	80900	PROPN	entity-name	_	_	_	_	Translit=Nʾ.t
+
+# sent_id = IBUBd7JQyUuYc0oXkhq3CaDtaTw
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = Erhebe dich, Amenemhet, Gerechtfertigter!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1] - [2]
+1	𓍿𓊃𓍞𓂻	854581	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ṯzi̯
+2	𓏏𓅱	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+3	𓇋𓏠𓈖𓐝𓄂𓏏𓏤	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+4	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd5XEfwXQk0kQnApukHAHyxA
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = Du mögest göttlich sein im Himmel bei Re
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [2]
+1	𓊹𓏏𓂋	90400	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nṯri̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+6	𓇴𓏤	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd3EQU1pSdEZQn4Snq9rWZ5k
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = Möge deiner gedacht werden vor dem Unversehrt Erwachenden!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓊃𓆼𓄿𓀁𓏏𓏲	141620	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐝𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+4	𓍞𓅱𓍑𓁺𓀭	95980	_	epitheton-title	_	_	_	_	Translit=rs-wḏꜣ
+
+# sent_id = IBUBd5pi68ua1k2OjctYunj4NyI
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = Mögest du durch Re zum Himmel gerufen werden!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3-4] - [4]
+1	𓈖𓇋𓋴𓀞𓏏𓏲	80210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=njs
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+6	𓇴	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd70WqnjQy0GdnQsJN2A41SM
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = Möge dein Körper leben,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4]
+1	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+2	𓎛𓂝𓄹𓄹𓄹	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdz0G0ITwbkWhu43JuaDbseg
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = mögen deine Gefäße fest sein!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4]
+1	𓂋𓅱𓂧𓌗𓏛	93780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwḏ
+2	𓂸𓏏𓄹𓄹𓄹	77310	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mt
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd1Dzcu5OQE3vn8JLQRZNzmg
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = Möge Re sich auf deinem Grab niederlassen, Osiris Amenemhet!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [5]
+1	𓁹𓇋𓇋	851809	VERB	verb	_	_	_	_	Translit=jri̯
+2	𓇴	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓋴𓐍𓈖𓏌𓏲𓂻𓈓	851680	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫni̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓇋𓇩𓋴𓉐	31010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jz
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓊩𓁹	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+8	𓇋𓏠𓈖𓐝𓄂𓏏𓏤	600435	PROPN	entity-name	_	_	_	_	Translit=Jmn-m-ḥꜣ.t
+
+# sent_id = IBUBdwBkqYJzXketjUr3yxe39yw
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = Deine Glieder sind vollständig in ihrer Funktion.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [6]
+1	𓂝𓏏𓄹𓄹𓄹	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓍃𓐝	854578	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=tm
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓇋𓂋𓏏𓀺	28580	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jr.t
+6	𓊃𓈖𓈓	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdxvqaQdNI0JtgN4WJhNxWjo
+# corpus = sawlit
+# src_text_id = SWR3J3XHONEOTBLEBKUG2LRVJM
+# src_text = sawlit:〈Harfnerlieder Text L: 〉Amenemhet (TT 163)//Harfnerlieder Text L
+# owner = Lutz Popko
+# text_de = indem deine Opfer wie (die des) Sokar (sind).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [7]
+1	𓊵𓏏𓊪𓏏𓈀𓈓	111360	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḥtp.t
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏇𓏏𓏏	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+4	𓊃𓎡𓂋𓏭𓀭	146890	PROPN	entity-name	_	_	_	_	Translit=Zkr
+

@@ -1,0 +1,39 @@
+# sent_id = IBUBdzMjT6MSB0HsmF5gvQZGBCo
+# corpus = sawlit
+# src_text_id = 4WRQJBWHE5G4HGMREP3F4BKT3I
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Verso C: Spruchtext
+# owner = Lutz Popko
+# text_de = Gesagt wurde, nachdem ich zu (meinem) Herzen sprach:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓆓𓂧	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓄣𓏤𓄹𓏥	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBd4D4u9Phi0MAgAyKaaljUzY
+# corpus = sawlit
+# src_text_id = 4WRQJBWHE5G4HGMREP3F4BKT3I
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Verso C: Spruchtext
+# owner = Lutz Popko
+# text_de = "Ach!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓇋𓐍𓏛	30730	PART	particle	_	_	_	_	Translit=jḫ
+
+# sent_id = IBUBd7SkficAE0FwkbpPu6rneFk
+# corpus = sawlit
+# src_text_id = 4WRQJBWHE5G4HGMREP3F4BKT3I
+# src_text = sawlit:pMoskau 127 ⸗ pPuschkin I, b, 127//Verso C: Spruchtext
+# owner = Lutz Popko
+# text_de = "Die Herzen sind gelobt worden."
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓄣𓏤𓄹𓏥	23290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jb
+2	𓎛𓎿𓋴𓏏𓀁	109620	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥzi̯
+

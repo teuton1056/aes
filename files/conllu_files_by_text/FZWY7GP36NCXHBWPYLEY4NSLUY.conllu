@@ -1,0 +1,37 @@
+# sent_id = IBUBd0l3hmhnyE2In1pq6q5yKn0
+# corpus = bbawgrabinschriften
+# src_text_id = FZWY7GP36NCXHBWPYLEY4NSLUY
+# src_text = bbawgrabinschriften:Ostwand//Beischriften, 2. Register
+# owner = Stefan Grunert
+# text_de = Das Bringen von Rind (und) Totenopfer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.12]
+1	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+2	𓇋𓍯	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+3	𓉓𓏖	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+
+# sent_id = IBUBd5pQjKIHRkcYnJcZBHueH0U
+# corpus = bbawgrabinschriften
+# src_text_id = FZWY7GP36NCXHBWPYLEY4NSLUY
+# src_text = bbawgrabinschriften:Ostwand//Beischriften, 2. Register
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Totenpriester Kai-her-setef.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.11]
+1	𓋴𓌉𓂖	550338	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-kꜣ
+2	𓎡𓁷𓊨𓏏𓆑	707695	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-ḥr-s.t⸗f
+
+# sent_id = IBUBdzRexIahEEwfpTPiNtNC4h4
+# corpus = bbawgrabinschriften
+# src_text_id = FZWY7GP36NCXHBWPYLEY4NSLUY
+# src_text = bbawgrabinschriften:Ostwand//Beischriften, 2. Register
+# owner = Stefan Grunert
+# text_de = Der Schreiber Hetep-[⸮-?].
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 2.13]
+1	𓏞	550055	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w
+2	𓊵	850830	PROPN	entity-name	_	_	_	_	Translit=-
+

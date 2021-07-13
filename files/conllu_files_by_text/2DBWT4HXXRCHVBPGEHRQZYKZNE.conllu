@@ -1,0 +1,44 @@
+# sent_id = IBUBdQQx4agDy0UKis1gJUznlBc
+# corpus = bbawgrabinschriften
+# src_text_id = 2DBWT4HXXRCHVBPGEHRQZYKZNE
+# src_text = bbawgrabinschriften:östl. Seite//Aufschrift auf Außenseite
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis gibt, ein Opfer, das Osiris gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏏𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓇋𓈖𓊪	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓊵𓏏𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+6	𓁹𓊨	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBdyTWCActkEI0sBGiMaYKtDI
+# corpus = bbawgrabinschriften
+# src_text_id = 2DBWT4HXXRCHVBPGEHRQZYKZNE
+# src_text = bbawgrabinschriften:östl. Seite//Aufschrift auf Außenseite
+# owner = Stefan Grunert
+# text_de = Er möge wandeln auf den schönen Wegen, auf denen die Ehrwürdigen wandeln, der Kammerdiener des Königs, Senior-Verwalter der Provinz, Senior-Vorsteher der Schreiber und Senior-Aufseher der Schreiber Set-kai, sein Kosename ist Si.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓐍𓊪𓂻	116050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓍯𓏏𓈐𓈐𓈐	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+5	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+6	𓐍𓊪𓊪𓏏𓂻	116050	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḫpi̯
+7	𓇋𓌳𓐍𓄪𓅱	25090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jmꜣḫ.w
+8	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+10	𓇓𓏏𓁶𓌨	450367	_	epitheton-title	_	_	_	_	Translit=ẖr.j-tp-nswt
+11	𓃥𓆝𓈘	401115	_	epitheton-title	_	_	_	_	Translit=zꜣb-ꜥḏ-mr
+12	𓃥𓅓𓂋𓏞	450596	_	epitheton-title	_	_	_	_	Translit=zꜣb-jm.j-rʾ-zẖꜣ.ww
+13	𓃥𓋴𓌉𓏞	450125	_	epitheton-title	_	_	_	_	Translit=zꜣb-sḥḏ-zẖꜣ.ww
+14	𓋴𓊨𓏏𓂓	400350	PROPN	entity-name	_	_	_	_	Translit=S.t-kꜣ⸗j
+15	𓂋𓈖	94780	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn-nfr
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓄤	_	_	_	_	_	_	_	_
+18	𓋴𓇋	_	X	unknown	_	_	_	_	_
+

@@ -1,0 +1,33 @@
+# sent_id = IBcAJguXlJCgx02wq4FnxSQZd4M
+# corpus = sawmedizin
+# src_text_id = J2W4FMT5QREBRAMQOM25T5WYYE
+# src_text = sawmedizin:oTurin CGT 57104//oTurin CGT 57104 recto
+# owner = Ines Köhler
+# text_de = Rumpf/Bauch
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1,1]
+1	𓄡𓏏𓏯𓄹	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+
+# sent_id = IBcAJgTb1hWQVkSHlmREYJ7fK5s
+# corpus = sawmedizin
+# src_text_id = J2W4FMT5QREBRAMQOM25T5WYYE
+# src_text = sawmedizin:oTurin CGT 57104//oTurin CGT 57104 recto
+# owner = Ines Köhler
+# text_de = Lunge
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1,2]
+1	𓏲𓆑𓄿𓄹	45860	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wfꜣ
+
+# sent_id = IBcAJoWvYnQJw00NrHuMTs0AwJI
+# corpus = sawmedizin
+# src_text_id = J2W4FMT5QREBRAMQOM25T5WYYE
+# src_text = sawmedizin:oTurin CGT 57104//oTurin CGT 57104 recto
+# owner = Ines Köhler
+# text_de = Eingeweide
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1,5]
+1	𓅓𓂝𓄡𓏏𓏲𓄹	74690	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mẖt.w
+

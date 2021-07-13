@@ -1,0 +1,45 @@
+# sent_id = IBUBd9Fie8tQgk6goNZHNYdMfio
+# corpus = bbawgraeberspzt
+# src_text_id = I2MUUZJHENBWHCUNSB2EDXNLYY
+# src_text = bbawgraeberspzt:〈unteres Register〉//CT III 390b-g (CT 262 Anfang)
+# owner = Doris Topmann
+# text_de = Einziger, Kollege der beiden Götter (?), der die Menschen versorgt(?).
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [3.2] - [12]
+1	𓌡𓏤𓂝	600041	ADJ	adjective	_	_	_	_	Translit=wꜥ
+2	𓌢𓈖𓏌	550359	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sn.nw
+3	𓊹𓊹	851539	_	epitheton-title	_	_	_	_	Translit=nṯr.wj
+4	𓋹𓈖𓐍	128910	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜥnḫ
+5	𓂋𓍿𓀀𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBd5JQQL9sW0tWuJqSEq1YiCY
+# corpus = bbawgraeberspzt
+# src_text_id = I2MUUZJHENBWHCUNSB2EDXNLYY
+# src_text = bbawgraeberspzt:〈unteres Register〉//CT III 390b-g (CT 262 Anfang)
+# owner = Doris Topmann
+# text_de = Ich gehöre nicht zum Gau des Schweigens.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [13]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+3	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+5	𓈙𓏏𓏤𓇋𓌨𓂋	550432	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=spꜣ.t-jgr.t
+
+# sent_id = IBUBdWQEU5Gwkk1OoS6CQWy40Rw
+# corpus = bbawgraeberspzt
+# src_text_id = I2MUUZJHENBWHCUNSB2EDXNLYY
+# src_text = bbawgraeberspzt:〈unteres Register〉//CT III 390b-g (CT 262 Anfang)
+# owner = Doris Topmann
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [13] - [14]
+1	𓋴𓇥𓂋𓈖	_	_	_	_	_	_	_	_
+2	𓇿𓏤𓈅	_	_	_	_	_	_	_	_
+3	𓊪𓈖	_	_	_	_	_	_	_	_
+4	𓎛𓋴𓃀𓏴𓏛	_	_	_	_	_	_	_	_
+5	𓋴𓍑𓄿𓇋𓇋𓏛	_	_	_	_	_	_	_	_
+6	𓂋𓂝𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+

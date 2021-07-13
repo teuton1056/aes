@@ -1,0 +1,1925 @@
+# sent_id = IBUBd5U8vwihWEVrqINlu0Z3xmQ
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = Die Enthüllungen der Geheimnisse der Vier Kugeln aus Ton, die man zum Schutze des Osiris Chontamenti im täglichen Zyklus fertigt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,1]
+1	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+2	𓄋𓊪𓏏𓏴𓏫	852648	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=wp
+3	𓈙𓇾𓏴𓏛𓏫	158120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=štꜣ.w
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓏤𓏤𓏤𓏤𓏏	850814	SYM	numeral	Number=Sing|Status=Cons	_	_	_	Translit=1...n
+6	𓃀𓈖𓈖𓈒𓏥	55890	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bnn.t
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓋴𓇋𓆛𓈖𓐎𓈇𓏤𓏫	128340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjn
+9	𓈖𓏏𓏭𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+10	𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+11	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+12	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+13	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+15	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+16	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓏤𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+17	𓅓𓌨𓂋𓏏𓏰𓏤𓏥𓇳𓏤	650025	ADV	adverb	_	_	_	_	Translit=m-ẖr.t-hrw
+18	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+19	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBd4S70Gnv10B2mOwiZwVBUwI
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = Werfen (der Kugeln) nach Süden, Norden, Westen (und) Osten (und dabei) Rezitieren.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,2]
+1	𓆼𓄿𓂝𓂻	113560	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜣꜥ
+2	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇓𓏏𓏏𓏤𓏫	96011	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rs.j
+4	𓎔𓏏𓏏𓏤𓏫	73561	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ.tj
+5	𓋀𓏏𓏏𓏤𓏫	26151	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmn.tj
+6	𓋁𓃀𓏏𓏏𓏤𓏫	20590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣb.tjt
+7	𓆓𓂧𓌃𓏤𓏫	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = IBUBd9WVQvGCAkKIhSf9YQ9sY0I
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Du bist es, der (feindlich) zu dem 'Gesicht des Widders' gesagt hat: 'sein Name ist verflucht'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,5]
+1	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+2	𓇋𓏲𓆇𓏲	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓁷𓏤𓏰𓈖𓊃𓂋𓇋𓏲𓄜𓅆	852811	_	epitheton-title	_	_	_	_	Translit=Ḥr-n-sr
+7	𓐍𓃀𓏏𓏮𓐎	115990	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫbḏ
+8	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5FKYxCeb0zBpiHw7HFDdZc
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Denn) Re, er wird (dir auf) dein Haupt schlagen (und) er wird deinen Ba vernichten!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,5]
+1	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+2	𓎛𓀜𓏷𓏛𓀜	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7N0yuWbnkHtnzCzVW5AvS4
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Du sollst (also) nicht näherkommen, um den 'Großen Gott' zu sehen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,5] - [26,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓄚𓈖𓏌𓏲𓂻	123110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖn
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+6	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+
+# sent_id = IBUBdwplTEcCeUQDnh5hbOlNT1c
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Komm, erhebe dich Osiris Chontamenti, (denn) deine Widersacher sind gefallen (und) du triumphierst über deine Feinde!" - vier Mal -
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,6]
+1	𓅓𓂝𓇋𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓎀𓊃𓍟𓂻	854581	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ṯzi̯
+3	𓏲𓏏	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓈉𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+5	𓅓𓂝𓎡	64440	PART	particle	_	_	_	_	Translit=m
+6	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sbj
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓐍𓂋𓀒	119610	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫr
+9	𓆄𓊤𓏲𓀁	66730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜥ-ḫrw
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓐍𓆑𓏏𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+13	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+15	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd3ZrVvZsIEblkJnxPwL3Pis
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Halte dich zurück, weiche zurück du, wende dich ab ("dein Gesicht hinter dich"), du sollst nicht dem erhabenen Gottelsleib (zu) nahe kommen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,8] - [26,9]
+1	𓇋𓆛𓈖𓏏𓏭𓂽	27980	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jntj
+2	𓏲𓏏𓎡	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+3	𓈟𓅓𓂽	105200	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥmi̯
+4	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓈖𓇉𓄿𓁶	600068	ADP	preposition	_	_	_	_	Translit=n-ḥꜣ
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓇋𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓏏𓎡𓈖𓂻	173680	VERB	verb	VerbForm=Fin	_	_	_	Translit=tkn
+13	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+14	𓏤𓊹𓎛𓂝𓏤𓄹𓏫	102030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w-nṯr
+15	𓀼𓋴𓅆	851690	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=špsi̯
+
+# sent_id = IBUBdQOWAecWn0Eyh3FlBNC2xbM
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Denn) man wird (dir auf) dein Haupt schlagen (und) man wird deinen Ba vernichten!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,10]
+1	𓎛𓀜𓏷𓏛𓀜	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+2	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓁶𓏤𓏰	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+6	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+7	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdw3nDYIM604GuBqPc1vja5Q
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Man wird nicht zulassen, (daß) du näherkommst, um den 'Großen Gott' zu sehen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,10]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+4	𓄚𓈖𓏌𓏲𓂻𓏭	123110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖn
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+8	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+
+# sent_id = IBUBd4bZ0LYrQkoKu8HXQRDaNNM
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = Dritte (Strophe): "Oh Be (Seth)" - zwei Mal - "Oh Haru (Sethtier)" - zwei Mal - "Oh Seth, wo bist du hin wegen Osiris?"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,12] - [26,13]
+1	𓎔𓏥𓏏	871421	SYM	numeral	_	_	_	_	Translit=mḥ-1...n
+2	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+3	𓃀𓏤𓏱	52800	PROPN	entity-name	_	_	_	_	Translit=B
+4	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+5	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+7	𓉔𓄿𓃭𓏤𓏱	97800	_	epitheton-title	_	_	_	_	Translit=hj.w
+8	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+9	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+11	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+12	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+13	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓂋𓏏𓈖𓏌𓏲𓌙𓅭𓏛	_	X	unknown	_	_	_	_	_
+15	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBd0hOWbzHmU6yor6Rd4evuo0
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Doch) Osiris Chontamenti geht hervor als Triumphierender (Gerechtfertigter) über dich, Seth, (und auch) der Osiris Imhotep hier selig, geboren von dieser Tjehnet selig, geht hervor als Thriumphierender (Gerechtfertigter)!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,15]
+1	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓏤𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+2	𓉐𓂋𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆄𓊤𓏲𓀁	66730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜥ-ḫrw
+5	𓇋𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+8	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+9	𓂻𓅓𓊵𓏏𓊪𓀀	400243	PROPN	entity-name	_	_	_	_	Translit=Jy-m-ḥtp
+10	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+11	𓆄𓊤𓏰	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+12	𓄟𓋴𓏰	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+13	𓈖	400042	PART	particle	_	_	_	_	Translit=n
+14	𓍘𓎛𓈖𓈒𓏥𓏏𓆇𓀀	709279	PROPN	entity-name	_	_	_	_	Translit=Ṯḥn.t
+15	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+16	𓉐𓂋𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓆄𓊤𓏲𓀁	66730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd95XqygmQECWrTor3WMjCRU
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Oh) Seth, geschlagen ist dein Haupt, vernichtet ist dein Ba!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,16]
+1	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+2	𓎛𓀜𓏷𓏛𓀜	854530	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥwi̯
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥtm
+6	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQUcKLZelUZSrXfO4P1SK1Y
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Du kannst (also) nicht näherkommen, um den 'Großen Gott' zu sehen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,16]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓄚𓈖𓏌𓏲𓂻	123110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖn
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+6	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+
+# sent_id = IBUBdxeThzdd6UYsmpVQXhzcJwk
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Komm, erhebe dich Osiris Chontamenti (und) Osiris Imhotep hier selig, (denn) gefällt sind deine Widersacher (und) du triumphierst über deine Feinde!" - vier Mal -
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [26,16] - [27,1]
+1	𓅓𓂝𓇋𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓎀𓊃𓍟𓂻	854581	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ṯzi̯
+3	𓏏𓏲	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+4	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓏤𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+5	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+6	𓂻𓅓𓊵𓏏𓊪𓀀	400243	PROPN	entity-name	_	_	_	_	Translit=Jy-m-ḥtp
+7	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+8	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+9	𓅓𓂝𓎡	64440	PART	particle	_	_	_	_	Translit=m
+10	𓋴𓐍𓂋𓀒	142780	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=sḫr
+11	𓋴𓃀𓇋𓏲𓌙𓏱𓏥	131530	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sbj
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓆄𓊤𓏲𓀁	66730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜥ-ḫrw
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓐍𓆑𓏏𓏱𓏥	116800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫft.j
+17	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+18	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+19	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd5uM2GxDE0opqwWONrxxqfg
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = Vierte (Strophe): "Oh Seth, wo bist du hin wegen Osiris, 'der verehrungswürdigen Mumie, die im Schlafe ist'?"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,1]
+1	𓎔𓏤𓏤𓏤𓏤𓏏	871421	SYM	numeral	_	_	_	_	Translit=mḥ-1...n
+2	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+3	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+4	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓂋𓏏𓈖𓏌𓏲𓌙𓅭𓏛	_	X	unknown	_	_	_	_	_
+7	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+9	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+10	𓊃𓂝𓎛𓏲𓋩𓀽𓅆𓀻𓋴𓅆𓈖𓏏𓏭𓅓𓐪𓂧𓏌𓏛𓁻	852816	_	epitheton-title	_	_	_	_	Translit=sꜥḥ-šps.j-n.tj-m-qd
+
+# sent_id = IBUBd0uih6jyPkzCpm30sheQmLo
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Wende dein Gesicht ab ("hinter dich) (und) schaue du zum Osten des Himmels, (daß) du deinen Vater Re-Harachte siehst schlafend im Innern eines Feuerbeckens in Flammen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,2] - [27,3]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓁷𓏤𓄹	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓈖𓇉𓄿𓁶	600068	ADP	preposition	_	_	_	_	Translit=n-ḥꜣ
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓈖𓍇𓏌𓏲𓁻	80800	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nwꜣ
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓋁𓃀𓏏𓈇𓏤𓏥	20590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣb.tjt
+10	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+12	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+13	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+15	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓇳𓅆𓅃𓅆𓈃𓅆	70002	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-Ḥr.w-ꜣḫ.tj
+17	𓈖𓌱𓅓𓂝𓁀𓂡	84220	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nmꜥ
+18	𓅓𓏌𓉐𓈖	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+19	𓂝𓐍𓊮	40500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḫ
+20	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+21	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBd4x0vI6XG0IrrsQIXfW59k4
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Wenn du dich nähern solltest, um Macht zu erlangen über den Gottesleib, wird er (Re-Harachte) verbrennen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏏𓎡𓈖𓂻	173680	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tkn
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌂𓅓𓏛𓀜	851679	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḫm
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓏤𓊹𓎛𓂝𓏤𓄹𓏫	102030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w-nṯr
+8	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓍑𓄿𓆑𓏭𓊮	182120	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏꜣf
+
+# sent_id = IBUBd3fYA5AkMkF7oCtclTZvOLo
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Wenn du dich (aber) nicht dem Gotteleib nähern solltest, wird er (Re-Harachte) unversehrt sein!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,3] - [27,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏏𓍃𓅓𓏛	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏏𓎡𓈖𓂻	173680	VERB	verb	VerbForm=Fin	_	_	_	Translit=tkn
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓏤𓊹𓎛𓂝𓏤𓄹𓏫	102030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w-nṯr
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓍑𓄿𓏭𓏛	52090	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
+
+# sent_id = IBUBdQQNWumqIUglkwjdXK1rfQg
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Denn) Re wird (dir auf) dein Haupt schlagen, er wird deine Wirbelknochen zerbrechen (und) er wird deinen Ba vernichten!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,4]
+1	𓎛𓀜𓏷𓏛𓀜	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓁶𓏤𓏰	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓏴𓂡	126330	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zꜣw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓋭𓏏𓄹𓏥	176930	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ṯꜣz.t
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6MGNQmcGkjoqRyCCEwVOAc
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = Du sollst (also) nicht näherkommen, um den 'Großen Gott' zu sehen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,4]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓄚𓈖𓏌𓏲𓂻	123110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖn
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌳𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+6	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+
+# sent_id = IBUBd72XyvKrCUq0rGiMfJA79c8
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = Zu rezitieren über den vier Kugeln aus Ton (und) werfen (der Kugeln) nach Süden, Norden, Westen (und) Osten als Schutz(kräfte) für diesen Gott.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,6]
+1	𓆓𓂧𓌃𓏤𓏫	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓃀𓈖𓈖𓈒𓏥	55890	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=bnn.t
+4	𓏤𓏤𓏤𓏤𓏏	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓋴𓐎𓈖𓏏𓈇𓏤𓏫	128340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjn
+7	𓆼𓄿𓂝𓂻	113560	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜣꜥ
+8	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓇓𓏏𓈇𓏤𓏫	96011	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rs.j
+10	𓎔𓏏𓏏𓏤𓏫	73561	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ.tj
+11	𓋀𓏏𓏏𓏤𓏫	26151	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmn.tj
+12	𓋁𓃀𓏏𓈇𓏤𓏫	20590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣb.tjt
+13	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zꜣ
+15	𓅨𓂋	47271	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=wr
+16	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+17	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+18	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdzx2D1qVU0tnkUNEU8lhfY0
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Wenn man fragt (nach) Osiris Imhotep hier selig bei euch, 'Phönix' sollt ihr dann zu ihm sagen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,10] - [27,11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓐩𓏌𓏏𓀁	90910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+3	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+5	𓇍𓇋𓂻𓅓𓊵𓏏𓊪𓏮𓏛𓀀	400243	PROPN	entity-name	_	_	_	_	Translit=Jy-m-ḥtp
+6	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+7	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+8	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+9	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+10	𓃀𓈖𓏌𓏲𓅭𓅆	55590	PROPN	entity-name	_	_	_	_	Translit=Bn.w
+11	𓎡𓄿𓀁	162850	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣ
+12	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+13	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3AjMDqts0dHtRcV1cWWOeg
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Eure Kraft sei wie die Kraft des Month (und) eure Fessel sei wie die Fessel der Selket, (wenn) ihr Seth (und) die Feinde des Osiris packt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,15] - [27,16]
+1	𓄖𓏏𓏮𓄇𓄇𓏛𓀜	61400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.tj
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓄖𓏏𓏭𓄇𓄇𓏛𓀜	61400	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pḥ.tj
+5	𓏠𓈖𓍘𓇋𓅆	71660	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w
+6	𓈎𓄿𓇋𓋴𓏴𓀜	159480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qꜣs
+7	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+8	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+9	𓈎𓄿𓇋𓋴𓏴𓀜	159480	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=qꜣs
+10	𓋴𓂋𓈎𓏏𓆇𓅆	139850	PROPN	entity-name	_	_	_	_	Translit=Srq.t
+11	𓈖𓇥𓏤𓂋𓇋𓏲𓏛𓀜	91670	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏri̯
+12	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+13	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+14	𓐍𓆑𓏏𓏱𓏌𓏤𓊨𓇳𓅆	852831	PROPN	entity-name	_	_	_	_	Translit=Ḫft.jw-n.w-Wsjr
+
+# sent_id = IBUBd41lO7Qm105gjpuyxNPj56Q
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Kommt, wacht über euren Herrn 'Osiris Onnophris den Thriumphierenden', den König der Götter, (und) gewährt seinen Schutz ewiglich wie (für) Re!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [27,16] - [28,1]
+1	𓅓𓂝𓇋𓂻𓈖𓏥	67770	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+2	𓂋𓊃𓍟𓁻	95940	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=rs
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓈖𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+5	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+6	𓊨𓇳𓅆𓃹𓈖𓄤𓏤𓅆𓆄𓊤	852828	_	epitheton-title	_	_	_	_	Translit=Wsjr-Wnn-nfr-mꜣꜥ-ḫrw
+7	𓇓𓏏𓈖𓅆𓊹𓊹𓊹𓅆𓏫	550228	_	epitheton-title	_	_	_	_	Translit=nswt-nṯr.w
+8	𓁹𓂋𓏭	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+9	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+10	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓂋𓎛𓎛𓇳	_	X	unknown	_	_	_	_	_
+13	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+14	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd6xrQTIX1kBxklbdXPWQRxM
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Richtet euren Gluthauch von Feuer gegen Seth den Elenden und seine Komplizen (und) wehrt ihn ab von jedem Ort, an dem Osiris (gerade) ist!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,1] - [28,2]
+1	𓂞𓏏	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓉔𓉔𓊮	99260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=hh
+4	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+5	𓅓	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+7	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+9	𓄡𓊃𓏲𓅪	852832	_	epitheton-title	_	_	_	_	Translit=ẖz
+10	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+11	𓄥𓄿𓅓𓇋𓇋𓏱𓏥	134610	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=zmꜣ.yw
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓂝𓌳𓄿𓅓𓅷𓏤𓂽	37990	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥmḏ
+14	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+15	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+16	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+17	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+18	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+19	𓈖𓏏𓏭𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+20	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+21	𓇋𓅓𓏛	64360	ADP	preposition	_	_	_	_	Translit=m
+22	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBdyEmns5mR00GrK8kB0hgFo0
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Schneidet seinen Kopf ab, vernichtet seinen Ba (und) werft sein Fleisch, seine Knochen (und) seinen Ba ins Feuer!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,2]
+1	𓎛𓋴𓈎𓌪𓂡	110200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓁶𓏤𓏰	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓎛𓍟𓅓𓏏𓅭𓅪	141190	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥtm
+6	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂞𓏏	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+10	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+11	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓌟𓏤𓄹𓏥	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+18	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBd8q6XnYTXEOfohNaWMY7uQU
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Laßt nicht zu, (daß) er sich irgendeinem Ort nähern kann, an dem Osiris (gerade) ist!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,2] - [28,3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂞𓏏	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓄚𓈖𓏌𓏲𓂻	123110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖn
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+8	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+9	𓈖𓏏𓏮𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+10	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBd1Wihl5iWUKMl76q9MVUhNs
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Euer Schutz ist der Schutz des 'Osiris Onnophris des Thriumphierenden' " - und in umgekehrter Reihenfolge zu lesen - " ihr sollt (also) beständig euren Auftrag für euren Herrn ewiglich betreiben, (damit) er euch lobe!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,4] - [28,5]
+1	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+3	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+4	𓊨𓇳𓅆𓃹𓈖𓄤𓏤𓅆𓆄𓊤	852828	_	epitheton-title	_	_	_	_	Translit=Wsjr-Wnn-nfr-mꜣꜥ-ḫrw
+5	𓋭𓂋	177140	X	undefined	_	_	_	_	Translit=ṯꜣz-pẖr
+6	𓋴𓂋𓏲𓂧𓌗	139340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srwḏ
+7	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+8	𓄋𓊪𓏏𓏴𓀜	45750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wpw.t
+9	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓈖𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+12	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+13	𓇋𓏲𓎛𓎛𓇳	_	X	unknown	_	_	_	_	_
+14	𓎛𓎿𓋴𓀁	109620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥzi̯
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓏏𓈖𓏥	175650	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
+
+# sent_id = IBUBd7TNb8f2AEOwiiZ7sQ6uesI
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Ich bin Thot, ich spreche zu euch noch einmal mit der Rede des Re, (denn) man sprach zu euch (davon) (schon) zuvor, hört (also), was ich sage!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,8] - [28,9]
+1	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓏏𓅝𓏭𓅆	185290	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj
+3	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+9	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+10	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+11	𓅓𓏴𓄙𓅓𓏛	64700	ADV	adverb	_	_	_	_	Translit=m-wḥm
+12	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+13	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+14	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+15	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+16	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+17	𓅓𓏅𓈖𓏏𓏭𓂉	65280	ADV	adverb	_	_	_	_	Translit=m-ḫnt
+18	𓄔𓅓𓏛	150560	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḏm
+19	𓆓𓂧𓏏𓏥	185810	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḏd
+20	𓅆	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd5k4rchm8Ux7jOb8svtpZZU
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Ich bin Thot, der Schreiber der Maat der Götterneunheit, alles was aus meinem Munde herauskommt nimmt Gestalt an (verwirklicht sich) wie (als wäre es von) Re!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,10]
+1	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓏏𓅝𓏭𓅆	185290	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj
+3	𓏞𓏲𓏲𓏛𓆄𓏏𓏛𓅆𓈖𓇸𓏛𓊹𓊹𓊹𓅆𓏫	852841	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-Mꜣꜥ.t-n-psḏ.t
+4	𓆣𓂋𓏛	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+5	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=pri̯
+6	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+10	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+11	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBd9NL6cuK5EtWrrvSFgusQqQ
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Ich bin 'Der, dessen Abwehr im Himmel (und) auf Erden unmöglich ist, (denn) ich kenne das, was verborgen ist im Himmel, was unzugänglich ist in der Erde (und) was versteckt ist im Nun!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,10] - [28,11]
+1	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓂜𓏏𓏏𓅪𓍚𓏛𓀜𓆑𓅓𓏏𓇯𓅆𓅓𓇾𓏤𓈇	852842	_	epitheton-title	_	_	_	_	Translit=jw.tj-ḫsf⸗f-m-p.t-m-tꜣ
+3	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓂋𓐍𓏛𓎡𓏲𓀀	95620	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=rḫ
+6	𓇋𓏠𓈖𓀅	500080	ADJ	adjective	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jmn
+7	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+9	𓂦𓂋𓏛	854592	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏsr
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+12	𓌅𓊪𓏲𓂻𓏥	101300	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥꜣp
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓏌𓏌𓏌𓇯𓈗𓈘𓏤𓈇𓅆	500005	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw.w
+
+# sent_id = IBUBd79nrYDq606Mk5DYFxqQOQ4
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Ich bin 'Der den Himmel schuf' (und) 'Der die beiden Gebirgszüge zuerst entstehen ließ'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,11]
+1	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓈎𓌳𓄿𓅓𓌙𓅭𓏛𓏏𓇯𓅆	852843	_	epitheton-title	_	_	_	_	Translit=qmꜣ-p.t
+3	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+4	𓆷𓄿𓂝𓏛𓈋𓈋𓏲𓏲𓊌𓏥	852844	_	epitheton-title	_	_	_	_	Translit=šꜣꜥ-ḏw.wy
+
+# sent_id = IBUBd9AWIvTSoEexhMwPK4fWmIo
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Ich bin 'Der den Fluß ersann' (und) 'Der die Flußarme erschuf'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,11] - [28,12]
+1	𓏌𓀀𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓍯𓄿𓏲𓏲𓀁𓇋𓏏𓏲𓂋𓈗𓈘𓏤𓈇	852845	_	epitheton-title	_	_	_	_	Translit=wꜣ.w-jtr.w
+3	𓁹𓂋𓏭𓎛𓆰𓈖𓏌𓏲𓈗𓈘𓈇	852846	_	epitheton-title	_	_	_	_	Translit=jr-ḥn.w
+
+# sent_id = IBUBdzzLKJRe90WZjiXHZtHsVBY
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Nachdem) ich die Nilüberschwemmung gebracht habe, lasse ich die Felder sprießen (und) lasse ich Götter und Menschen leben!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,12]
+1	𓏎𓈖𓈖	26870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓄹𓂐𓈗𓈘𓏤𓈇𓅆	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+4	𓋴𓂋𓂧𓌗𓈖	139920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srd
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓇏𓏏𓈇𓏤𓏫	141480	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḫ.t
+7	𓋴𓋹𓈖𓐍𓏛𓈖	128910	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥnḫ
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+10	𓂋𓏏𓀀𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBdweXmXcmXUNHuijxrjKrHFw
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Kommt (also) (ihr) Götter, hört meine Rede als des Re eigene Rede!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,12] - [28,13]
+1	𓅓𓂝𓇋𓂻𓈖𓏥	67770	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+2	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+3	𓄔𓅓𓏛	150560	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḏm
+4	𓆓𓂧𓏛𓏥	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓅆	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆓𓂧𓏛𓏥	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+10	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9CNVMY8tEW4sHsXUOcPbo4
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "So wie ihr Schutz gewährtet für Re (und) die Wache gesichert habt, die Re euch übergeben hatte, so sollt ihr wachen über Osiris Chontamenti, Onnophris den Thriumphierenden (und den) Osiris Imhotep hier selig, euren Herrn, den König der Götter, den Herrscher der Herrscher!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,14] - [28,15]
+1	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+2	𓁹𓂋𓏭	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+7	𓋴𓏲𓍑𓄿𓏛	130960	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swḏꜣ
+8	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+9	𓂋𓊃𓍟𓁻𓉐	852848	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rs
+10	𓂞𓏏	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+13	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+14	𓇋𓐍𓏛	30730	PART	particle	_	_	_	_	Translit=jḫ
+15	𓁹𓂋𓏮	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+16	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+17	𓂋𓊃𓍟𓁻	95940	VERB	verb	VerbForm=Fin	_	_	_	Translit=rs
+18	𓂋𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓈉𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+20	𓃹𓈖𓄤𓏤𓅆𓆄𓊤	851633	_	epitheton-title	_	_	_	_	Translit=Wnn-nfr-mꜣꜥ-ḫrw
+21	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+22	𓂻𓅓𓊵𓏏𓊪𓅆	400243	PROPN	entity-name	_	_	_	_	Translit=Jy-m-ḥtp
+23	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+24	𓆄𓊤𓏰	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+25	𓈖𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+26	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+27	𓇓𓏏𓈖𓅆𓊹𓊹𓊹𓅆𓏫	550228	_	epitheton-title	_	_	_	_	Translit=nswt-nṯr.w
+28	𓋾𓈎𓅆𓋾𓈎𓅆𓏫	852847	_	epitheton-title	_	_	_	_	Translit=ḥqꜣ-ḥqꜣ.w
+
+# sent_id = IBUBd3J1Iu9LMEEJvfBvcsl1mQU
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Kommt, wehret Seth und seine Komplizen von jedem Ort ab, an dem Osiris Chontamenti, Onnophris der Thriumphierende (gerade) ist, (und) von jedem Ort, an dem (der) Osiris Imhotep hier selig (gerade) ist!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [28,15] - [28,16]
+1	𓅓𓂝𓇋𓂻𓈖𓏥	67770	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=mj
+2	𓂝𓌳𓄿𓅓𓅷𓏤𓂽	37990	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥmḏ
+3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+4	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+5	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+6	𓋴𓅓𓇋𓇋𓏱𓏥	134610	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=zmꜣ.yw
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+10	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+11	𓈖𓏏𓏭𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+12	𓊨𓇳𓅆𓂉𓋀𓏏𓏏𓈉𓅆	500288	PROPN	entity-name	_	_	_	_	Translit=Wsjr-Ḫnt.j-jmn.tjw
+13	𓃹𓈖𓄤𓏤𓅆𓆄𓊤	851633	_	epitheton-title	_	_	_	_	Translit=Wnn-nfr-mꜣꜥ-ḫrw
+14	𓇋𓅓𓏛	64360	ADP	preposition	_	_	_	_	Translit=m
+15	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+16	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+17	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+18	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+19	𓈖𓏏𓏭𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+20	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+21	𓂻𓅓𓊵𓏏𓊪𓀀	400243	PROPN	entity-name	_	_	_	_	Translit=Jy-m-ḥtp
+22	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+23	𓆄𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+24	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+25	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+
+# sent_id = IBUBdy7uCcwt0EfgkqRxhQL8AvM
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Zurück mit dir ("hinter dich"), Seth, deine beiden Augen sind blind, (so daß) du nicht (mehr) sehen kannst, deine beiden Ohren sind taub, (so daß) du nicht (mehr) hören kannst, deine beiden Beine sind umgewendet, (so daß) du nicht (mehr) gehen kannst, deine Hände sind gebunden, (so daß) du nicht (mehr) zupacken kannst, wenn du aus dem Himmel herauskommst!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [29,4] - [29,5]
+1	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+4	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓈙𓊪𓁻	153620	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=šp
+7	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+8	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓋹𓋹𓏲𓏭𓄔𓄔𓄹𓏥	38930	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥnḫ.wj
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓇋𓄿𓂧𓄔	33890	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jdi̯
+13	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+14	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+15	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓂾𓂾𓄹	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+17	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+18	𓂝𓈖𓂽	38040	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnn
+19	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+20	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+21	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+22	𓂝𓂝𓏲𓏭𓏥	34360	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ
+23	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+24	𓈎𓈖𓃀𓏲𓏴𓀜	161330	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qnb
+25	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+26	𓐍𓆑𓂝𓂬𓄹	116630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫfꜥ
+27	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+28	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+29	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+30	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+31	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+32	𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd8gJQXacvU3wmPvWDPLnQfI
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Zurück mit dir ("hinter dich"), Seth, 'Die über dem Himmel  sind' werfen dich nieder, 'Die Götter im Himmel', sie erfüllen ihre Bestimmung an dir, sie werfen dein Fleisch, deine Knochen (und) deinen Ba in das Feuer, das aus der 'Verbrennerin' entspringt!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [29,6] - [29,7]
+1	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+4	𓋴𓐍𓂋𓀒	142780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫr
+5	𓏏𓏲𓎡	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+6	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+7	𓁷𓂋𓇯𓏲𓏥𓏏𓇯𓅆	852944	PROPN	entity-name	_	_	_	_	Translit=Ḥr.jw-p.t
+8	𓊹𓊹𓊹𓅆𓏫𓅓𓏏𓇯𓅆	852946	PROPN	entity-name	_	_	_	_	Translit=Nṯr.w-m-p.t
+9	𓁹𓂋𓏭	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+10	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+11	𓈖𓏏𓂝𓏤𓏛𓏥	89770	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n.t-ꜥ
+12	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+13	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+16	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+17	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+18	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+19	𓌟𓏤𓄹𓏥	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+20	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+21	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+22	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+23	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+24	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+25	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+26	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+27	𓄋𓊪𓊨𓊮𓅆	45810	PROPN	entity-name	_	_	_	_	Translit=Wps.t
+
+# sent_id = IBUBd3TngptgmUXIndYMPuHE18s
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Die 'Verzehrende (Flamme), sie verzehrt deinen Leib (und) dein Fleisch, sie verbrennt deine Knochen zu Asche!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [29,7]
+1	𓏶𓅓𓇋𓇋𓏏𓊮𓅆	852396	_	epitheton-title	_	_	_	_	Translit=wnm.yt
+2	𓏶𓅓𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓎛𓂝𓏤𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓂋𓎡𓎛𓏲𓊮	96440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rkḥ
+9	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+10	𓌟𓏤𓄹𓏥	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓋴𓋴𓆑𓊮	144010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ssf
+
+# sent_id = IBUBdzWQQpv72Ug2mhPwWtvqEKo
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Oh Seth, du bist es, der (feindlich) zu dem 'Gesicht des Widders' gesagt hat: 'verflucht ist sein Name'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,1] - [30,2]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+4	𓇋𓀁𓁹𓂋𓏭	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+8	𓁷𓏤𓏰𓈖𓊃𓂋𓇋𓏲𓄜𓅆	852960	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫ.t-m-ḥr.j-jb-Wꜣḏ-wr
+9	𓐍𓃀𓏏𓏭𓐎	115990	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫbḏ
+10	𓂋𓈖𓅆	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQVIoxrq8EywsA7uE0XNQkw
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Du hast 'den geheimen (Sarg-)Kasten, der in Heliopolis ist' geöffnet, um zu sehen, was in ihm ist, (obwohl) er versiegelt war mit dem Siegel der 77 Götter!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,2]
+1	𓃹𓈖𓉿𓂡	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+4	𓂝𓆑𓂧𓆱𓏏𓏤𓈙𓇾𓏴𓏏𓈖𓏏𓏭𓅓𓉺𓏌𓊖𓅆	852943	PROPN	entity-name	_	_	_	_	Translit=Ꜥfḏ.t-štꜣ.t-n.tj-m-Jwn.w
+5	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈖𓍇𓏌𓏲𓁻	80800	VERB	verb	VerbForm=Fin	_	_	_	Translit=nwꜣ
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+10	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓐍𓏏𓅓𓋩𓀜𓏲𓏏	121710	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫtm
+13	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓐍𓏏𓅓𓋩	121690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫtm
+15	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+16	𓏤𓊹𓅆𓎆𓎆𓎆𓎆𓎆𓎆𓎆𓏤𓏤𓏤𓏤𓏤𓏤𓏤	852947	PROPN	entity-name	_	_	_	_	Translit=Nṯr.w-77
+
+# sent_id = IBUBdwFWMrAOhUOdpISUUWrn73s
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Du hast den Schrein von einer Elle aufgebrochen, in dem der 'große geheimnisvolle Skarabäus war!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,2] - [30,3]
+1	𓋴𓂧𓄑𓏛𓀜	150110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓎡𓂋𓇋𓏲𓏏𓉐𓅆	163620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣr
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎔𓂝	73330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+10	𓆣𓂋𓂋𓅭𓅆𓉻𓂝𓏛𓈙𓇾𓏴𓏛𓅆	852948	PROPN	entity-name	_	_	_	_	Translit=Ḫprr-ꜥꜣ-štꜣ
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzHQ95KymUQ9hqxZhTsOiZs
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Doch) Re wird (dir auf) dein Haupt schlagen (und) er wird deinen Ba vernichten!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,3]
+1	𓎛𓀜𓏷𓏛𓀜	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+2	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd8akj9rikk0erjLR38agcTk
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Denn) jede Gestalt von dir (und) jeder Name von dir, er wird täglich zu Fluchfiguren gemacht in Gegenwart von Re (und) in Gegenwart der Götterneunheit!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,4] - [30,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓐪𓂧𓏌𓏛𓏥	162430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qd
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+5	𓂋𓈖𓏱	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+8	𓁹𓂋𓏭𓏲𓏏	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓍟𓏏𓏤𓏱𓏥	177100	_	epitheton-title	Number=Plur|Status=Abs	_	_	_	Translit=ṯz.tjw
+12	𓅓𓌨𓂋𓏏𓏛𓏤𓏥𓇳	650025	ADV	adverb	_	_	_	_	Translit=m-ẖr.t-hrw
+13	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+14	𓇳𓎟𓏤	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+15	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+16	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+17	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+18	𓇸𓏛𓊹𓊹𓊹𓅆𓏫	62500	PROPN	entity-name	_	_	_	_	Translit=Psḏ.t
+
+# sent_id = IBUBd6TBfGuZ3ELiq6R1QnxVt9c
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Seth ist zugrunde gegangen zusammen mit seinen Komplizen, mit seinem Namen (und) seiner Gestalt, (denn) Seth ist inmitten des Feuers (und) Osiris geht hervor als Thriumphierender wie Re!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,5]
+1	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+2	𓄿𓈎𓅪	290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣq
+3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+4	𓋴𓅓𓇋𓇋𓏱𓏥	134610	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=zmꜣ.yw
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+7	𓂋𓈖𓏱	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓐪𓂧𓏌𓏛𓏱	162430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qd
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+12	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+13	𓅓𓁷𓂋𓄣𓏤	65190	ADP	preposition	_	_	_	_	Translit=m-ḥr.j-jb
+14	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+15	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+16	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+17	𓉐𓂋𓂻	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓆄𓊤𓏲𓀁	66730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜥ-ḫrw
+20	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+21	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+
+# sent_id = IBUBdyiPLX11dUnpor1rb6m74Vo
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Seine Götterneunheit sorgt für seinen Schutz, (während) du unter ihrem Messer gefallen bist!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,9]
+1	𓇸𓏛𓊹𓊹𓊹𓅆𓏥	62500	PROPN	entity-name	Number=Sing|Status=Pron	_	_	_	Translit=Psḏ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+5	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓐍𓂋𓀒𓏲𓏏	119610	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫr
+10	𓌨𓂋𓏮𓏛	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+11	𓂧𓅓𓏏𓌪𓂡	179210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dm.t
+12	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd8Q1lyvAKkJHmrc3GOgfAjM
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Ihr Gluthauch ist gegen dich (gerichtet) als Feuer (und) sie schneiden deinen Kopf ab!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,9] - [30,10]
+1	𓉔𓉔𓊮	99260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=hh
+2	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+7	𓎛𓋴𓈎𓌪𓂡	110200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
+8	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+9	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd8JNdecAtEMIpwewo8LGSeE
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Sie vernichten deinen Ba (und) sie werfen dein Fleisch, deine Knochen (und) deinen Ba ins Feuer!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,10]
+1	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+2	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+6	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+7	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓌟𓏤𓄹𓏥	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBd9QCWcmgCkiQilsHm3xgL9g
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Wenn du von Norden her kommst, werfen dich die Götter des Nordens nieder, Onuris, Mehit, die 'Großen Götter vom (nördlichen) Behdet' (und) 'die in Hau-nebu (Länder nördlich von Ägypten) sind', sie erfüllen ihre Bestimmung an dir!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,11] - [30,13]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎔𓏏𓏏𓏤𓏫	73561	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ.tj
+6	𓋴𓐍𓂋𓀒	142780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫr
+7	𓏲𓏏𓎡	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+8	𓈖𓄿	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
+9	𓊹𓊹𓊹𓅆𓏫𓎔𓏏𓏏𓏤𓏫	852825	PROPN	entity-name	_	_	_	_	Translit=Nṯr.w-mḥ.tj
+10	𓏎𓈖𓈐𓇯𓅆	26850	PROPN	entity-name	_	_	_	_	Translit=Jn-ḥr.t
+11	𓎔𓏛𓎛𓇋𓇋𓏏𓆇𓆇	73870	PROPN	entity-name	_	_	_	_	Translit=Mḥ.yt
+12	𓊹𓊹𓊹𓅆𓏫𓉻𓂝𓏛𓄿𓏲𓏛𓏥𓏌𓏤𓃀𓄑𓂧𓏏𓏮𓊖	852957	PROPN	entity-name	_	_	_	_	Translit=Nṯr.w-ꜥꜣ.w-n.w-Bḥd.t
+13	𓏶𓅓𓏲𓏫𓇉𓄿𓎟𓎟𓎟𓌙𓈉𓀀𓏫	852941	PROPN	entity-name	_	_	_	_	Translit=Jm.jw-Ḥꜣ.w-nb.w
+14	𓁹𓂋𓏮	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+15	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+16	𓈖𓏏𓂝𓏤𓏛𓏥	89770	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n.t-ꜥ
+17	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+18	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdwD2wztVZk21sXUIgVd6Alc
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Zurück mit dir ("hinter dich"), Wütender, wo du (auch), bist, (denn) dein Gesicht ist grimmig (und) deine Augen sind umgeben von Falschheit!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,13]
+1	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓈖𓈙𓈖𓏮𓏰𓂡𓏥	88800	_	epitheton-title	_	_	_	_	Translit=nšn
+5	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓇋𓏲𓏏𓈖𓏌𓏲𓌙𓅭𓏛	_	X	unknown	_	_	_	_	_
+8	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓁷𓏤𓏰	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓎛𓎿𓋴𓁻	852665	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥzꜣ
+12	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+13	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓇋𓆛𓈖𓎛𓏲𓏴𓀜	27710	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jnḥ
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓎼𓂋𓇯𓅪	168040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=grg
+
+# sent_id = IBUBd3u3YwSO9kbmjMDQYSWC4es
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Veranlaßt, (daß) man zu dem 'Gesicht des Widders', 'der im Himmel ist', sagt": "Seth ist auf dem Wege zu dem Ort, an dem sein Bruder (gerade) ist in Gegenwart seiner Schwester!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,14] - [30,15]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jmi̯
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓏲𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓁷𓏤𓏰𓈖𓊃𓂋𓇋𓏲𓄜𓅆	852941	PROPN	entity-name	_	_	_	_	Translit=Jm.jw-Ḥꜣ.w-nb.w
+7	𓈖𓏏𓏮𓅓𓏏𓇯𓅆	852958	_	epitheton-title	_	_	_	_	Translit=n.tj-m-p.t
+8	𓂋𓆓𓂧	859134	PART	particle	_	_	_	_	Translit=r-ḏd
+9	𓅓𓂝𓎡	64440	PART	particle	_	_	_	_	Translit=m
+10	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+11	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+12	𓈝𓅓𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+13	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+14	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+15	𓈖𓏏𓏮𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+16	𓌢𓇋𓅆	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓇋𓅓𓏛	24640	ADV	adverb	_	_	_	_	Translit=jm
+19	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+20	𓌢𓇋𓏏𓅆	136260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn.t
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxqdAZZKb0XQg0W11q0n7AE
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Aber) er (Re) schneidet deinen Kopf ab (und) verbrennt deinen Ba!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,15]
+1	𓎛𓋴𓈎𓌪𓂡	110200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁶𓏤𓏰	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓍑𓄿𓆑𓏮𓊮	182120	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣf
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd5sxK7NmmUCHrrieWEejx5U
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Dein Fleisch, deine Knochen (und) dein Ba sind im 'Feuer inmitten des Meeres', ihr Verbranntes ist über dem Wasser verweht!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [30,15] - [30,16]
+1	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓌟𓏤𓄹𓏥	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓐍𓏏𓊮𓅓𓁷𓂋𓄣𓏤𓇆𓅨𓂋𓈗𓈘𓏤𓈇	852960	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫ.t-m-ḥr.j-jb-Wꜣḏ-wr
+9	𓇋𓏲𓍑𓄿𓆑𓏭𓊮	182130	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏꜣf
+10	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+11	𓐍𓏭𓐍𓏭𓏲𓊡𓏫	114220	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜣḫꜣ
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓈗𓈘𓏤𓈇	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd8Ih4wjjVkiIiTI5zjI3f7Y
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Sie reißen dein Herz mit ihrem Messer heraus anstelle deines Schenkels, sie schneiden deinen Kopf ab (und) sie vernichten deinen Ba!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,3] - [31,4]
+1	𓂧𓆑𓌪𓂡	64280	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=fdi̯
+2	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂧𓅓𓌪𓂡𓏏	179210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dm.t
+7	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓄘	116430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫpš
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓎛𓋴𓈎𓌪𓂡	110200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
+14	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+15	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+16	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+17	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+18	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+19	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+20	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdziNP6b0cEZ4iVBDOBWWc7c
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Dein Fleisch, deine Knochen (und) deinen Ba, die(se) Götter werfen sie in das 'Große Feuerbecken für Rebellen'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,4]
+1	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓌟𓏤𓄹𓏥	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓂋𓂞𓏏	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+8	𓈖𓏏𓏲	851199	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗w
+9	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+10	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓂝𓐍𓊮𓉻𓂝𓏛𓏌𓏤𓋴𓃀𓇋𓏲𓌙𓏱𓏥	852963	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḫ-ꜥꜣ-n-sbj.w
+
+# sent_id = IBUBdzqT8yUwQE8Smy4hqHct0PU
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Oh Seth, du bist es, der zu den 'Vier Ziegeln aus Fayence, die in Heliopolis sind', gesagt hat: 'Zwei davon sind zur Erde gefallen'!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,6] - [31,7]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+3	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+4	𓇋𓀁𓁹𓂋𓏭	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+6	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓏏𓄿	851622	PRON	pronoun	PronType=Dem	_	_	_	Translit=tꜣ
+8	𓏤𓏤𓏤𓏤𓏏	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓂧𓃀𓏏𓊌𓏥	183120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏb.t
+10	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓍘𓎛𓈖𓈒𓏥	176620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥn.t
+12	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓉺𓏌𓊖𓅆	22850	PROPN	entity-name	_	_	_	_	Translit=Jwn.w
+15	𓏤𓏤𓏏	850814	SYM	numeral	_	_	_	_	Translit=1...n
+16	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+17	𓐍𓂋𓀒	119610	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫr
+18	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+19	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd2ouekRdXUDynQmVWuMFhFg
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Man schlägt (dir aber auf) dein Haupt (und) man vernichtet deinen Ba!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,7]
+1	𓎛𓀜𓏷𓏛𓀜	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+2	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+6	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+7	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd47EdgSIlkQ6gZMjAdKpqtM
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Man wird nicht zulassen, (daß) du dich an irgendeinen Ort annnähern kannst, an dem 'der Große Gott (Osiris)' (gerade) ist!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,7] - [31,8]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+4	𓄚𓈖𓏌𓏲𓂻	123110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖn
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+8	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+9	𓈖𓏏𓏮𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+10	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+11	𓇋𓅓𓏛	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzpgX4DIoUdwhQ4tPqd1BZ8
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Wenn du von Osten her kommst, werfen dich die Götter des Ostens nieder, die Götter von Per-Ba, Thot der große Gott Herr von Bahu (Hermupolis parva), Anubis, Bastet, Sopdu-Horus der Große, Sopdu-Horus der Thriumphierende Herr von Schedenu (Pharbaitos), sie erfüllen ihre Bestimmung an dir!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,8] - [31,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋁𓃀𓏏𓏏𓏤𓏫	20550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣb.t
+6	𓋴𓐍𓂋𓀒	142780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫr
+7	𓏲𓏏𓎡	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+8	𓊹𓊹𓊹𓅆𓏫𓋁𓃀𓏏𓏏𓏤𓏫	852827	PROPN	entity-name	_	_	_	_	Translit=Nṯr.w-jꜣb.tjt
+9	𓊹𓊹𓊹𓅆𓏫𓏌𓏤𓉐𓏤𓅡𓏤𓅆	852949	PROPN	entity-name	_	_	_	_	Translit=Nṯr.w-n.w-Pr-bꜣ
+10	𓏏𓅝𓏭𓅆	185290	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj
+11	𓏤𓊹𓅆𓉻𓂝𓏛	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+12	𓎟𓏏𓃀𓂝𓎛𓏲𓅤𓈗𓊖	852950	_	epitheton-title	_	_	_	_	Translit=nb-Bꜥḥ.t
+13	𓇋𓈖𓊪𓅆	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+14	𓎰𓏏𓆇𓅆	53640	PROPN	entity-name	_	_	_	_	Translit=Bꜣs.tjt
+15	𓇮𓏤𓅆𓅃𓅆𓉻𓂝𓏛	852964	PROPN	entity-name	_	_	_	_	Translit=Spd.w-Ḥr.w-ꜥꜣ
+16	𓋴𓊪𓂧𓇮𓏛𓄑𓂋𓅆𓆄𓊤𓏰	852965	PROPN	entity-name	_	_	_	_	Translit=Spd.w-Ḥr.w-mꜣꜥ-ḫrw
+17	𓎟𓏏𓄞𓂧𓈖𓏌𓏲𓊖	852972	_	epitheton-title	_	_	_	_	Translit=nb-Šdn.w
+18	𓁹𓂋𓏮	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+19	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+20	𓈖𓏏𓂝𓏤𓏛𓏥	89770	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=n.t-ꜥ
+21	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+22	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+23	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd47vrGa8O0g2vLRv0LGFQ88
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Sie schneiden deinen Kopf ab (und) sie vernichten deinen Ba!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,10]
+1	𓎛𓋴𓈎𓌪𓂡	110200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
+2	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓎛𓍟𓅓𓏏𓅭𓅪	111600	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtm
+6	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+7	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd4hZ0CuPC0RhjAWQLPXBINg
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Sie werden nicht zulassen, (daß) du dich an irgendeinen Ort annähern kannst, an dem 'der Verehrungswürdige Gott (Osiris)' (gerade) ist!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,10] - [31,11]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓏲𓏥	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+4	𓄚𓈖𓏌𓏲𓂻	123110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖn
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+8	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+9	𓈖𓏏𓏭𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+10	𓏤𓊹𓅆𓀼𓋴𓅆	852951	_	epitheton-title	_	_	_	_	Translit=nṯr-šps.j
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQQpkxTWgk8wtKoqeOCDWT4
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Zurück mit dir ("hinter dich"), Seth - zwei Mal -, zurück mit dir ("hinter dich"), Haru - zwei Mal -, zurück mit dir ("hinter dich"), Uha - zwei Mal -!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,11]
+1	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+4	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+5	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓉔𓄿𓂋𓏤𓏱	97800	_	epitheton-title	_	_	_	_	Translit=hj.w
+9	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+10	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓇉𓄿𓁶	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓏲𓉔𓄿𓅪𓏱	48380	_	epitheton-title	_	_	_	_	Translit=wh-zp⸗f
+14	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+15	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd5QWP17ZPkmdgNaVmxXuyUA
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Du wirst nicht eintreten können in die Heiligtümer irgendeines Gottes (oder) irgendeiner Göttin, (denn) du bist Abscheu für die Götterneunheit wegen dem, was du getan hast!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,12] - [31,13]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂝𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊃𓐍𓅓𓂜𓏏𓉐𓊖𓏥	142100	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zḫm
+6	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓏤𓊹𓅆	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+8	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+9	𓏤𓊹𓏏𓆇𓅆	90280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nṯr.t
+10	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+11	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓃀𓏲𓏏𓆜𓅪	55150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bw.t
+15	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+16	𓇸𓏛𓊹𓊹𓊹𓅆𓏫	62500	PROPN	entity-name	_	_	_	_	Translit=Psḏ.t
+17	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+18	𓁹𓂋𓏭𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+19	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd77WS5H2skdIh0mmttclnLI
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Wo du (auch) bist, halte dich fern von Osiris dem König (und) Herrscher der Ewigkeit, im Himmel (wie auf) Erden!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,13] - [31,14]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓏲𓏏𓈖𓏌𓏲𓌙𓅭𓏛	_	X	unknown	_	_	_	_	_
+4	𓇋𓆛𓈖𓏏𓏭𓂽	27980	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jntj
+5	𓏲𓏏𓎡	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+6	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+8	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓇓𓏏𓈖𓅆	851639	_	epitheton-title	_	_	_	_	Translit=nswt
+10	𓋾𓈎𓅆𓆓𓏏𓇾	851552	_	epitheton-title	_	_	_	_	Translit=ḥqꜣ-ḏ.t
+11	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+13	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd2c2OBfRQEIVrggNHbViHbE
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Denn) sein Sohn Horus ist auf seinem Thron (und) sein Messer ergreift dich!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,14]
+1	𓅭𓏤𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎼𓏏𓉐	87870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ns.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂧𓅓𓏏𓌪	179210	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dm.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓈖𓇥𓏤𓂋𓇋𓏲𓏛𓀜	91670	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḏri̯
+11	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdzms0DN2BE6osm3wBcIEEs0
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Wenn du kommst, um dich (feindlich) irgendeinem Ort zu nähern, an dem Osiris (gerade) ist, (dann) erhebt Isis wiederum ihre Stimme mit einem lauten Schrei zum Himmel, (daß) ihr Vater Re ihr beisteht, um ihren Wunsch zu erfüllen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,14] - [31,16]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓇋𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏏𓎡𓈖𓂻	173680	VERB	verb	VerbForm=Fin	_	_	_	Translit=tkn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓃀𓏤𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+8	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+9	𓈖𓏏𓏮𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+10	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+11	𓇋𓅓𓏛	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓅓𓂝𓎡	64440	PART	particle	_	_	_	_	Translit=m
+14	𓊨𓏏𓆇𓅆	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+15	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+16	𓏲𓂧𓏴𓏛𓀜	854503	VERB	verb	VerbForm=Fin	_	_	_	Translit=wdi̯
+17	𓊤𓏲𓀁	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+18	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+19	𓅓𓏴𓄙𓅓𓏛	64700	ADV	adverb	_	_	_	_	Translit=m-wḥm
+20	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+21	𓃀𓎼𓄿𓀁	58000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bgꜣ.w
+22	𓉻𓂝𓏛	450158	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥꜣ
+23	𓇋𓏲	91900	ADP	preposition	_	_	_	_	Translit=r
+24	𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+25	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+26	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+27	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+28	𓇋𓏏𓆑𓅆	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+29	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+30	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+31	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+32	𓁹𓂋𓏭	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+33	𓌸𓂋𓏲𓏏𓀁	72650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mrw.t
+34	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd4SVjcSQRU6LsM5djhuurqU
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Er wird dein Fleisch, deine Knochen (und) deinen Ba ins Feuer werfen (und) er wird nicht zulassen, (daß) du (so) agierst, wie du (schon einmal) agiertest!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [31,16]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jwf
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓌠𓏤𓄹𓏥	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+11	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+12	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+15	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+17	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+18	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7k61WvwEksSgT5VQlMOIrk
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Du wirst blind sein, weiche (also) zurück du, wende dich ab ("dein Gesicht hinter dich"), (denn) du kannst nicht sehen (und) du kannst nicht hören, du kannst (auch) nicht gehen (und) du kannst nicht zupacken!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,4] - [32,5]
+1	𓈙𓊪𓁻	153620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šp
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈟𓅓𓂽	105200	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥmi̯
+4	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓈖𓇉𓄿𓁶	600068	ADP	preposition	_	_	_	_	Translit=n-ḥꜣ
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+11	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+12	𓌳𓂂𓂂	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+13	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+15	𓄔𓅓𓏛	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+16	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+17	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+18	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+19	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+20	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+21	𓐍𓆑𓂝𓂬	116630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫfꜥ
+22	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd4B2eHw8ZU9nkj7err6ChCI
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Dein Ba kann nicht (mehr) herausgehen (und) dein Leichnam kann sich nicht (mehr) bewegen, (denn) Re erhob sich deinetwegen (und) wegen dem, was du ihm (an)getan hast (und) er hat dich in das '〈Große〉 Feuerbecken für Rebellen' geworfen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,5] - [32,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓅡𓏤𓏱	52840	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓏠𓈖𓏠𓈖𓂢𓂻	70710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mnmn
+7	𓆞𓏏𓐎𓏱	122220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖꜣ.t
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓇳𓅆	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+13	𓅓	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+15	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓂋𓂞𓏏𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓏲𓏏	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
+21	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+22	𓂝𓐍𓊮𓈖𓋴𓃀𓇋𓏲𓌙𓏱𓏥	852963	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḫ-ꜥꜣ-n-sbj.w
+
+# sent_id = IBUBdwbpO3z69kUXjqXDMUgSEN8
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Oh Osiris Onnophris der Thriumphierende, Seth ist im Feuer umgekommen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,6]
+1	𓇋𓀁	20030	INTJ	interjection	_	_	_	_	Translit=j
+2	𓊨𓇳𓅆𓃹𓈖𓄤𓏤𓅆𓆄𓊤𓏰	852828	_	epitheton-title	_	_	_	_	Translit=Wsjr-Wnn-nfr-mꜣꜥ-ḫrw
+3	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+4	𓄿𓈎𓅪	290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣq
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBUBd8QqWPsbRUTNt7vrL1Wt6N4
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Die Bewohner von Busirs (und) Abydos, ihr Herz ist erfreut (und) die Götter dort ("in ihnen") sind im Jubel!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,7]
+1	𓏶𓅓𓏲𓏫	25120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jm.j
+2	𓊽𓊽𓂧𓏲𓊖𓅆	185980	PROPN	entity-name	_	_	_	_	Translit=Ḏd.w
+3	𓋁𓃀𓂧𓈉𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓇛𓇛𓏮𓏛	500020	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏm
+7	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+8	𓏶𓅓	25130	ADJ	adjective	Number=Plur|Status=Pron|Gender=Masc	_	_	_	Translit=jm.j
+9	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓎛𓂝𓂝𓀠𓏛	102120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥꜥ.wt
+
+# sent_id = IBUBdyCmRr83kU4Yl7wEBCPxnik
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Schutz für 'Re im Horizont', Schutz für Osiris Onnophris den Thriumphierenden, Schutz für (den) Osiris Imhotep hier selig, Schutz für Busiris, Schutz für Abydos, Schutz für den Himmel, Schutz für die Erde, Schutz für Osiris Onnophris den Thriumphierenden, Schutz für Busiris, Schutz für Abydos, Schutz für sein Gefolge, Schutz für seine Wächter, Schutz für seine Götterneunheit, Schutz für seinen Tempel, Schutz für sein Haus für immer (und) ewig!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,7] - [32,10]
+1	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+2	𓇳𓅆𓅓𓈌𓏏𓉐𓅆	852952	PROPN	entity-name	_	_	_	_	Translit=Rꜥw-m-ꜣḫ.t
+3	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+4	𓊨𓇳𓅆𓃹𓈖𓄤𓏤𓅆𓆄𓊤𓏰	852828	_	epitheton-title	_	_	_	_	Translit=Wsjr-Wnn-nfr-mꜣꜥ-ḫrw
+5	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+6	𓊨𓇳𓅆	49461	_	epitheton-title	_	_	_	_	Translit=Wsjr
+7	𓇍𓇋𓂻𓅓𓊵𓏏𓊪𓀀	400243	PROPN	entity-name	_	_	_	_	Translit=Jy-m-ḥtp
+8	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+9	𓆄𓊤𓏰	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+10	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+11	𓊽𓊽𓂧𓏲𓊖𓅆	185980	PROPN	entity-name	_	_	_	_	Translit=Ḏd.w
+12	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+13	𓋁𓃀𓂧𓈉𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+14	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+15	𓏏𓇯𓅆	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+16	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+17	𓇾𓏤𓈇	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+18	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+19	𓊨𓇳𓅆𓃹𓈖𓄤𓏤𓅆𓆄𓊤𓏰	852828	_	epitheton-title	_	_	_	_	Translit=Wsjr-Wnn-nfr-mꜣꜥ-ḫrw
+20	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+21	𓊽𓊽𓂧𓏲𓊖𓅆	185980	PROPN	entity-name	_	_	_	_	Translit=Ḏd.w
+22	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+23	𓋁𓃀𓂧𓈉𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+24	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+25	𓌞𓋴𓂻𓏥𓅆	155040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šms.w
+26	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+27	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+28	𓂋𓊃𓍟𓁻𓏥	95950	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=rs
+29	𓆑𓅆	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+30	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+31	𓇸𓏏𓊹𓊹𓊹𓅆𓏥	62500	PROPN	entity-name	Number=Sing|Status=Pron	_	_	_	Translit=Psḏ.t
+32	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+33	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+34	𓉗𓏏𓉐	99790	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥw.t
+35	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+36	𓎃𓏤𓏛𓏥	125600	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=zꜣ
+37	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+38	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+39	𓂋𓎛𓎛𓇳𓆓𓏏𓇾	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8GqTCSeRkYUrdyF1eMtzoU
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "(Dann) wird er euch Gunst erweisen für euer Wachen (und) seine Götterneunheit wird euch Gunst erweisen infolge des Gunstbeweises eures Herrn!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,13]
+1	𓎛𓎿𓋴𓀁	109620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥzi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏏𓈖𓏥	175650	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓂋𓊃𓍟𓁻𓏏𓉐	96110	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rs.w
+6	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓎛𓎿𓋴𓀁	109620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥzi̯
+8	𓏏𓈖𓏥	175650	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
+9	𓇸𓏏𓊹𓊹𓊹𓅆𓏥	62500	PROPN	entity-name	Number=Sing|Status=Pron	_	_	_	Translit=Psḏ.t
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓁷𓏤𓐠𓏤	851455	ADP	preposition	_	_	_	_	Translit=ḥr-sꜣ
+12	𓎛𓎿𓋴𓀁𓏫	109800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥzw.t
+13	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+14	𓈖𓎟𓅆	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+15	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdWrh6BGWkET8lUY7WsizW2A
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "'Der Stimmgewaltige', 'der seinem Herrn folgt' (Thot) er wird euch Opfergaben (und) Speisen (sowie) alle guten Dinge (Opfer) gewähren!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,13] - [32,14]
+1	𓉻𓂝𓏛𓊤𓏲𓀁	851483	PROPN	entity-name	_	_	_	_	Translit=Ꜥꜣ-ḫrw
+2	𓌞𓋴𓂻𓎟𓆑𓅆	852953	PROPN	entity-name	_	_	_	_	Translit=Šms-nb⸗f
+3	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+7	𓊵𓏏𓊪𓏓𓏥	854532	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtp
+8	𓆓𓆑𓄿𓏲𓌙𓅭𓏛𓏓𓏥	183850	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏfꜣ
+9	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+10	𓎟𓏏	81660	ADJ	adjective	_	_	_	_	Translit=nb
+11	𓄤𓆑𓂋𓏏𓏛	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+
+# sent_id = IBUBd7z0QGDu3kdAlM1Qy8Abt7g
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Er wird euren Namen in eurem Heiligtum verewigen!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,15]
+1	𓋴𓏠𓈖𓐍𓏏𓏰𓄜𓏛	135360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smnḫ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
+4	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊃𓐍𓅓𓂜𓏏𓉐𓊖	142100	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zḫm
+7	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBd65sGgmIK0fikEjIaideD3Y
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = "Freuet euch, ihr ("diese") Götter hier, Osiris ist hervorgegangen als Thriumphierender, (während) Seth inmitten des Feuers ist - vier Mal -!"
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,15]
+1	𓎛𓂝𓂝𓀠𓏛	102060	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥꜥi̯
+2	𓊹𓊹𓊹𓅆𓏫	90260	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nṯr
+3	𓇋𓊪𓏲𓏥	854318	PRON	pronoun	PronType=Dem	_	_	_	Translit=jpw
+4	𓊨𓇳𓅆	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=pri̯
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆄𓊤𓏲𓀁	66730	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mꜣꜥ-ḫrw
+8	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓋴𓏏𓈙𓏱	148520	PROPN	entity-name	_	_	_	_	Translit=Stẖ
+10	𓅓𓁷𓂋𓄣𓏤	65190	ADP	preposition	_	_	_	_	Translit=m-ḥr.j-jb
+11	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+12	𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+13	𓏤𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd6QbczQdWEb1gXaCbDnQxco
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = (Text) zu rezitieren über den Vier Kugeln aus Ton.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,16]
+1	𓆓𓂧𓌃𓏤𓏫	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓃀𓈖𓈖𓈒𓏥	55890	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=bnn.t
+4	𓏤𓏤𓏤𓏤𓏏	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓋴𓇋𓐎𓈖𓏏𓈇𓏤𓏫	128340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjn
+
+# sent_id = IBUBdzV4F8rQy0n3qkz2TzDviwQ
+# corpus = bbawtotenlit
+# src_text_id = UOCH377L6ZAODLJNW46P2ZXS2A
+# src_text = bbawtotenlit:Papyrus des Imhotep Sohn des Pschentohe (pNew York MMA 35.9.21)//3. Die Enthüllungen der Geheimnisse der vier Kugeln aus Ton
+# owner = Frank Feder
+# text_de = Ende (des Textes).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = TIP - Roman times
+# lineRef = [32,18]
+1	𓂻𓏲𓆑𓊪𓏲	21930	VERB	verb	_	_	_	_	Translit=jwi̯
+

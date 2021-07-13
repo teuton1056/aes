@@ -1,0 +1,30 @@
+# sent_id = IBcAWLCUxzWXakXOgCOXWdmQi3o
+# corpus = tuebingerstelen
+# src_text_id = K6MGDAAJHVHE5GXFILPZI462JI
+# src_text = tuebingerstelen:Stele des Renseneb (Äg. Slg. Tübingen. Inv. Nr. 457)//Stele des Renseneb (Äg. Slg. Tübingen. Inv. Nr. 457)
+# owner = Susanne Beck
+# text_de = Nen, gerechtfertigt, seine Geliebte, seine Gemahlin,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 1 - 2
+1	𓂜𓈖𓈖	703655	PROPN	entity-name	_	_	_	_	Translit=Nn
+2	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+3	𓈟	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓌸𓇋𓇋	550321	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.yt
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAWCWxzYNeMUq2hzTlOB7eZ9k
+# corpus = tuebingerstelen
+# src_text_id = K6MGDAAJHVHE5GXFILPZI462JI
+# src_text = tuebingerstelen:Stele des Renseneb (Äg. Slg. Tübingen. Inv. Nr. 457)//Stele des Renseneb (Äg. Slg. Tübingen. Inv. Nr. 457)
+# owner = Susanne Beck
+# text_de = den die Herrin des Hauses, Qeqi, gerechtfertigt, gebar.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 3 - 4
+1	𓄟𓋴𓈖	74950	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=msi̯
+2	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+3	𓈎𓈎𓇋	_	X	unknown	_	_	_	_	_
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+

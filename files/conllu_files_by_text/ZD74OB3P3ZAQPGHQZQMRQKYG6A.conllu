@@ -1,0 +1,36 @@
+# sent_id = IBUBd5F4suaWNkV4uDJdc3eM3cM
+# corpus = bbawgrabinschriften
+# src_text_id = ZD74OB3P3ZAQPGHQZQMRQKYG6A
+# src_text = bbawgrabinschriften:Opferplatte//Scheunenliste
+# owner = Stefan Grunert
+# text_de = Ein Kornspeicher der oberägyptischen Gerste.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓊚	155970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnw.t
+2	𓇗𓇠	550215	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jt-šmꜥ
+
+# sent_id = IBUBdQlvQzwTkEEsuVrqAxEKlPs
+# corpus = bbawgrabinschriften
+# src_text_id = ZD74OB3P3ZAQPGHQZQMRQKYG6A
+# src_text = bbawgrabinschriften:Opferplatte//Scheunenliste
+# owner = Stefan Grunert
+# text_de = Ein Kornspeicher der unterägyptischen Gerste.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓊚	155970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnw.t
+2	𓎕𓇠	550096	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jt-mḥ.j
+
+# sent_id = IBUBdwG95qmsi0EUq58VyHLGqG8
+# corpus = bbawgrabinschriften
+# src_text_id = ZD74OB3P3ZAQPGHQZQMRQKYG6A
+# src_text = bbawgrabinschriften:Opferplatte//Scheunenliste
+# owner = Stefan Grunert
+# text_de = Ein Kornspeicher der Bescha(-Frucht).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [5]
+1	𓊚	155970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnw.t
+2	𓃀𓈆𓇠	57570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bšꜣ
+

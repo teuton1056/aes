@@ -1,0 +1,99 @@
+# sent_id = IBcAYH4LkK2hJ0jDqWwKQHEkVZk
+# corpus = tuebingerstelen
+# src_text_id = GTHG7JPSXJDCHCXHWIXOABVTXI
+# src_text = tuebingerstelen:Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)//Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Satii.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 5
+1	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓅭𓏏𓇍𓇋𓇋𓂻	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAYL2VWkMzD0dZts6TTqCKQYI
+# corpus = tuebingerstelen
+# src_text_id = GTHG7JPSXJDCHCXHWIXOABVTXI
+# src_text = tuebingerstelen:Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)//Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)
+# owner = Susanne Beck
+# text_de = Kabinettsvorsteher (und) Leiter der Arbeiten, Sehetepib
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 10 - 11
+1	𓄓𓂝𓄚𓏌𓏭	400016	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜥ-ẖn.wtj
+2	𓌂𓀋𓏛𓏥	401031	_	epitheton-title	_	_	_	_	Translit=ḫrp-kꜣ.wt
+3	𓋴𓊵𓏏𓊪𓄣𓏤	706987	PROPN	entity-name	_	_	_	_	Translit=Sḥtp-jb
+
+# sent_id = IBcAYAEfRkjaQ0U1vEB7T91RWws
+# corpus = tuebingerstelen
+# src_text_id = GTHG7JPSXJDCHCXHWIXOABVTXI
+# src_text = tuebingerstelen:Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)//Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)
+# owner = Susanne Beck
+# text_de = Im, die Herrin des Hauses.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 11 - 12
+1	𓐝𓇋𓀁𓅓	705008	PROPN	entity-name	_	_	_	_	Translit=Jm
+2	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+
+# sent_id = IBcAYOQR1U33L07GqNS4g3Ond54
+# corpus = tuebingerstelen
+# src_text_id = GTHG7JPSXJDCHCXHWIXOABVTXI
+# src_text = tuebingerstelen:Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)//Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Dedtuanqet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 13
+1	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓂝𓈖𓈎𓂝𓂝𓏏	400190	PROPN	entity-name	_	_	_	_	Translit=Dd.t-Ꜥnq.t
+
+# sent_id = IBcAYCehihU6UkXln5kKBnAKQ9g
+# corpus = tuebingerstelen
+# src_text_id = GTHG7JPSXJDCHCXHWIXOABVTXI
+# src_text = tuebingerstelen:Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)//Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)
+# owner = Susanne Beck
+# text_de = Der Asiate, Ptahanch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 15
+1	𓇋𓏭𓌙𓅓	35400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣm
+2	𓊪𓏏𓎛𓋹𓈖𓐍	400533	PROPN	entity-name	_	_	_	_	Translit=Ptḥ-ꜥnḫ.w
+
+# sent_id = IBcAYEsZWWGE00bYph7WW3B95Kk
+# corpus = tuebingerstelen
+# src_text_id = GTHG7JPSXJDCHCXHWIXOABVTXI
+# src_text = tuebingerstelen:Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)//Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)
+# owner = Susanne Beck
+# text_de = Sein Bruder, Ii.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 16
+1	𓌢𓈖𓏤	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇍𓇋𓇋𓂻	711554	PROPN	entity-name	_	_	_	_	Translit=Jy
+
+# sent_id = IBcAYH0BxOF9okAihrztbQLYkZI
+# corpus = tuebingerstelen
+# src_text_id = GTHG7JPSXJDCHCXHWIXOABVTXI
+# src_text = tuebingerstelen:Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)//Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)
+# owner = Susanne Beck
+# text_de = Sein Bruder, Henu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 17
+1	𓌢𓈖𓏤	136230	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓎛𓈖𓏌𓅱𓀀	550045	PROPN	entity-name	_	_	_	_	Translit=Ḥnw
+
+# sent_id = IBcAYNlT3sEL80uKpERxB8iIB1k
+# corpus = tuebingerstelen
+# src_text_id = GTHG7JPSXJDCHCXHWIXOABVTXI
+# src_text = tuebingerstelen:Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)//Stele des Iy (Äg. Slg. Tübingen Inv. Nr. 461)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Neferuiu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 18
+1	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓄤𓆑𓂋𓅱𓂻	703370	PROPN	entity-name	_	_	_	_	Translit=Nfr-jw.w
+

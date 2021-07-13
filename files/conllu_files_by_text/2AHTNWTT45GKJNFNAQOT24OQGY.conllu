@@ -1,0 +1,61 @@
+# sent_id = IBUBdyEus4SYQUaUkLaY4gssvMU
+# corpus = bbawamarna
+# src_text_id = 2AHTNWTT45GKJNFNAQOT24OQGY
+# src_text = n/a
+# owner = Gunnar Sperveslage
+# text_de = Möge er jedesmal, wenn er aufgeht, den Anblick des Aton gewähren.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [1]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁹𓌳	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+4	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+5	𓌙𓅯	550066	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ṯnw
+6	𓈍𓂝𓂝	114740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜥi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdyAjCZNIAE8Tqk8me40wGQg
+# corpus = bbawamarna
+# src_text_id = 2AHTNWTT45GKJNFNAQOT24OQGY
+# src_text = n/a
+# owner = Gunnar Sperveslage
+# text_de = Möge er eine Kultstätte für den errichten, der es geschaffen hat, damit der Ba auf seinem Leichnam ruht, dem Ort der Ewigkeit.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓊢𓂝𓏏𓉐𓏤	68920	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜥḥꜥ.t
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓊃	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+7	𓊵	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+8	𓊸𓅡𓏤	52840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓁀	122220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖꜣ.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓊨	854540	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t
+13	𓈖𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+
+# sent_id = IBUBd9iAfeIb1EMxmQTM8tspLM0
+# corpus = bbawamarna
+# src_text_id = 2AHTNWTT45GKJNFNAQOT24OQGY
+# src_text = n/a
+# owner = Gunnar Sperveslage
+# text_de = Möge er jeden Tag Ein- und Austreten aus dem Grab und den Anblick der Strahlen des Aton gewähren, wenn er aufgeht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏏𓂻	41180	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥq
+4	𓏏𓂽	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
+5	𓐝𓄚𓈖𓏌𓏲𓉐𓏏	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+6	𓉗𓉐	99790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥw.t
+7	𓁹𓌳	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+8	𓄜𓏏𓏲𓏏𓇶𓏥	147910	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=stw.t
+9	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+10	𓅱𓃀𓈖𓇶𓏥	854500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbn
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

@@ -1,0 +1,2033 @@
+# sent_id = IBYDQPtl0O6sQ0thmNDe4fwSGHI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel für Verbrennung(en):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,17]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBYDQEuhKBtwY02QkRgQDwEjSq8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Was dagegen zu tun ist am ersten Tag:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,17]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓁶𓊪𓏭	171460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=tp.j
+
+# sent_id = IBYDQFUIdazpk0cZkJl7uGhQPxo
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Schwarzer Schlamm.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,17]
+1	𓂝𓅓𓂝𓏏𓈇𓏥	37740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥmꜥ.t
+2	𓆎𓅓𓏏𓁸	401218	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=km
+
+# sent_id = IBYDQH3EjA2xgkWHoJ7WwIJMKsU
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,17]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQAYJTjKWAUk3q69WmxA95Mk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Schaf-/Ziegenkot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,18]
+1	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+2	𓌙𓅱𓏏𓃙𓏪	35870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥw.t
+
+# sent_id = IBYDQAxYnFmMXkIYmjzB4KzbskE
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,18]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYDQIQsk4NP2k39knMySQyLGtw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde fein zermahlen in gegorenem (?) Datteltrester.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,18]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓐟𓏤𓂋𓏤𓅐𓏌𓏥	139490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zrm.t
+5	𓆣𓂋𓏏	854383	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫpr
+
+# sent_id = IBYDQM6oauQplEefg9bw2QVub2Q
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,18]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDRFKFUlmEyUylihw7h4LGJIM
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde in Öl/Fett gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,19]
+1	𓂝𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYDQIsaPqhcZkiaoGMaZ2G5RAw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQPsjsTsBLkz3mMwt1lu9Vdk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Wachs, Rinderfett;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,20]
+1	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+2	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+3	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+
+# sent_id = IBYDQOYcyiCezkbQqLSGnvNa9hA
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = ein leeres Papyrusblatt werde mit Erdmandeln gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,20]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓆄𓏲𓍼𓏤	152700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓇹𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+
+# sent_id = IBYDQMoFcGoNUkjkl49orx3BiYk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,20]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDQB2tvYeOrkN1uZVQgRAPjWk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,20]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQDDjtQxwcUOVsiWEjkqBn9M
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen mit Spänen (?) vom Kupfer;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,21] - [67,22]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓆼𓄿𓏲𓂝𓏥	122410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣ.w
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt
+
+# sent_id = IBYDQC1OdBFFaUJWkQdTWYuUuqI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,22]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDQJ7PWw4d5EvzlFfnA9Ni5MI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,22]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+
+# sent_id = IBYDQAnM2YYwuEmQqMCuYtDLPs8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Heilmittel zum Einwickeln einer Verbrennung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,22]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓅷𓄿𓅓𓋳𓀜	148930	VERB	verb	VerbForm=Fin	_	_	_	Translit=sṯꜣm
+4	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBYDQNxZq8WnZk3Mk29GoPRGk8I
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Erdmandeln.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,1]
+1	𓇹𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+
+# sent_id = IBYDQCMYEE2VeEWtpOQ17AU4ZrI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,1]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYDQPbWC8p50UK3noptKxDh2EU
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,1]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQOwXbIWFL0XGrM7gR1OZHdY
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Heilmittel für eine Verbrennung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,1]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBYDR21OLHrk2UEjnFZmpSO787A
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde täglich daran gegeben, nachdem es (das Gemisch) abgekühlt ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,3]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+5	𓈎𓃀𓃀𓃂𓈗	160170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qbb
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓂋𓂝𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBYDQENWt9m7fEmDuSDWK4kQh4c
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für eine Verbrennung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBYDQJoHfw8O70Odt3H5rPSQT3A
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde mit wässriger Gummiharzlösung vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,4]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓈎𓏇𓇋𓇋𓏏𓅯𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+
+# sent_id = IBYDQIx23PafwETXs9H2jU2qFAM
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,4]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQNU8VTa2mEWAjVnZ8QEw8P8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQD4huxKybUOdqUll0iHa3Wg
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,5]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDQJpB6OqGBEnGltpy9Pnd1K4
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,5]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQJngCVtQoEVIkr3ZOewifxw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln einer Brandwunde an irgendwelchen Körperteilen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,5] - [68,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	_	_	_	_	Translit=srwḫ
+4	𓏲𓃀𓈖𓏌𓏲𓐎𓏥	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+10	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBYDQDwvQu54pU6epYuuoEq7RoU
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = $qb.w$-Pflanzen: 1, Sellerie: 1, Koniferenöl: 1, $sfṯ$-Öl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,6] - [68,7]
+1	𓈎𓃀𓏲𓃂𓈒𓏥	160120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qb.w
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎙𓂧𓏌𓏥𓂝𓈙𓐎𓆮𓈒𓏥	42070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḏ-ꜥš
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓋴𓆑𓏏𓏌𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQNRJS8ab5k0zkgDMtTWLEO0
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,7]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDQJhVeWgVDkDZqBFgqm21dZM
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,7]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQMIDMRdMwEtnncjQUWRPiIA
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQJWtBUB74UqjkYitp0Zei38
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = „Haarfrüchte“: 1, $jḥ.w$-Pflanzen: 1, Kot eines Katers: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,7]
+1	𓍁𓏏𓏥𓁸𓏥𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇋𓎛𓏲𓆰𓏥	30630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ.w
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓏇𓇋𓏲𓄛𓈒𓏥	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQJI6fzcRSU4dv5pjqSK3w4U
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde vermengt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,8]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+
+# sent_id = IBYDQHUDXwdQxUKMp2cS1fAsq1k
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde in wässrige Gummilösung gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,8]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+4	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+5	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+
+# sent_id = IBYDQNH3ujGK2E7ooxsibmcjy8c
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,8]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQCuQDf0lvUIUnQ51x8ip1vA
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQPTxJ7PqskRWnEIAsrxMGwk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Anwendungsweise) ist die Gleiche (wie beim vorigen Rezept).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,9]
+1	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBYDQBOsm0ZiPEhYhZy9mUVLHaI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQCrTU83MMkHduf4ZtKM9d3Y
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Geschmolzener (?) Weihrauch: 1, Steinbockfett: 1, Kalk (?) vom Uferrand (?): 1, Wachs: 1, Johannisbrot: 1, Öl/Fett: 1, „Teich-Zungen“-Droge: 1, Leinsamen (?): 1, Koniferenöl: 1, 〈... der〉 Sykomore: 1, $jns.t$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,10] - [68,12]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓆌𓈒𓏥	127340	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜣq
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+5	𓈖𓂋𓄫𓏲𓄛𓏌𓏥	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓇋𓈖𓂋𓊌	27560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnr
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rʾ
+10	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+13	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+14	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+16	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+17	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+18	𓄓𓏤𓄹𓈙𓈇𓏤𓈒𓏥	863030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns-š
+19	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+20	𓂧𓈙𓂋𓏯𓈒𓏥	180740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dšr
+21	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+22	𓎙𓂧𓏊𓏥𓂝𓈙𓐎𓆮𓈒𓏥	42070	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥḏ-ꜥš
+23	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+24	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+25	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+26	𓇋𓆛𓈖𓋴𓏏𓆰𓏥	27830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jns.t
+27	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQE8w29IiZ0J3vIFRGPcLbf8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,12]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDQMMRP5bX80tWvd6nfEpYFv4
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Paste (?) gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,12]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂝𓏇𓇋𓊌	37640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥmj
+
+# sent_id = IBYDQBAQdnMj5kfjhSQ66xlmLo8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für eine Brand(wunde), wenn sie faulig wird:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,12] - [68,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏴𓏏𓊮	150140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḏ.t
+4	𓎛𓍯𓄿𓐎	102640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwꜣ
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQE1BhokLVkIDuAgqejElEX8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Späne (?) vom Kupfer: 1, Malachit: 1, $ṯr.w$-Ocker: 1, frischer Weihrauch: 1, Kreuzkümmel: 1, $qsn.tj$-Mineral (?): 1, $gsfn$-Droge: 1, Wachs: 1, Kampfer: 1, $ẖsꜣ.yt$-Balsam: 1, süße Myrrhe: 1, $sfṯ$-Öl: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,13] - [68,15]
+1	𓆞𓄿𓏲𓂝𓏥	122410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜣ.w
+2	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓇅𓏲𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓏞𓏲𓈒𓏥	176220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯr.w
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+10	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+13	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+14	𓌟𓈖𓏏𓏭𓈒𓏥	162260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qsn.tj
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+16	𓎼𓋴𓆑𓈖𓈒𓏥	168590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gsfn
+17	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+18	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+19	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+20	𓍘𓀻𓋴𓈒𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+21	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+22	𓄡𓊃𓐟𓄿𓇋𓇋𓏏𓁸𓈒𓏥	124590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖsꜣ.yt
+23	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+24	𓂝𓈖𓅂𓈒𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+25	𓇛𓅓𓏛	91410	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nḏm
+26	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+27	𓋴𓆑𓏏𓏌𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+28	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+29	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+30	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQD8Xw0cgW08Jg5fsWAwGmTY
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,15]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYDQBlGahXaJEnLsnymTwXP3x8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,15]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDQE5pHrYf2Eeru9AiAXJhqpw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,15]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQKdQgR7DbEverNMze7L2XOc
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel), etwas, das anzufertigen ist gegen eine Verbrennung am ersten Tage:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,15] - [68,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓁹𓂋𓏏𓏪	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+5	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+6	𓁶𓊪𓏭	171460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=tp.j
+
+# sent_id = IBYDQHC6KEWWfEdljPZcDeJTWkc
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Honig.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,16]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBYDQP9TWWwh5Es5ugQXmqLyphs
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,16]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQBNqpOZooky6rAqGrXmvptM
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQNAcoHYZIUXeolKUloupjNg
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Nilschlamm des Wasserholers (?), Fett, Olivenöl.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,16] - [68,17]
+1	𓄿𓈎𓎛𓊌𓏥	159410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣḥ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓎁𓏏𓏲𓀜	33560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jṯi̯
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+
+# sent_id = IBYDQDtpA6X3nk3WsoXQmQhLmO8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse verkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,17]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDQD8badHpHkupqbTc7b1YtAw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,17]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQBq8I6TUek8tt1n7EhEBPSQ
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln einer Brandwunde an irgendwelchen Körperstellen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,17] - [68,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓏲𓃀𓈖𓏌𓏲𓐎𓏥	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+10	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+11	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBYDQJBQ5k7PvU5rvcaho06BT4Q
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Binse.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,18]
+1	𓇋𓄿𓂋𓆰𓏥	20810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣr.w
+
+# sent_id = IBYDQEDFEHo80kIVuYkM402w5uw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,18]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYDQAyipu66oUqDpjhdEPQHWgQ
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,18]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDQFN0jvrjWU0QvAGfwbhCgm0
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,18]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQEFPU0U7XUb4qCDYwgZX9N0
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQOai7jW1KEDUqyuB6FCYTI8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Kalk (?) vom Uferrand (?): 1, $jns.t$-Pflanzen: 1, $jbw$-Pflanzen: 1, Steinbockfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,19]
+1	𓇋𓈖𓂋𓊌	27560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnr
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rʾ
+4	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓇋𓆛𓈖𓋴𓏏𓆰𓏥	27830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jns.t
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓃙𓏲𓆰𓏥	23690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbw
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+11	𓈖𓂋𓄫𓏲𓄛𓏌𓏥	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQJkQ6D6irEnPgA0bvgWfoVM
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,19]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDQCjROQ67ZEulk53AZJyp8uE
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,20]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQIAcwSsXl0zOpDLU8hCWFTE
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQMHWRKC3F0IbnzBcrpIoD1c
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Süßwassermuschel, gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,20]
+1	𓐣𓇋𓇋𓏏𓆇	850426	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜥ.yt
+2	𓊮𓍘𓇋	62180	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=psi̯
+
+# sent_id = IBYDQMFW66pp70ZutTcjcpNZZQE
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,20]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQJpfjlb7z0s7gvaWy3CMcug
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für eine Verbrennung am ersten Tag;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+4	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓁶𓊪𓏭	171460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=tp.j
+
+# sent_id = IBYDQOgOHZHnW0P0moZkTHirS0E
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Erdmandeln, gekocht: 1, Gerste, gekocht: 1, $gw$-Gras, gekocht: 1, $db.yt$-Pflanzen, gekocht: 1, leeres Papyrusblatt, gekocht: 1, Leder, gekocht: 1, Rinderfett: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [68,20] - [69,1]
+1	𓇹𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+2	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+5	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+8	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓂧𓃀𓇋𓇋𓏏𓄧𓆰𓏥	178470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=db.yt
+11	𓊮	62180	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=psi̯
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓆄𓅱𓏏𓍼𓏥	152870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šw.t
+14	𓊮	62180	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=psi̯
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+16	𓂧𓁷𓂋𓄛	185270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏḥꜥ
+17	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+18	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+19	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+20	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+21	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+22	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+23	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQE7SCNQOp0JAsaCQ9DtoyIU
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Wachs werde mit dem Fett (des Rindes?) gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,1]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂝𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+
+# sent_id = IBYDQKiUME3vQEknmBEKlRb1bYk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,1]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Status=Abs	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDQHcWqy8eiU3EhQBcaQleeuI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,1]
+1	𓂞	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQLnllkQVMURuo1PBLVIgeCA
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQNzAA0KJv0kconl1cNgvkF4
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = „Haarfrüchte“: 1, Erdmandeln: 1, Katerkot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,1] - [69,2]
+1	𓍁𓏏𓏥𓁸𓏥𓈒𓏥	852154	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-šnj
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇹𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+6	𓏇𓇋𓏲𓄛	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQCTKg9kIVEjzp7GiA0WTxRc
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde mit wässriger Gummilösung zu einer Masse vermengt .
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,2]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+
+# sent_id = IBYDQCAGQuozREWPlWCXOYAEYio
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,2]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQHfr8nHqBUe6uN6FvxzHRW8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Ritualist:) „Dein Sohn Horus ist auf dem Bergland verbrannt.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,3]
+1	𓅬𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓏲𓃀𓂧𓊮	45410	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wbd
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+
+# sent_id = IBYDQM6pmGxjDkxNnrkTBOVTZ4o
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Isis:) „Ist dort Wasser?“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,3]
+1	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDQDBaBN0ye0VyoxuMGCC0XxA
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Ritualist:) „Dort ist kein Wasser.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,3]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDQAoGduLJpEc7kit0e298BOk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Isis:) „Wasser ist in meinem Mund.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,3] - [69,4]
+1	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBYDQNDgANo2gkQYtorfbPOs6uo
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Um das Feuer zu löschen, bin ich gekommen!“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,4]
+1	𓇍𓏭𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂝𓐍𓅓𓊮	40630	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḫm
+5	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBYDQBgVQngFyk0WrWDSdvdQ2iw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Diese) Worte (sind) zu sprechen über Milch einer (Frau), die einen Knaben geboren hat, (über) Gummi und Haar eines Widders.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,4] - [69,5]
+1	𓆓𓂧𓌃𓏤𓏥	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓄟𓋴𓏏𓏯	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=msi̯
+6	𓅷𓄿𓇋𓇋𓂺𓀀	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+7	𓅯𓇋𓇋𓏏𓈒𓏪	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+8	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓊃𓂋𓇋𓃝	138880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zr
+
+# sent_id = IBYDQBb1X4RnLEdhgucdpQOya9E
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die beschworenen Ingredienzien) werden auf die Verbrennung gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,5]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBYDQDJYmccX1UnHlWgwqJUz3Ss
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Eine andere Beschwörung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,6]
+1	𓎢𓇋𓇋𓆓𓂧	500002	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ky-ḏd
+
+# sent_id = IBYDQLapEN3x2USFvZbwa7J0GwQ
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Isis:) „Mein Sohn Horus ist auf dem Bergland verbrannt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,6]
+1	𓅬𓅆	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓅃𓅆	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓏲𓃀𓂧𓊮	45410	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wbd
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓈉𓏏𓏤	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+
+# sent_id = IBYDQP0WHuSn20o7pdNcDsqJ7tg
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Dort ist kein Wasser.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDQLcKjkoe305JvEoIUjfyv2g
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ich bin nicht dort.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDQAGfWDlus030oC6CzwxSjNE
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Ritualist:) „Du sollst Wasser vom Rand der Wasserflut bringen, um das Feuer zu löschen!“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,6] - [69,7]
+1	𓏎𓈖𓏏	26870	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jni̯
+2	𓏏	10120	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯ
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓋴𓊪𓏏𓂏	132440	NOUN	substantive	Status=Abs	_	_	_	Translit=sp.t
+6	𓈖𓍇𓏌𓏲𓇋𓇋𓈘𓈇	81240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nw.y
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓂝𓐍𓅓𓊮	40630	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḫm
+9	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+
+# sent_id = IBYDQKwBWvXtQECZsiMiXxsKK5E
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Diese) Worte sind (zu) sprechen über Milch einer (Frau), die einen Knaben geboren hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,7]
+1	𓆓𓂧𓌃𓏤𓏥	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓄟𓋴𓏏𓏯	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=msi̯
+6	𓅷𓄿𓇋𓇋𓂺𓀀	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+
+# sent_id = IBYDQJg0tk9SNUlfvCBrcNc14io
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Einschwärzen einer Verbrennung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,7] - [69,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓊃𓆎𓅓𓏏𓁸𓏛	146770	VERB	verb	VerbForm=Fin	_	_	_	Translit=skm
+5	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBYDQEIrWpZIckXDvQt4QzmouTM
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,9]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDQGgxWQVpfE7SlN15oPrNL0k
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Verbrennung) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQPYDnGRH7E7Yngzh3CZ3vDg
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Und so sollst du eine Messer(behandlung) (?) des Arztes durchführen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,9]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓆑𓏏𓏲𓌪𓏥	865823	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zfṯ.w
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓌕𓏌𓏤𓀀	855957	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zwn.w
+
+# sent_id = IBYDQOIdXj8IJUsAoNzUSRlSMSY
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Porree, zerstoßen: 1, Früchte/Samen der $tḥwꜣ$-Pflanze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,9] - [69,10]
+1	𓇋𓏲𓈎𓏏𓆰𓏥	20990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣq.t
+2	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=qnqn
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+5	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQBa9KoQpDEtZoLcvBd2WthM
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Verbrennung) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQHV1piU1wEMGnOgMP8Nzvmw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+
+# sent_id = IBYDQNv7A5ZWjkUmuWCpuhJFKI4
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Unterägyptischer Sellerie: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,10]
+1	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+2	𓇇𓇋𓇋𓏏𓆰𓏥	74000	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mḥ.wj
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDRLl2mKO75kOvnRAPY5q0de4
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zerkleinert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,10]
+1	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+
+# sent_id = IBYDQIKtOk174U5PqD7lwdDTbwc
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Verbrennung) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQOKE4jYHQE4yt2wiBzx8qiw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQEtsJYaiGk6urgDzN0u4unY
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Holz eines $mnq$-Baumes, zerkleinert: 1, $ꜥg.yt$-Teile der $wꜣm$-Frucht, zerkleinert: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,10] - [69,11]
+1	𓆱𓏏𓏤	121200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫt
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓏠𓈖𓈎𓆮	71440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnq
+4	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qnqn
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓂝𓎼𓇋𓇋𓏏𓆰𓏥	41700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥg.yt
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓍯𓄿𓅓𓆰𓏥	42870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣm
+9	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=qnqn
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQEliD8FrWEW4qLM00gF5SdE
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,11]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDQH0HOXMmjUVxg4P0Mtg8ilg
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Verbrennung) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,11]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQKxnKqxZREeGm3IJrKttKek
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Beseitigen von Aufhellung(en) einer Verbrennung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,11] - [69,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓋴𓎛𓌉𓆓𓏲𓇳𓏥	141340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḥḏ.w
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓏲𓃀𓂧𓏏𓊮	45430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wbd.t
+
+# sent_id = IBYDQBn7wdwEvUeZoH5MXOpEQGQ
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Zucker (?): 1, Honig: 1, Johannisbrot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,12]
+1	𓎢𓈙𓏲𓈒𓏥	165590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kšw
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQFhDguxO5UAhgkQBdtnoBWo
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde mit einem Dorn zerstoßen und (die Verbrennung werde) 〈da〉mit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,12] - [69,13]
+1	𓏏𓈙𓏏𓈙𓏲𓏴𓂝	173540	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tštš
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋴𓂋𓏏𓌕𓏥	139070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sr.t
+4	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓐛𓊃𓀜	168280	VERB	verb	VerbForm=Fin	_	_	_	Translit=gs
+6	𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDQGs67Si7ZE74kozWnzT9Q8w
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Roter Ocker, Bleiglanz.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,13]
+1	𓏠𓈖𓈙𓏏𓈒𓏥	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+2	𓄟𓋴𓅓𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+
+# sent_id = IBYDQFr2b0m92kYCrzlM5vTXhcc
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,13]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYDQJ7gijatVkKWvIYZzMm5XPI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde mit Milch(saft) einer Sykomore vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,13]
+1	𓋁𓃀𓐍𓏴	89	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣbḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+4	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+
+# sent_id = IBYDQJOabMRfFkNsmVXHddRgTaY
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Verbrennung) werde damit über viele Tage hinweg gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,13] - [69,14]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓇳𓏪	99060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hrw
+5	𓆈𓏲𓏪	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+
+# sent_id = IBYDQLuDFA998UtWggLsijUWZRI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQNJpuCLaP0kCh0lszT0uRW4
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Mehl vom Johannisbrot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,14]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQLWeuYdEMknXti1jvmV9QX0
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde mit Honig vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,14]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBYDQP93Dse9tkrerF0e2iDI9rY
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Verbrennung) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQGxUCV2zjUlYsQxdHwjmDNQ
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDRJyzf1ENIkO3gqaEKOYoQbA
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zerkleinert und in Öl/Fett (gegeben).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,15]
+1	𓈎𓈖𓈎𓈖𓏲𓏴𓂝	161450	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qnqn
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYDQALEcW8qWk3QoYJ5fEPCE4s
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Verbrennung) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,15]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDQHHxnR5s2ElfgS9US0SLqoQ
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQMk5ujoQik7BjXmswDznuiI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,15]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDQE0mxQv6nUJ6m0MJKcvpmME
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Verbrennung) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,15]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDQCuuyYNZtUlkpVPU94KuWxc
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQHvDLfWm4kP9ocTk8x5WU6k
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Brot aus Gerste und Fett, Salz (oder: $ḥmꜣ,yt$-Pflanzen).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,16]
+1	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+6	𓎛𓌴𓄿𓇋𓇋𓏏𓍖𓈒𓏥	105070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t
+
+# sent_id = IBYDQEDRg7iEX0HGh6bL7HTWxQ8
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,16]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDQPk0EN5vmkyJoQ7vfkf7ERo
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Dieses Rezept ist) wirklich vortrefflich.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,17]
+1	𓍱𓏤𓏛𓌷𓂝𓏛	851592	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šs-mꜣꜥ
+
+# sent_id = IBYDQCgjcUb1BUMHqeL1Jo6KOpM
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ich habe (die Wirksamkeit) gesehen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,17]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓌴𓁹𓄿𓈖	66270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBYDQCVjoj7IAEoJonyHtb68EK4
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Es) ist durch mich oft geschehen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,17]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+
+# sent_id = IBYDQJGsu3EOO0ljpWmvMtXL6FQ
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Heilmittel für das Beseitigen von Striemen durch Schläg(e):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,18]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓍼𓈎𓏲𓏥	39760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥrq.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓎛𓀜𓏷𓏏𓂝	102790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥw.yt
+
+# sent_id = IBYDQDscwGB38UFqpmKnZWQCM58
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Honig, Rindergalle, $bzn$-Salz des Töpfers, Wasser/Saft der $sꜣr$-Pflanze, Dattelsirup.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,18] - [69,19]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓏲𓂧𓂧𓆇	51940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdd
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+5	𓃀𓋴𓈖𓈒𓏥	57460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bzn
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓀨𓏲𓅪𓏏𓈒𓏥	853370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jqd.w-nḏs.t
+8	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+9	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+10	𓋴𓐟𓄿𓂋𓇋𓆰𓏥	126910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣr
+11	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+
+# sent_id = IBYDQJwo2n60P0Hvhl24p20rlg0
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,19]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYDQOCvVbbVUEl6r8Mc74mkQJE
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Striemen) werden darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDQFQocXhcS0SPmk8r0dmBnDI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQDTiEzgjskxal82EYB6y7ts
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Das Innere vom Kalzitalabaster, Ton der Statue, $mꜣd$-Mineral, Pflanzenbrei.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,19] - [69,20]
+1	𓏶𓅓𓏏𓈒𓏥𓈖𓏏𓍱𓊃𓊌𓏥	24740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jm.jt-n.t-šs
+2	𓇋𓐛𓅓𓆇	24690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓀾𓏤𓈒𓏥	170470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twt
+5	𓌴𓄿𓂧𓊌𓈒𓏥	67690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣd
+6	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBYDQIw8uAW9KkognvrxrpiKKmE
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Striemen) werden damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,20]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDQAtio7nre0lprEUwkYBfAaY
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQFaL424NIUUmveVQNqFWlvI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Gerstenmehl, Kuhmilch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,20]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+5	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+
+# sent_id = IBYDQKzKpLf9p0qfn3I267v1tSw
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+
+# sent_id = IBYDQKxsZrx6J0RRiW7N6fnFSmk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Honig.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,21]
+1	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBYDQEDQz8O9G0cyqzsBsDUksSg
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Die Striemen) werden damit handwarm (wörtl.: in Wärme des Fingers) gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,21]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓂋𓆑𓊮𓏛	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓂭𓏤	183430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏbꜥ
+
+# sent_id = IBYDQLQpk9zrp0GHuVBgtmCGvPY
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDQOZfMhAWmEydmwtZ1fgcQ1E
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,22]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYDQA3U5ecUl06UiVMP6FCWV1Q
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde in einen $fqꜣ$-Kuchen gegeben
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,22]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆑𓈎𓄿𓏒	64000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=fqꜣ
+
+# sent_id = IBYDQAMPuIOMd06TtnhTmhA8PrI
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (und) einen anderen (Kuchen) auf ihn;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,22]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	_	_	_	_	Translit=ky
+2	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYDQNWqzDRJ60OqqZQDMa0c7jU
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = werde in Honig getaucht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,22]
+1	𓏏𓐍𓃀𓈗	173210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tḫb
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBYDQAmex08fC086ng1An0C8bNk
+# corpus = sawmedizin
+# src_text_id = DMNIC3WYUFBV7BWEBVLZFS22UE
+# src_text = sawmedizin:Papyrus Ebers//67,17-69,22 ⸗ Eb 482-514: "Heilmittel für Verbrennungen" und "Heilmittel zum Beseitigen von Striemen"
+# owner = Lutz Popko
+# text_de = (Der Kuchen) werde vom Mann geschluckt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [69,22]
+1	𓂝𓅓𓄈𓀁	37500	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+

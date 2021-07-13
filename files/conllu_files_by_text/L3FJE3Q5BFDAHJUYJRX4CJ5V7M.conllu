@@ -1,0 +1,37 @@
+# sent_id = IBUBd0x7VJIaQE25vcW1qWB5WHI
+# corpus = bbawgrabinschriften
+# src_text_id = L3FJE3Q5BFDAHJUYJRX4CJ5V7M
+# src_text = bbawgrabinschriften:Architravfragment Inv.-Nr. 2396//〈Architravfragment Inv.-Nr. 2396〉
+# owner = Stefan Grunert
+# text_de = Der Wesir Idu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓉫𓃥𓅷	450276	_	epitheton-title	_	_	_	_	Translit=tꜣ.tj-zꜣb-ṯꜣ.tj
+2	𓇋𓂧𓀔𓅱	450309	PROPN	entity-name	_	_	_	_	Translit=Jdw
+
+# sent_id = IBUBdyH3HEpmoUjrmE1yXDEkFQo
+# corpus = bbawgrabinschriften
+# src_text_id = L3FJE3Q5BFDAHJUYJRX4CJ5V7M
+# src_text = bbawgrabinschriften:Architravfragment Inv.-Nr. 2396//〈Architravfragment Inv.-Nr. 2396〉
+# owner = Stefan Grunert
+# text_de = Der Vorsteher jeder Arbeit des Königs Nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓅓𓂋𓂓𓏏𓀋𓎟𓈖𓇓𓏏𓈖	401164	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-kꜣ.t-nb.t-n.t-nswt
+2	𓄤𓆑𓂋	450295	PROPN	entity-name	_	_	_	_	Translit=Nfr
+
+# sent_id = IBUBd6PBa6nt2EvyoCMQmHaUQxo
+# corpus = bbawgrabinschriften
+# src_text_id = L3FJE3Q5BFDAHJUYJRX4CJ5V7M
+# src_text = bbawgrabinschriften:Architravfragment Inv.-Nr. 2396//〈Architravfragment Inv.-Nr. 2396〉
+# owner = Stefan Grunert
+# text_de = Der Kammerdiener des Königs, der Würdige Idu.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓇓𓏏𓁶𓌨	450367	_	epitheton-title	_	_	_	_	Translit=ẖr.j-tp-nswt
+2	𓇋𓌳𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+3	𓇋𓂧𓀔𓅱	450309	PROPN	entity-name	_	_	_	_	Translit=Jdw
+

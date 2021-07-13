@@ -1,0 +1,48 @@
+# sent_id = IBUBd6NnQFS4aUaehKkrzqBhTx4
+# corpus = bbawgrabinschriften
+# src_text_id = FFO4BHHCA5FT7CPXQH3IAJGP2Y
+# src_text = bbawgrabinschriften:Nordwand//Tier-Beischriften
+# owner = Stefan Grunert
+# text_de = Ein Jungtier der weißen Säbelantilooe.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.Reg.v.o.⁝1]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+2	𓌉	66260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣ-ḥḏ
+
+# sent_id = IBUBd2H5KSJGxkP6lPLWEnQZVOY
+# corpus = bbawgrabinschriften
+# src_text_id = FFO4BHHCA5FT7CPXQH3IAJGP2Y
+# src_text = bbawgrabinschriften:Nordwand//Tier-Beischriften
+# owner = Stefan Grunert
+# text_de = Ein Jungtier von der Viehweide,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1.Reg.v.o.⁝2]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓈘	71850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+
+# sent_id = IBUBdysMAZPv4Ev4rMAdcyTmAIY
+# corpus = bbawgrabinschriften
+# src_text_id = FFO4BHHCA5FT7CPXQH3IAJGP2Y
+# src_text = bbawgrabinschriften:Nordwand//Tier-Beischriften
+# owner = Stefan Grunert
+# text_de = Ein Jungtier des Steinbocks.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.Reg.v.o.⁝1]
+1	𓂋𓈖	94720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+2	𓈖𓇋𓄿	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+
+# sent_id = IBUBdz6ZM4j5YEQbgYmS2mWAoCM
+# corpus = bbawgrabinschriften
+# src_text_id = FFO4BHHCA5FT7CPXQH3IAJGP2Y
+# src_text = bbawgrabinschriften:Nordwand//Tier-Beischriften
+# owner = Stefan Grunert
+# text_de = Eine Kuh.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2.Reg.v.o.⁝2]
+1	𓇋𓍯𓏏	22200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwꜣ.t
+

@@ -1,0 +1,15 @@
+# sent_id = IBUBdQSkuqcQCkiGnwOuyEiXUIk
+# corpus = bbawamarna
+# src_text_id = CEA5I5CU6NE5ZLFXU4GSGVWVQY
+# src_text = bbawamarna:〈2〉 Blöcke: 0105.11312 + 0101.11301//Fragmente eines Sedfest-Rituals
+# owner = Ingelore Hafemann
+# text_de = Sei du gegrüßt - (Oh) Horus, jeden Tag!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Col.1]
+1	𓇋𓐩	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+5	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+

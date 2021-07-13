@@ -1,0 +1,54 @@
+# sent_id = IBUBd3vSLzrMikd7oahPDJhQkkw
+# corpus = bbawgrabinschriften
+# src_text_id = MROQNJ5DBJGDPCHKEBONDLM2FQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, 〈〈ein Opfer, das〉〉 Anubis, Herr der Nekropole, der vor der Götterhalle ist, 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 1.24⁝1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓎟𓇿𓂦	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+6	𓏃𓏏𓊹𓉱	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+
+# sent_id = IBUBdydCSWJckkL9mWUz7L8N1zw
+# corpus = bbawgrabinschriften
+# src_text_id = MROQNJ5DBJGDPCHKEBONDLM2FQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Er möge bestattet werden in der westlichen Begräbnisstätte, indem er sehr schön alt ist.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 1.24⁝1]
+1	𓈎𓂋𓌠𓋴𓊭𓏏	161940	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qrs
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓊃𓈉𓏏	134780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zmy.t
+5	𓊿𓏏𓏏	26150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jmn.tj
+6	𓀗	20480	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jꜣwi̯
+7	𓄤	400458	ADV	adverb	_	_	_	_	Translit=nfr
+8	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+
+# sent_id = IBUBdyavWaEcGEHWqjSzVNzPBnE
+# corpus = bbawgrabinschriften
+# src_text_id = MROQNJ5DBJGDPCHKEBONDLM2FQ
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Er möge auf den schönen Wegen gehen, auf denen die Ehrwürdigen dort vor dem großen Gott gehen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [Text 1.24⁝1]
+1	𓐍𓊪𓂻	116050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈐𓈐𓈐	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+5	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+6	𓐍𓊪𓊪𓂻𓏏	116050	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ḫpi̯
+7	𓇋𓌳𓄪𓐍𓅱	25090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jmꜣḫ.w
+8	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+9	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+10	𓊹𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+

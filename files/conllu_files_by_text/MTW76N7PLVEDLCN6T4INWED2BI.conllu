@@ -1,0 +1,60 @@
+# sent_id = IBUBdz3u8Qx0iEtsrWYydFcjNbw
+# corpus = sawlit
+# src_text_id = MTW76N7PLVEDLCN6T4INWED2BI
+# src_text = sawlit:〈12. 〉oKairo CG 25217//Außen: Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Seine Stimme ist lauter als die des $abw$-Vogels.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [1]
+1	𓈎𓄿𓀠𓏛	158990	ADJ	adjective	_	_	_	_	Translit=qꜣ
+2	𓊤𓏲𓀁𓏥	120010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫrw
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓂝𓃀𓏲𓄏𓅯𓏥	36580	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥbꜣ
+
+# sent_id = IBUBd7TsDg3MnkzNjFxnJjYd1ek
+# corpus = sawlit
+# src_text_id = MTW76N7PLVEDLCN6T4INWED2BI
+# src_text = sawlit:〈12. 〉oKairo CG 25217//Außen: Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Er muß in seinen Lumpen sein.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓐍𓂋	119600	PART	particle	_	_	_	_	Translit=ḫr
+2	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓍉𓊪𓏲𓍱𓏛	148100	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=stp
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWMurrbjWEiXhSKixxiZxL8
+# corpus = sawlit
+# src_text_id = MTW76N7PLVEDLCN6T4INWED2BI
+# src_text = sawlit:〈12. 〉oKairo CG 25217//Außen: Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Er ist unversehrt in einem Unversehrt-Sein von/bei Löwen (d.h. er fühlt sich so wohl, wie man sich in der Gesellschaft eines Löwen überhaupt fühlen kann; m.a.W.: er fühlt sich hundsmiserabel).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [3]
+1	𓅱𓍑𓄿𓏛	52090	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏲𓍑𓄿𓏛	52090	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
+4	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+5	𓅁𓇋𓅱𓄛	66370	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mꜣj
+
+# sent_id = IBUBdzac6mnafk89p9Hza3Wu34k
+# corpus = sawlit
+# src_text_id = MTW76N7PLVEDLCN6T4INWED2BI
+# src_text = sawlit:〈12. 〉oKairo CG 25217//Außen: Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Schlimm ist das Nilpferd gegen ihn.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [4]
+1	𓍋𓅓𓂋𓅪	851222	ADJ	adjective	_	_	_	_	Translit=mr
+2	𓂧𓃀𓇋𓏲𓏛𓏥	178280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbj
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

@@ -1,0 +1,100 @@
+# sent_id = IBcAWatZQdwWEUTNt4QWWzZS00Q
+# corpus = tuebingerstelen
+# src_text_id = TA5PPJERPVDVPF7ZFCSLYKUZ4Y
+# src_text = tuebingerstelen:Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)//Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)
+# owner = Susanne Beck
+# text_de = König von Ober- und Unterägypten, Nimaacherure, er möge leben ewiglich, für den Ka des Kammerherrn der Gaben, Chui.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = 1
+1	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+2	𓇳𓌷𓊤𓅱𓈖	867605	PROPN	entity-name	_	_	_	_	Translit=N.j-mꜣꜥ-ḫrw-Rꜥw
+3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+4	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+5	𓆓𓏏𓇿	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓂓	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+8	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+9	𓀺𓂝𓏏𓉐𓏋𓅱	401058	_	epitheton-title	_	_	_	_	Translit=jr.j-ꜥ.t-n-ḥnk.t
+10	𓐍𓂤𓅱𓇋𓇋𓀀	705498	PROPN	entity-name	_	_	_	_	Translit=Ḫw.j
+
+# sent_id = IBcAWROz0W9XrUsAqCNxfLQbn8U
+# corpus = tuebingerstelen
+# src_text_id = TA5PPJERPVDVPF7ZFCSLYKUZ4Y
+# src_text = tuebingerstelen:Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)//Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)
+# owner = Susanne Beck
+# text_de = Ein Opfer, das der König (und) Osiris, der Herr von Anch-Taui, gibt.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = 1
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓎟𓋹𓈖𓐍𓇾𓇾	400617	_	epitheton-title	_	_	_	_	Translit=nb-ꜥnḫ-Tꜣ.wj
+
+# sent_id = IBcAWZoW2LMUoEXarGuXrMoJMTs
+# corpus = tuebingerstelen
+# src_text_id = TA5PPJERPVDVPF7ZFCSLYKUZ4Y
+# src_text = tuebingerstelen:Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)//Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)
+# owner = Susanne Beck
+# text_de = Seine Mutter, Hedschet, gerechtfertigt.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = 5
+1	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌉𓆓𓏏𓇿	_	_	_	_	_	_	_	_
+4	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBcAWTXKG0OoxkJkp8falis9lac
+# corpus = tuebingerstelen
+# src_text_id = TA5PPJERPVDVPF7ZFCSLYKUZ4Y
+# src_text = tuebingerstelen:Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)//Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)
+# owner = Susanne Beck
+# text_de = Ib, den Hedschet, die Herrin des Hauses, die Herrin der Ehrwürdigkeit, gebar.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = 6
+1	𓇋𓃀𓃙	703221	PROPN	entity-name	_	_	_	_	Translit=Jb
+2	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓌉𓆓𓏏𓇿	867575	PROPN	entity-name	_	_	_	_	Translit=Ḥḏ.t
+4	𓎟𓏏𓇋𓄪𓏤	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBcAWWI8SBkqukPArWOCshuTn2c
+# corpus = tuebingerstelen
+# src_text_id = TA5PPJERPVDVPF7ZFCSLYKUZ4Y
+# src_text = tuebingerstelen:Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)//Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)
+# owner = Susanne Beck
+# text_de = Iu, den Irates gebar.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = 6
+1	𓇋𓅱	_	X	unknown	_	_	_	_	_
+2	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓇋𓂋𓄿𓏏𓋴	867572	PROPN	entity-name	_	_	_	_	Translit=Jr-ꜣ.t⸗s
+
+# sent_id = IBcAWbrVtuH6BU6VvggtkiL45w4
+# corpus = tuebingerstelen
+# src_text_id = TA5PPJERPVDVPF7ZFCSLYKUZ4Y
+# src_text = tuebingerstelen:Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)//Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)
+# owner = Susanne Beck
+# text_de = Irates, die It gebar.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = 6
+1	𓇋𓂋𓄿𓋴𓏏	867572	PROPN	entity-name	_	_	_	_	Translit=Jr-ꜣ.t⸗s
+2	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓇋𓏏	710588	PROPN	entity-name	_	_	_	_	Translit=Jt
+
+# sent_id = IBcAWfMDZymssUsZgZFIZntcOzg
+# corpus = tuebingerstelen
+# src_text_id = TA5PPJERPVDVPF7ZFCSLYKUZ4Y
+# src_text = tuebingerstelen:Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)//Stele des Chui (Äg. Slg. Tübingen Inv. Nr. 464)
+# owner = Susanne Beck
+# text_de = Djimut, die Semut gebar.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = 6
+1	𓂝𓅐𓏏	867578	PROPN	entity-name	_	_	_	_	Translit=Ḏ-Mw.t
+2	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓋴𓅐𓏏	706697	PROPN	entity-name	_	_	_	_	Translit=Smw.t
+

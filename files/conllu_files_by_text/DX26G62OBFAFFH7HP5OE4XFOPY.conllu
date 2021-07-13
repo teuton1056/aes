@@ -1,0 +1,50 @@
+# sent_id = IBUBdxekKfCIsEg9ljKWORN7voE
+# corpus = bbawgrabinschriften
+# src_text_id = DX26G62OBFAFFH7HP5OE4XFOPY
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis 〈〈gibt:〉〉
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+
+# sent_id = IBUBdQvY6ZolzkJNiuRFejvPMaw
+# corpus = bbawgrabinschriften
+# src_text_id = DX26G62OBFAFFH7HP5OE4XFOPY
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = Er möge wandeln auf den schönen Wegen in sehr schönem Frieden, der Vorsteher der Aktenschreiber des Königs Seschem-nefer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] -  [3]
+1	𓇋𓐍𓊪𓂻	116050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈐𓈐𓈐	42490	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜣ.t
+5	𓄤𓂋𓏏	550034	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nfr
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊵𓏏	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+8	𓄤	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+9	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+10	𓅓𓂋𓇓𓏏𓏞𓂝𓏝	450419	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-zẖꜣ.ww-ꜥ-n-nswt
+11	𓋴𓌮𓄤	707086	PROPN	entity-name	_	_	_	_	Translit=Sšm-nfr
+
+# sent_id = IBUBdQkwvcPovUJtsWqQHfmPR7Q
+# corpus = bbawgrabinschriften
+# src_text_id = DX26G62OBFAFFH7HP5OE4XFOPY
+# src_text = n/a
+# owner = Stefan Grunert
+# text_de = 〈〈Ein Opfer, das der König gibt, ein Opfer, das Anubis,〉〉 der vor der Gotteshalle ist, 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1] -  [2]
+1	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓏃𓏏𓊹𓉱	119260	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-zḥ-nṯr
+

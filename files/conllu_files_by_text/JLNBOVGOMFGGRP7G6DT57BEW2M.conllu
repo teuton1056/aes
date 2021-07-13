@@ -1,0 +1,108 @@
+# sent_id = IBUBd0cMklQQtUSFnZjh8oE3bt4
+# corpus = sawmedizin
+# src_text_id = JLNBOVGOMFGGRP7G6DT57BEW2M
+# src_text = sawmedizin:Papyrus Edwin Smith//22.11-14 ⸗ Vso 5.11-14: Heilmittel für Probleme am Hintern
+# owner = Peter Dils
+# text_de = Wenn du dir einen Mann (d.h. Patienten) anschaust, der an seinem Hintern leidet, wenn er aufsteht oder sich hinsetzt,  (und) der sehr stark an $nḏr.wt$-Zusammenziehungen(?) in seinen beiden Beinen leidet,  dann mußt du ihm (folgendes) Heilmittel geben:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.11 = Vso 5.11] - [22.12 = Vso 5.12]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓌳𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓄖	61490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wj
+8	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+9	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈟𓊃𓀉	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+15	𓈖𓇥𓂋𓅱𓏏𓐎𓏥	863005	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḏrw.t
+16	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=rd
+18	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+19	𓉻𓂝𓄿𓏛	34780	ADV	adverb	_	_	_	_	Translit=ꜥꜣ.w
+20	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+21	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+22	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+23	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+25	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUBd2Rm48E2iEL9gu4utNiWuJg
+# corpus = sawmedizin
+# src_text_id = JLNBOVGOMFGGRP7G6DT57BEW2M
+# src_text = sawmedizin:Papyrus Edwin Smith//22.11-14 ⸗ Vso 5.11-14: Heilmittel für Probleme am Hintern
+# owner = Peter Dils
+# text_de = Öl/Fett, $zꜣ-wr$-Mineral (Großer-Schutz-Mineral), Blätter der Dornakazie.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.12 = Vso 5.12]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+2	𓎃𓏤𓏛𓏥𓅨𓂋𓈒𓏥	125920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ-wr
+3	𓄔𓏥	185150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏrḏ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓍲𓈖𓂧𓏏𓆭𓈒𓏥	156510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnḏ.t
+
+# sent_id = IBUBd9Qbv0QKkEEVhEhpksKZzGk
+# corpus = sawmedizin
+# src_text_id = JLNBOVGOMFGGRP7G6DT57BEW2M
+# src_text = sawmedizin:Papyrus Edwin Smith//22.11-14 ⸗ Vso 5.11-14: Heilmittel für Probleme am Hintern
+# owner = Peter Dils
+# text_de = (Es) werde fein zerrieben (wörtl.: zerrieben, indem es fein/glatt gemacht ist);
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.13 = Vso 5.13]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓊃𓈖𓂝𓂝𓏞𓏛	136700	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBUBd7onGwVmsEawqWrlTI8pzdY
+# corpus = sawmedizin
+# src_text_id = JLNBOVGOMFGGRP7G6DT57BEW2M
+# src_text = sawmedizin:Papyrus Edwin Smith//22.11-14 ⸗ Vso 5.11-14: Heilmittel für Probleme am Hintern
+# owner = Peter Dils
+# text_de = (Es) werde zu einer einzigen Masse gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.13 = Vso 5.13]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd1O9rHY2mkaLqAbBEQurYF4
+# corpus = sawmedizin
+# src_text_id = JLNBOVGOMFGGRP7G6DT57BEW2M
+# src_text = sawmedizin:Papyrus Edwin Smith//22.11-14 ⸗ Vso 5.11-14: Heilmittel für Probleme am Hintern
+# owner = Peter Dils
+# text_de = Ein $stp$-Tuch/Lappen aus (feinstem) $pꜣq.t$-Leinen werde damit eingecremt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.13 = Vso 5.13]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓍉𓊪𓋳	148100	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=stp
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓆀𓈎𓏏𓋳	59330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd68d2bfHWENeinMRGgdHvf0
+# corpus = sawmedizin
+# src_text_id = JLNBOVGOMFGGRP7G6DT57BEW2M
+# src_text = sawmedizin:Papyrus Edwin Smith//22.11-14 ⸗ Vso 5.11-14: Heilmittel für Probleme am Hintern
+# owner = Peter Dils
+# text_de = (Er/es) werde in den Anus/Mastdarm gegeben, so daß er (d.h. der Patient) sofort gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [22.13 = Vso 5.13] - [22.14 = Vso 5.14]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓄖𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+

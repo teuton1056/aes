@@ -1,0 +1,28 @@
+# sent_id = IBUBdyi42qDQyUzjgBxuPnX7FfI
+# corpus = sawlit
+# src_text_id = MHQCYHVVJBC4FILBA6DHWJDFUY
+# src_text = sawlit:〈17. 〉oTurin CGT 57082//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Lüge nicht mit deinem Mund!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rto, 7]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓎼𓂋𓍅𓏛𓏥	168040	NOUN	substantive	VerbForm=Fin	_	_	_	Translit=grg
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdy1VyjhW6kIKtNbpyKn9Q78
+# corpus = sawlit
+# src_text_id = MHQCYHVVJBC4FILBA6DHWJDFUY
+# src_text = sawlit:〈17. 〉oTurin CGT 57082//Die Lehre des Cheti
+# owner = Peter Dils
+# text_de = Achte darauf!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rto, 10]
+1	𓂋𓂚𓄿𓀜𓏛	39920	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥḥꜣ
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+

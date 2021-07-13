@@ -1,0 +1,845 @@
+# sent_id = IBcAZyQCyJLQ3kjaqJqWV12iIAo
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Du sollst sie beräuchern mit $mjmj$-Früchten (Durra?) an ihrem Uterus, so dass sie verhütet, dass sie empfängt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,1 = vso. 1,1]
+1	𓊶𓊪𓏲𓊮𓐍𓂋	163310	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣp
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓅓𓏭𓅓𓏭𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓎩𓏏𓏯	850291	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jd.t
+8	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+9	𓏏𓍃𓅓𓏏𓏛	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+10	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+11	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+12	𓊏𓊪𓀜𓂸𓏤	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+13	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBcAZwJhJejo3ES3gghJHXifZp8
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Fett / Öl: 1/64 (Oipe ⸗ 1 Dja), Sellerie: 1/64 (Oipe ⸗ 1 Dja), süßes Bier: 1/64 (Oipe ⸗ 1 Dja).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,2 = vso. 1,2]
+1	𓌸𓂋𓎛𓏏𓏊𓏫	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+2	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓌴𓏏𓏏𓆰𓏫	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+4	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓈎𓏏𓏊𓏫	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+6	𓇛𓅓𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+7	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAZzoKNgTSKExwk1KaLYJQpc8
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde gekocht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,2 = vso. 1,2]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAZ2NoLQxD607knCQoKz3XmmY
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = $bdd.w-kꜣ$-Pflanzen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,3 = vso. 1,3]
+1	𓃀𓂧𓂧𓏲𓆰𓏫𓂓𓃒𓂸𓏲𓆰𓏫	861516	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bdd.w-kꜣ
+
+# sent_id = IBcAZ4NBRDGSjkxeuajESe4q35Q
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde zerrieben; werde eingeschlossen in Milch einer (Frau), die einen Jungen geboren hat; werde zu einem Schluckmittel gemacht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,3 = vso. 1,3]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓐍𓏏𓅓𓏲𓋩𓀜	121710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫtm
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓇋𓁹𓂋𓏏𓈒𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+5	𓈖𓏏𓏭	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓄟𓋴𓏯	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=msi̯
+7	𓅷𓄿𓂸𓏤	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+8	𓁹𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓊃𓂝𓅓𓏲𓀁𓈅𓏥	862961	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥm.w
+
+# sent_id = IBcAZ6gjJ8zlDEHoslJ0aQmLiQc
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde von der Frau geschluckt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,4 = vso. 1,4]
+1	𓂝𓅓𓏲𓀁	37500	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+
+# sent_id = IBcAZWax1CIGTEfPrlDFt2HkIck
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn sie erbricht, so wird sie gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,4 = vso. 1,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈎𓂋𓇋𓄿𓂐	159720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qjs
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓄟𓋴𓏯	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBcAZyykQ0yj6kvtpqMOv2jad7E
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn sie Winde lässt, wird sie niemals gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,4 = vso. 1,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓆓𓂝𓊡	182490	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜥ
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+5	𓄟𓋴𓏯	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓎛𓇳𓎛	86570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥḥ
+
+# sent_id = IBcAZ4XJZLZlykTkqMvzbapphA0
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Was man sagt dazu als anderes / weiteres Mittel:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,5 = vso. 1,5]
+1	𓆓𓂧𓏏𓏥	185810	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḏd
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓎢𓏏𓍘𓇋	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+6	𓄲𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBcAZ8aQ7J5MREjttKl3r9mXok8
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = $bdd.w-kꜣ$-Pflanzen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,5 = vso. 1,5]
+1	𓃀𓂧𓂧𓆰𓏫𓂓𓂸𓃒𓆰𓏫	861516	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bdd.w-kꜣ
+
+# sent_id = IBcAZ6hbAhNnikKKqc3NbOEl90s
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde eingeschlossen in Milch einer (Frau), die einen Jungen geboren hat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,5 = vso. 1,5]
+1	𓐍𓏏𓅓𓏲𓋩𓀜	121710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫtm
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓁹𓂋𓏏𓏊𓏫	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓄟𓋴𓏯𓀔	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=msi̯
+6	𓅷𓄿𓇋𓇋𓂸𓏤	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+
+# sent_id = IBcAZyDw0bBRGkqyg4ENGSiJ7Ms
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde in ihre Vulva eingegossen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,5 = vso. 1,5]
+1	𓎘𓎛𓏲𓏊𓀜	854504	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂓𓏏𓏯𓄹	162990	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ.t
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAZ6RWemORFEjhv6nd6pYR8cQ
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn sie sich erbricht, wird sie gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,5 = vso. 1,5] - [22,6 = vso. 1,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈎𓄿𓋴𓂐	159720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qjs
+3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓄟𓋴𓀔	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+5	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBcAZz9YvbwF1kkMi9mYyistbNQ
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn sie Winde lässt, so bedeutet es, dass sie nicht gebären wird.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,6 = vso. 1,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓆓𓂝𓊡	182490	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜥ
+3	𓋴𓏏	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+5	𓄟𓋴𓏯𓀔	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+7	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcAZ3FVlqqlk0tChzguBATXVE4
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Feststellen einer Frau, die nicht gebären kann in […] in / durch irgendeine Sache:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,7 = vso. 1,7]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓌴𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+3	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+4	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+5	𓄟𓋴𓏯𓏲𓆇	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓅘	850831	X	undefined	_	_	_	_	Translit=-
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+10	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcAZ8YKwAEoS0dVpJkFQ4S6Nxs
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Sie soll beräuchert werden mit Nilpferdkot.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,7 = vso. 1,7]
+1	𓊶𓊪𓏲𓏏𓊮𓐍𓂋𓏏𓏲	163310	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣp
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓎛𓋴𓐎𓆇𓏫	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+5	𓂧𓃀𓇋𓏲𓄛	178280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbj
+
+# sent_id = IBcAZWRr07GE60P9iApVpvNeykQ
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn (sich) nichts davon tut, so wird sie nicht gebären, denn sie ist eine, der sich irgendwelche Dinge (in den Weg) gestellt haben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,8 = vso. 1,8]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏏𓍃𓅓𓏏𓏛	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓄟𓋴𓏯𓀔	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+10	𓅓𓂝𓈖𓏏𓏭	851143	ADP	preposition	_	_	_	_	Translit=m-ꜥ-n.tjt
+11	𓋴𓏏	851204	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+12	𓊢𓂝𓂻	851887	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=ꜥḥꜥ
+13	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+14	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+15	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+16	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcAZ1rUumG3EUSClXFL6jRjMC4
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = [Ein anderes] Feststellen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22.9 = vso. 1.9]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓌴𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+
+# sent_id = IBcAZxsMtU0JeURWtaFnuqJjvf0
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Am Morgen betrachtest du sie.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22.9 = vso. 1.9]
+1	𓇼𓄿𓏲𓇳	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓌴𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+5	𓋴𓏏	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAZ7cRRTmO1khYkZngSiNBEgM
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Findest du ihre Gefäße schön blau-grün (und) nicht eingesunken, (so bedeutet es) eine zufriedenstellende (d.h. komplikationslose?) Geburt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22.9 = vso. 1.9] - [22,10 = vso. 1,10]
+1	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂸𓏏𓄹𓏥	77310	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=mt
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓇅𓆓𓏛	43580	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣḏ
+6	𓄤𓆑𓂋	400458	ADV	adverb	_	_	_	_	Translit=nfr
+7	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+8	𓉔𓂋𓊪𓏲𓈗	99170	VERB	verb	VerbForm=Fin	_	_	_	Translit=hrp
+9	𓄟𓋴𓇋𓇋𓏏𓏯	75070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msw.t
+10	𓊵𓏏𓊪𓏏𓏯	111230	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥtp
+
+# sent_id = IBcAZzfBo3IZ6k2aoD7ZOepWCts
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Findest du sie eingesunken wie die Haut(oberfläche) ihres Körpers, so bedeutet es Fehlgeburt (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,10 = vso. 1,10]
+1	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏𓏥	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓉔𓄿𓂋𓊪𓏲𓈗	99170	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hrp
+5	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+6	𓆛𓈖𓌰𓅓𓏛	27420	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jnm
+7	𓎛𓂝𓏏𓄹𓏫	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+8	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+9	𓃀𓈖𓂧𓂸𓏤	56260	VERB	verb	VerbForm=Fin	_	_	_	Translit=bnḏ
+10	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcAZ8asGEiYlEAshfMBEHk7IqY
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Findest du sie dunkelblaugrün am Tage des sie Betrachtens, so wird sie unter Verzögerung (d.h. Komplikationen? / langwieriger Geburtsvorgang?) gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,10 = vso. 1,10] - [22,11 = vso. 1,11]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋴𓏏	400960	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+5	𓇅𓆓𓏛	43580	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣḏ
+6	𓎢𓎢𓏲𓏭𓇰	165620	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=kki̯
+7	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=hrw
+8	𓌴𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+9	𓋴𓏏	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+10	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+11	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓄟𓋴𓏯𓀔	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+14	𓏲𓆓𓆑𓄿𓏲𓅯𓅪𓏫	51620	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wdfi̯
+
+# sent_id = IBcAZ1zaaopwrEFagTqKWPo2KEs
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Feststellen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,11 = vso. 1,11]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓌴𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+
+# sent_id = IBcAZzJFMI2BAk7IjkN9ubvRFpY
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Du sollst ihre Finger mit deiner Hand ausstrecken.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,11 = vso. 1,11]
+1	𓇓𓏏𓈖𓀜𓐍𓂋	149730	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sdwn
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcAZWFIvpVAJEaHtfXPmQaF77U
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Dann krümmst du ihren Unterarm.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,11 = vso. 1,11]
+1	𓈎𓂋𓆑𓂘𓂡𓇋𓈖	161690	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qrf
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBcAZ3I033qQgUwJjkk2VcRZuQw
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Dann fährst du damit über ihren Leib, während du ihre Pulsstelle mit deinen Fingern ergriffen hast / hältst und deinen Oberarm (?) sich über jeden Weg ihres Unterarms schlängelt (?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,11 = vso. 1,11] - [22,12 = vso. 1,12]
+1	𓂙𓈖𓏲𓊛𓀜𓇋𓈖	123230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖni̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆓𓏏𓏤	181350	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏ.t
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+7	𓇋𓋴𓏏𓏲	851440	PART	particle	_	_	_	_	Translit=jsṯ
+8	𓄿𓅓𓂢𓂡𓈖	144	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmm
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓏠𓈖𓇋𓄿𓂢	70290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnjꜣ
+11	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓂭𓂭𓂭𓏥	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+14	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+16	𓂢𓈖𓇋𓄹	854523	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rmn
+17	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+18	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+19	𓆙	186240	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏdf
+20	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+21	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+22	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+23	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+24	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+25	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAZ1F1iF0dkUtRpLcX5noIAAE
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn das Gefäß im Inneren ihres Unterarms gegen deine Hand pocht (lit. sich abweisend verhält; d.h. du den Puls fühlst), dann sollst du sagen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,12 = vso. 1,12] - [22,12 = vso. 1,13]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓈖𓇋𓄿𓂢	79810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ni̯
+3	𓂸𓏏𓏯𓄹	77310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mt
+4	𓅓𓄚𓈖𓏌𓏲𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+5	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcAZ9raWbSD50thtSHfm6BdNz4
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = "Sie wird schwanger werden."
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [22,12 = vso. 1,13]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓃛𓏲𓅨𓂋𓏏𓁑	22930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwr
+
+# sent_id = IBcAZ9C4UkLMxUCvjPomev1yo2Y
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Feststellen:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,1 = vso. 2,1]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓌴𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+
+# sent_id = IBcAZWtAOKiRu0mnizmqtnlyb6w
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Du sollst veranlassen, dass sie in einer Türlaibung steht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,1 = vso. 2,1]
+1	𓂋𓂝𓏏𓂋𓐍𓏛	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢𓏲𓀀	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+4	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓅱𓂸𓏏𓏯𓉐	45950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wmt
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓇼𓄿𓏏𓉐	131200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbꜣ
+
+# sent_id = IBcAZzZzLNfWH0VFkTWxtp1wAzg
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn du die Iris (lit. Gestalt) ihrer Augen findest, indem das eine wie ein Asiate, das andere wie ein Nubier ist, so wird sie nicht gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,1 = vso. 2,1] - [23,2 = vso. 2,2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅠𓅓𓏛	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓏏𓏲𓀾𓏫	170470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twt
+5	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓁹𓏏𓏤𓄹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+8	𓌡𓂝𓏤	600041	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+9	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+10	𓌙𓅓𓏲𓀀𓁐𓏥	35400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣm
+11	𓎢𓏏𓍘𓇋	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+12	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+13	𓌙𓋴𓏭𓀀	86650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥs.j
+14	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+15	𓄟𓋴𓏯	74950	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+16	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAZWSn7DgfS0lXtPwEcFKi7A8
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Feststellen, ob eine Frau gebären (oder) ob sie nicht gebären wird:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,2 = vso. 2,2]
+1	𓎢𓇋𓇋	163760	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ky
+2	𓌴𓂂𓂂	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+3	𓄟𓋴𓇋𓇋𓀔	74950	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=msi̯
+4	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓄟𓋴𓇋𓇋𓏯	74950	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=msi̯
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAZw6ASICUg0boskzdcA5EAGk
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Gerste; Emmer.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,3 = vso. 2,3]
+1	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+2	𓇣𓂧𓏏𓌾𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+
+# sent_id = IBcAZQ1WwK04yEZDnLJgMjWnjbM
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn sie alle (beide) wachsen, so wird sie (generell) gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,3 = vso. 2,3] - [23,4 = vso. 2,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓌗𓏛𓏥	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+3	𓋴𓏏𓏥	851657	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+4	𓂋𓄫𓏲𓏛𓏥	91930	ADP	preposition	_	_	_	_	Translit=r-ꜣw
+5	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓄟𓋴𓏏𓏯	74950	VERB	verb	VerbForm=Fin	_	_	_	Translit=msi̯
+
+# sent_id = IBcAZ5RkPEE62kjCgCCZDRzkCG4
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn (nur) die Gerste wächst, so bedeutet es einen Jungen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,4 = vso. 2,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂋𓂧𓏲𓌗𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+3	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓅷𓄿𓇋𓇋𓂸𓏤	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcAZyssB3ocYEG1pBmVxRcgWvc
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn (nur) der Emmer wächst, so bedeutet es ein Mädchen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,4 = vso. 2,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓌗𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+3	𓇣𓂧𓏏𓌾𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+4	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+5	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcAZ7FA27VThkuOlT0bkwjFAzE
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Wenn sie nicht wachsen, wird sie nicht gebären.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,4 = vso. 2,4] - [23,5 = vso. 2,5]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓏏𓍃𓅓𓏛	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋𓂧𓏲𓌗	96610	VERB	verb	VerbForm=Fin	_	_	_	Translit=rd
+5	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+6	𓄟𓋴𓇋𓇋𓏏𓏯	74950	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=msi̯
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBcAZ708yUj1d0kMlEHur98BKKM
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Heilmittel zum Beseitigen von Druck im Ohr:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,6 = vso. 2,6]
+1	𓄲𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓂧𓈖𓋴𓍖𓏛	179910	VERB	verb	VerbForm=Fin	_	_	_	Translit=dns
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄔𓏤𓄹	76230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=msḏr
+
+# sent_id = IBcAZWFoRlUpVkjlu7iwlyTUn58
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = $jnnk$-Pflanze (Konyza?): 1, Weihrauchharz: 1, Sellerie: 1, $pzn$-Brot: 1, Galle des Rindes: 1.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,7 = vso. 2,7] - [23,8 = vso. 2,8]
+1	𓇋𓆛𓈖𓎢𓆰𓏫	27520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnnk
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓊹𓌢𓏏𓂋𓇋𓆳𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓌴𓏏𓏏𓆰𓏫	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓊪𓇋𓋴𓏏𓈀𓏤	62200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pzn
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓃀𓈖𓆑𓄹	55810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnf
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓃒	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAZ0QLkn533UdokrCQNV6Wgzw
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde zu einer Kugel gemacht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,8 = vso. 2,8]
+1	𓁹𓏲	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓈙𓏏𓈅	157920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=št
+
+# sent_id = IBcAZ8XS2AfrU0M3poMkoIPWTBw
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde daran gegeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,8 = vso. 2,8]
+1	𓂞𓄹	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAZ8tq07V3JUUQlqCrgeb37AA
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel gegen Schleimstoffe in den Ohren:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,9 = vso. 2,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓄝𓏏𓏏𓏴𓏛	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄔𓏤𓄹𓄹	76230	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=msḏr
+
+# sent_id = IBcAZx7DGIKxM0bBmENasmSQoxo
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = $ꜥfꜣ.y$-Pflanze (Klee?).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,10 = vso. 2,10]
+1	𓂝𓆑𓄿𓆰𓏫	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+
+# sent_id = IBcAZwXqHyd2mUfirI4SaIzh2Xw
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde mit $jbr$-Öl / Salbe bestrichen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,10 = vso. 2,10]
+1	𓅨𓂋𓎛𓏲𓏊𓀜	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓇋𓃀𓂋𓇋𓎰𓏊𓏫	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+
+# sent_id = IBcAZwCPsyc1SERdr0fYayjWEVk
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde an das Ohr gegeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,10 = vso. 2,10]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄔𓏤𓄹	76230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=msḏr
+
+# sent_id = IBcAZ67BWCkSLkh2nZiN3Q3PdYY
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes (Heilmittel):
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,11 = vso. 2,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAZ8i6Ci7WokapjdmLK0UW1Qc
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde an das Ohr gegeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,11 = vso. 2,11]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄔𓇋𓄹	76230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=msḏr
+
+# sent_id = IBcAZ5EulQ3LfEAviUq2c46SqxI
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Ein anderes Heilmittel gegen Schleimstoffe im Ohr:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,12 = vso. 2,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏫	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓄝𓏏𓏏𓐎	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄔𓏤𓄹	76230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=msḏr
+
+# sent_id = IBcAZ5NBB0kzN08sudhZ4cbkkXI
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Bleiglanz: 1, Milchrahm / -fett: 1.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,12 = vso. 2,12]
+1	𓄟𓋴𓂧𓅓𓏏𓏪	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓅓𓂝𓉔𓄿𓈖𓏌𓏲𓏊𓏫	73160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mhwj
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAZ2vQppvwCkMLm4gIp1jNxi0
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde an das Ohr gegeben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [23,12 = vso. 2,12]
+1	𓂞𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓄔𓏤𓄹	76230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=msḏr
+
+# sent_id = IBcAZ5JmZfz7NUBigqBhq5ahb0g
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde in der Glut der Asche gekocht.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [24,11 = vso. 3,11]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓉔𓄿𓊮	97270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓋴𓋴	144010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ssf
+
+# sent_id = IBcAZ0Sbxv7cmkMit0WdMRYF12I
+# corpus = sawmedizin
+# src_text_id = MLJRY5YXT5D2FEXSNUVWZNRHNQ
+# src_text = sawmedizin:Papyrus Berlin P. 3038//〈Verso: 〉 Medizinischer Text
+# owner = Marc Brose
+# text_de = Werde vom Mann getrunken.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [24,12 = vso. 3,12]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+

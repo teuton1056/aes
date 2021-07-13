@@ -1,0 +1,35 @@
+# sent_id = IBUBdWGyHdt0X0WvjGArUkt0avw
+# corpus = bbawgrabinschriften
+# src_text_id = VYD2XUYMJ5ADFDKDYNFK77ZDDY
+# src_text = bbawgrabinschriften:Westwand//Schlachtungs-Beischriften
+# owner = Stefan Grunert
+# text_de = Das Schärfen des Messers.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓂧𓅓	852332	VERB	verb	VerbForm=Fin	_	_	_	Translit=dm
+2	𓂧𓋴	180620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ds
+
+# sent_id = IBUBd2eXffsdmU4PkpMyyARKR4c
+# corpus = bbawgrabinschriften
+# src_text_id = VYD2XUYMJ5ADFDKDYNFK77ZDDY
+# src_text = bbawgrabinschriften:Westwand//Schlachtungs-Beischriften
+# owner = Stefan Grunert
+# text_de = Das Fesseln.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2]
+1	𓈎𓅓𓋴𓐍	159470	VERB	verb	VerbForm=Fin	_	_	_	Translit=qꜣs
+
+# sent_id = IBUBd3MI6tOpzkN3tlCUuklZBm8
+# corpus = bbawgrabinschriften
+# src_text_id = VYD2XUYMJ5ADFDKDYNFK77ZDDY
+# src_text = bbawgrabinschriften:Westwand//Schlachtungs-Beischriften
+# owner = Stefan Grunert
+# text_de = Das Auslösen des Schenkels.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [3]
+1	𓍉𓏏𓊪	854554	VERB	verb	VerbForm=Fin	_	_	_	Translit=stp
+2	𓄘	116430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpš
+

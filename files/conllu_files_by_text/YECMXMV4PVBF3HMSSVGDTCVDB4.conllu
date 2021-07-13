@@ -1,0 +1,119 @@
+# sent_id = IBUBdQ5Rmm7CB08skIVXZidDQyU
+# corpus = bbawgraeberspzt
+# src_text_id = YECMXMV4PVBF3HMSSVGDTCVDB4
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 17: CT 227 / Tb 69 Var.
+# owner = Doris Topmann
+# text_de = Spruch, an der Seite des Osiris zu sein.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [17]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓃹𓈖𓈖	46050	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnn
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓐞𓏤	854572	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=gs
+6	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+
+# sent_id = IBUBdzdgVn4x00yCqGOEvVkbxME
+# corpus = bbawgraeberspzt
+# src_text_id = YECMXMV4PVBF3HMSSVGDTCVDB4
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 17: CT 227 / Tb 69 Var.
+# owner = Doris Topmann
+# text_de = Ich bin der Feurige, Bruder der Feurigen, Herr der Köpfe, der an Spitze lebt (?), der mit den Armen stark ist (?), mit schwachen(?) Beinen, der bei den $rḫ.yt$-Leuten ist.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [17] -  [19]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓄿𓋴𓃀𓊹	278	PROPN	entity-name	_	_	_	_	Translit=Ꜣzb
+3	𓌢𓈖𓊹	136230	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sn
+4	𓄿𓋴𓃀𓊹	856527	PROPN	entity-name	_	_	_	_	Translit=Ꜣzb.t
+5	𓎟𓁶𓏥	861770	_	epitheton-title	_	_	_	_	Translit=nb-tp.w
+6	𓋹𓈖𓐍	38530	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓄂𓏏𓏤	100310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜣ.t
+9	𓂡	87560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nḫt
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂢𓏭𓅱	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+12	𓎼𓈖𓈖	167540	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=gnn
+13	𓂋𓂧𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
+14	𓇋𓏶𓅓𓇥𓂋𓅱	854080	ADJ	adjective	_	_	_	_	Translit=jm.j-ḏr.w
+15	𓂋𓐍𓇋𓇋𓏏𓀀𓏥	95820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rḫ.yt
+
+# sent_id = IBUBdySGVc0LUk5Srh7YtCBYsFE
+# corpus = bbawgraeberspzt
+# src_text_id = YECMXMV4PVBF3HMSSVGDTCVDB4
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 17: CT 227 / Tb 69 Var.
+# owner = Doris Topmann
+# text_de = Ich bin Orion, der die Erde in Frieden erreicht, der gegenüber den $ꜣḫꜣḫ$-Sternen des Himmels fährt.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [19] -  [20]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓋴𓐠𓎛𓃅𓊹	853991	_	epitheton-title	_	_	_	_	Translit=Sꜣḥ
+3	𓋴𓐠𓃅𓂻	126980	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sꜣḥ
+4	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊵𓏏𓊪𓅱𓏪	111260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥtp.w
+7	𓋴𓊧𓂧𓂧𓊛	146360	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sqdi̯
+8	𓐍𓏏𓆑	116761	ADP	preposition	_	_	_	_	Translit=ḫft
+9	𓄿𓐍𓄿𓐍𓇼	247	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫꜣḫ
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd8ySm2AYSUG3kScv7XQio74
+# corpus = bbawgraeberspzt
+# src_text_id = YECMXMV4PVBF3HMSSVGDTCVDB4
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 17: CT 227 / Tb 69 Var.
+# owner = Doris Topmann
+# text_de = Ich bin Sepa am Tag des Sepa, der Älteste in seinem Feld.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [20] -  [22]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊃𓊪𓅮𓊹	132640	PROPN	entity-name	_	_	_	_	Translit=Zpꜣ
+3	𓉔𓂋𓅱𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=hrw
+4	𓊃𓊪𓅮	132640	PROPN	entity-name	_	_	_	_	Translit=Zpꜣ
+5	𓋴𓅓𓋴𓅱𓀘𓏥	856128	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sms.w
+6	𓅓𓏌𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+7	𓇏𓏏𓏏	141480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sḫ.t
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4EjRP6cIU3As71pRoVNqoQ
+# corpus = bbawgraeberspzt
+# src_text_id = YECMXMV4PVBF3HMSSVGDTCVDB4
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 17: CT 227 / Tb 69 Var.
+# owner = Doris Topmann
+# text_de = Ich bin Osiris (siegeln) (sein Vater) (seine Muttter) am Tag, als das Gemetzel angerichtet wurde.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [22] -  [23]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓁹𓊨𓊹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓐍𓏏𓅓𓏝	121710	VERB	verb	_	_	_	_	Translit=ḫtm
+4	𓇋𓏏𓆑𓊹	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅐𓊹	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓉔𓂋𓅱𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+9	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+10	𓂝𓆓𓏏𓌫𓏥	42040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥḏ.t
+
+# sent_id = IBUBd3AzKjQTS06ilevVK3XI2SA
+# corpus = bbawgraeberspzt
+# src_text_id = YECMXMV4PVBF3HMSSVGDTCVDB4
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 17: CT 227 / Tb 69 Var.
+# owner = Doris Topmann
+# text_de = {Sein Vater} mein Vater ist Geb, meine Mutter ist Nut.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [23] -  [24]
+1	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+2	𓇋𓏏𓆑𓊹	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓅬𓃀	167010	PROPN	entity-name	_	_	_	_	Translit=Gbb
+6	𓅐	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+9	𓏌𓏏𓇯𓁐	80940	PROPN	entity-name	_	_	_	_	Translit=Nw.t
+

@@ -1,0 +1,298 @@
+# sent_id = IBYCZDvsKGerK0jwjrjT5mGpdnc
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum (Ab)töten der $gḥ.w$-Krankheit:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,2]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓌪𓂝	134370	VERB	verb	VerbForm=Fin	_	_	_	Translit=smꜣ
+5	𓎼𓎛𓏲𓆈𓏥	168190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gḥ.w
+
+# sent_id = IBYCZLxtAjZafkEigDqmthPDX0s
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,4]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCZMvqJVfx3EwitmQ2SXigjko
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,4]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCZL9YF5owrk9nv7KKdsC1ebA
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZKCaClkAcEWMrHQrBf0HwCU
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,6] - [55,7]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYCZPEXcAwuv0NrheZkGNPyXRw
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,7]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCZEWGJ0j6q0lEmgr2JQ3Z9v8
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZKVQ3WDGcU26otHLoJv0tlk
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,9]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCZGcaYNMbQEGYpRNHg43BZTo
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZLoyhvjrRElUvLvoahP37mo
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,10]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCZKcSzSGeXEgHrf30YNEFMoY
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZCrAKZng2kjllzG872MTlWg
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,12]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCZODEzoGGMEBHihF6PO0bbuI
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZEDQxC2m40SOoJQpCPKyQIc
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,13]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYCZDoKtHHrOUQzmZ3Dk21nf2o
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde gegessen über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,13]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCZA10lSYrcURum2OV5dBieM4
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZEeELVRKlkx1nmmcsW75Zew
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZJjwSeTkIEzKpnjigSmYRGw
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Fayence: 1/64 (Oipe ⸗ 1 Dja), Stern der Dattel: 1/64 (Oipe ⸗ 1 Dja), süßes Bier: 1/64 (Oipe ⸗ 1 Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,15]
+1	𓇾𓆊𓈒𓏥	176620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯḥn.t
+2	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇼𓏤	131190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sbꜣ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇜𓏤𓌾𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+6	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+8	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+9	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCZOAPmObM1UxQrU9LEQEODv8
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,15]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYCZNL8WGd9i0zEpkPXbGHyYJs
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,15] - [55,16]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYCZGH8ZRw0X0LLjfQUjIkeTJ4
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde gegessen über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,16]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYCZL3l8k8QQU9xlFKlBQraV3k
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZCigfcRn40gUvYNS4ohqpaQ
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYCZHIeNgxMPEjKuCU5h8WH1QI
+# corpus = sawmedizin
+# src_text_id = B7UO6AAVTRD27PUKXLYONP4X2U
+# src_text = sawmedizin:Papyrus Ebers//55,2-55,20 ⸗ Eb 326-335: "Heilmittel gegen die $gḥ.w$-Krankheit"
+# owner = Lutz Popko
+# text_de = Werde getrunken über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [55,20]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+

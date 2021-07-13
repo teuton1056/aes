@@ -1,0 +1,60 @@
+# sent_id = IBUBdyUYDNR7h0zGl9OM4ixZetw
+# corpus = bbawamarna
+# src_text_id = 3BGZZJXURVB4DPOBQISEG3CGCQ
+# src_text = bbawamarna:Vestibül/Nordseite//Hymnus an die untergehende Sonne
+# owner = Ingelore Hafemann
+# text_de = Du läßt diejenigen die Maat schmecken, die sie haben und du verjüngst die Nasen durch das, was ihr (der Maat) innewohnt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [K.7]
+1	𓊃𓈖𓌱𓅓𓅼𓇠	137400	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snm
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓌷𓏏𓂝𓆄𓏏𓏛𓏥	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+4	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+5	𓌨𓂋𓏭	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓋴𓎛𓇬𓈖𓀔	103040	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwn
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓃿𓏤𓏥	63920	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=fnḏ
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓇋𓏶𓏭	25130	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jm.j
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdzKzIXya4UPYrUQz3eQcIfg
+# corpus = bbawamarna
+# src_text_id = 3BGZZJXURVB4DPOBQISEG3CGCQ
+# src_text = bbawamarna:Vestibül/Nordseite//Hymnus an die untergehende Sonne
+# owner = Ingelore Hafemann
+# text_de = Du überweist deine Schönheit an die Duat und beleuchtest so die, die in der Finsternis sind.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [K.10] -  [K.11]
+1	𓊃𓇋𓊪𓏛	854525	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sjp
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓄤𓏤𓏛𓏥	854638	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nfr.w
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅔𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+6	𓇼𓏏𓉐	854583	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dwꜣ.t
+7	𓊪𓊃𓂧𓄧	62420	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psḏ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+10	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓇋𓏶𓅱𓏥	25120	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jm.j
+13	𓎡𓎡𓅱𓇰	165680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kk.w
+
+# sent_id = IBUBdw3xFzfvyUWpjSUTCB5e9jM
+# corpus = bbawamarna
+# src_text_id = 3BGZZJXURVB4DPOBQISEG3CGCQ
+# src_text = bbawamarna:Vestibül/Nordseite//Hymnus an die untergehende Sonne
+# owner = Ingelore Hafemann
+# text_de = Die Bewohner der Höhlen sind in Jubel.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [K.11] -  [K.12]
+1	𓇋𓏶𓅱𓏥	25120	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jm.j
+2	𓈎𓂋𓇋𓏏𓉐𓏥	854566	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qrr.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓂝𓂝𓀠𓏛𓏏𓅱	102120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥꜥꜥ.wt
+

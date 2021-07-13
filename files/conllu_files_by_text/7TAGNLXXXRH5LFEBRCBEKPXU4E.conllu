@@ -1,0 +1,75 @@
+# sent_id = IBUBdWWSjZQ15kZGqk0VAerwkCc
+# corpus = bbawamarna
+# src_text_id = 7TAGNLXXXRH5LFEBRCBEKPXU4E
+# src_text = bbawamarna:Block//[linke Szene]
+# owner = Ingelore Hafemann
+# text_de = Du bist erschienen wie Re am Horizont.
+# findspot = unknown
+# date = NK
+# lineRef = [3] - [5]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈍𓂝𓏛𓍘𓇋	114740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜥi̯
+4	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓇳𓏤𓀭	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+6	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓈌𓏏𓏭𓉐	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+
+# sent_id = IBUBd1bocB5iCUkHqkj2AJXLIp4
+# corpus = bbawamarna
+# src_text_id = 7TAGNLXXXRH5LFEBRCBEKPXU4E
+# src_text = bbawamarna:Block//[linke Szene]
+# owner = Ingelore Hafemann
+# text_de = Seine Sonnenscheibe ist deine Sonnescheibe(⸗Aton).
+# findspot = unknown
+# date = NK
+# lineRef = [5] - [6]
+1	𓇋𓏏𓈖𓇳	33080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtn
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓏏𓈖𓇳	33080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtn
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdzeQhCQe5UFCvzs5dB6J4QE
+# corpus = bbawamarna
+# src_text_id = 7TAGNLXXXRH5LFEBRCBEKPXU4E
+# src_text = bbawamarna:Block//[linke Szene]
+# owner = Ingelore Hafemann
+# text_de = Seine Gestalt ist Deine Gestalt.
+# findspot = unknown
+# date = NK
+# lineRef = [6]
+1	𓂇𓏏	169790	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tj.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂇𓏏𓋾	169790	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tj.t
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3DyRQYbaEm0thmgzDdeWD0
+# corpus = bbawamarna
+# src_text_id = 7TAGNLXXXRH5LFEBRCBEKPXU4E
+# src_text = bbawamarna:Block//[linke Szene]
+# owner = Ingelore Hafemann
+# text_de = [1.Opferträger]: Sein Sohn, der Gottesvater Ty, der Gerechtfertigte.
+# findspot = unknown
+# date = NK
+# lineRef = [über 1. Opferträger]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊹𓏏𓇋𓆑	32860	_	epitheton-title	_	_	_	_	Translit=jtj-nṯr
+4	𓍘𓇋𓇋𓀽	850227	PROPN	entity-name	_	_	_	_	Translit=Ty
+5	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd3QBolXy7kjIgH2FA7xApAc
+# corpus = bbawamarna
+# src_text_id = 7TAGNLXXXRH5LFEBRCBEKPXU4E
+# src_text = bbawamarna:Block//[linke Szene]
+# owner = Ingelore Hafemann
+# text_de = [2.Opferträger]: Sein Sohn, der Wab-Priester Mesu, der Gerechtfertigte.
+# findspot = unknown
+# date = NK
+# lineRef = [über 2. Opferträger]
+1	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃂	44460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥb
+4	𓄟𓋴𓀽	702426	PROPN	entity-name	_	_	_	_	Translit=Ms.w
+5	𓐙	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+

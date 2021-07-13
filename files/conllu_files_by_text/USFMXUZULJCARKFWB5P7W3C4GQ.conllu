@@ -1,0 +1,27 @@
+# sent_id = IBUBd20kVypbuEDfgRDp8fk0Ebw
+# corpus = bbawgrabinschriften
+# src_text_id = USFMXUZULJCARKFWB5P7W3C4GQ
+# src_text = bbawgrabinschriften:Fassade (Nordseite)//Inschrift
+# owner = Stefan Grunert
+# text_de = Der Verwalter des Königsvermögens (und) Aufseher der Schatzhausverwalter Kai-em-anch.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓇓𓏏𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+2	𓋴𓌉𓂋𓐍𓏏𓉒	450255	_	epitheton-title	_	_	_	_	Translit=sḥḏ-jr.jw-jḫ.t-pr-ḥḏ
+3	𓂓𓅓𓋹𓈖𓐍	707649	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-m-ꜥnḫ
+
+# sent_id = IBUBd8gdIiWJMENfpHHLRl6ELII
+# corpus = bbawgrabinschriften
+# src_text_id = USFMXUZULJCARKFWB5P7W3C4GQ
+# src_text = bbawgrabinschriften:Fassade (Nordseite)//Inschrift
+# owner = Stefan Grunert
+# text_de = Der Aufseher der Priester, Aufseher der Schatzhausverwalter und Hüter des Geheimnisses des Gesiegelten des Königs Kai-em-anch.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓋴𓌉𓊹𓍛	450234	_	epitheton-title	_	_	_	_	Translit=sḥḏ-ḥm.w-nṯr
+2	𓋴𓌉𓂋𓐍𓏏𓉒	450255	_	epitheton-title	_	_	_	_	Translit=sḥḏ-jr.jw-jḫ.t-pr-ḥḏ
+3	𓁷𓂋𓋴𓈙𓏏𓍔𓈖𓇓𓏏𓋨	850601	_	epitheton-title	_	_	_	_	Translit=ḥr.j-sštꜣ-n-ḫtm.t-n-nswt
+4	𓂓𓅓𓋹𓈖𓐍𓀙	707649	PROPN	entity-name	_	_	_	_	Translit=Kꜣ⸗j-m-ꜥnḫ
+

@@ -1,0 +1,110 @@
+# sent_id = IBUBd0V56NTE20Kmk2p8qwSRGfg
+# corpus = sawlit
+# src_text_id = IXEDKGKQKRE4XL4LX5SKOET7HU
+# src_text = sawlit:Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)//〈Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am a controller of the dining pavillion, elder of the estate and overseer of the storehouse in the temple of Montu, one who assigns (lit. "anoints") offices in the house of the ruler, one loyal to his town.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [1] -  [3]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓐍𓂋𓊪𓂡𓎛𓊃𓉲	450533	_	epitheton-title	_	_	_	_	Translit=ḫrp-zḥ
+3	𓀗𓉐𓏤	450532	_	epitheton-title	_	_	_	_	Translit=sms.w-pr
+4	𓅓𓂋𓏤𓊨𓏏𓉐	400520	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-s.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr
+7	𓏠𓈖𓍿𓅱𓀭	71660	PROPN	entity-name	_	_	_	_	Translit=Mnṯ.w
+8	𓅨𓂋𓎛𓏊	48030	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wrḥ
+9	𓊑𓊑𓊑	20430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jꜣw.t
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr
+12	𓋾𓈎𓀀	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
+13	𓅓𓆓𓐥	78770	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=mḏd
+14	𓂸𓏏𓈖𓈐	77960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mṯn
+15	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+16	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQhI6RoidU0WsAyw4svmw94
+# corpus = sawlit
+# src_text_id = IXEDKGKQKRE4XL4LX5SKOET7HU
+# src_text = sawlit:Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)//〈Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one with beautiful lakes and tall sycamores.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [3]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓄤𓆑𓂋	854519	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=nfr
+3	𓈙𓈙𓈙	854557	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=š
+4	𓈎𓄿𓀠	159110	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qꜣi̯
+5	𓈖𓉔𓅱𓏏𓆮𓏪	85290	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nh.t
+
+# sent_id = IBUBd2ti4wKcLkCiv4GUyDoRao8
+# corpus = sawlit
+# src_text_id = IXEDKGKQKRE4XL4LX5SKOET7HU
+# src_text = sawlit:Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)//〈Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I am one who constructed a wide house in his city and dug a tomb in his cemetery;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [4] -  [5]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓐪𓂧𓀨	162420	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=qd
+3	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+4	𓅱𓋴𓐍𓋝	400135	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wsḫ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓆷𓄿𓂧𓂡	152150	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šꜣd
+9	𓇋𓇩𓊃𓉐𓏤	31010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jz
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓊃𓏏𓈉	134780	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zmy.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd761k6bbYEYkk7HasZLCY94
+# corpus = sawlit
+# src_text_id = IXEDKGKQKRE4XL4LX5SKOET7HU
+# src_text = sawlit:Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)//〈Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I made a watering place for my city, and I ferried it in my boat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [5] -  [6]
+1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓊃𓅨𓂋𓏏𓏊𓏥	130410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zwr.t
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+6	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+7	𓍑𓄿𓊛𓈖	181780	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓋴	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂧𓊪𓏏𓊛	179040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dp.t
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdxkbIS4rDkPWq9nc7HlKWiA
+# corpus = sawlit
+# src_text_id = IXEDKGKQKRE4XL4LX5SKOET7HU
+# src_text = sawlit:Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)//〈Stele des Montuwosre (Florenz Cat. 1774 ⸗ Inv. 6365)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I was one attentive, who lead his subordinates, until the day came on which it went well for me,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [6] -  [7]
+1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓋴𓊪𓂧𓇮	500142	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=spd
+3	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+4	𓐍𓂋𓊪𓂡𓀜	120150	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫrp
+5	𓌸𓂋𓏏𓀀𓏪	72040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mr.wt
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓂻𓅱	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+9	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+10	𓄤𓆑𓂋	854519	VERB	verb	_	_	_	_	Translit=nfr
+11	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

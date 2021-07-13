@@ -1,0 +1,730 @@
+# sent_id = QJDFK4LG2NBCRNWKMLUL3FHAQ4
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Befestigen (oder: zum Wachsen-Lassen) der Haare:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,7]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓂋𓏲𓂧𓌗𓏛	139340	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḏ
+5	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+
+# sent_id = ONFQDU5QJNDY3LBWBZVULH57MI
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = $sꜣr$-Pflanzen, zerkleinert: 1, (gegeben?) in Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,8]
+1	𓋴𓐟𓄿𓂋𓇋𓆰𓏥	126910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣr
+2	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qnqn
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = 7BZU3FFYKFDMFJHMT4GPEWDTT4
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde in Wasser vom $pꜣwꜥ$-Flüssigkeit gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,8]
+1	𓂝𓅱	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓅯𓄿𓏲𓂝𓈗	862950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pꜣwꜥ
+
+# sent_id = MARDX3HTTZCX3HWI4655SEBWQA
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,8] - [66,9]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = SDG2SJIM6JCCJJN7HSIW4QZA74
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Wachsen-Lassen der Haare eines Kahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓂧𓏏𓌗𓏛	139920	VERB	verb	VerbForm=Fin	_	_	_	Translit=srd
+4	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+5	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+6	𓇋𓄿𓋴𓀠𓁶	_	X	unknown	_	_	_	_	_
+
+# sent_id = Q4RUUBRJQ5EJ5MWPHD3V23INEE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Fett eines grimmig blickenden Löwen: 1, Nilpferdfett: 1, Krokodilsfett: 1, Katerfett: 1, Schlangenfett: 1, Steinbockfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,9] - [66,11]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+2	𓌴𓄿𓇋𓎛𓋴𓄛	66440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣj-ḥzꜣ
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+5	𓂧𓃀𓄛	178280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbj
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+8	𓆊𓏤	75590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mzḥ
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+11	𓏇𓇋𓏲𓄛	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+14	𓆙𓏤	104390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥfꜣ.w
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+16	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+17	𓈖𓂋𓄫𓏲𓏛𓏥𓄛	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+18	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = FQXSRAQMARGJRKCEFVHGNVKGDM
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,11]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = JVSCHIGD4ZAXDJ5NG5DTPBF7FQ
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Der Kopf des Kahlköpfigen werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,11] - [66,12]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓍑𓄿𓍑𓄿𓁶	182330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣḏꜣ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓇋𓋴𓀠	_	X	unknown	_	_	_	_	_
+5	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = RL4YR7AAL5FIBCCDM4AYWWCM2Y
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Wachsen-Lassen der Haare bei (?) $nssq$-Haarausfall.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,12]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓂧𓏏𓌗𓏛	139920	VERB	verb	VerbForm=Fin	_	_	_	Translit=srd
+4	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+5	𓂜	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓈖𓋴𓋴𓈎𓌪	88360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nssq
+
+# sent_id = 7ZTDP55POREK7E5EAUXBQB7WQE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = „Haare“ eines Igels (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,12]
+1	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓎛𓆰𓈖𓏏𓍔𓄿𓄛	107360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥntꜣ
+
+# sent_id = J3EUXIH64ZEWFEQJDFXBTZZXPA
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde vollständig mit Öl/Fett ausgeglüht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,13]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = I5QFPLALSVFLZO7LVTB2XJTA7Q
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = Q7O7MDXT3JF2VLB2QGTTSC2PLE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = $ṯr.w$-Ocker, zerstoßen in Flüssigkeit der Galle: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,13] - [66,14]
+1	𓏞𓏲𓈒𓏥	176220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯr.w
+2	𓆞𓄿𓏲𓀜	122400	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ẖꜣ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓏲𓂧𓂧𓆇	51940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wdd
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = V243UQFMAVEZZCII5BEVZTRJSA
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,14]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = U4QWT3ISV5BZTKUEHBHRGZTMWQ
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = $ꜥfꜣ$-Pflanzen, aufgeschnitten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,14]
+1	𓂝𓆑𓄿𓆰𓏥	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+2	𓏲𓎼𓋴𓌪𓂝	50900	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wgs
+
+# sent_id = KCDCVWI25JH4PN3VPBK4ELICTM
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,14]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = NJZ4FFEDOFDNTN5QOIAQNMSNIY
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Das Innere einer Süßwassermuschel, zerstoßen in $jbr$-Öl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,14] - [66,15]
+1	𓏶𓅓𓏭	25120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓐣𓇋𓇋𓏏𓆇	850426	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏꜥ.yt
+4	𓆞𓄿𓏲𓀜	122400	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ẖꜣ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓇋𓃀𓂋𓇋𓈒𓏥	23780	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbr
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = TNHRUC6WNVCTZHWD4HPPC7BLFY
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde daran gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,15]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = 7AMKRZPZ6JAXVAUW334WWQ3QS4
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Wachsen-Lassen der Haare, etwas, das gefertigt wurde für Schesch, die Mutter der Majestät des Königs von Ober- und Unterägypten Teti, des Gerechtfertigten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,15] - [66,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓂋𓂧𓏏𓌗𓏛	139920	VERB	verb	VerbForm=Fin	_	_	_	Translit=srd
+5	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+6	𓁹𓇋𓇋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓈙𓈙𓁐	_	X	unknown	_	_	_	_	_
+9	𓅐𓏏𓁐	69040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓇓𓆤	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+14	𓏏𓏏𓇋	450656	PROPN	entity-name	_	_	_	_	Translit=Ttj
+15	𓌷𓂝𓊤𓏲𓀁	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = UWRI6EYBHNA7PJHR2NPSIJMJJ4
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Unterschenkel eines Hundes: 1, Kerne der Dattel: 1, Huf eines Esels: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,16] - [66,17]
+1	𓇋𓆛𓈖𓋴𓏏𓂾𓏪	27820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jns.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓎀𓊃𓅓𓄛	177290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯzm
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈖𓇋𓇋𓏏𓈒𓏥	26930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jnj.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓉻𓂝𓄿𓎼𓏏𓂾	856336	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣg.t
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓉻𓂸𓃩𓄛	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = FZFCCKJOGREA3LXSPW6L5XEYY4
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde in einem Topf vortrefflich mit Öl/Fett gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,17] - [66,18]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓍑𓄿𓍑𓄿𓏲𓏌	872144	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣḏꜣ.w
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓏠𓏏𓐍𓍊𓏛	400111	ADV	adverb	_	_	_	_	Translit=mnḫ
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = HS2LNRQZYJE6RBCEV4JQGQ2OBY
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = (Das Haar/Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,18]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = PCXROPHFF5BX3OEP6V5ALPO5OM
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcANwUHKho9y0VLsmxZ2eybRTY
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Schwarze Eidechse.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,18]
+1	𓎛𓆰𓈖𓏏𓍔𓄿𓇓𓏲𓆈	107380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥntꜣsw
+2	𓆎𓅓𓁸𓏛	401218	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=km
+
+# sent_id = IBcAN8VvRZ8uh0sxvr4WN34UO7U
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde zerschlagen wie das Erz eines Siebs;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,19]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+3	𓈔𓏤𓈒𓏥	450114	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥmt
+4	𓂓𓏏𓄹𓂸𓏏𓂋𓐍𓏏𓐡	72900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣ.t-mtrḫ.t
+
+# sent_id = JRIVQDVPL5FBXBWO57FOFNPORQ
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,19]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = YWXRD2XXXFGTZFFZ4AQCLUCK3I
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = (Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,19]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = CPKHHVE76JGNFFVDBI4H7YGRRA
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum ordnungsgemäßen Behandeln der Haare:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,19] - [66,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓃹𓈖𓌷𓂝𓏛	46200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wn-mꜣꜥ
+
+# sent_id = 4IFTQQBVC5BVXA4ZCD66UXKH3U
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Zahn eines Esels.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,20]
+1	𓄑𓏤	23830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jbḥ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓉻𓂸𓃩𓄛	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+
+# sent_id = 5JD3FL4K6VA27IVAKSOSQABGC4
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde in Honig zerschlagen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,20]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = D2MA5EUDVBDVHNOKXBYZCIO4KI
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Behandeln der Haare:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓏲𓐍𓐎𓏛	139310	VERB	verb	VerbForm=Fin	_	_	_	Translit=srwḫ
+4	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+
+# sent_id = P5YZBML6HZCWHOOM43DY7E5G54
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = $ṯr.w$-Ocker: 1, Bleiglanz: 1, „Stechholz“: 1, Öl/Fett: 1, Kot einer Gazelle: 1, Nilpferdfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,21] - [66,22]
+1	𓏞𓏲𓈒𓏥	176220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯr.w
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓄟𓋴𓂧𓅓𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓆱𓌪𓆰𓏥	861206	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫt-ds
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓐎	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓎼𓎛𓋴𓄛	168210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gḥs
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+14	𓂧𓃀𓄛	178280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbj
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = 4PS3FVLCQRH4PBS6AL5CCX2RLM
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,22]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = D6WFP4V4RNHTNKEVOINT37LWIE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = (Das Haar/Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [66,22] - [67,1]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = ZBL5EBT3PZFHNHNYD5BHXLNDJE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Wachsen-Lassen der Haare (bei) einer Wunde:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓂧𓏏𓌗𓏛	139920	VERB	verb	VerbForm=Fin	_	_	_	Translit=srd
+4	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+5	𓂜	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = QTPYPNHBLRGQRIAUB2JB7QCCUE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = (Das Haar/Der Kopf) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,2]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = HNUJIRIXSJCX7ORM3JI7SRY3FY
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Wachsen-Lassen der Haare:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓂧𓏏𓌗𓏛	139920	VERB	verb	VerbForm=Fin	_	_	_	Translit=srd
+4	𓁸𓏥	155510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj
+
+# sent_id = N4HA57U3N5HMVDARGSVQRDBJMM
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Öl/Fett: 1, $sfṯ$-Öl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,3]
+1	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓋴𓆑𓏏𓏌𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = TBIUALPATNCOTELMDLNSEISUQU
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = (Das Haar/Der Kopf) werde damit eingerieben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,3]
+1	𓅨𓂋𓎛𓏌𓂝	48030	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḥ
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = 4UUU3JFA2ZFIXNWFAUPR6NY4LE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = $ꜥnꜥr.t$-Tier, gekocht und vollständig ausgeglüht mit Öl/Fett (und?) Olivenöl.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,3] - [67,4]
+1	𓂝𓈖𓂝𓂋𓏏𓆙	38330	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥnꜥr.t
+2	𓊮𓍘𓇋	62180	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=psi̯
+3	𓊃𓈖𓍇𓏌𓏲𓐍𓊮𓍘𓇋	136860	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=snwḫ
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+6	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+
+# sent_id = OMYEGLKGL5FUPCAB3AJSMSPBAI
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde an den Kopf der Verhassten gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,4]
+1	𓂝𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓄟𓋴𓂧𓂧𓏏𓅪𓁐	76240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msḏḏ.t
+
+# sent_id = VJANGRWFNFEBVOWXNMWBAUQRNI
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Ein anderes (Mittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcANQ7xOQo1PkXrkJrTW7Rb6pw
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde vollständig ausgeglüht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,4]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+
+# sent_id = BUNFXXRIRVBLDJUHHSMWD7D7NE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = werde in Öl/Fett gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,5]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = OSVEUBT5DNBNXJA2I74RQ67IBE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde an den Kopf der Verhassten gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,5]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tp
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓄟𓋴𓂧𓂧𓏏𓅪𓁐	76240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msḏḏ.t
+
+# sent_id = MUC7TOSB2ZDBXMNDBRWOGOYGD4
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = (Mittel,) es (zu) vertreiben, wie es entstanden ist (?):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,5]
+1	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓆣𓂋	854383	VERB	verb	_	_	_	_	Translit=ḫpr
+
+# sent_id = IBcANzfsrbLEkkqOoegylSBllY4
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Panzer einer Schildkröte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,5] - [67,6]
+1	𓅯𓄿𓈎𓇋𓇋𓏏𓊌	59350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓈙𓏏𓅂𓄛𓏤	158430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šṯ.w
+
+# sent_id = IBcAN0Z2fkAf40LFlljJtGCCDks
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = Werde vollständig ausgeglüht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,6]
+1	𓊃𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snwḫ
+
+# sent_id = K5GM4G65C5B4LIA5D4MNHAFZLE
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,6]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = EOKV7UTANFCGPHJXBBEUFNOR34
+# corpus = sawmedizin
+# src_text_id = EVQYPLZT3ZGT5JDAMIA7JP36EE
+# src_text = sawmedizin:Papyrus Ebers//66,7-67,7 ⸗ Eb 464-476: "Heilmittel zum Festigen des Haares"
+# owner = Lutz Popko
+# text_de = werde in Fett vom Unterschenkel eines Nilpferdes gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [67,6]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓇋𓆛𓈖𓋴𓏏𓂾	27820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jns.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓂧𓃀𓄛𓏤	178280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbj
+

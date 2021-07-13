@@ -1,0 +1,163 @@
+# sent_id = IBUBd52e4TZLAEtgufaHDiyMQ4A
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Inspector of priests of (the pyramid-tempel) Qanefer-Amenemhat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓊹𓍛𓍛𓍛𓋴𓌉	450234	_	epitheton-title	Number=Sing|Status=Cons	_	_	_	Translit=sḥḏ-ḥm.w-nṯr
+2	𓇋𓏠𓈖𓅓𓄂𓏏𓈎𓀠𓄤𓉴	850552	PROPN	entity-name	_	_	_	_	Translit=Qꜣi̯-nfr.w-Jmn-m-ḥꜣ.t
+
+# sent_id = IBUBd69W7TfFcEcyvhkA5gB2hNo
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = An offering which the king gives (and) Osiris Khentamenti in Abydos of the Thinite nome, Horus who judges the terror of the Two Lands, King of Upper and Lower Egypt, Osiris Wenennefer, Horus Wehemmesut, Wepwawet, lord of the sacred land:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1] - [B.3]
+1	𓇓𓏏𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓁹𓊨	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓏃𓈖𓏏𓊿𓅂𓀭	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋅	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+6	𓍋𓃀𓅱𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+7	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+8	𓄋𓊪	45640	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wpi̯
+9	𓈙𓂝𓏏𓌪𓈓	152300	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šꜥ.t
+10	𓇿𓇿	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+11	𓇓𓏏𓆤𓏏	857990	_	epitheton-title	_	_	_	_	Translit=nswt-bj.tj
+12	𓁹𓊨	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+13	𓃹𓈖𓈖𓄤𓀭	850648	PROPN	entity-name	_	_	_	_	Translit=Wnn-nfr
+14	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+15	𓄙	48440	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḥm
+16	𓄟𓏏𓅱	75070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msw.t
+17	𓄋𓊪𓈐𓈐𓈐𓃧	45580	PROPN	entity-name	_	_	_	_	Translit=Wp-wꜣ.wt
+18	𓎟𓇾𓈇𓏤𓂦𓈉	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+
+# sent_id = IBUBd3LppxKeJ0QzsdMRoEksHt8
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = to the ka of the hereditary noble and local prince, royal seal-bearer and sole friend (of the king), true acquaintance of the king, one beloved of his lord,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.5] - [B.6]
+1	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+2	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
+5	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
+6	𓆤𓏏𓋨	851316	_	epitheton-title	_	_	_	_	Translit=ḫtm.w-bj.tj
+7	𓋴𓍋𓌡𓏤𓂝	400142	_	epitheton-title	_	_	_	_	Translit=smr-wꜥ.tj
+8	𓇓𓏏𓈖𓂋𓐍	95740	_	epitheton-title	_	_	_	_	Translit=jr.j-jḫ.t-nswt
+9	𓌳𓐙𓂝	66460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣꜥ
+10	𓌸𓇋𓇋	400005	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mr.y
+11	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzYsxpJrF0eGuLpcQEOervc
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = overseer of horned, hooved, feathered and scaled (animals), overseer of what the sky gives and what the earth creates,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.6] - [B.7]
+1	𓅓𓂋𓏤𓄏𓄙𓆄𓆠	400145	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜥb.w-wḥm.wt-šw.wt-nšm.wt
+2	𓅓𓂋𓏤	855661	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ
+3	𓂞𓂞𓏏	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=rḏi̯
+4	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓌳𓈎𓌙𓏏	854564	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=qmꜣ
+6	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd5Ykpew2q0CxhHZ3dZmQ16c
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = one great in his office and great in his dignity, a great and beloved courtier,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.7] - [B.8]
+1	𓅨𓂋	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊑𓏏𓏤	20430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jꜣw.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓉻𓂝𓄿	34760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣ
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋴𓂝𓎛𓃶𓏤	129070	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sꜥḥ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋴𓍋𓉻𓂝	550353	_	epitheton-title	_	_	_	_	Translit=smr-ꜥꜣ
+10	𓈖𓌻𓂋𓏏𓅱	79890	ADJ	adjective	_	_	_	_	Translit=n.j-mrw.t
+
+# sent_id = IBUBd2dgWW45mE5SqcMUsWSBS64
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = a trusted one of his lord in front of his land, his confidant in front of the Two Banks,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.8]
+1	𓇋𓏶𓄣	25250	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jm.j-jb
+2	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓏃𓈖𓏏	850802	ADP	preposition	_	_	_	_	Translit=ḫnt
+5	𓇾𓈇𓏤	854573	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓎔𓄣𓏤	73610	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mḥ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓏃	850802	ADP	preposition	_	_	_	_	Translit=ḫnt
+10	𓈅𓈅	400868	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=Jdb.wj
+
+# sent_id = IBUBd9hbjtl6JkkFmrgfqZ9z7QE
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = speaker of Nekhen, priest of Maat, a trusted one of the king in collecting taxes (from) the districts of Upper Egypt,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.9] - [B.10]
+1	𓂋𓏤𓊕𓊖	859313	_	epitheton-title	_	_	_	_	Translit=rʾ-Nḫn
+2	𓊹𓍛𓌳𓐙𓏏𓂝𓁦	850020	_	epitheton-title	_	_	_	_	Translit=ḥm-nṯr-Mꜣꜥ.t
+3	𓎔𓄣	73610	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mḥ-jb
+4	𓇓𓏏𓈖	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓃀𓅡𓎡	53800	VERB	verb	VerbForm=Fin	_	_	_	Translit=bꜣk
+7	𓈈𓏏𓈓	854544	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=spꜣ.t
+8	𓇖	154760	PROPN	entity-name	_	_	_	_	Translit=Šmꜥ.w
+
+# sent_id = IBUBdzWM48W2mU4Fk3YPWQaQnjI
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified one, the chamberlain Hor, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓅓𓂋𓏤𓂝𓄚𓏌𓏏𓏭𓉐	400016	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ꜥ-ẖn.wtj
+3	𓅃	400146	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+4	𓌳𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd59NyhBkgk8YgwcjIRqSdJc
+# corpus = sawlit
+# src_text_id = RLFHEZESIFCMHELNLAOICD72LY
+# src_text = sawlit:Stele des Hor (Louvre C 2 ⸗ N 156)//〈Stele des Hor (Louvre C 2 ⸗ N 156)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Overseer of sealers, overseer of the lawcourt, Hor.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓅓𓂋𓋨𓏏𓅂𓀀𓏩	400044	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-ḫtm.tjw
+2	𓅓𓂋𓏤𓃭𓂋𓇋𓇋𓏏𓉐𓏤	600554	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-rw.yt
+3	𓅃	400146	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+

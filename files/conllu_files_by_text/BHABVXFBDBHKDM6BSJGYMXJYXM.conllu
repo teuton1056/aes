@@ -1,0 +1,142 @@
+# sent_id = IBUBdwLapFm9b0KooQwdA7dewLY
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, geben, das Anubis, der auf seinem Hügel ist, Imiut, Herr von Tadjeser, gibt.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [A.1] -  [A.2]
+1	𓇓𓏏𓈖𓊵𓏙	111510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥtp-ḏi̯-nswt
+2	𓁹𓊨𓀭	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+3	𓎟𓊽𓂧𓅱𓊖	400982	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w
+4	𓏃𓋀𓅂𓀭	119180	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-jmn.tjw
+5	𓎟𓍋𓃀𓈋𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+6	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+7	𓇋𓈖𓊪𓅱𓃣	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+8	𓁶𓊪𓈋𓏤𓆑	600421	_	epitheton-title	_	_	_	_	Translit=tp.j-ḏw⸗f
+9	𓏶𓅓𓅱𓏏𓐎𓏥	25390	_	epitheton-title	_	_	_	_	Translit=jm.j-wt
+10	𓎟𓇿𓂦	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+
+# sent_id = IBUBdyKu2Cvr2ETunaGkDr1ikg0
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Möge er das Firmament durchqueren.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓍑𓄿𓊛	181780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓈟𓈅	54320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjꜣ
+
+# sent_id = IBUBd3xzDXKQr0jToF3oAYyrfS8
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Möge er den Himmel durchfahren.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓈖𓌰𓅓𓂻	84130	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nmj
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+
+# sent_id = IBUBd7sr296H7EK3osKe7f3fQP0
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Möge er am westlichen Horizont landen.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [A.7]
+1	𓊃𓌳𓄿𓄥	134180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zmꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇿𓈘	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈌𓏏𓏤	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+6	𓋀𓏏𓏏𓈉	26150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jmn.tj
+
+# sent_id = IBUBd6YnQddUmUsYlyeqI5B6jbw
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Möge er empor und hinab steigen mit dem Gefolge, den Herren der Opfergaben in Abydos.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [A.7] -  [A.8]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓉔𓄿	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+6	𓌞𓋴𓂻𓀭𓏥	155040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šms.w
+7	𓎟𓅱𓏪	81650	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=nb
+8	𓊵𓏏𓊪𓏏𓏒𓏥	111360	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥtp.t
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBdyu9ggEspkE8vcoQ7QKFz1k
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Mögen ihm die beiden Arme in der Neschmet-Barke gegeben werden.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [A.8]
+1	𓂞𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂝𓂝𓏭	34360	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥ
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈖𓈙𓅓𓏏𓊞	88690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nšm.t
+
+# sent_id = IBUBdQQa6MtnJkgChaiTTDcAtJ0
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Seine Mutter, die Versorgte, Jy.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄪𓐍𓏏	25100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmꜣḫ.wt
+4	𓇋𓀁𓇋𓇋	400064	PROPN	entity-name	_	_	_	_	Translit=Jy
+
+# sent_id = IBUBd2VVnXtw40YWu5nIwIXeFJk
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Ihre Tochter, die sie liebt, Id.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓌸𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓇋𓂧𓄔	400052	PROPN	entity-name	_	_	_	_	Translit=Jd
+
+# sent_id = IBUBd1VJmXdDPUeCmLWa3wS06NQ
+# corpus = sawlit
+# src_text_id = BHABVXFBDBHKDM6BSJGYMXJYXM
+# src_text = sawlit:Stele des Qemnen (Turin Cat. 1513)//〈Stele des Qemnen (Turin Cat. 1513)〉
+# owner = Alexander Schütze
+# text_de = Die Ehefrau, die er liebt, die Versorgte, Henet.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+2	𓌸𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓄪𓐍𓏏	25100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmꜣḫ.wt
+5	𓎛𓆰𓈖𓏏𓍔	_	X	unknown	_	_	_	_	_
+

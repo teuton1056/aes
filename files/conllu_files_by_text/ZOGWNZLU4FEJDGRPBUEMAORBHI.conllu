@@ -1,0 +1,68 @@
+# sent_id = 564AG6GXBFBULE3U2KS27IVJIM
+# corpus = bbawgraeberspzt
+# src_text_id = ZOGWNZLU4FEJDGRPBUEMAORBHI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 24: PT 227 + PT 228
+# owner = Doris Topmann
+# text_de = Worte sprechen:
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [4]
+1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
+
+# sent_id = GFWMRYNPYRHK3EDTVKII4BT5QU
+# corpus = bbawgraeberspzt
+# src_text_id = ZOGWNZLU4FEJDGRPBUEMAORBHI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 24: PT 227 + PT 228
+# owner = Doris Topmann
+# text_de = Der Kopf der großen 〈schwarzen〉 $kꜣ$-Schlange ist abgeschnitten worden.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [4] - [5]
+1	𓎛𓋴𓈎𓌫𓅓	110200	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥsq
+2	𓁶𓏤	854577	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tp
+3	𓂓𓂸	162950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kꜣ
+4	𓇋	401218	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=km
+5	𓅨	47271	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wr
+
+# sent_id = HZEO5ZV26FFKVDWZE4D42QMIS4
+# corpus = bbawgraeberspzt
+# src_text_id = ZOGWNZLU4FEJDGRPBUEMAORBHI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 24: PT 227 + PT 228
+# owner = Doris Topmann
+# text_de = Wende dich um/ab!
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [5]
+1	𓊪𓈖𓂝𓊜	59960	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=pnꜥ
+2	𓍿𓅱	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+
+# sent_id = LZVOGCEB7FDBPE6POCDSHWB5SQ
+# corpus = bbawgraeberspzt
+# src_text_id = ZOGWNZLU4FEJDGRPBUEMAORBHI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 24: PT 227 + PT 228
+# owner = Doris Topmann
+# text_de = Schlüpf in die Erde!
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [6]
+1	𓐍𓃀𓐍𓃀	861711	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫbḫb
+2	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = KWYLSWEI7FG45JCJD753SJECQA
+# corpus = bbawgraeberspzt
+# src_text_id = ZOGWNZLU4FEJDGRPBUEMAORBHI
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 24: PT 227 + PT 228
+# owner = Doris Topmann
+# text_de = Ein Gesicht ist auf ein Gesicht gefallen, ein Gesicht hat auf ein Gesicht gesehen.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [6]
+1	𓐍𓂋𓂻	119610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫr
+2	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+5	𓌳𓁹𓄿𓈖	66270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+6	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓁷	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+

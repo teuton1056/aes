@@ -1,0 +1,24 @@
+# sent_id = IBUBd1DHu5c6OEK2gY7vDlGjyt8
+# corpus = bbawgrabinschriften
+# src_text_id = 27KOGN4LJFEUZEWMLMEX3FB2AM
+# src_text = bbawgrabinschriften:Westwand//Beischriften 2. Gruppe
+# owner = Stefan Grunert
+# text_de = Das Singen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [1]
+1	𓎛𓋴𓂝𓏏	109680	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥsi̯
+
+# sent_id = IBUBd63l7SIxzkYUtHiqnBHfIQU
+# corpus = bbawgrabinschriften
+# src_text_id = 27KOGN4LJFEUZEWMLMEX3FB2AM
+# src_text = bbawgrabinschriften:Westwand//Beischriften 2. Gruppe
+# owner = Stefan Grunert
+# text_de = Das Spielen (Schlagen) auf der Harfe
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [2] -  [3]
+1	𓋴𓈎𓐓𓌈	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓃀𓈖𓏏	54650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjn.t
+

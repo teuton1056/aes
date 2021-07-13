@@ -1,0 +1,377 @@
+# sent_id = IBUBd1P9MbYL6USQgzFOEPePf7I
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Die Altersschwäche hat eingesetzt (wört.: ist entstanden).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,1]
+1	𓏏𓈖𓇋𓀗𓏛	172440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tnj
+2	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+
+# sent_id = IBUBd7pkfO8pt0rytcTLt9CQGBk
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = (Und) das hohe Alter ist eingetreten.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓇋𓄿𓏲𓏭𓀗	20490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣw
+2	𓉔𓄿𓏲𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+
+# sent_id = IBUBdxBdMRDfRUSCli2WqFdcojU
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Der Körper wird schwach.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓅱𓎤𓎤𓅪	850126	VERB	verb	VerbForm=Fin	_	_	_	Translit=wgg
+
+# sent_id = IBUBd3eQMDePo0LGvli3olmwBKU
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = (Und) der frühere Zustand (als hilfloses Kind) zeigt sich erneut.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓇋𓇩𓋴𓏲𓏏𓆰𓏛𓏥	31320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jz.wt
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌳𓄿𓏲𓏭𓏛	66940	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣwi̯
+
+# sent_id = IBUBd4OtYRyNvU9tpu9qAnL0DBM
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Die Kraft ist verschwunden, weil das Herz müde ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓄖𓏏𓏭𓏯𓂝	61400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.tj
+2	𓄿𓈎𓅪	290	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣq
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓅨𓂋𓀉𓅪	48260	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wrḏ
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBdxPIB2tzW0LljkySXnqLXZk
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Der Mund ist verstummt.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+2	𓎼𓂋𓀁	167750	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=gr
+
+# sent_id = IBUBd4aTOXmvikmSkdMOQY40gQY
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Er kann nicht (mehr) reden.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓌃𓅱𓀁𓈖	78140	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mdwi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7VKnzFaakDth2tEsJb6W1Q
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Die Augen sind schwach.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=jr.t
+2	𓈖𓆓𓊃𓏲𓅪	91760	ADJ	adjective	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏs
+
+# sent_id = IBUBdQ5LJG98OEBsj1hwlSqGtG8
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = (Und) die Ohren sind taub.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓋹𓋹𓄔𓄔	38930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ.wj
+2	𓇋𓐝𓅓𓂋𓄔	26370	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jmr
+
+# sent_id = IBUBd4QiYIP790AnjOTMo1leSXw
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Das Herz liegt da/schläft, indem es jeden Tag müde ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,2]
+1	𓋴𓇥𓂋𓁀	150740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏr
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+3	𓅨𓂋𓂧𓀉𓅪	48260	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wrḏ
+4	𓂋𓂝𓇳𓏤𓎟𓏏	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBUBdz0PSX8FNkjzq436LK5lCOU
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Der Geist (wörtl.: das Herz) ist vergeßlich.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3]
+1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+2	𓅓𓂝𓉔𓅱𓅪	73070	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mhi̯
+
+# sent_id = IBUBd78xYzhAaUlImUzQaxVupJU
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = (Und) er kann sich nicht (mehr) an gestern erinnern.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓆼𓄿𓀁𓈖	141620	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋴𓆑𓇳	133440	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sf
+
+# sent_id = IBUBd8d7XQL6YEOghR9rOgfEmvw
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Der Knochen, er schmerzt (wörtl.: er hat angefangen, zu schmerzen), weil er alt geworden ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3]
+1	𓌟𓋴	162200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qs
+2	𓏠𓈖𓅪𓈖	69660	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇋𓄿𓏲𓏭𓀗	20480	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jꜣwi̯
+
+# sent_id = IBUBd5a5Zlxh2U2AlXFYD1IHTUs
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Die Nase ist verstopft.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3]
+1	𓂉𓏤	63920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=fnḏ
+2	𓌥𓃀𓅱𓀨	854590	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏbꜣ
+
+# sent_id = IBUBdxqHQ2BcR0HmgctOCYx9dfc
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Sie kann nicht (mehr) atmen/riechen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓋴𓈖𓂉𓈖	144080	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ssn
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8WJxcJUNksGg4HQRo6HCx0
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Aufzustehen und sich hinzusetzen sind schwierig/schmerzhaft.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3]
+1	𓌟𓈖𓅪	162230	ADJ	adjective	_	_	_	_	Translit=qsn
+2	𓊢𓂝𓂻	851887	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜥ
+3	𓈞𓊃𓏏𓀉	105780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥmsi̯
+
+# sent_id = IBUBd9QWGKjvR0vGkD6MUXWPYSw
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Das Gute ist zum Schlechten geworden.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3]
+1	𓃀𓅱𓄤𓆑𓂋	55220	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bw-nfr
+2	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓃀𓅱𓈖𓇋𓈖𓅪	550114	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bw-bjn
+
+# sent_id = IBUBd1OGQNls5UM8rGh76gk9HLE
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Jeder Geschmack ist verschwunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3]
+1	𓂧𓊪𓏏𓄓𓀁𓏪	179020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dp.t
+2	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+3	𓄿𓈎𓅪	290	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜣq
+4	𓋴𓏭	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+
+# sent_id = IBUBd8FUOmFvF0HojVfjyPOfmXc
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Was das Alter bei den Menschen anrichtet: Schlechtes in jeder Hinsicht.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,3] - [vso,4]
+1	𓁹𓂋𓏏𓏪	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+2	𓇋𓄿𓏲𓏭𓀗𓏛	20490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣw
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+5	𓃀𓇋𓈖𓅪	54620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjn
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓐍𓏏𓏛𓏥𓎟	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd2mOnMm7Mk4ViXiskQKW7VQ
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Veranlasse, daß man deinem ergebenen Diener (wörtl.: dem Diener dort) befiehlt, einen Stab-des-Alters anzufertigen, (und) daß man dafür sorgt, daß mein Sohn an meiner Stelle stehen wird, (damit/so daß) ich ihn belehren kann in den Reden der Zuhörenden/Richter, (und in) den Ratschlägen/Verhaltensweisen der Vorgänger, die früher für die Vorfahren gearbeitet haben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,4] - [vso,5]
+1	𓇋𓅓𓅓𓂝	851706	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jmi̯
+2	𓎗𓏲𓏛	51970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
+3	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓅡𓎢𓀀𓇋𓅓	550024	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=bꜣk-jm
+6	𓁹𓂋	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓌃𓏤𓆱𓏤𓇋𓄿𓏲𓏭𓀗𓀀	851284	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mdw-jꜣw
+8	𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+9	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+10	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
+11	𓅭𓀀	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+12	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+13	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+15	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+16	𓇼𓄿𓀜	131210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sbꜣ
+17	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+18	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓌃𓂧𓏏𓀁𓏪	78030	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=mdw.t
+21	𓄔𓅓𓇋𓇋𓏲𓀀𓏥	150700	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sḏm.yw
+22	𓋴𓐍𓂋𓏲𓏛𓏥	142800	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=sḫr
+23	𓏶𓅓𓄹𓏥𓄂𓏏𓏤𓀻𓏪	500051	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jm.jw-ḥꜣ.t
+24	𓅮𓄿𓏲𓏥	58790	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pꜣu̯
+25	𓅡𓎢𓀜	53800	VERB	verb	VerbForm=Fin	_	_	_	Translit=bꜣk
+26	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+27	𓁶𓊪𓅱𓏪𓂝𓏤𓀻𓏪	171600	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tp.j-ꜥ.wj
+
+# sent_id = IBUBdQmQQbqylUyUrnYQG9VNJkA
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Dann mögen sie für dich das Gleiche tun, (damit) Krankheit/Kummer unter den Menchen vertrieben wird, (und damit) die beiden Ufer für dich arbeiten werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,5]
+1	𓇋𓐍𓏛	30730	PART	particle	_	_	_	_	Translit=jḫ
+2	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓏇𓏏𓏏𓏛	67960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mj.tjt
+7	𓂧𓂋𓀜𓏏𓏲	180130	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dr
+8	𓍲𓈖𓏌𓏲𓅪𓏥	155360	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šn.w
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓂋𓐍𓇋𓇋𓏏𓅛𓀀𓁐𓏥	95820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rḫ.yt
+11	𓅡𓎢𓀜	53800	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bꜣk
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓈅𓈅𓈇𓈇	400868	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=Jdb.wj
+
+# sent_id = IBUBd5C2mw4aXkqChgHWqqFMTQU
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Nun sagte seine Majestät:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,5]
+1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓍛𓏤𓅆	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9r3azIQRkXtryceJuUtNIU
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Unterrichte du ihn zuerst über die Reden, bevor du dich zur Ruhe setzt (wörtl.: hingesetzt haben wirst).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,5]
+1	𓇼𓄿𓀜	131210	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sbꜣ
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓌃𓂧𓏏𓀁	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+7	𓌨𓂋𓄂𓏏𓏏	500034	ADV	adverb	_	_	_	_	Translit=ẖr-ḥꜣ.t
+8	𓇥𓂋	850803	ADP	preposition	_	_	_	_	Translit=ḏr
+9	𓈞𓊃𓏏𓀉	105780	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥmsi̯
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd7ffxdcvIUF2q6v8xtQiiCU
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = Möge das Hören/Gehorchen ihm eigen werden (wörtl.: in ihn eintreten), (indem/nachdem) ihm jede Genauigkeit mitgeteilt wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,5]
+1	𓅧𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+2	𓄔𓅓	150560	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏm
+3	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂸𓏏𓇋𓇋𓏏𓂭𓂭𓏛𓏥	77460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mty.t
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+7	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḏd
+8	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdwaQrczUEkIhsJTV8JQTGUQ
+# corpus = sawlit
+# src_text_id = VPAOENGVZFEZ5G5MZFIAJUBKTQ
+# src_text = sawlit:tCarnarvon 1//Verso: Die Lehre des Ptahhotep (Version C)
+# owner = Peter Dils
+# text_de = (Denn) es gibt keinen, der klug geboren wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [vso,5]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓄟𓋴𓇋𓇋𓏯	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
+3	𓋴𓐟𓄿𓂋𓅱𓏯𓀁	126800	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sꜣr
+

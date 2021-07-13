@@ -1,0 +1,1614 @@
+# sent_id = IBYDVDl7W3IZcEEMulyc73RBjRI
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Anfang der Heilmittel zum Ausheilen einer Wunde, die dem (wörtl.: am) Leib beigebracht wurde:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,1]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓋴𓋴𓈖𓃀𓏛	144100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssnb
+5	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+6	𓏲𓂧𓂧𓀜	854503	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=wdi̯
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBYDVMLbb31C80APuWV399ZXrW4
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Bandagieren einer Wunde:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓅷𓄿𓅓𓋳𓀜	148930	VERB	verb	VerbForm=Fin	_	_	_	Translit=sṯꜣm
+4	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVJJi8PANOkwwiRoXDleFBcc
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Langbohnen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,3]
+1	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+
+# sent_id = IBYDVFPVyxSqW0B1nXOeuLmDpAE
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde {{fein}} zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,3]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYDVCV5bEXW70RZherU4C4nj1c
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = werde vermengt mit Öl/Fett, Honig Faserbäuschen der $db.yt$-Pflanze an ihrer (der Drogen) Oberseite (und) jeden Tag (appliziert), damit er sich wohlfühlt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,3] - [70,4]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+5	𓆑𓏏𓏏𓏲𓄧𓏥	64200	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ftt
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓂧𓃀𓇋𓇋𓏏𓄧𓆰𓏥	178470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=db.yt
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓐛𓏤𓁷𓂋𓏭𓇯	168440	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs-ḥr.j
+10	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+11	𓇳𓏤𓎟𓏏	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+12	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+13	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYDVCnUXbDKM0yhgkHwmSpaQ7k
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Ziehen von Blut aus der Öffnung einer Wunde:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,4] - [70,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓇋𓏏𓎛𓍢𓂝	_	X	unknown	VerbForm=Fin	_	_	_	_
+4	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓏲𓃀𓈖𓏌𓏲𓐎𓏥	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVNsHKTzdY05jo4gTjXHXIEA
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Wachs: 1, Fett: 1, Olivenöl: 1, Honig: 1, Johannisbrot: 1, Gerste, vollständig ausgeglüht: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,5] - [70,6]
+1	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+12	𓋴𓈖𓍇𓏌𓏲𓐍𓊮	136860	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snwḫ
+13	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVOZmCIQUV0LgpdlwP0dbP0E
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,6]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYDVGj2CfXbBEhRhlvvlmhyzXQ
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,6]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDVOt1QGUYWUcwmwiCc610jU0
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für Wundsekret, (wenn) es sich anhäuft:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓍬𓏤𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+4	𓎀𓊃𓅓𓍞𓀜	854581	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯzi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYDVBWOnyhLhExVjeyFppELlkI
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Wachs: 1, Öl/Fett: 1, Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,7]
+1	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVOQHXKP1s0Apix5I1hezlgI
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse verkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,7]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDVOPRJOW6RkBimSB4FTQGfuw
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,7]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVNrlfAFD60DesN2XypkAOYc
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDVFtzcKOzPUBIrzC6NIXVGyU
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,9]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDVKYm6czpVkZ2uGU4aQeXUok
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die bestroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVN7ePRNNgEbMssCNYNwKpEY
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Austrocknen einer Wunde:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓆄𓏲𓏏𓏏𓇳	144800	VERB	verb	VerbForm=Fin	_	_	_	Translit=sšwi̯
+4	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVNx5aUOrzkCAgf0MWAIjdMs
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Weihrauch: 1, Johannisbrot: 1, Rinderfett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,9] - [70,10]
+1	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+6	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVD1m26oaREiSgBIMJQhsQCE
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,10]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDVD55O1kDt0KWvO94jDC4LOg
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,10]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVHZhQ3ClREzfsooWifFTsEA
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDVLdCzz9230MevRF5Mnf4USQ
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Gummiharz: 1, Weihrauch: 1, $nḥd$-Myrrhe: 1, Propolis (?, wörtl.: Fliegenkot): 1, Roter Ocker: 1, unterägyptisches Salz: 1, Wachs: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,10] - [70,11]
+1	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓅘𓎛𓂧𓈒𓏥	86730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nḥd
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓎛𓋴𓐎𓏥𓈖𓂝𓆑𓆑𓅬	863819	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs-ꜥff
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓏠𓈖𓈙𓏏𓈒𓏪	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓎛𓌴𓄿𓅓𓇋𓇋𓏏𓍖𓈒𓏥𓎔𓏏	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVCg0iQohQ0vhskaJzG60O8g
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,11]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDVNA6zWnMZUJ2tRk6Ae5zy5M
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an die Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,11]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVDsG9yvW9Ulcsa8gyVbjF0w
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Heilmittel für eine Wunde am ersten Tag:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,11] - [70,12]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+4	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+5	𓁶𓊪𓏭	171460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=tp.j
+
+# sent_id = IBYDVKWoMYfiQEGkmRQfCsVe5rk
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Rinderfett, bis sie (d.h. die Wunde) fault, oder Fleisch vom Rind.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,12]
+1	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+2	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓎛𓍯𓄿𓐎	102640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwꜣ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇋𓏲𓆑𓄹𓏥	22520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwf
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+9	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBYDVLMyyIsn9UIWrbkqMvx3dQw
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Wenn sie jedoch sehr fault, so sollst du sie mit Brot von Gerste, das verdorben ist, verbinden, damit es infolgedessen trocknet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,12] - [70,14]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓎛𓍯𓄿𓐎	102640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅨𓂋𓏏	450161	ADV	adverb	_	_	_	_	Translit=wr.t
+6	𓐎𓂝𓐍𓂋	50980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+13	𓂝𓍯𓄿𓐎	35940	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥwꜣ
+14	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+15	𓊃𓈙𓂋𓇳	130790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swšr
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+18	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVG7m84nnQUQDtw0MihcvWc8
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Dann sollst du wiederholen, sie erneut mit Fett zu verbinden, bis sie fault.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,14]
+1	𓄙𓅓𓀁𓐍𓂋	48440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐎𓂝	50980	VERB	verb	VerbForm=Fin	_	_	_	Translit=wt
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓎛𓍯𓄿𓐎	102640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwꜣ
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYDVI41ZPT9rEsOkqgrcFrBV7k
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Wenn sie sich aber wegen ihres Wundsekrets verschließt, so sollst du sie mit Steinbockfett, $sfṯ$-Öl und zerriebenen $tḥwꜣ$-Pflanzen verbinden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,14] - [70,15]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓎼𓂋𓏏	167790	PART	particle	_	_	_	_	Translit=gr.t
+3	𓏏𓍃𓅓𓅓𓆇	172250	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tmm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓍬𓏏𓏲𓐎𓏥	148790	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sṯꜣ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓐎𓂝𓐍𓂋	50980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+11	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+12	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+13	𓈖𓂋𓄫𓏲𓄛	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+14	𓋴𓆑𓏏𓏌𓏥	133990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sfṯ
+15	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+16	𓐩𓏌𓂝	90880	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏ
+
+# sent_id = IBYDVL9eTitbhkqAmBbk6rpYw1g
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Danach sollst du sie mit einem Faserbausch von $db.yt$-Pflanzen über dem Drogengemisch verbinden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,16] - [70,17]
+1	𓇋𓂋𓅓𓆱𓐍𓏏𓂻	28350	ADV	adverb	_	_	_	_	Translit=jr-m-ḫt
+2	𓐍𓂋	400037	PART	particle	_	_	_	_	Translit=ḫr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓐎𓂝	50980	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓆑𓏏𓏏𓄧	64200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ftt
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓂧𓃀𓇋𓇋𓏏𓄧	178470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=db.yt
+11	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+12	𓋁𓃀𓐍𓏏𓏴𓂝𓏌𓏥	92	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣbḫ.t
+
+# sent_id = IBYDVLcggSx8VkmbtqkKJ3zAqkk
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden, so dass er gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,18]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYDVC6kGB3lfkDtnR6K7BuZkiE
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Nachdem sie sich wegen ihres Wundsekrets verschlossen hat, so sollst du Fett und $ḏꜣs$-Pflanzen bereiten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,18] - [70,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓏏𓍃𓅓𓅓𓆇	172250	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tmm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓍬𓏏𓏲𓐎𓏥	148790	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sṯꜣ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+11	𓍑𓄿𓋴𓆰𓏥	181980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣjs
+
+# sent_id = IBYDVMQYrFytg0zNrRkL98kJetU
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden, bis ihre Öffnung aufgeht (und) bis sie verfault.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,19] - [70,20]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓃹𓈖𓉿𓂝	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+6	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓎛𓍯𓄿𓐎	102640	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwꜣ
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYDVOsDQBK9A0N6vPS8fgfBRlU
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Bandagieren einer Wunde:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓅷𓄿𓅓𓋳𓀜	148930	VERB	verb	VerbForm=Fin	_	_	_	Translit=sṯꜣm
+4	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVFdpOHrRwE1tjkz53JW2nA0
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Wachs: 1, trockener $šꜣ.w$-Kot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,20]
+1	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓆷𓄿𓏲𓈒𓏥	151290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ.w
+4	𓆄𓇳	152730	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=šwi̯
+
+# sent_id = IBYDVGkeSnWxW0phgvpXFOtuhK8
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,21]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYDVIelbYvHVEPUrNWN0bOTcSw
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,21]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVAbLeJTGb0TVnUrjAze87Ys
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Pulver von grünem Glasfluss.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDVOdkkxR04UPVmAqDTzgwwnw
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Pulver von grünem Glasfluss.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,21]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓍎𓏏𓏤𓏛𓏥	104800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥm.t
+4	𓇅𓏏𓏛	600304	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBYDVN8ZqgC6S0RDlTbOfBsyM4o
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde mit Honig vermischt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,21]
+1	𓋁𓃀𓐍𓏴	89	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣbḫ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBYDVN4ATCCHekF3qJsGXQO3m8E
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,21] - [70,22]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVCQ4TbH9rUl3plLWInns4b8
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,22]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDVEmiLmlAkkT8hInthdhdOMI
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Steinbockfett: 1, Wachs: 1, Johannisbrot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,22]
+1	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+2	𓂜𓂋𓄫𓏲𓄛𓏌𓏥	79960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣ.w
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVLZpCXGZdUmLpfT9e48S9M8
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,22]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+
+# sent_id = IBYDVLF4GEzJK0fanejPtE28mOw
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,22]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVIQlGsJWOknGkE66WjAtQ4o
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Was zu tun ist gegen einen mit Krämpfen (?) infolge einer Wunde Beladenen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,23]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓌨𓂋𓏭	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+4	𓇋𓄿𓏏𓏲𓂿𓏥	21090	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jꜣṯ.w
+5	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVJfmAu8Dg0QuvyMhPWntq58
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Gerstenmehl: 1, Fett: 1, Olivenöl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,23]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVNZBs0W4fET4rNtzRfuTGzs
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,23]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYDVH9zkTW8EEQ7kOZt5NBbIGQ
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Es) werde veranlasst, dass er (d.h. der Patient) es $sẖp$-einnimmt, (auch) wenn er (es) nicht will.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,24]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓋴𓄡𓊪𓀁	143480	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sẖb
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓋴𓏏	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓄟𓋴𓂧𓂧𓅪	76210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msḏi̯
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYDVFd2Yh4ab0qUk9HEPaJbUsQ
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel für eine Schwellung (?) an einer Wunde:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [70,24]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓃀𓈖𓏌𓅱𓏏𓆇𓏥	55640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bn.wt
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVCVO5Mf1QkTIsNuQcjWm4hM
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,1]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDVGQpYUtqH07Opjv7nQVDWQE
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = werde in Öl/Fett gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,1]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYDVDYLc3C8y00sgcKbknj0s1c
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde an die Wunde gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,1]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVDFHJXHRV0iNv8wh3PZeDYw
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Das ist das Beseitigen einer Schwellung (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,1]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓃀𓈖𓏌𓅱𓏏𓐎𓏥	55640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bn.wt
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBYDVNrv3Bz84UOjkvJ6RjroQJk
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Was zu tun ist gegen eine Wunde auf der Brust:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,1] - [71,2]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓈎𓄿𓃀𓏏𓄹	159290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qꜣb.t
+
+# sent_id = IBYDVDQ106YRc0Eemp0Edir4WUg
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = $wšb.t$-Mineral: 1, Unterägyptisches Salz: 1, fettes Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,2]
+1	𓏲𓈙𓃀𓏏𓈒𓏥	50430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wšb.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓂝𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+6	𓆓𓂧𓄿𓏯𓐎	186080	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḏdꜣ
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVDGeOBsBz0NCk7Yu1e5lZKg
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde an die Brust gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,2] - [71,3]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓈎𓄿𓃀𓏏𓄹	159290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qꜣb.t
+
+# sent_id = IBYDVKed9jhKfkvzhwilkT6fRs4
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Diese) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,3]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVEZniglWu0LihqQml6lRPvs
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Was zu tun ist gegen eine Wunde am Nacken:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,3]
+1	𓁹𓂋𓏏𓏥	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓅘𓎛𓃀𓏏𓄹	86210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḥb.t
+
+# sent_id = IBYDVK6eVKkyVUL1jSAjP4phx3Q
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Myrrhe: 1, Mehl der $db.yt$-Pflanze.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,3]
+1	𓂝𓈖𓅂𓈒𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓂧𓃀𓇋𓇋𓏏𓄧𓆰𓏥	178470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=db.yt
+
+# sent_id = IBYDVLSZznuYn0rMvJETj3rs5Ek
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,4]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDVDHTRNW5MEVNnWkMHlXqpsE
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,4]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVOqvpfQtukOukzbaDykWp1c
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Heilmittel zum) Ausheilen von irgendwelchen Dingen, an denen ein Mann leidet, mit irgendeinem Wundsekret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,4]
+1	𓋴𓋴𓈖𓃀𓏛	144100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssnb
+2	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+3	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+4	𓏠𓈖𓏏𓅪𓏥	69660	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mn
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓋴𓍬𓏤𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+8	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBYDVMniMWQcREQqo7NYOCdtF7U
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: 1, $ꜥfꜣ$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,4] - [71,5]
+1	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓂝𓆑𓄿𓆰𓏥	37300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥfꜣ.y
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVNlYezZQpkElv8uufBURq9U
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,5]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBYDVKgKRodlC0tdjcIFg3V4PwE
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,5]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVGIvKxYcAEQfvwMvPtKQaRk
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Ausheilen irgendeines Wundsekrets:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓋴𓈖𓃀𓏛	144100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssnb
+4	𓍬𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBYDVG4JGjhPHkghqCn2tckx8zk
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Kot, Gerste.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,5]
+1	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+2	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBYDVDwhnfQ8W0Z7uquNCyQrX3E
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde mit Nilpferd- oder Schweinefett zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,5] - [71,6]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+4	𓂧𓃀𓄛	178280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbj
+5	𓆷𓄿𓃟	151350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣj
+6	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBYDVBZOZ9g7DEzXpILoInkOHCM
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,6]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVDia8AsmLkOtqNwbNLE4rWY
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDVFpUj9M9P0QhuIR39R0tOlE
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Gerste, gekocht: 1, Johannisbrot: 1, Weihrauch: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,6] - [71,7]
+1	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+2	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVFkoHDX4WUwpk0cxLRQTh04
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,7]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDVICG5tNRskBKgHzlgrMDEzk
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,7]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVARjmD16BEZ8osCsrQDUj7Y
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Wachsenlassen der Haut:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓂋𓂧𓏏𓌗𓏛	139920	VERB	verb	VerbForm=Fin	_	_	_	Translit=srd
+4	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+
+# sent_id = IBYDVJjN0OYnJk72pWbnKqlBQTg
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Bleiglanz: 1, Rinderfett: 1, $ḥsb.w$-Paste (?) aus Malachit: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,7] - [71,8]
+1	𓄟𓋴𓂧𓅓𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+4	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓄡𓊪𓐎	109950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥsb.w
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓇅𓏲𓈒𓏥	43620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVB7Ydm35vEb2vSN9QTzQxLI
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,8]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDVPqr3kjRaU9buKUqF8iKZdM
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,8]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVET1rLLCQUaZjzFkwaotNds
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,8]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDVOty160S9Udwg3XeBotQWsQ
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Johannisbrot: 1, Langbohnen: 1, $šps$-Pflanze (⸗ $tj-šps$?): 1, Öl/Fett: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,9]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓀻𓋴𓈒𓏥	153830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šps
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVExUUgHogUCCsFKUUiwnpKw
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,9] - [71,10]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDVAXWWBD4rEp9vDLRqguCQns
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVEt8YENBcUL2hx6Y2KxXokM
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDVNynJ9EGH0UQjCWB5D04Q2Y
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,11]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBYDVEx6glXQMEIYp1kI0lqofkA
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde an die Öffnung des Wundsekrets (d.h. wohl: an die mit Wundsekret verschlossene Öffnung der Wunde) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,11]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓍬𓏤𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+
+# sent_id = IBYDVDXkmpZUWEXOjsVCKoIEPPU
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Heilmittel zum) Ausheilen von irgendwelchen Dingen, an denen ein Mann leidet, mit irgendeinem Wundsekret.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,11] - [71,12]
+1	𓋴𓋴𓈖𓃀𓏛	144100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssnb
+2	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jḫ.t
+3	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+4	𓏠𓈖𓏏𓅪𓏥	69660	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mn
+5	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓍬𓏤𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+8	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBYDVEtRQxiPtkjMl8O6NZfiza4
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Brot von Christdornfrüchten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,12]
+1	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈖𓃀𓋴𓆮	82810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbs
+
+# sent_id = IBYDVOOAUv0xeUhbkqzgBeq4SoE
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde mit Wasser gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,12]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBYDVKK5OgvgAkUJhb3nn7svLeg
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber in angenehmer Wärme verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,12] - [71,13]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓂋𓆑𓊮𓏛	139390	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=srf
+6	𓇛𓅓𓏛	91410	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nḏm
+
+# sent_id = IBYDVHQWbPuKQUKsn5QdIrwXE0E
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von $ꜣšy.t$-Sekret:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓄿𓈙𓇋𓇋𓏏𓐎	286	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣšy.t
+
+# sent_id = IBYDVJSPfQQq2kHvqri4Y2QKnPc
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Johannisbrot, Unterägyptisches Salz.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,13]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+2	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+
+# sent_id = IBYDVOc2B9PVXEgWozAv3UmOato
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde mit Harn gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,13]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+
+# sent_id = IBYDVI0X4Bp3CEWSospafqTwq60
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde daran (d.h. an das Sekret) gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,13]
+1	𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVBj5sxju907CgVNPv3wa2WI
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBYDVILrnk0kC06quhGLgeQudKc
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,14]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBYDVCenPTXvJEVQlxiMYSNuW7M
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVHmvMf2n8UzHqsLXAEguKv4
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen einer Absonderung, die an der Öffnung einer Wunde ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,14] - [71,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓂝	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓉻𓂝𓄿𓎼𓇋𓇋𓏏𓆇	35500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣg.yt
+5	𓃹𓈖𓈖𓏏	46050	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=wnn
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVKX9jJFDeEMvhyaxyR6Yfsc
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ei vom Strauß: 1, Panzer der Schildkröte, vollständig ausgeglüht: 1, Absonderung des $jꜣm$-Baumes: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,15] - [71,16]
+1	𓋴𓏲𓎛𓏏𓆇	130630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swḥ.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂢𓏲𓅬	80010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓅯𓄿𓈎𓇋𓇋𓏏𓊌	59350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣq.t
+6	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+7	𓈙𓏏𓅂𓆉	158430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šṯ.w
+8	𓋴𓈖𓍇𓏌𓏲𓐍𓊮𓍘𓇋	136860	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=snwḫ
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓉻𓂝𓄿𓎼𓇋𓇋𓏏𓆇	35500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣg.yt
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓆮𓅓𓆮	24810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣm
+13	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVL3YbUreikD8rM6qBeITeds
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,16]
+1	𓐛𓊃𓏌𓂝	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBYDVAakvl50N0O4rvprrqQq2gU
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Ausheilen irgendeines Wundsekrets:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,16] - [71,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓋴𓈖𓃀𓏛	144100	VERB	verb	VerbForm=Fin	_	_	_	Translit=ssnb
+4	𓍬𓏤𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBYDVF4wiBNJTELHuO5TGGXKEc8
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Fett der Ziege: 1, Wachs: 1, Duftharz: 1, Kampferholz: 1, frisches Olivenöl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,17] - [71,18]
+1	𓎙𓂧𓏊𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌡𓂝𓏏𓏭𓃙	44240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ.tj
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓏠𓈖𓎛𓈒𓏥	70920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mnḥ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓋴𓏏𓏭𓐎	148990	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯj
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓍘𓀻𓋴𓈒𓏥	169810	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tj-šps
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+14	𓇆𓏛	600304	ADJ	adjective	_	_	_	_	Translit=wꜣḏ
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBYDVJi3QIvXnUdNsiAkAzig3TY
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,18]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDVJgXXV13tk5wmojtITYqk18
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde an das Wundsekret gegeben, so dass er gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,18]
+1	𓂡	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓍬𓏤𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBYDVMCgiuufcEorlI9D6y27Xa8
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Bandagieren einer Wunde:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓅷𓄿𓅓𓋳𓀜	148930	VERB	verb	VerbForm=Fin	_	_	_	Translit=sṯꜣm
+4	𓏲𓃀𓈖𓏌𓏲𓐎	45190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wbn.w
+
+# sent_id = IBYDVAyIJUWyC0XCmDOtDn4HI1Y
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die Wunde) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBYDVET5cAn6XkmKjPSXSfaAygc
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel zum) Lindern von Wundsekret:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,19] - [71,20]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓋴𓇛𓅓𓏛	851678	VERB	verb	VerbForm=Fin	_	_	_	Translit=snḏm
+3	𓍬𓏤𓐎	148790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
+
+# sent_id = IBYDVE7nt0QJZkFksWVAWSifxbM
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,21]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+
+# sent_id = IBYDVEWW8n9fK0Oko4YcEgswlbM
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,21]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBYDVMTGlkqMTkB7g868ab08MVw
+# corpus = sawmedizin
+# src_text_id = RQ6NFFAST5FNVMYBYI3PS2NMKA
+# src_text = sawmedizin:Papyrus Ebers//70,1-71,21 ⸗ Eb 515-542: "Heilmittel zum Ausheilen von Wunden am Leib"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [71,21]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+

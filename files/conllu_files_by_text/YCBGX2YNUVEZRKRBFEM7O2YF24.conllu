@@ -1,0 +1,634 @@
+# sent_id = IBcAgTlomc6zeUJRjFOCqPUXCRw
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Das Herz Seiner Majestät war nu⸢n⸣ zufrieden, für sie täglich Nützliches zu tun.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [3]
+1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+2	𓎼𓂋	167730	PART	particle	_	_	_	_	Translit=gr
+3	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓊃𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+12	𓅜𓐍𓏏𓏛𓏥	217	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+13	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBcAgeaWQpIJaEsbiHzSjrpln1E
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = „Ach hätte ich doch“.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [4]
+1	𓎛𓅱𓀁	102710	PART	particle	_	_	_	_	Translit=ḥwj
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAiP1RFkyvN0QohpBVsu2fuYY
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Maat (⸗ Recht) war etabliert ⸢i⸣n den Ufern (⸗ Ägypten).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [4]
+1	𓌶𓂝𓏏𓁦	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
+2	𓃀𓋴𓅱𓏏𓆝	854509	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=bzi̯
+3	𓅓𓆱𓐍𓏏	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+4	𓈅𓈅𓈅	854494	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jdb
+
+# sent_id = IBcAiOCYWxpgsEsXt9CdlaqL8Q8
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Omen geschahen in der Zeit Seiner Majestät (⸗ Taharqa) im 6. Jahr seines Erscheinens (als König).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [4] - [5]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓃀𓇋𓄿𓍄𓏏𓏛𓏥	54480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.yt
+3	𓆣𓂋𓏛	858535	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓂋𓎡𓈐𓇳	96390	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rk
+6	𓍛𓀯	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓆳𓏏	94920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.t
+10	𓏤𓏤𓏤𓏤𓏤𓏤𓏏	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓈍𓂝	114740	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜥi̯
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAiKSZJZIdk0UWklaL1GIkFGM
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Seine Majestät (⸗ Taharqa) erbat eine Überschwemmung durch seinen Vater Amun-Re, Herrn der Throne Beider Länder, um keine Armut (⸗ Hungersnot) in seiner Zeit zu zulassen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [5] - [6]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓂧𓃀𓎛𓄑𓏛	178750	VERB	verb	VerbForm=Fin	_	_	_	Translit=dbḥ
+6	𓎛𓂝𓊪𓈘	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+7	𓅖	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+8	𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓇋𓏠𓈖𓇳𓏤	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
+11	𓎟𓎼𓎼𓎼𓇿𓇿	400098	_	epitheton-title	_	_	_	_	Translit=nb-ns.wt-Tꜣ.wj
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓏏𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+14	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+15	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+16	𓈙𓍯𓅪	600647	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šwꜣ.w
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓂋𓎡𓈐𓇳	96390	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rk
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAiIZJdVQQPEPZkv7dfpov2wo
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Alles also, was Seiner Majestät über die Lippen kam, sein Vater Amun-Re ließ es sofort geschehen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [6]
+1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+2	𓎼𓂋	167730	PART	particle	_	_	_	_	Translit=gr
+3	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓂏	132440	NOUN	substantive	Number=Dual|Status=Cons	_	_	_	Translit=sp.t
+8	𓍛𓀯	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓂞𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+11	𓏏𓆑𓀭	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓇋𓏠𓈖	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+14	𓆣𓂋𓏛	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+15	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+16	𓁷𓏤𓂝𓅱	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBcAiHuxKxZwDkgQnq8wWp3ZhoY
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Als die Zeit des Ansteigens des Nilwassers kam, stieg es täglich sehr stark an.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [6] - [7]
+1	𓆣𓂋𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓏏𓂋𓆳𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓎛𓅱𓏏𓈗	854530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwi̯
+5	𓎛𓂝𓊪𓈗	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+6	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓎛𓅱𓏏𓈗	854530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwi̯
+10	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓃀𓏤	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+12	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+13	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBcAiA5WnOrb7kOTrvIh8mTAuhQ
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Es (⸗ Nilwasser) stieg viele Tage lang an mit 1 Elle täglich.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [7]
+1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇳𓏤𓏪	99060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hrw
+4	𓆈𓏏𓏥	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓎛𓅱𓏏𓈗	854530	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥwi̯
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎔𓂝	73330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓇳𓏤𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+
+# sent_id = IBcAiOsbEZ0WvkuElkxKVHcLwWs
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Es (⸗ Nilwasser) drang in die Berge Oberägyptens vor,
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [7]
+1	𓅧𓈎𓈖	41180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈋𓅱𓅱𓊌𓏥	182830	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḏw
+4	𓇿𓇗𓏏𓊖	169310	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-Šmꜥ.w
+
+# sent_id = IBcAiDT9uAhN503rpDafwvDHzSU
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = es (⸗ Nilwasser) beherrschte die Stätten Unterägyptens.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [7]
+1	𓁷𓁶𓈖	108270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥr-tp
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓅱𓈏𓏥	20120	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jꜣ.t
+4	𓇾𓎔𓎛𓏏𓊖	169120	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-mḥ.w
+
+# sent_id = IBcAiNQKr44bTEJKniz2q87lMUQ
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Das Land (⸗ Ägypten) war (wie der) Nun (⸗ Urmeer vor der Weltentstehung), war (wie der) Neni (⸗ träge Person), ohne dass sich das Neuland (noch) vom Fluss unter⸢schieden hätte⸣.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [7] - [8]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓏌𓏌𓏌𓇯𓈗	500006	PROPN	entity-name	_	_	_	_	Translit=Nw.w
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇑𓇑𓈖𓈖𓀉𓈗	84620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nn
+7	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+8	𓏏𓈖𓌙𓅯	175750	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯni̯
+9	𓌳𓄿𓅱𓏏𓇿	66830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣw.t
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓇋𓂋𓏏𓈗	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
+
+# sent_id = IBcAiPuApr9u6EdCk3BLIedYa30
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Zudem regnete der Himmel in Nubien und ließ alle seine Berge erglänzen.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+2	𓎼𓂋	167730	PART	particle	_	_	_	_	Translit=gr
+3	𓎛𓅱𓏏𓈗	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
+4	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇿𓐮𓏏𓈉	169280	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-Ztj
+7	𓋴𓍘𓎛𓈖𓇯𓈓𓈖	149370	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sṯḥn
+8	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓈋𓏲𓏲𓊌𓏥	182830	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏw
+10	𓂋𓇥𓂋	92500	ADP	preposition	_	_	_	_	Translit=r-ḏr
+11	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBcAiM0eHbHtJknnhT1OQBeCN2I
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Jeder Nubier war überschwemmt mit allen Dingen (des Lebensunterhalts),
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓊃𓀀𓎟	125290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z-nb
+3	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓇾𓐮𓏏𓏏𓈉	169280	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-Ztj
+5	𓅤	55080	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=bꜥḥi̯
+6	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+8	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcAiEakOyQBk0SMgRVWeQ80c6c
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Ägypten war ein (einziges) gutes Fest.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓆎𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓃀𓎱𓏛	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+5	𓄤𓆑𓂋	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+
+# sent_id = IBcAiL8g7CLr8kJZmg0NR8NInMY
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Sie (⸗ die Menschen Nubiens und Ägyptens) priesen Seine Majestät (⸗ Taharqa).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓇼	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+2	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAiCoesknb1UgikOt6szPbhP0
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Sein (⸗ Taharqa) Herz war weit wegen dem, was sein Vater für ihn getan hatte.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄫𓏛	49	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣwi̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓏏𓆑	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAiA3MiWyWykf5tMnw9YtF8DQ
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Seine Majestät sprach also:
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓇓𓅱	129500	PART	particle	_	_	_	_	Translit=sw
+2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAk776XVqyCEp6rfA9mImnBRI
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Das Nilwasser kam als Räuber / RETTER ??????????????? der Rinder.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓂻𓅱𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓎛𓂝𓊪𓈘	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎁	33560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jṯi̯
+5	𓃒𓏥	162930	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣ
+
+# sent_id = IBcAkQL1nSjgBkdgnOuwOahIoxw
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Es (⸗ Nilwasser) überflutete dieses Land in seiner Gesamtheit.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓅤𓈖	55080	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bꜥḥi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+4	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+5	𓂋𓄫	91930	ADP	preposition	_	_	_	_	Translit=r-ꜣw
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAkzPObtShYkkslp8u2pxhQiw
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Seinesgleichen wurde in den Schriften aus der Zeit der Vorfahren nicht gefunden.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓅠	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓏇𓏏𓏏𓇿	67960	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mj.tjt
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏞𓏛𓏥	144270	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zš
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓎡𓈐𓇳	96390	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=rk
+9	𓇥𓂋𓏏𓏭𓀰𓏪	184980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏr.tjw
+
+# sent_id = IBcAk3XoJtYbWUtHtnG7VwuNI6A
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Es (⸗ Nilwasser) übergab (⸗ ließ zurück) Felder, die gänzlich vollkommen (für die folgende Bestellung) waren.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [11] - [12]
+1	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓇏𓈅𓏤	141480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t
+5	𓄤𓂋𓏏𓍿	854519	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nfr
+6	𓂋𓄫𓅱	91930	ADP	preposition	_	_	_	_	Translit=r-ꜣw
+7	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+
+# sent_id = IBcAkWfYPaQi30eQtv0FTMG8fds
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Es (⸗ Nilwasser) ließ nicht zu, dass die Südwinde sie (⸗ Felder) aus⸢raubten⸣.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [12]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂝𓍯𓄿𓂡	854497	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥwꜣi̯
+5	𓋴	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+6	𓇔𓅱𓊡𓏥	96120	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rs.w
+
+# sent_id = IBcAkzIne1MMsU6MvVSk2HOirGQ
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = dass de⸢ren⸣ Ausmaß ⸢an⸣ ober- und unterägyptischer Gerste und jeder Frucht, die auf dem Rücken des Landes wuchs, unbekannt war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [13]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓐍𓏛	95620	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
+3	𓍿𓈖𓅱𓏌𓌙𓅯𓏛𓏥	175830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯnw
+4	𓇋𓂋𓏥	851428	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jr.j
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇓𓏬𓌽𓏬	154800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šmꜥ
+7	𓇉𓌽𓏬	860404	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mḥ.w
+8	𓉐𓂋𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
+9	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+10	𓇝	96610	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=rd
+11	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+12	𓐠𓏤	125670	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sꜣ
+13	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBcBRIJDr0DkoUoZngkg1OgkRl8
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Ich war bei ihm (⸗ Schabaka).
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [14]
+1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+2	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAk8djuFUXfEOmqPn4hqlMaZM
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Er (⸗ Schabaka) liebte mich mehr als alle seine Brüder (und) als alle seine (eigenen) Kinder.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [14]
+1	𓌸𓂋𓀁𓈖	72470	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓀰	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌢𓅱𓏌𓏪	136230	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sn
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓄟𓋴𓅱𓏪	74750	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ms
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBcAkw2ZZI9erEsajTPSq2ApTS4
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Ich wurde ⸢vor ih⸣nen ⸢durch⸣ Seine Majestät (⸗ Schabaka) ausgezeichnet.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [14]
+1	𓍿𓈖𓌙𓅯𓈖𓎡𓅱	175750	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ṯni̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+5	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAk4XOSl3cg0CJjeaIPXoQHVE
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Die Herzen der pat-Menschen wandten sich mir zu.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [14]
+1	𓄳𓂋𓂻	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓄣𓏤𓏥	23290	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jb
+5	𓊪𓂝𓏏𓀀𓁐𓏥	59610	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜥ.t
+
+# sent_id = IBcBRHQFh5rKSUtdrKh7xhSOuK8
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Ich war bei jedermann beliebt.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [14]
+1	𓌸𓂋𓏏	72650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mrw.t
+2	𓀯	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+4	𓁷𓏤𓎟𓀀𓁐𓏥	108020	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥr-nb
+
+# sent_id = IBcAkwureoXDBEojuFt6Y2FRK4Q
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Ich aber hatte mich von ihr als 20-jähriger Jüngling entfernt, als ich mit Seiner Majestät (⸗ Schabaka) nach Unterägypten ging.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [16] - [17]
+1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
+2	𓎼𓂋𓏏	167730	PART	particle	_	_	_	_	Translit=gr
+3	𓁷𓂋𓈖𓈐	108340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥri̯
+4	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎛𓃹𓈖𓀔	103020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥwn.w
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓆳𓏏	94920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.t
+11	𓎆𓎆	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓂻𓅱𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+14	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+15	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+16	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+19	𓇿𓎔𓇉𓏏𓊖	169120	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-mḥ.w
+
+# sent_id = IBcAkx2AiYXV6kWzpQo9yWAZfcc
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = (und) sie fand mich, indem ich erschienen war auf dem Horusthron.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [18]
+1	𓅠𓅓𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅱𓇋	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
+4	𓈍𓂝𓎡𓅱	114740	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ḫꜥi̯
+5	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓊨𓅃	125390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t-Ḥr.w
+
+# sent_id = IBcAkzkrReRwaEnAoplSqC25urE
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = die beiden Kronengöttinnen (⸗ Doppeluräusschlange an der Krone kuschitischer Könige) hatten sich mit meinem Kopf vereinigt,
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [18]
+1	𓎸𓅓𓈖	123420	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖnm
+2	𓇅𓏏𓏭𓆗𓆗	43790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ.tj
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓁶𓊪	854577	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp
+5	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBcAk2YXTmQFFEisnnhViyQtcKM
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = Sie war äußerst erfreut beim Anblick der neferu Seiner Majestät (⸗ Taharqa) so wie (es einst) Isis (war, als sie) ihren Sohn Horus erblickte, der auf dem Thron <seines> Vaters Osiris erschienen war, als er (noch) ein Jüngling im Inneren des Nests in Chemm⸢is⸣ war.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [18] - [19]
+1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓎛𓂝𓂝𓀠𓅱𓏏	102060	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḥꜥi̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓉻𓂝	855762	ADV	adverb	_	_	_	_	Translit=ꜥꜣ.t
+6	𓅨𓂋	47300	ADV	adverb	_	_	_	_	Translit=wr
+7	𓅓𓆱𓐍𓏏	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+8	𓌳𓁹	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+9	𓄤𓅱𓏪	854638	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nfr.w
+10	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+13	𓌳𓁹	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+14	𓊨𓏏𓏏	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+15	𓅭𓏤	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+16	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+17	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+18	𓈍𓂝	114740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫꜥi̯
+19	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+20	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t
+21	𓏏	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+22	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+23	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+24	𓅓𓆱𓐍𓏏	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+25	𓃹𓈖𓈖	46050	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+26	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+27	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+28	𓎛𓃹𓈖𓀔	103020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥwn.w
+29	𓅓𓄚𓈖𓏌𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+30	𓅹	144360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zš
+31	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+32	𓆤𓇇𓏏𓊖	211	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ-bj.t
+
+# sent_id = IBcAk25RfdomoUYlpaxozqEFglQ
+# corpus = bbawhistbiospzt
+# src_text_id = YCBGX2YNUVEZRKRBFEM7O2YF24
+# src_text = bbawhistbiospzt:Unteres Textfeld//Unteres Textfeld
+# owner = Silke Grallert
+# text_de = O starker König, du sollst leben, du sollst gesund sein so wie Horus für seine Mutter Isis lebt.
+# findspot = unknown
+# date = TIP - Roman times
+# lineRef = [22]
+1	𓇓𓏏𓈖𓀜	854276	_	epitheton-title	_	_	_	_	Translit=nswt-nḫt
+2	𓋹𓅱𓏏	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
+3	𓋴𓈖𓃀𓅱𓏏	851676	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snb
+4	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+5	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+6	𓅃	107500	PROPN	entity-name	_	_	_	_	Translit=Ḥr.w
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓅐𓏏	69040	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mw.t
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓊨𓏏𓏏	271	PROPN	entity-name	_	_	_	_	Translit=Ꜣs.t
+

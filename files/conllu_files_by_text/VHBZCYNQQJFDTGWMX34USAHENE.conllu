@@ -1,0 +1,2065 @@
+# sent_id = IBcAQPY6gdl5uEbKoO4sUgXd6hU
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Anfang (der Heilmittel zum) Beseitigen von Schwellungen und zum Stillen des „Fressens“ in jedem (möglichen) Körperteil eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,19]
+1	𓄂𓂝𓅓	100510	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.t-ꜥ-m
+2	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+3	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šf.wt
+4	𓋴𓎼𓂋𓏏𓀁	147260	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgr
+5	𓏲𓈙𓂝𓏲𓄑𓈒𓏥	50300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšꜥ.w
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcAQGPz0ZykwUZFlQlUdeqmXA0
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $ns.ty$-Keimlinge (?) von Gerste (?): 1, $šnf.t$-Früchte: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,20]
+1	𓈖𓄓𓋴𓍘𓇋𓇋𓌽𓏥	87890	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ns.ty
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈙𓈖𓆑𓏏𓈒𓏥	156130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnf.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQGgQuipaT0lfgMcbkkRz3V0
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde mit Pflanzenbrei vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,20]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcAQJjiEjO5WUOooPLU5PdYD80
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,20]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQODo6mQ8vUhOqdlcHg5LYNY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Herausholen des Eiters:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+4	𓂋𓇋𓇋𓏏𓐎𓏪	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+
+# sent_id = IBcAQIZzOGVtLkB6klmiDiaLZCw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $jpšnn$-Droge: 1, Natron: 1, $bzn$-Salz vom Ofen: 1, Johannisbrot: 1, Weihrauch: 1, Kerne der Dattel.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [72,21] - [73,1]
+1	𓇋𓊪𓈙𓈖𓈖𓈒𓏥	24460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jpšnn
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓃀𓋴𓈖𓈒𓏥	57460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bzn
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓍔𓏤𓉐	168880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓇋𓆛𓈖𓇋𓇋𓏏𓈒𓏥	26930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jnj.t
+14	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+15	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+
+# sent_id = IBcAQB2qB3ps1EiBr3jvlRCEypg
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,1]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQEPfA98W0EziolkMijXvnGk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,1] - [73,2]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQLVf1LQHQ0QLlV34CWkA93M
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQCPORofeeE6XqiYwi1aF2Q8
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,2]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQJ6rhIffL0Qel2VPyXE1Xcs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,2]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQKGBmpBcWkvQtJQ0PCWScnY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQLZKXp2gk0pXmWckQn8dPMU
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Kügelchen der Erdscholle: 1, in Wasser gegeben und zu Brei gemacht, Johannisbrot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,3]
+1	𓅷𓏤	173960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓊪𓈖𓋴𓈇𓏤	60110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pns
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓂋𓂝	851711	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=rḏi̯
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+8	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jri̯
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓈖𓄡𓈖𓈇𓏥	87740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nẖn
+11	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBcAQGOAvgKKv0W1l7LgzckyI58
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,3]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBcAQJfhitzCRkPiqAj2BI7tDhs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde durch Tücher geseiht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,3] - [73,4]
+1	𓀸𓄿𓏲𓀜	126840	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋳𓏥	103750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥbs
+
+# sent_id = IBcAQBpiDjEvk0fmmpTv0Cn2TyI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde zu einer Masse verkocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,4]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQEwfk6W2xEcuiWBw0RK6Rc0
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde zu Fladen gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,4]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓃀𓇋𓏏𓏒	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBcAQI3QQit4bk11kOmvMOJIrSM
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,4]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQAqZVE76oEJTsx6jme2pvUg
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQMx1kFJW6kMEr0UtRQhumqE
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $ꜥmꜥꜥ$-Körner vom weißen Emmer, $wꜣm$-Früchte.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,4] - [73,5]
+1	𓂝𓅓𓂝𓂝𓈒𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓇣𓏏𓏤𓌽𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+4	𓌉𓆓𓏏𓇳	112300	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ḥḏ
+
+# sent_id = IBcAQFR3ksGdi0PTsvLfrxcJgpE
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,5]
+1	𓍯𓄿𓅓𓊮	42410	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣi̯
+
+# sent_id = IBcAQC2TkkHlaUOUjNrWE5HQE4o
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde zerquetscht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,5]
+1	𓋴𓈞𓅓𓍖𓀜	140710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḥm
+
+# sent_id = IBcAQHCZnjrx20mTtEWKKl2VEgw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde durch Tücher geseiht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,5]
+1	𓀸𓄿𓏲𓀜	126840	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣr
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓋳𓏥	103750	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥbs
+
+# sent_id = IBcAQI0PDMDIPUi5kQBujZpYOdk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde in Pflanzenbrei gegeben;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,5]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcAQPkaSV2gx0nwviAts7Ff1xY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde zu Fladen gemacht, vermengt mit Öl/Fett.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,5] - [73,6]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓃀𓇋𓏏𓏒	54150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+4	𓄿𓏇𓇋𓀜𓍘𓇋	136	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜣmj
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcAQHwVEtMnEknXjrQ0UPzqN1Q
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,6]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQLaa0olbqkJ8vQpGQvb5fEg
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,6]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQI3TG4FslEk5liCl21NEFUk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Was zu tun ist bei Füßen, (wenn) sie schmerzhaft geschwollen sind:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,6]
+1	𓁹𓂋𓏏𓏪	851809	VERB	verb	Number=Plur|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=jri̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
+4	𓈙𓆑𓏲𓐎	154160	VERB	verb	Number=Dual|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šfu̯
+5	𓍋𓅓𓂋𓅪	71790	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mr
+
+# sent_id = IBcAQPUhSrorh0eimiAjP5gCZWA
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Rotes Natron: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,7]
+1	𓎛𓋴𓏠𓈖𓍖𓈒𓏥𓂧𓈙𓂋𓏯	110120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥzmn-dšr
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQJPsSBhKiUiehHygW5Zeqfk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde mit Gegorenem von Dattelsaft vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,7]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆣𓂋	865676	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+
+# sent_id = IBcAQC3VABb4O0SxquH2evPdinU
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,7]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQPNqwCvbo0d7qQXzeySW26I
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für das Knie:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓌴𓄿𓊨𓏏𓂾	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+
+# sent_id = IBcAQEGBQAEEBkuPt6D5XOcTMyY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Mehl von Langbohnen: 1, $sk.j$-Mehl von der Tenne: 1, unterägyptisches Salz: 1, Harn vom Menschen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,8]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓋴𓎝𓎢𓈒𓏥	146730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sk.j
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓈀𓈖𓉐	62550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏn
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓅓𓂝𓇋𓇋𓏏𓈗	69240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.yt
+12	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+13	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+
+# sent_id = IBcAQAqgc6KlY0UGsRN6OoodB9A
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse verkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,9]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓂋𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQAEjeWG570LUnyXemmHsLRI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Das Knie) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQH0byHnP7EXRuaCntBthWqc
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen einer Schwellung und zum Stillen des „Fressens“ in allen (möglichen) Körperteilen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,9] - [73,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+5	𓋴𓎼𓂋𓏏𓀁	147260	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgr
+6	𓏲𓈙𓂝𓏲𓄑𓏥	50300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšꜥ.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+9	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+
+# sent_id = IBcAQPz0rQVYyUHYnApzuLtRgQU
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $gw$-Gras: 1, Johannisbrot: 1, frische Datteln: 1, Natron: 1, unterägyptisches Salz: 1, gegorener Pflanzenbrei: 1, $šnf.t$-Früchte: 1, Kreuzkümmel: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,10] - [73,11]
+1	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓇜𓏲𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+6	𓋹𓈖𓐍	38530	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥnḫ
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+13	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+14	𓂝𓍯𓄿𓇋𓇋𓏏𓏌𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+16	𓈙𓈖𓆑𓏏𓈒𓏥	156130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnf.t
+17	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+18	𓏏𓊪𓈖𓈖𓈒𓏥	171690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tpnn
+19	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQEU1Sl4muki7hlDL3gRZa0k
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,11]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAQB7WsRBdxUqehiOuPBP6QZ0
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde damit gesalbt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,11]
+1	𓐛𓊃𓀜	168280	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gs
+2	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBcAQMLFO8aaQk2CrlofqD7hhok
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQHkdqgULVUbvvB4oqR9NW3Y
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Holzkohle: 1, Dattelsaft: 1, unterägyptisches Salz: 1, Bodensatz des Bieres: 1, Weihrauch: 1, Myrrhe: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,11] - [73,12]
+1	𓆓𓂝𓃀𓏏𓈒𓏥	182660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥb.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓏏𓍔𓄿𓎛𓏏𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+8	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+9	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓂝𓈖𓅂𓈒𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQJdDPJOATUJFoy9OdeypNAU
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,12]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAQLLGAdgrMUdsoU9Yv2rXg1M
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,12]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBMPUaKPzBs0QIoyxq0uv0w1M
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = So sollst du ihm Mittel zum Herausholen des Wassers aus der Schwellung machen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,13]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓏎𓈖𓏏	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+8	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+
+# sent_id = IBcAQMvgCELNEEgBhJbvPTYqG2w
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Mehl von frischer Gerste: 1, $gw$-Gras vom Uferland: 1, $gw$-Gras vom Garten: 1, $mw.t$-Teil vom $gw$-Gras: 1, Bleiglanz: 1, Mehl von $qꜣꜣ.t$-Früchten: 1, in neuem Öl/Fett, Faserbausch der $db.yt$-Pflanze: 1, (rote) Tinte: 1, Weihrauch: 1, Gänsefett: 1, „männlicher“ Pflanzenbrei: 1, $tjwjꜣ$-Droge: 1, $wty.t$-Droge: 1, Mehl der Samen der $nḏḥꜥḏḥꜥ.t$-Pflanze: 1, Leinsamen (?): 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,14] - [73,17]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓈅𓈇𓏤	52640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏb
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓎛𓋴𓊪𓈇𓏤	109980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzp
+13	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+14	𓅐𓏏𓏥	69050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mw.t
+15	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+16	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+17	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+18	𓄟𓋴𓂧𓅓𓏏𓈒𓏥	76190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=msdm.t
+19	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+20	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+21	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+22	𓈎𓄿𓄿𓏏𓈒𓏥𓏪	181010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣꜣ.t
+23	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+24	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+25	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+26	𓌴𓏏𓏛	66150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mꜣw
+27	𓆑𓏏𓏏𓏲𓄧𓏥	64200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ftt
+28	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+29	𓂧𓃀𓇋𓇋𓏏𓄧𓏪	178470	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=db.yt
+30	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+31	𓂋𓇋𓇋𓏏𓈒𓏥	93190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ry.t
+32	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+33	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+34	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+35	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mrḥ.t
+36	𓅬	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+37	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+38	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+39	𓅷𓄿𓇋𓇋𓂺𓏌𓏥	174250	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+40	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+41	𓅂𓇋𓄿𓏌𓏥	868094	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=twjꜣ
+42	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+43	𓏲𓏏𓇋𓇋𓏏𓈒𓏥	51110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wty.t
+44	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+45	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=qꜣw
+46	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+47	𓈖𓆓𓎛𓂝𓆓𓎛𓂝𓏏𓈒𓏥	91710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nḏḥꜥḏḥꜥ.t
+48	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+49	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+50	𓂧𓈙𓂋𓏯	180740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dšr
+51	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQNAz5YA7H0wnvQhWiLZiy3E
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,17]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQOLgE8KnckkwuKMJXtKjCI4
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQMGpMCx1400xhBzHyCBb7WI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQDcDAI1VSkHRvmVQIIh4gp4
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQOBQWwJOL04zjWJhiTFVxuo
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: 1, $sk.j$-Mehl von der Tenne: 1, Natron: 1, Fladen von Grütze: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,19] - [73,20]
+1	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓋴𓎝𓎢𓈒𓏥	146730	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sk.j
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓈀𓈖𓉐	62550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏn
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓎛𓋴𓏠𓈖𓍖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓇋𓃀𓏏𓏒	54150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+11	𓃀𓇋𓏏𓏒	54120	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bj
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQMpCYHnVlUAXg5erDvY02BM
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQN66TI11dEfsmBt9lVgWHRs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Mehl von $ꜥmꜥꜥ$-Körnern des Emmers: 1, Fettes vom Leder: 1, $bzn$-Salz des Maurers: 1, $šbb$-Pflanzen: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [73,21] - [74,1]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂝𓅓𓂝𓂝𓈒𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇣𓏏𓏤𓌽𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓈎𓈖𓃾	160900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qn
+8	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+9	𓂧𓁷𓂋𓄛	185270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏḥꜥ
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓃀𓋴𓈖𓈒𓏥	57460	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bzn
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓀨𓏲𓂝𓀀	162500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qd.w
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+15	𓈙𓃀𓃀𓆰𓏥	153440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šbb
+16	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQDbpeWkQ8EBzgEqBHWJsu24
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Die Schwellung werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,1]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQLSybAaPBE4fqqb2W5DbgTU
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,2]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQMWEpXalaUyEndJirH3KG5k
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Frische $ḥm.w$-Pflanzenteile, gekocht mit $mstꜣ$-Flüssigkeit: 1, $ḥwr.w$-Droge in Muttermilch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,2] - [74,3]
+1	𓈞𓅓𓏲𓆰𓏥	104880	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm.w
+2	𓇅𓆓𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+3	𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓄟𓋴𓏏𓍔𓄿𓈗𓏌𓏥	75980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mstꜣ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓎛𓅨𓂋𓏲𓈒𓏥	103160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥwr.w
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+10	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
+
+# sent_id = IBcAQBO2JW3eLk6ciPQuULXqM0Y
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde an die Öffnung der Geschwulst gegeben, so dass sie von selbst zerfällt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,3]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓐍𓊃𓂧𓐎	121080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫzd
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓏲𓉔𓈖𓊊𓀜	48560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=whn
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAQP9Se3WDpEfDoxiRqhI9Id8
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,3]
+1	𓎡𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQIulHQDfZ0y1sP5InhmPvo4
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Propolis (? wörtl.: Fliegenkot) im Milchsaft der Sykomore.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,3] - [74,4]
+1	𓎛𓋴𓐎𓏥𓂝𓆑𓆑𓅬𓏥	863819	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs-ꜥff
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+4	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+
+# sent_id = IBcAQBWsNKkHfU1uszbY0TISktE
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde an die Öffnung der Geschwulst gegeben, so dass sie von selbst zerfällt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,4]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓐍𓊃𓂧𓐎	121080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫzd
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓏲𓉔𓈖𓊊𓀜	48560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=whn
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAQES6PkQpHkrAqVyC5YIZMIk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQBhEYArMnUq1t5qaAuy8tSI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Trockenes (?) vom Gummiharz: 1, in Eselsmilch: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,5]
+1	𓇶	152740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=jrṯ.t
+7	𓉻𓂸𓃩𓄛	34840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜥꜣ
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQNsFxQdkUk0dg3raH9QUQHY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde an die Öffnung der Geschwulst gegeben, so dass sie von selbst zerfällt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,5] - [74,6]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓐍𓊃𓂧𓐎	121080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫzd
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓏲𓉔𓈖𓊊𓂝	48560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=whn
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAQHyQe27eR0XeuNfqO6i8IVk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Nachdem sie zerfallen ist, soll man einen „Schwanz“ (d.h. einen Drain?) an sie legen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓏲𓉔𓈖𓊊𓀜	48560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=whn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+6	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓄢	149520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sd
+8	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBcAQOM0OrCiHkFCoDiKRPMY2WI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde mit „Selbstentstandenem“ vom Dattelsaft zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,8] - [74,9]
+1	𓐩𓏌𓀜	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆣𓂋𓆓𓊃𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+
+# sent_id = IBcAQNNwNJWO00mJmfTXJFpzwAk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,9]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQCWASdrJGUUaq4z28PTI7Jc
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,9]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQEUsWMWKwUB2ijCDPjA4rWc
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $mjmj$-Getreide: 1, Pflanzenbrei: 1, $ꜥmꜥꜥ$-Körner des Emmers: 1, $qꜣꜣ$-Früchte: 1, Propolis (?, wörtl.: Fliegenkot): 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,9] - [74,10]
+1	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓂝𓅓𓂝𓂝𓈒𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓇣𓏏𓏯𓌽𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓈎𓄿𓄿𓈒𓏥	159070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣꜣ
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓎛𓋴𓐎𓏥𓂝𓆑𓆑𓅬	863819	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs-ꜥff
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQF2FqqCE4UWQvlUyfItatGI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde mit Pflanzenbrei vermengt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,10]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcAQLRpPFKwiEvBjXS1ZmOn3JQ
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,10]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQAEDNedJt0TmukawjmbpkYY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQKjOENBni00slKJs3lyJZmw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Tinte des Schreibers.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,11]
+1	𓂋𓇋𓇋𓏏𓈒𓏥	93190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ry.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓏞𓀀	855553	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w
+
+# sent_id = IBcAQH9ml6N0dkkLsfDfK6PS06U
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zerstoßen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,11]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+
+# sent_id = IBcAQAs3jxtZAU2OhYx4OLntncA
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde mit Pflanzenbrei eingedickt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,11]
+1	𓋴𓏲𓂸𓏏𓈇	130080	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swmt
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcAQDaJCQ3lLUyXgGW2BMLZYQs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,11]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQJrNlLUzmUv7uQkFO9CpyJw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,11]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQAzZWbjFL02CpiePPfXHPqY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Holz der $ꜥš$-Konifere.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,11] - [74,12]
+1	𓆱𓏏𓏤	121200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḫt
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂝𓈙𓐎𓆮	40940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥš
+
+# sent_id = IBcAQHyMWaLwEklSlpAf1DHOvDg
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde in Pflanzenbrei mit dem Boden eines neuen Hin-Maß-Gefäßes, zerstoßen, (im Verhältnis?) eins zu eins zerstoßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,12] - [74,13]
+1	𓆼𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓎛𓈖𓄿	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓄖𓏲𓏭	61490	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=pḥ.wj
+6	𓈖𓏲𓏭	850787	ADJ	adjective	Number=Dual|Gender=Masc	_	_	_	Translit=n.j
+7	𓉔𓈖𓏊	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+8	𓌴𓄿𓏛	66150	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=mꜣw
+9	𓆞𓄿𓏲𓀜	122400	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ẖꜣ
+10	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+11	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+12	𓌡𓂝𓏤	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQG9pQz5fWkfEkLQhTURJQu8
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,13]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQMIyFZByNUmPi2wtHxcDKg8
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,13]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQKNLfxYAm0AHoZ15PBYwJLM
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = „Knoten“ der $ꜥš$-Konifere.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,13]
+1	𓋭𓈇𓏤	856104	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣz
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂝𓈙𓐎𓆮	40940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥš
+
+# sent_id = IBcAQHYtP7vGdUCJqbvqbVn51mw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde in Milch einer (Frau), die einen Knaben geboren hat, zerstoßen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,13] - [74,14]
+1	𓆞𓄿𓏲𓀜	122400	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖꜣ
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓁹𓏏𓏏𓏌𓏥	854491	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jrṯ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓄟𓋴𓏏𓏯	74950	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=msi̯
+6	𓅷𓄿𓇋𓇋𓂺𓀀	174240	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+
+# sent_id = IBcAQKGrQRJu20KGmNXP3t6jQ3E
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,14]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQFMngBDeG0WJh7i5uVnRq1U
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,14]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQNhoOU96GUXWlt9j9nAOhtQ
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,15]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBcAQGOuT7w8M0mHpNEXkZyD3W4
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Die Geschwulst einer Schwellung (d.h. die Geschwulst, die durch eine Schwellung entstanden ist?) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,15] - [74,16]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓐍𓊃𓂧𓐎	121080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫzd
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+5	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQGH7fVJdZESBrndsPdv14TA
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQMf6zzidPkuoqF9XHToZ8EA
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde mit Pflanzenbrei gekocht und getrocknet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,17]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴𓏲𓈙𓂋𓈗	130790	VERB	verb	VerbForm=Fin	_	_	_	Translit=swšr
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcAQNWXi1vLyUWSu5GG7qTDsi8
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,17]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQCnQz3hI6Uxqk1ughQNqFzs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,17]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQDqe4I8RqUzjsCkQ4nS3orw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $ẖꜥꜥ$-Teile vom Speisebedarf (?): 1, Katerkot: 1, Hundekot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,17] - [74,18]
+1	𓄡𓂝𓂝𓏲𓏥	122760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ẖꜥꜥ
+2	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓂧𓄑𓏏𓏏𓈒𓏥	178800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dbḥ.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+6	𓏇𓇋𓏲𓄛	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥs
+9	𓎀𓊃𓅓𓄛	177290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯzm
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQHcZUl7bAUfPuS9IWcs6aEw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Die Schwellung werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,18]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQGGE8hintErdgvIbjXa4yrI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,18]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQFTwTsXiG0MCuAWqNanY7r0
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Mehl von Gerste.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,18] - [74,19]
+1	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBcAQK8XaXZtZkE9tvoY1NkIqHk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde mit $mstꜣ$-Flüssigkeit vermengt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,19]
+1	𓄿𓏇𓇋𓏲𓀜	136	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣmj
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓄟𓋴𓏏𓍔𓄿𓈗	75980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mstꜣ
+
+# sent_id = IBcAQGjFpOZFNEQ7isafJoHEUGw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,19]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAQPRValrQYE3xvS8GBR7FweI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,19]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQM2A55ZOakckgCRpjz0Xa4M
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderers (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,19]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQNpXbXUKbkGkuSUQeWJ02FE
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zerkleinert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,21]
+1	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+
+# sent_id = IBcAQGPidhxOQEwWto8TlW9TwM4
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,21]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQDNmuwiSUE72kfVmOxgnb2Q
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQKg5PrHnvU4KgYQbWNF65KY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $ḏꜥ.t$-Droge: 1, unterägyptisches Salz: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,21]
+1	𓆓𓂝𓏏𓏌𓏥	182550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜥ.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQOLZGVDqCkmPoN1sjobY5jg
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,21]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAQNStLMMXfEoGstypXBbdF98
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,21]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQG0SHuLX7Ux4lcwI2N5R6g4
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [74,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQEbzMtWFi0jGn1hIDINUMdI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Töpferton, zermahlen in Wasserlösung vom Gummiharz: 1, Früchte der Sykomore: 1, Früchte des Christdorns: 1, „Früchte“ der Weide: 1, $mjmj$-Getreide: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,1] - [75,2]
+1	𓄴𓈖𓏌𓏥	178620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbn
+2	𓐩𓏌𓀜	90880	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+5	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+6	𓅯𓇋𓇋𓏏𓈒𓏥	160800	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qmy.t
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓇭𓈒𓏥	32170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jšd.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓇭𓈒𓏥	32170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jšd.t
+13	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+14	𓈖𓃀𓋴𓆮	82810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbs
+15	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+16	𓇭𓈒𓏥	32170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jšd.t
+17	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+18	𓍘𓂋𓏏𓆮	176250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯr.t
+19	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+20	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+21	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQEPiQQLSnUznuTmdrNgOl3M
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,2]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQAllgMNxyEcolxddOQBbhWc
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,2]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQEMy02MrCUzAtcquniOhG8o
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Kühlen und Beseitigen einer Schwellung:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,2] - [75,3]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓈎𓃀𓃀𓏁𓈗	146060	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqbb
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+
+# sent_id = IBcAQHsGX3Dn0UJCvPuyn28zQhU
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $šꜣšꜣ$-Früchte: 1, Honig: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,3]
+1	𓆷𓄿𓆷𓄿𓈒𓏥	151960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣšꜣ
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQIl8XXQm50Bbjwnp6YQjMzs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,3]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQBmdp5rWXEmNk2y68onzvSo
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel zum Beseitigen der Krankheitsauslöser (?) und (ihres?) Umherschnellens in allen (möglichen) Körperteilen eines Mannes:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓐎𓏥	49410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫd.w
+5	𓈖𓉔𓊪𓏏𓐎𓏥	85550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nhp.t
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+9	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+10	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcAQLwUUw14lUlngUVmBuOaqs8
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,5]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQOKq8WMlkUdNumYpIN1coIE
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Das ist das Beseitigen einer Schwellung.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,5]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBcAQCWC97f9W0gggwDb52Wwgsk
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Mittel zum) Beseitigen einer Schwellung im Rumpf:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,5] - [75,6]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+
+# sent_id = IBcAQLTiheB3v0POvT5b4Aj7klE
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse zerkleinert.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,6] - [75,7]
+1	𓈎𓈖𓈎𓈖𓏴𓂝	161450	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qnqn
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQEa3ZtGSYUoqscYGTlbpQ4U
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQC7liDoYE0bjjEqWJQ0HfOI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Unterägyptisches Salz: 1/64 (Oipe ⸗ 1 Dja), Bier: 1/64 (Oipe ⸗ 1 Dja).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,7]
+1	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+2	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQCRb0YicRkEhvCeXrnoF1ig
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Werde) ebenso (verfahren).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,7]
+1	𓏇𓏏𓏏𓏛	851472	ADV	adverb	_	_	_	_	Translit=mj.tjt
+
+# sent_id = IBcAQLVtPp2lJ0AJtE6auMFDdt8
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBcAQH5nfqVDd0PwlwcNMa0wDlI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,8]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBcAQATGVCbRwUQasgxqnV8AXuw
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Früchte/Samen der $tḥwꜣ$-Pflanze: 1, Natron: 1, unterägyptisches Salz: 1, Ocker: 1, Öl/Fett: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,9]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓍘𓎛𓏲𓏭𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓍖𓈖𓈒𓏥	110020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzmn
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓐮𓏏𓏭𓈒𓏥	147520	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ztj
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQGiSgvjLPELqu4NhbOBbmns
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,9] - [75,10]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQMXBiBTXuUxMkWm5fhVfrhA
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Stillen des „Fressens“:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,10]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓋴𓎼𓂋𓏏𓀁	147260	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgr
+4	𓏲𓈙𓂝𓏲𓄑𓏥	50300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšꜥ.w
+
+# sent_id = IBcAQHQ6ha03l0hNnhAELgZDaj4
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = $gw$-Gras vom Rand des Fruchtlandes (?): 1, Mehl vom Johannisbrot: 1, Weihrauch: 1, „Selbstentstandenes“ vom Dattelsaft.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,10] - [75,11]
+1	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓂋𓏤𓊪𓈖𓂧𓈇	854714	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ-pnd
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓆣𓂋𓆓𓊃𓆑	863033	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫpr-ḏs⸗f
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓇜𓇋𓏲𓏌𓏥	55570	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj.w
+
+# sent_id = IBcAQOqgdQiY0EDQvgQEsuyoFWs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,11]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQHdxhhGoWkeWtlrWKV5E994
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde an den Ort der Schwellung gegeben.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,11] - [75,12]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=s.t
+4	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+
+# sent_id = IBcAQJLAtJRWpEVsiTCBV26sNtQ
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Tue es, und du wirst (den Erfolg) sehen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,12]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcAQMdnFSIix0TBmJGa6jrOVjc
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Siehe, ein ordungsgemäßes Heilmittel ist es!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,12]
+1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+5	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+6	𓃹𓈖𓌷𓂝𓏛	46200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wn-mꜣꜥ
+
+# sent_id = IBcAQJIoR7YGMEtyjegDQYVLOeU
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Bei der Revision im Tempel des (Osiris) Wennefer wurde es gefunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,12] - [75,13]
+1	𓅠𓅓𓈖𓏏𓏲	167210	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓇋𓊪𓏏𓏭𓏛	128140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjp
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊹𓉗𓏏𓉐	99940	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥw.t-nṯr
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓃹𓈖𓈖𓄤𓆑𓂋𓅆	850648	PROPN	entity-name	_	_	_	_	Translit=Wnn-nfr
+
+# sent_id = IBcAQPeowVjWfknLjdu3UTKMDRg
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Das ist ein Heilmittel zum Beseitigen einer Schwellung in allen (möglichen) Körperteilen eines Mannes.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,13]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+5	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜥ.t
+8	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+9	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+10	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBcAQDPYYpz080XuifP1anARRi8
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Tue es, und du wirst (den Erfolg) sehen!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,14]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBcAQA0VYzB2PET1uH6vtmEoAGI
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Ein Heilmittel zum) Beseitigen einer Schwellung, damit (sie) überhaupt nicht mehr existiert:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,14]
+1	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+2	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+3	𓏏𓍃𓅓	854578	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tm
+4	𓃹𓈖𓈖	46050	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnn
+5	𓂋𓊃𓏭𓈐	96030	ADV	adverb	_	_	_	_	Translit=rsj
+
+# sent_id = IBcAQC3uieWsCU2QgnHBUfQpPCM
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein Hin-Maß-Gefäß Gerste, zerstampft und zermahlen, $ꜥmꜥꜥ$-Körner (der Gerste / des Emmers), rotes Natron: 1, $sꜥꜣm$-Pflanzen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,14] - [75,15]
+1	𓎛𓈖𓏌𓏊𓏤	98700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hnw
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+4	𓍖𓀜	140710	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sḥm
+5	𓐩𓏌𓂝	90880	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏ
+6	𓂝𓅓𓂝𓂝𓈒𓏥	37770	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥmꜥꜥ
+7	𓍖𓈖𓈒𓏥𓂧𓈙𓂋𓏯	110120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥzmn-dšr
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓋴𓉻𓂝𓄿𓅓𓆰𓏥	128700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜥꜣm
+
+# sent_id = IBcAQI0sYfIyhUZ5tcK7grQvoHs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,15]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBcAQP2amgawjUpcokIwCRwocfQ
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,15]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcAQFqSBjixgk9BibwQenJQvyY
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen einer Schwellung und (zum) Stillen des „Fressens“ im Knie:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,16]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓈙𓆑𓅱𓏏𓐎𓏥	154170	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šf.wt
+5	𓋴𓎼𓂋𓏏𓀁	147260	VERB	verb	VerbForm=Fin	_	_	_	Translit=sgr
+6	𓏲𓈙𓂝𓏲𓄑𓏥𓈒𓏥	50300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wšꜥ.w
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓌴𓄿𓊨𓏏𓂾	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+
+# sent_id = IBcAQPJ8fzk3sknyjRThTB3qZkQ
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Johannisbrot: 1, Schoten der Langbohne: 1, rotes Natron: 1, unterägyptisches Salz: 1, gegorener Pflanzenbrei: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,16] - [75,17]
+1	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓇶𓈒𓏥	62440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏ
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓍖𓈖𓈒𓏥𓅟𓂋𓈒𓏥	110120	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥzmn-dšr
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓎛𓌴𓏏𓎔𓏏𓈒𓏥	862952	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥmꜣ.t-mḥ.wjt
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+11	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+12	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+13	𓂝𓍯𓄿𓇋𓇋𓏏𓏌𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBcAQNguHTvsg03opcZeCWvlgWs
+# corpus = sawmedizin
+# src_text_id = VHBZCYNQQJFDTGWMX34USAHENE
+# src_text = sawmedizin:Papyrus Ebers//72,19-75,18 ⸗ Eb 556-591: "Heilmittel gegen Schwellungen"
+# owner = Lutz Popko
+# text_de = Das Knie werde darüber verbunden, so dass es sofort gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [75,18]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓂾𓏏𓏤	67370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣs.t
+3	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+

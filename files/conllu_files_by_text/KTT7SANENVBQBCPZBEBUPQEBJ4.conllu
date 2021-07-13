@@ -1,0 +1,182 @@
+# sent_id = IBUBdwODLZPKHEjziAUg3W3rlFw
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Was ist es, das sagt:
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+1,1]
+1	𓇋𓐍𓏛	30740	PRON	pronoun	PronType=Int	_	_	_	Translit=jḫ
+2	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+
+# sent_id = IBUBd2FNFW88WEryqV01HWfCAqE
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = "Der Bruder ist gekommen,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+1,1]
+1	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sn
+2	𓂻𓏲𓂻	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+
+# sent_id = IBUBdz9ugRU9ikv0qXdqCWqU4O8
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Du bist (doch) der Bruder des/der Sa[---]-chepri.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+1,5]
+1	𓅓𓈖𓏏𓎢	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+2	𓌢𓀀	136230	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=sn
+3	𓋴𓇋𓄿𓏫𓆣𓅆	850830	PROPN	entity-name	_	_	_	_	Translit=-
+
+# sent_id = IBUBd6C6S6KnMEzWlqjELEWEOdc
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Du wurdest im heliopolitanischen Gau geboren.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+1,5]
+1	𓄟𓋴𓏯𓏏𓏲	74950	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=msi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎙𓋾𓊾𓏲𓏏𓈗𓈘𓈇	800047	PROPN	entity-name	_	_	_	_	Translit=Ḥqꜣ-ꜥnḏ
+
+# sent_id = IBUBd9CZjlVkc0U6pIJuONVcle0
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Du bist ins Wasser geworfen,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+1,5]
+1	𓏏𓏲𓎢	851201	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
+2	𓆼𓂝𓄿𓂻𓏏𓏲	113560	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫꜣꜥ
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBdzoCPdcHk0TSqCOkKIOAqAI
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = (aber?) du mögest nicht sterben.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+1,5]
+1	𓃀𓈖	55500	PART	particle	_	_	_	_	Translit=bn
+2	𓅓𓏏𓏱	69300	VERB	verb	_	_	_	_	Translit=mwt
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdykPxUx020degogVW1lSQ9Y
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Du warfst (oder: wirst werfen) das Ansehen deiner Stadt (d.h. das Ansehen, das man in seiner Heimatstadt genießt) weg, (obwohl (?)) du unschuldig bist. (d.h. vielleicht: Du opferst deine Reputation für eine Sache, obwohl du mit ihr nichts zu tun hast.)
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+1,6]
+1	𓆼𓄿𓂝𓂻	113560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣꜥ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋𓈖𓀁	94700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rn
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓊖𓏏𓏤	80890	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nʾ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓃂𓈗	44430	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜥb
+
+# sent_id = IBUBd9W2Vdr5RUWrpCp67X0ECE8
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Mi-pu aber ist der, der "Unwissender" genannt wird, wobei die Aufwärter des Tempels auf seinen Rücken (angewiesen (?)) sind (d.h. vielleicht: sie lästern über ihn, obwohl sie auf seiner Hände/seines Rückens Arbeit angewiesen sind).
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+1,7]
+1	𓏇𓇋𓊪𓏲𓀀	857011	PROPN	entity-name	_	_	_	_	Translit=Mj-pw
+2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅯𓄿	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+5	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḏd
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓐍𓅓𓂜𓀀	116920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫm
+9	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓌳𓄿𓇋𓎶𓀀𓏥	67710	_	epitheton-title	Number=Plur|Status=Abs	_	_	_	Translit=mꜣd.yw
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+13	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓊪𓊃𓂧𓄦𓄹	62400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=psḏ
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzTLPNo9fU5isFoYRin8V3E
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Sie ließen über ihm einen Schatten wachsen.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+2,1]
+1	𓋴𓂋𓂧𓏲𓌗𓏛	139920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=srd
+2	𓏲𓏫	42370	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗w
+3	𓆼𓄿𓃀𓏲𓇶𓏫	113540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣyb.t
+4	𓁷𓏤𓁶𓏤	108280	ADP	preposition	_	_	_	_	Translit=ḥr-tp
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd961WvDRAk2UusfjjOEokDI
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = "Komm doch, du lasziver Mann!"?
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+2,3]
+1	𓅓𓂝𓇋𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
+2	𓅓𓂝𓇋𓄿𓀁	400083	PART	particle	_	_	_	_	Translit=mj
+3	𓅯𓄿𓏭	851661	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣj
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓂧𓏭𓂧𓏭𓂺𓏛	855348	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=dd
+
+# sent_id = IBUBd4W2p01rhUHrl7KX5QTZZp4
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Nach Süden kam ???.
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+2,3]
+1	𓇍𓇋𓏏𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓉔𓉔𓃀𓏏𓄹	857012	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=hhb.t
+3	𓏃𓈖𓏏𓏭𓇋𓇋𓊛	850635	ADV	adverb	_	_	_	_	Translit=m-ḫnt.yt
+
+# sent_id = IBUBd5kd7yo0UknUo9NFdC7lpUc
+# corpus = sawlit
+# src_text_id = KTT7SANENVBQBCPZBEBUPQEBJ4
+# src_text = sawlit:pChassinat III〈 ⸗ pLouvre E 25353〉//Text 1: Mythologische Erzählung
+# owner = Lutz Popko
+# text_de = Er übertraf das Mastrind vom Viehhof,
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [Rto., x+2,3]
+1	𓊃𓈖𓏭𓇋𓇋𓂾𓂻	854546	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=zni̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓍯𓄿𓃒	22160	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwꜣ
+4	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+5	𓎓𓏏𓉐	78380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mḏ.t
+

@@ -1,0 +1,432 @@
+# sent_id = IBUBd58LFuxuSEmJgxUQdsjPLzU
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Verhält er sich gemäß seiner Position, so ist er einer, der dadurch eine Besitzübertragung per Hausurkunde ausführt (d.h. er ist jemand, der sein Erbe weitergeben kann).
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [b,2] - [b,3]
+1	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓂻𓏏𓏤	84510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nmt.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁹𓅱	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+7	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+8	𓏶𓅓𓏏𓉐𓏛𓏥	854489	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jm.jt-pr
+9	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+10	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd2BgYEXKzEmJtShzAuFZbrs
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Nimm (dir) deine Ehefrau gemäß ihren Regeln!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [c,1]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓈞𓏏𓁐	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓁶𓏤𓐎𓏛	171270	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tp-ḥsb
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd17KHTxdRUBGtOSchVEnd8E
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = (Und) öffne (ihr) das Herz!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [c,2]
+1	𓊃𓊪𓆼𓄿𓏯𓏛	133010	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=spḫꜣ
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBdxWbVhWg009zgOPdjmgdVKg
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = (Denn) es/sie ist ein Acker, der fruchtbar (wörtl.: wirksam) ist für ihren Herrn.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [c,3] - [c,4]
+1	𓄿𓎛𓏏𓈇	191	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḥ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓅜𓐍𓏏𓏛	200	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜣḫ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓎟𓀀	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdzf6Jg9Zi0AgnKlHVlrh9c0
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Erfreue ihr Herz mit dem, was dir zuteil geworden ist!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [c,4] - [c,5]
+1	𓊃𓈖𓂝𓂝𓏞𓏛	136700	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=snꜥꜥ
+2	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆣𓂋𓏏𓏥	858535	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḫpr (m-sꜣ)
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd92YyFyNSUfZtPnQ9wFQEtQ
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Weise sie zurück (?)!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [c,6]
+1	𓍲𓈖𓂝𓍂𓂝	854560	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šnꜥ
+2	𓋴	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+
+# sent_id = IBUBd09aYHCCOEl3v0QmGsLzNvk
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Eine Frau, sie sollte ihrem (eigenen) Arm überlassen werden (?)!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [c,7]
+1	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+2	𓂞𓏏	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd2wBFN8Aqk2Vg85tDvYS45g
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = (Denn nur) durch einen sehr von Gott Gepriesenen geschieht (es).
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [d,1] - [d,2]
+1	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+3	𓎛𓎿𓊃𓊃𓅱𓀀	109620	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥzi̯
+4	𓊹𓏤	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+
+# sent_id = IBUBdyuKmiBqWkENi6ngmFYNI6A
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Er hat keinen Plan, wenn er über den morgigen Tag nachdenkt.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [d,5] - [d,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓋴𓐍𓂋𓏛	142800	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sḫr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎢𓄿𓀁	163220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇼𓄿𓇳	600406	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dwꜣ.w
+
+# sent_id = IBUBd7fk03cEskxliboHFUqHBqU
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Es bedeutet, daß sie (d.h. der Traum?) bestraft/vernichtet (oder: sich auflöst).
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [f,3]
+1	𓊃𓊃𓃹𓈖𓅪	143890	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=szwnu̯
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdyBcWKLp10eSmEFD4cuXxQk
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = (Denn) das (positive) Bild steht im Verhältnis zu der Anordnung des Sanftmütigen.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [l,3] - [l,4]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓊏𓊪𓅆	157210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šzp
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓎗𓆓𓏏𓏛	51980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏ.w
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓋴𓆑𓂉𓀀	133390	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=zf
+
+# sent_id = IBUBd1Wn5cb5JUTJtEmlTHuE6bw
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Du hast es gut dadurch.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [l,4]
+1	𓄤𓆑𓂋	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+2	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+3	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd1SwOz5kh0EWt9N3SOTrrQA
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Wer von einem Gehorchenden geliebt wird, ist jemand mit einem Ka.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [m,3] - [m,4]
+1	𓌨𓂋𓂓𓏤𓀀	851458	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-kꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓌸𓂋𓇋𓇋𓀁	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓄔𓅓𓀀	150560	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḏm
+
+# sent_id = IBUBd3MG7iFgCUDRv6JtVzm6OmI
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Er (d.h. der Nahestehende) möge keine Anklage erheben, bis du es gehört haben wirst.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [q,3] - [q,4]
+1	𓏶𓅓𓂜	25170	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊃𓃛𓅱𓇋𓇋𓏲𓀁	128050	VERB	verb	VerbForm=Fin	_	_	_	Translit=sjwi̯
+4	𓂧	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓄔𓅓𓏏	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+
+# sent_id = IBUBd78YvsQUSEgFhGAB2eSZuTA
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = (Denn) es ist ein böser Fehler (?), wenn das Herz eitel (?) ist.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [q,4] - [q,5]
+1	𓏶𓅓𓅱𓅪	851305	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓃀𓇋𓈖𓅪	54605	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=bjn
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓈎𓄿𓈎𓄿𓀁	159540	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜣqꜣ-jb
+
+# sent_id = IBUBd1p2UjESIU5wr2xKfjE2fUI
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Fasse (dich) nicht ins Gesicht (?)!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,2]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓎁𓏏𓅱𓂝	33560	VERB	verb	VerbForm=Fin	_	_	_	Translit=jṯi̯
+3	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr
+
+# sent_id = IBUBd1uGrRpsmkWJoEWQV0JSeZY
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Sein Ende wird sicherlich kommen (wörtl.: nicht ist in der Vergangenheit sein Ende nicht gekommen).
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,6]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓅯𓄿	58790	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pꜣu̯
+3	𓄖	61490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wj
+4	𓆑𓏭	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓍃𓅓	854578	VERB	verb	VerbForm=Fin	_	_	_	Translit=tm
+6	𓂻𓏲	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+
+# sent_id = IBUBdwfP3XcSrEfSt3GQ2UNAw84
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = (Denn) er kann nicht dem entkommen, der es bestimmt hat.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,6] - [s,7]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓅱𓉔𓂝𓈖	48330	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=whi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓆷𓄿𓏛	151220	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šꜣ
+6	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdz6i774t6EDXgW29gVQvmk8
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Sei freigebig (wörtl.: Sei hell, was dein Gesicht angeht)!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,7] - [s,8]
+1	𓌉𓏲𓇳	112301	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥḏ
+2	𓁷𓏤	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdxIgvgSWQEnAkkQhMHT4gNg
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = (Und) feiere ein Fest!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,8]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎛𓃀𓎱	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+
+# sent_id = IBUBd9iZRXynYUsCvWU2hZAR2gE
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Wenn (etwas) aus dem Speicher herauskommt, dann kehrt (es) nicht (wieder) zurück.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,8] - [s,9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓅓𓂝𓌨𓂋𓉐	74650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mẖr
+5	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+6	𓄿𓈎𓂻𓈖	41180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
+
+# sent_id = IBUBd6t3kci7l0RXrVQWJ63OtTQ
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Einer mit leerem Bauch ist ein Unruhestifter.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,11] - [s,12]
+1	𓍲𓈖𓍘𓇋𓇋𓀜𓀀	156470	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=šnṯ.y
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓆄𓏲𓏲𓅪	152670	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šwi̯
+4	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6bjJ2Pmk0mFpnX5EnuvkKc
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Respektiere deine Assistenten (?), (damit) dein Besitz existieren wird.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,14]
+1	𓏏𓂋𓆵𓀢𓀜	854576	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=twr
+2	𓆄𓏏𓏤𓀀𓏥	152850	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=šw.t
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
+5	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jḫ.t
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd2QawuUWy0gku0fbQB1ZQc8
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Das Uferland (eine Metapher für die Assistenten und Freunde) kann sich füllen.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s,16] - [s,17]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅱𓂧𓃀𓄲𓈒𓏥	52640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏb
+3	𓎔𓏛	854514	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdW1SBXhMeEhFjdJ4orUWgWo
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Möge sie wohlgenährt bleiben (?) durch Essen.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [s',5]
+1	𓈙𓊪𓈖𓐎	851309	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=špn
+2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓅓𓂝	851449	ADP	preposition	_	_	_	_	Translit=m-ꜥ
+4	𓏶𓅓𓀁	46720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnm
+
+# sent_id = IBUBd8bujdPWYkYfg2VR87FTCOM
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Der Törichte (hingegen) steht früh auf, (gerade) um sich zu entfernen.
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [u,1] - [u,2]
+1	𓇼𓄿𓇳	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+2	𓅱𓆼𓄿𓅪𓀀	49150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḫꜣ
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓏏𓆑𓏏𓂾𓂻	171780	VERB	verb	VerbForm=Fin	_	_	_	Translit=tfi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9mggQu8j0oBon4zjcOtZtw
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Rede nicht bald so, bald so (wörtl.: Nimm nicht (das eine Mal) ein Wort weg und bringe es nicht (ein anderes Mal) wieder zurück)!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [u,2] - [u,3]
+1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+2	𓎁𓏏𓂝	33560	VERB	verb	VerbForm=Fin	_	_	_	Translit=jṯi̯
+3	𓌃𓂧𓏏𓀁	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+4	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
+5	𓆛𓈖	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
+6	𓋴	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+
+# sent_id = IBUBd7hcrZQQBkQahaaJxxBYaJg
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Gib du acht!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [u,4]
+1	𓂚𓀜	39920	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥḥꜣ
+2	𓏏𓏲	174900	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯw
+
+# sent_id = IBUBd8W87jSVJU6tsz5aMBWbrdw
+# corpus = sawlit
+# src_text_id = 3W45TQYQ3RCX5DXZ7DIZ43JWNQ
+# src_text = sawlit:pBM EA 10371+10435〈 (Ptahhotep, Version L1)〉//Die Lehre des Ptahhotep (Version L1)
+# owner = Peter Dils
+# text_de = Sei ein Vorbild!
+# findspot = unknown
+# date = MK & SIP
+# lineRef = [v,4]
+1	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+2	𓃀𓇋𓈞𓄑𓀀	54340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bjꜣ
+

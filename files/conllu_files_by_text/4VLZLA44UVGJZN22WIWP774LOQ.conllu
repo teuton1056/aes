@@ -1,0 +1,911 @@
+# sent_id = IBUBd2ggcF0zn0LxgWHIn5xfT0M
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Die Fürsten jeden Fremdlandes waren in Verbeugung und friedfertig gekommen wegen des bis an die äußersten Grenzen (reichenden) Ruhmes seiner Majestät.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [4]
+1	𓀙𓏥	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+2	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+3	𓈉𓏏	114300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.t
+4	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓂻𓏲	21930	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎡𓊃𓏲𓀓𓏥	165450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ks.w
+8	𓅓𓊵𓏏𓊪𓏥	_	X	unknown	_	_	_	_	_
+9	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+10	𓅢	53300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣ.w
+11	𓋔	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓆷𓂝𓏛	151470	ADP	preposition	_	_	_	_	Translit=šꜣꜥ
+15	𓈞𓈞𓈞	61470	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=pḥ.w
+
+# sent_id = IBUBd2U6PzFsKEOju5o14RbsQQA
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da wurde ihre Benennung, nämlich "Große Königliche Gemahlin (Neferu-Re)|", festgelegt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [6]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓅱𓂧𓏴𓂦	854503	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wdi̯
+3	𓈖𓐍𓃀𓍼𓏤	87100	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḫb.t
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓇓𓈞𓏏𓅨𓂋𓏏	854246	_	epitheton-title	_	_	_	_	Translit=ḥm.t-nswt-wr.t
+7	𓇳𓄤𓄤𓄤𓏤	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd0bYzVXpnUm8r3y45Bp9JaA
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Seine Majestät gelangte nach Ägypten, und sie tat alles, was eine Königsgemahlin tut.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [6]
+1	𓄭𓂋𓂻𓋔	132830	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
+2	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓆎𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+6	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓁹𓂋𓏏𓏭	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+9	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+10	𓇓𓈞𓏏	400334	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥm.t-nswt
+
+# sent_id = IBUBd9FW8e76jkjkhppdzeyifbU
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Man kam, um Seiner Majestät zu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [7]
+1	𓇍𓇋𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5DkM8CcE092kiAWOYJmWDM
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = "Ein Bote des Fürsten von Bachtan ist mit zahlreichen Tributen für die Königsgemahlin gekommen."
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [7]
+1	𓃹𓈖	550129	PART	particle	_	_	_	_	Translit=wn
+2	𓇋𓄋𓊪𓏴𓂻	45760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wpw.tj
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+5	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓃀𓐍𓏏𓈖𓈉	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+8	𓂻𓏲	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+9	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+10	𓏎𓄣𓏥	27040	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jn.w
+11	𓆈𓏏𓏥	41011	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ꜥšꜣ
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓇓𓈞𓏏	400334	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥm.t-nswt
+
+# sent_id = IBUBdxF6TmdqAUBtkkq1ZfeiW4I
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da begab er sich mit seinen Tributen zu Seiner Majestät (und) er sagte, seine Majestät preisend:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [7] - [8]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓅓𓊄	74700	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mz
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓐛𓂺𓏛	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+5	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+8	𓏎𓄣𓏥	27040	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=jn.w
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓋴𓍯𓈙𓏭𓀃	129900	VERB	verb	VerbForm=Fin	_	_	_	Translit=swꜣš
+14	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4ZSZOCat0v2vyfIQrNj36k
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da erwies er vor seiner Majestät Ehrerbietung (und) er wiederholte vor Seiner Majestät:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [8]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊃𓈖𓃾𓏤𓇾	853878	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=sn-tꜣ
+5	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+6	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓄙𓅓	48440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓆓𓂧𓏤	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
+11	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+12	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0miHTKzoUtTlVytJjPkxG0
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Eine Krankheit hat sich bei ihr eingestellt (wörtl.: hat sich mit ihrem Leib vermischt).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓏠𓈖𓅨	69770	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
+2	𓍋𓃀𓐍𓀁	89	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ꜣbḫ
+3	𓐛	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓂝𓄹𓄹𓄹	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd6sngs12gUMgsYyAJ85Qbkk
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Deine Majestät möge einen Gelehrten aussenden, um nach ihr zu sehen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [9]
+1	𓇋𓅖𓏏	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓎘𓅱𓂻	52300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏi̯
+3	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂋𓐍𓏛𓐍𓏏𓏛𓍼𓏤	95710	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rḫ-jḫ.t
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓌴𓁹	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+8	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd6A2JdtWC0HdmJaWTfyrLRU
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da sagte Seine Majestät: "Holt mir die Beamtenschaft des Lebenshauses und das Gerichtskollegium der Residenz!", das (oder: die) ihm (auch) sogleich herangeholt wurde(n) (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [9] - [10]
+1	𓊢𓂝𓂻	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏎	26870	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jni̯
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓍿𓏏𓏤𓍼𓏤	854579	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ṯ.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓉑𓉐𓏤	550421	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥnḫ
+11	𓍼𓏥𓊋𓏏𓀀𓏥	161350	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=qnb.t
+12	𓈖𓍿	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+13	𓄚𓈖𓏌𓏲𓉐	854537	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖnw
+14	𓍬𓂻𓏏	854555	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=sṯꜣ
+15	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓁷𓏤𓂝	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBd4QJRpWBx06oqfC81SShXQM
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Seine Majestät sagte:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓆓𓂧𓋔	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8z9XClq4UuRiDmIRBB2et0
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = "Komm(t)!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓅖𓏏	67770	VERB	verb	_	_	_	_	Translit=mj
+
+# sent_id = IBUBdQWEB1L2wUyxrp7BdGq35jc
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Nach euch wurde geschickt (wörtl.: rufen gelassen), damit ihr diesen Auftrag hört:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓂋𓏏𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓂝𓈙𓏏𓀞𓏏𓏲	40890	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥš
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄔𓅓	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
+7	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+8	𓌃𓂧𓀁	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+9	𓍿𓈖	172360	PRON	pronoun	PronType=Dem	_	_	_	Translit=tn
+
+# sent_id = IBUBd12rF83onUQKoVSF8dVSGPE
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Wahrlich, bringt mir jemand kreatives und eigenständiges (wörtl.: einen in/mit seinem Verstand Kunstfertigen und einen mit seinen (eigenen) Fingern Schreibenden) aus eurer Mitte!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [10]
+1	𓇋𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
+2	𓏎	26870	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jni̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓍍𓅱	105480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmw.w
+6	𓐛	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓏞	855553	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zẖꜣ.w
+10	𓐛	64360	ADP	preposition	_	_	_	_	Translit=m
+11	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓅓𓈎𓃀𓄳	600327	ADV	adverb	_	_	_	_	Translit=m-qꜣb
+14	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
+
+# sent_id = IBUBdyhbpmwrVErhkFXeFMSn7QA
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da kam der königliche Schreiber Thotemhab vor Seine Majestät.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [10] - [11]
+1	𓇍𓇋𓂻	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
+2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓏞𓈓𓇓𓏏𓈖	600090	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-nswt
+5	𓅝𓐛𓎱𓈒𓀀	709747	PROPN	entity-name	_	_	_	_	Translit=Ḏḥw.tj-m-ḥꜣb
+6	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+7	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdQWhxLhLCkZWlwY9keeafx4
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Seine Majestät befahl, dass er zusammen mit diesem Boten nach Bachtan geht.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓎘𓅱𓈖	51970	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
+2	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈝𓐛𓂻𓏭	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓃀𓐍𓏏𓈖𓈉𓊖	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+8	𓎛𓂝𓈖	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+9	𓄋𓊪𓏴𓂻	45760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wpw.tj
+10	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+
+# sent_id = IBUBdy7j7ylLOUvYljYrw9BqKJ0
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da gelangte der Gelehrte nach Bachtan.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓄭𓂋	132830	VERB	verb	VerbForm=Fin	_	_	_	Translit=spr
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓂋𓐍𓏛𓐍𓏏𓏛𓍼𓏥	95710	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rḫ-jḫ.t
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓃀𓐍𓏏𓈖𓈉𓊖	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+
+# sent_id = IBUBd7j9PMTlx0QKv3EBJW4IMoQ
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Er fand Bentresch in einem von einem Dämon besessenen Zustand vor.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [11]
+1	𓅠𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓈖𓏏𓂋𓈙𓃾𓏏𓀺𓏭	_	X	unknown	_	_	_	_	_
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓋴𓐍𓂋𓏛𓏥	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+6	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+7	𓏏𓅜𓏤𓏭𓐍𓀭𓏥	203	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḫ
+
+# sent_id = IBUBd5kLIPlXr0Wbvr7R3kySbl8
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Der Fürst von Bachtan schickte nun erneut zu Seiner Majestät, meldend:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [12]
+1	𓃹𓈖	550129	PART	particle	_	_	_	_	Translit=wn
+2	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓃀𓐍𓏏𓈖𓈉𓊖	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+5	𓄙𓅓	48440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓉔𓃀𓂻	97580	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣb
+8	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+9	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓅓𓆓𓂧	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+
+# sent_id = IBUBdyaKAn6cf0IPsYgG1tszGkw
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da gab Seine Majestät vor Chons-in-Theben-Neferhotep wieder:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [13]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓄙𓅓𓈖	48440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+3	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+6	𓐍𓈖𓇓𓐛𓌀𓏏𓊖𓄤𓊵𓊪𓏏	860011	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-m-Wꜣs.t-nfr-ḥtp
+7	𓅓𓆓𓂧𓏤	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+
+# sent_id = IBUBdQ9mXwMxp0gJnjHXncOyVJw
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = "O (mein) vollkommener Herr, es ist wegen der Tochter des Fürsten von Bachtan, dass ich (etwas) wiedergebe."
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [13]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓎟	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+3	𓄤𓂋	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+4	𓁹	851809	VERB	verb	_	_	_	_	Translit=jri̯
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+6	𓏴𓄙𓅓	48440	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥm
+7	𓐛𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+10	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zꜣ.t
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+13	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓃀𓐍𓏏𓈖𓈉	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+
+# sent_id = IBUBd20Ra0JBUkOet1IYqtYQfbU
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da sprach Seine Majestät vor Chons-in-Theben-Neferhotep:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [14]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧𓏤𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+6	𓐍𓈖𓇓𓐛𓌀𓏏𓊖𓄤𓊵𓏏𓊪	860011	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-m-Wꜣs.t-nfr-ḥtp
+
+# sent_id = IBUBd0pycbLKu0rVv6pWMdoZhLQ
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da sagte Seine Majestät:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [15]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧𓈖	185810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4JRB4QsDkf9o4RYvFrmIdg
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = "Gib deinen Schutzzauber mit ihm.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [15]
+1	𓅖	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓎂	125600	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd3p3GxAZGktiu1DuqnKt2R8
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = (Denn) ich will Seine Majestät (d.h. Chons-Den-Fürsorger) nach Bachtan reisen lassen, um die Tochter des Fürsten von Bachtan zu retten."
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [15]
+1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈝𓐛𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+4	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓃀𓐍𓏏𓈖𓈉𓊖	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓈖𓈞𓏴𓂡	86430	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḥm
+10	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zꜣ.t
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+13	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+14	𓃀𓐍𓏏𓈖𓈉𓊖	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+
+# sent_id = IBUBd0ALk6aOIEEakM3Qm3TqZ0o
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da kam der Fürst von Bachtan mit seinem Heer und seinen Großen vor Chons-Den-Fürsorger (und) er begab sich auf seinen Bauch:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [17] - [18]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓇍𓂻𓇋𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓃀𓐍𓏏𓈖𓈉𓊖	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+6	𓎛𓋔𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+7	𓀎𓏥	76300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mšꜥ
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓀙	47280	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=wr
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓂋𓄂𓏏𓏤𓈖	500053	ADP	preposition	_	_	_	_	Translit=r-ḥꜣ.t
+12	𓐍𓈖𓇓𓅮𓁹𓋴𓐍𓂋𓏛	860021	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-pꜣ-jr-sḫr.w
+13	𓂋𓏏𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+16	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+17	𓄡	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓅓𓆓𓂧𓏤	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+
+# sent_id = IBUBdWYz11e9ZE3Ru311S7DDub0
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = "Komm zu uns (und?) sei uns gnädig auf Geheiß des Königs von Ober- und Unterägypten, (Usermaatre Setepenre)|!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [18]
+1	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+5	𓊵𓏏	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓎘𓏏𓅱𓏥	52040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏ.t
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+12	𓇓𓆤	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
+13	𓄊𓆄𓇳𓏤𓍉𓇳𓈖	600505	PROPN	entity-name	_	_	_	_	Translit=Wsr-mꜣꜥ.t-Rꜥw-stp-n-Rꜥw
+
+# sent_id = IBUBd3eArXCwI0ZWuhWTRGNIqgE
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da ging dieser Gott zu dem Ort, an dem sich Bentresch befand.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [18]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓈝𓏥𓈖	154340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+3	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓃀𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+7	𓈖𓏏𓏭𓇋𓏲	850075	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj-jw
+8	𓃀𓈖𓍿𓂋𓈙𓁐	_	X	unknown	_	_	_	_	_
+9	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+
+# sent_id = IBUBd1wQpGY4W0rYsopmvxeCh20
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da vollzog er den Schutzzauber vor der Tochter des Fürsten von Bachtan.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [18]
+1	𓊢𓂝𓂻	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎃	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zꜣ.t
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓃀𓐍𓏏𓈖𓈉	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+
+# sent_id = IBUBdWlPfn88PEi7vBpBQl6hvHc
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Sie war sofort wohlauf.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [18] - [19]
+1	𓄤𓆑𓂋	550034	ADJ	adjective	_	_	_	_	Translit=nfr
+2	𓋴	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+3	𓁷𓏤𓂝𓏤	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBd4xUQmvidUdxn3WwWdaXf4s
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Bachtan sei (wörtl.: ist) deine Stadt.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [19]
+1	𓂧𓏇𓇋𓈅𓊖	179330	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dmj
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+4	𓃀𓐍𓏏𓈖𓈉	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+
+# sent_id = IBUBdwKW7rWqREKEuA5G84oks3I
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Ich bin dein Diener.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [19]
+1	𓏌𓏤𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓍛𓀀	104680	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd6Qn2lF3nEQ4qaN4X4ZnmlI
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Ich werde an den Platz (zurück)kehren, von dem ich gekommen war, um dein Herz zufriedenzustellen, weil du deswegen (ja) gekommen bist.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [20]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓈝𓂻	154340	VERB	verb	VerbForm=Fin	_	_	_	Translit=šmi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓃀𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+7	𓂻𓏲	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jwi̯
+8	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓇋𓅓	24640	ADV	adverb	_	_	_	_	Translit=jm
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓂋𓏏𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+12	𓊵𓊪𓏏	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+13	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+14	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+15	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+16	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+17	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+18	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+19	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd2ytlcpFV0CYp3C9QhQDFH8
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Deine Majestät möge (gut)heißen, mit mir und mit dem Fürsten von Bachtan einen schönen Tag zu verbringen.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [20]
+1	𓇋𓅱𓅖	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓎘𓅱𓏏𓏛	51970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
+3	𓍛𓀰	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓇳𓏤	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+8	𓄤	550034	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nfr
+9	𓎛𓂝𓈖	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+10	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+11	𓎛𓂝𓈖	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+12	𓊪	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+13	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓃀𓐍𓏏𓈖𓈉	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+
+# sent_id = IBUBd9lrXthKIUeNiwA68wnJ6qw
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da beugte sich dieser Gott (d.h. die Prozessionsbarke mit dem Götterbild) zu seinem Priester und sagte:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [20]
+1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓈖𓉔𓈖𓂢𓈖	98810	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hnn
+3	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+4	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅮	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓍛𓊹	104940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm-nṯr
+9	𓅓𓆓𓂧𓏤	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+
+# sent_id = IBUBd6DNVbWgCk1Fucq88AWpHu0
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = "Der Fürst von Bachtan möge ein großes Opfer vor diesem Dämon vollziehen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [21]
+1	𓅖	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+4	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓃀𓐍𓏏𓈖𓈉	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+7	𓇎	35330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣb.t
+8	𓉻𓂝𓏏	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
+9	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+10	𓐍𓅜𓏏𓀼	203	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḫ
+11	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd7ADFtXPG0WzmC7eFvrQa5M
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Dann ging der Dämon friedlich zu dem Ort seines Wunsches auf Geheiß von Chons-dem-Fürsorger-von-Theben.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [22]
+1	𓊢𓂝𓂻	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓈝	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓐍𓅜𓏏𓀼	203	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣḫ
+7	𓅓𓊵	_	X	unknown	_	_	_	_	_
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓃀𓏏𓉐	55110	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bw
+10	𓌻𓂋	72470	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=mri̯
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓐛	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓎘𓏏𓅱	52040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḏ.t
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+15	𓐍𓈖𓇓𓅮𓁹𓋴𓐍𓂋𓏛𓅓𓌀	860013	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-pꜣ-jr-sḫr.w-m-Wꜣs.t
+
+# sent_id = IBUBd5TGVIQ1C0QUqSZ1e8AUdC8
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Der Fürst von Bachtan freute sich ausgiebig darüber, zusammen mit jedermann in Bachtan.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [23]
+1	𓃹𓈖	550129	PART	particle	_	_	_	_	Translit=wn
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓃀𓐍𓏏𓈖𓈉	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓈖𓉔𓐛𓀁	85580	VERB	verb	VerbForm=Fin	_	_	_	Translit=nhm
+8	𓂋𓉻𓅨𓂋	_	X	unknown	_	_	_	_	_
+9	𓎛𓂝𓈖	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+10	𓊃𓏤𓀀𓎟	125290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z-nb
+11	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+12	𓐛	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓃀𓐍𓏏𓈖𓈉	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+
+# sent_id = IBUBdzTBYL3Vr0LZoMZabHr92Fs
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da schmiedete er einen Plan (wörtl.: da plante er in seinem Herzen/Geiste):
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [23]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓍯𓍯𓏭𓀁	42680	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣwꜣ
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎛𓂝𓈖	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓐛𓆓𓂧	550005	PART	particle	_	_	_	_	Translit=m-ḏd
+
+# sent_id = IBUBd48LhPPTj0d1plcOW60rEPQ
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Er schreckte aus dem Schlaf (hoch).
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [25]
+1	𓋔𓉔𓊃𓁻	85790	VERB	verb	VerbForm=Fin	_	_	_	Translit=nhzi̯
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓𓏤	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎛𓈖𓅱𓎛𓀑	108010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr-n-ḥr
+
+# sent_id = IBUBdWQAi2v1xESpgDKvqr8LGnE
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da sagte er zu dem Priester des Chons-Der-Fürsorger-von-Theben:
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [25]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓍛𓊹	104940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥm-nṯr
+7	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+8	𓐍𓈖𓇓𓅮𓁹𓋴𓐍𓂋𓏛𓅓𓌀𓏏𓊖	860013	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-pꜣ-jr-sḫr.w-m-Wꜣs.t
+
+# sent_id = IBUBdznH9pVWAk3jto5PgUTsF4M
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = "Dieser Gott, der hier bei uns ist, (d)er soll nach Ägypten fahren!
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [25]
+1	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
+2	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+3	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂧𓈐	177830	ADV	adverb	_	_	_	_	Translit=dy
+6	𓎛𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+7	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
+8	𓈝	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+11	𓆎𓅓𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+
+# sent_id = IBUBdxgCLZY8uUKihjPZWc524GA
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Sein Prozessionswagen möge nach Ägypten gehen!"
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [25]
+1	𓇋𓅱𓅖	851706	VERB	verb	_	_	_	_	Translit=jmi̯
+2	𓈝𓏥	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+3	𓅨𓂋𓂋𓌝	47970	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=wrry.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓆎𓅓𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
+
+# sent_id = IBUBdymBVxo660lzrs8vgnaWbXY
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Sie gelangten zufrieden nach Theben.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [26]
+1	𓄭𓂋𓂻	132830	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
+2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓅓𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓌀𓏏𓊖	43350	PROPN	entity-name	_	_	_	_	Translit=Wꜣs.t
+
+# sent_id = IBUBdxyz9Wzs4kTniyBjqQbO9CU
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = Da ging Chons-Der-Fürsorger-von-Theben zum Tempel des Chons-in-Theben-Neferhotep (und) er legte die Abgaben, die ihm der Fürst von Bachtan von jeder schönen Sache gegeben hatte, dem Chons-in-Theben-Neferhotep vor,
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [26] - [27]
+1	𓊢𓂝𓂻𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
+2	𓈝𓈖	154340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+3	𓐍𓈖𓌀𓏏𓊖𓅮𓁹𓋴𓐍𓂋𓏛𓅓𓌀𓏏𓊖	860013	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-pꜣ-jr-sḫr.w-m-Wꜣs.t
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓐍𓈖𓇓𓅓𓌀𓏏𓊖𓄤𓊵𓏏𓊪	860011	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-m-Wꜣs.t-nfr-ḥtp
+8	𓂋𓏏𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+10	𓏎𓏌𓏥	27040	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=jn.w
+11	𓂋𓂋𓏏𓂝	851711	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Fin	_	_	_	Translit=rḏi̯
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓊪	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+15	𓀙	47280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wr
+16	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+17	𓃀𓐍𓏏𓈖𓈉𓊖	860019	PROPN	entity-name	_	_	_	_	Translit=Bḫtn
+18	𓐛	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+20	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+21	𓄤	550034	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+22	𓅓𓂺	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
+23	𓐍𓈖𓇓𓐛𓌀𓏏𓊖𓄤𓊵𓏏𓊪	860011	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-m-Wꜣs.t-nfr-ḥtp
+
+# sent_id = IBUBdQLi3LUFi0BGlosbOP3Ub5U
+# corpus = sawlit
+# src_text_id = 4VLZLA44UVGJZN22WIWP774LOQ
+# src_text = sawlit:Stele Louvre C 284 ("Bentresch-Stele")//Stele Louvre C 284 ("Bentresch-Stele")
+# owner = Lutz Popko
+# text_de = ohne dass er irgendeine (oder: jede) Sache davon in seinen Tempel überwies.
+# findspot = Upper Egypt (South of Assiut)
+# date = TIP - Roman times
+# lineRef = [27]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓏏𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+5	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+6	𓇋𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+

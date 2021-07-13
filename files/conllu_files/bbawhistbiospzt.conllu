@@ -6,6 +6,7 @@
 # text_de = Chons von Theben, wahrer Schreiber der Neunheit des Horus, Herr der Freude.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [C10] - [C11]
 1	𓐍𓈖𓇓𓅓𓌀	860012	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w-m-Wꜣs.t
 2	𓏞𓏛𓌷𓂝𓈖𓇷𓏏𓊹𓊹𓊹𓅃	863162	_	epitheton-title	_	_	_	_	Translit=zẖꜣ.w-Mꜣꜥ.t-n-psḏ.t-Ḥr.w
 3	𓎟𓏏𓄫𓏏𓄣	550223	_	epitheton-title	_	_	_	_	Translit=nb-ꜣw.t-jb
@@ -18,6 +19,7 @@
 # text_de = Amun-Re von Gem-(pa-)Jten (⸗ Kawa).
 # findspot = unknown
 # date = unknown
+# lineRef = [1]
 1	𓇋𓏠𓈖𓇳	500004	PROPN	entity-name	Number=Sing|Status=Cons	_	_	_	Translit=Jmn-Rꜥw
 2	𓅠𓇋𓏏𓈖𓇳	863069	PROPN	entity-name	_	_	_	_	Translit=Gm-Jtn
 
@@ -29,6 +31,7 @@
 # text_de = Ihre Herzen jubelten aus Liebe zu ihm, als er mit siegreicher Kraft den Süden eroberte, um das Land zu befrieden und seine Widersacher zu vertreiben.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [6]
 1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
 2	𓊃𓈖𓏤𓏤𓏤	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓎛𓂝𓏲𓏭𓀠	102060	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥꜥi̯
@@ -56,6 +59,7 @@
 # text_de = Er erreichte die Stadt (⸗Theben) zufriedenen Herzens.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓇹𓂋𓏲𓂻𓈖	132830	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -72,6 +76,7 @@
 # text_de = Die jungen Männer von Theben empfingen ihn mit Freuden und eine Schar von Frauen war vor ihm.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓊏𓊪𓂡𓈖	157160	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
 2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
 3	𓍑𓄿𓐝𓏲𓀔𓏤𓏤𓏤	182160	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏꜣm
@@ -91,6 +96,7 @@
 # text_de = Er verkündete ihm viele gute Orakel, wie man es vordem noch nie gesehen hat.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [8]
 1	𓋴𓂋𓃱𓈖	138950	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sr
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -112,6 +118,7 @@
 # text_de = Prozession der Majestät des erhabenen Gottes, Herrn der Götter, Amun-Re, König der Götter.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓋴𓈍𓂝𓏛	141800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫꜥ
 2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
 3	𓍛𓏤𓀭	104690	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥm
@@ -130,6 +137,7 @@
 # text_de = Ziehen (der Prozessionsbarke) zu den großen Höfen des Amun-Tempels.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓈖𓂝𓇋𓇋𓏭𓂻	854518	VERB	verb	VerbForm=Fin	_	_	_	Translit=nꜥi̯
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓋔𓄿𓏤𓏤𓏤	851623	PRON	pronoun	PronType=Dem	_	_	_	Translit=nꜣ
@@ -146,6 +154,7 @@
 # text_de = Halten vor der Barkenstation des Amun.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓊵𓏏𓊪	111230	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥtp
 2	𓐝𓂺𓏛	64750	ADP	preposition	_	_	_	_	Translit=m-bꜣḥ
 3	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
@@ -161,6 +170,7 @@
 # text_de = Mein guter Herr, gibt es (irgend)eine Angelegenheit, die man in (deiner) Gegenwart (be)sprechen soll?
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓅮𓇋𓇋	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓎟	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
@@ -182,6 +192,7 @@
 # text_de = Dann pries der Heeresvorsteher, seine Arme in Lobpreis erhoben, seinen Herrn, wie Thot selbst zu Re spricht:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [12]
 1	𓇋𓋴𓎡	851438	PART	particle	_	_	_	_	Translit=jsk
 2	𓄓𓀎𓏬	400043	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-mšꜥ
 3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
@@ -210,6 +221,7 @@
 # text_de = Gegrüßt seist du, der alles Seiende erzeugt und alles Existierende geschaffen hat, Vater der Götter, der die Göttinnen erschaffen hat, der (ihre) Stätten (⸗Tempel) in den Städten und Gauen gegründet hat, der die Männer gezeugt und die Frauen erschaffen hat, der für den Leben(sunterhalt) aller Menschen sorgt.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [12] - [13]
 1	𓇋𓐩	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
 2	𓁷𓏤	107510	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥr
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -244,6 +256,7 @@
 # text_de = Es gibt niemanden, den er nicht kennt, denn er hört auf jeden (lit.: eine Million Mann) von ihnen.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [14] - [15]
 1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
 2	𓐝𓐍	116910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -265,6 +278,7 @@
 # text_de = Dann sagte er (⸗ der Hohepriester):
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [16]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓄙𓐝𓏛𓈖	48440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -278,6 +292,7 @@
 # text_de = Da wandte er sich erneut an den großen Gott:
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [16] - [17]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓄙𓐝𓏛𓈖	48440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -296,6 +311,7 @@
 # text_de = Dann sagte er (⸗ der Hohepriester):
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [18]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓄙𓐝𓏛𓈖	48440	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -309,6 +325,7 @@
 # text_de = Ich bin in deiner Stadt aufgewachsen.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [20]
 1	𓇋𓎛𓃹𓈖𓏌𓏲𓀔	103040	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwn
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -323,6 +340,7 @@
 # text_de = Ich bin durch deine Speise und deinen Trank entstanden.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [20]
 1	𓋴𓆣𓂋	142050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫpr
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -339,6 +357,7 @@
 # text_de = Setze meine Füße auf deinen Weg.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [21]
 1	𓇋𓐝𓐝𓂝	851706	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jmi̯
 2	𓂋𓂧𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -354,6 +373,7 @@
 # text_de = Lass mich auf deinen Weg eintreten.
 # findspot = Upper Egypt (South of Assiut)
 # date = TIP - Roman times
+# lineRef = [21]
 1	𓋴𓂝𓈎𓌙𓌙	129310	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sꜥq
 2	𓏲𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
 3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
@@ -368,6 +388,7 @@
 # text_de = Man kam, um Seiner Majestät (⸗ Piye) zu vermelden:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 2]
 1	𓂻𓅱𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
 2	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -384,6 +405,7 @@
 # text_de = (Und) jede Stadt des Westens, sie öffnete aus Furcht vor ihm (⸗ Tef-nacht) die Tore.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 4]
 1	𓂧𓏇𓈇𓊖	179330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dmj
 2	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
 3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
@@ -403,6 +425,7 @@
 # text_de = Er wandte sich gegen die östlichen Bezirke (und) sie öffneten sich ihm wie diese (zuvor genannten Siedlungen), (nämlich) Hut-benu, Teudjoi (⸗ el-Hibe), Kom el Ahmar Sawaris (und) Aphroditopolis.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 4]
 1	𓂝𓈖𓂻	38040	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnn
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
@@ -428,6 +451,7 @@
 # text_de = "Hast du geschwiegen, um Oberägypten (und) die Gaue von Chen-nechen (⸗ Oberägypten) zu vergessen?
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 6]
 1	𓇋𓈖𓇋𓅱	550032	PART	particle	_	_	_	_	Translit=jn-jw
 2	𓎼𓂋𓀁𓈖	167750	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gr
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -446,6 +470,7 @@
 # text_de = Siehe, er (⸗ Nimlot) geht, um sein (⸗ Tef-nacht) Begleiter zu sein, nachdem er gegenüber Seiner Majestät (⸗ Piye) untreu geworden war (wörtl.: das Wasser zurückweisen).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 7]
 1	𓅓𓂝	64440	PART	particle	_	_	_	_	Translit=m
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
@@ -470,6 +495,7 @@
 # text_de = Beginnt den Kampf!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 8]
 1	𓋭𓊃	176800	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ṯꜣz
 2	𓂚	39930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜣ
 
@@ -481,6 +507,7 @@
 # text_de = Erbeutet ihre (⸗ des Gaues, der Stadt Hermopolis) Menschen, ihre Viehherden und ihre Schiffe auf dem Fluss!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 9]
 1	𓋾𓈎𓂡	101520	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥꜣq
 2	𓂋𓍿𓀀𓏪	94530	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rmṯ
 3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
@@ -499,6 +526,7 @@
 # text_de = Kämpft gegen ihn (⸗ Gau von Hermopolis) an jedem Tag!"
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 9]
 1	𓂚	39920	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥḥꜣ
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
@@ -513,6 +541,7 @@
 # text_de = Darauf machten sie (⸗ das Heer Piyes) (es) genauso.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 9]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
@@ -526,6 +555,7 @@
 # text_de = Kämpft (nur gut) sichtbar!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 10]
 1	𓂚𓂡	39920	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥḥꜣ
 2	𓏏𓈖𓏥	175650	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
 3	𓐍𓏏𓆑	116761	ADP	preposition	_	_	_	_	Translit=ḫft
@@ -539,6 +569,7 @@
 # text_de = (Und) kündigt ihm (⸗ Tef-nacht) den Kampf von Ferne an!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 10]
 1	𓋴𓂋𓃱	138950	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sr
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -553,6 +584,7 @@
 # text_de = Wenn seine (⸗ Tef-nacht) Truppen aber in einer anderen Stadt sind, veran⸢lasst⸣, dass man auf sie wartet!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 10] - [Vs 11]
 1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
 2	𓃹	550129	PART	particle	_	_	_	_	Translit=wn
 3	𓎼𓂋𓏛	167730	PART	particle	_	_	_	_	Translit=gr
@@ -575,6 +607,7 @@
 # text_de = Wenn ihr aber Theben gegenüber von Karnak erreicht, sollt ihr untertauchen (wörtl.: ins Wasser eintreten) und euch im ⸢Fl⸣uss reinigen, und euch mit bestem mer-Stoff schmücken.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 12]
 1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
 2	𓇹𓂻	132830	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
 3	𓍿𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
@@ -603,6 +636,7 @@
 # text_de = Legt den Bogen nieder,
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 12]
 1	𓆷𓂋𓅓𓂡	156790	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šrm
 2	𓌔𓏏	63270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḏ.t
 
@@ -614,6 +648,7 @@
 # text_de = (Denn) es gibt keine Stärke für einen Helden ohne ihn (⸗ Gott).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 13]
 1	𓂜𓃹𓈖	79090	PART	particle	_	_	_	_	Translit=nn-wn
 2	𓄇𓏏𓄇𓏏𓂡	61400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pḥ.tj
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -629,6 +664,7 @@
 # text_de = Ihr sollt die Erde vor ihm (⸗ Gott) küssen!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 13]
 1	𓊃𓈖𓂉	136240	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sn
 2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
 3	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
@@ -643,6 +679,7 @@
 # text_de = (Und) ihr sollt zu ihm sprechen (⸗ beten):
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 13] - [Vs 14]
 1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
 2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -656,6 +693,7 @@
 # text_de = 'Weise uns den Weg, damit wir im Schutz deiner Stärke kämpfen!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 14]
 1	𓇋𓅓𓅖	851706	VERB	verb	_	_	_	_	Translit=jmi̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
@@ -675,6 +713,7 @@
 # text_de = (Selbst) eine Masse wird wegen ihr (⸗ djamu-Truppe) in Entsetzen geraten.'"
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 14]
 1	𓈖𓉔𓂧𓉔	85860	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nhdh
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -688,6 +727,7 @@
 # text_de = Darauf streckten sie (⸗ das Heer) sich auf dem Bauch vor Seiner Majestät aus (und antworteten):
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 14]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓂋𓏙𓏏𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓊃𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -706,6 +746,7 @@
 # text_de = "Dein Name ist es, der uns Kraft geben wird.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 14]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓂋𓈖	94700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rn
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -723,6 +764,7 @@
 # text_de = Dein Plan schützt dein Heer.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 14]
 1	𓉲𓀁	140260	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zḥ
 2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓏠𓈖𓊧	854513	VERB	verb	VerbForm=Fin	_	_	_	Translit=mjni̯
@@ -737,6 +779,7 @@
 # text_de = Dein Brot ist in unserem Leib auf allen Wegen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 14]
 1	𓏐𓏏	168810	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tʾ
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -754,6 +797,7 @@
 # text_de = Deine Kraft ist es, die uns Stärke gibt.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 15]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓈎𓈖𓂡	856313	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qn
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -770,6 +814,7 @@
 # text_de = Man verfällt (schon) in Schrecken wegen der Erinnerung an deinen Namen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 15]
 1	𓈖𓂋𓆂𓂡	85070	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nri̯
 2	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -785,6 +830,7 @@
 # text_de = Wer aber käme dir darin (⸗ als Befehlshaber) gleich?
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 15]
 1	𓈖𓅖	83990	PRON	pronoun	PronType=Int	_	_	_	Translit=njm
 2	𓏇𓏏𓏏	67930	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mj.tj
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -798,6 +844,7 @@
 # text_de = Du bist der siegreiche König, der eigenhändig handelt, der Meister des Kriegshandwerks."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 15]
 1	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
 2	𓇓𓏏𓀲𓈖𓆱𓐍𓏏𓂡	854276	_	epitheton-title	_	_	_	_	Translit=nswt-nḫt
 3	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
@@ -817,6 +864,7 @@
 # text_de = Daraufhin zogen sie (⸗ das Heer) nach Norden.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 15]
 1	𓈖𓂝𓂻𓊛	854518	VERB	verb	VerbForm=Fin	_	_	_	Translit=nꜥi̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -831,6 +879,7 @@
 # text_de = Und sie erreichten Theben.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 16]
 1	𓇹𓂋𓂻	132830	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spr
 2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -844,6 +893,7 @@
 # text_de = Und sie taten alles so, wie es Seine Majestät (⸗ Piye) gesagt hatte.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 16]
 1	𓁹𓏏𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓏇	850796	ADP	preposition	_	_	_	_	Translit=mj
@@ -861,6 +911,7 @@
 # text_de = Dann segelten sie auf dem Fluß (weiter) nordwärts.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 16]
 1	𓈖𓂝𓂻	854518	VERB	verb	VerbForm=Fin	_	_	_	Translit=nꜥi̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -877,6 +928,7 @@
 # text_de = Dann kamen sie (⸗ Heer des Piye) gegen sie (⸗ Koalitionsheer) heraus (⸗ griffen an).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 20]
 1	𓉐𓂋	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -892,6 +944,7 @@
 # text_de = (Und) ihre Schiffe auf dem Fluss wurden in Besitz genommen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 20]
 1	𓋾𓈎𓂡	101520	VERB	verb	_	_	_	_	Translit=ḥꜣq
 2	𓊣𓅱𓊛𓏥	40210	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥḥꜥ
 3	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -906,6 +959,7 @@
 # text_de = Dann setzte der (überlebende) Rest (⸗ der feindlichen Koalitionsarmee) über (auf das andere Flussufer).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 20]
 1	𓍑𓊛	181780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏꜣi̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -919,6 +973,7 @@
 # text_de = Schrecken verbreitete sich unter dem (überlebenden) Rest (der feindlichen Koalitionsarmee).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 21]
 1	𓈖𓉔𓂧𓉔𓂡	85850	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nhdh
 2	𓆣𓂋	858535	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -932,6 +987,7 @@
 # text_de = Das Heer Seiner Majestät (⸗ Piye) war es, das seine (⸗ Nimlots) Menschen und Vieh erbeutete."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 22]
 1	𓅖	64380	PART	particle	_	_	_	_	Translit=m
 2	𓀎𓏪	76300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mšꜥ
 3	𓏌𓏤	850787	ADJ	adjective	_	_	_	_	Translit=n.j
@@ -951,6 +1007,7 @@
 # text_de = Sie sandten einen Lagebericht an die Majestät des Königs von Ober- und Unterägypten Piye-meriamun, dem Leben gegeben ist, über jeden Angriff, den sie unternommen hatten und (über) jeden Sieg Seiner Majestät.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 23]
 1	𓉔𓃀𓂻𓈖	97580	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
 2	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -982,6 +1039,7 @@
 # text_de = Daraufhin wütete Seine Majestät deswegen wie ein Leopard (mit folgenden Worten):
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 23]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -999,6 +1057,7 @@
 # text_de = (Und) ich will veranlassen, dass er vom Kämpfen ablässt bis in Ewigkeit.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [VS 25]
 1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓆱𓐍𓏏𓂻𓂽	854832	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫti̯
@@ -1015,6 +1074,7 @@
 # text_de = (Und danach) will ich Unterägypten den Geschmack meiner Finger schmecken lassen (⸗ unterwerfen)."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 26]
 1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓂧𓊪𓄓	178970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dp
@@ -1031,6 +1091,7 @@
 # text_de = Darauf sandten sie (wiederum eine Nachricht) zu Seiner Majestät (⸗ Piye) deswegen, (aber) dessen Herz war darüber (immer noch) nicht zufrieden.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 28]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓉔𓃀𓂻	97580	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
 3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1054,6 +1115,7 @@
 # text_de = Darauf kämpften sie gegen Hut-benu (⸗ Hardai).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 29]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓂚	39920	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
@@ -1068,6 +1130,7 @@
 # text_de = Ihre (⸗ Stadt Hardai) (befestigte?) Residenz wurde (gewaltsam) geöffnet.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 29]
 1	𓃹𓉿𓂡	46060	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
 2	𓏌𓉐	854537	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖnw
 3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
@@ -1080,6 +1143,7 @@
 # text_de = Darauf sandten sie (wiederum eine Nachricht) zu Seiner Majestät (⸗ Piye), (aber) dessen Herz war darüber (immer noch) nicht zufrieden.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 29]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓉔𓃀𓂻	97580	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
 3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1101,6 +1165,7 @@
 # text_de = Er feierte (dann in Theben angekommen) das Fest 'Amun am Opetfest'.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 29]
 1	𓎛𓏏𓋴𓋩𓈖	111940	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥts
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓎳	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
@@ -1114,6 +1179,7 @@
 # text_de = Seine Majestät zog (danach) weiter nach Norden zum Hafen des Hasengaus (⸗ 15. oberägypt. Gau).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 29] - [Vs 30]
 1	𓈖𓂝𓂻	854518	VERB	verb	VerbForm=Fin	_	_	_	Translit=nꜥi̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -1133,6 +1199,7 @@
 # text_de = Seine Majestät trat aus der Schiffskajüte heraus.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 30]
 1	𓉐𓂋	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1149,6 +1216,7 @@
 # text_de = (Und) schirrte die Pferde an.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 30]
 1	𓅘𓏏𓎛𓃀𓏴𓂡	86130	VERB	verb	VerbForm=Fin	_	_	_	Translit=nḥb
 2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
 3	𓋴𓅓𓋴𓅓𓄛𓏥	144020	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ssm.t
@@ -1161,6 +1229,7 @@
 # text_de = "Ist dies die Art eures Kampfes, (nämlich) meinen Auftrag zu verzögern?
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 31]
 1	𓇋𓈖𓇋𓅱	550032	PART	particle	_	_	_	_	Translit=jn-jw
 2	𓏠𓈖𓊃	69760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mn.t
 3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
@@ -1179,6 +1248,7 @@
 # text_de = Ein Jahr ist (nun) vergangen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 31]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓆳𓏏	94920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.t
 3	𓎛𓏏𓊃𓋩	111940	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥts
@@ -1192,6 +1262,7 @@
 # text_de = (Und) belagerte sie (⸗ die Stadt) jeden Tag.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 31] - [Vs 32]
 1	𓎼𓍯𓄿𓁶𓂡	166730	VERB	verb	VerbForm=Fin	_	_	_	Translit=gwꜣ
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
@@ -1206,6 +1277,7 @@
 # text_de = Eine bak-Plattform wurde gegen sie aufgerichtet, indem sie hoch ist.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 32]
 1	𓎀𓊃𓍞	854581	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯzi̯
 2	𓅡𓎡𓆱	53840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣk
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -1220,6 +1292,7 @@
 # text_de = Die Schleuderer schleuderten die Geschosse (und) täglich wurden Menschen unter ihnen (⸗ Feinde) getötet.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 32]
 1	𓆼𓄿𓂝𓂝𓄛𓏥	113630	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣꜥꜥ
 2	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
 3	𓆼𓂝𓂻	113560	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜣꜥ
@@ -1240,6 +1313,7 @@
 # text_de = Tage vergingen, während (die Stadt) Hermopolis Magna für die Nase verfaulte und ihres (sonst guten) Geruchs entbehrte.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 32]
 1	𓆣𓂋𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
 2	𓇳𓏥	99060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hrw
 3	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
@@ -1261,6 +1335,7 @@
 # text_de = Boten kamen heraus und stiegen hinab mit allen schönen Dingen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 33]
 1	𓇋𓄋𓊪𓂾𓂻𓏥	45760	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wpw.tj
 2	𓉐𓂋	60920	VERB	verb	VerbForm=Fin	_	_	_	Translit=pri̯
 3	𓉔𓂻	97350	VERB	verb	VerbForm=Fin	_	_	_	Translit=hꜣi̯
@@ -1277,6 +1352,7 @@
 # text_de = Lasst uns den Horus (⸗ Piye), Herrn des Palastes, befrieden!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 34]
 1	𓋴𓊵𓏏𓊪	141120	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=sḥtp
 2	𓏏𓈖𓏥	175650	PRON	pronoun	PronType=Prs	_	_	_	Translit=ṯn
 3	𓅃	850587	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=Ḥr.w
@@ -1290,6 +1366,7 @@
 # text_de = (Denn) seine Ba-Mächtigkeit ist groß.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Vs 34]
 1	𓅨𓂋	47270	VERB	verb	_	_	_	_	Translit=wrr
 2	𓅢	53300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ.w
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1302,6 +1379,7 @@
 # text_de = Die Südbewohner verbeugen sich.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 53]
 1	𓇔𓈒𓏥	96070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rs.jw
 2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
 3	𓎟𓊃𓀓	165450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ks.w
@@ -1314,6 +1392,7 @@
 # text_de = 'Gib uns in deinen Schatten!'?
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 53]
 1	𓇋𓅓𓅖	851706	VERB	verb	_	_	_	_	Translit=jmi̯
 2	𓈖𓏥	80016	PRON	pronoun	PronType=Prs	_	_	_	Translit=n
 3	𓐝𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -1328,6 +1407,7 @@
 # text_de = Das Herz ist ein Steuerruder, das seinen Herrn kentern lassen kann wegen dem, was in der Ba-Mächtigkeit Gottes ist.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 54]
 1	𓊦	105300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥmw
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
@@ -1349,6 +1429,7 @@
 # text_de = Es gibt keinen Alten/Erwachsenen, der durch seinen Vater gesehen wird.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 55]
 1	𓂜	851961	PART	particle	_	_	_	_	Translit=nn
 2	𓀗	20380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣw
 3	𓌳𓂂𓂂	66270	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mꜣꜣ
@@ -1364,6 +1445,7 @@
 # text_de = Deine Bezirke sind (nur noch) angefüllt mit Kindern."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 55]
 1	𓈈𓏏𓏥	854544	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=spꜣ.t
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓎔𓍖	854514	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=mḥ
@@ -1378,6 +1460,7 @@
 # text_de = Darauf begab er (⸗ Nimlot) sich auf seinen Bauch vor Seiner Majestät (und sprach):
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 55]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓂋𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1397,6 +1480,7 @@
 # text_de = Deine Ba-Mächtigkeit war es, die sich gegen (mich) richtete.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 56]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓅢	53300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=bꜣ.w
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -1412,6 +1496,7 @@
 # text_de = Ich (aber) gebe dir (hiermit) mehr als sie."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 57]
 1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -1426,6 +1511,7 @@
 # text_de = Dan〈n〉 brachte er Silber, Gold, Lapislazuli, Türkis, Bronze und viele verschiedene Edelsteine dar.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 57]
 1	𓊢	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓌷𓈖	854512	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜥ
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1446,6 +1532,7 @@
 # text_de = Dann wurde das Schatzhaus mit diesen Abgaben gefüllt.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 58]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓎔	854514	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
 3	𓉒	60780	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ḥḏ
@@ -1461,6 +1548,7 @@
 # text_de = Darauf erschien Seine 〈Majestät〉 (⸗ Piye) aus seinem Palast.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 58] - [liS 59]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓊃𓈍𓂝	141830	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḫꜥi̯
 3	𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
@@ -1477,6 +1565,7 @@
 # text_de = (Und) ging zum Tempel des Thot, Herrn von Hermopolis Magna.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 59]
 1	𓏲𓍑𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓉐𓅝𓎟𓏤𓏤𓏤𓏤𓏤𓏤𓏤𓏤	861239	PROPN	entity-name	_	_	_	_	Translit=Pr-Ḏḥw.tj-nb-Ḫmn.w
@@ -1489,6 +1578,7 @@
 # text_de = "Wie vollkommen ist ein Horus (⸗ König), der in seiner Stadt ruht!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 60] - [liS 61]
 1	𓄤𓅱	854519	VERB	verb	_	_	_	_	Translit=nfr
 2	𓅃	850587	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=Ḥr.w
 3	𓊵𓏏𓊪	111230	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḥtp
@@ -1504,6 +1594,7 @@
 # text_de = O Sohn des Re, Piye, mögest du für uns ein Sedfest feiern, da du ja den Hasengau (⸗ 15. oberägypt. Gau) schützt."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 61]
 1	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
 2	𓊪𓋹𓇋𓇋	859167	PROPN	entity-name	_	_	_	_	Translit=Py
 3	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
@@ -1524,6 +1615,7 @@
 # text_de = Seine Majestät zog (in feierlicher Prozession) zum Haus des Königs Nimlot.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 61] - [liS 62]
 1	𓅱𓍑𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -1543,6 +1635,7 @@
 # text_de = Er betrat jede Kammer des Königshauses, sein Schatzhaus und seine Magazine.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 62]
 1	𓈝𓈖	154340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓂝𓏏𓉐	854495	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥ.t
@@ -1562,6 +1655,7 @@
 # text_de = Daraufhin verehrten sie Seine Majestät (⸗ Piye) nach der Art der Frauen, ohne dass Seine Majestät sein Gesicht ihnen (feindlich) zuwandte.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 63]
 1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
 2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓋴𓍯𓈙𓀢	129900	VERB	verb	VerbForm=Fin	_	_	_	Translit=swꜣš
@@ -1587,6 +1681,7 @@
 # text_de = "So wahr ich lebe, Re mich liebt (und) meine Nase durch Lebensatem verjüngt ist, gar schwerer lastet dies auf meinem Herzen, (nämlich) das Hungern lassen meiner Pferde, als jedes Verbrechen, das du von allen Vertrauensmännern begangen hast.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 65] - [liS 66]
 1	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓌻	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
@@ -1622,6 +1717,7 @@
 # text_de = (Hiermit) bezeuge ich dir, dass sich deine Nachbarn vor dir fürchten werden.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 66]
 1	𓂸𓏏𓂋𓂭𓂭𓀁𓈖	77640	VERB	verb	_	_	_	_	Translit=mtr
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓏏𓅱	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
@@ -1639,6 +1735,7 @@
 # text_de = Weißt du nicht, dass der Gottesschatten auf mir ist (und) meine Tat wegen ihm nicht fehl geht?
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 67]
 1	𓇋𓈖𓇋𓅱	550032	PART	particle	_	_	_	_	Translit=jn-jw
 2	𓐍𓅓𓂜𓈖	116910	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫm
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -1661,6 +1758,7 @@
 # text_de = Ich bin einer, der aus einem (menschlichen) Leib geboren (und) der (zugleich) als Gottes Ei geschaffen wurde.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 68]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓄟	74950	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=msi̯
 3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -1678,6 +1776,7 @@
 # text_de = Gottes Same ist in mir.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 68]
 1	𓂸𓏏𓏏𓅱𓂸	854515	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mtw.t
 2	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
 3	𓇋𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -1691,6 +1790,7 @@
 # text_de = Bei seinem (⸗ Amun) Ka, mein Handeln erfolgt nie(mals) ohne sein Wissen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 69]
 1	𓎝𓎛	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
 2	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1709,6 +1809,7 @@
 # text_de = Er (⸗ Gott) ist es, der mir zu handeln befiehlt."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 69]
 1	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
 2	𓎘𓅱	51970	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏ
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -1723,6 +1824,7 @@
 # text_de = Er begab sich auf seinen Bauch vor Seiner Majestät (und) sprach:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 71]
 1	𓂋𓂞𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
@@ -1743,6 +1845,7 @@
 # text_de = "Sei gegrüßt, Horus, siegreicher König, Stier, der die Stiere bekämpft!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 71] - [liS 72]
 1	𓐩𓏌	854522	VERB	verb	_	_	_	_	Translit=nḏ
 2	𓁷	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -1760,6 +1863,7 @@
 # text_de = Das Totenreich hat mich (bereits) mitgenommen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 72]
 1	𓄞𓂧	854561	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šdi̯
 2	𓅱𓀀	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
 3	𓇼𓏏𓉐	854583	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dwꜣ.t
@@ -1772,6 +1876,7 @@
 # text_de = Mir wendet das Licht (⸗metaphorisch für den Sieger Piye) (aber) sein Gesicht zu.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 72] - [liS 73]
 1	𓏙𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -1787,6 +1892,7 @@
 # text_de = Ich finde keine Gefährten am Tag des Unglücks, die am Tag des Kämpfens (bei)stehen werden außer dir, du siegreicher König.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 73]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓅠𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -1813,6 +1919,7 @@
 # text_de = Entferne doch du die Finsternis auf mir!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 73] - [liS 74]
 1	𓎡𓆑𓄿𓄖	164200	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=kfi̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -1828,6 +1935,7 @@
 # text_de = Ich will (dir) Untergebener sein (und) mein Besitz (ebenso).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 74]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -1844,6 +1952,7 @@
 # text_de = Herakleopolis ist deiner arit-Verwaltung zinspflichtig.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 74] - [liS 75]
 1	𓇑𓀔𓈖𓈖𓊖	84750	PROPN	entity-name	_	_	_	_	Translit=Nn-nswt
 2	𓎛𓏏𓂋𓆳𓀁	111830	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥtr
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -1858,6 +1967,7 @@
 # text_de = Seine Majestät zog (weiter) nach Norden zur 'Öffnung des Sees' (⸗ Fayumeingang) an der Seite von Re-henet (⸗ heutige Illahun).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [liS 76] - [Rs 77]
 1	𓐍𓂧𓊛	122000	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫdi̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -1876,6 +1986,7 @@
 # text_de = Darauf sandte Seine Majestät zu ihnen mit den Worten:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 77]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1892,6 +2003,7 @@
 # text_de = Winzling(e) seid ihr für einen König.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 78]
 1	𓌨𓏤𓂭𓂝𓅪	124410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-ḏbꜥ.w
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -1905,6 +2017,7 @@
 # text_de = Wünscht (euch) den Tod nicht mehr als ein Lebensmüder (wörtl.: einer, der das Leben hasst)!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 78]
 1	𓐝	64410	VERB	verb	_	_	_	_	Translit=m
 2	𓌸	72470	VERB	verb	VerbForm=Fin	_	_	_	Translit=mri̯
 3	𓄓𓀐	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
@@ -1920,6 +2033,7 @@
 # text_de = Darauf sandten sie zu Seiner Majestät (⸗ Piye) mit den Worten:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 79]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓉔𓃀𓈖	97580	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
 3	𓊃𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -1936,6 +2050,7 @@
 # text_de = "Siehe, der Gottesschatten ist auf dir!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 79]
 1	𓅖	64440	PART	particle	_	_	_	_	Translit=m
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓋺𓏏	152880	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=šw.t
@@ -1951,6 +2066,7 @@
 # text_de = Der Sohn der Nut (⸗ Gott Seth), er gab dir seine beiden Arme.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 79]
 1	𓅭𓏤𓏌𓏏𓁐	853115	_	epitheton-title	_	_	_	_	Translit=zꜣ-Nw.t
 2	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -1967,6 +2083,7 @@
 # text_de = Was dein Herz wünscht geschieht sofort, so wie (sofort geschieht) was aus dem Mund Gottes herauskommt!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 79]
 1	𓎡𓄿𓀁	162850	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=kꜣ
 2	𓄣	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -1987,6 +2104,7 @@
 # text_de = Siehe doch, du bist als Gott geschaffen worden, (und) wir erkennen (es) an deinen Taten.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 79]
 1	𓅖	64440	PART	particle	_	_	_	_	Translit=m
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓇓𓅱	130840	PART	particle	_	_	_	_	Translit=swt
@@ -2009,6 +2127,7 @@
 # text_de = Lass die Eintretenden eintreten!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 80]
 1	𓇋𓅓	851706	VERB	verb	_	_	_	_	Translit=jmi̯
 2	𓂝𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
 3	𓅧𓈎𓀀	41180	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥq
@@ -2021,6 +2140,7 @@
 # text_de = Lass die Herausgehenden herausgehen!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 80]
 1	𓇋𓅓	851706	VERB	verb	_	_	_	_	Translit=jmi̯
 2	𓉐𓂋	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
 3	𓉐𓂋𓂻𓀀𓏥	60920	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=pri̯
@@ -2033,6 +2153,7 @@
 # text_de = Dann fuhr Seine Majestät (⸗ Piye) (weiter) nach Norden.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 81]
 1	𓈖𓂝𓂻	854518	VERB	verb	VerbForm=Fin	_	_	_	Translit=nꜥi̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -2048,6 +2169,7 @@
 # text_de = Dann sandte Seine Majestät (⸗ Piye) zu ihnen mit den Worten:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 82]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓉔𓃀𓂻	97580	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -2064,6 +2186,7 @@
 # text_de = "Seht, zwei Wege liegen vor euch!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 82]
 1	𓅖	64440	PART	particle	_	_	_	_	Translit=m
 2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
 3	𓈐𓏏𓏤𓏤	42490	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=wꜣ.t
@@ -2078,6 +2201,7 @@
 # text_de = Möget ihr auswählen nach euerem Belieben.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 82]
 1	𓍉	854554	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=stp
 2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -2092,6 +2216,7 @@
 # text_de = Öffnet (und) ihr sollt leben!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 82]
 1	𓃹𓉿𓂡	46060	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wn
 2	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
 3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
@@ -2104,6 +2229,7 @@
 # text_de = Verschließt euch (und) ihr sollt sterben!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 82]
 1	𓐍𓏏𓐝𓋩	121710	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḫtm
 2	𓄓𓀐	69300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mwt
 3	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
@@ -2116,6 +2242,7 @@
 # text_de = Daraufhin öffneten sie sogleich (die Tore).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 82]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓃹𓉿𓈖	46060	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
 3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -2129,6 +2256,7 @@
 # text_de = (Und) Seine Majestät trat in die Residenz dieser Stadt ein.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 82]
 1	𓂝𓈎𓂻𓈖	41180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2146,6 +2274,7 @@
 # text_de = Danach zog Seine Majestät (⸗ Piye) (weiter) nach Norden nach Itji-taui (⸗ Lischt).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 83]
 1	𓐍𓂧𓊛	122000	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫdi̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -2162,6 +2291,7 @@
 # text_de = "Dein Vater (⸗ Amun) überwies dir sein Erbe.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 84]
 1	𓎘𓅱𓏝	51970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -2178,6 +2308,7 @@
 # text_de = Dir gehören die Beiden Länder (⸗ Ägypten).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 84]
 1	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
 2	𓇿𓇿	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
 
@@ -2189,6 +2320,7 @@
 # text_de = Dir gehören ihre Bewohner.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 84]
 1	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
 2	𓏶	25120	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jm.j
 3	𓋴𓈖𓈓	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -2201,6 +2333,7 @@
 # text_de = Du bist der Herr all dessen, was auf dem Rücken des Erdbodens (⸗ Erträge) ist."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 84]
 1	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
 2	𓎟	81650	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=nb
 3	𓈖𓏏𓏏	550018	PART	particle	_	_	_	_	Translit=n.tjt
@@ -2216,6 +2349,7 @@
 # text_de = Seine Majestät zog (sodann) in (feierlicher) Prozession aus.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 84]
 1	𓅱𓍑𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -2230,6 +2364,7 @@
 # text_de = Dann sandte er zu ihnen (⸗ Bewohner des memphitischen Gaus) mit den Worten:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 85]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓉔𓃀𓂻𓈖	97580	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣb
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2245,6 +2380,7 @@
 # text_de = "Verschließe dich nicht!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 85]
 1	𓇋𓅓𓂜	64410	VERB	verb	_	_	_	_	Translit=m
 2	𓐍𓏏𓋩	121710	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫtm
 
@@ -2256,6 +2392,7 @@
 # text_de = Kämpfe nicht, du Residenz des Schu am Ersten Mal (⸗ Schöpfung)!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 85]
 1	𓇋𓅓𓂜	64410	VERB	verb	_	_	_	_	Translit=m
 2	𓂚𓂡	39920	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥḥꜣ
 3	𓄚𓈖𓏌𓉐𓊖	854537	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ẖnw
@@ -2271,6 +2408,7 @@
 # text_de = (Denn) der Eintretende, er soll eintreten, der Herauskommende, er soll herauskommen!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 85]
 1	𓂝𓈎𓂻𓀀	41180	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥq
 2	𓂝𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2286,6 +2424,7 @@
 # text_de = Ich will "Sokar in der Schetit" beschenken.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 85]
 1	𓂧𓂋𓊪𓏝	180220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=drp
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓊃𓎡𓂋𓊹𓅓𓈙𓏏𓍔𓏏𓉐	861246	PROPN	entity-name	_	_	_	_	Translit=Zkr-m-šṯy.t
@@ -2298,6 +2437,7 @@
 # text_de = Eine Schlachtbank wurde (nur) unter den Übelgesinnten gemacht."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 86]
 1	𓁹𓏏	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 2	𓌩	84050	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nm.t
 3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2311,6 +2451,7 @@
 # text_de = Darauf verschlossen sie (⸗ Bewohner von Memphis) ihre Festungen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 86]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓐍𓏏𓋩	121710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫtm
 3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -2325,6 +2466,7 @@
 # text_de = Der Fluß(arm) verläuft rings herum im Osten, so dass dort kein Kampf (⸗ Angriff) stattfinden kann.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 88]
 1	𓇋𓏏𓂋𓈘	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
 2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
 3	𓄴𓂻	854585	VERB	verb	VerbForm=Fin	_	_	_	Translit=dbn
@@ -2343,6 +2485,7 @@
 # text_de = So zog er (⸗ Tef-nacht) (wieder) nordwärts aus Furcht vor Seiner Majestät (⸗ Piye).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 89]
 1	𓐍𓂧𓊛	122000	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫdi̯
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -2361,6 +2504,7 @@
 # text_de = Er (⸗ Piye) landete auf dessen Nordseite an.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 89]
 1	𓏠𓈖𓊧𓊛𓈖	854513	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mjni̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
@@ -2375,6 +2519,7 @@
 # text_de = Man fand keinen Weg (⸗ Möglichkeit) des Kampfes gegen sie.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 90]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓅠	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
 3	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
@@ -2392,6 +2537,7 @@
 # text_de = Irgendwelche (Soldaten) schlugen vor:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 90]
 1	𓊃𓏤𓀀𓎟	125290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z-nb
 2	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
 3	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
@@ -2404,6 +2550,7 @@
 # text_de = Andere (Soldaten) schlugen (wiederum) vor:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 91]
 1	𓎡𓏏𓐍𓏛𓏥	853260	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ky.t-jḫ.t
 2	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
 3	𓆓𓂧	185810	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏd
@@ -2416,6 +2563,7 @@
 # text_de = "'Baut eine Rampe gegen sie (⸗ die Stadt)!'
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 91]
 1	𓁹𓂋	851809	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
 2	𓋴𓏏𓍔𓍬𓂻𓈇𓏤	148750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sṯꜣ
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -2429,6 +2577,7 @@
 # text_de = 'Wir wollen eine (hölzerne) Plattform (zusammen?)binden.'
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 91]
 1	𓊃𓈖𓎛𓂡	137850	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snḥ
 2	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
 3	𓅡𓎡𓆱	53840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣk
@@ -2441,6 +2590,7 @@
 # text_de = 'Wir wollen einen Weg nach unserer Art finden.'"
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 92]
 1	𓅠	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
 2	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
 3	𓈐	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
@@ -2456,6 +2606,7 @@
 # text_de = Darauf war Seine Majestät wütend wie ein Leopard über si〈e〉 und sprach:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 92]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2475,6 +2626,7 @@
 # text_de = "So wahr ich lebe, so wahr Re mich liebt, so wahr mein Vater Amun mich lobt, ich weiß, dass dieses geschieht mit ihr (⸗ Stadt) auf Befehl des Amun.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 92]
 1	𓋹	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓌸	72470	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
@@ -2504,6 +2656,7 @@
 # text_de = 'Hätten sie ihm (⸗ Piye) von ferne geöffnet.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 93]
 1	𓃹𓉿𓂡	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
 2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -2518,6 +2671,7 @@
 # text_de = (Aber) sie gaben Amun nicht in ihr Herz.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 93]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓂋𓏙𓏏𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -2534,6 +2688,7 @@
 # text_de = (Denn) sie wussten nicht, was er befohlen hatte.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 93]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓂋𓐍	95620	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
 3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -2548,6 +2703,7 @@
 # text_de = (Und) sie brachten ihm jedes Flussschiff, jedes Fährboot, jedes Versorgungsschiff (und) die zahllosen aha-Schiffe (als Beute) herbei, die im Hafen von Memphis gelandet waren 〈v〉or dem Anlegen bei ihren? Häusern.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 94]
 1	𓏎𓈖	26870	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
 2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -2582,6 +2738,7 @@
 # text_de = "Vorwärts, gegen sie (⸗ Stadt Memphis)!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 95]
 1	𓈖𓁷	79310	ADP	preposition	_	_	_	_	Translit=n-ḥr
 2	𓏏𓈖𓏥	10130	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗ṯn
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -2595,6 +2752,7 @@
 # text_de = Tretet ein in die Häuser, die über dem Fluss sind!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 95]
 1	𓂝𓈎𓂻	41180	VERB	verb	Number=Plur|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥq
 2	𓉐𓏥	60220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=pr
 3	𓁷𓏤𓁶	108890	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=ḥr.j-tp
@@ -2608,6 +2766,7 @@
 # text_de = - (denn) e〈r〉 (⸗ Piye) ist einer, der den Arm weihend über die Kultstätten der Götter hält.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 97]
 1	𓈖𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
 2	𓂦𓂋	854592	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏsr
 3	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥ
@@ -2623,6 +2782,7 @@
 # text_de = Reinigen von Memphis mit Natron und Weihrauch.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 97]
 1	𓋴𓃂	130010	VERB	verb	VerbForm=Fin	_	_	_	Translit=swꜥb
 2	𓏠𓈖𓄤𓉴𓊖	70010	PROPN	entity-name	_	_	_	_	Translit=Mn-nfr
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2637,6 +2797,7 @@
 # text_de = Wab-Priester in ihre Standorte (wieder) einsetzen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 97]
 1	𓂞𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
 2	𓀆𓏥	44460	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜥb
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -2651,6 +2812,7 @@
 # text_de = Durchführen seiner (⸗ Piye) Reinigung im Morgenhaus.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 98]
 1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
 2	𓄐𓈗	36740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥb.w
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2665,6 +2827,7 @@
 # text_de = Für ihn jeden Brauch ausführen, der für einen König durchgeführt wird.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 98]
 1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2682,6 +2845,7 @@
 # text_de = Sein (⸗ Piye) Eintreten in den Tempel.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 98]
 1	𓂝𓈎𓂻	41180	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥq
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -2695,6 +2859,7 @@
 # text_de = Seine Majestät ging (danach) zu seinem Palast (zurück).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 98]
 1	𓅱𓍑𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
@@ -2712,6 +2877,7 @@
 # text_de = Da hörten alle Bezirke, die in den Gebieten von Memphis waren, (nämlich) Heripademi, Penynajwa, Pabehenenbiu und Tauhitbit (davon und) sie öffneten die Befestigungen (und) sie flüchteten eilends, ohne dass man den Ort kannte, an den sie gingen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 98] - [Rs 99]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓄔𓅓	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
 3	𓈈𓏥	854544	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=spꜣ.t
@@ -2748,6 +2914,7 @@
 # text_de = Als nun die Erde hell wurde und der Morgen früh war, zog Seine Majestät (weiter) nach Osten.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 100]
 1	𓌉𓆓𓇳	112301	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥḏ
 2	𓇋𓂋	28170	PART	particle	_	_	_	_	Translit=jr
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2768,6 +2935,7 @@
 # text_de = Weiterziehen Seiner Majestät nach Heliopolis über jenen Berg von Babylon (⸗ wohl Mokattam-Gebirgszug) hinweg auf dem (Prozessions-)Weg des Sepa nach Babylon.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 101]
 1	𓅱𓍑𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2793,6 +2961,7 @@
 # text_de = Seine (⸗ Piye) Reinigung durchführen, indem er gereinigt wurde inmitten des Qebeh-Sees.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 101] - [Rs 102]
 1	𓁹	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
 2	𓄐	36740	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥb.w
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2809,6 +2978,7 @@
 # text_de = Weiterziehen zum Hohen Sand in Heliopolis.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 102]
 1	𓅱𓍑𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓈙𓂝𓇋𓇋𓈒𓏥𓈎𓀠𓅓𓉺𓏌𓊖	861365	PROPN	entity-name	_	_	_	_	Translit=Šꜥy-qꜣ-m-Jwn.w
@@ -2821,6 +2991,7 @@
 # text_de = Durchführen eines großen Opfers auf dem Hohen Sand in Heliopolis gegenüber von Re bei seinem Aufgang, bestehend aus weißen Rindern, Milch, Myrrhe, Weihrauch und allen Pflanzen mit angenehmem Duft.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 102] - [Rs 103]
 1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
 2	𓂝𓃀𓇎𓏛	35330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣb.t
 3	𓉻𓏏	450158	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ꜥꜣ
@@ -2850,6 +3021,7 @@
 # text_de = Gehen in (feierlicher) Prozession zum Tempelbezirk des Re.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 103]
 1	𓇍𓇋	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
 2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
 3	𓅱𓍑𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
@@ -2864,6 +3036,7 @@
 # text_de = Eintreten in den Tempel unter großen Lobpreisungen, während der oberste Vorlesepriester Gott verehrt und die Frevler gegen den König abwehrt.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 103]
 1	𓅧	41180	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥq
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓊹𓉗𓏏𓉐	99940	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥw.t-nṯr
@@ -2886,6 +3059,7 @@
 # text_de = Vollziehen der Riten des Morgenhauses (⸗ Reinigungsriten).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 103]
 1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
 2	𓉐𓇼	60890	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-dwꜣ.t
 
@@ -2897,6 +3071,7 @@
 # text_de = Umbinden des Sedeb-Bekleidungsteils.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 103]
 1	𓋭𓂡	176800	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯꜣz
 2	𓋴𓂧𓃀𓍱	149760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sdb
 
@@ -2908,6 +3083,7 @@
 # text_de = Ihn (⸗ Piye) Reinigen mit Weihrauch und Wassergüssen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 103]
 1	𓋴𓃂	130010	VERB	verb	VerbForm=Fin	_	_	_	Translit=swꜥb
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -2922,6 +3098,7 @@
 # text_de = Ihm ein Anch-Blumengebinde des Hut-benben herbeibringen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 103]
 1	𓊄	74700	VERB	verb	VerbForm=Fin	_	_	_	Translit=mz
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2937,6 +3114,7 @@
 # text_de = Ihm Anchu holen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 103]
 1	𓏎𓈖	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2950,6 +3128,7 @@
 # text_de = Zerbrechen der beiden versiegelten Türriegel.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 104]
 1	𓋴𓂧𓈅𓂡	150110	VERB	verb	VerbForm=Fin	_	_	_	Translit=sḏ
 2	𓊃𓊃𓆱	125000	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=z
 
@@ -2961,6 +3140,7 @@
 # text_de = Seinen Vater Re im Hut-benben schauen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 104]
 1	𓌳𓁹	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
 2	𓏏𓆑	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -2974,6 +3154,7 @@
 # text_de = (Zurück)holen (⸗ schließen) der beiden Türflügel.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 104]
 1	𓏎𓈖	26870	VERB	verb	VerbForm=Fin	_	_	_	Translit=jni̯
 2	𓉿𓉿	34810	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=ꜥꜣ
 
@@ -2985,6 +3166,7 @@
 # text_de = Auflegen des Lehmklumpens (als Siegelplombe).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 104]
 1	𓎝𓎛	43010	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜣḥ
 2	𓋴𓇋𓆛𓈖𓐎𓈇	128340	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sjn
 
@@ -2996,6 +3178,7 @@
 # text_de = Siegeln (der Lehmplombe) mit dem Siegel des Königs selbst.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 105]
 1	𓆓𓃀𓂝𓏏	183460	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏbꜥ
 2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
 3	𓐍𓏏𓋩	121690	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫtm
@@ -3012,6 +3195,7 @@
 # text_de = "Ich (⸗ Piye), ich habe das Siegel (mit dem Siegelabdruck) überprüft.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 105]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓋴𓇋𓊪𓏛𓈖	854525	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sjp
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -3025,6 +3209,7 @@
 # text_de = Sie begaben sich auf ihren Bauch vor Seiner Majestät (⸗ Piye) und antworteten:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 105]
 1	𓂋𓏙𓏏𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
@@ -3043,6 +3228,7 @@
 # text_de = "(Es ⸗ Siegel) wird bleiben und dauern, ohne zu vergehen, o Horus, geliebt von Heliopolis."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 105]
 1	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 2	𓏠𓈖𓏛	69590	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
 3	𓎝𓎛𓏛	43010	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜣḥ
@@ -3060,6 +3246,7 @@
 # text_de = (Heraus)kommen und Eintreten in den Tempel des Atum.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 105]
 1	𓇍𓇋	21930	VERB	verb	VerbForm=Fin	_	_	_	Translit=jwi̯
 2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
 3	𓂝𓈎𓂻	41180	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥq
@@ -3074,6 +3261,7 @@
 # text_de = Als die Erde hell wurde und der Morgen früh war, ging Seine Majestät zum Hafen (und setzte sich) an die Spitze seiner Flotte.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 106]
 1	𓌉𓆓𓇳	112301	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥḏ
 2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -3097,6 +3285,7 @@
 # text_de = Übersetzen zum Hafen von Kem-wer (⸗ Athribis im 10. unteräg. Gau).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 106]
 1	𓍑𓄿𓊛	181780	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḏꜣi̯
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓌻𓂋𓇋𓇋𓏏𓈇	72540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mr.yt
@@ -3111,6 +3300,7 @@
 # text_de = Aufschlagen des Zeltlagers für Seine Majestät (⸗ Piye) südlich von Kaheni (und) östlich von Kem-wer.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 106] - [Rs 107]
 1	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
 2	𓇋𓅓𓆭𓉐	25010	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=jꜣm.w
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -3132,6 +3322,7 @@
 # text_de = (Und auch) der Iri-pat Pa-di-aset begab sich auf seinen Bauch vor Seine Majestät (⸗ Piye) und sprach:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 107] - [Rs 108]
 1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
 2	𓂋𓊪𓂝	94060	_	epitheton-title	_	_	_	_	Translit=jr.j-pꜥ.t
 3	𓅮𓏙𓊨𓏏𓏏𓀀	701120	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-ḏ-Ꜣs.t
@@ -3154,6 +3345,7 @@
 # text_de = "Komm nach Kem-wer (⸗ unterägypt. Athribis)!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 108]
 1	𓅖𓂻	67770	VERB	verb	_	_	_	_	Translit=mj
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓈪	164510	PROPN	entity-name	_	_	_	_	Translit=Km-wr
@@ -3166,6 +3358,7 @@
 # text_de = Chuit (⸗ Lokalgöttin des unterägypt. Athribis) soll dich schützen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 108]
 1	𓐍𓐍𓐍𓂤	115110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫwi̯
 2	𓍿𓎡	851193	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗k
 3	𓐍𓂤𓇋𓇋𓏏𓀭	115120	PROPN	entity-name	_	_	_	_	Translit=Ḫwy.t
@@ -3178,6 +3371,7 @@
 # text_de = Du sollst in mein Haus eintreten.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 108]
 1	𓅧𓈎	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -3192,6 +3386,7 @@
 # text_de = Mein Schatzhaus soll dir geöffnet sein.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 108]
 1	𓊃𓈙𓉿𓂡	144300	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -3206,6 +3401,7 @@
 # text_de = Seine Majestät (⸗ Piye) ging (danach) zum Haus des Iri-pat Pa-di-aset.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 109]
 1	𓅱𓍑𓂻	52130	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḏꜣ
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -3223,6 +3419,7 @@
 # text_de = Ich sage dies, damit ihr über diesen Diener da (⸗ Pa-di-aset) schlecht redet in Allem, was ihr von mir wisst.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 111]
 1	𓎡𓄿𓀁𓈖	162850	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=kꜣ
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
@@ -3245,6 +3442,7 @@
 # text_de = Dies alles, ich schenke (es hiermit) in Gegenwart (des Königs), (nämlich) Königsleinen, Kleider zu Tausenden vom Allerbesten meiner Webereien.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 112] - [Rs 113]
 1	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
 2	𓂋𓄫𓅱	861388	ADV	adverb	_	_	_	_	Translit=r-ꜣw
 3	𓂝𓃀𓇎𓈖	35320	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥꜣb
@@ -3269,6 +3467,7 @@
 # text_de = (Denn) ich weiß, dass du (⸗ Piye) damit zufrieden bist.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 113]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓂋𓐍𓎡𓅱	95620	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=rḫ
@@ -3285,6 +3484,7 @@
 # text_de = Begib dich (⸗ Piye) zum Stall, damit du dir auswählst welches du begehrst unter allen Pferden, die du begehrst!"
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 113]
 1	𓅱𓍑𓂻	52130	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wḏꜣ
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓈙𓅔𓏏𓉐	154940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šmm.t
@@ -3306,6 +3506,7 @@
 # text_de = Daraufhin handelte Seine Majestät genauso (wie vorgeschlagen).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 113]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -3320,6 +3521,7 @@
 # text_de = Darauf sprachen diese Könige und Hati-a zu Seiner Majestät (⸗ Piye):
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 113]
 1	𓆓𓂧𓇋𓈖	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
 2	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
 3	𓇓𓏏𓇓𓏏𓇓𓏏	88040	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nswt
@@ -3336,6 +3538,7 @@
 # text_de = "Sende uns in unsere Städte zurück!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 113]
 1	𓎘𓅱𓂻	52300	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wḏi̯
 2	𓈖𓏥	80016	PRON	pronoun	PronType=Prs	_	_	_	Translit=n
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -3350,6 +3553,7 @@
 # text_de = (Und) wir werden unsere Schatzhäuser öffnen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 113] - [Rs 114]
 1	𓃹𓈖𓉿𓂡	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
 2	𓈖𓈓	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
 3	𓉒𓏏𓉐	60780	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=pr-ḥḏ
@@ -3363,6 +3567,7 @@
 # text_de = (Und) wir werden (dir) das auswählen, was dein Herz begehrt.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 114]
 1	𓍉	854554	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=stp
 2	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -3378,6 +3583,7 @@
 # text_de = (Und) wir werden dir die Besten (Zug- bzw. Reitpferde) unserer Ställe und die Besten unserer (Zucht)pferde bringen."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 114]
 1	𓏎𓈖	26870	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jni̯
 2	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -3399,6 +3605,7 @@
 # text_de = Daraufhin handelte Seine Majestät genauso (wie vorgeschlagen).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Rs 114]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -3413,6 +3620,7 @@
 # text_de = 〈M〉an kam (zurück), um Seiner Majestät folgendermaßen zu berichten:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 124] - [reS 125]
 1	𓂻𓅱𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
 2	𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -3430,6 +3638,7 @@
 # text_de = "Wir töteten alle Menschen, die wir dort vorfanden."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 125]
 1	𓋴𓌳𓐝𓌫	134370	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=smꜣ
 2	𓈖𓏥	10070	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗n
 3	𓂋𓍿𓀀	94530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rmṯ
@@ -3446,6 +3655,7 @@
 # text_de = Daraufhin gab Seine Majestät (⸗ Piye) sie (⸗ die Stadt Medes) als Geschenk an den Iri-pat Pa-di-aset.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 125] - [reS 126]
 1	𓃹𓈖𓇋𓈖	650007	PART	particle	_	_	_	_	Translit=wn.jn
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -3465,6 +3675,7 @@
 # text_de = Darauf hörte dies der Große der Ma Tef-nacht.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 126]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓄔𓅓	150560	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sḏm
 3	𓇓	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
@@ -3479,6 +3690,7 @@
 # text_de = "Friede sei mit dir!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 127]
 1	𓊵	111230	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ḥtp
 2	𓂋	28170	PART	particle	_	_	_	_	Translit=jr
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -3491,6 +3703,7 @@
 # text_de = Ich kann nicht (be)stehen vor deinem Gluthauch.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 128]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓊢𓂝𓂻	851887	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -3506,6 +3719,7 @@
 # text_de = (Denn) ich bin (immer) in Furcht vor deiner Ba-Mächtigkeit und sage (mir):
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 130]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓇋	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓅾𓎡𓅱𓀀	138730	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=snḏ
@@ -3523,6 +3737,7 @@
 # text_de = 'Seine (⸗ Piye) Flamme ist es, die mir feindlich gesonnen ist!'
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 130]
 1	𓊪	550021	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣy⸗
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓈖𓃀𓇋𓊮	82590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbj
@@ -3539,6 +3754,7 @@
 # text_de = Ist das Herz Deiner Majestät (noch) nicht (ab)gekühlt durch diese (Dinge), die du mir angetan hast?
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 130] - [reS 131]
 1	𓇋𓈖𓇋𓅱	550032	PART	particle	_	_	_	_	Translit=jn-jw
 2	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 3	𓈎𓃀𓏁	854563	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qbḥ
@@ -3561,6 +3777,7 @@
 # text_de = Ich bin doch (nur) ein wahrer Winzling.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 131]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
 3	𓌨𓂭𓂝𓅪	124410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-ḏbꜥ.w
@@ -3574,6 +3791,7 @@
 # text_de = (Sondern) du verdoppelst und verdreifachst es (⸗ mein Verbrechen) mir.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 132]
 1	𓈎𓃀𓄴	854562	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qꜣb
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓋴𓏏𓏥	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
@@ -3590,6 +3808,7 @@
 # text_de = Lass eine Saat (⸗ Nachkommenschaft) übrig, damit du sie zum (richtigen) Zeitpunkt zusammen harken kannst.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 132]
 1	𓎝𓎛	43010	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=wꜣḥ
 2	𓉐𓂋𓈓	60310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pr.t
 3	𓂝𓎺𓃀	21660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jꜥb
@@ -3606,6 +3825,7 @@
 # text_de = Reiss die Bäume nicht mit ihrer Wurzel aus!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 132] - [reS 133]
 1	𓅓	64410	VERB	verb	_	_	_	_	Translit=m
 2	𓅱𓇉𓄿𓌸	48660	VERB	verb	VerbForm=Fin	_	_	_	Translit=wḥꜣ
 3	𓏠𓈖𓏌𓏲𓆭𓏪	70450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mn.w
@@ -3621,6 +3841,7 @@
 # text_de = So wahr dein Ka dauert, der Schrecken vor dir ist (bereits) in meinem Leib!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 133]
 1	𓎝𓎛	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
 2	𓂓	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -3638,6 +3859,7 @@
 # text_de = Die Furcht vor dir steckt mir in den Knochen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 133]
 1	𓅾𓏏	138770	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snḏ.t
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓐝𓂝𓎺𓃀	64580	ADP	preposition	_	_	_	_	Translit=m-ꜥb
@@ -3652,6 +3874,7 @@
 # text_de = Ich esse doch (bereits) das Brot des Hungers.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 134]
 1	𓏶𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
@@ -3667,6 +3890,7 @@
 # text_de = (Und) ich trinke (bereits) das Wasser des Durstes seit jenem Tag, als du meinen Namen (zum ersten Mal) hörtest.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 134] - [reS 135]
 1	𓋴𓋴𓈗	130360	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
@@ -3688,6 +3912,7 @@
 # text_de = Bitterkeit ist in meinen Knochen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 135]
 1	𓂧𓁷𓂋𓅪	180450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dḥr.t
 2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
 3	𓌟𓏤𓏥	162200	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=qs
@@ -3701,6 +3926,7 @@
 # text_de = Weit reichend ist der Feldzug (wörtl.: Lauf), den du gegen mich führst.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 136]
 1	𓄫𓏝	49	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜣwi̯
 2	𓐑𓂻	104030	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥjp.t
 3	𓏎𓈖𓈖	26870	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jni̯
@@ -3716,6 +3942,7 @@
 # text_de = Dein Gesicht ist (immer noch) gegen mich (gerichtet).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 136]
 1	𓁷	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -3730,6 +3957,7 @@
 # text_de = (Dieses) Jahr (des Kampfes) ist es, das meinen Ka abgespalten hat.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 136] - [reS 137]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓆳𓏏	94920	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=rnp.t
 3	𓋴𓊪𓐍𓆼𓄿𓍸	133010	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=spḫꜣ
@@ -3744,6 +3972,7 @@
 # text_de = Wasche den Diener (⸗ Tef-nacht) von seinen Vergehen rein!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 137]
 1	𓋴𓃂	130010	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=swꜥb
 2	𓅡𓎡𓀀	53830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣk
 3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -3758,6 +3987,7 @@
 # text_de = (Und) lass eilends einen Boten zu mir kommen, damit er die Furcht aus meinem Herzen vertreibt.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 138] - [reS 139]
 1	𓇋𓅓𓅖	851706	VERB	verb	_	_	_	_	Translit=jmi̯
 2	𓂻𓅱	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -3780,6 +4010,7 @@
 # text_de = Dann will ich in seinem (⸗ Bote) Beisein zum Tempel herausgehen und mich durch einen Gotteseid reinigen."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 139] - [reS 140]
 1	𓎡𓄿	400415	PART	particle	_	_	_	_	Translit=kꜣ
 2	𓉐𓂋𓏏	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -3801,6 +4032,7 @@
 # text_de = Seine Majestät sandte den obersten Vorlesepriester Pa-di-amun-〈neb〉-nesut-taui und den General Purem (zu Tef-nacht).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 140]
 1	𓂋𓏙𓏏𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -3818,6 +4050,7 @@
 # text_de = Er ging heraus zum Tempel und betete zu Gott.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 141]
 1	𓉐𓂋𓂻𓈖	60920	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -3834,6 +4067,7 @@
 # text_de = Er reinigte sich folgendermaßen durch einen Gotteseid:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 141] - [reS 142]
 1	𓋴𓃂𓈖	130010	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=swꜥb
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
@@ -3850,6 +4084,7 @@
 # text_de = "Ich will den Befehl des Königs (künftig) nicht (mehr) übertreten.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 142]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓏏𓉔𓂿	172920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=thi̯
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -3864,6 +4099,7 @@
 # text_de = Ich will die Worte Seiner Majestät (⸗ Piye) (künftig) nicht (mehr) zurückweisen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 142] - [reS 143]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓅱𓇋𓆛𓈖𓂻	44120	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wjn
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -3879,6 +4115,7 @@
 # text_de = Ich will (künftig) nicht (mehr) gegen einen Hati-a handeln ohne dein (⸗ Piye) Wissen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 143]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -3897,6 +4134,7 @@
 # text_de = Ich will (hingegen) handeln gemäß dem, was der König (⸗ Piye) sagt.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 143] - [reS 144]
 1	𓁹𓏏	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -3911,6 +4149,7 @@
 # text_de = Ich will nie (mehr) übertreten was er (⸗ Piye) befohlen hat."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 144]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓏏𓉔𓂿	172920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=thi̯
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -3925,6 +4164,7 @@
 # text_de = Dann war Seine Majestät darüber zufrieden.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 144]
 1	𓊢𓂝𓈖	40111	PART	particle	_	_	_	_	Translit=ꜥḥꜥ.n
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -3940,6 +4180,7 @@
 # text_de = Man kam, um zu Seiner Majestät zu sagen:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 144] - [reS 145]
 1	𓇍𓂻𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
 2	𓏏𓅱	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -3956,6 +4197,7 @@
 # text_de = "(Die Stadt) Krokodilopolis, sie öffnete ihre Befestigung.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 145]
 1	𓊹𓉞𓆊𓊖	861222	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-nṯr-Sbk
 2	𓊃𓈙𓉿𓂡	144300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zš
 3	𓊃𓈖	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
@@ -3970,6 +4212,7 @@
 # text_de = Medenit (⸗ 22. oberägypt. Gau) hat sich (ebenfalls) auf seinen Bauch begeben (⸗ ergeben).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 145]
 1	𓅖𓏏𓈖𓏌𓌫𓊖	800036	PROPN	entity-name	_	_	_	_	Translit=Mdnj.t
 2	𓂋𓏙𓏏	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rḏi̯
 3	𓁷	107520	ADP	preposition	_	_	_	_	Translit=ḥr
@@ -3984,6 +4227,7 @@
 # text_de = Darauf nun kamen diese Könige und Hati-a von Unterägypten, um die Schönheit Seiner Majestät (⸗ Piye) zu sehen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 149]
 1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
 2	𓎼𓂋𓏝	167730	PART	particle	_	_	_	_	Translit=gr
 3	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
@@ -4006,6 +4250,7 @@
 # text_de = (Denn) ein Abscheu des Königspalastes ist dies.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 151]
 1	𓃀𓏏𓆜	55150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bw.t
 2	𓊪𓅱	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
 3	𓈖𓍿	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
@@ -4019,6 +4264,7 @@
 # text_de = König Nimlot aber, er trat ein in den Königspalast, weil er ein Reiner war und keinen Fisch aß.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 151] - [reS 152]
 1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
 2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
 3	𓈖𓌳𓂋𓍿	861213	PROPN	entity-name	_	_	_	_	Translit=Nmlt
@@ -4044,6 +4290,7 @@
 # text_de = Drei (Fürsten) standen (also) entsprechend ihrer Stellung da (und nur) einer betrat den Königspalast.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 152] - [reS 153]
 1	𓊢𓂝𓈖	851887	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜥ
 2	𓏤𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -4062,6 +4309,7 @@
 # text_de = Der Westen und Osten, sie nahmen die Ankündigung auf und jubelten in der Nähe Seiner Majestät (⸗ Piye).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 155] - [reS 156]
 1	𓋀	26140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.t
 2	𓋁	20550	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣb.t
 3	𓊏𓂡	157160	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
@@ -4082,6 +4330,7 @@
 # text_de = Das Jubellied, das sie sangen, (lautete folgendermaßen):
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 156]
 1	𓐍𓈖𓏌𓀁	117460	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḫn
 2	𓈖𓉔𓐝𓀁	85610	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nhm
 3	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=ḏd
@@ -4095,6 +4344,7 @@
 # text_de = "O tapferster Herrscher Piye, o tapferer Herrscher, du bist zurückgekommen, nachdem du Unterägypten beherrschst!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 156] - [reS 157]
 1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
 2	𓋾𓈎𓀯	110360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥqꜣ
 3	𓍿𓂋𓂡	550245	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ṯnr
@@ -4118,6 +4368,7 @@
 # text_de = Du hast Stiere (⸗ feindliche Fürsten) in Frauen verwandelt.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 157] - [reS 158]
 1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓂓𓂺𓏪	162930	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=kꜣ
@@ -4132,6 +4383,7 @@
 # text_de = Froh ist das Herz der Mutter, die dich gebar, und (das Herz) des Mannes, der dich zeugte.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [reS 158]
 1	𓇛	500020	VERB	verb	_	_	_	_	Translit=nḏm
 2	𓄣	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
 3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
@@ -4151,6 +4403,7 @@
 # text_de = Du wirst in Ewigkeit existieren.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [159]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -4164,6 +4417,7 @@
 # text_de = Deine Stärke dauert, o du Herrscher, den Theben liebt!"
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [159]
 1	𓈖𓆱𓐍𓏏𓂡	87620	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nḫt.w
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓏠𓈖𓏝	69590	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mn
@@ -4180,6 +4434,7 @@
 # text_de = Die Königsmutter Ibar.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1] - [2]
 1	𓇓𓏏𓈖𓅐𓏏	200012	_	epitheton-title	_	_	_	_	Translit=mw.t-nswt
 2	𓇋𓀁𓅡𓃭	712255	PROPN	entity-name	_	_	_	_	Translit=Jbr
 
@@ -4191,6 +4446,7 @@
 # text_de = $[Unteres Register: kniender libyscher Würdenträger den Boden küssend, nach rechts gewandt]$: Hati-a Pamiu.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Grimal, C.12⁝ Vs 1]
 1	𓄂𓂝	100520	_	epitheton-title	_	_	_	_	Translit=ḥꜣ.tj-ꜥ
 2	𓅮𓌳𓄿𓄛	700664	PROPN	entity-name	_	_	_	_	Translit=Pꜣ-mjw
 
@@ -4202,6 +4458,7 @@
 # text_de = $[Rechte Seite des Bildfeldes, oberes Register: hinter Frau stehender Mann mit Bügelsistrum führt Pferd an Leine, nach links gewandt]$: König Nimlot.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Grimal, C.6⁝ Vs 1]
 1	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
 2	𓈖𓌳𓂋𓍿	861213	PROPN	entity-name	_	_	_	_	Translit=Nmlt
 
@@ -4213,6 +4470,7 @@
 # text_de = Weißbrot für seinen Vater darbringen.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓋴𓈎𓌈𓐓	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
 2	𓏏𓏐𓌉𓏐	168830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-ḥḏ
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4227,6 +4485,7 @@
 # text_de = Anuket, Herrin von Sais.
 # findspot = unknown
 # date = unknown
+# lineRef = [1]
 1	𓂝𓈖𓈎𓏏	38970	PROPN	entity-name	_	_	_	_	Translit=Ꜥnq.t
 2	𓎟𓊃𓏏𓏏𓊖	865319	_	epitheton-title	_	_	_	_	Translit=nb.t-Sṯ.t
 
@@ -4238,6 +4497,7 @@
 # text_de = Mut, Vordere der Tempel.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓏏𓅑	69030	PROPN	entity-name	_	_	_	_	Translit=Mw.t
 2	𓏃𓉗𓏏𓏥𓊹	862989	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-ḥw.t-nṯr.w
 
@@ -4249,6 +4509,7 @@
 # text_de = Amun-Re, der Herr der Throne Beider Länder (⸗ Karnak), der Leben, Dauer, Wı͗hlergehen und Freude wie Re gibt.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1] - [2]
 1	𓇋𓏠𓈖𓇳𓏤	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
 2	𓎟𓎼𓎼𓎼𓇿𓇿	400098	_	epitheton-title	_	_	_	_	Translit=nb-ns.wt-Tꜣ.wj
 3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
@@ -4267,6 +4528,7 @@
 # text_de = Schat-Brot darbringen für seinen Vater.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓏙	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
 2	𓈙𓂝𓏏𓏐	152490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥw.t
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4281,6 +4543,7 @@
 # text_de = Worte sprechen durch Mut, die Herrin des Himmels:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 2	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
 3	𓅐𓏏	69020	PROPN	entity-name	_	_	_	_	Translit=Mw.t
@@ -4294,6 +4557,7 @@
 # text_de = "Nimm dir die Kronen aus der Hand Amuns!
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓊏	157160	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=šzp
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -4309,6 +4573,7 @@
 # text_de = Er sagt über dich:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -4322,6 +4587,7 @@
 # text_de = 'Leben gehört dir als König.'"
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓈖𓈖𓎡	851189	PRON	pronoun	PronType=Prs	_	_	_	Translit=nnk
 2	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -4335,6 +4601,7 @@
 # text_de = Amun-Re von Gem-(pa-)Iten (⸗ Kawa), <<der Leben, Dauer, Wohlergehen und Freude wie Re gibt>>.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1] - [2]
 1	𓇋𓏠𓈖𓇳𓏤	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
 2	𓅠𓇋𓏏𓈖𓇳	863069	PROPN	entity-name	_	_	_	_	Translit=Gm-Jtn
 3	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
@@ -4353,6 +4620,7 @@
 # text_de = Weißbrot spenden für seinen Vater Amun, damit er (⸗ Amun) handelt (für ihn), dem Leben gegeben wurde.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓋴𓈎𓌈	854551	VERB	verb	VerbForm=Fin	_	_	_	Translit=sqr
 2	𓏏𓏐𓌉	168830	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=tʾ-ḥḏ
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4372,6 +4640,7 @@
 # text_de = $[Unteres Register: kniender König, den Boden küssend, nach links gewandt]$: König Pef-tjau-aui-bastet.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Grimal, C.9⁝ Vs 1]
 1	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
 2	𓊪𓆑𓊡𓂝𓂝𓎰	861215	PROPN	entity-name	_	_	_	_	Translit=Pꜣy⸗f-ṯꜣw-m-ꜥ.wj-Bꜣs.tjt
 
@@ -4383,6 +4652,7 @@
 # text_de = Meine Majestät hat dir vollkommene und ausgezeichnete [Opfergaben] gegeben.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓂞𓏏	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓎡𓏥	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
@@ -4403,6 +4673,7 @@
 # text_de = Amun, Herr der Throne der Beiden Länder, der in Gebel Barkal residiert.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [C6]
 1	𓇋𓏠𓈖𓇳	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
 2	𓎟𓎼𓏏𓇾𓇾	400098	_	epitheton-title	_	_	_	_	Translit=nb-ns.wt-Tꜣ.wj
 3	𓁷𓄣𓈋𓃂	861217	_	epitheton-title	_	_	_	_	Translit=ḥr.j-jb-Ḏw-wꜥb
@@ -4414,6 +4685,7 @@
 # owner = Silke Grallert
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓇋𓏠𓈖𓇳𓏤𓅠𓇋𓏏𓈖𓇳	863222	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw-Gm-Jtn
 
 # sent_id = IBcAgf6PBrhpVEpfkFB2QNGTWXA
@@ -4424,6 +4696,7 @@
 # text_de = Der vollkommene Gott, Herr Beider Länder (⸗ Ägypten) Chu-Nefertem-Ra, der leibliche Sohn des Re Taharqa, dem Leben wie Re ewiglich gegeben wurde.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1] - [6]
 1	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
 2	𓎟𓇿𓇿	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
 3	𓇳𓄤𓏏𓍃𓅱𓐍	862991	PROPN	entity-name	_	_	_	_	Translit=Ḫwi̯-Nfr-tm-Rꜥw
@@ -4447,6 +4720,7 @@
 # text_de = Mut, Vordere der Tempel.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [6]
 1	𓏏𓅑	69030	PROPN	entity-name	_	_	_	_	Translit=Mw.t
 2	𓏃𓉗𓏏𓏥𓊹	862989	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-ḥw.t-nṯr.w
 
@@ -4458,6 +4732,7 @@
 # text_de = "Ich sprach über dich (als du noch) im Leib deiner Mutter (warst):
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [2] - [3]
 1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
 2	𓀯	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -4476,6 +4751,7 @@
 # text_de = 'Du wirst Herrscher Ägyptens sein.'
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [3]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -4491,6 +4767,7 @@
 # text_de = Ich (er)kannte (für) dich (bereits) als Same (⸗ Abkömmling), als du (noch) im Ei warst:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [4] - [5]
 1	𓂋𓐍	95620	VERB	verb	_	_	_	_	Translit=rḫ
 2	𓀯	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓏏𓅱	851182	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw
@@ -4509,6 +4786,7 @@
 # text_de = 'Du wirst ein Gebieter sein.'
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [5] - [6]
 1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
 2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
 3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
@@ -4522,6 +4800,7 @@
 # text_de = (Denn) ein Vater macht seinen Sohn trefflich.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [7] - [8]
 1	𓇋𓏏𓆑	32820	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtj
 2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
 3	𓋴𓏠𓈖𓐍	135360	VERB	verb	VerbForm=Fin	_	_	_	Translit=smnḫ
@@ -4536,6 +4815,7 @@
 # text_de = Ich war es, der (es ⸗ Königtum) dir anbefahl.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [8]
 1	𓏌𓀯𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓎘	51970	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wḏ
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4549,6 +4829,7 @@
 # text_de = Wer ist es, der es mit dir teilen könnte?
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [8]
 1	𓈖𓅖	83990	PRON	pronoun	PronType=Int	_	_	_	Translit=njm
 2	𓊪𓈙	62280	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psš
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -4563,6 +4844,7 @@
 # text_de = Ich bin der Herr des Himmels.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓏌𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓎟𓊪𓏏𓇯	400833	_	epitheton-title	_	_	_	_	Translit=nb-p.t
 
@@ -4574,6 +4856,7 @@
 # text_de = Ich war es, der dir die Bestimmung gab.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [11]
 1	𓏌𓀭𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓏙𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4588,6 +4871,7 @@
 # text_de = Kein anderer (Gott oder Mensch) weist einen König zu.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [12]
 1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
 2	𓎘	51970	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḏ
 3	𓎡𓏤	163760	ADJ	adjective	_	_	_	_	Translit=ky
@@ -4601,6 +4885,7 @@
 # text_de = Ich bin es, der ihn (⸗ König) einsetzt/auswählt nach meinem Wunsch."
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [13]
 1	𓏌𓀯𓎡	27940	PRON	pronoun	PronType=Prs	_	_	_	Translit=jnk
 2	𓏙	851711	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=rḏi̯
 3	𓇓	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
@@ -4616,6 +4901,7 @@
 # text_de = Das Feld darreichen an seinen (⸗ Amun-Re) Vater.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓂠	107110	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥnk
 2	𓇏	141480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4630,6 +4916,7 @@
 # text_de = Worte sprechen durch Chons?, den Scharfen?:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [15]
 1	𓆓𓌃	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 2	𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
 3	𓐍𓈖𓊃	118720	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
@@ -4643,6 +4930,7 @@
 # text_de = $[Mitte des Bildfeldes: stehende Mut hinter Amun-Re, nach rechts gewandt]$: ⸢Mut⸣, Herrin von Ascheru.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Grimal, C.3⁝ Vs 1]
 1	𓅐𓏏	69020	PROPN	entity-name	_	_	_	_	Translit=Mw.t
 2	𓎟𓇋𓈙𓂋𓊖	853771	_	epitheton-title	_	_	_	_	Translit=nb.t-Jšr.w
 
@@ -4654,6 +4942,7 @@
 # text_de = Amun-Re, Herr der Throne Beider Länder (⸗ Karnak), Herr des Himmels.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1] - [2]
 1	𓇋𓏠𓈖𓇳	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
 2	𓎟𓎼𓎼𓎼𓇿𓇿	400098	_	epitheton-title	_	_	_	_	Translit=nb-ns.wt-Tꜣ.wj
 3	𓎟𓇯	400833	_	epitheton-title	_	_	_	_	Translit=nb-p.t
@@ -4666,6 +4955,7 @@
 # text_de = Darreichen der Maat für Amun, damit ihm (dem König) wie Re Leben gegeben werde.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [C4]
 1	𓂠𓎡	107110	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥnk
 2	𓌶𓂝𓁦	500390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4685,6 +4975,7 @@
 # text_de = Wadjet, indem sie Leben und Wohlergehen gibt.
 # findspot = unknown
 # date = unknown
+# lineRef = [1]
 1	𓇅𓏏	43760	PROPN	entity-name	_	_	_	_	Translit=Wꜣḏ.t
 2	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
@@ -4699,6 +4990,7 @@
 # text_de = Worte zu sprechen durch Chons von Theben.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓆓𓄤	186050	VERB	verb	_	_	_	_	Translit=ḏd-mdw
 2	𓋔	26660	ADP	preposition	_	_	_	_	Translit=jn
 3	𓐍𓈖𓇓𓏲𓇳𓏥𓁛	118720	PROPN	entity-name	_	_	_	_	Translit=Ḫns.w
@@ -4712,6 +5004,7 @@
 # text_de = $[Rechte Seite des Bildfeldes, oberes Register: stehende Frau in Anbetungsgestus, nach links gewandt]$: Königsgemahlinnen.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Grimal, C.5⁝ Vs 1]
 1	𓇓𓈟𓏏𓁐𓏪	400334	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t-nswt
 
 # sent_id = IBUBd9jyqpwTREq0oDj3EF06ELY
@@ -4722,6 +5015,7 @@
 # text_de = Amun von Napata gab mir, Herrscher über jedes Fremdland zu sein.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [17] - [18]
 1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -4740,6 +5034,7 @@
 # text_de = Der(jenige), zu dem ich sage:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [18]
 1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
 2	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
 3	𓏏𓅱𓀀	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
@@ -4755,6 +5050,7 @@
 # text_de = Amun in Theben gab mir, zu herrschen über das Schwarze Land (⸗ Ägypten).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [19]
 1	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -4772,6 +5068,7 @@
 # text_de = 'Erscheine nicht (als Fürst)!', er erscheint nicht (als Fürst).
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [20]
 1	𓅓𓁹	600050	PART	particle	_	_	_	_	Translit=m-jri̯
 2	𓈍	114740	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḫꜥi̯
 3	𓃀	55130	PART	particle	_	_	_	_	Translit=bw
@@ -4787,6 +5084,7 @@
 # text_de = Jeder, dem ich mein Gesicht (freundlich) zuwende,
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [20] - [21]
 1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
 2	𓈖𓏏𓏏	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
 3	𓏏𓅱	851200	PRON	pronoun	PronType=Prs	_	_	_	Translit=tw⸗j
@@ -4806,6 +5104,7 @@
 # text_de = keine Art des Zerstörens seiner Stadt gibt es, sogar wenn es nicht in meiner Hand ist.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [21] - [22]
 1	𓅓𓈖𓂜	69560	PART	particle	_	_	_	_	Translit=mn
 2	𓈎𓀾	159670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qj
 3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
@@ -4829,6 +5128,7 @@
 # text_de = Amun (aber) ist es, der mich schuf.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [23]
 1	𓇋𓈖	851426	PART	particle	_	_	_	_	Translit=jn
 2	𓇋𓏠𓈖	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
 3	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
@@ -4842,6 +5142,7 @@
 # text_de = $[Schutzformel im Rücken des Königs]$: Leben und Schutz sind hinter dir wie Re täglich.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [24]
 1	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
 2	𓎃	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
 3	𓈖𓇉	600068	ADP	preposition	_	_	_	_	Translit=n-ḥꜣ
@@ -4858,6 +5159,7 @@
 # text_de = $[Unteres Register: kniender König, den Boden küssend, nach links gewandt]$: König Iuput.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Grimal, C.8⁝ Vs 1]
 1	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
 2	𓃛𓍯𓊪𓍿	861214	PROPN	entity-name	_	_	_	_	Translit=Jpwt
 
@@ -4869,6 +5171,7 @@
 # text_de = Die Königsmutter Ibar.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1] - [2]
 1	𓇓𓏏𓈖𓅐𓏏	200012	_	epitheton-title	_	_	_	_	Translit=mw.t-nswt
 2	𓇋𓀁𓅡𓃭	712255	PROPN	entity-name	_	_	_	_	Translit=Jbr
 
@@ -4880,6 +5183,7 @@
 # text_de = Amun-Re, Vorderer der Tempel.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓇋𓏠𓈖𓇳𓏤	500004	PROPN	entity-name	_	_	_	_	Translit=Jmn-Rꜥw
 2	𓏃𓉗𓏏𓏥𓊹	862989	_	epitheton-title	_	_	_	_	Translit=ḫnt.j-ḥw.t-nṯr.w
 
@@ -4891,6 +5195,7 @@
 # text_de = $[Mitte des Bildfeldes: Königsfigur, nach rechts gewandt mit Rücken vor Gott stehend]$: König von Ober- und Unterägypten, Sohn des Re Piye.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [Grimal, C.4⁝ Vs 1] - [Grimal, C.4⁝ Vs 2]
 1	𓇓𓏏𓆤𓏏	88060	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt-bj.tj
 2	𓅭𓇳	126020	_	epitheton-title	_	_	_	_	Translit=zꜣ-Rꜥw
 3	𓊪𓋹𓇋𓇋	859167	PROPN	entity-name	_	_	_	_	Translit=Py
@@ -4903,6 +5208,7 @@
 # text_de = Das Feld darreichen an seinen Vater (⸗ Amun-Re) .
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [8]
 1	𓂠	107110	VERB	verb	VerbForm=Fin	_	_	_	Translit=ḥnk
 2	𓇏	141480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sḫ.t
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4917,6 +5223,7 @@
 # text_de = Der Herr der Beiden Länder, User-Maat-Re Setep-en-Re, der Herr der Kraft, Aryamani.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [1] - [2]
 1	𓎟𓇿𓇿	857565	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ
 2	𓇳𓄊𓆄𓍉𓇳𓈖	600505	PROPN	entity-name	_	_	_	_	Translit=Wsr-mꜣꜥ.t-Rꜥw-stp-n-Rꜥw
 3	𓎟𓄗	400873	_	epitheton-title	_	_	_	_	Translit=nb-ḫpš
@@ -4930,6 +5237,7 @@
 # text_de = Er stiftete ihm (⸗ Amun-Re) 6 Weißbrotrationen für den täglichen Bedarf für die Statuen Seiner Majestät des südlichen A〈a〉-Gebäude(teil)s des Ptah-Tempels.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [13] - [14]
 1	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
@@ -4960,6 +5268,7 @@
 # text_de = Der vollkommene Gott, der Herr Beider Länder (⸗ Ägypten) Chu-Nefertem-Ra, der leibliche Sohn des Re Taharqa, dem alles Leben gegeben ist wie Re ewiglich.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1] - [6]
 1	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
 2	𓎟𓇿𓇿	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
 3	𓇳𓄤𓏏𓍃𓅱𓐍	862991	PROPN	entity-name	_	_	_	_	Translit=Ḫwi̯-Nfr-tm-Rꜥw
@@ -4983,6 +5292,7 @@
 # text_de = Aller ⸢Schutz⸣ (und) alles ⸢Leben⸣ ist [hinter] ⸢ihm⸣ (⸗ König).
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [6]
 1	𓎂	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
 2	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
 3	𓇉	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
@@ -4997,6 +5307,7 @@
 # text_de = Regierungsjahr 2 seines Erscheinens, als seine Majestät auf dem Thron des Geb war:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓆳𓏏𓊗	850581	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rnp.t-zp
 2	𓏤𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
 3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
@@ -5017,6 +5328,7 @@
 # text_de = Lasst sie nicht in den Tempel des Amun von Napata, der im Gebel Barkal weilt, wegen jener Angelegenheit eintreten - Es ist ein Abscheu es auszusprechen! -, die sie im Tempel des Amun getan haben.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [5] - [6]
 1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
 2	𓂋𓏏𓂝	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓂝𓈎𓂻	41180	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
@@ -5048,6 +5360,7 @@
 # text_de = Sie taten etwas (lit.: eine Angelegenheit), das der Gott nicht erlaubt (lit.: befohlen) hat zu tun.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [6] - [7]
 1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓌃𓂧𓏏𓀁	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
@@ -5065,6 +5378,7 @@
 # text_de = Sie ersannen einen bösen Plan in ihren Herzen, nämlich einen Mann zu töten, der kein Verbrechen begangen hatte (lit.: dessen Verbrechen nicht existierte), ohne dass der Gott befohlen hatte, es zu tun.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [7] - [8]
 1	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓍯𓅳𓀁	42690	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣwꜣ
@@ -5092,6 +5406,7 @@
 # text_de = Seine Majestät sagte:
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -5104,6 +5419,7 @@
 # text_de = Das ist seine (des Tempels) Bestimmung, damit er (der Tempel) frei davon (d.i. die Sünde) ist.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓎼𓂋𓍅	854571	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=grg
 2	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
 3	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
@@ -5118,6 +5434,7 @@
 # owner = Silke Grallert
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [1]
 1	𓊹𓄤	90390	_	epitheton-title	_	_	_	_	Translit=nṯr-nfr
 2	𓎟𓇿𓇿	400038	_	epitheton-title	_	_	_	_	Translit=nb-Tꜣ.wj
 3	𓇿𓉔𓃭𓈎	862990	PROPN	entity-name	_	_	_	_	Translit=Thr-qꜣ
@@ -5131,6 +5448,7 @@
 # owner = Silke Grallert
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [2]
 1	𓎄	125600	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zꜣ
 2	𓋹	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
 3	𓇉	851658	ADP	preposition	_	_	_	_	Translit=ḥꜣ
@@ -5146,6 +5464,7 @@
 # text_de = Das Herz Seiner Majestät war nu⸢n⸣ zufrieden, für sie täglich Nützliches zu tun.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [3]
 1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
 2	𓎼𓂋	167730	PART	particle	_	_	_	_	Translit=gr
 3	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
@@ -5168,6 +5487,7 @@
 # text_de = „Ach hätte ich doch“.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓎛𓅱𓀁	102710	PART	particle	_	_	_	_	Translit=ḥwj
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -5182,6 +5502,7 @@
 # text_de = Maat (⸗ Recht) war etabliert ⸢i⸣n den Ufern (⸗ Ägypten).
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [4]
 1	𓌶𓂝𓏏𓁦	66620	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣꜥ.t
 2	𓃀𓋴𓅱𓏏𓆝	854509	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=bzi̯
 3	𓅓𓆱𓐍𓏏	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
@@ -5195,6 +5516,7 @@
 # text_de = Omen geschahen in der Zeit Seiner Majestät (⸗ Taharqa) im 6. Jahr seines Erscheinens (als König).
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [4] - [5]
 1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
 2	𓃀𓇋𓄿𓍄𓏏𓏛𓏥	54480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bjꜣ.yt
 3	𓆣𓂋𓏛	858535	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫpr (m-sꜣ)
@@ -5217,6 +5539,7 @@
 # text_de = Seine Majestät (⸗ Taharqa) erbat eine Überschwemmung durch seinen Vater Amun-Re, Herrn der Throne Beider Länder, um keine Armut (⸗ Hungersnot) in seiner Zeit zu zulassen.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [5] - [6]
 1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -5245,6 +5568,7 @@
 # text_de = Alles also, was Seiner Majestät über die Lippen kam, sein Vater Amun-Re ließ es sofort geschehen.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [6]
 1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
 2	𓎼𓂋	167730	PART	particle	_	_	_	_	Translit=gr
 3	𓐍𓏏	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
@@ -5270,6 +5594,7 @@
 # text_de = Als die Zeit des Ansteigens des Nilwassers kam, stieg es täglich sehr stark an.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [6] - [7]
 1	𓆣𓂋𓈖	858535	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
 2	𓏏𓂋𓆳𓇳	172700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tr
 3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
@@ -5292,6 +5617,7 @@
 # text_de = Es (⸗ Nilwasser) stieg viele Tage lang an mit 1 Elle täglich.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓇳𓏤𓏪	99060	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=hrw
@@ -5311,6 +5637,7 @@
 # text_de = Es (⸗ Nilwasser) drang in die Berge Oberägyptens vor,
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓅧𓈎𓈖	41180	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥq
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓈋𓅱𓅱𓊌𓏥	182830	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=ḏw
@@ -5324,6 +5651,7 @@
 # text_de = es (⸗ Nilwasser) beherrschte die Stätten Unterägyptens.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [7]
 1	𓁷𓁶𓈖	108270	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥr-tp
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓇋𓅱𓈏𓏥	20120	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jꜣ.t
@@ -5337,6 +5665,7 @@
 # text_de = Das Land (⸗ Ägypten) war (wie der) Nun (⸗ Urmeer vor der Weltentstehung), war (wie der) Neni (⸗ träge Person), ohne dass sich das Neuland (noch) vom Fluss unter⸢schieden hätte⸣.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [7] - [8]
 1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
 2	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -5357,6 +5686,7 @@
 # text_de = Zudem regnete der Himmel in Nubien und ließ alle seine Berge erglänzen.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
 2	𓎼𓂋	167730	PART	particle	_	_	_	_	Translit=gr
 3	𓎛𓅱𓏏𓈗	854530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥwi̯
@@ -5377,6 +5707,7 @@
 # text_de = Jeder Nubier war überschwemmt mit allen Dingen (des Lebensunterhalts),
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
 2	𓊃𓀀𓎟	125290	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=z-nb
 3	𓏌𓏤	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
@@ -5394,6 +5725,7 @@
 # text_de = Ägypten war ein (einziges) gutes Fest.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
 2	𓆎𓏏𓊖	164430	PROPN	entity-name	_	_	_	_	Translit=Km.t
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -5408,6 +5740,7 @@
 # text_de = Sie (⸗ die Menschen Nubiens und Ägyptens) priesen Seine Majestät (⸗ Taharqa).
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [9]
 1	𓇼	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
 2	𓋴𓈖	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
 3	𓊹	90260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nṯr
@@ -5423,6 +5756,7 @@
 # text_de = Sein (⸗ Taharqa) Herz war weit wegen dem, was sein Vater für ihn getan hatte.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓄫𓏛	49	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣwi̯
@@ -5441,6 +5775,7 @@
 # text_de = Seine Majestät sprach also:
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [10]
 1	𓇓𓅱	129500	PART	particle	_	_	_	_	Translit=sw
 2	𓍛𓏤	104690	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -5455,6 +5790,7 @@
 # text_de = Das Nilwasser kam als Räuber / RETTER ??????????????? der Rinder.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [11]
 1	𓂻𓅱𓈖	21930	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
 2	𓎛𓂝𓊪𓈘	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -5469,6 +5805,7 @@
 # text_de = Es (⸗ Nilwasser) überflutete dieses Land in seiner Gesamtheit.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [11]
 1	𓅤𓈖	55080	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bꜥḥi̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓇿	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
@@ -5484,6 +5821,7 @@
 # text_de = Seinesgleichen wurde in den Schriften aus der Zeit der Vorfahren nicht gefunden.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [11]
 1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
 2	𓅠	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
 3	𓏇𓏏𓏏𓇿	67960	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mj.tjt
@@ -5502,6 +5840,7 @@
 # text_de = Es (⸗ Nilwasser) übergab (⸗ ließ zurück) Felder, die gänzlich vollkommen (für die folgende Bestellung) waren.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [11] - [12]
 1	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓈖	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -5518,6 +5857,7 @@
 # text_de = Es (⸗ Nilwasser) ließ nicht zu, dass die Südwinde sie (⸗ Felder) aus⸢raubten⸣.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [12]
 1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
 2	𓂋𓂝𓈖	851711	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
@@ -5533,6 +5873,7 @@
 # text_de = dass de⸢ren⸣ Ausmaß ⸢an⸣ ober- und unterägyptischer Gerste und jeder Frucht, die auf dem Rücken des Landes wuchs, unbekannt war.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [13]
 1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
 2	𓂋𓐍𓏛	95620	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḫ
 3	𓍿𓈖𓅱𓏌𓌙𓅯𓏛𓏥	175830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯnw
@@ -5555,6 +5896,7 @@
 # text_de = Ich war bei ihm (⸗ Schabaka).
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓃹𓈖𓈖	46050	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnn
 2	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
@@ -5568,6 +5910,7 @@
 # text_de = Er (⸗ Schabaka) liebte mich mehr als alle seine Brüder (und) als alle seine (eigenen) Kinder.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓌸𓂋𓀁𓈖	72470	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mri̯
 2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
 3	𓀰	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
@@ -5588,6 +5931,7 @@
 # text_de = Ich wurde ⸢vor ih⸣nen ⸢durch⸣ Seine Majestät (⸗ Schabaka) ausgezeichnet.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓍿𓈖𓌙𓅯𓈖𓎡𓅱	175750	VERB	verb	Number=Sing|Gender=Com|VerbForm=Conv	_	_	_	Translit=ṯni̯
 2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
 3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
@@ -5603,6 +5947,7 @@
 # text_de = Die Herzen der pat-Menschen wandten sich mir zu.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓄳𓂋𓂻	61900	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pẖr
 2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
 3	𓀰	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
@@ -5617,6 +5962,7 @@
 # text_de = Ich war bei jedermann beliebt.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [14]
 1	𓌸𓂋𓏏	72650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mrw.t
 2	𓀯	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
 3	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
@@ -5630,6 +5976,7 @@
 # text_de = Ich aber hatte mich von ihr als 20-jähriger Jüngling entfernt, als ich mit Seiner Majestät (⸗ Schabaka) nach Unterägypten ging.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [16] - [17]
 1	𓇋𓋴	31130	PART	particle	_	_	_	_	Translit=js
 2	𓎼𓂋𓏏	167730	PART	particle	_	_	_	_	Translit=gr
 3	𓁷𓂋𓈖𓈐	108340	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥri̯
@@ -5658,6 +6005,7 @@
 # text_de = (und) sie fand mich, indem ich erschienen war auf dem Horusthron.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [18]
 1	𓅠𓅓𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
 2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
 3	𓅱𓇋	44000	PRON	pronoun	PronType=Prs	_	_	_	Translit=wj
@@ -5673,6 +6021,7 @@
 # text_de = die beiden Kronengöttinnen (⸗ Doppeluräusschlange an der Krone kuschitischer Könige) hatten sich mit meinem Kopf vereinigt,
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [18]
 1	𓎸𓅓𓈖	123420	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ẖnm
 2	𓇅𓏏𓏭𓆗𓆗	43790	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜣḏ.tj
 3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
@@ -5687,6 +6036,7 @@
 # text_de = Sie war äußerst erfreut beim Anblick der neferu Seiner Majestät (⸗ Taharqa) so wie (es einst) Isis (war, als sie) ihren Sohn Horus erblickte, der auf dem Thron <seines> Vaters Osiris erschienen war, als er (noch) ein Jüngling im Inneren des Nests in Chemm⸢is⸣ war.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [18] - [19]
 1	𓃹𓈖𓈖	46050	VERB	verb	_	_	_	_	Translit=wnn
 2	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
 3	𓎛𓂝𓂝𓀠𓅱𓏏	102060	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḥꜥi̯
@@ -5728,6 +6078,7 @@
 # text_de = O starker König, du sollst leben, du sollst gesund sein so wie Horus für seine Mutter Isis lebt.
 # findspot = unknown
 # date = TIP - Roman times
+# lineRef = [22]
 1	𓇓𓏏𓈖𓀜	854276	_	epitheton-title	_	_	_	_	Translit=nswt-nḫt
 2	𓋹𓅱𓏏	38530	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥnḫ
 3	𓋴𓈖𓃀𓅱𓏏	851676	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=snb
@@ -5747,6 +6098,7 @@
 # text_de = Mut, Herrin des Himmels, Herrin der Götter.
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [C8]
 1	𓅐𓏏	69020	PROPN	entity-name	_	_	_	_	Translit=Mw.t
 2	𓎟𓏏𓏤𓇯	82080	_	epitheton-title	_	_	_	_	Translit=nb.t-p.t
 3	𓎺𓏏𓊹𓊹𓊹	400858	_	epitheton-title	_	_	_	_	Translit=ḥn.wt-nṯr.w
@@ -5759,6 +6111,7 @@
 # text_de = der Einzigartigste, der Kusch (⸗ nördliche Nubien) ausdehnte, der seinen Schrecken in 〈alle〉 Fremdländer gibt ohne zu prahlen;
 # findspot = Nubia
 # date = TIP - Roman times
+# lineRef = [27]
 1	𓌡	400101	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥ
 2	𓌡𓏏𓏭	44230	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜥ.tj
 3	𓊃𓅱𓋴𓐍𓎺	130740	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=swsḫ
@@ -5780,6 +6133,7 @@
 # text_de = Nechbet, indem sie Leben und Wohlergehen gibt.
 # findspot = unknown
 # date = unknown
+# lineRef = [1] - [3]
 1	𓇑𓏏𓃀𓊖	87120	PROPN	entity-name	_	_	_	_	Translit=Nḫb.t
 2	𓏙	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
 3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s

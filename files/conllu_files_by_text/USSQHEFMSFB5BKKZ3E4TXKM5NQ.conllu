@@ -1,0 +1,54 @@
+# sent_id = IBcDNSAf1t7q5kE1jpQNU5ePlps
+# corpus = sawmedizin
+# src_text_id = USSQHEFMSFB5BKKZ3E4TXKM5NQ
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 9,10-11,6: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sei gegrüßt, Amun! Sei gegrüßt, Ptah!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,10]
+1	𓇋𓐩𓏌𓆓𓏛	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓂋𓏤𓅆	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+5	𓇋𓐩𓏌𓆓𓏛	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+6	𓁷𓂋𓏤𓅆	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+
+# sent_id = IBcDNauSN73hIkZjpCiVQaX4w7A
+# corpus = sawmedizin
+# src_text_id = USSQHEFMSFB5BKKZ3E4TXKM5NQ
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 9,10-11,6: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sei gegrüßt, Amun! Sei gegrüßt, Ptah!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [9,11]
+1	𓇋𓐩𓏌𓆓𓏛	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓂋𓏤𓅆	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+5	𓇋𓐩𓏌𓆓𓏛	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+6	𓁷𓂋𓏤𓅆	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+
+# sent_id = IBcDNbfhqtP0mkjnvvnQtWTdIQ4
+# corpus = sawmedizin
+# src_text_id = USSQHEFMSFB5BKKZ3E4TXKM5NQ
+# src_text = sawmedizin:Papyrus Chester Beatty 8 (BM EA 10688)//〈rto. 9,10-11,6: 〉 Magischer Text
+# owner = Marc Brose
+# text_de = Sei gegrüßt, Amun! Sei gegrüßt, Ptah!
+# findspot = Upper Egypt (South of Assiut)
+# date = NK
+# lineRef = [rt. 9,12]
+1	𓇋𓐩𓏌𓆓𓏛	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+2	𓁷𓂋𓏤𓅆	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇋𓏠𓈖𓅆	26060	PROPN	entity-name	_	_	_	_	Translit=Jmn
+5	𓐩𓏌𓆓𓏛	854522	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=nḏ
+6	𓁷𓂋𓏤𓅆	107510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥr
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓊪𓏏𓎛𓅆	62980	PROPN	entity-name	_	_	_	_	Translit=Ptḥ
+

@@ -1,0 +1,150 @@
+# sent_id = IBUBd8oIQzRO1EqKr1OiBzOOLrM
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Die Ehrwürdige/Versorgte, seine Ehefrau, Zatchnum, geboren von (der Frau) Zatmontu.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓇋𓄪𓏏	25100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmꜣḫ.wt
+2	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎸𓅱𓅭𓏏	_	X	unknown	_	_	_	_	_
+5	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+6	𓏠𓈖𓍿𓅱𓅭𓏏𓁐	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5tkVJqmHUOdvQlmxyuU3qc
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Ehrwürdige/Versorgte bei Osiris, dem Herrn von Abydos, Anchu, geboren von (der Frau) Zatchnum.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓇋𓄪	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓐍𓂋	850795	ADP	preposition	_	_	_	_	Translit=ḫr
+3	𓊨𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+4	𓎟𓍋𓈋𓊖	400976	_	epitheton-title	_	_	_	_	Translit=nb-Ꜣbḏ.w
+5	𓋹𓈖𓐍𓅱	400209	PROPN	entity-name	_	_	_	_	Translit=Ꜥnḫ.w
+6	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓎸𓅱𓅭𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBdxPWW83O0EH5oi5tVSnfEmI
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Ehefrau Juefseneb.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓂻𓅱𓆑𓋴𓈖𓃀	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd5txznpIoEr8szz879Iy2gI
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Ehefrau Bebi.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.4]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓃀𓃀𓇋	400181	PROPN	entity-name	_	_	_	_	Translit=Bbj
+
+# sent_id = IBUBdQOKWNveJEhOgHBZRtEtuj4
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Seine Tochter Ita.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.5]
+1	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓀁𓏏𓏐𓏒	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd8cXXqYQzkyprQiGvZ9NKPI
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Menet, geboren von Itesanch.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.1]
+1	𓏠𓈖𓏏𓅭	550040	PROPN	entity-name	_	_	_	_	Translit=Mn.t
+2	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓇋𓏏𓆑𓋴𓋹	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd1QdS9vXuE3AvTsEGwvrL5Y
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Imeny, geboren von Zatchnum.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.2]
+1	𓇋𓏠𓈖𓇋𓇋	400002	PROPN	entity-name	_	_	_	_	Translit=Jmny
+2	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓎸𓅱𓅭𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd96USYWD5kWpuLFnr3YDnb8
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Zahor(?), geboren von Zatchnum.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.4]
+1	𓅃𓅭	_	X	unknown	_	_	_	_	_
+2	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓎸𓅱𓅭𓏏	_	X	unknown	_	_	_	_	_
+
+# sent_id = IBUBd3wfQi0dtkPehQw50mrIQnw
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Keki, geboren von Nesptah(?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [D.5]
+1	𓎡𓎡𓇋	_	X	unknown	_	_	_	_	_
+2	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓈖𓄓𓊪𓏏𓎛	400348	PROPN	entity-name	_	_	_	_	Translit=N.j-sw-Ptḥ
+
+# sent_id = IBUBd75uICzqBkR9hWFuVvtZmQs
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Asiate/Diener Sehetepibre.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.2]
+1	𓌙𓅓	35400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥꜣm
+2	𓇳𓋴𓊵𓏏𓊪𓄣	400688	PROPN	entity-name	_	_	_	_	Translit=Sḥtp-jb-Rꜥw
+
+# sent_id = IBUBd4lLDdikckIGur126BuuPeI
+# corpus = sawlit
+# src_text_id = 5WW5YQ3JMZFPTEGT3HMQZ2N6ZU
+# src_text = sawlit:Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)//〈Stele des Sehetepibre und Ankhu (Liège I/630 ⸗ Eg. 24)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Träger (?) ..., Ugem (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [E.3]
+1	𓅷𓅱	_	_	_	_	_	_	_	_
+2	𓂋	_	_	_	_	_	_	_	_
+3	𓇿	_	_	_	_	_	_	_	_
+4	𓅱𓅠𓅓	861027	PROPN	entity-name	_	_	_	_	Translit=Wgm
+

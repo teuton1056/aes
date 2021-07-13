@@ -1,0 +1,2994 @@
+# sent_id = IBUBd6W0FeF2tECcqUucvlOIK4E
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Erfahrungswissen zum Magenleiden:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,4]
+1	𓈙𓊃𓐟𓄿𓏲𓄃𓏛𓏥	157100	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šsꜣ.w
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+4	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-jb
+
+# sent_id = IBUBd5mUCQPwpkXToSxW8NbzQXI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Das ist ein Vorfall der Leber."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,8] - [36,9]
+1	𓊃𓊪𓏲𓊗𓏥	132480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mjz.t
+
+# sent_id = IBUBd4Z9pksdnENFn03KQD6VzUw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Nachdem dies getan wurde, wenn du (dann) die beiden "Kanäle" in seinem Rumpf vorfindest, indem die rechte Körperhälfte warm ist (und) die linke Körperhälfte kühl, dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,12] - [36,14]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+5	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+6	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓈘𓈇𓏲𓏭	71840	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=mr
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+13	𓋀𓅓𓏭𓂢	46770	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wnm.j
+14	𓊮	154890	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šmm
+15	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+16	𓋁𓃀𓏭𓂢	20610	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=jꜣb.j
+17	𓈎𓃀𓏁𓈗	160170	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qbb
+18	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+19	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+20	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+21	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd9bi3bcCwk2TvwrA4ovV7ws
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Das ist eine Krankheit beim Bändigen (?) ihres Fressens."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,14] - [36,15]
+1	𓆼𓄿𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣ.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁷𓏤	107520	ADP	preposition	VerbForm=Fin	_	_	_	Translit=ḥr
+4	𓅓𓂝𓐍𓏏𓀜	74220	VERB	verb	VerbForm=Fin	_	_	_	Translit=mḫ
+5	𓏶𓅓𓀁	46710	VERB	verb	VerbForm=Fin	_	_	_	Translit=wnm
+6	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd81NqWQNB0vuu6wE6BcNNbw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihn erneut betrachten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,15]
+1	𓄙𓅓𓀁𓐍𓂋	48440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓌴𓁹𓄿𓈖	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzwu8zeq2UpukqYceDSiQG8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du seinen Rumpf gänzlich (ab)gekühlt vorfindest, sollst du sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,15] - [36,16]
+1	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈎𓃀𓏁𓈗𓍘𓇋	160170	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=qbb
+6	𓂋𓇥𓂋	92500	ADP	preposition	_	_	_	_	Translit=r-ḏr
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdx7i6dEhpUQ4rWhXgcG25TE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = „Seine Leber ist geöffnet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,16]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈘𓈇𓋴𓏏𓄹	68520	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mjz.t
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊪𓐍𓆼𓄿𓍸𓏛𓍘𓇋	61730	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=pḫꜣ
+
+# sent_id = IBcBFlb5EawBMEHYrfmqWl75IyY
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = 〈Sie〉 (?) hat sich (?) gewässert (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,16] - [36,17]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓈖	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+3	𓈖𓍑𓄿𓍑𓄿𓈗𓍘𓇋	91290	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nḏꜣḏꜣ
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBcBFpNLG9WGJUzOp5O6WWFnXw0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Er hat das Mittel angenommen.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,17]
+1	𓊏𓊪𓂝𓈖	157160	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šzp
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+
+# sent_id = IBUBd5AP2pC20E8HpWwR4LHftWc
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der an seinem Magen leidet,    wobei ihm alle seine Körperteile schwer sind wie (bei) einem Ausbruch (?) von Müdigkeit,   dann sollst du deine Hand auf seinen Magen legen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,17] - [36,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓂝𓏏𓄹𓏥	854495	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ꜥ.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓎟𓏏	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+13	𓂧𓈖𓋴𓍖𓊌𓍘𓇋	179910	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=dns
+14	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+16	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+17	𓃀𓋴𓏲𓆟𓂻𓏥	57370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bz.w
+18	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+19	𓅨𓂋𓂧𓏏𓀋𓅪𓏥	48270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wrḏ.t
+20	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+21	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+22	𓂧𓂋𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+23	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+24	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+25	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+26	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2NbYiSov0P3kQogqrvXK70
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = (Und) findest du seinen Magen hustend (?) vor, während (er) unter deinen Fingern geht und kommt, dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,20] - [36,21]
+1	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓂋𓏲𓐎	863037	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=sr
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓈝𓅓𓂻	154340	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šmi̯
+8	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+9	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+10	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+15	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd2ZMqcAQWkRliqdHRAqaKPE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Das ist eine Trägheit des Essens, die zuvor verhindert (wörtl.: nicht zugelassen) hat, dass er isst."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [36,21] - [37,1]
+1	𓇑𓇑𓈖𓈖𓇋𓏲𓀉𓅨	84700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nnw
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓏶𓅓𓀁	46720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnm
+5	𓍃𓅓	854578	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=tm
+6	𓂋𓂝	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+7	𓏶𓅓𓀁	46710	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓏃𓈖𓏏	119350	ADV	adverb	_	_	_	_	Translit=ḫnt.w
+
+# sent_id = IBUBdWQ41JGZwE3ooQLZ9WOO0cI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst zu ihm irgendein (Abführmittel), ihn (zu) öffnen, machen - Kerne von Datteln, werde ausgepresst mit verdorbenem Bier -, so dass (?) sein Appetit (wörtl.: das Essen seines Brotes) (wieder)kommt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,1] - [37,2]
+1	𓁹𓐍	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊪𓐍𓆼𓄿𓍸𓏛	61730	VERB	verb	VerbForm=Fin	_	_	_	Translit=pḫꜣ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+8	𓈖𓇋𓇋𓏏𓈒𓏥	26930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jnj.t
+9	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+10	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+11	𓂝𓏏𓐍𓂝	41820	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥtḫ
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+14	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+15	𓄿𓈎𓅪	290	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣq
+16	𓂻𓏲	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+17	𓏶𓅓𓀁	46720	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=wnm
+18	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=tʾ
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7Q574uYc0JSoVbAZlb2GUw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du ihn untersuchst, nachdem dies getan wurde, (und) du findest seine Seite erhitzt (und) seinen Rumpf (ab)gekühlt vor, dann sollst du sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,2] - [37,3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂝	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+8	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓇥𓂋𓏲𓄹	185060	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏrw.w
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓈙𓅓𓊮	154890	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šmm
+13	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓈎𓃀𓏁𓈗𓍘𓇋	160170	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=qbb
+16	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+17	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQdhmQaLR02qm25UElxirEg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Seine Trägheit ist abgegangen."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,3] - [37,4]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇑𓇑𓈖𓈖𓇋𓏲𓅪𓏥	84700	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nnw
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+
+# sent_id = IBUBd1MnRr48DEU3tggEmCWFB3s
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Du sollst (aber) veranlassen, dass er seinen Mund vor irgendwelchem Verbrannten (Fleisch) hütet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,4]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅓𓂝𓎢𓏛	77020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mki̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓍑𓄿𓆑𓄹𓏥	182130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣf
+9	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd4usklnKzURwms27WWX08uk
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Das sind Versteifungen (?) an seinen beiden Seiten, wobei sich sein Magen eingeengt hat."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,6]
+1	𓋴𓎀𓊃𓍞𓏲𓐎𓏥	149460	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sṯz.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓇥𓂋𓏲𓏲𓄹𓄹	185060	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=ḏrw.w
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+7	𓎛𓆰𓈖𓋴𓈐𓈖	400975	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥns
+8	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxenlx60iENTrnGBnQdgjoE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm starke Mittel zum Trinken bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,6] - [37,7]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓍱𓊃𓅓𓏲𓏪	157490	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šsm
+7	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+8	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	VerbForm=Fin	_	_	_	Translit=zwr
+
+# sent_id = IBUBd9vifmWg2kPMrvs7de1eeAw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde dazu (d.h. auf den $ꜣḥ$-Brei?) gegeben;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,8]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzK31XVVXk0Ms8OTaQ3tYZ0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = werde zu einer Masse verkocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,8] - [37,9]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd5G4NSa6PEWAp0cWWWHB5xU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du ihn danach untersuchst, und du findest ihn in seinem Leiden(szustand) des ersten Falles, dann bedeutet das, dass er gesund werden wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,9] - [37,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓𓆱𓐍𓏏𓂻	65310	ADV	adverb	_	_	_	_	Translit=m-ḫt
+6	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓆼𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜣ.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+13	𓊃𓊪𓊗	132480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp.w
+14	𓁶𓊪𓏭	171460	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=tp.j
+15	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd4FKrG2OlE3AggFVkO5jAHA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der an seinem Magen leidet,    wobei er (auch?) an seinem Arm, seiner Brust und der Seite seines Magens leidet,    wozu man sagt, dass das eine Grünfärbung sei,   dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,10] - [37,12]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓎼𓄿𓃀𓂢	166900	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gbꜣ
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓏠𓈖𓂧𓂑𓄹	71720	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mnḏ
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+18	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+19	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+21	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+22	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+23	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+24	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+25	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+26	𓇅𓏤𓐎𓏥	43580	VERB	verb	_	_	_	_	Translit=wꜣḏ
+27	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+28	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+29	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+30	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+31	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdznbIPQHIkF7pCBtQQodfnU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = „Es ist etwas, das durch den Mund (oder: als Zauberspruch) eingetreten ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,12]
+1	𓅧𓈎𓏏𓂻	41180	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥq
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd2zuQvhUR0aei36XV8wmeak
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Es ist der Tod (oder: ein Toter), der ihn durchfahren hat.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,12]
+1	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓐍𓈖𓋴𓂻	118590	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫnz
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0oPLrLXqkp4uqgQd1bHCik
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm $ḏdb$-artige Kräutermittel bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,12] - [37,13]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓆓𓂧𓃀𓐣𓂝	186170	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏdb
+7	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+8	𓋴𓄧𓅓𓇋𓇋𓏏𓆰𓏥	134870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sm.yt
+
+# sent_id = IBUBdxTdcH80WUQMjSWHzdOsdLI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Früchte/Samen der $tḥwꜣ$-Pflanze: 1, $ḫꜣs.yt$-Pflanzen: 1, Polei-Minze (?): 1, Konyza (?): 1, $dšr.w$-Schrot (?) der $sẖ.t$-Gerste: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,13] - [37,14]
+1	𓍁𓏏𓏥	60310	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=pr.t
+2	𓏏𓎛𓍯𓄿𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+3	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+4	𓆼𓄿𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+5	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓈖𓇋𓏲𓇋𓏲𓆰𓏥	79950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣjꜣ
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓇋𓆛𓈖𓈖𓎢𓆰𓏥	27520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnnk
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓂧𓈙𓂋𓏲𓏯𓈒𓏥	180900	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=dšr.w
+11	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+12	𓊃𓄡𓏏𓈒𓏥	143330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sẖ.t
+13	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd9IRHPE7P0AznWlSErVQQf0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,14]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+
+# sent_id = IBUBdySVsRA7Dk9jk9yJNHxzWog
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde vom Mann getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,14]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBUBdQ8SH5Ne6kbdh3Ya1Y1Rm6o
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du deine Hand auf ihn legen, indem sie gebeugt ist, bis dass es dem Arm gut geht, frei vom Elend.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,15]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈎𓂝𓎛𓂢𓂝𓍘𓇋	159810	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=qꜥḥ
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓇛𓅓𓏛	500020	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏm
+10	𓎼𓄿𓃀𓂢	166900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gbꜣ
+11	𓆄𓏲𓅪	152670	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šwi̯
+12	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+13	𓇋𓉔𓐎𓅪	174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣh.w
+
+# sent_id = IBUBd8Ddlp6zYkc2pZr0JNemPd0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,15]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd4sVqCyWUUoeuS4WbQvVQJ4
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Dieses Elend ist hinabgestiegen zum Mastdarm und zum Rektum.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,16]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓄿𓉔𓐎𓅪	174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣh.w
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈎𓄿𓃀𓄲𓏛𓌷𓂝𓏛	159320	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜣb-mꜣꜥ
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓄖𓏲𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+
+# sent_id = IBUBdx1bfnfFZkXPjsls4NOecCw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Nicht soll (?) ich das Mittel jemals wiederholt (anwenden) (müssen)."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,16] - [37,17]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓄙𓅓𓀁	48440	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+5	𓂋𓏤𓋴𓏭𓈐	96030	ADV	adverb	_	_	_	_	Translit=rsj
+
+# sent_id = IBUBd3NiDd2vCkL9sou4hOp7jWg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der an seinem Magen leidet,    wobei er oft erbricht,   und wenn du es (d.h. das Krankheitsphänomen?) vorn an seiner Vorderseite findest,    wobei seine Augen entzündet/gerötet sind    und wobei seine Nase läuft (?),   dann sollst du sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,17] - [37,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂝	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈎𓄿𓋴𓂐𓀁	159720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qjs
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓆈𓏥	450155	ADV	adverb	_	_	_	_	Translit=ꜥšꜣ
+14	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+15	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+16	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+17	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+18	𓏃𓈖𓏏𓇋𓇋	119130	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫnti̯
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓄂𓂝𓏤	100310	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.t
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+22	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+23	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+24	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+25	𓍱𓊃𓅓𓍘𓇋𓇋𓏭	157480	VERB	verb	Number=Dual|Gender=Fem|VerbForm=Conv	_	_	_	Translit=šsm
+26	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+27	𓂉𓏏𓏤𓄹	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+28	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+29	𓏏𓍔𓄿𓐍𓃀𓄹	173210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tḫb
+30	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+31	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+32	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+33	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+34	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9nuLec7REWqp5tnUYrxiSg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Das sind Fäulnisprodukte seines Sekrets.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [37,19]
+1	𓋴𓎛𓍯𓄿𓏲𓐎𓏥	863039	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḥwꜣ.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+4	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=st.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1uk4JGKJU3JnpiqtlRJVlY
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde gegessen von einem Mann (und) werde hinuntergeschluckt mit Bier vom Extraopfer (?), bis dass sich seine Augen öffnen und sein Schnupfen verschwindet (und schließlich) in Form von Sekret abgegangen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,2] - [38,3]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓋴𓂝𓅓𓄈𓀁	128840	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥm
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓇉𓄿𓏲𓏛𓏥𓐍𓏏𓏛𓏥	101220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣ.w-jḫ.t
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓃹𓈖𓉿𓂝	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+11	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+12	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+13	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+14	𓊄𓂻	131460	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zbi̯
+15	𓏅𓈖𓏏𓂉𓏥	118820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫnt
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓉔𓄿𓄿𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+
+# sent_id = IBUBd12boFA5lU7lrOSSsUdjHDk
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = (Und) findest du sein Leiden und (?) seine Verdickungen (?) zitternd (?) vor, indem sie mit spitzen Fingern auf ihm ist (?), dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,4] - [38,5]
+1	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓆼𓄿𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫꜣ.t
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓏲𓂸𓏏𓏯𓏥	130080	VERB	verb	Number=Plur|Status=Pron	_	_	_	Translit=swmt
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓄫𓏲𓂋𓀁	55	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜣwr
+8	𓇮𓍘𓇋	500142	VERB	verb	VerbForm=Conv	_	_	_	Translit=spd
+9	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏbꜥ
+10	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+15	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9WguHDopEAtqdlRQoO8ljI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Es ist eine Anhäufung von Kot (oder: Krankheitsauslösern (?)),
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,5]
+1	𓊃𓐍𓈖𓐎	142540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zḫn
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+
+# sent_id = IBUBdwoRZTgQTEVfoWiYbZ2p1lg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = bevor sie sich festgesetzt hat."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,6]
+1	𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋭𓊃𓏏𓈇	176800	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd6F5nkhGrk2QupJHcPtWjyY
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm Kräutermittel machen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,6]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓋴𓄧𓅓𓇋𓇋𓏏𓆰𓏥	134870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sm.yt
+
+# sent_id = IBUBd4XwjCJgm057j7YLcSP9ujc
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde gegessen (und) werde mit süßem Bier verschluckt, so dass er sofort gesund wird.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,9] - [38,10]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓋴𓂝𓅓𓄈𓀁	128840	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥm
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+5	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓁷𓏤𓂝𓏤𓏲𓏭	107860	ADV	adverb	_	_	_	_	Translit=ḥr-ꜥ.wj
+
+# sent_id = IBUBd3p0dv15EEVFrkXr0rEYCpI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der an seinem Magen leidet,    wobei er (auch?) an seinem Arm, seiner Brust und der Seite seines Magens leidet,    wozu man sagt, dass das eine Grünfärbung sei,   dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,10] - [38,12]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓎼𓄿𓃀𓂢	166900	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gbꜣ
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓏠𓈖𓂧𓂑𓄹	71720	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=mnḏ
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gs
+18	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+19	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+20	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+21	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+22	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+23	𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+24	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+25	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+26	𓇅𓏤𓐎	43580	VERB	verb	_	_	_	_	Translit=wꜣḏ
+27	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+28	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+29	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+30	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+31	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd81adsXWMUbfm0xguzxPQ3M
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = „Es ist etwas, das durch den Mund (oder: als Zauberspruch) eingetreten ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,12]
+1	𓅧𓈎𓏏𓂻	41180	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=ꜥq
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+4	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBdynPoufBMU7gkL8NW5MqDbI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Es ist der Tod (oder: ein Toter), der ihn durchfahren hat.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,12]
+1	𓅓𓏏𓏱	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓐍𓈖𓋴𓂻	118590	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḫnz
+4	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd2TdzRX7NU79kcmjc8pWKU4
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = $tḥwꜣ$-Pflanzen: 1, $ḫꜣs.yt$-Pflanzen: 1, Polei-Minze (?): 1, Konyza (?): 1, Schrot (?) der $sẖ.t$-Gerste: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,13] - [38,14]
+1	𓏏𓎛𓍯𓄿𓈒𓏥	852327	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tḥwꜣ
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓆼𓄿𓋴𓇋𓇋𓏏𓆰𓏥	114330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣs.yt
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈖𓇋𓏲𓇋𓏲𓆰𓏥	79950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=njꜣjꜣ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓇋𓆛𓈖𓈖𓎢𓆰𓏥	27520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnnk
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓂧𓈋𓏲𓈒𓏥	450193	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=dwḏw
+10	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+11	𓊃𓄡𓏏𓈒𓏥	143330	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=sẖ.t
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd6GCC9fecUtUhSdPjd7oyT4
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde mit Bier gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,14]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+
+# sent_id = IBUBdwBbgijtD03Qg70cz6Sojs8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde vom Mann getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,14]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBUBd3WMzJSGckovpGECehDsa6U
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,16]
+1	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdyGXsjbLSkBeuzkoflgWXZg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Dieses Leiden ist hinabgestiegen zum Mastdarm und zum Rektum.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,16]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓇋𓉔𓐎𓅪	174	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣh.w
+3	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+4	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+5	𓈎𓄿𓃀𓄲𓄹𓌷𓂝𓏛	159320	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=qꜣb-mꜣꜥ
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓄖𓏲𓇋𓇋𓏏𓄹	61520	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pḥ.wyt
+
+# sent_id = IBUBd60EmRnS50LWuArBQQIhUnQ
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Nicht soll (?) das Mittel jemals wiederholt (angewendet) werden (müssen)."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,17]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓄙𓅓𓀁	48440	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wḥm
+3	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓂋𓊃𓏭𓈐	96030	ADV	adverb	_	_	_	_	Translit=rsj
+
+# sent_id = IBUBd8ngyXqrv0e3oX3fRDQ3mv8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der an seinem Magen leidet,    wobei er oft erbricht,   (und) wenn du es (d.h. das Krankheitsphänomen?) vorn an seiner Vorderseite findest,    wobei seine Augen entzündet/gerötet sind und    wobei seine Nase läuft (?),   dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,17] - [38,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓈎𓇋𓋴𓀁	159720	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=qjs
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓆈𓏥	450155	ADV	adverb	_	_	_	_	Translit=ꜥšꜣ
+14	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+15	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+16	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+17	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+18	𓏅𓈖𓏏𓍘𓇋𓇋	119130	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ḫnti̯
+19	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+20	𓄂𓏏𓏤	100310	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜣ.t
+21	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+22	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+23	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+24	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+25	𓍱𓊃𓅓𓍘𓇋𓇋𓏭	157480	VERB	verb	Number=Dual|Gender=Fem|VerbForm=Conv	_	_	_	Translit=šsm
+26	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+27	𓂉𓏏𓏤	63920	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=fnḏ
+28	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+29	𓏏𓍔𓄿𓐍𓃀𓐎	173210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=tḫb
+30	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+31	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+32	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+33	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+34	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1HRE2TQZEiGheThc4bcUcs
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Das sind Fäulnisprodukte seines Sekrets.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [38,19]
+1	𓋴𓎛𓍯𓄿𓏲𓐎𓏥	863039	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḥwꜣ.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+4	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=st.t
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd458oRkkbUydnFjoxGAhViI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde gegessen von einem Mann (und) werde hinuntergeschluckt mit Bier vom Extraopfer (?), bis dass sich seine Augen öffnen und sein Schnupfen verschwindet (und schließlich) in Form von Sekret abgegangen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,1] - [39,2]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓋴𓂝𓅓𓄈𓀁	128840	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜥm
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓇉𓄿𓏲𓏛𓏥𓐍𓏏𓏛𓏥	101220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣ.w-jḫ.t
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓃹𓈖𓉿𓂝	46060	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wn
+11	𓁹𓁹	28250	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=jr.t
+12	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+13	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+14	𓊄𓂻	131460	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zbi̯
+15	𓏅𓈖𓏏𓏏𓂉𓏥	118820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫnt
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓄝𓏏𓏏𓐎𓏥	147400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=st.t
+
+# sent_id = IBUBd4TcGFyTpUiWje4hycn5GOE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der daran zeitweilig leidet wie am Essen von Kot (?),    wobei sein Herz müde ist wie (bei) einem, der keucht (?), wenn er läuft (?),   dann sollst du sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,2] - [39,4]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓃹𓈖𓏌𓏲𓏏𓇼𓇳𓏥	46420	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wnw.t
+10	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+11	𓏶𓅓𓏲𓀁𓏪	46720	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wnm
+12	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+13	𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+14	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+15	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓃀𓅡𓄿𓎼𓀉𓅪	53990	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=bꜣgi̯
+18	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+19	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+20	𓎢𓎛𓏲𓀁	861324	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=kḥ
+21	𓐍𓊪𓂻	116050	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḫpi̯
+22	𓆓𓂧𓐍𓂋	185810	VERB	verb	_	_	_	_	Translit=ḏd
+23	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd1neVcR2DkYxp0WZIEsJ3H0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Das ist eine $ḥnw.t$-Versperrung (?) eines Haufens (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,4]
+1	𓎛𓆰𓈖𓏌𓅱𓏏𓏛𓏥	872150	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnw.t
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓍿𓊃𓏲𓍞𓐎𓏥	177260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯz.w
+
+# sent_id = IBUBd0G7WFbajUj6nT3sL4zMk4o
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Er kann nicht hochgebracht werden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,5]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋴𓎀𓊃𓍞𓀁𓈖𓏏𓏲	149390	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sṯzi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0lLazT86k4ajMkb084yuUw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Das Herz (des Patienten) ist nicht froh über diesen schlimmen Fall.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,5]
+1	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+2	𓎝𓎛𓏛	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+3	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓊃𓊪𓊗	132480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp.w
+6	𓎛𓅨𓂋𓏲𓀔𓅪	400950	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ḥwrw
+
+# sent_id = IBUBdy43buG9Wk9HgTZHDFUhwAA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Er hat einen $ḫzd$-Abszess (?) erzeugt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,5]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓐍𓊃𓂧𓐎	121080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḫzd
+
+# sent_id = IBUBd9ic6bAZ6UdEjCqmKGNQr1A
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = (Es sind) Fäulnisprodukte des Eiters.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓋴𓎛𓍯𓄿𓐎𓏥	863039	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=sḥwꜣ.w
+3	𓂋𓇋𓇋𓏏𓐎𓏪	93200	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ry.t
+
+# sent_id = IBUBd1QN7241VkfevJMLRhlRXgU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Das Leiden hat Druck ausgeübt (?)."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓐥𓆓𓏛𓈖	78770	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḏd
+3	𓆼𓄿𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣ.t
+
+# sent_id = IBUBdyvLg8ASJ0uhnjtXfTCKPrI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm Mittel, sie (zu) zerbrechen, als Heilmittel bereiten.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,6] - [39,7]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓈖𓎼𓏏𓏴	89630	VERB	verb	VerbForm=Fin	_	_	_	Translit=ngi̯
+8	𓋴𓏏	851173	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗st
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUBdWhdckMgskTRt2U9uw72OnM
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann findest, der an seinem Magen leidet, wobei sein Leib gänzlich fremdartig verschrumpelt ist,   (und) wenn du ihn untersuchst (und) du kein Leiden in (seinem) Rumpf vorfindest außer der $ḥnw.t$-Erscheinung des Leibes, (die) wie das $py.t$-Phänomen (ist),   dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,7] - [39,9]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+10	𓎛𓂝𓄹𓏥	854529	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥꜥ.w
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓐍𓌴𓁹𓄿𓄿𓀔	116990	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫmꜣꜣ
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓈙𓌴𓄿𓇋𓇋𓏲𓏱	854558	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=šmꜣ
+15	𓂋𓇥𓂋	92500	ADP	preposition	_	_	_	_	Translit=r-ḏr
+16	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+17	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+18	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+19	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+20	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+21	𓂜	850806	PART	particle	_	_	_	_	Translit=n
+22	𓅠𓅓𓈖	167210	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+23	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+24	𓆼𓄿𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫꜣ.t
+25	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+26	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+27	𓄋𓊪𓏲𓏴𓁷𓏤	851443	ADP	preposition	_	_	_	_	Translit=wpw-ḥr
+28	𓎛𓆰𓈖𓅱𓏏𓄹	106390	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnw.t
+29	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+30	𓎛𓂝𓄹𓏪	854529	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥ.w
+31	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+32	𓊪𓇋𓇋𓏏𓈒	59530	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=py.t
+33	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+34	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+35	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+36	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8pd1LcI1E2WmVuwHr30FqY
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Das ist Kummer deines Hauses (???)."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,9] - [39,10]
+1	𓈖𓎛𓇉𓄿𓀁	85980	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nḥꜣ
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd0a4y3Np1UKJhQlOjHvN4S8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm Mittel dagegen bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,10]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd1go1QxSRkmFlnnJ6XfRBfw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Ocker von Elephantine, zermahlen, Leinsamen (?), Johannisbrot.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,10] - [39,11]
+1	𓏙𓏙𓈒𓏥	177900	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dd
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓋁𓃀𓏲𓈉	81	PROPN	entity-name	_	_	_	_	Translit=Ꜣbw
+4	𓐩𓏌𓂝	90880	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=nḏ
+5	𓂧𓈙𓈒𓏥	180740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dšr
+6	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+
+# sent_id = IBUBd3pUONhN80Zfj9XbIgkJfpA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett und Honig gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,11]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBUBd2Mu0eWPTEOtmpB5BouXb4I
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = „Das ist Blut, ein Nest,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,14]
+1	𓊃𓈖𓆑𓂐𓏥	137250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=znf
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓅹	144360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zš
+
+# sent_id = IBUBd1cv9uWB1EEftXED6WdoRhc
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = bevor es geronnen ist.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,14]
+1	𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋭𓊃𓏏𓈇	176800	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7cBB3KrFkqNlcYpmc5Potc
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du veranlassen, dass (es) abgeht durch das (folgende) Heilmittel.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,14] - [39,15]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+
+# sent_id = IBUBd93ehFio3kjpuFEZFmvATvw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm machen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,15]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxp8lh1cFEoRiFJWYo3gPkk
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde mit Bier vom Extra-Opfer (?) gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,16]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓇉𓄿𓏲𓏛𓏥𓐍𓏏𓏛𓏥	101220	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣ.w-jḫ.t
+
+# sent_id = IBUBdzUxKfkUjEyxhjwAUf59imc
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde vom Mann getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,17]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+
+# sent_id = IBUBd0nAumcfrUvBpnK46Nn3Afs
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm eine ordentliche, erstklassige Salbe bereiten aus Fett vom Rind, dem $ꜥr$-Teil vom Sellerie, $šꜣw.yt$-Pflanzen, Myrrhe und $ꜥꜣg.yt$-Pflanzenprodukt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,19] - [39,21]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖𓍇𓏌𓏲𓆓𓂧𓈒	81590	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nwd.t
+6	𓁶𓊪𓏏	171460	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=tp.j
+7	𓌷𓂝𓏏𓏯𓏛	66460	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=mꜣꜥ
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḏ
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓃒𓏤	30410	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jḥ
+12	𓂝𓂋𓈒	39180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥr
+13	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+14	𓌴𓏏𓏏𓆰𓏥	67500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mꜣt.t
+15	𓆷𓄿𓏲𓇋𓇋𓏏𓆰𓏥	151320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜣwy.t
+16	𓂝𓈖𓅂𓏌𓏥	39010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnt.w
+17	𓉻𓂝𓄿𓎼𓏏𓆱𓏥	35500	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥꜣg.yt
+
+# sent_id = IBUBdyi4noy3LkuvuPJ1W3dEmEE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde zermahlen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,21]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBd8Sdgf3Le0szmJeCE6MvXJ0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [39,21]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd1uoAalnDUcQqrEQAVruy04
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Sie wird durch seinen Mund abgehen durch (?) Pflanzenbrei."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,2]
+1	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=hꜣi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓂋𓏤	92560	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓎛𓋴𓐟𓄿𓈗	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+
+# sent_id = IBcAFQiGV0QRQUC7ppeMEKrhLqw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde vermengt;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,3]
+1	𓈙𓃀	153350	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=šbi̯
+
+# sent_id = IBcAF3zYWArf4UFuhAsHTiWph6g
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = werde ausgepresst mit/zu (?) männlichem Pflanzenbrei;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,3]
+1	𓂝𓏏𓐍𓀜	41820	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥtḫ
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓎛𓋴𓐟𓄿𓈗	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+4	𓅷𓄿𓇋𓇋𓂺	174250	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=ṯꜣ.y
+
+# sent_id = IBUBd0e1rpd100dLuyF0nLN9G08
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,3]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBdzpoJZWT00LAivHKqjLRtQc
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = werde mit Öl/Fett und Honig gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,3] - [40,4]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBUBdQ9thGhvDUwDhveDTjIfF34
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der an seinem Magen leidet, (und) findest du es (d.h. das Leiden) an seinem Rücken vor wie die Last eines Gestochenen/Gebissenen, dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,5] - [40,6]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂝	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+12	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+13	𓊪𓊃𓂧𓄧𓄹	62400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=psḏ
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+16	𓄿𓏏𓊪𓏲𓀋𓂝𓏥	324	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣṯp.w
+17	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+18	𓌨𓂋𓏭𓌪𓏏𓏤	124400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ẖr.j-dm.wt
+19	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+20	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+21	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+22	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdQnzMRGsmkeempNIT7WFhyQ
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = „Krankheitsauslöser (?) sind es, die seinen Rücken angreifen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,6] - [40,7]
+1	𓏲𓐍𓂧𓏲𓐎𓏥	49410	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wḫd.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓏏𓉔𓂻𓏥	172920	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=thi̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓊪𓊃𓂧𓄧𓄹	62400	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=psḏ
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxZIIsMhGU1Av0fAiJhbmH0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Eine Krankheit (ist es), die ich mit Mitteln der Nach(behandlung) behandeln werde.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,7]
+1	𓍋𓅓𓂋𓅪	71810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+2	𓁹𓇋𓇋	851809	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=jri̯
+3	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓐟𓏤	865670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣ
+
+# sent_id = IBUBd6WBkSWnxkI1kBqUTVbuxxw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Gehe dagegen vor!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,7]
+1	𓅧𓈎𓂻	41180	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥq
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdy6s5ZlmW0sBr8vLrCRCY84
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Meide sie nicht!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,7]
+1	𓅓	64410	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=m
+2	𓃀𓎁𓂻	854510	VERB	verb	VerbForm=Fin	_	_	_	Translit=bṯ
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBd3IiDcbHakvUm92s2PWYHVo
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Du sollst dagegen $ḫmt$-Mittel des $ḏsf.w$ bereiten und ihm ein Heilmittel für die Nach(behandlung) geben:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,7] - [40,8]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓐍𓂸𓏏𓏲𓏪	117420	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫmt
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓆓𓋴𓆑𓏲𓊮	863043	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏsf.w
+8	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+9	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+13	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓐟𓏤	865670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sꜣ
+
+# sent_id = IBUBdyybJDHJJUkWiIdBe2WsMnc
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,9]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBd8fU8Ok7uk3soJhacF0Wua0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = werde mit Bodensatz von süßem Bier gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,9] - [40,10]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓏏𓍔𓄿𓎛𓏏𓅯𓏌𓏥	169590	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tꜣḥ.t
+4	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+5	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+6	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+
+# sent_id = IBcAF46x3LCEu0hmvnYunYjJYks
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Sie (d.h. die Verstopfung) ist wie (diejenige einer) $nsy.t$-Dämonin/Krankheit, nachdem sie sich im Bauch festgesetzt hat.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,12]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+4	𓈖𓄓𓋴𓇋𓇋𓏏𓏱	87970	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nsy.t
+5	𓋭𓊃𓈇𓂝𓈖	176800	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+6	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+7	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ẖ.t
+
+# sent_id = IBUBdx9tEYsXmE99tkQbTGuHKME
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm bereiten: $tjꜥm$-Pflanzen: 1, $šꜣšꜣ$-Pflanzen: 1, $gw$-Gras vom Ufer: 1, $gw$-Gras vom Garten: 1, Johannisbrot: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,12] - [40,13]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓍘𓂝𓅓𓆰𓏥	169940	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tjꜥm
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓆷𓄿𓆷𓄿𓈒𓏥	151960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣšꜣ
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓎗𓃀𓈀𓈇𓏤	52640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏb
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓎼𓇋𓏲𓆰𓏥	166660	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=gj.w
+14	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+15	𓎛𓋴𓊪𓈇𓏤	109980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzp
+16	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+17	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+18	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd8Jlu15o6EtQqz4XtMWgnXQ
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde mit süßem Bier gekocht, so dass du diesen Fall der $hy.t$-Dämonin zerbrichst.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,14]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓈖𓍱𓍱𓏴	89630	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ngi̯
+7	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓊃𓊪𓊗	132480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp.w
+9	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+10	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓉔𓇋𓇋𓏏𓏱	97830	PROPN	entity-name	_	_	_	_	Translit=Hy.t
+
+# sent_id = IBUBd2JRMMvXeUYWuUQQW7DyAtI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Eine $ṯꜣ.w$-Ansammlung (?) von Kot ist es,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,16]
+1	𓅷𓄿𓏲𓀜	851697	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+3	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+4	𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+
+# sent_id = IBUBd2QlWsmMgkgtv9VUbeh4mfI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = bevor sie sich festgesetzt hat."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,16]
+1	𓈖	850806	PART	particle	_	_	_	_	Translit=n
+2	𓋭𓊃𓏏𓈇𓂝	176800	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdws2vtmra0A6q4FJmb5A4YE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm einen Trank bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,16] - [40,17]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓋴𓅨𓂋𓏏𓇋𓏏𓈗𓀁	130400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zwr.t
+
+# sent_id = IBUBd4ckL3BeS0cFufTHyf5qFwA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der an seinem Magen leidet, dann musst du eine Hand auf ihn legen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,18] - [40,19]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓂋𓂝𓇋𓈖	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+11	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+12	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdWg4nVxcOEpzl373aG03UPo
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du herausfindest, dass es (d.h. das Leiden?) sich an seiner rechten Seite festgesetzt hat, dann sollst du sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,19] - [40,20]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓋭𓊃𓈇𓂝𓈖	176800	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+5	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓐛𓏤	854572	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=gs
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓋀𓅓𓏭𓂢	46770	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wnm.j
+10	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdQojxm0qakx5i34Kwks8YS0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "(Es) hat sich zusammengeballt (?) und einen Klumpen (?) gebildet."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,20]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅷𓄿𓂡𓈖	174260	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣi̯
+3	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+4	𓂧𓊪𓈒	178960	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dp
+
+# sent_id = IBUBd9oShbqloksvvYxUqdOpVvw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm Mittel dagegen in Form von sofort (wirksamen) Mitteln machen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,20] - [40,21]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+7	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓁷𓂋𓏲𓂝𓏤𓈒𓏥	109030	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥr.w-ꜥ
+
+# sent_id = IBUBd5y0wXDk4kNQu5w21GbW9NA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = $mjmj$-Getreide.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,21]
+1	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+
+# sent_id = IBUBd6gpk9PejEflv6P6mHiiRGY
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du ihn untersuchst, nachdem dies getan wurde, (und) du findest diese seine Leiden schmerzhaft vor wie zuvor, dann sollst du ihm wirksam(er)e Mittel machen, so dass es (das Leiden?, der Klumpen?) abgeht (und) er gesund wird:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [40,21] - [41,2]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+8	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓆼𓄿𓇋𓇋𓏏𓐎𓅪𓏥	113480	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḫꜣ.t
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓇋𓊪𓏏𓈖	850009	PRON	pronoun	PronType=Dem	_	_	_	Translit=jptn
+13	𓏠𓈖𓏛𓍘𓇋	69660	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=mn
+14	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+15	𓇋𓏶𓅓𓏏𓄂𓏏𓏤	25680	ADJ	adjective	_	_	_	_	Translit=jm.jt-ḥꜣ.t
+16	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+17	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+18	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+21	𓍱𓊃𓅓𓏲𓏪	157490	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šsm
+22	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+23	𓉔𓄿𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+25	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+26	𓋴𓈖𓃀𓏛	851676	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=snb
+27	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd8i8bkJTl02EgZ2I2z6sRNs
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,3]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBd6qTvWMAiUtytXIklBkYOuQ
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = werde mit süßem Bier gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,3]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+4	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+
+# sent_id = IBUBdzhj547pr0YPtQ94ctdbqac
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde zermahlen;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,4]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+
+# sent_id = IBUBdWvcaSqIJEsOsZi2y3DWH8w
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = ((werde)) mit Öl/Fett und Honig ((gekocht)).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,4]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBUBd5Iyp6a5rU1Yp6GvIxyhQy8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = „Sie (d.h. die Verstopfung) hat eine Uferbank gebildet (und) sie hat eine Sandbank befestigt.“
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,6]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓎗𓃀𓈀𓈇𓏤	52640	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wḏb
+5	𓋭𓊃𓈇𓂝𓈖	176800	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ṯꜣz
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓈙𓂝𓇋𓇋𓏏𓈒𓏥	152430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šꜥy.t
+
+# sent_id = IBUBdWiIleMtr0vYmP3dVXXNTEo
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett: 2/3 (Dja) und Honig: 1/3 (Dja) zu einer Masse gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,8]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+7	𓂌	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+8	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+9	𓂍	92560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=rʾ
+
+# sent_id = IBUBd6Mjma4WR0Qxq48GwIoRVnE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du den Mann untersuchst, nachdem dies getan wurde, (und) du findest sie (d.h. die Verstopfung) ausgebreitet und nach unten abgegangen vor, sollst du ihm ein Pulver von gänzlich gekochten $psḏ$-Schoten machen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,9] - [41,10]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂝	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+8	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+9	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+11	𓊃𓈙𓏴𓂻	144320	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zš
+12	𓊄𓃀𓏭𓏛	131460	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=zbi̯
+13	𓌨𓂋𓏲𓈇	851459	ADV	adverb	_	_	_	_	Translit=ẖr.y
+14	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+15	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+16	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+17	𓆑	851175	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tj
+18	𓏏𓍃𓅓𓏏𓏲𓈒𓏥	172330	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=tmt.w
+19	𓊪𓊃𓂧𓄧𓇶𓈒𓏥	62440	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=psḏ
+20	𓊪𓊃𓊮	62180	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=psi̯
+21	𓁷𓏤𓐪𓂧𓏌𓏛	108220	ADV	adverb	_	_	_	_	Translit=ḥr-qd
+
+# sent_id = IBUBd3fitC21fkF7rHjVgr6gDXs
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du deine Hand auf ihn legen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,11] - [41,12]
+1	𓂋𓂝𓐍𓂋	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂧𓏏𓏤	184630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏr.t
+4	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓁷𓂋𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4mFeFyQKE3Su94PULOCrfU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Findest du es geschnitten und gemahlen wie etwas von der Getreideernte vor, dann sollst du ihm ein Sofort-Mittel zum Kühlen bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,12] - [41,13]
+1	𓅠𓅓𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋴𓏏	147350	PRON	pronoun	PronType=Prs	_	_	_	Translit=st
+4	𓈙𓂝𓌪𓂝	152200	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=šꜥ
+5	𓋴𓎝𓎢𓂝	854552	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ski̯
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+8	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓎝𓎛𓇋𓇋𓏏𓆰	43200	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣḥ.yt
+10	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓁷𓂋𓏲𓂝𓏤	109030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥr.w-ꜥ
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓈎𓃀𓃀𓏁𓈗	160170	VERB	verb	VerbForm=Fin	_	_	_	Translit=qbb
+
+# sent_id = IBUBd9wn3o612U1XvyabQ8df4OQ
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = $mjmj$-Getreide: 1, $jwḥ$-Früchte: 1, Wasser.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,13]
+1	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓃛𓏲𓎛𓈒𓏥	23070	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jwḥ.w
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd6ZOjZMhJU9Cpnml1hxmhko
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du einen Mann untersuchst, der an seinem Magen leidet, (und) wenn du es (d.h. das Leiden) vorfindest, nachdem es den „Kanal“ gequert hat,    indem er an seinen beiden $šw.t$-Seiten leidet,    sein Rumpf gegenüber Nahrung eingeschnürt (wörtl.: eng)    (und) sein $jb$-Herz schwer ist,   (dann) tritt nicht dagegen an! (?; oder: (...) sein $jb$-Herz schwer ist vom Dagegen-Antreten, (dann sollst du dazu sagen:))
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,13] - [41,15]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂝	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓏠𓈖𓅪	69660	VERB	verb	VerbForm=Fin	_	_	_	Translit=mn
+7	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+8	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+9	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+10	𓅠𓅓	167210	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=gmi̯
+11	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+12	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+13	𓍑𓄿𓊛𓈖	181780	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏꜣi̯
+14	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+15	𓈘𓈇𓏤	71840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mr
+16	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+18	𓏠𓈖𓅪	69660	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mn
+19	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+20	𓆄𓆄	152840	NOUN	substantive	Number=Dual|Status=Pron	_	_	_	Translit=šw.t
+21	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+22	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+23	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+24	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+25	𓎛𓆰𓈖𓋴𓅪	400975	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥns
+26	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+27	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+28	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+29	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+30	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+31	𓂧𓈖𓋴𓍖𓊌	179910	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dns
+32	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+33	𓅓	64410	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=m
+34	𓅧𓈎𓂻	41180	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜥq
+35	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+36	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd29KTRwviEXziaQ9uHDIo5I
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Das ist eine $bṯ.w$-Krankheit.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,15]
+1	𓃀𓎁𓏏𓏲𓆚	58330	PROPN	entity-name	_	_	_	_	Translit=Bṯ.w
+2	𓊪𓏲	851517	PRON	pronoun	PronType=Dem	_	_	_	Translit=pw
+
+# sent_id = IBUBd2AEeCKbekIsrr819VOPDk4
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Du sollst dagegen ankämpfen mit wirksamen Mitteln, nachdem er/es (?) von Flüssigkeit von der Gerste umschlossen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,15] - [41,16]
+1	𓂚𓄿𓂝	39920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥḥꜣ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓎛𓈖𓂝	850800	ADP	preposition	_	_	_	_	Translit=ḥnꜥ
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+7	𓍱𓊃𓅓𓏲𓏪	157490	VERB	verb	Number=Plur|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šsm
+8	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+9	𓇋𓆛𓈖𓈎𓂝	27880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jnq
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓈗	69000	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=mw
+13	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+14	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+
+# sent_id = IBUBd9U9C10Le0gNg0f14MnZgKI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde mit Öl/Fett und Honig gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,18]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓌻𓂋𓎛𓏏𓏌𓏥	72840	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mrḥ.t
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+
+# sent_id = IBUBdQaSJxapD0WTkFA0VgA3g3w
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Nachdem (es) sich ausgebreitet hat unter deinen Fingern wie Sandkörner (und?) jedes seiner Körperteile unter der $dḥr.t$-Krankheit brennt, (sollst du ihm bereiten:) Brot im Fäulniszustand, etwas vom Unreinen, Brot von den Vögeln (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,19] - [41,20]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+3	𓊃𓈙𓏴𓂻	144320	VERB	verb	VerbForm=Fin	_	_	_	Translit=zš
+4	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+5	𓂭𓂭𓂭	183430	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏbꜥ
+6	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓅓𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+8	𓈖𓆷𓄿𓈒𓏥	88490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nš
+9	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+10	𓈙𓂝𓏭𓈒𓏥	152280	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜥy
+11	𓂝𓏏𓄹	854495	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ.t
+12	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+13	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+14	𓈖𓃀𓇋𓏏𓊮	82580	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=nbj
+15	𓌨𓂋	850794	ADP	preposition	_	_	_	_	Translit=ẖr
+16	𓂧𓁷𓂋𓏏𓅪𓏥	180450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dḥr.t
+17	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+18	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+19	𓂝𓍯𓄿𓐎	35950	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ꜥwꜣ
+20	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+21	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+22	𓂝𓃀𓄐𓀁	36300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥb.w
+23	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+24	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+25	𓄿𓊪𓂧𓅬𓏥	107	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ꜣpd
+
+# sent_id = IBUBdw6M92WyuUdTh8XQLA0M6Y8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Tritt dagegen an!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,20] - [41,21]
+1	𓅧𓈎𓂻	41180	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥq
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd1L6O3Ji30sRjJlSLpzkn5U
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Meide es nicht!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [41,21]
+1	𓅓	64410	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=m
+2	𓃀𓃀𓎁𓏏𓂻	854510	VERB	verb	VerbForm=Fin	_	_	_	Translit=bṯ
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdwp5wCIJKUnFpXpQxWN33ps
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Tritt gegen sie an!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,5]
+1	𓅧𓈎𓂻	41180	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=ꜥq
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd7hUvfCQ0ktmodTd3ovjkQQ
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Meide es nicht!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,5]
+1	𓅓	64410	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=m
+2	𓃀𓎁𓏏𓂻	854510	VERB	verb	VerbForm=Fin	_	_	_	Translit=bṯ
+3	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+
+# sent_id = IBUBdw5rYWkKxEmbhuMFdWvZZPA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm Mittel bereiten, die (selbst) dem Gehilfen (?) des Arztes geheim sind - abgesehen von deiner eigenen Tochter:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,5] - [42,6]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓊃𓊪𓏲𓊗𓏥	854543	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=zp
+6	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓋴𓏏𓍔𓄿𓏛	145700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sštꜣ
+8	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+9	𓌨𓂋	124220	ADJ	adjective	_	_	_	_	Translit=ẖr.j
+10	𓌕𓏌𓏤𓀀	130260	_	epitheton-title	_	_	_	_	Translit=zwn.w
+11	𓄋𓊪𓏴𓂋	851443	ADP	preposition	_	_	_	_	Translit=wpw-ḥr
+12	𓅭𓏏	125630	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ.t
+13	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+14	𓆓𓊃	854591	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḏs
+15	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd4SZz9UV9EeVlwRY7n484dU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Frische Gerste,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,6]
+1	𓌽𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+2	𓇆𓏛	600304	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=wꜣḏ
+
+# sent_id = IBUBd2DA6ZO7MkK5qqUResrgt8I
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = ohne dass sie gedörrt ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,6]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓍯𓄿𓏏𓊮	42410	VERB	verb	VerbForm=Fin	_	_	_	Translit=wꜣi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9WQtiEO2kxYlOWrSZtU1OU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde mit Wasser gekocht,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,6] - [42,7]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+
+# sent_id = IBUBd4POePOQ3URInAtVpAIUpaQ
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = ohne zuzulassen, dass es siedet.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,7]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓄿𓆑𓂋𓇋𓇋𓊮	851320	VERB	verb	Voice=Act|VerbForm=Fin	_	_	_	Translit=ꜣfr
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdzFa6Y8FIUIbiOhiWt2QCqA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Um es mit Dattelkernen zu mischen, kommt es vom Feuer.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,7] - [42,8]
+1	𓉐𓂋𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓐍𓏏𓊮	113020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḫ.t
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓄿𓏇𓇋𓂝	136	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣmj
+7	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+8	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+9	𓈖𓇋𓇋𓏏𓈒𓏥	26930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jnj.t
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓇜𓏤𓌽𓏥	55930	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bnj
+
+# sent_id = IBUBd1ll51VTo0eesAaIJtXgx3Y
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Dann sollst du ihm ein Mittel zum (Aus)spülen des Verbrannten (und) zum Öffnen seines Darmes in Form eines Tranks bereiten:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,11] - [42,12]
+1	𓁹𓐍𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓊃𓊪𓊗	854543	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zp
+4	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+5	𓇋𓂝𓏏𓈗	21570	NOUN	substantive	VerbForm=Fin	_	_	_	Translit=jꜥy.t
+6	𓍑𓄿𓆑𓊮𓄹𓏥	182130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣf
+7	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+8	𓊪𓐍𓆼𓄿𓍸𓏛	61730	VERB	verb	VerbForm=Fin	_	_	_	Translit=pḫꜣ
+9	𓈎𓄿𓃀𓄲𓄹	159270	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qꜣb
+10	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓋴𓅨𓂋𓇋𓏏𓈗𓀁	130400	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=zwr.t
+
+# sent_id = IBUBd5BvTBgFxEvQjmSOlq90uyc
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Süßes Bier.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,13]
+1	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+2	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+
+# sent_id = IBUBd6UgOdWqSkb5ujpzDB3WaH8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Du sollst täglich früh auf sein wegen des "Seinigen" (?) und um zu sehen, was aus seinem Hintern abgegangen ist.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,14] - [42,15]
+1	𓇼𓄿𓇳	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+2	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓈖𓏏𓆑	90020	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntf
+5	𓇳𓏤𓎟𓏏	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓌴𓁹𓄿𓄿	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+8	𓉔𓄿𓇋𓇋𓏏𓂻	97350	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=hꜣi̯
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓄖	61490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wj
+11	𓆑𓏭	10060	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗fj
+
+# sent_id = IBUBd5rlJxo0LE0OrwhL2Mi8myA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn ihm $nꜥꜣḏ.t$-Exkremente (?) abgehen wie schwarze $ꜥr.wt$-Substanz (?), dann sollst du dazu sagen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,15] - [42,16]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓈖𓉻𓂝𓆓𓏏𓐎𓏥	80390	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=nꜥꜣḏ.t
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓂝𓂋𓅱𓏏𓈒𓏥	39450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥr.wt
+8	𓆎𓅓𓏏𓁸	401218	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=km
+9	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+10	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdyHSoWL1QkQznUhWLnVOWfE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = "Dieses Verbrannte ist abgegangen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,16]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓍑𓄿𓆑𓊮𓄹𓏥	182130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḏꜣf
+3	𓊪𓈖	59920	PRON	pronoun	PronType=Dem	_	_	_	Translit=pn
+4	𓉔𓄿𓇋𓇋𓂻	97350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+
+# sent_id = IBUBd8xYGjpf7kQTlWwSpbWMsno
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Sein Magen ist ruiniert (?).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,17]
+1	𓂋𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓇋𓇩𓋴𓇋𓇋𓅪	31250	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=js
+
+# sent_id = IBUBd3rQXA3UN0Q2o82a4aqNbZU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Sein Bauch ist gestört (oder: elend) (?)."
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,17]
+1	𓄡𓏏𓏤	122080	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ẖ.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓄡𓈖𓏏𓅪𓄹	123060	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=ẖn
+
+# sent_id = IBUBd4OsUWBJfUBhuY2mExzydU8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Wenn du ihn untersuchst, nachdem dies getan wurde,    (wobei) etwas von seinem Hintern abgegangen ist wie $šš.t$-Teile von Langbohnen    (und) Tau ist darauf, indem er ausströmt wie Ausfluss vom $tpꜣ.wt$,  dann sollst du über dieses sagen, das in seinem Magen ist:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,17] - [42,20]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂡	113410	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜣi̯
+3	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+4	𓇓𓏲	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+5	𓅓𓆱𓐍𓏏𓂻	65300	ADP	preposition	_	_	_	_	Translit=m-ḫt
+6	𓁹𓏏	851809	VERB	verb	VerbForm=Fin	_	_	_	Translit=jri̯
+7	𓇑𓇑𓈖	851523	PRON	pronoun	PronType=Dem	_	_	_	Translit=nn
+8	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+9	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+10	𓉔𓄿𓄿𓂻	97350	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓄖𓏏𓏭𓄹	61490	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pḥ.wj
+13	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+14	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+15	𓈙𓈙𓏏𓈒𓏥	863045	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šš.t
+16	𓈖𓏏	850787	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=n.j
+17	𓃛𓏲𓂋𓇋𓇋𓏏𓈒𓏥	22980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jwr.yt
+18	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+19	𓇋𓄿𓂧𓏏𓇭	21180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jꜣd.t
+20	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+21	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+22	𓄝𓏏𓏏𓀜	854553	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=sti̯
+23	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+24	𓈖𓈙𓏲𓐎𓏥	88510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nš.w
+25	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+26	𓏏𓊪𓄿𓏲𓏏𓈒𓏥	171420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=tpꜣ.wt
+27	𓆓𓂧𓐍𓂋	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+28	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+29	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+30	𓍇𓏌𓏲	851519	PRON	pronoun	PronType=Dem	_	_	_	Translit=nw
+31	𓈖𓏏𓏭	89850	PRON	pronoun	PronType=Rel	_	_	_	Translit=n.tj
+32	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+33	𓂋𓏤𓄣𓏤	92710	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rʾ-jb
+34	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd4irzqEqLUTVqwqeR2g1jR0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = (Es) ist abgegangen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [42,20] - [43,1]
+1	𓇋𓏲	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓉔𓄿𓄿𓂻	97350	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=hꜣi̯
+
+# sent_id = IBcBGFTxQpDTWUvbu9JxGVmpaHg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde veranlasst, dass er (d.h. der Patient?) das auspresst (?), was insgesamt gekocht wurde.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,1] - [43,2]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓅓𓂝𓆓𓂧𓇭	78770	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḏd
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓊪𓊃𓏏𓊮	62180	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=psi̯
+5	𓁷𓏤𓐪𓂧𓏌𓏛𓏥	108220	ADV	adverb	_	_	_	_	Translit=ḥr-qd
+
+# sent_id = IBUBd8QDxdkOo03AgJ6OZRZ8Aqs
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Brot von Christdornfrüchten: 1, Flaschenkürbis (?): 1, Ausscheidung (?) des Katers: 1, süßes Bier: 1, Wein: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,2] - [43,3]
+1	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈖𓃀𓋴𓆮𓈒𓏥	82810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbs
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓃀𓂧𓂧𓏲𓂓𓂸𓆰𓏥	861516	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bdd.w-kꜣ
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓂋𓇋𓇋𓏏𓐎𓏪	93200	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ry.t
+8	𓏇𓇋𓏲𓄛	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+11	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+12	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+13	𓇋𓂋𓊪𓏌𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd3WXKjZUYEZqktXrbEH3W5M
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,3] - [43,4]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdx2gMEPWBUscrE5ipW2sgtQ
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,4]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd5vr0USKTUHSpfVDebPkkS0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = $tꜣ$-Flüssigkeit von Maische: 1, gegorener Pflanzenbrei: 1, Olivenöl: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,14] - [43,15]
+1	𓏏𓍔𓄿𓏌𓏥	863027	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈙𓃀𓏏𓏴𓏌𓏥	153270	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šb.t
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓋴𓐟𓄿𓈗𓏌𓏥	109510	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥzꜣ
+6	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+7	𓂝𓍯𓄿𓇋𓇋𓏏𓏌𓏥	36020	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥwꜣ.yt
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+9	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+10	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd9SxWAM0l0esrSVIdSFsSwE
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,15]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdxuIZJDhyEN6lWGct6E6IU0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,15]
+1	𓐎𓂝	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBdyJlRW0B7EPgtxEZiPxdDKo
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel für den Magen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,15]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂋𓏤𓄣𓏤𓄹	92710	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-jb
+
+# sent_id = IBUBdW8UQY4UVkOJh1qQQ6oxfpU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Erdmandeln: 1/64 (Oipe ⸗ 1 Dja), Weinbeeren/Rosinen: 1/64 (Oipe ⸗ 1 Dja), "Erdhaar"-Früchte: ein viertel (Dja), Feigen: ein wenig, geritzte Sykomorenfrüchte der Sykomore oder Johannisbrot aus der Oase.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,15] - [43,16]
+1	𓇹𓈒𓏥	44830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wꜥḥ
+2	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓃹𓈖𓈙𓏭𓈒𓏥	47040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnš
+4	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓁸𓏥𓇾𓈇𓏤𓈒𓏥	155670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj-tꜣ
+6	𓏴	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓂧𓃀𓇭𓈒𓏥	177710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dꜣb
+8	𓅪	85370	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nhj
+9	𓈖𓈎𓂝𓅱𓏏𓂷𓈒𓏥	89040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nqꜥ.wt
+10	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+11	𓈖𓉔𓏏𓆮	85290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=nh.t
+12	𓍑𓄿𓂋𓏏𓈒𓏥	182260	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḏꜣr.t
+13	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+14	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+15	𓐎𓏏𓈉	48700	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wḥꜣ.t
+
+# sent_id = IBUBdw56RPp84UdekChl0MF58so
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde fein zermahlen, indem es in süßes Bier vom täglichen Bedarf gegeben wird;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,17]
+1	𓐩𓏌𓂝	90880	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=nḏ
+2	𓏞𓏛	136700	VERB	verb	VerbForm=Conv	_	_	_	Translit=snꜥꜥ
+3	𓂋𓂝𓍘𓇋	851711	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=rḏi̯
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+6	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+7	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+8	𓂧𓃀𓎛𓏲𓄑𓏛𓏥	178830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=dbḥ.w
+
+# sent_id = IBUBd8W0EjCWvkcIlNQVyjN9bkY
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = ohne zuzulassen, dass es die Sonne sieht, indem es (nämlich) zugedeckt wurde;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,17] - [43,18]
+1	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+2	𓂋𓂝𓏏	851711	VERB	verb	VerbForm=Fin	_	_	_	Translit=rḏi̯
+3	𓌴𓁹𓄿𓄿	66270	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mꜣꜣ
+4	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+5	𓆄𓏲𓇳	152750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šw
+6	𓋴𓊶𓊪𓋳	146670	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=skꜣp
+
+# sent_id = IBUBd7ZVQOcyeUNztjFK4e4Uk40
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = 1/64 (Oipe ⸗ 1 Dja) Honig (und) 1/64 (Oipe ⸗ 1 Dja) Gänsefett werde dazu gegeben;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,18]
+1	𓂋𓂝	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓋴𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+5	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+6	𓎙𓂧𓏌𓏥	41980	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ꜥḏ
+7	𓅬	107	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜣpd
+8	𓂆	850815	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdQNvizdWCkyQqhT5Nk5lO6I
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,18]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd9zWEkP7SU1VoPCEpBKyh78
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde von einem Mann oder einer Frau getrunken.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,18] - [43,19]
+1	𓋴𓅨𓂋𓇋𓈗𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+3	𓊃𓀀𓏤	125010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=z
+4	𓊃𓏏𓁐	125040	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=z.t
+5	𓂋𓏤𓊪𓏲	92850	PART	particle	_	_	_	_	Translit=rʾ-pw
+
+# sent_id = IBUBdzBOKvv910SKgp7fyouHJ84
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Brot von Christdornfrüchten: 1, Katerkot: 1, Roter Ocker: 1, Flaschenkürbis: 1, süßes Bier: 1, Wein: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,19] - [43,20]
+1	𓏏𓏐𓏒𓏥	168810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tʾ
+2	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+3	𓈖𓃀𓋴𓆮𓈒𓏥	82810	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nbs
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓎛𓋴𓐎𓏥	109370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥs
+6	𓏇𓇋𓏲𓄛	68250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjw
+7	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+8	𓏠𓈖𓈙𓏏𓈒𓏥	71380	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mnš.t
+9	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+10	𓃀𓂧𓂧𓏲𓂓𓂸𓆰𓏥	861516	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bdd.w-kꜣ
+11	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+12	𓎛𓈎𓏏𓏌𓏥	110300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ḥnq.t
+13	𓇛𓅓𓏏𓏛	91410	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nḏm
+14	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+15	𓇋𓂋𓊪𓏌𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+16	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd9cpzQ14H0L5pPm7fgDBph4
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,20] - [43,21]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBd42VIknNVUiKkikPJAWWjTA
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = (Die betroffene Stelle) werde darüber verbunden.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,21]
+1	𓐎𓏏𓀜	50980	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wt
+2	𓁷𓂋	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+
+# sent_id = IBUBd8QjZ2DxAkdeklBp5ceelkg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Ein anderes Heilmittel für den Magen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,21]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+3	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+4	𓂋𓏤𓄣𓏤𓄹	92710	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-jb
+
+# sent_id = IBUBd5bCwoB7JUXRjUWtAhMhWp4
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Honig: 1, Olivenöl: 1, Weihrauch: 1, Wein: 1.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [43,21]
+1	𓆤𓏏𓏊𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+2	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+3	𓆮𓏌𓏥	53720	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=bꜣq
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+5	𓊹𓌢𓏏𓂋𓈒𓏥	138670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=snṯr
+6	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+7	𓇋𓂋𓊪𓏌𓏥	29740	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jrp
+8	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBd2OKmmsaXU2yuSnHTJWDICs
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde zu einer Masse gemacht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,1]
+1	𓁹	851809	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+4	𓌡𓂝𓏏𓏤	44150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=wꜥ
+
+# sent_id = IBUBdyiD1O0vL0z5hGOXZrb6CRg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,1]
+1	𓊪𓊃𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBdQdMFbTXi0zMmJx89eWVsSs
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde gegessen.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,1]
+1	𓏶𓅓𓀁	46710	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wnm
+
+# sent_id = IBUBdWTOD0PoDkK0rrV9CwAv3l4
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,1]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd9DzVyZ3bkxnoSXe0DQ6UzU
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Nachdem der Honig zuvor gekocht wurde, gebe man das Mehl des $mjmj$-Getreides und die "Erdhaar"-Früchte hinzu (wörtl.: lasse man ... hinabfallen).
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,2] - [44,3]
+1	𓇋𓂋	851427	ADP	preposition	_	_	_	_	Translit=jr
+2	𓂋𓐟𓏤	851453	ADP	preposition	_	_	_	_	Translit=r-sꜣ
+3	𓊪𓊃𓊮	62180	VERB	verb	VerbForm=Fin	_	_	_	Translit=psi̯
+4	𓆤𓏏𓏌𓏥	54210	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bj.t
+5	𓌨𓂋𓄂𓏏𓏤	500034	ADV	adverb	_	_	_	_	Translit=ẖr-ḥꜣ.t
+6	𓐍𓂋	400037	PART	particle	_	_	_	_	Translit=ḫr
+7	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+8	𓂞𓏏𓏲	851711	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+9	𓉔𓄿𓂻	97350	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=hꜣi̯
+10	𓂷𓈒𓏥	159230	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=qꜣw
+11	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+12	𓅓𓅓𓈒𓏥	68320	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mjmj
+13	𓁸𓏥𓇾𓈇𓏤𓈒𓏥	155670	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šnj-tꜣ
+
+# sent_id = IBUBd6g8IjKWpkW3m5ECOIkKIME
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) für den Magen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,4]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂋𓏤𓄣𓏤𓄹	92710	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=rʾ-jb
+
+# sent_id = IBUBd1ak3WWYlE9QpPaFWmRIdh8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde gekocht.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,5]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBd7XxCatdkU85sdKrPTbey0I
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde getrunken über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,5]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+
+# sent_id = IBUBdwhdV9g6CE8oiaVMGc0VZqg
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel) zum Beseitigen von Herzschmerzen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,5]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓍋𓅓𓂋𓏏𓅪	72000	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=mr.t
+5	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jb
+
+# sent_id = IBUBd1OJfmt4oUQEmGywK1h3Jgw
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,6]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBd7LE08EnZUGZmi13VEkqpu0
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Ein anderes (Heilmittel):
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,7]
+1	𓎢𓏏	163760	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=ky
+
+# sent_id = IBUBd8z20PHv4UlThFLvhbRqGz4
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde gekocht;
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,7]
+1	𓊮	62180	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=psi̯
+
+# sent_id = IBUBdyiAWZKCnUL4tqJBz5qMnQ8
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Heilmittel zum Beseitigen einer Zusammenballung von Hitze am $ḥꜣ.tj$-Herzen:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,8]
+1	𓄲𓂋𓏏𓈒𓏥	61950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pẖr.t
+2	𓈖𓏏	850787	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=n.j
+3	𓂧𓂋𓀜	180130	VERB	verb	VerbForm=Fin	_	_	_	Translit=dr
+4	𓋴𓏲𓈙𓍼	130760	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=zwš
+5	𓈖	850787	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=n.j
+6	𓏏𓍔𓄿𓏲𓊮𓏪	168950	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tꜣ.w
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓄂𓏏𓏭𓄣	100400	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=ḥꜣ.tj
+
+# sent_id = IBUBd6SMHRg6s0FlgnFb1whxJxI
+# corpus = sawmedizin
+# src_text_id = FA35BEUTGJCLFB7EXS3WC4IKLM
+# src_text = sawmedizin:Papyrus Ebers//36,4-44,12 ⸗ Eb 188-220: "Erfahrungswissen zum Magenleiden" (das "Magenbuch")
+# owner = Lutz Popko
+# text_de = Werde getrunken über 1 Tag hinweg.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [44,12]
+1	𓀁	130360	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=zwr
+2	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+3	𓇳	99060	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=hrw
+4	𓏤	850814	SYM	numeral	_	_	_	_	Translit=1...n
+

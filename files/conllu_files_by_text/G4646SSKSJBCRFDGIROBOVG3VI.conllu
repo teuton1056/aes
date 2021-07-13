@@ -1,0 +1,62 @@
+# sent_id = IBUBd9odqm30AklzmR6hRUhNyno
+# corpus = bbawgrabinschriften
+# src_text_id = G4646SSKSJBCRFDGIROBOVG3VI
+# src_text = bbawgrabinschriften:Opferkapelle//Scheintür
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Osiris, der Herr von Busiris, gibt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechter innerer Türpfosten]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏏𓊪𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓊨𓀭𓁹	49460	PROPN	entity-name	_	_	_	_	Translit=Wsjr
+5	𓎟𓊽𓅱𓇳	400982	_	epitheton-title	_	_	_	_	Translit=nb-Ḏd.w
+
+# sent_id = IBUBd9Alp4gqbEBPp5FK3HUK1Eg
+# corpus = bbawgrabinschriften
+# src_text_id = G4646SSKSJBCRFDGIROBOVG3VI
+# src_text = bbawgrabinschriften:Opferkapelle//Scheintür
+# owner = Stefan Grunert
+# text_de = Er möge sehr fröhlich in den Westen gehen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [rechter innerer Türpfosten]
+1	𓐍𓊪𓂻	116050	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpi̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓅓𓊵	_	X	unknown	_	_	_	_	_
+4	𓅓𓊵	_	X	unknown	_	_	_	_	_
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓊿𓏏𓏏	26180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.tjt
+
+# sent_id = IBUBd4rrkpu4ckQtnqZMB2PaDiw
+# corpus = bbawgrabinschriften
+# src_text_id = G4646SSKSJBCRFDGIROBOVG3VI
+# src_text = bbawgrabinschriften:Opferkapelle//Scheintür
+# owner = Stefan Grunert
+# text_de = Ein Opfer, das der König gibt, ein Opfer, das Anubis, der Herr der Nekropole, der auf seinem Berge ist, 〈〈gibt〉〉:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker innerer Türpfosten]
+1	𓏙𓊵	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+2	𓇓𓏏	88040	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nswt
+3	𓊵𓏙	400156	X	undefined	_	_	_	_	Translit=ḥtp-ḏi̯
+4	𓃢	27360	PROPN	entity-name	_	_	_	_	Translit=Jnp.w
+5	𓎟𓇾𓂦	400939	_	epitheton-title	_	_	_	_	Translit=nb-tꜣ-ḏsr
+6	𓁶𓈋𓆑	600421	_	epitheton-title	_	_	_	_	Translit=tp.j-ḏw⸗f
+
+# sent_id = IBUBdxmFsSUnjUMEguxgPxJ4tsc
+# corpus = bbawgrabinschriften
+# src_text_id = G4646SSKSJBCRFDGIROBOVG3VI
+# src_text = bbawgrabinschriften:Opferkapelle//Scheintür
+# owner = Stefan Grunert
+# text_de = Ein Totenopfer für ihn täglich und ewiglich.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = OK & FIP
+# lineRef = [linker innerer Türpfosten]
+1	𓉓𓏖𓃾𓅿	850238	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr.t-ḫrw
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇳𓎟	93320	ADV	adverb	_	_	_	_	Translit=rꜥw-nb
+5	𓆓𓏏𓐚	181401	ADV	adverb	_	_	_	_	Translit=ḏ.t
+

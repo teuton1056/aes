@@ -1,0 +1,629 @@
+# sent_id = IBUBdWbU1IY1E0fOlA3MpAWnTeE
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Er (der König) sagt:
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2]
+1	𓆓𓂧	185810	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd9HKkPc3SEdTtsppfjrANdk
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du erscheinst schön im Horizont des Himmels, o lebender Aton, der das Leben entstehen lässt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2]
+1	𓈍𓂝𓇋𓇋𓏛	114740	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫꜥi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓄤𓆑𓂋	400458	ADV	adverb	_	_	_	_	Translit=nfr
+4	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈌𓏏𓇯	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+6	𓈖𓏏	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+7	𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+8	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+9	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+10	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥnḫ
+11	𓄿𓆷𓂝𓏛	851685	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=šꜣꜥ
+12	𓋹𓈖𓐍	38540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBdyWUtgoDP0pForW59O2ZRVw
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du bist im östlichen Horizont aufgegangen und hast jedes Land mit deiner Schönheit erfüllt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓅱𓈖𓇳𓃀𓍘𓇋	854500	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wbn
+4	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓈌𓏏𓉐	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+6	𓋁𓏏𓈉	20570	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jꜣb.tj
+7	𓎔𓏛	854514	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mḥ
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+10	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+11	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+12	𓄤𓏤𓏥	854638	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nfr.w
+13	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBdwELvBQ4vEYmjRlT7lmp1l4
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du bist schön, groß, glänzend und hoch über jedem Land.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [2]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓂝𓈖𓁻	38070	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ꜥni̯
+4	𓅨𓂋𓍘𓇋	47270	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wrr
+5	𓍘𓎛𓈖𓋣𓍿	854580	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ṯḥn
+6	𓈎𓀠𓏛𓍘𓇋	159110	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=qꜣi̯
+7	𓁷𓏤𓁶𓏤	108280	ADP	preposition	_	_	_	_	Translit=ḥr-tp
+8	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+9	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBdyFoZHrqakQ1nj81JbC9n2Y
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du bist fern, (doch) deine Strahlen sind auf der Erde.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓍯𓈐𓂻𓍘𓇋	42550	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+4	𓄜𓏏𓅱𓇶𓏥	147910	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=stw.t
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+7	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+
+# sent_id = IBUBd3gFI6JLck0uvnTCppNhMq8
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Wenn du im westlichen Horizont untergehst, ist das Land in Finsternis und im Zustand des Todes.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3]
+1	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈌𓏏𓉐	227	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜣḫ.t
+5	𓋀𓏏𓈉	26150	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jmn.tj
+6	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+7	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎡𓎡𓇰	165680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kk.w
+9	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓋴𓐍𓂋𓏛	142800	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sḫr
+11	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+12	𓐝𓏏𓀐	69310	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mwt
+
+# sent_id = IBUBdx7Iq08poEYarWWaP6EWRps
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Die Schlafenden sind im Gemach, die Köpfe sind verhüllt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [3]
+1	𓊃𓇥𓂋𓁀𓏥	150870	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=sḏr
+2	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+3	𓊏𓊪𓉐	157250	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šzp.t
+4	𓁶𓏤𓏥	854577	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=tp
+5	𓎛𓃀𓊃𓋳	103740	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=ḥbs
+
+# sent_id = IBUBdz8lRBgjiUWfhxsSDnCot2Y
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Jeder Löwe ist aus seiner Höhle herausgekommen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4]
+1	𓅁𓇋𓄛𓏥	66370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mꜣj
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+3	𓉐𓂋𓂻	60920	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=pri̯
+4	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓏤𓃭𓏤𓃭𓏏𓏮𓉐	93680	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=rwrw.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd5cupI4yFEkQurvS10KpCNk
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Alle Kriechtiere - sie beißen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4]
+1	𓆓𓂧𓆑𓏏𓄛𓏥	186250	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḏdf.t
+2	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+3	𓊪𓊃𓎛𓄑𓏥	62220	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pzḥ
+4	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd0eRiSAcoEXdhWJ8bwkm4LY
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du vertreibst die Finsternis, wenn du deine Strahlen aussendest, und die Beiden Länder sind (dadurch) im Fest.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [4]
+1	𓂋𓅱𓇋𓂻	93540	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rwi̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓎡𓎡𓇱	165680	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=kk.w
+4	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓄜𓏏𓏏𓅱𓇶𓏥	147910	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=stw.t
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓇿𓇿𓈅𓈅	168970	PROPN	entity-name	_	_	_	_	Translit=Tꜣ.wj
+9	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓎛𓇳𓎟𓃀	103300	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜣb
+
+# sent_id = IBUBdWG64GbxE01Ai4zdVqvckEo
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Das ganze Land - sie verrichten ihre Arbeit.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5]
+1	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+2	𓂋𓇥𓂋	92500	ADP	preposition	_	_	_	_	Translit=r-ḏr
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+5	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+6	𓂓𓏏𓀋	163010	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ.t
+7	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd7poTZ5Yb0QsgrNCeJCw8VQ
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Bäume und Kräuter gedeihen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5]
+1	𓍲𓈖𓏌𓅱𓆭𓆱𓏥	155240	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=šn
+2	𓊃𓄧𓐝𓆰𓏥	134140	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=sm.w
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓄿𓐍𓄿𓐍𓆰𓏥	243	VERB	verb	VerbForm=Fin	_	_	_	Translit=ꜣḫꜣḫ
+
+# sent_id = IBUBdQIXuPOyRU4hiAgj3PejoWk
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Ihre Flügel sind in Lobpreis für deinen Ka (erhoben).
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5]
+1	𓂧𓈖𓎛𓆃𓏥	184370	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=ḏnḥ
+2	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓀢𓏥	20360	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jꜣ.w
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓂓𓏤	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd67x3bxsik9ehxIdBtEGiqs
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Alles Vieh springt auf den Füßen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5]
+1	𓌙𓃲𓏏𓏥	35870	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥw.t
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓍿𓃀𓉔𓈖𓂾𓂻𓏥	175220	VERB	verb	VerbForm=Fin	_	_	_	Translit=ṯbhn
+5	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+6	𓂋𓂧𓏮𓅱𓂾𓂾	96600	NOUN	substantive	Number=Dual|Status=Abs	_	_	_	Translit=rd
+
+# sent_id = IBUBdwqxwWnsEkVlo6O8WuR5gYM
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Alle Vögel - sie leben, wenn du für sie aufgehst.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [5] - [6]
+1	𓅮𓇋𓇋𓆃𓏥𓐍𓈖𓈖𓏏𓅯	856420	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=pꜣy.t-ḫnn.t
+2	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+3	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+4	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓅱𓈖𓇳𓃀	854500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbn
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓎡𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd84GfsPclkgDvZI9jC24Gdc
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Die Fische im Fluss springen vor dir auf, denn deine Strahlen sind (sogar) innerhalb des Meeres.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6]
+1	𓂋𓐝𓅱𓆟𓏥	94160	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rm
+2	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+3	𓇋𓏏𓂋𓏲𓈗𓈘	33370	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtr.w
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓏏𓆑𓏏𓏴𓂻	171780	VERB	verb	VerbForm=Fin	_	_	_	Translit=tfi̯
+6	𓈖𓁷𓏤	79310	ADP	preposition	_	_	_	_	Translit=n-ḥr
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓄜𓏏𓅱𓏏𓇶𓏥	147910	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=stw.t
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓐝𓄚𓈖𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+11	𓇆𓅨𓂋𓇋𓈗𓈘𓈅𓏤	43820	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=wꜣḏ-wr
+
+# sent_id = IBUBd5HkGroiZkqFjhLQf7PFt7U
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = O der du den Samen in den Frauen sich entwicklen lässt und der du Flüssigkeit zu Menschgen werden lässt,
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [6]
+1	𓋴𓆣𓂋	142050	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=sḫpr
+2	𓅁𓇋𓇋𓂺𓏥	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓈟𓏏𓁐𓏪	104730	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḥm.t
+5	𓁹	851809	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=jri̯
+6	𓈗	69000	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=mw
+7	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓂋𓍿𓀀𓁐𓏥	94530	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=rmṯ
+
+# sent_id = IBUBdQFYnu8E1klJjG2OrZQAYSk
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Das Kücken im Ei piept in der Schale, denn du gibst ihm darin Atem, um es zu beleben.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓅷	173950	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣ
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓅱𓎛𓏏𓆇	130630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swḥ.t
+5	𓌃𓂧𓅱𓀁	78140	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=mdwi̯
+6	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓇋𓈖𓂋𓊌	27560	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jnr
+8	𓂞	851711	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rḏi̯
+9	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+10	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+11	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+12	𓊡𓏥	174480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ṯꜣw
+13	𓐝𓄚𓈖𓏌𓉐	65370	ADP	preposition	_	_	_	_	Translit=m-ẖnw
+14	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+15	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+16	𓋴𓋹𓈖𓐍	128910	VERB	verb	VerbForm=Fin	_	_	_	Translit=sꜥnḫ
+17	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBd0AgwuST8knfiyxu24zqIjo
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Es kommt zu seiner Zeit aus dem Ei heraus, um zu piepen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [7]
+1	𓉐𓂋𓂻	60920	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=pri̯
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓋴𓅱𓎛𓏏𓆇	130630	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=swḥ.t
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓌃𓂧𓏏𓀁	78140	VERB	verb	VerbForm=Fin	_	_	_	Translit=mdwi̯
+7	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+8	𓋬𓂧𓇋𓇋𓏛	179590	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=dmḏ.yt
+9	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+
+# sent_id = IBUBdxf3EBXkhkyPmIA6E6gQwgI
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Die Zungen sind in der Rede verschieden und ihr Charakter ebenfalls.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [8] - [9]
+1	𓄓𓏤𓄔𓏥	87800	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ns
+2	𓄋𓊪𓏲𓏴𓏛	45640	VERB	verb	Number=Plur|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wpi̯
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓌃𓂧𓏏𓏥	78030	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=mdw.t
+5	𓐪𓂧𓏌𓏛	162430	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=qd
+6	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓐝𓏇𓏏𓏏𓏛	64830	ADV	adverb	_	_	_	_	Translit=m-mj.tjt
+
+# sent_id = IBUBd0WQ5lwhgUpEgQyxRVpG0mA
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du hast den Nil in der Unterwelt erschaffen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9]
+1	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓎛𓂝𓊪𓏮𓈘𓈗	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+4	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇼𓏏𓉐	854583	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dwꜣ.t
+
+# sent_id = IBUBd1LLF6iGe0FXnWQFC3fQMkQ
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du bist ihr aller Herr, der sich mit ihnen abgemüht hat.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9]
+1	𓈖𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+2	𓎟𓀰	81650	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=nb
+3	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+4	𓂋𓄫𓅱𓏛𓏥	91930	ADP	preposition	_	_	_	_	Translit=r-ꜣw
+5	𓅨𓂋𓂧𓀉𓅨	48260	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wrḏ
+6	𓇋𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd5EGY1EWG0WfgMT6cBwZys4
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = O Herr eines jeden Landes, der für sie aufgeht!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓎟𓀭	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+3	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+4	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+5	𓎟	81660	ADJ	adjective	_	_	_	_	Translit=nb
+6	𓅱𓃀𓈖𓇳	854500	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=wbn
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdWn71GVn9kQxlIFFinGW3uU
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Alle fernen Fremdländer - du sorgst für ihren Lebensunterhalt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [9]
+1	𓈉𓏏𓏤𓌙𓈉𓏥	114300	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=ḫꜣs.t
+2	𓎟	81660	ADJ	adjective	Number=Plur|Gender=Fem	_	_	_	Translit=nb
+3	𓍯𓏏𓈐	42550	VERB	verb	Number=Plur|Gender=Fem	_	_	_	Translit=wꜣi̯
+4	𓁹	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓋹𓈖𓐍	38670	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥnḫ
+7	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBd5WUAirF409htDJOkvKeg58
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Wie vortrefflich sind sie doch, deine Pläne, o Herr der Ewigkeit!
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10]
+1	𓋴𓏠𓈖𓐍𓍊𓏮𓅱	135360	VERB	verb	_	_	_	_	Translit=smnḫ
+2	𓋴𓏮	127770	PRON	pronoun	PronType=Prs	_	_	_	Translit=sj
+3	𓋴𓐍𓂋𓏛𓏥	142800	NOUN	substantive	Number=Plur|Status=Pron	_	_	_	Translit=sḫr
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+6	𓎟𓎛𓇳𓎛	400869	_	epitheton-title	_	_	_	_	Translit=nb-nḥḥ
+
+# sent_id = IBUBd9BijjaM1UyhuOYZH9zNBl0
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Der (wirkliche) Nil - er kommt aus der Unterwelt nach Ägypten.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10]
+1	𓎛𓂝𓊪𓏮𓈘𓈗	102190	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ḥꜥpj
+2	𓇍𓇋𓇋𓂻	21930	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jwi̯
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+5	𓇼𓏏𓉐	854583	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=dwꜣ.t
+6	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+7	𓇿𓌻𓂋𓇋𓆵𓊖	169110	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-mrj
+
+# sent_id = IBUBd6r1f1Y9dUmmg3eaCaOIlrM
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Deine Strahlen nähren alle Feldpflanzen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10]
+1	𓄜𓏏𓇶𓏏𓏥	147910	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=stw.t
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓏠𓈖𓂝𓂑	70350	VERB	verb	VerbForm=Fin	_	_	_	Translit=mnꜥ
+5	𓆷𓈅𓏤	151130	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=šꜣ
+6	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd9QmyqUQK0dHqLak5uRJ7qg
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Wenn du aufgehst, leben sie und wachsen für dich.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [10]
+1	𓅱𓃀𓈖𓇳	854500	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbn
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+4	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓂋𓂧𓌗𓏛	96610	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=rd
+6	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+7	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd3QQEooXG0B2hsfWITRPPoA
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du hast den fernen Himmel geschaffen, um darin aufzugehen und um alles zu überblicken, was du geschaffen hast.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11]
+1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓊪𓏏𓇯	58710	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=p.t
+4	𓍯𓏏𓈐𓍘𓇋	42550	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Conv	_	_	_	Translit=wꜣi̯
+5	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+6	𓅱𓃀𓈖𓇳	854500	VERB	verb	VerbForm=Fin	_	_	_	Translit=wbn
+7	𓇋𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓊃	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+9	𓂋	91900	ADP	preposition	_	_	_	_	Translit=r
+10	𓌵	66270	VERB	verb	VerbForm=Fin	_	_	_	Translit=mꜣꜣ
+11	𓁹𓇋𓇋	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+12	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+13	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd0vXF2W9YUQPnyzNqZuYN3w
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du bist einzig, du bist aufgegangen in deiner Gestalt als lebende Sonne.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [11]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓌡𓂝𓏤𓍘𓇋	44350	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wꜥi̯
+4	𓅱𓃀𓈖𓇳𓍘𓇋	854500	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=wbn
+5	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+6	𓆣𓅱𓀾𓏪	116300	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḫpr.w
+7	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+8	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓇋𓏏𓈖𓇳	33080	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jtn
+10	𓋹	38530	VERB	verb	Number=Sing|Gender=Masc	_	_	_	Translit=ꜥnḫ
+
+# sent_id = IBUBdyuFoA0hPEXfshGYxITQ1u0
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du bist in meinem Herzen.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12]
+1	𓇋𓅱	21881	PART	particle	_	_	_	_	Translit=jw
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+4	𓄣𓏤	23290	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jb
+5	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBdzaOanQEQ03GkBc5Di0oOWg
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Die Erde ensteht durch deine Hand, genauso wie du sie (die Menschen) geschaffen hast.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12]
+1	𓆣𓂋	858535	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḫpr (m-sꜣ)
+2	𓇿𓏤𓈅	854573	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=tꜣ
+3	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+4	𓂝𓏤	34360	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ꜥ
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓏇𓇋	850796	ADP	preposition	_	_	_	_	Translit=mj
+7	𓁹𓂋	851809	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+9	𓊃𓈖𓏥	136190	PRON	pronoun	PronType=Prs	_	_	_	Translit=sn
+
+# sent_id = IBUBdQOn14dGPE4gsHuny2Zoxz0
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Wenn du aufgegangen bist, leben sie, wenn du untergehst, dann sterben sie.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12]
+1	𓅱𓃀𓈖𓇳𓈖	854500	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wbn
+2	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+3	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+4	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+5	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓐝𓏏𓀐	69300	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=mwt
+8	𓊃𓈖𓏥	10100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗sn
+
+# sent_id = IBUBdW1ORd77c0XErvv8OI5Y7gw
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Du bist die Lebenszeit selbst, denn man lebt durch dich.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [12]
+1	𓈖𓏏𓎡	90120	PRON	pronoun	PronType=Prs	_	_	_	Translit=jntk
+2	𓊢𓂝𓇳𓏤	40480	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=ꜥḥꜥ.w
+3	𓂋𓎛𓂝𓄹𓄹𓄹	92180	X	undefined	_	_	_	_	Translit=r-ḥꜥ.w
+4	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+5	𓋹𓈖𓐍	38530	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥnḫ
+6	𓅱𓏏	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+7	𓇋𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+8	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+
+# sent_id = IBUBd84itUfI1kGWthGeJZGiC40
+# corpus = bbawamarna
+# src_text_id = OMHRPP2KC5B5NNXEUP34OYYX44
+# src_text = bbawamarna:Westwand//Hymnus
+# owner = Gunnar Sperveslage
+# text_de = Alle Arbeit wird niedergelegt, wenn du auf der Westseite untergehst.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [13]
+1	𓎝𓎛𓏛	43010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=wꜣḥ
+2	𓏏𓏲	170100	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗tw
+3	𓂓𓏏𓀋𓏪	163010	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=kꜣ.t
+4	𓎟	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+5	𓊵𓏏𓊪	111230	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḥtp
+6	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+7	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+8	𓋀𓏮𓂢	600035	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=wnm.j
+

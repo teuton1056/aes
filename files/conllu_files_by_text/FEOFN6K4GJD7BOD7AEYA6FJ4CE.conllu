@@ -1,0 +1,64 @@
+# sent_id = IBUBd2MvC6pAWkWfnbilogFYXr4
+# corpus = bbawamarna
+# src_text_id = FEOFN6K4GJD7BOD7AEYA6FJ4CE
+# src_text = bbawamarna:Ostwand u. Ostteil der Nordwand//Auszeichnung des Merire
+# owner = Gunnar Sperveslage
+# text_de = O Versteher des Schatzhauses, beschenke den Größten der Sehenden des Aton in Achetaton, Merire.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [B.1]
+1	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+2	𓄓𓉒𓋞	600278	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-pr-ḥḏ
+3	𓂝𓅴𓌙𓂡	22380	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jwꜥ
+4	𓅨𓏥𓌳𓈖𓅮𓇋𓏏𓈖𓇳𓐝𓈌𓇋𓏏𓈖𓇳	859603	_	epitheton-title	_	_	_	_	Translit=wr-mꜣ.w-n-pꜣ-Jtn-m-Ꜣḫ.t-Jtn
+5	𓌻𓏤𓇳𓀽	600373	PROPN	entity-name	_	_	_	_	Translit=Mr.y-Rꜥw
+
+# sent_id = IBUBd0Qjp1Ec7UhDv3lZFhv7Irk
+# corpus = bbawamarna
+# src_text_id = FEOFN6K4GJD7BOD7AEYA6FJ4CE
+# src_text = bbawamarna:Ostwand u. Ostteil der Nordwand//Auszeichnung des Merire
+# owner = Gunnar Sperveslage
+# text_de = Die schönen Plätze, die Pharao, er lebe, sei heil und gesund, im Tempel des Benben und im Atontempel des Aton in Achetaton eingerichtet hat, sind mit jder schönen Opfergabe und mit Gerste und Emmer gefüllt.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [B.1]
+1	𓊨𓅱𓏏𓉐𓏥	854540	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=s.t
+2	𓄤𓂋𓏥	854519	VERB	verb	Number=Plur|Gender=Masc	_	_	_	Translit=nfr
+3	𓁹𓈖	851809	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Fin	_	_	_	Translit=jri̯
+4	𓉻𓉐𓉐	60430	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=pr-ꜥꜣ
+5	𓋹𓍑𓋴	550118	VERB	verb	_	_	_	_	Translit=ꜥnḫ-wḏꜣ-snb
+6	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+7	𓃀𓃀𓈖𓈖𓉸𓉐	500303	PROPN	entity-name	_	_	_	_	Translit=Ḥw.t-bnbn
+8	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+9	𓉐𓏤𓇋𓏏𓈖𓇳	856873	PROPN	entity-name	_	_	_	_	Translit=Pr-Jtn
+10	𓈖	850787	ADJ	adjective	_	_	_	_	Translit=n.j
+11	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+12	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+13	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+14	𓈌𓇋𓏏𓈖𓇳	233	PROPN	entity-name	_	_	_	_	Translit=Ꜣḫ.t-Jtn
+15	𓎕𓏛	854514	VERB	verb	Number=Plur|Gender=Fem|VerbForm=Conv	_	_	_	Translit=mḥ
+16	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+17	𓐍𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+18	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+19	𓄤𓂋𓏏	854519	VERB	verb	Number=Sing|Gender=Fem	_	_	_	Translit=nfr
+20	𓐝	64360	ADP	preposition	_	_	_	_	Translit=m
+21	𓌾𓏥	32830	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jt
+22	𓌾𓇣𓏥	58430	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=bd.t
+
+# sent_id = IBUBd18VQ3Q1X0aPndgpcMmIWOM
+# corpus = bbawamarna
+# src_text_id = FEOFN6K4GJD7BOD7AEYA6FJ4CE
+# src_text = bbawamarna:Ostwand u. Ostteil der Nordwand//Auszeichnung des Merire
+# owner = Gunnar Sperveslage
+# text_de = Zahlreich sind die Opfergaben des Aton für Aton.
+# findspot = Middle Egypt (from Kairo to Assiut)
+# date = NK
+# lineRef = [B.1]
+1	𓆈𓏥	41010	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ꜥšꜣ
+2	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+3	𓊯	854532	NOUN	substantive	Number=Sing|Status=Cons	_	_	_	Translit=ḥtp
+4	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+5	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+6	𓅮	851446	PRON	pronoun	PronType=Dem	_	_	_	Translit=pꜣ
+7	𓇋𓏏𓈖𓇳	850317	PROPN	entity-name	_	_	_	_	Translit=Jtn
+

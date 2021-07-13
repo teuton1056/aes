@@ -1,0 +1,21 @@
+# sent_id = IBUBd0dKg0bNzUSpvdYxduwZSr8
+# corpus = bbawgraeberspzt
+# src_text_id = D3YP4Y2ATJF5ZHO3RZ637XYGKA
+# src_text = bbawgraeberspzt:〈unteres Register〉//T 31: Tb 13 / Tb 121
+# owner = Doris Topmann
+# text_de = Morgendlicher Gott, gib mir den Weg frei, damit ich Re im Schönen Westen anbete.
+# findspot = Delta
+# date = TIP - Roman times
+# lineRef = [28] - [29]
+1	𓊹𓏤𓇼𓀭	851596	PROPN	entity-name	_	_	_	_	Translit=nṯr-dwꜣ.j
+2	𓁹	851809	VERB	verb	Number=Sing|VerbForm=Fin|Mood=Imp	_	_	_	Translit=jri̯
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+5	𓈐𓏏𓏤	42490	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=wꜣ.t
+6	𓇼𓀢	854584	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=dwꜣ
+7	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+8	𓇳𓏤𓊹	400015	PROPN	entity-name	_	_	_	_	Translit=Rꜥw
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓋀𓏏𓏏𓈉	26180	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jmn.tjt
+11	𓄤𓏏𓏏	854519	VERB	verb	Number=Sing|Gender=Fem|Voice=Act|VerbForm=Part	_	_	_	Translit=nfr
+

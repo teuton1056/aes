@@ -1,0 +1,26 @@
+# sent_id = IBcAVUgG8YsueExXi02EQuA2r84
+# corpus = tuebingerstelen
+# src_text_id = 4KQQKSFGJBHZ3FVL54HQVUQ2AA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 460)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 460)
+# owner = Susanne Beck
+# text_de = Der Hausvorsteher, Senebefeni, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 3
+1	𓄓𓉐𓏤	855668	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jm.j-rʾ-pr
+2	𓋴𓈖𓃀𓆑𓈖𓀀	706903	PROPN	entity-name	_	_	_	_	Translit=Snb⸗f-n⸗j
+3	𓐙𓊤	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBcAVRxJb39Al0Z9mmD72sZjgBw
+# corpus = tuebingerstelen
+# src_text_id = 4KQQKSFGJBHZ3FVL54HQVUQ2AA
+# src_text = tuebingerstelen:Stele des It (Äg. Slg. Tübingen Inv. Nr. 460)//Stele des It (Äg. Slg. Tübingen Inv. Nr. 460)
+# owner = Susanne Beck
+# text_de = Die Herrin des Hauses, Nebiunet, gerechtfertigt.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = 3
+1	𓎟𓏏𓉐	82090	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=nb.t-pr
+2	𓎟𓉺𓈖𓏏𓊖	703139	PROPN	entity-name	_	_	_	_	Translit=Nb.t-Jwn.t
+3	𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+

@@ -1,0 +1,212 @@
+# sent_id = IBUBdwSOCMXRK0dJgx8qQ5AcwL0
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May the great ones of Busiris and the courtiers who are in Abydos glorify him!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.5] - [A.6]
+1	𓋴𓅜	127110	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sꜣḫ
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓅨𓀭𓏥	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+4	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+5	𓊽𓂧𓊖𓅱	185980	PROPN	entity-name	_	_	_	_	Translit=Ḏd.w
+6	𓍲𓏌𓏏𓀭𓏪	155980	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=šnw.t
+7	𓏶𓏏	25130	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=jm.j
+8	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBdzW4tb4eb0RtlbvJ67pjpME
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May those who are in the nome of Abydos, the priests of the great god, exalt him!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.6] - [A.7]
+1	𓋴𓀠	145960	VERB	verb	Voice=Act|VerbForm=Fin|Mood=Ind	_	_	_	Translit=sqꜣi̯
+2	𓇓𓅱	129490	PRON	pronoun	PronType=Prs	_	_	_	Translit=sw
+3	𓏶𓅱	25120	NOUN	substantive	Number=Plur|Status=Cons	_	_	_	Translit=jm.j
+4	𓋅	550364	PROPN	entity-name	_	_	_	_	Translit=Tꜣ-wr
+5	𓀆𓅱𓀀𓏥	44460	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wꜥb
+6	𓈖	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+7	𓊹𓉻	90360	_	epitheton-title	_	_	_	_	Translit=nṯr-ꜥꜣ
+
+# sent_id = IBUBd0TowXzWP0SZoSzEQwzVWOA
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = May "Welcome!" be said to him by the great ones of Abydos!
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.7] - [A.8]
+1	𓆓𓂧𓏏	185810	VERB	verb	Voice=Pass|VerbForm=Fin|Mood=Ind	_	_	_	Translit=ḏd
+2	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+3	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+4	𓇍𓅱	21930	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=jwi̯
+5	𓅓𓊵𓏏𓊪	_	X	unknown	_	_	_	_	_
+6	𓇋𓈖	26660	ADP	preposition	_	_	_	_	Translit=jn
+7	𓅨𓅱𓀭𓏪	47280	NOUN	substantive	Number=Plur|Status=Abs	_	_	_	Translit=wr
+8	𓏌𓏤	850787	ADJ	adjective	Number=Plur|Gender=Masc	_	_	_	Translit=n.j
+9	𓍋𓃀𓈋𓊖	103	PROPN	entity-name	_	_	_	_	Translit=Ꜣbḏ.w
+
+# sent_id = IBUBd0egG9aECk72uAexQGCHW90
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = One well-provided, overseer of the police Beb, who says:
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.8]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓅓𓂋𓏤𓍲𓈖𓂝𓅱𓍁𓂻	72430	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-šnꜥ.w
+3	𓃀𓃀	_	X	unknown	_	_	_	_	_
+4	𓆓𓂧	185810	VERB	verb	Number=Sing|Gender=Masc|Voice=Act|VerbForm=Part	_	_	_	Translit=ḏd
+
+# sent_id = IBUBd37jxUCW10H7p2JWbRAV3Xs
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = I made for him a testament greater than that which my father had made,
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.11]
+1	𓁹𓈖	851809	VERB	verb	Voice=Act|Aspect=Perf|VerbForm=Fin|Mood=Ind	_	_	_	Translit=jri̯
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓏶𓏏𓉐	854489	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jm.jt-pr
+6	𓅓𓇉𓅱	65090	ADP	preposition	_	_	_	_	Translit=m-ḥꜣ.w
+7	𓁹𓏏𓈖	851809	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=jri̯
+8	𓇋𓏏𓆑	32820	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=jtj
+9	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+
+# sent_id = IBUBd2EY18TLCkX1rimOHmQLaeU
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = my house having been established on its ground-plan,  my field being in its place,  with nothing of it missing,  all things being in their respective place.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [A.11] - [A.12]
+1	𓉐𓏤	60220	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=pr
+2	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+3	𓍅𓏛	854571	VERB	verb	Number=Sing|Gender=Masc|VerbForm=Conv	_	_	_	Translit=grg
+4	𓁷𓏤	107520	ADP	preposition	_	_	_	_	Translit=ḥr
+5	𓍰𓏏𓏏𓈘	138580	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=snṯ.t
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓇏	141480	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=sḫ.t
+8	𓀀	10030	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗j
+9	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+10	𓊨	854540	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=s.t
+11	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+12	𓂜𓈖	851961	PART	particle	_	_	_	_	Translit=nn
+13	𓏏𓈙𓏏𓂻	173490	VERB	verb	_	_	_	_	Translit=tši̯
+14	𓋴	10090	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗s
+15	𓇋𓈙𓏏𓏛𓏥	30750	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=jḫ.t
+16	𓎟𓏏	81660	ADJ	adjective	Number=Sing|Gender=Fem	_	_	_	Translit=nb
+17	𓅓	64360	ADP	preposition	_	_	_	_	Translit=m
+18	𓊨𓏏𓉐	854540	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=s.t
+19	𓇋𓂋	851428	ADJ	adjective	_	_	_	_	Translit=jr.j
+
+# sent_id = IBUBdzT4KrtPfkhYi48kW94VDHI
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The dignified Beb, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.1]
+1	𓄪𓐍	25090	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=jmꜣḫ.w
+2	𓃀𓃀	_	X	unknown	_	_	_	_	_
+3	𓌳𓐙𓊤𓅱	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd1IfxWt6RkaIlUHWIF37DTI
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved and praised wife Renefankh, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.2]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓎿𓇋𓇋𓏏	109620	VERB	verb	Number=Sing|Gender=Fem|Voice=Pass|VerbForm=Part	_	_	_	Translit=ḥzi̯
+6	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+7	𓂋𓈖𓆑𓋹𓈖𓐍	400528	PROPN	entity-name	_	_	_	_	Translit=Rn⸗f-ꜥnḫ.w
+8	𓌳𓐙𓏏𓊤𓅱	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
+# sent_id = IBUBd2TkUf0irkXpkekfoqKHXD4
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = Der Aufwärter Minhotep: "For your kas, (my) lord!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [B.3]
+1	𓏊	51600	_	epitheton-title	_	_	_	_	Translit=wdp.w
+2	𓋉𓏤𓊵𓏏𓊪	702039	PROPN	entity-name	_	_	_	_	Translit=Mnw-ḥtp.w
+3	𓂜	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓂓𓏥	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+5	𓎢	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBd2rdBWaTYEDvotfbirtzy1w
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = The servant Djedjet: "For your kas, lord!"
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.1]
+1	𓂝𓈎𓇋𓇋𓏏	41450	NOUN	substantive	Number=Sing|Status=Abs|Gender=Fem	_	_	_	Translit=ꜥq.yt
+2	𓂠𓂠𓏏	709621	PROPN	entity-name	_	_	_	_	Translit=Dd.t
+3	𓈖	78870	ADP	preposition	_	_	_	_	Translit=n
+4	𓂓𓏥	162870	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=kꜣ
+5	𓎡	10110	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗k
+6	𓎟𓏤	81650	NOUN	substantive	Number=Sing|Status=Abs|Gender=Masc	_	_	_	Translit=nb
+
+# sent_id = IBUBdwbcyxTXkk4VkJO03yunFPE
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved son, the general Djedjusebek, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.2]
+1	𓅭	125510	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=zꜣ
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓇋𓇋	72470	VERB	verb	Number=Sing|Gender=Masc|Voice=Pass|VerbForm=Part	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓅓𓂋𓀎	400043	_	epitheton-title	_	_	_	_	Translit=jm.j-rʾ-mšꜥ
+6	𓆍𓂠𓂠𓅱	400376	PROPN	entity-name	_	_	_	_	Translit=Dd.w-Sbk
+7	𓌴𓐙𓂝𓊤𓅱	66750	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ-ḫrw
+
+# sent_id = IBUBd97FRjYBskRXmKJ4SCQQZc0
+# corpus = sawlit
+# src_text_id = 4LKJHRIAP5EJ3MBV2G24A5ZWUY
+# src_text = sawlit:Stele des Beb (Leiden V 88 ⸗ AP 13)//〈Stele des Beb (Leiden V 88 ⸗ AP 13)〉
+# owner = Renata & Peter Landgrafova & Dils
+# text_de = His beloved wife Iuntet, justified.
+# findspot = Upper Egypt (South of Assiut)
+# date = MK & SIP
+# lineRef = [C.3]
+1	𓈟𓏏	104730	NOUN	substantive	Number=Sing|Status=Pron	_	_	_	Translit=ḥm.t
+2	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+3	𓌻𓂋𓏏	72470	VERB	verb	Number=Sing|Gender=Fem|VerbForm=Fin	_	_	_	Translit=mri̯
+4	𓆑	10050	PRON	pronoun	PronType=Prs	_	_	_	Translit=⸗f
+5	𓉺𓈖𓏏𓏏	702908	PROPN	entity-name	_	_	_	_	Translit=Jwn.tt
+6	𓌴𓐙𓏏𓊤	400178	NOUN	substantive	Number=Sing|Status=Abs	_	_	_	Translit=mꜣꜥ.t-ḫrw
+
